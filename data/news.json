@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-16T18:43:19.254Z",
-  "count": 84,
+  "updatedAt": "2026-09-16T18:56:40.318Z",
+  "count": 98,
   "articles": [
+    {
+      "id": "8b501060e6bc44df",
+      "title": "25 years of Modi: The making of a political force | India News",
+      "summary": "On October 7, he will complete 25 years in public service – of which he’s spent 4,495 days as India’s longest continuously-serving elected prime minister | India News",
+      "category": "Politics & Government",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/16/1600x900/logo/Narendra-Modi-took-oath-as-chief-minister-of-Gujar_1789584071760_NY9v.jpg",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/25-years-of-modi-the-making-of-a-political-force-101789583959262.html",
+      "publishedAt": "2026-09-16T18:39:18.000Z",
+      "fetchedAt": "2026-09-16T18:56:28.046Z"
+    },
     {
       "id": "3cb6fa09970f2586",
       "title": "Hockey India dismisses Pakistan's request for Asian Champions Trophy venue change",
@@ -36,6 +47,17 @@
       "fetchedAt": "2026-09-16T18:24:02.316Z"
     },
     {
+      "id": "9202f9bfae0b36c7",
+      "title": "Adidas cuts jobs in India technology team By Investing.com",
+      "summary": "Adidas cuts jobs in India technology team By Investing.com. This update was reported by Investing.com Nigeria. Open the original report for full context and any developing updates.",
+      "category": "Technology",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "Investing.com Nigeria",
+      "sourceUrl": "https://ng.investing.com/news/stock-market-news/adidas-cuts-jobs-in-india-technology-team-93CH-2698704",
+      "publishedAt": "2026-09-16T18:00:06.000Z",
+      "fetchedAt": "2026-09-16T18:56:37.067Z"
+    },
+    {
       "id": "c276fc068b49e690",
       "title": "Nashik city police crackdown on externed criminals",
       "summary": "The Nashik city police have begun tracing externed criminals who haven’t left the city despite orders to do so. Before Ganeshotsav, police had externed 408 criminals from the city from Sept 13 to 26 to ensure that any untoward incident is prevented.",
@@ -67,6 +89,17 @@
       "sourceUrl": "https://www.thehindu.com/news/national/oman-pitches-new-port-that-could-give-india-better-access-to-gulf-energy/article71473404.ece",
       "publishedAt": "2026-09-16T17:18:21.000Z",
       "fetchedAt": "2026-09-16T18:43:17.926Z"
+    },
+    {
+      "id": "8dc0ba04a61bf115",
+      "title": "Team India News: Naman Dhir, Auqib Nabi Earn Maiden National Call As ODI Squad For West Indies Series Announced",
+      "summary": "The ODI series against the West Indies will start from September 27 in Thiruvananthapuram, while the T20 series will start from Lucknow from October 6.",
+      "category": "Sports",
+      "image": "https://imgs.etvbharat.com/etvbharat/prod-images/16-09-2026/1200-675-27649278-562-27649278-1789578838446.jpg",
+      "source": "ETV Bharat",
+      "sourceUrl": "https://www.etvbharat.com/amp/en/sports/team-india-news-naman-dhir-auqib-nabi-earn-maiden-national-call-as-odi-squad-for-west-indies-series-announced-enn26091606965",
+      "publishedAt": "2026-09-16T17:14:43.000Z",
+      "fetchedAt": "2026-09-16T18:56:31.002Z"
     },
     {
       "id": "c4d6abc1a07c54b3",
@@ -122,6 +155,28 @@
       "sourceUrl": "https://sportstar.thehindu.com/other-sports/indian-sports-wrap-september-16-wednesday-news-results-highlights-updates-summary/article71473762.ece/amp/",
       "publishedAt": "2026-09-16T16:36:39.000Z",
       "fetchedAt": "2026-09-16T18:43:07.687Z"
+    },
+    {
+      "id": "c79422e7f9f2d73e",
+      "title": "Adidas To Cut 300-350 Jobs At Gurugram Technology Hub",
+      "summary": "Software engineers, data scientists, and data engineers are among the roles affected at Adidas’s 700-member India Technology HubAdidas has begun cutting jobs at its India Technology Hub in Gurugram, with around 300 to 350 employees expected to be affected, according to media reports citing sources…",
+      "category": "Technology",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "source": "TradingView",
+      "sourceUrl": "https://www.tradingview.com/news/moodys:2170435362157:0-adidas-to-cut-300-350-jobs-at-gurugram-technology-hub/",
+      "publishedAt": "2026-09-16T16:31:41.000Z",
+      "fetchedAt": "2026-09-16T18:56:36.700Z"
+    },
+    {
+      "id": "4388cd5cec8550e1",
+      "title": "Senior CBI officer Seema Pahuja takes over high profile Disha Salian murder investigation",
+      "summary": "CBI officer Seema Pahuja takes charge of the fresh Disha Salian death investigation in Mumbai following a Bombay High Court order.",
+      "category": "Crime & Breaking News",
+      "image": "https://img.prameyanews.com/FilesUpload/News7/Posts/2026/9/16/1789555969_1789555600_32.webp",
+      "source": "prameyanews.com",
+      "sourceUrl": "https://www.prameyanews.com/cbi-seema-pahuja-disha-salian-probe",
+      "publishedAt": "2026-09-16T16:30:00.000Z",
+      "fetchedAt": "2026-09-16T18:56:29.782Z"
     },
     {
       "id": "a94ac6dba8ce8119",
@@ -359,9 +414,9 @@
       "title": "Student Protests, Modi, and Rahul Gandhi: Jairam Ramesh on India’s Political Mood",
       "summary": "Student Protests, Modi, and Rahul Gandhi: Jairam Ramesh on India’s Political Mood. This update was reported by Frontline Magazine. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
       "category": "Politics & Government",
-      "image": "",
+      "image": "https://fl-i.thgim.com/public/incoming/u46x9u/article71466409.ece/alternates/LANDSCAPE_1200/Jairam%20Ramesh.jpg",
       "source": "Frontline Magazine",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdzBCbzBtUTFnbThpdTg4OXRKdkVzdmJsSFNaVzloN2w5Yk1zWGpXa0Z1UnJZVmUwNEFha0t4c0JIWDhtaDNSanV6RUtRQlJkeEN6LXFMZElpcklfOTBjWVgxLURVbEE2RXFNMDVwaTBTVldMT1RaR3JXcXdNRWtkR3dOclRTNWpRR1hENDBjQm5CLU5PSDAyUDNSelg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "sourceUrl": "https://frontline.thehindu.com/interviews/jairam-ramesh-india-political-mood/article71466410.ece",
       "publishedAt": "2026-09-16T14:29:20.000Z",
       "fetchedAt": "2026-09-16T17:47:12.373Z"
     },
@@ -370,9 +425,9 @@
       "title": "PM chairs Semiconductor Roundtable with leading CEOs",
       "summary": "PM chairs Semiconductor Roundtable with leading CEOs. This update was reported by PM India. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
       "category": "Technology",
-      "image": "",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
       "source": "PM India",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbW45cmFKeFlCMzd3MVJCLWEweEI3M3RsMTN6UlhqdDJoN1FyZWRmbTNyb2J5TjRlOXJRWFFFMzZ4NV9XMDktM1NzVUlXbERYLVk0U3R6b3gtdkVCZy1pQ0g4YmZ6RmFUTGt3RVlKOTRYQ05uNFhKeFlxbUQtLUVlRk9nRThRaXRSWFhEU054NkdZUVNOY2F5ZWpXOVNtNHZIVjRuRmwwQ0ZLMG1hOExTbXRR?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "sourceUrl": "https://www.pmindia.gov.in/en/news_updates/pm-chairs-semiconductor-roundtable-with-leading-ceos/?comment=disable",
       "publishedAt": "2026-09-16T14:23:56.000Z",
       "fetchedAt": "2026-09-16T17:50:45.305Z"
     },
@@ -381,9 +436,9 @@
       "title": "Capital India To Offer NCDs Worth Up To 1 Billion Rupees Via Private Placement",
       "summary": "Capital India To Offer NCDs Worth Up To 1 Billion Rupees Via Private Placement. This update was reported by sahi.com. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
       "category": "Business & Finance",
-      "image": "",
+      "image": "https://www.sahi.com/assets/uploads/2124_PE_1_CORPORATE_16_09_2026_16x9_61db663aa5.jpg",
       "source": "sahi.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWFlpRlJCVGVpY0JKSGd6V0o5a01mOFprYlpFc0E5QnR3d0N1UWd5NmgxNk41bzFzcFlvOHVTdlgwUC1OejRXS0dUWFJFWjFFMFFvR0toamxnVk82Y1lMVE5NbWdVRkpBVlNmOFNUcksyZTQ0LTlCYkxhVXU5S0tXbWVxbzJGaWZOampKN0pBQi1TdktjaWdKZFB4VVdhVjFSZE1CbTRIWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "sourceUrl": "https://www.sahi.com/news/capital-india-to-offer-ncds-worth-up-to-1-billion-rupees-via-private-placement",
       "publishedAt": "2026-09-16T14:18:29.000Z",
       "fetchedAt": "2026-09-16T18:03:31.256Z"
     },
@@ -392,9 +447,9 @@
       "title": "‘Scam dramedy’ Waiting Hai turns India’s Tatkal chaos into a crime caper",
       "summary": "‘Scam dramedy’ Waiting Hai turns India’s Tatkal chaos into a crime caper. This update was reported by ThePrint. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
       "category": "Entertainment",
-      "image": "",
+      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/09/waiting-hai-.jpg",
       "source": "ThePrint",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNXdycTltUExXek1sTmtrVUtxVVlYRXp6QXJZS0xtVnRtaFJWREgwbXJ4dEYtb0dwb1FPVTVlaDlDMXZ2Rjc1WHZiRXdjWXJuSFoxeEd3dmxIUHRKS0Fmc2RvYkx1RHNTdW9iRDVMU0FZLXN0S1VlOTdRQzhoZFBKZF9iRGpvOU9HczNlT3F0MU9WcUI1WU54b3dqZ1RMTGV2RHFlaVE4OHBxWl9VTFc4U2NR0gG3AUFVX3lxTFBXYVMyYVhCZjNQN1NRUG00bk5YTmdIQU1iZWw3Ri1iSktNU3pnUnVFLWxvTlFQbUZqa1ktTFQ4ZmNYR3NBc3NIMGxUVU51WmJ3dUxtbnJlTHZrWXRsSDlSNTdPNnJzclJrSzRhd2twcm94RG5jRG91QjZQUG54aFZaOE1lbTdtNURZU0tMc1lBZ1ZhOE53X0FkMHQ0MU5JeVNFVXZmdzN0RVV1TjdHRmcwY2RXZG10OA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "sourceUrl": "https://theprint.in/entertainment/scam-dramedy-waiting-hai-turns-indias-tatkal-chaos-into-a-crime-caper/3044695/",
       "publishedAt": "2026-09-16T13:56:59.000Z",
       "fetchedAt": "2026-09-16T17:50:44.649Z"
     },
@@ -414,9 +469,9 @@
       "title": "Ramoji Film City's Edge Lies In Transparency, Trust And Efficiency: Ch. Kiron And Ch. Vijayeswari At TIFF",
       "summary": "Ramoji Film City's Edge Lies In Transparency, Trust And Efficiency: Ch. Kiron And Ch. Vijayeswari At TIFF. This update was reported by ETV Bharat. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
       "category": "Entertainment",
-      "image": "",
+      "image": "https://imgs.etvbharat.com/etvbharat/prod-images/16-09-2026/1200-675-27647648-681-27647648-1789564517439.jpg",
       "source": "ETV Bharat",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQcC01T0NuRjhXUVl1LTFaVndyYnQ0VWJtMlVLb3FVV2o2enpFbGE4NUlJdkZPLW9aM0pWaEIxRUQ1M1RtV0VCNXdVSEFWMFBBNGZlZjlubWtDN1ZwVGNOekozckk5TTNlOEZYSVdxQ2xBczVoaGkzN2ZfMmZBcGRCbDZ4c0F5TW9tU0JvbUxLcFI0d2RfUjNyQUJfR1owS3NsZlZCa2dWUVdzUnRfNkZfdVdPUDVpZ0FoNEU5Zy1Dc2I2Y0Q0RHBheHZ4QnliUUJ3ZHdaQzNfTmV2cVp5TjRGc1Z2X2hEVnBYbXRhazY4eG1rdDZm0gH0AUFVX3lxTFBwLTVPQ25GOFdRWXUtMVpWd3JidDRVYm0yVUtvcVVXajZ6ekVsYTg1SUl2Rk8tb1ozSlZoQjFFRDUzVG1XRUI1d1VIQVYwUEE0ZmVmOW5ta0M3VnBUY056SjNySTlNM2U4RlhJV3FDbEFzNWhoaTM3Zl8yZkFwZEJsNnhzQXlNb21TQm9tTEtwUjR3ZF9SM3JBQl9HWjBLc2xmVkJrZ1ZRV3NSdF82Rl91V09QNWlnQWg0RTlnLUNzYjZjRDREcGF4dnhCeWJRQndkd1pDM19OZXZxWnlONEZzVnZfaERWcFhtdGFrNjh4bWt0NmY?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "sourceUrl": "https://www.etvbharat.com/amp/en/entertainment/ramoji-film-citys-edge-lies-in-transparency-trust-and-efficiency-ch-kiron-and-ch-vijayeswari-at-tiff-enn26091605335",
       "publishedAt": "2026-09-16T13:34:24.000Z",
       "fetchedAt": "2026-09-16T17:47:15.663Z"
     },
@@ -425,9 +480,9 @@
       "title": "Prepare profiles of criminals: SSP to cops",
       "summary": "Prepare profiles of criminals: SSP to cops. This update was reported by The Times of India. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
       "category": "Crime & Breaking News",
-      "image": "",
+      "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
       "source": "The Times of India",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY1RvNEhtME13MjJDeUVWbHFmYXJuQl9xSDZlSWlwdW5nSnBPelY3d1ZJSEJkS3RBbUlqMFp3eE1YRTIwOWpZd1RpUlpQYXlRd3NTMDMzRHBZdTExVmtNeEFtTmJ1TDZheFhQWXhiTjJjeWxxQ1RpcDJyeUhaWHVyLUJGd2MzelQ5cnNXei1md1M3c0hCeEhBd09xYXFLeDdvRWNoZ3UweHVaSFd6XzFQWWxjaFQxZ9IBuwFBVV95cUxPMnMwc0o1YmlRM2xLcnY5YUw4OHBJM3ozVEpsLWtHOTZaN1BSQ1FRUmZXUllpcWNaX1VrNWpVX3AxOEtVeUhDRE5Lc0ZyZE1leXppcWZkQXNoSkt0TXNaYXJtbS10UkhFbXhkWWx1UjJMaVdrU1I1d1VxS2s2QUFObVBzcU14SDhka2p3bDN4N0tteUZ1R2ktam9FOUpGc05wM1VmTUlPNEpWNlFtejJfb3RoT3JpUFM1OGRB?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/ranchi/prepare-profiles-of-criminals-ssp-to-cops/articleshow/134289188.cms",
       "publishedAt": "2026-09-16T13:23:00.000Z",
       "fetchedAt": "2026-09-16T17:47:13.367Z"
     },
@@ -458,9 +513,9 @@
       "title": "3rd Edition of Digitalisation, AI, Automation and Technology Integration in Mining and Metals",
       "summary": "3rd Edition of Digitalisation, AI, Automation and Technology Integration in Mining and Metals. This update was reported by kpmg.com. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
       "category": "Technology",
-      "image": "",
+      "image": "https://assets.kpmg.com/is/image/kpmgcloud/3rd-edition-of-digitalisation-ai-automation-and-technology-integration-in-mining-and-metals-thumbnail",
       "source": "kpmg.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdXRvT1lSaDFlWVhwZFo2WWNfaFlYakpmZGJKSGJhcU9Kb2luaDZNcDFvRjRZZkpEd2g0WGMzTnJEblZDd0FSV2VJODZVMU9nM3B5aHhuSTFWSXlsOUExOURnTUF2czNiMmJFYk4wcG1hMGs5UmI5TzZIWGhMSkNnQ1ZZdXdqcFlSSlFLdkVyUTRDVUtrYng5cXB2OFl3T3hPVjJkRjRndkhGTVh3ODYteW8zRkE0M1Zna05ybUczTkU2TWhjb0xscnVCc3AtUFU?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "sourceUrl": "https://kpmg.com/in/en/events/2026/09/3rd-edition-of-digitalisation-ai-automation-and-technology-integration-in-mining-and-metals.html",
       "publishedAt": "2026-09-16T13:02:45.000Z",
       "fetchedAt": "2026-09-16T17:50:45.388Z"
     },
@@ -469,9 +524,9 @@
       "title": "MSME-focused lender UGRO Capital raises Rs 380 crore via NCDs from Dutch development bank FMO",
       "summary": "MSME-focused lender UGRO Capital raises Rs 380 crore via NCDs from Dutch development bank FMO. This update was reported by Indian Startup News. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
       "category": "Business & Finance",
-      "image": "",
+      "image": "https://img-cdn.publive.online/fit-in/1200x675/indianstartupnews/media/media_files/7DnSbLAwZoRHegqdx0WE.jpg",
       "source": "Indian Startup News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPV2xjcXFPMmdEUl9PMEJQcGVsSjR0N093OVhsX0Z4Mlk2UXJuZjhHX21RVFBDbkpfdmxFaFROakRaRnRlZzl3Nnh1NXpGT2prV1pOZWdheDgtRXhlX2wteUdmUEJQdVRVR2JXNE5sZVhDLUl0Ny1UNW83MU8zbEFkenV2M1czRmZWVWVfZ3FvRlplOTlHV1lGeWY2V3B3c0s4LXkzYWgtbFkxNlFsTlVZUFZNa1NaQ2IycDBRUVhBVkZHa00tS1NZRnlTdHN4NVhLY29n0gHTAUFVX3lxTE9XbGNxcU8yZ0RSX08wQlBwZWxKNHQ3T3c5WGxfRngyWTZRcm5mOEdfbVFUUENuSl92bEVoVE5qRFpGdGVnOXc2eHU1ekZPamtXWk5lZ2F4OC1FeGVfbC15R2ZQQlB1VFVHYlc0TmxlWEMtSXQ3LVQ1bzcxTzNsQWR6dXYzVzNGZlZVZV9ncW9GWmU5OUdXWUZ5ZjZXcHdzSzgteTNhaC1sWTE2UWxOVVlQVk1rU1pDYjJwMFFRWEFWRkdrTS1LU1lGeVN0c3g1WEtjb2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "sourceUrl": "https://indianstartupnews.com/news/msme-focused-lender-ugro-capital-raises-rs-380-crore-via-ncds-from-dutch-development-bank-fmo-12541335",
       "publishedAt": "2026-09-16T12:51:43.000Z",
       "fetchedAt": "2026-09-16T18:24:01.771Z"
     },
@@ -480,9 +535,9 @@
       "title": "Finance Ministry Clarifies UPI MDR Policy, Denies Foreign Pressure",
       "summary": "Finance Ministry Clarifies UPI MDR Policy, Denies Foreign Pressure. This update was reported by Rediff. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
       "category": "Business & Finance",
-      "image": "",
+      "image": "https://im.rediff.com/worldrediff/pix/rediff_icon_red.png",
       "source": "Rediff",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRHB1OV8zMnJsRVA0VVIwZHpkcU9PUG8ycVJ5T0Q3S1pKSUQ4TzRHRFp0S1dqT3AwaVlpU2VQdldoRnVWQTJQQktOMVMwM05yLWxrREQ5TWxKMGhqZ1UyRElzSWpVTGhZSmJDQmJ0LWV3bnJvaFJaU3VUekdZejRtSl9kb1dnTzBTR245dC1JSTItX0VWaWt3RXdWSXJjS2ZzazladzY1TTZPRHBDb0Fj0gGyAUFVX3lxTE14MEl3aVh1Sm5na3lKNXlaajhvczRuMUE3VlJiYkZQc1VZM0c0NnBvT2JwT3lic3dYelJiVWpZTzlITWxBZG1wNFJabTlrUlZHVFhSa0pEakhGX2Z5N3RRVEN0eWlNbVRhRExVV1lKTmNOb1owTndWRnpWeUlVaks3LVR1SDhpdnlBck5JYlpzdFo3S3ZUSlZoREFyTUMzREdNU0QzM2VfRldOLW5GZmVpakE?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "sourceUrl": "https://www.rediff.com/business/report/finance-ministry-clarifies-no-foreign-influence-on-upi-mdr/20260916.htm",
       "publishedAt": "2026-09-16T12:48:44.000Z",
       "fetchedAt": "2026-09-16T17:50:45.895Z"
     },
@@ -513,11 +568,22 @@
       "title": "UPI MDR fee: Govt refuses to back down despite Opposition pressure; matter reaches SC",
       "summary": "UPI MDR fee: Govt refuses to back down despite Opposition pressure; matter reaches SC. This update was reported by theweek.in. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
       "category": "Politics & Government",
-      "image": "",
+      "image": "https://img.theweek.in/content/dam/week/en/archive/news/india/images/2026/9/16/upi-controversy-sopy.jpg",
       "source": "theweek.in",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQanVFYmVGTUNxSFc2MGt4VXVLNERTMWtvUDA2WnlMRG5wSF9MbTZFZjVuUEdYZ2VRNjNWdXJmMkJuekk4emx4dGNiWU5aMXU1S19WZGRqNGl0VVM0UVN5WGpQSlh5V0RqWGlhZnR3QU5sT2ZqZDVsUjMzN2dDVkJRZjdNTTBuY0NCdjN0TXN5VWZNNTVLeGVtdkZ5S2FpS0l2NF9QMG5ZUjV4ZVNwWG13QldTZm9sOTlwNFJZOWRKTnBlWksxOXBsZlZIbXU3d9IB0wFBVV95cUxQaHFkQjF6OFA3RjBfOHZQa29HN0ZTeHZRYXhjYXNWUjdqLVNfTkNydGlPLXEzbzNDSmh3QTVWZTYyMzgyVVRmd08zR0Q4RFo0RjRnOWp2NG1YVHlEOGRCZmJkSW42bDJsaExiLTh1YTFVWDlCYjh6TkU1MGFpamFhYm9TTGZqNGYySVJUakkyREM5MjRjSF9lZHdRWHFUd1hKZEY3VnlkV1BPUl9kY0d5VWFiTVRIM19tSmRiNXJ5bWdBakFpU2tKb2F2a3hiUFJ6cE9j?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "sourceUrl": "https://www.theweek.in/news/india/2026/09/16/upi-mdr-fee-govt-refuses-to-back-down-despite-opposition-pressure-matter-reaches-sc.html",
       "publishedAt": "2026-09-16T12:32:23.000Z",
       "fetchedAt": "2026-09-16T18:23:58.197Z"
+    },
+    {
+      "id": "e78f025a0e68c558",
+      "title": "A NITI Aayog task force wants Formula One back in India by 2028",
+      "summary": "A NITI Aayog task force aims to revive Formula 1 in India by 2028. We unpack the 2013 exit, Adani",
+      "category": "Sports",
+      "image": "https://static.wixstatic.com/media/5f682b_b1d625314c7d4771a590b97469fce310~mv2.png/v1/fill/w_1000,h_563,al_c,q_90,usm_0.66_1.00_0.01/5f682b_b1d625314c7d4771a590b97469fce310~mv2.png",
+      "source": "DIVEBOMB Motorsport",
+      "sourceUrl": "https://www.dive-bomb.com/article/a-niti-aayog-task-force-wants-formula-one-back-in-india-by-2028",
+      "publishedAt": "2026-09-16T12:31:00.000Z",
+      "fetchedAt": "2026-09-16T18:56:34.272Z"
     },
     {
       "id": "aeb84ce5c6df10ed",
@@ -535,9 +601,9 @@
       "title": "Actor Anant Nag honoured with Dadasaheb Phalke award 2024 for 'contribution to Indian cinema'",
       "summary": "Actor Anant Nag honoured with Dadasaheb Phalke award 2024 for 'contribution to Indian cinema'. This update was reported by Deccan Herald. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
       "category": "Entertainment",
-      "image": "",
+      "image": "https://cf-images.assettype.com/deccanherald%2F2025-01-26%2F67w09xy3%2Ffile74ufrv3qx6ddtbe0b8w.jpg?rect=0%2C0%2C600%2C315&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
       "source": "Deccan Herald",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQT1UwRkx1TkRuSzZzOG51X3lxSUJUR2NkNGhlM2xWaWxzNkJDMTlxRVBzRGt4UnRiWC1lNTlKR1d3OEdtd01feTlnQk8xTS1jdUVLUVBybmtwdElrc0Z2UWdzRUhSaVFHX1Y5ZWtXUnZuZW1JUC1aQ20xWWZXb3NWTXBDUllCZ2E1MXNhNUpsLVBUYklTVThCU3A2TnNNYU51RVRBcEcxZE1sd3NiWDRIc0JmQmJlbTZUNFl5cEVUNUQzOTU4RTdsNlBmb01IVDlkdVFlb19mU2ZUeXRrdEQxeEZxalQtTXExT3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "sourceUrl": "https://www.deccanherald.com/amp/story/entertainment/actor-anant-nag-honoured-with-dadasaheb-phalke-award-2024-for-contribution-to-indian-cinema-4148234",
       "publishedAt": "2026-09-16T12:27:00.000Z",
       "fetchedAt": "2026-09-16T18:03:29.985Z"
     },
@@ -546,9 +612,9 @@
       "title": "World Bank raises India’s growth forecast from 6.3 to 6.6 percent for current financial year",
       "summary": "World Bank raises India’s growth forecast from 6.3 to 6.6 percent for current financial year. This update was reported by News On AIR. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
       "category": "Business & Finance",
-      "image": "",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EBusiness%20%26amp%3B%20Finance%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
       "source": "News On AIR",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTzJsaXdFWEo5UmtPT2tCT25pWkplN0NwYy1iWVlnUWlaal8yb0FURUpjeXJoS0JFR2pxT0FpdnZ4UHM5ZE13a05ueE9fMFQ4dUlUUzJGelJBZGRRRDViZFBJS0NvSkg0YlZ2N0pZUmdGMi1fSlliakpBVXlVcFVxdHJJSkpEMEdOdGFNcGdqaUExVEc5OXhkdlVsbEZhNGpaOWczT2tTaVc2T3ktX3A5S2lWYllkX3F6?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "sourceUrl": "https://newsonair.gov.in/world-bank-raises-indias-growth-forecast-from-6-3-to-6-6-percent-for-current-financial-year/",
       "publishedAt": "2026-09-16T12:21:33.000Z",
       "fetchedAt": "2026-09-16T17:47:17.646Z"
     },
@@ -608,6 +674,17 @@
       "fetchedAt": "2026-09-16T18:03:27.731Z"
     },
     {
+      "id": "fc327fe70c190c1e",
+      "title": "Finance Ministry debunks 'external pressure' claims, says decisions for UPI made independently",
+      "summary": "The Ministry firmly denied allegations that foreign actors shaped the recent policy decisions regarding merchant charges on high-value digital transactions",
+      "category": "Business & Finance",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260916100445_UPI-MDR-representative-image.png",
+      "source": "Moneycontrol.com",
+      "sourceUrl": "https://www.moneycontrol.com/news/business/finance-ministry-debunks-external-pressure-claims-says-decisions-for-upi-made-independently-14031124.html",
+      "publishedAt": "2026-09-16T11:54:22.000Z",
+      "fetchedAt": "2026-09-16T18:56:38.430Z"
+    },
+    {
       "id": "f400857e546b206b",
       "title": "NCPCR summons Meta India head for third time in CSEAM ads case; Vaishnaw questions platform’s intermediary status",
       "summary": "NCPCR summons Meta India head for third time in CSEAM ads case; Vaishnaw questions platform’s intermediary status. This update was reported by Storyboard18. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
@@ -639,6 +716,17 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPR09kLXo4UDQxaEdlTGFLR290cFZPR0NtV0kyMFJPQXBPa2NDQVRtQ1hzTE51YlZXOUVmR0xNN2lId0hYQWpnUUVwRE1vQlY2UDRycUNmZXE4M25lanFwRW1UNDhuTm01Rm5JTzRRb045RjlDOUc0M1dmNnlqOEo2MXQ4QnVWOUQwY2RteG54QTZrUFVJYlhYSFd6bWk3RmJ6RVNNU3JsT2c5amxsTjVQdFRjR0VoUGVwQmY0NW9zbm9IRUZTMkdLSGE4cGlBampEQjBIWXdQWFdIVHFhUzJqaEg2QlFGN1dRcE91NHlTRWk0cVFRVm96d0RnNGxyLXNiQ3VsbWRzNzZ5T3lZSzdSX2RUZU9fTmk5OVNj?oc=5&hl=en-US&gl=US&ceid=US:en",
       "publishedAt": "2026-09-16T11:40:49.000Z",
       "fetchedAt": "2026-09-16T17:47:18.622Z"
+    },
+    {
+      "id": "d054d3c7ff74baa1",
+      "title": "'Meta has admitted mistake, must remove child abuse content': Govt sources say firm has no immunity",
+      "summary": "Meta has admitted to a mistake and will immediately inform authorities about material related to child sexual abuse.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134286645,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/meta-has-admitted-mistake-must-remove-child-abuse-content-govt-sources-say-firm-has-no-immunity/articleshow/134286605.cms",
+      "publishedAt": "2026-09-16T11:32:00.000Z",
+      "fetchedAt": "2026-09-16T18:56:30.143Z"
     },
     {
       "id": "3be4e0f4325e1e90",
@@ -773,6 +861,28 @@
       "fetchedAt": "2026-09-16T17:50:46.395Z"
     },
     {
+      "id": "dcd9ef309e9aac63",
+      "title": "FM Sitharaman calls for independent tax policy research to become part of public discourse",
+      "summary": "Union Finance Minister Nirmala Sitharaman on Wednesday called for independent research on tax policy to be brought into the public discourse, stressing that tax",
+      "category": "Business & Finance",
+      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-09-16%2F6isxxfy0%2FPTI09162026000045B.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "The New Indian Express",
+      "sourceUrl": "https://www.newindianexpress.com/business/2026/Sep/16/fm-sitharaman-calls-for-independent-tax-policy-research-to-become-part-of-public-discourse",
+      "publishedAt": "2026-09-16T08:06:34.000Z",
+      "fetchedAt": "2026-09-16T18:56:39.003Z"
+    },
+    {
+      "id": "562a5c909d1c308b",
+      "title": "Pakistan Navy vessel collides with Indian warship in Arabian Sea",
+      "summary": "MEA summons Pakistan's Charge d’Affaires over naval collision, urging adherence to military agreements to prevent future incidents.",
+      "category": "National & Trending News",
+      "image": "https://th-i.thgim.com/public/incoming/9ohi2g/article71471568.ece/alternates/LANDSCAPE_1200/DEMOLITION%20PAKISTAN%20HIGH%20COMMISSION%20DELHI%20%202026_20_08_18.jpg",
+      "source": "The Hindu",
+      "sourceUrl": "https://www.thehindu.com/news/national/india-pakistan-vessel-collision-arabian-sea-protest-lodged-september-16-2026/article71471556.ece",
+      "publishedAt": "2026-09-16T07:54:02.000Z",
+      "fetchedAt": "2026-09-16T18:56:40.317Z"
+    },
+    {
       "id": "53e6dadbf3b054e6",
       "title": "UPI: The small fee raising big questions for India's payments revolution",
       "summary": "UPI: The small fee raising big questions for India's payments revolution. This update was reported by BBC. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
@@ -839,6 +949,17 @@
       "fetchedAt": "2026-09-16T18:24:00.423Z"
     },
     {
+      "id": "f9414e63d14ea992",
+      "title": "A nation under cardiac pressure: What is really putting India’s hearts at risk?",
+      "summary": "long hours in a chair, poor sleep, chronic stress, expanding waistlines, diabetes and high blood pressure can quietly become part of everyday life long before a person thinks of themselves as a “heart patient.”",
+      "category": "National & Trending News",
+      "image": "https://static.toiimg.com/thumb/msid-134279415,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/health/a-nation-under-cardiac-pressure-what-is-really-putting-indias-hearts-at-risk/articleshow/134279318.cms",
+      "publishedAt": "2026-09-16T05:58:00.000Z",
+      "fetchedAt": "2026-09-16T18:56:39.875Z"
+    },
+    {
       "id": "83372c5963c69604",
       "title": "Preparations underway for return of F1 to India: Sports Minister Mandaviya",
       "summary": "Preparations underway for return of F1 to India: Sports Minister Mandaviya. This update was reported by DD News. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
@@ -859,6 +980,17 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdW53Z3NlTE5CanhfVXRYWjBIOWc2bE4zSWtzT25IbHpFQnZVUjhMMkRVNDhROHdoc3d3UzFpX3FwRWs2SDRXZVFoSmRkd3F2X010cUw2LXFrdnJ6XzRyXzh1ODhQNkVRaUpSS2RIT0ZfMVVpRHVZZ08yVzRubUxuTEJvTVZkTkNKNEtiN29IaU5xWlZTSEp0M3pKVktfTWdYY01mX1lRRUxFRTJHR2x2eWw4S2oyOGVLc1BhVmQ2am40eXlpZ25jYmFHbWgxTi1jNGNKRlJQMXM3eHJrSkRXdTdXMXpHWVNMeFJR0gHwAUFVX3lxTE9Gc2VIQllKWE5LcmVybW8zRTEwN05Lak9sWXh6bFkyd0IwOWhEbng5UUJBRjF1R1BUMnFVMDZLOE1za0Q0MnRxd0p0RzJObjNkSy1mMEVwUVd5dnlOU3YxQkstUzdjRmRoYnU5NGJRN1hSNllCV3BMeEp6V2ZpRnJzaE13OWJQODFDWTdMSl8wTnlxb0tkNldiNjdScndWdllYSFhwZzVtUHpCVzlDbU5ZbFhONFN6SVd5d1NkT3pyLURROHp5RWwxbmh3NG9XaEFNR0RIOHc3NEd2QUxWRmhZaEpwem9vNDE4N242N0FseQ?oc=5&hl=en-US&gl=US&ceid=US:en",
       "publishedAt": "2026-09-16T05:17:45.000Z",
       "fetchedAt": "2026-09-16T18:03:32.114Z"
+    },
+    {
+      "id": "d6236c960c09abe2",
+      "title": "Sa Re Ga Ma Pa 2026 announces Air India as title sponsor; new season to premiere on THIS date",
+      "summary": "Zee TV UK has welcomed Air India as the title sponsor of Sa Re Ga Ma Pa 2026. The new season of the reality show premieres on September 19. Read on to know more.",
+      "category": "Entertainment",
+      "image": "https://cdn1.wionews.com/prod/wion/images/2026/20260916/image-1789534933642.png?imwidth=1200&imheight=900",
+      "source": "WION",
+      "sourceUrl": "https://www.wionews.com/entertainment/sa-re-ga-ma-pa-2026-announces-air-india-as-title-sponsor-new-season-to-premiere-on-this-date-1789534322074",
+      "publishedAt": "2026-09-16T05:04:00.000Z",
+      "fetchedAt": "2026-09-16T18:56:35.400Z"
     },
     {
       "id": "347e5f8fff394e3e",
@@ -894,6 +1026,17 @@
       "fetchedAt": "2026-09-16T18:39:42.014Z"
     },
     {
+      "id": "324a381471a1ca74",
+      "title": "Vijay Sethupathi's Maharaja to be remade in Hollywood",
+      "summary": "Vijay Sethupathi's 2024 crime thriller Maharaja is all set to get a Hollywood remake. Speaking to us, one of the film's producers, Sudhan Sundaram confirmed, \"Following the success of the film in China, where the film did very well both at the box office (₹91.65cr, according to Sacnilk) and on…",
+      "category": "Entertainment",
+      "image": "https://static.toiimg.com/thumb/msid-134277232,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vijay-sethupathis-maharaja-to-be-remade-in-hollywood/articleshow/134277232.cms",
+      "publishedAt": "2026-09-16T03:31:00.000Z",
+      "fetchedAt": "2026-09-16T18:56:35.734Z"
+    },
+    {
       "id": "37849cb53de42074",
       "title": "Hanuman Ansh box office collection Day 40: Shobhinaw Satyaa starrer continues strong run, net India collectio",
       "summary": "Hanuman Ansh continues its strong theatrical run in its sixth week. The film has now added another impressive amount to its total collection on Day 40.",
@@ -914,6 +1057,17 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWVdZR0ZUQUV3eDVySlpqRUlNWG9SdGxWSndxZ1J3RFVqaHJETzd5SVFNZW9hNTNrZkwyOXFINDIxN3B3dHhaaS1zUWQycjl1NkZxVzZybjRRU29La0VVOFduRTV5cU0xRVJ3R29TNDB4cklfLTBoUDJLMzVpOElCSHFWRVg?oc=5&hl=en-US&gl=US&ceid=US:en",
       "publishedAt": "2026-09-16T01:00:33.000Z",
       "fetchedAt": "2026-09-16T17:47:17.681Z"
+    },
+    {
+      "id": "43a73824c40ab7b1",
+      "title": "A politics of the young needs to open up and include, speak to new — and old",
+      "summary": "A politics of the young needs to open up and include, speak to new — and old. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
+      "category": "Politics & Government",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EPolitics%20%26amp%3B%20Government%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "The Indian Express",
+      "sourceUrl": "https://indianexpress.com/article/opinion/columns/a-politics-of-the-young-needs-to-open-up-and-include-speak-to-new-and-old-10879588/",
+      "publishedAt": "2026-09-16T00:50:27.000Z",
+      "fetchedAt": "2026-09-16T18:56:28.391Z"
     },
     {
       "id": "70d42e45ef4ac971",
