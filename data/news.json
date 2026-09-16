@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-09-16T19:28:26.369Z",
-  "count": 126,
+  "updatedAt": "2026-09-16T19:42:39.948Z",
+  "count": 140,
   "articles": [
+    {
+      "id": "3ecbe2408f072044",
+      "title": "Crime branch recovers firearms in separate raids",
+      "summary": "Nagpur crime branch raids city and highways, seizes firearms including pistol; 3 Arms Act cases, plus Prohibition, NDPS, gambling actions and checks at 15 dhabas.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/nagpur/crime-branch-recovers-firearms-in-separate-raids/articleshow/134296137.cms",
+      "publishedAt": "2026-09-16T19:35:00.000Z",
+      "fetchedAt": "2026-09-16T19:42:25.291Z"
+    },
+    {
+      "id": "1fe62c9088d55a2b",
+      "title": "Overcoming early trauma, Suchika Tariyal eyes MMA medal for India at Asian Games 2026 in Aichi-Nagoya",
+      "summary": "Mixed Martial Arts may be making its debut at the Asian Games but Suchika represented India at 2022 Hangzhou Asian Games in kurash. A national champion, Suchika won back-to-back Asian MMA championship bronze medals in 2026.",
+      "category": "Sports",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/16/1600x900/Suchika_Tariyal_1789585679600_lZ5v_1789585679797_fcNI_e415369b-3933-4152-a999-a3216b0bc470_JhDW.jpg",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/sports/news/a-victim-of-eve-teasing-at-12-roadie-suchika-tariyal-aims-for-mma-glory-for-india-at-asian-games-2026-11789584858813.html",
+      "publishedAt": "2026-09-16T19:18:42.000Z",
+      "fetchedAt": "2026-09-16T19:42:27.078Z"
+    },
     {
       "id": "1fe62c9088d55a2b",
       "title": "A victim of eve-teasing at 12, Roadie Suchika Tariyal aims for MMA glory for India at Asian Games 2026",
@@ -113,6 +135,17 @@
       "fetchedAt": "2026-09-16T18:24:02.316Z"
     },
     {
+      "id": "9cedee86cb842fc5",
+      "title": "Rohit, Kohli in India’s ODI Squad for West Indies Series",
+      "summary": "Rohit, Kohli in India’s ODI Squad for West Indies Series. This update was reported by Deccan Chronicle. Open the original report for full context and any developing updates.",
+      "category": "Sports",
+      "image": "https://www.deccanchronicle.com/h-upload/2026/09/16/2089777-la-3082777.jpg",
+      "source": "Deccan Chronicle",
+      "sourceUrl": "https://www.deccanchronicle.com/sports/cricket/rohit-kohli-in-indias-odi-squad-for-west-indies-series-1988018",
+      "publishedAt": "2026-09-16T18:09:37.000Z",
+      "fetchedAt": "2026-09-16T19:42:26.618Z"
+    },
+    {
       "id": "f84f8ce49760e21d",
       "title": "HC quashes deportation order against Austrian national",
       "summary": "Bombay High Court quashes deportation of Austrian woman, citing lack of hearing; her visa-extension request was deleted while cheque-bounce appeal is pending.",
@@ -144,6 +177,17 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/city/nashik/nashik-city-police-crackdown-on-externed-criminals/articleshow/134294118.cms",
       "publishedAt": "2026-09-16T17:54:00.000Z",
       "fetchedAt": "2026-09-16T18:43:06.325Z"
+    },
+    {
+      "id": "61f894b657b1621f",
+      "title": "PM Modi Tops Global Popularity Rankings with 68% Approval, Says Morning Consult Survey | Akashvani News",
+      "summary": "PM Modi Tops Global Popularity Rankings with 68% Approval, Says Morning Consult Survey | Akashvani News. This update was reported by News On AIR. Open the original report for full context and any developing updates.",
+      "category": "National & Trending News",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ENational%20%26amp%3B%20Trending%20News%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "News On AIR",
+      "sourceUrl": "https://newsonair.gov.in/pm-modi-tops-global-popularity-rankings-with-68-approval-says-morning-consult-survey/",
+      "publishedAt": "2026-09-16T17:36:06.000Z",
+      "fetchedAt": "2026-09-16T19:42:39.948Z"
     },
     {
       "id": "3e9ac10dee6ca9f9",
@@ -278,6 +322,17 @@
       "fetchedAt": "2026-09-16T18:56:29.782Z"
     },
     {
+      "id": "30f87383ee0a8675",
+      "title": "India should aspire to lead in emerging technologies: PM Modi",
+      "summary": "Prime Minister Narendra Modi said India should aspire to be among early leaders in emerging technologies and called for closer government-industry collaboration to strengthen the semiconductor sector.",
+      "category": "Technology",
+      "image": "https://dailypioneer.com/uploads/2026/story/images/big/india-should-aspire-to-be-among-early-leaders-in-emerging-technologies--pm-modi-2026-09-16.jpeg",
+      "source": "Daily Pioneer",
+      "sourceUrl": "https://dailypioneer.com/news/pm-modi-india-emerging-tech-semiconductor-industry",
+      "publishedAt": "2026-09-16T16:18:00.000Z",
+      "fetchedAt": "2026-09-16T19:42:32.063Z"
+    },
+    {
       "id": "a94ac6dba8ce8119",
       "title": "MS Subbulakshmi was a pan-India superstar, says Kamal Haasan at biopic launch",
       "summary": "MS Subbulakshmi was a pan-India superstar, says Kamal Haasan at biopic launch. This update was reported by The Hindu. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
@@ -375,6 +430,17 @@
       "sourceUrl": "https://www.newslaundry.com/2026/09/16/private-players-should-not-replicate-isros-efforts-g-madhavan-nair-writes",
       "publishedAt": "2026-09-16T15:47:11.000Z",
       "fetchedAt": "2026-09-16T19:28:23.592Z"
+    },
+    {
+      "id": "3df27a3582b3732c",
+      "title": "NIELIT, Infineon launch Centre of Excellence to build industry-ready talent for India’s semiconductor push",
+      "summary": "NIELIT Infineon Centre Of Excellence: NIELIT and Infineon have inaugurated a Centre of Excellence in Semiconductor Manufacturing in India, aimed at developing a skilled workforce for the country",
+      "category": "Technology",
+      "image": "https://etimg.etb2bimg.com/thumb/msid-134291554,imgsize-60242,width-1200,height=627,overlay-etgovernment,resizemode-75/news/digital-india/nielit-infineon-launch-centre-of-excellence-to-build-industry-ready-talent-for-indias-semiconductor-push.jpg",
+      "source": "ET Government",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/news/digital-india/nielit-infineon-launch-centre-of-excellence-to-build-industry-ready-talent-for-indias-semiconductor-push/134291554",
+      "publishedAt": "2026-09-16T15:46:00.000Z",
+      "fetchedAt": "2026-09-16T19:42:30.197Z"
     },
     {
       "id": "7c7bf5e2c958a598",
@@ -729,6 +795,17 @@
       "fetchedAt": "2026-09-16T17:50:45.895Z"
     },
     {
+      "id": "f9a1eca1f4e2ab5d",
+      "title": "CJP to launch ‘Adivasi School Thik Karo’ campaign from Gadchiroli on Sep 17: Dipke",
+      "summary": "Nagpur, Sep 16 (PTI) Alleging that tribal schools in India faced government apathy for the last 80 years, Cockroach Janta Party founder Abhijeet Dipke on Wednesday announced the launch of his group’s ‘Adivasi School Thik Karo’ campaign from Gadchiroli in the state from September 17. Addressing a press conference here,…",
+      "category": "Politics & Government",
+      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
+      "source": "ThePrint",
+      "sourceUrl": "https://theprint.in/india/cjp-to-launch-adivasi-school-thik-karo-campaign-from-gadchiroli-on-sep-17-dipke/3044657/",
+      "publishedAt": "2026-09-16T12:47:15.000Z",
+      "fetchedAt": "2026-09-16T19:42:24.477Z"
+    },
+    {
       "id": "5b1d1811694198f9",
       "title": "Moose Wala killing to Ambala blast: The long terror trail of ISI proxy Shahzad Bhatti",
       "summary": "From a local criminal to an alleged ISI proxy involved in \"hybrid terrorism\", Pakistan-based gangster Shahzad Bhatti is accused of building a cross-border network for arms and narcotics smuggling over the years.",
@@ -927,6 +1004,17 @@
       "fetchedAt": "2026-09-16T19:28:17.807Z"
     },
     {
+      "id": "2cd181692724e639",
+      "title": "School Assembly News Headlines, September 17, 2026: Top national, international, business, sports updates",
+      "summary": "School Assembly News Headlines, September 17, 2026: Top national, international, business, sports updates. This update was reported by The Economic Times. Open the original report for full context and any developing updates.",
+      "category": "National & Trending News",
+      "image": "https://img.etimg.com/thumb/msid-134286594,width-1200,height-630,imgsize-73810,overlay-economictimes/articleshow.jpg",
+      "source": "The Economic Times",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/new-updates/school-assembly-news-headlines-september-17-2026-top-national-international-business-sports-updates-and-thought-of-the-day/articleshow/134286519.cms?from=mdr",
+      "publishedAt": "2026-09-16T11:40:49.000Z",
+      "fetchedAt": "2026-09-16T19:42:38.213Z"
+    },
+    {
       "id": "e42c127f6b9f034f",
       "title": "School Assembly News Headlines, September 17, 2026: Top national, international, business, sports updates and thought of the day",
       "summary": "School Assembly News Headlines, September 17, 2026: Top national, international, business, sports updates and thought of the day. This update was reported by The Economic Times. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
@@ -1037,6 +1125,17 @@
       "fetchedAt": "2026-09-16T18:43:16.982Z"
     },
     {
+      "id": "e0212018aaaab141",
+      "title": "Finance panel seeks government response on Virtual Digital Asset grey areas, report likely soon",
+      "summary": "The Parliamentary Standing Committee on Finance has concluded its discussions on Virtual Digital Assets (VDAs), with Chairperson Bhartruhari Mahtab saying the panel has identified certain grey areas that need to be addressed and is expecting a response from the government next week.",
+      "category": "Business & Finance",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWZhODIxMDUwLWIxYjktMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
+      "source": "The Tribune",
+      "sourceUrl": "https://www.tribuneindia.com/news/business/finance-panel-seeks-government-response-on-virtual-digital-asset-grey-areas-report-likely-soon/",
+      "publishedAt": "2026-09-16T10:32:48.000Z",
+      "fetchedAt": "2026-09-16T19:42:35.102Z"
+    },
+    {
       "id": "cf316429dd5328f6",
       "title": "Parliament clears India trade deal but political risks remain",
       "summary": "Parliament clears India trade deal but political risks remain. This update was reported by indiannewslink.co.nz. Open the original report for full context and any developing updates.",
@@ -1125,6 +1224,28 @@
       "fetchedAt": "2026-09-16T17:50:46.395Z"
     },
     {
+      "id": "e6b5d8ce6191f0d8",
+      "title": "Govt bowed before ‘American imperialism’: Oppn on UPI MDR regime",
+      "summary": "New Delhi, Sep 16 (PTI) The opposition on Wednesday alleged that the government has bowed before “American imperialism” by introducing the MDR framework for UPI and took a swipe at Prime Minister Narendra Modi, saying he has redefined NOTA as “Narendra’s Ongoing Trump Appeasement”. The move would push up prices…",
+      "category": "Politics & Government",
+      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
+      "source": "ThePrint",
+      "sourceUrl": "https://theprint.in/india/govt-bowed-before-american-imperialism-oppn-on-upi-mdr-regime/3044266/",
+      "publishedAt": "2026-09-16T08:46:25.000Z",
+      "fetchedAt": "2026-09-16T19:42:24.188Z"
+    },
+    {
+      "id": "96211b7620336689",
+      "title": "'Mirzapur The Movie' box office collection Day 13 [LIVE]: Pankaj Tripathi, Ali Fazal and Ravi Kishan film",
+      "summary": "The Times of India brings the Latest & Top Breaking News on Politics and Current Affairs in India & around the World, Cricket, Sports, Business, Bollywood News and Entertainment, Science, Technology, Health & Fitness news & opinions from leading columnists.",
+      "category": "Entertainment",
+      "image": "https://static.toiimg.com/thumb/msid-134282884,width-1280,height-720,imgsize-134022,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/mirzapur-the-movie-box-office-collection-day-13-live-pankaj-tripathi-ali-fazal-and-ravi-kishan-eyes-breaching-rs-200-crore-domestic-finish-line-after-a-global-haul-of-rs-281-crore/amp_articleshow/134282729.cms",
+      "publishedAt": "2026-09-16T08:39:00.000Z",
+      "fetchedAt": "2026-09-16T19:42:28.562Z"
+    },
+    {
       "id": "dcd9ef309e9aac63",
       "title": "FM Sitharaman calls for independent tax policy research to become part of public discourse",
       "summary": "Union Finance Minister Nirmala Sitharaman on Wednesday called for independent research on tax policy to be brought into the public discourse, stressing that tax",
@@ -1189,6 +1310,17 @@
       "sourceUrl": "https://www.amusementsandattractions.com/amusements/news/immersive-entertainment-centre-opens-in-ahmedabad-india",
       "publishedAt": "2026-09-16T07:33:00.000Z",
       "fetchedAt": "2026-09-16T18:24:00.290Z"
+    },
+    {
+      "id": "4aaa44260fdf5917",
+      "title": "Nana Patekar gave up Rs 1.5 crore car to help farmers, writer recalls actor’s ‘right reasons’ for anger",
+      "summary": "Nana Patekar was planning to buy a Rs 1.5 crore car when he saw news reports about families struggling after farmer suicides. Instead of buying the car, he chose to use the money to help the affected families.",
+      "category": "Entertainment",
+      "image": "https://static.india.com/wp-content/uploads/2026/09/Nana-Patekar-PC-Instagram.jpg",
+      "source": "India.com",
+      "sourceUrl": "https://www.india.com/entertainment/bollywood/nana-patekar-gave-up-rs-1-5-crore-car-to-help-farmers-writer-recalls-actors-right-reasons-for-anger-8525489/",
+      "publishedAt": "2026-09-16T07:25:22.000Z",
+      "fetchedAt": "2026-09-16T19:42:27.995Z"
     },
     {
       "id": "8419beef09ea6d5b",
@@ -1356,6 +1488,17 @@
       "fetchedAt": "2026-09-16T18:39:45.820Z"
     },
     {
+      "id": "b3b45973d5f5cea3",
+      "title": "PwC US makes a Big Move on Its India Offshore operations",
+      "summary": "PwC US turned to PwC India, whenever its offshore delivery hubs (PwC Acceleration Centres) didn’t have enough manpower to provide Non-client facing work. But the process was time-consuming due to r",
+      "category": "Business & Finance",
+      "image": "https://thefinancestory.com/wp-content/uploads/Untitled-design-1.jpg",
+      "source": "The Finance Story",
+      "sourceUrl": "https://thefinancestory.com/pwc-us-makes-a-big-move-on-its-india-offshore-operations",
+      "publishedAt": "2026-09-16T02:21:04.000Z",
+      "fetchedAt": "2026-09-16T19:42:36.767Z"
+    },
+    {
       "id": "e5a30688d104eb74",
       "title": "The Indian business empire being forced to list against its will",
       "summary": "The Indian business empire being forced to list against its will. This update was reported by Financial Times. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
@@ -1387,6 +1530,17 @@
       "sourceUrl": "https://newsonair.gov.in/pm-modi-becomes-longest-serving-elected-head-of-government-in-india/",
       "publishedAt": "2026-09-15T23:54:17.000Z",
       "fetchedAt": "2026-09-16T18:03:27.603Z"
+    },
+    {
+      "id": "d340968019e43be9",
+      "title": "Meta agrees to report CSAM directly to Indian authorities",
+      "summary": "Meta will report child-safety matters directly to India's national cybercrime portal, the company said, amid mounting govt scrutiny over allegations that paid advertisements linked to child sexual abuse material (CSAM) appeared on Instagram.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134272989,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/meta-agrees-to-report-csam-directly-to-indian-authorities/articleshow/134272984.cms",
+      "publishedAt": "2026-09-15T20:33:00.000Z",
+      "fetchedAt": "2026-09-16T19:42:25.540Z"
     }
   ]
 }
