@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-09-16T19:13:14.705Z",
-  "count": 112,
+  "updatedAt": "2026-09-16T19:28:26.369Z",
+  "count": 126,
   "articles": [
+    {
+      "id": "1fe62c9088d55a2b",
+      "title": "A victim of eve-teasing at 12, Roadie Suchika Tariyal aims for MMA glory for India at Asian Games 2026",
+      "summary": "Mixed Martial Arts may be making its debut at the Asian Games but Suchika represented India at 2022 Hangzhou Asian Games in kurash. A national champion, Suchika won back-to-back Asian MMA championship bronze medals in 2026.",
+      "category": "Sports",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/16/1600x900/Suchika_Tariyal_1789585679600_lZ5v_1789585679797_fcNI_e415369b-3933-4152-a999-a3216b0bc470_JhDW.jpg",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/sports/news/a-victim-of-eve-teasing-at-12-roadie-suchika-tariyal-aims-for-mma-glory-for-india-at-asian-games-2026-11789584858813.html",
+      "publishedAt": "2026-09-16T19:18:42.000Z",
+      "fetchedAt": "2026-09-16T19:28:20.557Z"
+    },
+    {
+      "id": "53360dbbb8b008bb",
+      "title": "National Herald case: ED's 2015 circular puts FIR under spotlight",
+      "summary": "The Delhi High Court is currently reviewing an appeal from the Enforcement Directorate linked to the National Herald case. This appeal centers on a 2015 circular issued by the ED that dictates the necessity of filing an FIR for scheduled offenses before proceeding with an ED complaint. A Special Judge…",
+      "category": "National & Trending News",
+      "image": "https://img.etimg.com/thumb/msid-134295929,width-1200,height-630,imgsize-303678,overlay-economictimes/articleshow.jpg",
+      "source": "The Economic Times",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/national-herald-case-eds-2015-circular-puts-fir-under-spotlight/articleshow/134295912.cms?UTM_Source=Google_Newsstand&UTM_Campaign=RSS_Feed&UTM_Medium=Referral&from=mdr",
+      "publishedAt": "2026-09-16T19:15:20.000Z",
+      "fetchedAt": "2026-09-16T19:28:26.368Z"
+    },
+    {
+      "id": "7b8a0847a7e4a7b7",
+      "title": "5-member SIT set up to probe Gurgaon road rage case, attempt-to-murder charge added to FIR",
+      "summary": "A five-member special investigation team (SIT) headed by ACP (crime and women) has been constituted to probe the road-rage case involving a Delhi-based biker who was allegedly chased and rammed by a car near Sector 55-56 Rapid Metro station on Sunday. in what police have termed a “murder bid.”",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134295859,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/gurgaon/5-member-sit-set-up-to-probe-gurgaon-road-rage-case-attempt-to-murder-charge-added-to-fir/articleshow/134295863.cms",
+      "publishedAt": "2026-09-16T19:10:00.000Z",
+      "fetchedAt": "2026-09-16T19:28:18.867Z"
+    },
     {
       "id": "9a4c2e3108e08f28",
       "title": "Adidas cuts technology roles in India to simplify operations",
@@ -56,6 +89,17 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/city/kolkata/bidhannagar-cyber-crime-police-arrest-3-more-in-sim-card-fraud-crackdown/articleshow/134294776.cms",
       "publishedAt": "2026-09-16T18:15:00.000Z",
       "fetchedAt": "2026-09-16T18:23:58.753Z"
+    },
+    {
+      "id": "7cc27cfac1b3f6a9",
+      "title": "TechnoSport signs MoU with IIT-Delhi",
+      "summary": "TechnoSport partners with IIT-Delhi to launch T-CREST, enhancing sports textile research and innovation in India.",
+      "category": "Sports",
+      "image": "https://www.thehindu.com/theme/images/amp-og-image.jpg",
+      "source": "The Hindu",
+      "sourceUrl": "https://www.thehindu.com/news/cities/Coimbatore/technosport-signs-mou-with-iit-delhi/article71473458.ece/amp/",
+      "publishedAt": "2026-09-16T18:14:16.000Z",
+      "fetchedAt": "2026-09-16T19:28:20.990Z"
     },
     {
       "id": "b07633958713dec3",
@@ -278,6 +322,17 @@
       "fetchedAt": "2026-09-16T18:03:31.441Z"
     },
     {
+      "id": "283a2c5114f59b50",
+      "title": "Finally, a Mamdani Policy Even Republicans Can Love",
+      "summary": "But for all the emphasis Republicans have put on protecting children, students in Zohran Mamdani’s New York are going to be less screen-soaked than those in",
+      "category": "National & Trending News",
+      "image": "https://newsindiatimes.com/wp-content/uploads/2026/09/Screenshot-2026-09-16-115402.png",
+      "source": "News India Times",
+      "sourceUrl": "https://newsindiatimes.com/finally-a-mamdani-policy-even-republicans-can-love/",
+      "publishedAt": "2026-09-16T15:58:06.000Z",
+      "fetchedAt": "2026-09-16T19:28:25.852Z"
+    },
+    {
       "id": "924f7636987794a9",
       "title": "Finance Ministry rejects ‘external pressure’ claims over UPI charges",
       "summary": "Finance Ministry rejects ‘external pressure’ claims over UPI charges. This update was reported by The Statesman. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
@@ -309,6 +364,17 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/city/patna/hc-cautions-dms-sps-against-misuse-of-crime-control-law/articleshow/134291726.cms",
       "publishedAt": "2026-09-16T15:48:00.000Z",
       "fetchedAt": "2026-09-16T18:03:28.455Z"
+    },
+    {
+      "id": "b9c0db35b41b679e",
+      "title": "Private players should not replicate ISRO’s efforts: G Madhavan Nair writes",
+      "summary": "Number of startups created should not be the measure of success for India’s private space sector, says former ISRO Chairman.",
+      "category": "Technology",
+      "image": "https://cf-images.assettype.com/newslaundry%2F2026-09-16%2Fzlfjdrzq%2Fthenewsminute2026-09-161wh8pc4iG-Madhavan-Nair1200.avif?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "Newslaundry",
+      "sourceUrl": "https://www.newslaundry.com/2026/09/16/private-players-should-not-replicate-isros-efforts-g-madhavan-nair-writes",
+      "publishedAt": "2026-09-16T15:47:11.000Z",
+      "fetchedAt": "2026-09-16T19:28:23.592Z"
     },
     {
       "id": "7c7bf5e2c958a598",
@@ -485,6 +551,17 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/city/kolkata/kolkata-police-lodges-case-against-former-dcp-shantanu-biswas/articleshow/134290726.cms",
       "publishedAt": "2026-09-16T14:44:00.000Z",
       "fetchedAt": "2026-09-16T19:13:04.894Z"
+    },
+    {
+      "id": "c67968b867939424",
+      "title": "Adidas begins layoffs at India Tech Hub in Gurgaon, over 350 employees affected",
+      "summary": "Adidas has initiated layoffs at its India Tech Hub in Gurgaon. Approximately 350 employees, including engineers and data scientists, are affected. Affected staff received exit letters or are transitioning until December. The company cited business needs for organizational simplification and strengthening capabilities. India remains a strategically important market for Adidas",
+      "category": "Technology",
+      "image": "https://img.etimg.com/thumb/msid-134290682,width-1200,height-630,imgsize-149664,overlay-economictimes/articleshow.jpg",
+      "source": "The Economic Times",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/services/retail/adidas-begins-layoffs-at-india-tech-hub-in-gurgaon-over-350-employees-affected/articleshow/134290498.cms?from=mdr",
+      "publishedAt": "2026-09-16T14:43:14.000Z",
+      "fetchedAt": "2026-09-16T19:28:23.090Z"
     },
     {
       "id": "b1064a03f8b88043",
@@ -839,6 +916,17 @@
       "fetchedAt": "2026-09-16T18:23:58.847Z"
     },
     {
+      "id": "250c3ab6420795ff",
+      "title": "‘Keep your spine straight’: Rahul urges Modi to junk ‘UPI tax’, not ‘lie down flat’ before Trump",
+      "summary": "The PM, he alleges, has decided to lie down flat in front of the American President.",
+      "category": "Politics & Government",
+      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/09/Untitled-Design-3-3.jpg",
+      "source": "ThePrint",
+      "sourceUrl": "https://theprint.in/india/keep-your-spine-straight-rahul-urges-modi-to-junk-upi-tax-not-lie-down-flat-before-trump/3044508/",
+      "publishedAt": "2026-09-16T11:47:52.000Z",
+      "fetchedAt": "2026-09-16T19:28:17.807Z"
+    },
+    {
       "id": "e42c127f6b9f034f",
       "title": "School Assembly News Headlines, September 17, 2026: Top national, international, business, sports updates and thought of the day",
       "summary": "School Assembly News Headlines, September 17, 2026: Top national, international, business, sports updates and thought of the day. This update was reported by The Economic Times. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
@@ -870,6 +958,17 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/videos/entertainment/english/forgotten-island-official-trailer/videoshow/134286409.cms",
       "publishedAt": "2026-09-16T11:22:39.000Z",
       "fetchedAt": "2026-09-16T19:13:08.185Z"
+    },
+    {
+      "id": "4fc9a46b34e29f43",
+      "title": "Nepal finance minister to engage in high-level dialogues in Delhi - daily-sun.com",
+      "summary": "Nepal finance minister to engage in high-level dialogues in Delhi - daily-sun.com. This update was reported by daily-sun.com. Open the original report for full context and any developing updates.",
+      "category": "Business & Finance",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EBusiness%20%26amp%3B%20Finance%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "daily-sun.com",
+      "sourceUrl": "https://www.daily-sun.com/index.php/world/898130/nepal-finance-minister-to-engage-in-high-level-dialogues-in-delhi",
+      "publishedAt": "2026-09-16T11:22:02.000Z",
+      "fetchedAt": "2026-09-16T19:28:24.219Z"
     },
     {
       "id": "3be4e0f4325e1e90",
@@ -960,6 +1059,28 @@
       "fetchedAt": "2026-09-16T17:47:12.316Z"
     },
     {
+      "id": "a13860630abf5079",
+      "title": "Stormbound - Official Trailer",
+      "summary": "Watch the Official Trailer from english movie 'Stormbound' starring Jason Foster & Jeff Gammons. 'Stormbound' movie is directed by Miko Lim. To know more about 'Stormbound' trailer watch the video. Check out the latest english trailers, new movie trailers, trending english movie trailers, and more at ETimes - Times of…",
+      "category": "Entertainment",
+      "image": "https://static.toiimg.com/thumb/msid-134284780,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/videos/entertainment/english/stormbound-official-trailer/videoshow/134284780.cms",
+      "publishedAt": "2026-09-16T10:11:17.000Z",
+      "fetchedAt": "2026-09-16T19:28:21.770Z"
+    },
+    {
+      "id": "c48a1cb713d6f633",
+      "title": "Wizz Financial collaborates with City Union Bank to Unveil 'Wizz Voyager', the Ultimate Smart Travel Card",
+      "summary": "Wizz Financial collaborates with City Union Bank to Unveil 'Wizz Voyager', the Ultimate Smart Travel Card. This update was reported by Press Trust of India. Open the original report for full context and any developing updates.",
+      "category": "Business & Finance",
+      "image": "https://www.ptinews.com/assets/images/logo.jpeg",
+      "source": "Press Trust of India",
+      "sourceUrl": "https://www.ptinews.com/story/business/wizz-financial-collaborates-with-city-union-bank-to-unveil-wizz-voyager-the-ultimate-smart-travel-card/4070922",
+      "publishedAt": "2026-09-16T09:50:21.000Z",
+      "fetchedAt": "2026-09-16T19:28:25.055Z"
+    },
+    {
       "id": "eb23e8b52f07ef73",
       "title": "After 3+ years in power, Congress govt looks to revive promise to repeal Karnataka anti-conversion law",
       "summary": "After 3+ years in power, Congress govt looks to revive promise to repeal Karnataka anti-conversion law. This update was reported by ThePrint. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
@@ -1030,9 +1151,9 @@
       "title": "UPI: The small fee raising big questions for India's payments revolution",
       "summary": "UPI: The small fee raising big questions for India's payments revolution. This update was reported by BBC. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
       "category": "Politics & Government",
-      "image": "",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/cb34/live/244ddc20-b192-11f1-87e9-b3bd4eb00d4c.jpg",
       "source": "BBC",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtNlFUQlkxc1pYSVNFakFkUEphN3FVRHhJRFNfQ0FSNTFEWlJIVjBsVHhNMGFHNFhEb3RLb3JiUWloUUI5YV9QWHdLbmQ5b1FEdE45czNiaGlSdkk?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "sourceUrl": "https://www.bbc.com/news/articles/ckpd0y9gdp5lo",
       "publishedAt": "2026-09-16T07:46:57.000Z",
       "fetchedAt": "2026-09-16T17:50:42.797Z"
     },
@@ -1063,20 +1184,42 @@
       "title": "Immersive entertainment centre opens in Ahmedabad, India",
       "summary": "Immersive entertainment centre opens in Ahmedabad, India. This update was reported by amusementsandattractions.com. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
       "category": "Entertainment",
-      "image": "",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EEntertainment%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
       "source": "amusementsandattractions.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQU01V2x4MVl0OVNURUxscndTTXFHMmY0OWgwS3F6MUR0RzNjTDRVamlSWS1WbkF6R2FuUmprRkFyelRkREdNSG1pSlNtMG4wUDVQSW1aMnktSldib3dlcmRsdzFZeDBGYXV0MjhVRHhaLXN4cWpESjNkdFFzaXpJSUNnSU0zWGdKcFRldzhPTlVFbE04WDFoSEp5bEMyUUgzMUEtaFdpZHZHZFNaUHQ5S3RB?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "sourceUrl": "https://www.amusementsandattractions.com/amusements/news/immersive-entertainment-centre-opens-in-ahmedabad-india",
       "publishedAt": "2026-09-16T07:33:00.000Z",
       "fetchedAt": "2026-09-16T18:24:00.290Z"
+    },
+    {
+      "id": "8419beef09ea6d5b",
+      "title": "Hyderbad firm’s $70M FIFA rights bid hit by alleged forgery, CCS books US investor",
+      "summary": "Hyderabad CCS booked US-based businessman Deelip Mhaske over alleged FIFA 2026 media rights fraud, fake documents and Rs 2 crore loss to Metalloid Productions.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/hyderabad/hyd-firms-70m-fifa-rights-bid-hit-by-alleged-forgery-ccs-books-us-investor/articleshow/132297371.cms",
+      "publishedAt": "2026-09-16T06:57:00.000Z",
+      "fetchedAt": "2026-09-16T19:28:19.318Z"
+    },
+    {
+      "id": "d44c8c5bb03e176c",
+      "title": "Cong leader Surjewala slams Modi govt over 0.4 per cent UPI fee",
+      "summary": "Bengaluru, Sep 16 (PTI) AICC general secretary Randeep Singh Surjewala on Wednesday alleged that the Modi government’s move to impose a 0.4 per cent fee on UPI payments above Rs 2,000 amounted to a “betrayal” of ordinary Indians and would ultimately increase the burden on consumers. Calling September 14, the…",
+      "category": "Politics & Government",
+      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
+      "source": "ThePrint",
+      "sourceUrl": "https://theprint.in/india/cong-leader-surjewala-slams-modi-govt-over-0-4-per-cent-upi-fee/3044112/",
+      "publishedAt": "2026-09-16T06:47:58.000Z",
+      "fetchedAt": "2026-09-16T19:28:18.023Z"
     },
     {
       "id": "db6706e35f9169df",
       "title": "Prime Video expands news offering with short-form local and national clips",
       "summary": "Prime Video expands news offering with short-form local and national clips. This update was reported by bestmediainfo.com. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
       "category": "National & Trending News",
-      "image": "",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ENational%20%26amp%3B%20Trending%20News%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
       "source": "bestmediainfo.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcHFZanRHU3Y2Xy05YUpxTTBCZnhvakFPWU1aLVhBelhjck1TM2tOb0pGRGlkd0V5cGc1aUgyb0VBQXN4aFUxMnhuNTR6andwNTM2RGNWOEJ0SU40RzdzRHdVM3NpU2FZTHZzclN6TVJVbUUwWnAyX0xZTTV4cGdJODZUbDFJNHhhZGM4TWtZbnM5U0piSVpRQmZMV3N4VkdlaE1kVmo1RUdUbnl4MlVHYnNieFd4WnNuZFlUdzN5Wl9Yb21SQlNnYzl1bFRuaXVrcDVV0gHTAUFVX3lxTFBwcVlqdEdTdjZfLTlhSnFNMEJmeG9qQU9ZTVotWEF6WGNyTVMza05vSkZEaWR3RXlwZzVpSDJvRUFBc3hoVTEyeG41NHpqd3A1MzZEY1Y4QnRJTjRHN3NEd1Uzc2lTYVlMdnNyU3pNUlVtRTBacDJfTFlNNXhwZ0k4NlRsMUk0eGFkYzhNa1luczlTSmJJWlFCZkxXc3hWR2VoTWRWajVFR1RueXgyVUdic2J4V3hac25kWVR3M3laX1hvbVJCU2djOXVsVG5pdWtwNVU?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "sourceUrl": "https://bestmediainfo.com/mediainfo/mediainfo-digital/prime-video-expands-news-offering-with-short-form-local-and-national-clips-12539446",
       "publishedAt": "2026-09-16T06:47:06.000Z",
       "fetchedAt": "2026-09-16T18:24:02.439Z"
     },
@@ -1096,9 +1239,9 @@
       "title": "INDIA EXCLUSIVE: I would love more of cross-pollination between Indian and American-British cinema, says",
       "summary": "INDIA EXCLUSIVE: I would love more of cross-pollination between Indian and American-British cinema, says. This update was reported by The Times of India. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
       "category": "Entertainment",
-      "image": "",
+      "image": "https://static.toiimg.com/thumb/msid-134279352,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "source": "The Times of India",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPN3AwaE5kTXFDRkhWR25URGxIdHdRTlVFY3B4ZENFQ0ZJUlY3TmswYmtGdWozUERNb0ZvY3NjNktMdm1TdjZqSzNZSU12V2lVNE1wZ3cwNnB0RWhOU2E2RXJYX0NZQ0NrMTVhRmRsOEVCVG1vajFJNVdQVThubGkzUzZDRnZOLWNZbE5aMjlDQ0ZLcUtfTUpSNXBXMlV1dEdIdmhTR05jTFpIRHk0TVBKam80SXVmOHMyYWF5SHNlVDJaQktNRFlqZnFpQmpYU0g2QUFleDEzczRvejRBOW5ONkNXZ1I0OHAweGZiR0dleGZBZE44TFB2czVwOGxUajlaNkk2VnRmOXA0M05BbVF3QnRMRWRQanltVkJ0d2Y3Q0R3MzZRSGdvU3hRbmg2OUYzby1iV0haQUVGQmxQZXfSAcMCQVVfeXFMUDU3bXlKLU1Eb3N1UTlUSkc2NXFwTmhqMTFjcWZ1UVdHMmp3X1hscm9mY0NPVDJWNlJObURLOVJZejNiTy1nY2gxTzVscURSM2lPamQwRG41dVdhUmhONTRuMzI0Z2NmazZYNWp3bFY2VnZiaWFIcGdYT0RYaEJZemg5REdDOE5wTE5qajAwMHhMOGtQek81S2FMa1lhN2xmNDlqYm1iWlZaY0ZYQTJMcjVfck52UkJQZU9XR0dxRkxUb1B1S3VpNnJsWDVYXzcxSDd1NGJ1NUwyeWIwN2xwZXQ0aG9MZGR6emdmNDFMaE9BR1A0ODZCdkF3ZmlFdnBTV2VIdlYzdDd3YTJHUlZEWU9nY2YxVXc4dTRVZUxzTzlWUXFJU1JZdHQyclpqN3FxQ0NDclByRmxsVVBxRmdUYkQ3cjg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/india-exclusive-i-would-love-more-of-cross-pollination-between-indian-and-american-british-cinema-says-andrew-garfield/articleshow/134279232.cms",
       "publishedAt": "2026-09-16T05:59:00.000Z",
       "fetchedAt": "2026-09-16T18:24:00.423Z"
     },
@@ -1118,9 +1261,9 @@
       "title": "Preparations underway for return of F1 to India: Sports Minister Mandaviya",
       "summary": "Preparations underway for return of F1 to India: Sports Minister Mandaviya. This update was reported by DD News. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
       "category": "Sports",
-      "image": "",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
       "source": "DD News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQkM4eFhodWxMbTdnV0VBWl9VOE9iNUtmd1VyYld0WkVWRXZ3MlNac0VFYlYzS3B1QkFqSW0tZ2RKQ2xxWVd3T3B1clRuaEZQTWJSOUZGZ0Y2R2RBLUNweVU4UUNQYkY5dExPeE12ZEp6cW4xNkNLa09EOVRaSVBScUVkZjFobnlsaWU0YWU1V1hEUEFPTHpLdWVIcHdob3BD?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "sourceUrl": "https://ddnews.gov.in/en/preparations-underway-for-return-of-f1-to-india-sports-minister-mandaviya/",
       "publishedAt": "2026-09-16T05:42:20.000Z",
       "fetchedAt": "2026-09-16T17:50:44.157Z"
     },
@@ -1129,9 +1272,9 @@
       "title": "Bangladeshi national caught smuggling gold from Saudi inside undergarments at Delhi airport | India News",
       "summary": "Bangladeshi national caught smuggling gold from Saudi inside undergarments at Delhi airport | India News. This update was reported by Hindustan Times. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
       "category": "National & Trending News",
-      "image": "",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/16/1600x900/logo/gold_muggling_igi_bangaldesh_1789535409766_GWD3_1789535417087_16LH_bc9e0fc5-46e8-481b-9e22-6cdd5c650a95_K4K2.jpeg",
       "source": "Hindustan Times",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdW53Z3NlTE5CanhfVXRYWjBIOWc2bE4zSWtzT25IbHpFQnZVUjhMMkRVNDhROHdoc3d3UzFpX3FwRWs2SDRXZVFoSmRkd3F2X010cUw2LXFrdnJ6XzRyXzh1ODhQNkVRaUpSS2RIT0ZfMVVpRHVZZ08yVzRubUxuTEJvTVZkTkNKNEtiN29IaU5xWlZTSEp0M3pKVktfTWdYY01mX1lRRUxFRTJHR2x2eWw4S2oyOGVLc1BhVmQ2am40eXlpZ25jYmFHbWgxTi1jNGNKRlJQMXM3eHJrSkRXdTdXMXpHWVNMeFJR0gHwAUFVX3lxTE9Gc2VIQllKWE5LcmVybW8zRTEwN05Lak9sWXh6bFkyd0IwOWhEbng5UUJBRjF1R1BUMnFVMDZLOE1za0Q0MnRxd0p0RzJObjNkSy1mMEVwUVd5dnlOU3YxQkstUzdjRmRoYnU5NGJRN1hSNllCV3BMeEp6V2ZpRnJzaE13OWJQODFDWTdMSl8wTnlxb0tkNldiNjdScndWdllYSFhwZzVtUHpCVzlDbU5ZbFhONFN6SVd5d1NkT3pyLURROHp5RWwxbmh3NG9XaEFNR0RIOHc3NEd2QUxWRmhZaEpwem9vNDE4N242N0FseQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/bangladesh-national-caught-smuggling-gold-inside-undergarments-at-delhi-airport-jeddah-saudi-101789535366944.html",
       "publishedAt": "2026-09-16T05:17:45.000Z",
       "fetchedAt": "2026-09-16T18:03:32.114Z"
     },
@@ -1180,6 +1323,17 @@
       "fetchedAt": "2026-09-16T18:39:42.014Z"
     },
     {
+      "id": "6916a9a1c4a1f1c1",
+      "title": "Ed Sheeran breaks silence after rapper ousted over Free Palestine remark at concert",
+      "summary": "Ed Sheeran said his US tour promoter removed rapper Macklemore after venues objected to his pro-Palestine remarks. The fallout widened as all four remaining support acts quit, turning the dispute into a debate over artistic speech and venue pressure.",
+      "category": "Entertainment",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/ed-sheeran-vs-macklemore-164036303-16x9_0.jpg?VersionId=CdsK18e8u8xgs34Nh76Qs114Y_fh7DKk",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/entertainment/music/story/ed-sheeran-macklemore-tour-row-support-acts-quit-after-promoter-drops-rapper-2995575-2026-09-16",
+      "publishedAt": "2026-09-16T03:42:19.000Z",
+      "fetchedAt": "2026-09-16T19:28:22.019Z"
+    },
+    {
       "id": "324a381471a1ca74",
       "title": "Vijay Sethupathi's Maharaja to be remade in Hollywood",
       "summary": "Vijay Sethupathi's 2024 crime thriller Maharaja is all set to get a Hollywood remake. Speaking to us, one of the film's producers, Sudhan Sundaram confirmed, \"Following the success of the film in China, where the film did very well both at the box office (₹91.65cr, according to Sacnilk) and on…",
@@ -1206,9 +1360,9 @@
       "title": "The Indian business empire being forced to list against its will",
       "summary": "The Indian business empire being forced to list against its will. This update was reported by Financial Times. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
       "category": "Business & Finance",
-      "image": "",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EBusiness%20%26amp%3B%20Finance%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
       "source": "Financial Times",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWVdZR0ZUQUV3eDVySlpqRUlNWG9SdGxWSndxZ1J3RFVqaHJETzd5SVFNZW9hNTNrZkwyOXFINDIxN3B3dHhaaS1zUWQycjl1NkZxVzZybjRRU29La0VVOFduRTV5cU0xRVJ3R29TNDB4cklfLTBoUDJLMzVpOElCSHFWRVg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "sourceUrl": "https://www.ft.com/content/bbc9d181-9cce-4b5f-af4a-bf87f3dfca93?syn-25a6b1a6=1",
       "publishedAt": "2026-09-16T01:00:33.000Z",
       "fetchedAt": "2026-09-16T17:47:17.681Z"
     },
@@ -1228,9 +1382,9 @@
       "title": "PM Modi Becomes Longest-Serving Elected Head of Government in India",
       "summary": "PM Modi Becomes Longest-Serving Elected Head of Government in India. This update was reported by News On AIR. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
       "category": "Politics & Government",
-      "image": "",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EPolitics%20%26amp%3B%20Government%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
       "source": "News On AIR",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSF9ZY2w3UDRXRGV5SnRmQTRjdXhZWUlMUmhlZ2FaSUR2akk4eEZiZ0RQX2xfSHE2VndDMi1qV3QyaXpxX1RJU1VMUFJ3WjFNXzZ0Z1hmOFVuYzZDdXZOMV9DaVEwUUJaQ2ZxTm5ucjJ6cmZaU3ZnbkV3TTcySm9yU3ViMVpQMkp0Wi05ZkhHZVBadVJXTUxvNw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "sourceUrl": "https://newsonair.gov.in/pm-modi-becomes-longest-serving-elected-head-of-government-in-india/",
       "publishedAt": "2026-09-15T23:54:17.000Z",
       "fetchedAt": "2026-09-16T18:03:27.603Z"
     }
