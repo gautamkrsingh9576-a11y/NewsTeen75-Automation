@@ -1,0 +1,9 @@
+{
+  "name": "newsteen75-automation",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "fetch-news": "node scripts/fetch-news.mjs"
+  }
+}
