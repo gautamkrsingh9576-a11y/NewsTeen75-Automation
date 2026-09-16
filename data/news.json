@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-16T22:12:07.905Z",
-  "count": 209,
+  "updatedAt": "2026-09-16T22:42:27.629Z",
+  "count": 211,
   "articles": [
     {
       "id": "49cdfa0273484a50",
@@ -166,6 +166,17 @@
       "sourceUrl": "https://www.millenniumpost.in/business/adidas-confirms-job-cuts-in-india-tech-hub-676281",
       "publishedAt": "2026-09-16T18:44:08.000Z",
       "fetchedAt": "2026-09-16T19:13:10.394Z"
+    },
+    {
+      "id": "500d1401dba1b360",
+      "title": "Govt holds firm on UPI MDR as Opposition mounts pressure for rollback - business-standard.com",
+      "summary": "Finance Ministry rejects claims of US pressure behind UPI MDR, as Opposition parties and trader groups demand reconsideration of the new merchant fee",
+      "category": "Business & Finance",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/16/thumb/fitandfill/1200X628/1789581591-6316.jpg",
+      "source": "business-standard.com",
+      "sourceUrl": "https://www.business-standard.com/amp/finance/news/govt-holds-firm-on-upi-mdr-as-opposition-mounts-pressure-for-rollback-126091601240_1.html",
+      "publishedAt": "2026-09-16T18:41:14.000Z",
+      "fetchedAt": "2026-09-16T22:42:27.279Z"
     },
     {
       "id": "500d1401dba1b360",
@@ -947,6 +958,17 @@
       "sourceUrl": "https://economictimes.indiatimes.com/industry/services/retail/adidas-begins-layoffs-at-india-tech-hub-in-gurgaon-over-350-employees-affected/articleshow/134290498.cms?from=mdr",
       "publishedAt": "2026-09-16T14:43:14.000Z",
       "fetchedAt": "2026-09-16T19:28:23.090Z"
+    },
+    {
+      "id": "ab6052b0edfd074b",
+      "title": "Actor Anant Nag to receive Dadasaheb Phalke Award 2024",
+      "summary": "Actor Anant Nag to receive Dadasaheb Phalke Award 2024. This update was reported by The News Mill. Open the original report for full context and any developing updates.",
+      "category": "Entertainment",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EEntertainment%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "The News Mill",
+      "sourceUrl": "https://thenewsmill.com/2026/09/actor-anant-nag-to-receive-dadasaheb-phalke-award-2024/",
+      "publishedAt": "2026-09-16T14:37:49.000Z",
+      "fetchedAt": "2026-09-16T22:42:26.239Z"
     },
     {
       "id": "b1064a03f8b88043",
