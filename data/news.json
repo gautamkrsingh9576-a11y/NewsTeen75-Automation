@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-16T21:55:28.669Z",
-  "count": 208,
+  "updatedAt": "2026-09-16T22:12:07.905Z",
+  "count": 209,
   "articles": [
     {
       "id": "49cdfa0273484a50",
@@ -1772,6 +1772,17 @@
       "sourceUrl": "https://www.deccanherald.com/amp/story/india/us-keeps-mounting-howdy-modi-keeps-surrendering-congress-on-russia-sanctions-bill-4147897",
       "publishedAt": "2026-09-16T08:32:00.000Z",
       "fetchedAt": "2026-09-16T20:26:50.238Z"
+    },
+    {
+      "id": "9f3e8c73ad7d1125",
+      "title": "PMC Fincorp (BSE:534060): Business Profile and Finance Sector Overview",
+      "summary": "PMC Fincorp (BSE:534060): Business Profile and Finance Sector Overview. This update was reported by Kalkine India. Open the original report for full context and any developing updates.",
+      "category": "Business & Finance",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EBusiness%20%26amp%3B%20Finance%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "Kalkine India",
+      "sourceUrl": "https://www.kalkine.co.in/article/financial/pmc-fincorp-bse534060-understanding-its-position-in-indias-finance-and-leasing-segment",
+      "publishedAt": "2026-09-16T08:12:00.000Z",
+      "fetchedAt": "2026-09-16T22:12:07.466Z"
     },
     {
       "id": "27935f66b4c94170",
