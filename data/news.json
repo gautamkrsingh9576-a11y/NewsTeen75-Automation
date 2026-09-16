@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-16T21:44:47.073Z",
-  "count": 206,
+  "updatedAt": "2026-09-16T21:55:28.669Z",
+  "count": 208,
   "articles": [
     {
       "id": "49cdfa0273484a50",
@@ -980,6 +980,17 @@
       "sourceUrl": "https://frontline.thehindu.com/interviews/jairam-ramesh-india-political-mood/article71466410.ece",
       "publishedAt": "2026-09-16T14:29:20.000Z",
       "fetchedAt": "2026-09-16T17:47:12.373Z"
+    },
+    {
+      "id": "b05ea86361b5d7c9",
+      "title": "India’s academic freedom ‘severely restricted’ under BJP government: report",
+      "summary": "A report reveals severe restrictions on academic freedom in India under the BJP government, impacting universities and scholarly expression.",
+      "category": "National & Trending News",
+      "image": "https://th-i.thgim.com/public/incoming/bqwnrr/article71473117.ece/alternates/LANDSCAPE_1200/iStock-483479827.jpg",
+      "source": "The Hindu",
+      "sourceUrl": "https://www.thehindu.com/news/national/indias-academic-freedom-severely-restricted-under-bjp-government-report/article71472166.ece",
+      "publishedAt": "2026-09-16T14:24:51.000Z",
+      "fetchedAt": "2026-09-16T21:55:28.669Z"
     },
     {
       "id": "485146acadce3119",
@@ -2179,6 +2190,17 @@
       "sourceUrl": "https://www.india.com/entertainment/shehnaaz-gill-chants-waheguru-waheguru-as-bigg-boss-stars-flight-faces-heavy-turbulence-before-landing-safely-at-mumbai-airport-watch-video-8525264/",
       "publishedAt": "2026-09-16T03:20:19.000Z",
       "fetchedAt": "2026-09-16T21:28:56.198Z"
+    },
+    {
+      "id": "48a1e515e089c5f0",
+      "title": "Fake news: Pak national selector Aaqib Javed dismisses reports of resignation",
+      "summary": "Pakistan national selector Aaqib Javed on Tuesday dismissed reports of his impending resignation or removal from the Pakistan Cricket Board (PCB) as “fake news”, amid growing speculation of a major shake-up in the board’s cricket administration.",
+      "category": "National & Trending News",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWM0MDkzZWIwLWIxN2ItMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
+      "source": "The Tribune",
+      "sourceUrl": "https://www.tribuneindia.com/news/sports/fake-news-pak-national-selector-aaqib-javed-dismisses-reports-of-resignation/amp",
+      "publishedAt": "2026-09-16T03:07:28.000Z",
+      "fetchedAt": "2026-09-16T21:55:28.271Z"
     },
     {
       "id": "37849cb53de42074",
