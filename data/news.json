@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-16T22:42:27.629Z",
-  "count": 211,
+  "updatedAt": "2026-09-16T22:53:36.726Z",
+  "count": 212,
   "articles": [
     {
       "id": "49cdfa0273484a50",
@@ -551,6 +551,17 @@
       "sourceUrl": "https://www.prameyanews.com/cbi-seema-pahuja-disha-salian-probe",
       "publishedAt": "2026-09-16T16:30:00.000Z",
       "fetchedAt": "2026-09-16T18:56:29.782Z"
+    },
+    {
+      "id": "4ac6279208f73bae",
+      "title": "CSIR-NIScPR Released Technical Report on Human-Centered AI and Hosted Distinguished Lecture by Ms. Debjani Ghosh",
+      "summary": "The CSIR-National Institute of Science Communication and Policy Research (CSIR-NIScPR), New Delhi, h",
+      "category": "Technology",
+      "image": "https://www.pib.gov.in/pib.gov.in/images/indian-emblem.png",
+      "source": "pib.gov.in",
+      "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2288541&reg=48&lang=2",
+      "publishedAt": "2026-09-16T16:28:00.000Z",
+      "fetchedAt": "2026-09-16T22:53:36.047Z"
     },
     {
       "id": "abedaed752c25a3f",
