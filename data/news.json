@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-16T23:08:11.629Z",
-  "count": 214,
+  "updatedAt": "2026-09-16T23:24:00.318Z",
+  "count": 215,
   "articles": [
     {
       "id": "49cdfa0273484a50",
@@ -2179,6 +2179,17 @@
       "sourceUrl": "https://theprint.in/politics/how-vijays-silent-government-strategy-is-more-than-a-replay-of-tamil-nadus-movie-star-cms/3041963/",
       "publishedAt": "2026-09-16T04:13:15.000Z",
       "fetchedAt": "2026-09-16T18:43:05.410Z"
+    },
+    {
+      "id": "ce9770d53a74a7b0",
+      "title": "Clash breaks out between student groups of DU's Satyawati College; vehicles damaged",
+      "summary": "A clash broke out between two groups of students from Delhi University's Satyawati College near Wazirpur Village in Delhi's Bharat Nagar area on Tuesday, leaving two vehicles damaged, police told news agency ANI.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134277803,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/delhi/clash-breaks-out-between-student-groups-of-dus-satyawati-college-vehicles-damaged/articleshow/134277488.cms",
+      "publishedAt": "2026-09-16T04:12:00.000Z",
+      "fetchedAt": "2026-09-16T23:23:58.238Z"
     },
     {
       "id": "f887ba6a332a3e5a",
