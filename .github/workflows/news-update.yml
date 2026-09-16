@@ -19,12 +19,14 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
 
       - name: Set up Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
-          node-version: "20"
+          node-version: "24"
 
       - name: Fetch latest news
         run: npm run fetch-news
@@ -41,4 +43,5 @@ jobs:
           git config user.name "NewsTeen75 Bot"
           git config user.email "actions@users.noreply.github.com"
           git commit -m "Update NewsTeen75 feed"
-          git push
+          git pull --rebase origin main
+          git push origin HEAD:main
