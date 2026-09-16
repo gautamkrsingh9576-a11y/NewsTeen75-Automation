@@ -5,5 +5,8 @@
   "type": "module",
   "scripts": {
     "fetch-news": "node scripts/fetch-news.mjs"
+  },
+  "dependencies": {
+    "google-news-url-decoder": "1.2.2"
   }
 }
