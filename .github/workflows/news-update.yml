@@ -28,6 +28,9 @@ jobs:
         with:
           node-version: "24"
 
+      - name: Install dependencies
+        run: npm install --no-audit --no-fund
+
       - name: Fetch latest news
         run: npm run fetch-news
 
