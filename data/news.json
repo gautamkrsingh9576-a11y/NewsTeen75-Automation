@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-09-16T18:56:40.318Z",
-  "count": 98,
+  "updatedAt": "2026-09-16T19:13:14.705Z",
+  "count": 112,
   "articles": [
+    {
+      "id": "9a4c2e3108e08f28",
+      "title": "Adidas cuts technology roles in India to simplify operations",
+      "summary": "Adidas has reduced roles in its India technology team as part of efforts to simplify operations, with the impact below 20% of the organisation.",
+      "category": "Technology",
+      "image": "https://bl-i.thgim.com/public/incoming/ymgtgb/article71474119.ece/alternates/LANDSCAPE_1200/2025-05-15T134049Z_1737239209_RC2CIEAY5ZL4_RTRMADP_3_ADIDAS-AGM.JPG",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/info-tech/adidas-cuts-technology-roles-in-india-to-simplify-operations/article71474116.ece",
+      "publishedAt": "2026-09-16T18:50:57.000Z",
+      "fetchedAt": "2026-09-16T19:13:09.023Z"
+    },
+    {
+      "id": "3e7109f53213a32d",
+      "title": "Adidas confirms job cuts in India tech hub",
+      "summary": "New Delhi: Adidas is reportedly laying off nearly half of its workforce at its Tech Hub in Gurugram, with software engineers, data scientists and data engineers among those affected.The company has...",
+      "category": "Technology",
+      "image": "https://www.millenniumpost.in/images/logo.png",
+      "source": "MillenniumPost",
+      "sourceUrl": "https://www.millenniumpost.in/business/adidas-confirms-job-cuts-in-india-tech-hub-676281",
+      "publishedAt": "2026-09-16T18:44:08.000Z",
+      "fetchedAt": "2026-09-16T19:13:10.394Z"
+    },
     {
       "id": "8b501060e6bc44df",
       "title": "25 years of Modi: The making of a political force | India News",
@@ -45,6 +67,17 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/city/chandigarh/israeli-national-held-at-kangra-airport/articleshow/134294594.cms",
       "publishedAt": "2026-09-16T18:10:00.000Z",
       "fetchedAt": "2026-09-16T18:24:02.316Z"
+    },
+    {
+      "id": "f84f8ce49760e21d",
+      "title": "HC quashes deportation order against Austrian national",
+      "summary": "Bombay High Court quashes deportation of Austrian woman, citing lack of hearing; her visa-extension request was deleted while cheque-bounce appeal is pending.",
+      "category": "National & Trending News",
+      "image": "https://static.toiimg.com/thumb/msid-134294597,width-1280,height-720,imgsize-4576700,resizemode-75,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/goa/hc-quashes-deportation-order-against-austrian-national/amp_articleshow/134294599.cms",
+      "publishedAt": "2026-09-16T18:08:00.000Z",
+      "fetchedAt": "2026-09-16T19:13:14.705Z"
     },
     {
       "id": "9202f9bfae0b36c7",
@@ -113,6 +146,17 @@
       "fetchedAt": "2026-09-16T18:23:59.462Z"
     },
     {
+      "id": "05f372c68537a3c2",
+      "title": "Bajaj Finance Personal Loan Interest Rates: Borrowers Can Access Loans Starting from 10% p.a.",
+      "summary": "Bajaj Finance Personal Loan Interest Rates: Borrowers Can Access Loans Starting from 10% p.a.. This update was reported by Press Trust of India. Open the original report for full context and any developing updates.",
+      "category": "Business & Finance",
+      "image": "https://www.ptinews.com/assets/images/logo.jpeg",
+      "source": "Press Trust of India",
+      "sourceUrl": "https://www.ptinews.com/story/business/bajaj-finance-personal-loan-interest-rates-borrowers-can-access-loans-starting-from-10-p-a-/4067825",
+      "publishedAt": "2026-09-16T17:00:57.000Z",
+      "fetchedAt": "2026-09-16T19:13:11.724Z"
+    },
+    {
       "id": "126dcc68e825234c",
       "title": "Adidas confirms layoffs at India tech hub, around 50% employees affected",
       "summary": "Adidas confirms layoffs at India tech hub, around 50% employees affected. This update was reported by India Today. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
@@ -166,6 +210,17 @@
       "sourceUrl": "https://www.tradingview.com/news/moodys:2170435362157:0-adidas-to-cut-300-350-jobs-at-gurugram-technology-hub/",
       "publishedAt": "2026-09-16T16:31:41.000Z",
       "fetchedAt": "2026-09-16T18:56:36.700Z"
+    },
+    {
+      "id": "2c15e83497e66c31",
+      "title": "Vaibhav Sooryavanshi's Father Asked About Teenager's Absence In India XI vs Afghanistan. His Reply",
+      "summary": "For the second match running against Afghanistan, the Indian team went ahead with Sanju Samson in place of Vaibhav Sooryavanshi as the preferred opener",
+      "category": "Sports",
+      "image": "https://c.ndtvimg.com/2026-09/qdu2f26k_vaibhav-sooryavanshi_625x300_16_September_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "source": "NDTV Sports",
+      "sourceUrl": "https://sports.ndtv.com/india-vs-afghanistan-2026/vaibhav-sooryavanshis-father-asked-about-teenagers-absence-for-india-xi-vs-afghanistan-his-reply-12056124",
+      "publishedAt": "2026-09-16T16:30:31.000Z",
+      "fetchedAt": "2026-09-16T19:13:06.178Z"
     },
     {
       "id": "4388cd5cec8550e1",
@@ -256,6 +311,17 @@
       "fetchedAt": "2026-09-16T18:03:28.455Z"
     },
     {
+      "id": "7c7bf5e2c958a598",
+      "title": "Air India's Consolidated Loss Widens To More Than Rs 22,000 Crore In FY26",
+      "summary": "Air India's loss stood at more than SGD 3.56 billion (over Rs 26,700 crore) in the financial year ended March 2026.",
+      "category": "Business & Finance",
+      "image": "https://c.ndtvimg.com/2026-01/s4r9s7dg_air-india_625x300_29_January_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "source": "NDTV Profit",
+      "sourceUrl": "https://www.ndtvprofit.com/business/air-indias-consolidated-loss-widens-to-more-than-rs-22-000-crore-in-fy26-12055908/amp/1",
+      "publishedAt": "2026-09-16T15:45:54.000Z",
+      "fetchedAt": "2026-09-16T19:13:12.945Z"
+    },
+    {
       "id": "353ab9ea708e0875",
       "title": "Adidas Layoffs: 50% Staff At India Tech Hub Shown The Doors, Says Report",
       "summary": "Adidas has reportedly begun large-scale layoffs at its Gurgaon technology hub, with over 350 employees said to be affected.",
@@ -276,6 +342,17 @@
       "sourceUrl": "https://www.wionews.com/entertainment/bollywood/veteran-actor-anant-nag-conferred-with-dadasaheb-phalke-award-2024-pm-modi-calls-it-indeed-a-richly-deserved-honour-1789562766398",
       "publishedAt": "2026-09-16T15:33:45.000Z",
       "fetchedAt": "2026-09-16T18:03:29.857Z"
+    },
+    {
+      "id": "ff40b0c0467399d4",
+      "title": "SBI, PNB, Bank of Baroda: Did Centre order merger of 9 public sector banks?",
+      "summary": "As per the fake gazette, Indian Bank, Bank of Maharashtra and Central Bank of India would be amalgamated into State Bank of India, forming SBI Group.",
+      "category": "National & Trending News",
+      "image": "https://images.moneycontrol.com/static-mcnews/2025/10/20251029115158_Bank-merger.jpg",
+      "source": "Moneycontrol.com",
+      "sourceUrl": "https://www.moneycontrol.com/news/india/sbi-pnb-bank-of-baroda-did-centre-order-merger-of-9-public-sector-banks-14031414.html",
+      "publishedAt": "2026-09-16T15:33:26.000Z",
+      "fetchedAt": "2026-09-16T19:13:14.179Z"
     },
     {
       "id": "44531597adc69536",
@@ -333,6 +410,17 @@
       "fetchedAt": "2026-09-16T17:47:16.966Z"
     },
     {
+      "id": "6d5f709ff2df6e62",
+      "title": "Orangutan trafficking probe hints at breeding op plans",
+      "summary": "Wildlife crime experts investigating the mysterious appearance of five infant orangutans in Odisha have said the animals were most likely part of a carefully planned trafficking operation aimed at establishing a future breeding population.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134291221,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/bhubaneswar/orangutan-trafficking-probe-hints-at-breeding-op-plans/articleshow/134291222.cms",
+      "publishedAt": "2026-09-16T15:17:00.000Z",
+      "fetchedAt": "2026-09-16T19:13:05.086Z"
+    },
+    {
       "id": "faefdb066bc16464",
       "title": "Rohit Sharma retained, Auqib Nabi picked in India's ODI squad for West Indies series",
       "summary": "Rohit Sharma retained, Auqib Nabi picked in India's ODI squad for West Indies series. This update was reported by India Today. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
@@ -386,6 +474,17 @@
       "sourceUrl": "https://ddindia.co.in/2026/09/india-should-aspire-to-be-among-early-leaders-in-emerging-technologies-pm-modi/",
       "publishedAt": "2026-09-16T14:46:54.000Z",
       "fetchedAt": "2026-09-16T18:24:01.025Z"
+    },
+    {
+      "id": "4f2927c10a809309",
+      "title": "Kolkata Police lodges case against former DCP Shantanu Biswas",
+      "summary": "With multiple cases lodged against him by the Enforcement Directorate, legal troubles are deepening for former Kolkata Police deputy commissioner Shantanu Sinha Biswas, as cops registered a case under the Prevention of Corruption Act, based on a complaint by an ED deputy director.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134290725,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/kolkata/kolkata-police-lodges-case-against-former-dcp-shantanu-biswas/articleshow/134290726.cms",
+      "publishedAt": "2026-09-16T14:44:00.000Z",
+      "fetchedAt": "2026-09-16T19:13:04.894Z"
     },
     {
       "id": "b1064a03f8b88043",
@@ -463,6 +562,17 @@
       "sourceUrl": "https://www.livemint.com/companies/news/adidas-layoffs-nearly-half-of-india-tech-hub-workforce-in-gurgaon-let-go-says-report-who-was-affected-11789566213054.html",
       "publishedAt": "2026-09-16T13:47:54.000Z",
       "fetchedAt": "2026-09-16T18:39:47.113Z"
+    },
+    {
+      "id": "3a4c2c9f3836eabd",
+      "title": "Chess Olympiad chaos: FIDE promises reimbursement after India lodging woes",
+      "summary": "FIDE has promised to reimburse teams after accommodation failures left India and others without proper rooms in Samarkand. The episode exposed fresh organisational lapses before the Chess Olympiad, even as the governing body blamed the local committee and moved to limit the damage.",
+      "category": "Sports",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/gukesh--r-praggnanandha--srinath-narayanan-15290670-16x9_1.jpeg?VersionId=_KA.RM8HcTAPe2Y0sRHB4Ox45fNa3sn8",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/sports/other-sports/story/chess-olympiad-accommodation-chaos-fide-reimburse-india-teams-samarkand-2996117-2026-09-16",
+      "publishedAt": "2026-09-16T13:44:23.000Z",
+      "fetchedAt": "2026-09-16T19:13:06.426Z"
     },
     {
       "id": "e25a12de76dc1454",
@@ -656,9 +766,9 @@
       "title": "School assembly news headlines today- September 17: Top national, sports and world news curated for you",
       "summary": "School assembly news headlines today- September 17: Top national, sports and world news curated for you. This update was reported by India Today. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
       "category": "National & Trending News",
-      "image": "",
+      "image": "https://static-bestcolleges.tosshub.com/2026/News/qVFUhZbbnxnYUd6AO9eQkmtvkGmJ2COKhMt8aeAi.png",
       "source": "India Today",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWEljQURWS0FTdnJ4WGRJWHBRRUIwX2FreVhZSkpjQ0JWNTIyMEw3NF9OaU14RnkzRFJ2bDRSbU85dVJNZXFmNmlKNWgzZk9BbUgtd3RkQ2dvU3hWNDJJbHRkR3VDVG54dHByTWU2aWtMVlZ1NEpSSkdXLTUtMVA1b2s4NWJ0WXh1cTBnc2FpM0hoYnZ1VS0zME9CMEtIVjFERXk0SVYta0F5akpCcUY1V2M5ZXF1UFRHd080Z3BEeFFPZ2l5Z2pONE1pVk9YM0o5WHFyTllQLUJyaW1XdE82SW80bDZyWG1u?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "sourceUrl": "https://bestcolleges.indiatoday.in/latest-news/school-assembly-news-headlines-today-september-17-top-national-sports-and-world-news-curated-for-you-11590",
       "publishedAt": "2026-09-16T12:02:12.000Z",
       "fetchedAt": "2026-09-16T17:47:18.670Z"
     },
@@ -667,11 +777,22 @@
       "title": "‘Have a spine, stand up’: Rahul says Modi ‘prostrating’ before Trump over UPI fee",
       "summary": "‘Have a spine, stand up’: Rahul says Modi ‘prostrating’ before Trump over UPI fee. This update was reported by National Herald. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
       "category": "Politics & Government",
-      "image": "",
+      "image": "https://cf-images.assettype.com/nationalherald%2F2026-09-16%2Flyj5npvf%2Frahul-modi.jpeg?rect=0%2C0%2C1806%2C948&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
       "source": "National Herald",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSHVFSHFXSU9jZ0JZb1RiUWVrdjNqTFZraXQ0dy11NVNMYWE0ZU51cTdoeGxIWlVpTVI4b2pBUjUtVUxtbGZ0cHYwbGdtTjhDQlRMS2Rrc0dYZ3hPY0I1YnJKN2xWcmpDM05XcHM1MjFydWpOTW9KS2lHV2RITXdtdWg1OG5TMk83QTYzUFVwMjJvTEdqX0xNS2t2S205UkdUWkpaRG9XY2dDbVJQTnBoakxMRktJZW8tMmFwS2thYXNGY3BPeG9ZNGtiVVN1aUxkTW5v0gHTAUFVX3lxTFBIdUVIcVdJT2NnQllvVGJRZWt2M2pMVmtpdDR3LXU1U0xhYTRlTnVxN2h4bEhaVWlNUjhvakFSNS1VTG1sZnRwdjBsZ21OOENCVExLZGtzR1hneE9jQjVicko3bFZyakMzTldwczUyMXJ1ak5Nb0pLaUdXZEhNd211aDU4blMyTzdBNjNQVXAyMm9MR2pfTE1La3ZLbTlSR1RaSlpEb1djZ0NtUlBOcGhqTExGS0llby0yYXBLa2Fhc0ZjcE94b1k0a2JVU3VpTGRNbm8?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "sourceUrl": "https://www.nationalheraldindia.com/amp/story/politics/have-a-spine-stand-up-rahul-gandhi-says-modi-prostrating-before-trump-over-upi-fee",
       "publishedAt": "2026-09-16T12:01:55.000Z",
       "fetchedAt": "2026-09-16T18:03:27.731Z"
+    },
+    {
+      "id": "099606e377028ad2",
+      "title": "‘No rethink’ on 0.4% fee for UPI payments above Rs 2,000: Report",
+      "summary": "‘No rethink’ on 0.4% fee for UPI payments above Rs 2,000: Report. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
+      "category": "Politics & Government",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EPolitics%20%26amp%3B%20Government%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "The Indian Express",
+      "sourceUrl": "https://indianexpress.com/article/india/no-rethink-rollback-0-4-mdr-upi-payments-above-rs-2000-government-sources-say-10880761/",
+      "publishedAt": "2026-09-16T11:57:27.000Z",
+      "fetchedAt": "2026-09-16T19:13:04.182Z"
     },
     {
       "id": "fc327fe70c190c1e",
@@ -689,20 +810,31 @@
       "title": "NCPCR summons Meta India head for third time in CSEAM ads case; Vaishnaw questions platform’s intermediary status",
       "summary": "NCPCR summons Meta India head for third time in CSEAM ads case; Vaishnaw questions platform’s intermediary status. This update was reported by Storyboard18. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
       "category": "Crime & Breaking News",
-      "image": "",
+      "image": "https://images.storyboard18.com/storyboard18/2026/07/Screenshot-2026-07-08-162540-1-2026-07-142114b0cba3b19228a49ecd5def7508-1019x573.png",
       "source": "Storyboard18",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVjVBTTlxczluQkJ0WVpId0JjZ3l2VG9KY1BmTUk3SU1tTE9Rc1d2ZWt6YnNtNnpuRXBHeEQ0X0w0ajVHVTc5QnptLTNKOUkydy1iSkkxQUlNaFdMd2lCZmprWjV3NTVFSXFYNFFtd293Y1VZWmRfejlPVnE4QS1ZaGVxblNmNEFNa3ltSkxkSFNiWUxVOGFBeGVPQ0NIX2hMNndvNUE2SXZDX1lYMkFWZnNOV2dQQdIBtgFBVV95cUxOVjVBTTlxczluQkJ0WVpId0JjZ3l2VG9KY1BmTUk3SU1tTE9Rc1d2ZWt6YnNtNnpuRXBHeEQ0X0w0ajVHVTc5QnptLTNKOUkydy1iSkkxQUlNaFdMd2lCZmprWjV3NTVFSXFYNFFtd293Y1VZWmRfejlPVnE4QS1ZaGVxblNmNEFNa3ltSkxkSFNiWUxVOGFBeGVPQ0NIX2hMNndvNUE2SXZDX1lYMkFWZnNOV2dQQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "sourceUrl": "https://www.storyboard18.com/amp/advertising/ncpcr-summons-meta-india-md-again-over-child-abuse-ads-ws-l-110781.htm",
       "publishedAt": "2026-09-16T11:54:07.000Z",
       "fetchedAt": "2026-09-16T17:47:13.417Z"
+    },
+    {
+      "id": "62d24927958daf40",
+      "title": "Have a spine, rollback ‘UPI tax’: Oppn ups ante against govt",
+      "summary": "New Delhi, Sep 16 (PTI) The opposition on Wednesday stepped up its attack on the government over the MDR regime for UPI and demanded a rollback of the move, with Rahul Gandhi alleging that Prime Minister Narendra Modi has decided to “prostrate” before US President Donald Trump. The leader of…",
+      "category": "Politics & Government",
+      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
+      "source": "ThePrint",
+      "sourceUrl": "https://theprint.in/india/have-a-spine-rollback-upi-tax-oppn-ups-ante-against-govt/3044568/",
+      "publishedAt": "2026-09-16T11:48:58.000Z",
+      "fetchedAt": "2026-09-16T19:13:03.958Z"
     },
     {
       "id": "001f36efabfbf086",
       "title": "44 held in district-wide crackdown on wanted criminals",
       "summary": "44 held in district-wide crackdown on wanted criminals. This update was reported by The Times of India. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
       "category": "Crime & Breaking News",
-      "image": "",
+      "image": "https://static.toiimg.com/thumb/msid-134287029,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "source": "The Times of India",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOczYybzJ4U1lSNW55UURNcjZlUHhFeUpmQ2tVMVF3dkw0QnJtYUVobjNpOHVnWDRUZWVFb0xkS2pPMDVPbFpVeDhjWnIxMGU0aldycDZ6ZjkwWmNIbFRXWXFkOEtuSzNneTRnU0JPUnpMMkhuT2NPNHpGQ25UNGlZbDQtYlBKelRkSUVjcG9OSV9uZkItZDNkajVHLUlpQkdFM095TU0wV0xLTHlmWDYxOWwwU190TnpNOWpFajMzODQ1NEJqX0RF0gHMAUFVX3lxTE5PdlV2TjhTOW5VSlBEYmlFdkRSb29NWDVjem1oTHB1SnlJMDlQRlNWX0JlNEhHa29ZM3J0T1ZINTFGdDZ6NklrU3pxR2w3b1FoQVNGN1pKNllTMmRySmhhNFVoOHprY05IdDg2MUd5bm5qbmlNcGZmc3NFdnJhVnBNMkY4Z09uR3BZSkoxb1ROVXRYWVdfWFQxcTJRQ1c0UEVxbTlITW5uaVNyT0VYbTJXa0Zpd1Z4Wi15YjhySmpKYmh6bmUxZTZmQWFKaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/ranchi/44-held-in-district-wide-crackdown-on-wanted-criminals/articleshow/134287034.cms",
       "publishedAt": "2026-09-16T11:48:00.000Z",
       "fetchedAt": "2026-09-16T18:23:58.847Z"
     },
@@ -711,9 +843,9 @@
       "title": "School Assembly News Headlines, September 17, 2026: Top national, international, business, sports updates and thought of the day",
       "summary": "School Assembly News Headlines, September 17, 2026: Top national, international, business, sports updates and thought of the day. This update was reported by The Economic Times. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
       "category": "National & Trending News",
-      "image": "",
+      "image": "https://img.etimg.com/thumb/msid-134286594,width-1200,height-630,imgsize-73810,overlay-economictimes/articleshow.jpg",
       "source": "The Economic Times",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPR09kLXo4UDQxaEdlTGFLR290cFZPR0NtV0kyMFJPQXBPa2NDQVRtQ1hzTE51YlZXOUVmR0xNN2lId0hYQWpnUUVwRE1vQlY2UDRycUNmZXE4M25lanFwRW1UNDhuTm01Rm5JTzRRb045RjlDOUc0M1dmNnlqOEo2MXQ4QnVWOUQwY2RteG54QTZrUFVJYlhYSFd6bWk3RmJ6RVNNU3JsT2c5amxsTjVQdFRjR0VoUGVwQmY0NW9zbm9IRUZTMkdLSGE4cGlBampEQjBIWXdQWFdIVHFhUzJqaEg2QlFGN1dRcE91NHlTRWk0cVFRVm96d0RnNGxyLXNiQ3VsbWRzNzZ5T3lZSzdSX2RUZU9fTmk5OVNj?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/new-updates/school-assembly-news-headlines-september-17-2026-top-national-international-business-sports-updates-and-thought-of-the-day/articleshow/134286519.cms",
       "publishedAt": "2026-09-16T11:40:49.000Z",
       "fetchedAt": "2026-09-16T17:47:18.622Z"
     },
@@ -727,6 +859,17 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/meta-has-admitted-mistake-must-remove-child-abuse-content-govt-sources-say-firm-has-no-immunity/articleshow/134286605.cms",
       "publishedAt": "2026-09-16T11:32:00.000Z",
       "fetchedAt": "2026-09-16T18:56:30.143Z"
+    },
+    {
+      "id": "1ce8b9c5efebe861",
+      "title": "Forgotten Island - Official Trailer",
+      "summary": "Watch the Official Trailer from English movie 'Forgotten Island' starring H.E.R., Liza Soberano, Dave Franco, Jenny Slate, Manny Jacinto and Dolly de Leon. 'Forgotten Island' movie is directed by Joel Crawford and Januel Mercado and produced by Mark Swift. To know more about 'Forgotten Island' trailer watch the video. Check…",
+      "category": "Entertainment",
+      "image": "https://static.toiimg.com/thumb/msid-134286409,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/videos/entertainment/english/forgotten-island-official-trailer/videoshow/134286409.cms",
+      "publishedAt": "2026-09-16T11:22:39.000Z",
+      "fetchedAt": "2026-09-16T19:13:08.185Z"
     },
     {
       "id": "3be4e0f4325e1e90",
@@ -744,9 +887,9 @@
       "title": "Today News Headlines for School Assembly, September 17, 2026: India summons Pakistan envoy over naval ship collision",
       "summary": "Today News Headlines for School Assembly, September 17, 2026: India summons Pakistan envoy over naval ship collision. This update was reported by The Indian Express. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
       "category": "National & Trending News",
-      "image": "",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ENational%20%26amp%3B%20Trending%20News%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
       "source": "The Indian Express",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPbFpxVGJ1eDZmUVlaY0Y3TjJFN1JESnBfd3dBd204bGhneVR3SzJpcGFQc25QS0NwUkUxYTktR09ZNjBZdG94NVVDcVhFbEFHSWtIbkhGTjFyaU9HTklTZzd4Yi1JSURITk13ME9ySG5SbW12WTB4bGJhbnEyUWxlMzctSzl0WUtwdjNtOVJjTmg0X1ZOVkw3d3VRcVpNUmYzR3NNcGtWdVF5N01kYl9qMDczTTZQaVRMbmxKRU5rTEswalZYbENWSE1WcnBEcGFOcVJYT29EdDZybGxWcU5lVWsyRnJGZGg2XzFiSHlLSmg2NUlSUzljc2I0V29mbm5uc2RDQ9IBiwJBVV95cUxPN19FQTdCTWYwQVJSajFlMG1POFdZYUh5ZXR2d3dvcU9BakFiM2ZVMy1wOTgzY3NwU2JXLTJHbjhwa2gyM2tDYllOMzBYX3duM1VBdlB6ZVo1a3FSajdaZXBvbTFfWjhzdzE4dzZkWjhFanVuNWJBbXBEdXU2Y0xja2FXOVhGaTdOdkk3X1g5Y2c3aVk3NWkwMWtHRHJHbU1WRExGdmlOTVlGTEVjcTh5aUxfNU81eXd6dVBuMmhFNU4tb3JuWms0S1lFUnIyVHFoRTlrREdBTmQ1Yl81NS0wWFJxUmFDcjRyMEFseVNtM2hjWjF2bHZBNWRlLUkyVmVXWHV5RlFLOHJsNms?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "sourceUrl": "https://indianexpress.com/article/education/today-news-headlines-for-school-assembly-september-17-2026-india-summons-paks-charge-daffaires-over-naval-ship-collision-10880060/",
       "publishedAt": "2026-09-16T11:14:16.000Z",
       "fetchedAt": "2026-09-16T17:50:46.476Z"
     },
@@ -755,9 +898,9 @@
       "title": "The Great Indian Kapil Show Season 5 returns with festive comedy. Watch promo",
       "summary": "The Great Indian Kapil Show Season 5 returns with festive comedy. Watch promo. This update was reported by India Today. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
       "category": "Entertainment",
-      "image": "",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/the-great-indian-kapil-show-season-5-returns-with-festive-comedy-watch-promo-16015138-16x9_0.jpg?VersionId=Uo1hUe5VDpF8PDFPdf6uzzoJ.el7D7D2",
       "source": "India Today",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeVZobmxNU2ZxNTU1Rzg3X29wckMtazhRdE1MczVIZlFTaUFzQ3RBTHNNdWVXMmk0NGlfOTV4ek5qN054ZGtEaEFhRzFLaWhYc1pJZU9wdlBlWkZGQWwyekVQNllLdlZPcGpOREZzcHFKbHhrTTZfZ1JaTU1RZjNyNVZxVUM2WEY5U2toaWs1bXBrM21sd2FQRTlDODJQTHpjcUhCeExVQ2dDTGhTQU9mMHI0SlZLQmdZTUlNZW1pVGhYX0RjblMxaV9LYTJOcm5Kekl1N1FDN1J0dVNuVmRYSHdrRdIB4wFBVV95cUxQeVZobmxNU2ZxNTU1Rzg3X29wckMtazhRdE1MczVIZlFTaUFzQ3RBTHNNdWVXMmk0NGlfOTV4ek5qN054ZGtEaEFhRzFLaWhYc1pJZU9wdlBlWkZGQWwyekVQNllLdlZPcGpOREZzcHFKbHhrTTZfZ1JaTU1RZjNyNVZxVUM2WEY5U2toaWs1bXBrM21sd2FQRTlDODJQTHpjcUhCeExVQ2dDTGhTQU9mMHI0SlZLQmdZTUlNZW1pVGhYX0RjblMxaV9LYTJOcm5Kekl1N1FDN1J0dVNuVmRYSHdrRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "sourceUrl": "https://www.indiatoday.in/amp/entertainment/ott/story/the-great-indian-kapil-show-season-5-returns-with-festive-comedy-watch-promo-2995852-2026-09-16",
       "publishedAt": "2026-09-16T11:02:12.000Z",
       "fetchedAt": "2026-09-16T17:50:44.734Z"
     },
@@ -777,9 +920,9 @@
       "title": "Asian Games 2026: India full schedule, contingent, medal prospects and more - business-standard.com",
       "summary": "Asian Games 2026: India full schedule, contingent, medal prospects and more - business-standard.com. This update was reported by business-standard.com. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
       "category": "Sports",
-      "image": "",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/16/thumb/resize/1200X628/1789555160-6429.jpg",
       "source": "business-standard.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYVRVajlnV0pLcUIyX1ExNXQ3TnYzS1hIbTFhNHBVQ2M4Mk00NUNKUVcwWWg0OGJxUkdUdm1yNE9IaEhkeGpud0JmQmRJMkhDOFBLVU10bHBxQlE2QUdxeWs1TDJWTzRFaUU4VllGdE1ITDhLa2wwNUhpM1JQS0loWlI4ZGwzSDFsZTZTdWU4bThxNmtaXzljNU0zRmVHXzhwVXZ6ZDMwY1BYN2syYWlPdF9HRjBUVGRIMTRhSjdvcjRFWXNZWUVhT3pvWHI0a1N0R0U5Yno1RzFKbTNLb2fSAeMBQVVfeXFMTXBSM1lCRDRwcjNRZXh0a0h6NWlseDVsa3RBUTNBc3hvVU03Mjgxam5hSTFWajY3ZWRTRzVPcnVEWXhuRmhZZGMzeFF2SE9PakhfLUhieC13UWpCem1Udkl5WlFsOVE2bUNqRG50QWIxVDRpVFp3UzZSQU5QVE1HanY2LXpQcDdOd1UwVUhkRngtamg0VW9EUVVGOE04eG44dk9aYTVHYks2NE9mRUFKcmVhd0JEWVhZOFl0ekdyZTJLc1NDZG1IM2xVQnVVNUFfX1lPWmhQLUpGTE9iUGZoQ3dTdkU?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "sourceUrl": "https://www.business-standard.com/sports/asian-games/asian-games-2026-india-full-schedule-contingent-medal-prospects-and-more-126091600792_1.html",
       "publishedAt": "2026-09-16T10:56:12.000Z",
       "fetchedAt": "2026-09-16T18:23:59.552Z"
     },
@@ -810,9 +953,9 @@
       "title": "PM Modi says BJP established a new principle in Indian politics of Nation-First",
       "summary": "PM Modi says BJP established a new principle in Indian politics of Nation-First. This update was reported by News On AIR. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
       "category": "Politics & Government",
-      "image": "",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EPolitics%20%26amp%3B%20Government%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
       "source": "News On AIR",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX1B0R1NQem1xSlBzRHo3YktMdEFtZHZXeVJzODlwRVpnc2pQT1VYdXhrdm5USVdJd2l5SWRXLWFUWElkTjZyeFBtMmxsQXJUX0p1cW5fbk9zaFhEaE5iWGYyR0xEVnF1Z0hMdG0zYl9xZ2otOVNBM2c5OGw3RUJkam5QdG5ieU52NEgzYXlGRjFDdDJVTGJQTlIyUUNncjZ4YnJwYnpwNVY?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "sourceUrl": "https://newsonair.gov.in/pm-modi-says-bjp-established-a-new-principle-in-indian-politics-of-nation-first/",
       "publishedAt": "2026-09-16T10:11:41.000Z",
       "fetchedAt": "2026-09-16T17:47:12.316Z"
     },
@@ -821,9 +964,9 @@
       "title": "After 3+ years in power, Congress govt looks to revive promise to repeal Karnataka anti-conversion law",
       "summary": "After 3+ years in power, Congress govt looks to revive promise to repeal Karnataka anti-conversion law. This update was reported by ThePrint. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
       "category": "Politics & Government",
-      "image": "",
+      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/08/Untitled-design-2026-08-18T125013.389.png",
       "source": "ThePrint",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOemdrNnZWb0VNRE1LWTl3MWZ1SE91dzBrODdnNUhsYTF4RGpwRUZ1NVBabWdvc2VEZW0wVEtvSm1kSlRiQ3VUMWxSajJPUmJHd2F6anRxUzZpN2I2MEcydzdSZTB0d0hlejAyVW1CMUtZU0dmaEdieHRvS0ttX0NYV3BraENMUm9Gd1otd2xBbURtNEJ4N29DVDZ4M1Y3T3lRQ05vRHRLN3JRU0RwUTV2bmZfZ2RkM2RQWTJjdVYza1RLRDZiRVBTRkZUdE53N0dudFpPadIB2gFBVV95cUxPNmRnRVdGR0NuR0FVY3RXampSYXBtQUJSSjlGRnZHVjZzczBwV0tyZFNJZ083ckduQVEtcldzSmp5SjRBZy04N2pmN1IwZnY1SFFMSUxtOXRKV1AyclNQd2dsRjc4QjJOUlFGWkI4YzR0Y0k4T01LalVnOXZMR2RFSmpFUkIzekVPbDZZQllQWWstLVE3VUJObFZnNUhla0h1RUc2Y0RucUY1Q0d2dm0tOHZnN0JIN3NaQmE4bkUteVNQU3gtYTEtalRoUloxMFY3bnNWLWZTQnZjQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "sourceUrl": "https://theprint.in/politics/after-3-years-in-power-congress-govt-looks-to-revive-promise-to-repeal-karnataka-anti-conversion-law/3044045/",
       "publishedAt": "2026-09-16T09:39:58.000Z",
       "fetchedAt": "2026-09-16T18:23:58.062Z"
     },
@@ -832,9 +975,9 @@
       "title": "AAP faces fiscal, political challenges with barely six months left for assembly polls",
       "summary": "AAP faces fiscal, political challenges with barely six months left for assembly polls. This update was reported by The New Indian Express. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
       "category": "Politics & Government",
-      "image": "",
+      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-09-13%2Foo0927b7%2F20260819165F.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
       "source": "The New Indian Express",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQkNWSG0xdG1rc0Z4SGFzNG1lTk1ZNERjcW5jYjF6eDlqNE9wcWc0Sy1FazFuWUd5TEtQVmw2YjdsT0ZISGFSOHQ4Mmh3ZGtjRXhmMzNxWE5VNHdyc0xTaGlCUTllaWFVbmlrNEcxOHZLMVJYaEl4X1JOUmVXZXRFdVdJOWloWHhDUUtNQ3ZNLVp2SmhKVjBvb0ZIMndKb2Roa1BOWjI0VmgzdnJybkM5NGFuRFdZaVBRUi1sMlJmbDNMTVZ4WUM0cXo0LVFUN3Jp0gHeAUFVX3lxTE1sY0tYOXh6bUNnUFZxRHdibGwweGUyQ0dITVdaOEpCelFIbjRwSDdETEk4eFVYemN2TklnYmltNk50ek40ak5PSjFQcFB2TEItRFVSUjd3eWtsejNPSm1xVFY5SDNOQVlxeC05MXd4dWtuUW84ZDZhVXhpMmdLQm82UTBBZ3pjUUhwenlZWmozT2RtcDUyNDZvVjZ0VDFYWTRkNWRTV3NvQ2w1cnowU3JKbkV4ZGFhU3pQSHR3OHNvODRNRk5YRlVZTU1yUlpFLTJEdlZNV3o3cTRBVWZiQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "sourceUrl": "https://www.newindianexpress.com/india/2026/Sep/16/aap-faces-fiscal-political-challenges-with-barely-six-months-left-for-assembly-polls",
       "publishedAt": "2026-09-16T09:33:57.000Z",
       "fetchedAt": "2026-09-16T17:50:42.878Z"
     },
@@ -854,9 +997,9 @@
       "title": "India open to stricter red warnings on food packs in latest setback for companies",
       "summary": "India open to stricter red warnings on food packs in latest setback for companies. This update was reported by The Hindu. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
       "category": "National & Trending News",
-      "image": "",
+      "image": "https://th-i.thgim.com/public/incoming/lwie12/article71471779.ece/alternates/LANDSCAPE_1200/Food%20Safety%20label%20warning%20FSSAI%20-%20new.jpg",
       "source": "The Hindu",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPalphay1TSEFBYTYzYUdiblBGbHZPLVdmcjVqTTlmM0NUYVdNRERhN0tnVmRXTElKd3cxWVpnTEYxYVVMRjlaazFUcWNqbk5YTV9BZnQ4eEZzY1B0RHNYd0ZuaWRJallmRWVrazBQYlh0aHlJeFlKUEY5MHowWW83aDdwWFVGTkNSV1N4a1M5OGVFU1pEcllYQ2Q0dlFUTXMyYzk1YnV0ZUlfRTJtWFpNQ1FTY3RDT1NWeUplOEt6UTlRdHNlWGdobWdYV1lyVkgxNC1yZlU4a0k5QdIB4AFBVV95cUxOckk0MVJ3QlFpZDVKNlF4Q3BCWFZydHlnekhDV0FIcUJfZVVaeWFmVmstRjZQLW1Nb2JtcTZ2SEZ3Z0RQUGs0dkxBN2NDckl1ZmFKUWVDNi1rSzhtbkpnWEszaTdZbUlxbHdQckxlQktaYUZLSnB6di02X2V5NE9QYkp4SjI1VEFIMDNtOWN2NkIxVXU3RmFScTFJcmtZWlhxaklUdjZmRURzSUYxWUpScTEtVlpEWEJEV1RHajhwQW1NYzVvYTBadjhjNmdOVXVkOVI4TG5VbDk3a3hHczl5NA?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/health/india-open-to-stricter-red-warnings-on-food-packs-in-latest-setback-for-companies/article71471762.ece",
       "publishedAt": "2026-09-16T09:09:04.000Z",
       "fetchedAt": "2026-09-16T17:50:46.395Z"
     },
@@ -936,6 +1079,17 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcHFZanRHU3Y2Xy05YUpxTTBCZnhvakFPWU1aLVhBelhjck1TM2tOb0pGRGlkd0V5cGc1aUgyb0VBQXN4aFUxMnhuNTR6andwNTM2RGNWOEJ0SU40RzdzRHdVM3NpU2FZTHZzclN6TVJVbUUwWnAyX0xZTTV4cGdJODZUbDFJNHhhZGM4TWtZbnM5U0piSVpRQmZMV3N4VkdlaE1kVmo1RUdUbnl4MlVHYnNieFd4WnNuZFlUdzN5Wl9Yb21SQlNnYzl1bFRuaXVrcDVV0gHTAUFVX3lxTFBwcVlqdEdTdjZfLTlhSnFNMEJmeG9qQU9ZTVotWEF6WGNyTVMza05vSkZEaWR3RXlwZzVpSDJvRUFBc3hoVTEyeG41NHpqd3A1MzZEY1Y4QnRJTjRHN3NEd1Uzc2lTYVlMdnNyU3pNUlVtRTBacDJfTFlNNXhwZ0k4NlRsMUk0eGFkYzhNa1luczlTSmJJWlFCZkxXc3hWR2VoTWRWajVFR1RueXgyVUdic2J4V3hac25kWVR3M3laX1hvbVJCU2djOXVsVG5pdWtwNVU?oc=5&hl=en-US&gl=US&ceid=US:en",
       "publishedAt": "2026-09-16T06:47:06.000Z",
       "fetchedAt": "2026-09-16T18:24:02.439Z"
+    },
+    {
+      "id": "c4beccc6fe6da8a6",
+      "title": "Actor Isha Rikhi hints at 'physical, emotional cheating' in marriage with Badshah",
+      "summary": "On Bigg Boss 20, Isha Rikhi told Kanika Mann that she had faced \"physical, emotional and social\" cheating in her marriage. Her remarks added to the public account of her separation from Badshah.",
+      "category": "Entertainment",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/isha-rikhi-l--badshah-r-283559630-16x9.jpg?VersionId=r6AeTctujV29YS1_pFJGjO0xXZVxzidv",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/amp/entertainment/television/story/isha-rikhi-badshah-marriage-split-bigg-boss-20-cheating-comments-kanika-mann-2995683-2026-09-16",
+      "publishedAt": "2026-09-16T06:35:43.000Z",
+      "fetchedAt": "2026-09-16T19:13:07.886Z"
     },
     {
       "id": "f3dc105afd377b4b",
