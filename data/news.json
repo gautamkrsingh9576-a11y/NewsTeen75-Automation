@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-16T21:28:58.908Z",
-  "count": 201,
+  "updatedAt": "2026-09-16T21:44:47.073Z",
+  "count": 206,
   "articles": [
     {
       "id": "49cdfa0273484a50",
@@ -784,6 +784,17 @@
       "fetchedAt": "2026-09-16T18:24:01.129Z"
     },
     {
+      "id": "236a978005104b59",
+      "title": "IND vs WI: Kuldeep Yadav returns to T20I side, Nitish Kumar Reddy to miss Asian Games",
+      "summary": "India have recalled Kuldeep Yadav for the five-match T20I series against West Indies. The announcement also confirmed Nitish Kumar Reddy's withdrawal from the Asian Games squad.",
+      "category": "Sports",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/kuldeep-yadav-162250224-16x9_0.jpg?VersionId=cGTmOWtPg8Fq72TC1xBRf5todOz52qHa",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/sports/cricket/story/india-t20i-squad-kuldeep-yadav-returns-nitish-kumar-reddy-out-asian-games-2996225-2026-09-16",
+      "publishedAt": "2026-09-16T15:25:02.000Z",
+      "fetchedAt": "2026-09-16T21:44:43.774Z"
+    },
+    {
       "id": "0fe0436e157555a1",
       "title": "Adidas cuts jobs in India technology team as it moves to simplify operations",
       "summary": "Adidas cuts jobs in India technology team as it moves to simplify operations. This update was reported by Firstpost. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
@@ -1015,6 +1026,17 @@
       "fetchedAt": "2026-09-16T20:26:57.317Z"
     },
     {
+      "id": "8d3c7ccf771b988d",
+      "title": "Umar Khalid Is ‘Nationalist’ says Congress Leader; ABVP opposes screening at NLSIU Bengaluru",
+      "summary": "Congress leader B.K. Hariprasad called Umar Khalid a &ldquo;nationalist&rdquo; while criticising ABVP&rsquo;s opposition to a proposed documentary screening at NLSIU, prompting a response from ABVP National Secretary Shravan B Raj, who said the group would oppose the &ldquo;glorification&rdquo; of what he called &ldquo;anti-national elements.&rdquo; Karnataka Minister Priyank Kharge questioned who…",
+      "category": "National & Trending News",
+      "image": "https://m.economictimes.com/",
+      "source": "The Economic Times",
+      "sourceUrl": "https://m.economictimes.com/news/politics-and-nation/umar-khalid-is-nationalist-says-congress-leader-abvp-opposes-screening-at-nlsiu-bengaluru/amp_videoshow/134290201.cms",
+      "publishedAt": "2026-09-16T14:14:00.000Z",
+      "fetchedAt": "2026-09-16T21:44:46.209Z"
+    },
+    {
       "id": "e62ddd8eb0848478",
       "title": "‘Scam dramedy’ Waiting Hai turns India’s Tatkal chaos into a crime caper",
       "summary": "‘Scam dramedy’ Waiting Hai turns India’s Tatkal chaos into a crime caper. This update was reported by ThePrint. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
@@ -1178,6 +1200,28 @@
       "sourceUrl": "https://www.thehawk.in/news/economy-and-business/nepal-finance-minister-to-visit-india-seek-support-for-post-flood-reconstruction",
       "publishedAt": "2026-09-16T12:36:38.000Z",
       "fetchedAt": "2026-09-16T18:39:47.736Z"
+    },
+    {
+      "id": "91921c81e7a0f8aa",
+      "title": "Karnavati Finance (BSE:538928): Business Profile and Finance Sector Overview",
+      "summary": "Karnavati Finance (BSE:538928): Business Profile and Finance Sector Overview. This update was reported by Kalkine India. Open the original report for full context and any developing updates.",
+      "category": "Business & Finance",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EBusiness%20%26amp%3B%20Finance%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "Kalkine India",
+      "sourceUrl": "https://www.kalkine.co.in/article/financial/karnavati-finance-bse538928-understanding-its-role-in-indias-finance-and-leasing-segment",
+      "publishedAt": "2026-09-16T12:34:00.000Z",
+      "fetchedAt": "2026-09-16T21:44:45.220Z"
+    },
+    {
+      "id": "f606cedcb46ca8b1",
+      "title": "India Home Loan (BSE:530979): Business Profile and Housing Finance Overview",
+      "summary": "India Home Loan (BSE:530979): Business Profile and Housing Finance Overview. This update was reported by Kalkine India. Open the original report for full context and any developing updates.",
+      "category": "Business & Finance",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EBusiness%20%26amp%3B%20Finance%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "Kalkine India",
+      "sourceUrl": "https://www.kalkine.co.in/article/financial/india-home-loan-bse530979-understanding-its-role-in-indias-housing-finance-segment",
+      "publishedAt": "2026-09-16T12:34:00.000Z",
+      "fetchedAt": "2026-09-16T21:44:45.435Z"
     },
     {
       "id": "663c9bc3d2f72a0c",
@@ -1827,6 +1871,17 @@
       "sourceUrl": "https://www.india.com/entertainment/bollywood/nana-patekar-gave-up-rs-1-5-crore-car-to-help-farmers-writer-recalls-actors-right-reasons-for-anger-8525489/",
       "publishedAt": "2026-09-16T07:25:22.000Z",
       "fetchedAt": "2026-09-16T19:42:27.995Z"
+    },
+    {
+      "id": "cb831055bb940903",
+      "title": "Royal Society of Chemistry launches India Sustainability Forum 2026 in Pune",
+      "summary": "Pune (Maharashtra) [India], September 16: The Royal Society of Chemistry (RSC) convened the inaugural India Sustainability Forum (ISF) 2026 in partnership with CSIR-National Chemical Laboratory (CSIR-NCL), Pune and INFLIBNET Centre at the CSIR-National Chemical Laboratory, Pune bringing together leading scientists, industry experts, policymakers and innovators to explore how chemistry can…",
+      "category": "National & Trending News",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTZjY2RmNzcwLWIxOWYtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
+      "source": "The Tribune",
+      "sourceUrl": "https://www.tribuneindia.com/news/business/royal-society-of-chemistry-launches-india-sustainability-forum-2026-in-pune/amp",
+      "publishedAt": "2026-09-16T07:22:38.000Z",
+      "fetchedAt": "2026-09-16T21:44:47.073Z"
     },
     {
       "id": "4ff2f3e895222eb7",
