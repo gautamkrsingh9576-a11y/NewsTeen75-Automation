@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-09-16T23:24:00.318Z",
-  "count": 215,
+  "updatedAt": "2026-09-16T23:38:07.044Z",
+  "count": 218,
   "articles": [
+    {
+      "id": "1d64d69610c65ffc",
+      "title": "‘India has made enough overtures… Now it’s up to Bangladesh’: Former Indian High Commissioner to Bangladesh",
+      "summary": "‘India has made enough overtures… Now it’s up to Bangladesh’: Former Indian High Commissioner to Bangladesh. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
+      "category": "Politics & Government",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EPolitics%20%26amp%3B%20Government%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "The Indian Express",
+      "sourceUrl": "https://indianexpress.com/article/india/pinak-ranjan-chakravarty-former-indian-high-commissioner-to-bangladesh-interview-10881328/",
+      "publishedAt": "2026-09-16T23:30:45.000Z",
+      "fetchedAt": "2026-09-16T23:38:02.702Z"
+    },
+    {
+      "id": "0563cdb994b74432",
+      "title": "U.S. House passes Russia sanctions bill seeking to impose up to 100% tariffs on India, others",
+      "summary": "U.S. House passes bill allowing 100% tariffs on countries, including India, buying Russian energy, awaiting Trump’s signature.",
+      "category": "National & Trending News",
+      "image": "https://th-i.thgim.com/public/incoming/96milu/article71474377.ece/alternates/LANDSCAPE_1200/2026-06-24T212807Z_349037414_RC2L0MA910ET_RTRMADP_3_USA-CONGRESS-BUDGET-SUPPLEMENTAL.JPG",
+      "source": "thehindu.com",
+      "sourceUrl": "https://www.thehindu.com/news/international/us-house-passes-russia-sanctions-bill-india-tariffs/article71474350.ece",
+      "publishedAt": "2026-09-16T23:12:59.000Z",
+      "fetchedAt": "2026-09-16T23:38:07.043Z"
+    },
+    {
+      "id": "b2ebf955047c553c",
+      "title": "Invesco India Technology Fund(G)-Direct Plan",
+      "summary": "Invesco India Technology Fund(G)-Direct Plan details: NAV ₹9.89, AUM 342 Cr, Expense Ratio 0.84%. Check returns, holdings, sector allocation, and fund manager info on Univest.",
+      "category": "Technology",
+      "image": "https://assets.univest.in/website-assets/UnivestLogo.jpg",
+      "source": "Univest",
+      "sourceUrl": "https://univest.in/mutual-funds/invesco-india-technology-fund-g-direct-plan",
+      "publishedAt": "2026-09-16T22:10:39.000Z",
+      "fetchedAt": "2026-09-16T23:38:05.991Z"
+    },
     {
       "id": "49cdfa0273484a50",
       "title": "Who is Siddharth Jawahar? Indian national who allegedly took Travis Kelce’s millions to fund his lavish l",
