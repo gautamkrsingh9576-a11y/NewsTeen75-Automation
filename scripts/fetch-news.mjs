@@ -1,11 +1,17 @@
 import fs from "node:fs";
 import crypto from "node:crypto";
+import { createRequire } from "node:module";
+
+const require = createRequire(import.meta.url);
+const { GoogleDecoder } = require("google-news-url-decoder");
+const decoder = new GoogleDecoder();
 
 const FEED_PATH = new URL("../data/news.json", import.meta.url);
 const MAX_ARTICLES = 250;
 const MAX_NEW_PER_CATEGORY = 2;
 const FRESH_WINDOW_MS = 24 * 60 * 60 * 1000;
 const RETENTION_WINDOW_MS = 72 * 60 * 60 * 1000;
+const MAX_IMAGE_BACKFILLS_PER_RUN = 12;
 
 const categories = [
   { name: "Politics & Government", query: "India politics government when:1d" },
@@ -85,7 +91,7 @@ function buildSummary(title, description, source) {
     isGenericGoogleDescription(text) ||
     text.toLowerCase() === cleanTitle.toLowerCase()
   ) {
-    text = `${cleanTitle}. This update was reported by ${source || "the original publisher"}. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.`;
+    text = `${cleanTitle}. This update was reported by ${source || "the original publisher"}. Open the original report for full context and any developing updates.`;
   }
 
   return trimWords(text, 50);
@@ -95,8 +101,8 @@ function metaValue(html, keys) {
   for (const key of keys) {
     const escapedKey = key.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
     const patterns = [
-      new RegExp(`<meta[^>]+(?:property|name)=["']${escapedKey}["'][^>]+content=["']([^"']+)["'][^>]*>`, "i"),
-      new RegExp(`<meta[^>]+content=["']([^"']+)["'][^>]+(?:property|name)=["']${escapedKey}["'][^>]*>`, "i"),
+      new RegExp(`<meta[^>]+(?:property|name|itemprop)=["']${escapedKey}["'][^>]+content=["']([^"']+)["'][^>]*>`, "i"),
+      new RegExp(`<meta[^>]+content=["']([^"']+)["'][^>]+(?:property|name|itemprop)=["']${escapedKey}["'][^>]*>`, "i"),
     ];
     for (const pattern of patterns) {
       const match = html.match(pattern);
@@ -104,6 +110,89 @@ function metaValue(html, keys) {
     }
   }
   return "";
+}
+
+function linkImageValue(html) {
+  const patterns = [
+    /<link[^>]+rel=["']image_src["'][^>]+href=["']([^"']+)["'][^>]*>/i,
+    /<link[^>]+href=["']([^"']+)["'][^>]+rel=["']image_src["'][^>]*>/i,
+  ];
+  for (const pattern of patterns) {
+    const match = html.match(pattern);
+    if (match) return decodeEntities(match[1]).trim();
+  }
+  return "";
+}
+
+function extractImageFromJson(value) {
+  if (!value) return "";
+  if (typeof value === "string") return value;
+
+  if (Array.isArray(value)) {
+    for (const item of value) {
+      const found = extractImageFromJson(item);
+      if (found) return found;
+    }
+    return "";
+  }
+
+  if (typeof value === "object") {
+    for (const key of ["url", "contentUrl", "thumbnailUrl"]) {
+      if (typeof value[key] === "string" && value[key]) return value[key];
+    }
+
+    for (const key of ["image", "thumbnail", "primaryImageOfPage"]) {
+      if (value[key]) {
+        const found = extractImageFromJson(value[key]);
+        if (found) return found;
+      }
+    }
+  }
+
+  return "";
+}
+
+function jsonLdImageValue(html) {
+  const scripts = [...html.matchAll(/<script[^>]+type=["']application\/ld\+json["'][^>]*>([\s\S]*?)<\/script>/gi)];
+
+  for (const script of scripts) {
+    const raw = decodeEntities(script[1]).trim();
+    if (!raw) continue;
+
+    try {
+      const parsed = JSON.parse(raw);
+      const found = extractImageFromJson(parsed);
+      if (found) return found;
+    } catch {
+      // Some publishers expose invalid JSON-LD. Meta tags are still checked first.
+    }
+  }
+
+  return "";
+}
+
+function absoluteUrl(value, baseUrl) {
+  if (!value) return "";
+  try {
+    return new URL(value, baseUrl).href;
+  } catch {
+    return "";
+  }
+}
+
+function escapeXml(value = "") {
+  return String(value)
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&apos;");
+}
+
+function fallbackImage(category = "Latest News") {
+  const label = escapeXml(category);
+  const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675"><rect width="1200" height="675" fill="#0b0b10"/><circle cx="980" cy="150" r="180" fill="#ff3045" opacity="0.25"/><text x="80" y="270" fill="#ffffff" font-family="Arial,sans-serif" font-size="92" font-weight="700">NewsTeen75</text><text x="80" y="370" fill="#ff3045" font-family="Arial,sans-serif" font-size="46" font-weight="700">${label}</text><text x="80" y="455" fill="#b7b7c2" font-family="Arial,sans-serif" font-size="32">Latest news update</text></svg>`;
+  return `data:image/svg+xml;charset=UTF-8,${encodeURIComponent(svg)}`;
 }
 
 function isFresh(dateValue, windowMs = FRESH_WINDOW_MS) {
@@ -120,14 +209,40 @@ function isRetained(dateValue) {
   return age >= -60 * 60 * 1000 && age <= RETENTION_WINDOW_MS;
 }
 
+async function resolvePublisherUrl(url) {
+  if (!url) return "";
+
+  try {
+    const hostname = new URL(url).hostname.toLowerCase();
+    if (hostname !== "news.google.com" && !hostname.endsWith(".news.google.com")) {
+      return url;
+    }
+  } catch {
+    return url;
+  }
+
+  try {
+    const result = await decoder.decode(url);
+    if (result?.status && result?.decoded_url) return result.decoded_url;
+  } catch (error) {
+    console.warn(`Could not decode Google News URL: ${error.message}`);
+  }
+
+  return url;
+}
+
 async function enrichArticle(url) {
   try {
     const controller = new AbortController();
-    const timeout = setTimeout(() => controller.abort(), 7000);
+    const timeout = setTimeout(() => controller.abort(), 9000);
     const response = await fetch(url, {
       redirect: "follow",
       signal: controller.signal,
-      headers: { "user-agent": "Mozilla/5.0 NewsTeen75Bot/1.0" },
+      headers: {
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/152 Safari/537.36 NewsTeen75/1.0",
+        accept: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "accept-language": "en-IN,en;q=0.9",
+      },
     });
     clearTimeout(timeout);
     if (!response.ok) return {};
@@ -135,20 +250,21 @@ async function enrichArticle(url) {
     const finalUrl = response.url || url;
     const hostname = new URL(finalUrl).hostname.toLowerCase();
 
-    // Google News RSS links often stay on Google News instead of resolving
-    // to the publisher. Avoid using Google's generic description/logo.
     if (hostname === "news.google.com" || hostname.endsWith(".news.google.com")) {
       return { finalUrl };
     }
 
     const html = await response.text();
     const description = metaValue(html, ["og:description", "twitter:description", "description"]);
-    const image = metaValue(html, ["og:image", "twitter:image"]);
+    const rawImage =
+      metaValue(html, ["og:image", "og:image:url", "twitter:image", "twitter:image:src", "image"]) ||
+      linkImageValue(html) ||
+      jsonLdImageValue(html);
 
     return {
       finalUrl,
       description: isGenericGoogleDescription(description) ? "" : description,
-      image,
+      image: absoluteUrl(rawImage, finalUrl),
     };
   } catch {
     return {};
@@ -171,16 +287,17 @@ async function fetchCategory(category, knownLinks, knownTitles) {
     if (!item.link || !cleanTitle || !isFresh(item.pubDate)) continue;
     if (knownLinks.has(item.link) || knownTitles.has(cleanTitle.toLowerCase())) continue;
 
-    const enriched = await enrichArticle(item.link);
+    const publisherUrl = await resolvePublisherUrl(item.link);
+    const enriched = await enrichArticle(publisherUrl);
     const publishedAt = new Date(item.pubDate).toISOString();
-    const sourceUrl = enriched.finalUrl || item.link;
+    const sourceUrl = enriched.finalUrl || publisherUrl || item.link;
 
     fresh.push({
       id: idFor(sourceUrl, cleanTitle),
       title: cleanTitle,
       summary: buildSummary(cleanTitle, enriched.description, item.source),
       category: category.name,
-      image: enriched.image || "",
+      image: enriched.image || fallbackImage(category.name),
       source: item.source || "Google News",
       sourceUrl,
       publishedAt,
@@ -195,10 +312,41 @@ async function fetchCategory(category, knownLinks, knownTitles) {
   return fresh;
 }
 
+async function backfillMissingImages(articles) {
+  let changed = false;
+  let processed = 0;
+
+  for (const article of articles) {
+    if (processed >= MAX_IMAGE_BACKFILLS_PER_RUN) break;
+    if (article.image) continue;
+
+    processed += 1;
+    const currentUrl = article.sourceUrl || article.link || "";
+    const publisherUrl = await resolvePublisherUrl(currentUrl);
+    const enriched = await enrichArticle(publisherUrl);
+
+    const nextImage = enriched.image || fallbackImage(article.category);
+    if (nextImage !== article.image) {
+      article.image = nextImage;
+      changed = true;
+    }
+
+    const nextSourceUrl = enriched.finalUrl || publisherUrl;
+    if (nextSourceUrl && nextSourceUrl !== article.sourceUrl) {
+      article.sourceUrl = nextSourceUrl;
+      changed = true;
+    }
+  }
+
+  return changed;
+}
+
 async function main() {
   const existing = JSON.parse(fs.readFileSync(FEED_PATH, "utf8"));
   const previousArticles = Array.isArray(existing.articles) ? existing.articles : [];
   const articles = previousArticles.filter((article) => isRetained(article.publishedAt));
+
+  const changedByImageBackfill = await backfillMissingImages(articles);
 
   const knownLinks = new Set(articles.flatMap((a) => [a.sourceUrl, a.link].filter(Boolean)));
   const knownTitles = new Set(articles.map((a) => String(a.title || "").toLowerCase()));
@@ -217,8 +365,8 @@ async function main() {
     .slice(0, MAX_ARTICLES);
 
   const changedByRetention = articles.length !== previousArticles.length;
-  if (!newArticles.length && !changedByRetention) {
-    console.log("No new articles found. Feed unchanged.");
+  if (!newArticles.length && !changedByRetention && !changedByImageBackfill) {
+    console.log("No new articles or image updates found. Feed unchanged.");
     return;
   }
 
