@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-16T19:53:41.167Z",
-  "count": 154,
+  "updatedAt": "2026-09-16T20:09:05.094Z",
+  "count": 166,
   "articles": [
     {
       "id": "3ecbe2408f072044",
@@ -212,6 +212,17 @@
       "fetchedAt": "2026-09-16T19:42:39.948Z"
     },
     {
+      "id": "268ddeae9e55b1e3",
+      "title": "Bridging India's skills gap: National Apprenticeship Promotion Scheme faces low corporate participation",
+      "summary": "India's National Apprenticeship Promotion Scheme faces low corporate participation. Many young graduates lack practical work experience, creating a significant skills gap. Low engagement from MSMEs and startups hinders the program's overall effectiveness. Improving NAPS accessibility and support can unlock economic potential for the nation. Companies must view apprentices as long-term…",
+      "category": "National & Trending News",
+      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-113306,resizemode-75,msid-134293607/opinion/et-editorial/bridging-indias-skills-gap-national-apprenticeship-promotion-scheme-faces-low-corporate-participation.jpg",
+      "source": "The Economic Times",
+      "sourceUrl": "https://economictimes.indiatimes.com/opinion/et-editorial/bridging-indias-skills-gap-national-apprenticeship-promotion-scheme-faces-low-corporate-participation/articleshow/134293607.cms?from=mdr",
+      "publishedAt": "2026-09-16T17:34:00.000Z",
+      "fetchedAt": "2026-09-16T20:09:05.093Z"
+    },
+    {
       "id": "3e9ac10dee6ca9f9",
       "title": "Adidas On India Tech Job Cuts: Impact Of Changes Is Less Than 20% Of Our India Technology Organization",
       "summary": "Adidas On India Tech Job Cuts: Impact Of Changes Is Less Than 20% Of Our India Technology Organization. This update was reported by TradingView. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
@@ -245,6 +256,17 @@
       "fetchedAt": "2026-09-16T18:56:31.002Z"
     },
     {
+      "id": "5ea6439d881a62e4",
+      "title": "Chinese Telegram Ring, Bank Insider & Rs 12.84 Crore: How Delhi Police's IFSO Unit Busted Mega Corporate Cy",
+      "summary": "The fraudulent scheme involved 317 unauthorised digital transactions executed directly from Hero FinCorp's corporate bank account",
+      "category": "Crime & Breaking News",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/05/Untitled-design-2025-05-05T165825.003-2025-05-1ef22b3aee57b00d08572233b8cd9f45-16x9.jpg",
+      "source": "News18",
+      "sourceUrl": "https://www.news18.com/amp/india/chinese-telegram-ring-bank-insider-rs-12-84-crore-how-delhi-polices-ifso-unit-busted-mega-corporate-cyber-fraud-ws-lt-10334806.html",
+      "publishedAt": "2026-09-16T17:08:17.000Z",
+      "fetchedAt": "2026-09-16T20:08:55.573Z"
+    },
+    {
       "id": "c4d6abc1a07c54b3",
       "title": "India's Squad vs WI - Who's In, Who's Out: Hardik Pandya, Rishabh Pant Ignored As India Call Up Two Debutants",
       "summary": "India's Squad vs WI - Who's In, Who's Out: Hardik Pandya, Rishabh Pant Ignored As India Call Up Two Debutants. This update was reported by NDTV Sports. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
@@ -256,6 +278,17 @@
       "fetchedAt": "2026-09-16T18:23:59.462Z"
     },
     {
+      "id": "5ccc18da25788f38",
+      "title": "CJP leader Abhijeet Dipke tears up copy of MoU between Maharashtra govt, trust over tribal hostels",
+      "summary": "Maharashtra tribal hostels row escalates as CJP leader Abhijeet Dipke tears up MoU between state govt and RSS-linked trust, alleging handover of 490 hostels to the trust without proper consultation.",
+      "category": "Politics & Government",
+      "image": "https://media.assettype.com/deccanherald%2F2026-09-16%2Fftlqa9f1%2Ffile87mi4lcq1r9mqv77b7f.jpg?rect=0%2C0%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
+      "source": "Deccan Herald",
+      "sourceUrl": "https://www.deccanherald.com/india/maharashtra/cjp-leader-abhijeet-dipke-tears-up-copy-of-mou-between-maharashtra-govt-trust-over-tribal-hostels-4148638",
+      "publishedAt": "2026-09-16T17:01:57.000Z",
+      "fetchedAt": "2026-09-16T20:08:53.962Z"
+    },
+    {
       "id": "05f372c68537a3c2",
       "title": "Bajaj Finance Personal Loan Interest Rates: Borrowers Can Access Loans Starting from 10% p.a.",
       "summary": "Bajaj Finance Personal Loan Interest Rates: Borrowers Can Access Loans Starting from 10% p.a.. This update was reported by Press Trust of India. Open the original report for full context and any developing updates.",
@@ -265,6 +298,28 @@
       "sourceUrl": "https://www.ptinews.com/story/business/bajaj-finance-personal-loan-interest-rates-borrowers-can-access-loans-starting-from-10-p-a-/4067825",
       "publishedAt": "2026-09-16T17:00:57.000Z",
       "fetchedAt": "2026-09-16T19:13:11.724Z"
+    },
+    {
+      "id": "beef3d88c1d9f8ac",
+      "title": "CBI registers case against U.S.-based Timothy Initiative, six others over alleged routing of funds through foreign debit cards",
+      "summary": "CBI investigates The Timothy Initiative and six others for allegedly routing foreign funds into India via foreign debit cards.",
+      "category": "National & Trending News",
+      "image": "https://www.thehindu.com/theme/images/og-image.png",
+      "source": "The Hindu",
+      "sourceUrl": "https://www.thehindu.com/news/national/cbi-registers-case-against-us-based-timothy-initiative-six-others-over-alleged-routing-of-funds-through-foreign-debit-cards/article71473327.ece",
+      "publishedAt": "2026-09-16T16:56:00.000Z",
+      "fetchedAt": "2026-09-16T20:09:04.450Z"
+    },
+    {
+      "id": "87aa5c9c5f036e62",
+      "title": "Chess Olympiad: Indian men beat Thailand 3-1; women blank Dominican Republic",
+      "summary": "World champion D Gukesh, Nihal Sarin and Vidit Gujrathi began India's men's campaign at the 46th Chess Olympiad with convincing victories, but Arjun Erigaisi's late collapse denied the team a clean sweep in a 3-1 win over Thailand on Wednesday.",
+      "category": "Sports",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/d-gukesh-051645484-16x9.jpg?VersionId=kDit9p5eLsKKe4EdyE2vVc4DOWodZILf",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/sports/other-sports/story/chess-olympiad-india-men-beat-thailand-3-1-women-beat-dominican-republic-2996308-2026-09-16",
+      "publishedAt": "2026-09-16T16:48:50.000Z",
+      "fetchedAt": "2026-09-16T20:08:58.768Z"
     },
     {
       "id": "126dcc68e825234c",
@@ -419,6 +474,17 @@
       "sourceUrl": "https://newsindiatimes.com/finally-a-mamdani-policy-even-republicans-can-love/",
       "publishedAt": "2026-09-16T15:58:06.000Z",
       "fetchedAt": "2026-09-16T19:28:25.852Z"
+    },
+    {
+      "id": "b44c5b0bd5fce0df",
+      "title": "Pakistan Demands Asian Champions Trophy Be Moved From India",
+      "summary": "Pakistan has requested the Asian Hockey Federation to move its Asian Champions Trophy matches from India to a neutral venue, citing a",
+      "category": "Sports",
+      "image": "https://im.rediff.com/1200-630/cricket/2023/jul/10pakistan.jpg",
+      "source": "Rediff",
+      "sourceUrl": "https://m.rediff.com/amp/sports/report/pakistan-requests-neutral-venue-for-asian-champions-trophy/20260916.htm",
+      "publishedAt": "2026-09-16T15:54:17.000Z",
+      "fetchedAt": "2026-09-16T20:08:58.401Z"
     },
     {
       "id": "924f7636987794a9",
@@ -639,6 +705,17 @@
       "sourceUrl": "https://www.etvbharat.com/amp/en/entertainment/soori-film-mandaadi-vs-karthi-movie-sardar-2-box-office-collection-day-7-enn26091605569",
       "publishedAt": "2026-09-16T14:55:24.000Z",
       "fetchedAt": "2026-09-16T18:43:10.538Z"
+    },
+    {
+      "id": "cbf8c923ad544d74",
+      "title": "Spark - Official Trailer",
+      "summary": "Watch the Official Trailer from Kannada movie 'Spark' starring Niranjan Sudhindra, Lovely Star Prem, Rachana Inder, Abhay Vashistha and Shubham Singh. 'Spark' movie is directed by D. Mahantesh Handral. To know more about 'Spark' trailer watch the video. Check out the latest Kannada trailers, new movie trailers, trending Kannada movie…",
+      "category": "Entertainment",
+      "image": "https://static.toiimg.com/thumb/msid-134290769,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/videos/entertainment/regional/kannada/spark-official-trailer/videoshow/134290769.cms",
+      "publishedAt": "2026-09-16T14:49:39.000Z",
+      "fetchedAt": "2026-09-16T20:08:59.696Z"
     },
     {
       "id": "b9fe87e01d3b6bf6",
@@ -1279,6 +1356,17 @@
       "fetchedAt": "2026-09-16T19:28:25.055Z"
     },
     {
+      "id": "a099904d6ad0a16c",
+      "title": "Comviva appoints Sanjiv Patankar to lead global FinTech business",
+      "summary": "Comviva appoints Sanjiv Patankar to lead global FinTech business. This update was reported by Indian Television Dot Com. Open the original report for full context and any developing updates.",
+      "category": "Business & Finance",
+      "image": "https://indiantelevision.com/wp-content/uploads/2026/09/comviva1-1000x600.jpg",
+      "source": "Indian Television Dot Com",
+      "sourceUrl": "https://indiantelevision.com/mam/comviva-appoints-sanjiv-patankar-to-lead-global-fintech-business/",
+      "publishedAt": "2026-09-16T09:46:33.000Z",
+      "fetchedAt": "2026-09-16T20:09:02.385Z"
+    },
+    {
       "id": "eb23e8b52f07ef73",
       "title": "After 3+ years in power, Congress govt looks to revive promise to repeal Karnataka anti-conversion law",
       "summary": "After 3+ years in power, Congress govt looks to revive promise to repeal Karnataka anti-conversion law. This update was reported by ThePrint. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
@@ -1288,6 +1376,17 @@
       "sourceUrl": "https://theprint.in/politics/after-3-years-in-power-congress-govt-looks-to-revive-promise-to-repeal-karnataka-anti-conversion-law/3044045/",
       "publishedAt": "2026-09-16T09:39:58.000Z",
       "fetchedAt": "2026-09-16T18:23:58.062Z"
+    },
+    {
+      "id": "a6292147d8fb0a29",
+      "title": "Rahul Gandhi asks PM Modi to roll back 'UPI tax' immediately, invokes Indira | India News",
+      "summary": "A new UPI framework introduces a 0.4 per cent merchant discount rate (MDR) on specified merchant transactions above ₹2,000. | India News",
+      "category": "Politics & Government",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/16/1600x900/rahul_gandhi_upi_tax_1789551509031_ufTy_1789551509276_kA2Y_c87dbf6d-9245-45ec-a882-739cb17049f2_rNzx.jpg",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/modi-ji-roll-back-the-upi-tax-now-rahul-gandhi-on-new-rules-mdr-charges-101789551334940.html",
+      "publishedAt": "2026-09-16T09:37:50.000Z",
+      "fetchedAt": "2026-09-16T20:08:53.271Z"
     },
     {
       "id": "12f27ae07d040954",
@@ -1466,6 +1565,17 @@
       "fetchedAt": "2026-09-16T18:24:02.439Z"
     },
     {
+      "id": "60ac18ef2480b878",
+      "title": "Kamlesh Chandra Varshney gets extension as SEBI whole-time member till August 2029",
+      "summary": "A 1990-batch Indian Revenue Service (Income Tax) officer, Varshney previously served as Joint Secretary in the Tax Policy Division of the Department of Revenue, Ministry of Finance",
+      "category": "Business & Finance",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/03/20260319154625_Kamlesh-Chandra-Varshney.png",
+      "source": "Moneycontrol.com",
+      "sourceUrl": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/markets/kamlesh-chandra-varshney-gets-extension-as-sebi-whole-time-member-till-august-2029-14030993.html",
+      "publishedAt": "2026-09-16T06:39:26.000Z",
+      "fetchedAt": "2026-09-16T20:09:03.590Z"
+    },
+    {
       "id": "bc538902b563916a",
       "title": "‘AISA seeks FIR over alleged death threats to national president Neha Bora in UP",
       "summary": "AISA seeks FIR after alleged death threats to national president Neha Bora during the 'GenZ Rising' campaign in Uttar Pradesh.",
@@ -1541,6 +1651,17 @@
       "sourceUrl": "https://www.hindustantimes.com/india-news/bangladesh-national-caught-smuggling-gold-inside-undergarments-at-delhi-airport-jeddah-saudi-101789535366944.html",
       "publishedAt": "2026-09-16T05:17:45.000Z",
       "fetchedAt": "2026-09-16T18:03:32.114Z"
+    },
+    {
+      "id": "e087b65b8084832f",
+      "title": "'Ramayana' to battle 'Godzilla Minus Zero' on Diwali; Indian fans call clash 'God vs Godzilla'",
+      "summary": "The Times of India brings the Latest & Top Breaking News on Politics and Current Affairs in India & around the World, Cricket, Sports, Business, Bollywood News and Entertainment, Science, Technology, Health & Fitness news & opinions from leading columnists.",
+      "category": "Entertainment",
+      "image": "https://static.toiimg.com/thumb/msid-134255310,width-1280,height-720,imgsize-378680,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-vs-godzilla-minus-zero-on-diwali-indian-fans-call-clash-god-vs-godzilla/amp_articleshow/134254455.cms",
+      "publishedAt": "2026-09-16T05:06:00.000Z",
+      "fetchedAt": "2026-09-16T20:08:59.982Z"
     },
     {
       "id": "d6236c960c09abe2",
@@ -1629,6 +1750,17 @@
       "sourceUrl": "https://www.india.com/entertainment/bollywood/hanuman-ansh-box-office-collection-day-40-shobhinaw-satyaa-starrer-continues-strong-run-net-india-collection-reaches-rs-231-crore-8525238/",
       "publishedAt": "2026-09-16T02:52:24.000Z",
       "fetchedAt": "2026-09-16T18:39:45.820Z"
+    },
+    {
+      "id": "642fcdc4afe50939",
+      "title": "NIA bid to join ED’s probe into 2022 Coimbatore blast sparks turf battle | India News",
+      "summary": "The ED is investigating a money laundering case linked to the bombing, revealing financial crimes connected to terror activities. | India News",
+      "category": "Crime & Breaking News",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/16/1600x900/logo/coimbatore_blast_1789527799219_qyGK_1789527808517_WPRh_5803ff27-571b-4338-a2a7-780364f620fa_uxzw.png",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/nia-bid-to-join-ed-s-probe-into-2022-coimbatore-blast-sparks-turf-battle-101789499487907.html",
+      "publishedAt": "2026-09-16T02:27:00.000Z",
+      "fetchedAt": "2026-09-16T20:08:55.870Z"
     },
     {
       "id": "b3b45973d5f5cea3",
