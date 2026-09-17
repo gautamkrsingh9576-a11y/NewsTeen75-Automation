@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-09-17T05:40:47.074Z",
+  "updatedAt": "2026-09-17T05:54:19.729Z",
   "count": 250,
   "articles": [
+    {
+      "id": "7d173fd2cdc9fb46",
+      "title": "AFG vs IND 3rd T20I: Sooryavanshi waits as India's bench gets the spotlight",
+      "summary": "India have nothing left to prove in the series after two commanding wins, but the final T20I in Delhi offers a different kind of intrigue. The big question now is whether Vaibhav Sooryavanshi and India’s waiting players finally get their moment.",
+      "category": "Sports",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/vaibhav-sooryavanshi--shreyas-iyer-174129208-16x9_0.jpg?VersionId=c6NFql8d1Tf8H8JKXrmbK5DVCSDphID1",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/sports/cricket/story/afg-vs-ind-3rd-t20i-preview-vaibhav-sooryavanshi-predicted-xi-livestreaming-2996549-2026-09-17",
+      "publishedAt": "2026-09-17T05:42:44.000Z",
+      "fetchedAt": "2026-09-17T05:54:05.320Z"
+    },
+    {
+      "id": "f639fb9b53107e06",
+      "title": "Kaynes Technology share price gains 5% amid SEMICON India 2026 buzz: Check stock performance",
+      "summary": "Kaynes Technology's stock has fluctuated significantly, losing 3% in 6 months and 51% over the past year. Despite a 5.2% rise to ₹3,563, it remains below its 52-week high of ₹7,705 as India's semiconductor landscape gains attention.",
+      "category": "Technology",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/17/1600x900/logo/kaynes_1789623510984_Zynr_1789623517584_muCc_3dc8ab74-4816-448f-a913-93a1fd5a0ae2_2grF.png",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/market/stock-market-news/kaynes-technology-share-price-gains-5-amid-semicon-india-2026-buzz-check-stock-performance-11789622729007.html",
+      "publishedAt": "2026-09-17T05:39:03.000Z",
+      "fetchedAt": "2026-09-17T05:54:07.237Z"
+    },
     {
       "id": "a223ea1636aeb4c6",
       "title": "'No request will be entertained': Hockey India rejects Pakistan’s neutral venue request for Asian...",
@@ -179,6 +201,17 @@
       "fetchedAt": "2026-09-17T05:07:37.031Z"
     },
     {
+      "id": "a35f965dbd3864f2",
+      "title": "US International Development Finance Corporation announces more than $8 bn in investments to fuel American economic, national security interests",
+      "summary": "The US International Development Finance Corporation (DFC) Board of Directors on Wednesday (local time) approved more than USD 8 billion in new investments, representing a significant milestone for the agency.",
+      "category": "National & Trending News",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTc3OTI1OWMwLWIyNGEtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
+      "source": "The Tribune",
+      "sourceUrl": "https://www.tribuneindia.com/news/usa-news/us-international-development-finance-corporation-announces-more-than-8-bn-in-investments-to-fuel-american-economic-national-security-interests/amp",
+      "publishedAt": "2026-09-17T03:47:06.000Z",
+      "fetchedAt": "2026-09-17T05:54:19.392Z"
+    },
+    {
       "id": "e7e14f8d8aff0b6b",
       "title": "PM at 76: The making of Narendra Modi, politician, brand and phenomenon",
       "summary": "PM at 76: The making of Narendra Modi, politician, brand and phenomenon. This update was reported by Exchange4Media. Open the original report for full context and any developing updates.",
@@ -221,6 +254,17 @@
       "sourceUrl": "https://www.markhub24.com/post/decathlon-india-s-private-label-brand-strategy-in-sports-retail",
       "publishedAt": "2026-09-17T03:30:05.000Z",
       "fetchedAt": "2026-09-17T04:38:11.528Z"
+    },
+    {
+      "id": "83273aca110fe070",
+      "title": "SEMICON India 2026: Syrma, Tata Tech, Tata Elxsi, MosChip shares jump up to 10%; here is why",
+      "summary": "Prime Minister Narendra Modi will inaugurate SEMICON India 2026 on Thursday. The event will bring together global and Indian companies, investors and policymakers, with discussions covering semiconductor materials, chip design, fabrication, advanced packaging, electronics and systems.",
+      "category": "Technology",
+      "image": "https://assets.upstox.com/content/assets/images/news/chip-stocks-sept-17-unsplash.webp",
+      "source": "Upstox",
+      "sourceUrl": "https://upstox.com/news/market-news/stocks/semicon-india-2026-tata-group-cg-power-kaynes-dixon-stocks-to-watch-on-thursday-key-details-to-know/article-200389/",
+      "publishedAt": "2026-09-17T03:28:05.000Z",
+      "fetchedAt": "2026-09-17T05:54:07.716Z"
     },
     {
       "id": "83273aca110fe070",
@@ -2707,50 +2751,6 @@
       "sourceUrl": "https://www.moneycontrol.com/news/business/stocks/subscribe-for-national-stock-exchange-of-india-ltd-ipo-geojit-financial-services-14031169.html",
       "publishedAt": "2026-09-16T09:17:05.000Z",
       "fetchedAt": "2026-09-16T18:39:49.926Z"
-    },
-    {
-      "id": "d0f69cae23201fdb",
-      "title": "India open to stricter red warnings on food packs in latest setback for companies",
-      "summary": "India open to stricter red warnings on food packs in latest setback for companies. This update was reported by The Hindu. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
-      "category": "National & Trending News",
-      "image": "https://th-i.thgim.com/public/incoming/lwie12/article71471779.ece/alternates/LANDSCAPE_1200/Food%20Safety%20label%20warning%20FSSAI%20-%20new.jpg",
-      "source": "The Hindu",
-      "sourceUrl": "https://www.thehindu.com/sci-tech/health/india-open-to-stricter-red-warnings-on-food-packs-in-latest-setback-for-companies/article71471762.ece",
-      "publishedAt": "2026-09-16T09:09:04.000Z",
-      "fetchedAt": "2026-09-16T17:50:46.395Z"
-    },
-    {
-      "id": "e6b5d8ce6191f0d8",
-      "title": "Govt bowed before ‘American imperialism’: Oppn on UPI MDR regime",
-      "summary": "New Delhi, Sep 16 (PTI) The opposition on Wednesday alleged that the government has bowed before “American imperialism” by introducing the MDR framework for UPI and took a swipe at Prime Minister Narendra Modi, saying he has redefined NOTA as “Narendra’s Ongoing Trump Appeasement”. The move would push up prices…",
-      "category": "Politics & Government",
-      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
-      "source": "ThePrint",
-      "sourceUrl": "https://theprint.in/india/govt-bowed-before-american-imperialism-oppn-on-upi-mdr-regime/3044266/",
-      "publishedAt": "2026-09-16T08:46:25.000Z",
-      "fetchedAt": "2026-09-16T19:42:24.188Z"
-    },
-    {
-      "id": "96211b7620336689",
-      "title": "'Mirzapur The Movie' box office collection Day 13 [LIVE]: Pankaj Tripathi, Ali Fazal and Ravi Kishan film",
-      "summary": "The Times of India brings the Latest & Top Breaking News on Politics and Current Affairs in India & around the World, Cricket, Sports, Business, Bollywood News and Entertainment, Science, Technology, Health & Fitness news & opinions from leading columnists.",
-      "category": "Entertainment",
-      "image": "https://static.toiimg.com/thumb/msid-134282884,width-1280,height-720,imgsize-134022,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/mirzapur-the-movie-box-office-collection-day-13-live-pankaj-tripathi-ali-fazal-and-ravi-kishan-eyes-breaching-rs-200-crore-domestic-finish-line-after-a-global-haul-of-rs-281-crore/amp_articleshow/134282729.cms",
-      "publishedAt": "2026-09-16T08:39:00.000Z",
-      "fetchedAt": "2026-09-16T19:42:28.562Z"
-    },
-    {
-      "id": "a98c47270878ba31",
-      "title": "US keeps mounting, 'Howdy Modi' keeps surrendering: Congress on Russia sanctions bill",
-      "summary": "US House advances sanctions bill threatening 100% tariffs on India over Russian oil imports. Congress slams Modi govt’s foreign policy failures and trade surrender to Trump’s demands. Pharmaceuticals, textiles, and auto parts face severe tariff shock under new US bill.",
-      "category": "Politics & Government",
-      "image": "https://cf-images.assettype.com/deccanherald%2F2026-05-19%2F4jpsizen%2Fdeccanherald2026-04-12qyk9seobdeccanherald2026-03-11mq91zojxcong.avif?rect=0%2C0%2C400%2C210&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "source": "Deccan Herald",
-      "sourceUrl": "https://www.deccanherald.com/amp/story/india/us-keeps-mounting-howdy-modi-keeps-surrendering-congress-on-russia-sanctions-bill-4147897",
-      "publishedAt": "2026-09-16T08:32:00.000Z",
-      "fetchedAt": "2026-09-16T20:26:50.238Z"
     }
   ]
 }
