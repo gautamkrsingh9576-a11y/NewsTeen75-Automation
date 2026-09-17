@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-17T02:34:43.139Z",
-  "count": 243,
+  "updatedAt": "2026-09-17T02:59:57.807Z",
+  "count": 247,
   "articles": [
+    {
+      "id": "089e400fa95848f9",
+      "title": "Gonsalves and Beg to lead India’s teqball campaign at 2026 Asian Games",
+      "summary": "Gonsalves and Beg to lead India’s teqball campaign at 2026 Asian Games. This update was reported by The News Mill. Open the original report for full context and any developing updates.",
+      "category": "Sports",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "The News Mill",
+      "sourceUrl": "https://thenewsmill.com/2026/09/gonsalves-and-beg-to-lead-indias-teqball-campaign-at-2026-asian-games/",
+      "publishedAt": "2026-09-17T02:32:10.000Z",
+      "fetchedAt": "2026-09-17T02:59:50.810Z"
+    },
     {
       "id": "3c35d24c5624bf39",
       "title": "Govt explores holding special Parliament session next month | India News",
@@ -113,6 +124,17 @@
       "fetchedAt": "2026-09-17T01:19:06.249Z"
     },
     {
+      "id": "234c7b36094fc5b6",
+      "title": "The Hindu Morning Digest: September 17, 2026",
+      "summary": "Morning Digest: Key global and national updates, including U.S. sanctions on Russia, India's boundary stance, and more.",
+      "category": "National & Trending News",
+      "image": "https://th-i.thgim.com/public/incoming/8wxt3b/article71475091.ece/alternates/LANDSCAPE_1200/2026-06-24T212807Z_349037414_RC2L0MA910ET_RTRMADP_3_USA-CONGRESS-BUDGET-SUPPLEMENTAL.jpg",
+      "source": "The Hindu",
+      "sourceUrl": "https://www.thehindu.com/news/morning-digest-september-17-2026/article71474001.ece",
+      "publishedAt": "2026-09-17T00:56:37.000Z",
+      "fetchedAt": "2026-09-17T02:59:56.243Z"
+    },
+    {
       "id": "3bff9c11e59940d2",
       "title": "Inside India newsletter: The world’s largest real-time payments system will no longer be free for all",
       "summary": "India's digital payment system, which processes more than 1 million transactions every two minutes for free now, will start charging fees to merchants.",
@@ -144,6 +166,17 @@
       "sourceUrl": "https://indianexpress.com/article/india/pinak-ranjan-chakravarty-former-indian-high-commissioner-to-bangladesh-interview-10881328/",
       "publishedAt": "2026-09-16T23:30:45.000Z",
       "fetchedAt": "2026-09-16T23:38:02.702Z"
+    },
+    {
+      "id": "8d0be4c46416dd06",
+      "title": "Need a long-term national plan",
+      "summary": "Refer to ‘Why it’s vital to win the tech war’; China and the US are investing heavily in minerals, chips, machines and research, while India remains far behind. Much of Indian industry is controlled by a few large business houses that prefer quick profits to long-term research. Our scientists and…",
+      "category": "National & Trending News",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTNjYTczYjEwLWIyMjYtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
+      "source": "The Tribune",
+      "sourceUrl": "https://www.tribuneindia.com/news/letters/need-a-long-term-national-plan/amp",
+      "publishedAt": "2026-09-16T23:27:50.000Z",
+      "fetchedAt": "2026-09-17T02:59:57.807Z"
     },
     {
       "id": "0563cdb994b74432",
@@ -782,6 +815,17 @@
       "sourceUrl": "https://www.prameyanews.com/cbi-seema-pahuja-disha-salian-probe",
       "publishedAt": "2026-09-16T16:30:00.000Z",
       "fetchedAt": "2026-09-16T18:56:29.782Z"
+    },
+    {
+      "id": "a81cf3d76fe6101b",
+      "title": "Cyber-Physical Systems",
+      "summary": "Cyber-Physical Systems connect the digital and physical worlds, enabling machines t",
+      "category": "Technology",
+      "image": "https://www.pib.gov.in/pib.gov.in/images/indian-emblem.png",
+      "source": "PIB",
+      "sourceUrl": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2304858&reg=3&lang=1",
+      "publishedAt": "2026-09-16T16:28:00.000Z",
+      "fetchedAt": "2026-09-17T02:59:55.101Z"
     },
     {
       "id": "4ac6279208f73bae",
