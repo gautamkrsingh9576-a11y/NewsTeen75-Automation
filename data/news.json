@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T20:54:31.668Z",
+  "updatedAt": "2026-09-17T21:10:35.134Z",
   "count": 250,
   "articles": [
     {
@@ -377,6 +377,17 @@
       "fetchedAt": "2026-09-17T20:54:30.896Z"
     },
     {
+      "id": "97df63cb044dfc42",
+      "title": "Sports’ New Playing Field",
+      "summary": "Sports’ New Playing Field. This update was reported by IMPACT Magazine. Open the original report for full context and any developing updates.",
+      "category": "Sports",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "IMPACT Magazine",
+      "sourceUrl": "https://www.impactonnet.com/talking-point/sports-new-playing-field-16576.html",
+      "publishedAt": "2026-09-17T15:37:54.000Z",
+      "fetchedAt": "2026-09-17T21:10:27.438Z"
+    },
+    {
       "id": "9f3ca1587bea6816",
       "title": "Asian Games 2026 India schedule: Dates, timings, sports, venues and live streaming",
       "summary": "The opening ceremony is scheduled for September 19 at 2:30 PM IST at Nagoya City Mizuho Park Athletic Stadium, while the closing ceremony will take place at the same venue on October 4 at 3:30 PM IST. India has sent 503 athletes to the Games, with the contingent spread across…",
@@ -430,6 +441,17 @@
       "sourceUrl": "https://www.linkedin.com/posts/cnbc-tv18_amd-semiconductors-chipdesign-activity-7506373255612526593-kqCL",
       "publishedAt": "2026-09-17T15:27:25.000Z",
       "fetchedAt": "2026-09-17T15:54:17.589Z"
+    },
+    {
+      "id": "678e29e51ebf7129",
+      "title": "Mandaadi Vs Sardar 2 Box Office Collection Day 8: Soori's Film Nears Rs 60 Cr, Karthi Starrer Stays Below Rs 15 Cr",
+      "summary": "Mandaadi nears Rs 60 crore in India net collections on Day 8, while Sardar 2 crosses Rs 14 crore as both films enter second week.",
+      "category": "Entertainment",
+      "image": "https://imgs.etvbharat.com/etvbharat/prod-images/17-09-2026/1200-675-27656659-1065-27656659-1789658677361.jpg",
+      "source": "ETV Bharat",
+      "sourceUrl": "https://www.etvbharat.com/amp/en/entertainment/soori-film-mandaadi-vs-karthi-movie-sardar-2-box-office-collection-day-8-in-india-and-worldwide-enn26091706911",
+      "publishedAt": "2026-09-17T15:25:46.000Z",
+      "fetchedAt": "2026-09-17T21:10:29.308Z"
     },
     {
       "id": "5eafb1274399005b",
@@ -1950,6 +1972,17 @@
       "fetchedAt": "2026-09-17T12:59:09.220Z"
     },
     {
+      "id": "ba42e94b5080f3d0",
+      "title": "Centre in SC reduces NEET-SS qualifying percentile to 30%; TN to get 40 vacant seats back",
+      "summary": "Centre reduces NEET-SS qualifying percentile to 30%, returning 40 vacant seats to Tamil Nadu for special stray vacancy round.",
+      "category": "National & Trending News",
+      "image": "https://th-i.thgim.com/public/news/national/o5w9a9/article71475993.ece/alternates/LANDSCAPE_1200/PTI12_16_2025_000065A.jpg",
+      "source": "The Hindu",
+      "sourceUrl": "https://www.thehindu.com/news/national/centre-in-sc-reduces-neet-ss-qualifying-percentile-to-30-tn-to-get-40-vacant-seats-back/article71475895.ece",
+      "publishedAt": "2026-09-17T09:26:24.000Z",
+      "fetchedAt": "2026-09-17T21:10:35.133Z"
+    },
+    {
       "id": "f92b113dd4711af2",
       "title": "EyeROV: Indian Deep-Tech Startup Showcases its Underwater Drones to World Leaders",
       "summary": "EyeROV: Indian Deep-Tech Startup Showcases its Underwater Drones to World Leaders. This update was reported by Yahoo! Finance Canada. Open the original report for full context and any developing updates.",
@@ -2718,39 +2751,6 @@
       "sourceUrl": "https://www.kalkine.co.in/article/business-finance/innokaiz-india-bse-543905-understanding-the-business-services-profile-and-key-areas-to-monitor",
       "publishedAt": "2026-09-17T06:27:00.000Z",
       "fetchedAt": "2026-09-17T20:29:57.064Z"
-    },
-    {
-      "id": "8b8d5734d5f06792",
-      "title": "Futuristic Solutions (BSE: 534063): Business Services Overview and Key Insights",
-      "summary": "Futuristic Solutions (BSE: 534063): Business Services Overview and Key Insights. This update was reported by Kalkine India. Open the original report for full context and any developing updates.",
-      "category": "Business & Finance",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EBusiness%20%26amp%3B%20Finance%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "Kalkine India",
-      "sourceUrl": "https://www.kalkine.co.in/article/business-finance/futuristic-solutions-bse-534063-understanding-the-business-services-profile-and-key-areas-to-monitor",
-      "publishedAt": "2026-09-17T06:27:00.000Z",
-      "fetchedAt": "2026-09-17T14:52:55.187Z"
-    },
-    {
-      "id": "2abfa3a4a29e4c44",
-      "title": "Asiana, JC Capital launch ₹1,000 Cr fund to back India’s advanced manufacturing, deeptech startups",
-      "summary": "Asiana and JC Capital launch a ₹1,000 crore investment fund targeting advanced manufacturing and deep tech startups in India, focusing on semiconductors, aerospace, and technology-led industrial businesses.",
-      "category": "Technology",
-      "image": "https://etimg.etb2bimg.com/thumb/msid-134303481,imgsize-1099992,width-1200,height=627,overlay-etentrepreneur,resizemode-75/news/asiana-jc-capital-launch-1000-cr-fund-to-back-indias-advanced-manufacturing-deeptech-startups.jpg",
-      "source": "ET Entrepreneur",
-      "sourceUrl": "https://entrepreneur.economictimes.indiatimes.com/news/asiana-jc-capital-launch-1000-cr-fund-to-back-indias-advanced-manufacturing-deeptech-startups/134303481",
-      "publishedAt": "2026-09-17T06:22:28.000Z",
-      "fetchedAt": "2026-09-17T14:38:03.020Z"
-    },
-    {
-      "id": "1859140dd46bff69",
-      "title": "Semicon India: Tata Electronics to sign 16 pacts with firms across semiconductor supply chain, says Randhir ..",
-      "summary": "These pacts will be with companies including Nexperia and BESI from Europe; JSR, Fujifilm, Sumitomo, Sojitz, and Inomoto from Japan; Callington from Malaysia; Ascendas Firstspace from Singapore; L&T Semiconductors, Inox Air Products, Semiconductor Laboratory, and Gatishakti Vishwavidyalaya from India; and other partners from the US, Europe, and India, all specialising…",
-      "category": "Technology",
-      "image": "https://etimg.etb2bimg.com/thumb/msid-134303280,imgsize-46894,width-1200,height=627,overlay-etelectronics,resizemode-75/news/supply-chain-trade/semicon-india-tata-electronics-to-sign-16-pacts-with-firms-across-semiconductor-supply-chain-says-randhir-thakur.jpg",
-      "source": "electronics.economictimes.indiatimes.com",
-      "sourceUrl": "https://electronics.economictimes.indiatimes.com/news/supply-chain-trade/semicon-india-tata-electronics-to-sign-16-pacts-with-firms-across-semiconductor-supply-chain-says-randhir-thakur/134303280",
-      "publishedAt": "2026-09-17T06:18:52.000Z",
-      "fetchedAt": "2026-09-17T07:46:29.092Z"
     }
   ]
 }
