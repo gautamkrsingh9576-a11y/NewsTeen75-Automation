@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-09-17T12:44:25.741Z",
+  "updatedAt": "2026-09-17T12:59:12.171Z",
   "count": 250,
   "articles": [
+    {
+      "id": "cf6931007f614353",
+      "title": "News18 India to host sports event 'Jazba' in Delhi on September 18",
+      "summary": "News18 India to host sports event 'Jazba' in Delhi on September 18. This update was reported by bestmediainfo.com. Open the original report for full context and any developing updates.",
+      "category": "Sports",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "bestmediainfo.com",
+      "sourceUrl": "https://bestmediainfo.com/mediainfo/television/news18-india-to-host-sports-event-jazba-in-delhi-on-september-18-12545303",
+      "publishedAt": "2026-09-17T12:45:25.000Z",
+      "fetchedAt": "2026-09-17T12:59:04.765Z"
+    },
+    {
+      "id": "994d8be7974c335c",
+      "title": "Davis Cup: Korea builds a slow court to stop India’s Dhakshineswar and Nagal",
+      "summary": "Davis Cup: Korea builds a slow court to stop India’s Dhakshineswar and Nagal. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
+      "category": "Sports",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "The Indian Express",
+      "sourceUrl": "https://indianexpress.com/article/sports/tennis/davis-cup-india-vs-korea-slow-court-to-stop-dhakshineswar-nagal-10882453/",
+      "publishedAt": "2026-09-17T12:35:48.000Z",
+      "fetchedAt": "2026-09-17T12:59:05.009Z"
+    },
     {
       "id": "0d56568f07ae284d",
       "title": "From Gandhi to PM Modi: How leaders’ birthdays became public occasions in India",
@@ -23,6 +45,17 @@
       "sourceUrl": "https://www.pmindia.gov.in/en/news_updates/pm-shares-an-article-highlighting-india-posts-transformation-into-a-modern-technology-driven-and-professionally-managed-institution/?comment=disable",
       "publishedAt": "2026-09-17T12:24:04.000Z",
       "fetchedAt": "2026-09-17T12:24:51.775Z"
+    },
+    {
+      "id": "72ac4b04fef1288f",
+      "title": "NSE IPO subscription status: National Stock Exchange’s offer gets subscribed 42% on its first day",
+      "summary": "The National Stock Exchange of India’s Rs 225.69 billion ($2.3 billion) IPO received subscription of 42% on Thursday, the first day of bidding, indicating a somewhat muted opening for one of the country’s most closely watched offerings.",
+      "category": "National & Trending News",
+      "image": "https://static.toiimg.com/thumb/msid-134311908,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/nse-ipo-subscription-status-national-stock-exchanges-offer-gets-subscribed-42-on-its-first-day/articleshow/134311873.cms",
+      "publishedAt": "2026-09-17T12:17:00.000Z",
+      "fetchedAt": "2026-09-17T12:59:12.171Z"
     },
     {
       "id": "2703e4e66d2f6701",
@@ -663,6 +696,17 @@
       "fetchedAt": "2026-09-17T09:50:10.366Z"
     },
     {
+      "id": "ede723d68af1b5b4",
+      "title": "Why Syrma SGS Technology share price is rising today? Explained",
+      "summary": "Syrma SGS Technology share price opened at ₹1,513.50 apiece on NSE today, as compared to previous close of ₹1,511.20 on Wednesday and hit an intraday high of ₹1,658 on 17 September.",
+      "category": "Technology",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/17/1600x900/maxresdefault_1789640428017_8eN3_1789640436433_K6kU_9f912462-0cf4-4360-989d-079fbac37c5c_qASM.jpg",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/market/stock-market-news/why-syrma-sgs-technology-share-price-is-rising-today-explained-11789635685953.html",
+      "publishedAt": "2026-09-17T09:29:04.000Z",
+      "fetchedAt": "2026-09-17T12:59:09.220Z"
+    },
+    {
       "id": "f92b113dd4711af2",
       "title": "EyeROV: Indian Deep-Tech Startup Showcases its Underwater Drones to World Leaders",
       "summary": "EyeROV: Indian Deep-Tech Startup Showcases its Underwater Drones to World Leaders. This update was reported by Yahoo! Finance Canada. Open the original report for full context and any developing updates.",
@@ -718,6 +762,17 @@
       "fetchedAt": "2026-09-17T12:00:26.122Z"
     },
     {
+      "id": "54a21d44ff948acb",
+      "title": "Behind the Scenes of Cinesta: How a Surat Production Studio Is Expanding Across India",
+      "summary": "Surat, India, September 17, 2026: Surat-headquartered video production studio Cinesta has expanded its production practice across corporate films, commercials, documentaries, entertainment, short-form digital content, live events, animation and visual effects, as businesses and institutions across India increasingly use video as...",
+      "category": "Entertainment",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWFjNzUzMWQwLWIyNzctMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
+      "source": "The Tribune",
+      "sourceUrl": "https://www.tribuneindia.com/news/business/behind-the-scenes-of-cinesta-how-a-surat-production-studio-is-expanding-across-india",
+      "publishedAt": "2026-09-17T09:07:56.000Z",
+      "fetchedAt": "2026-09-17T12:59:07.419Z"
+    },
+    {
       "id": "6a8074e0e4507ed5",
       "title": "PM Modi Attends India-Norway Business and Research Summit in Oslo",
       "summary": "PM Modi Attends India-Norway Business and Research Summit in Oslo. This update was reported by News On AIR. Open the original report for full context and any developing updates.",
@@ -762,6 +817,17 @@
       "fetchedAt": "2026-09-17T09:50:08.318Z"
     },
     {
+      "id": "bd0db6677849c5a4",
+      "title": "Ee Paata Korinavaaru - Official Trailer",
+      "summary": "Ee Paata Korinavaaru. This update was reported by The Times of India. Open the original report for full context and any developing updates.",
+      "category": "Entertainment",
+      "image": "https://static.toiimg.com/thumb/msid-134306712,width-1280,height-720,imgsize-291215,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/videos/entertainment/regional/telugu/ee-paata-korinavaaru-official-trailer/amp_videoshow/134306712.cms",
+      "publishedAt": "2026-09-17T08:56:48.000Z",
+      "fetchedAt": "2026-09-17T12:59:07.889Z"
+    },
+    {
       "id": "a8770b4f0e9bbeef",
       "title": "India's clean-energy push hits a milestone: Coal power sees no growth for first time in 50 years",
       "summary": "Solar, wind, hydro and nuclear generation together met the entire 63 TWh increase in electricity generation between the first halves of 2024 and 2026.",
@@ -795,6 +861,17 @@
       "fetchedAt": "2026-09-17T08:59:42.820Z"
     },
     {
+      "id": "7a4f098c727737ae",
+      "title": "PIB debunks viral fake gazette claiming govt merger of 9 public sector banks",
+      "summary": "PIB fact-checkers debunk viral fake document claiming merger of nine PSU banks, clarifying no government proposal is on the table for such consolidation.",
+      "category": "Business & Finance",
+      "image": "https://media.assettype.com/gulfnews%2Fimport%2F2021%2F11%2F03%2FStock---SBI-Bank---State-Bank-of-India_17ce506c977_large.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "Gulf News",
+      "sourceUrl": "https://gulfnews.com/business/banking/indian-government-fact-checkers-debunk-viral-claim-of-nine-psu-banks-merger-1.500677880",
+      "publishedAt": "2026-09-17T08:43:21.000Z",
+      "fetchedAt": "2026-09-17T12:59:10.631Z"
+    },
+    {
       "id": "e71b6ff59343139e",
       "title": "Mohammad Rizwan loses Lahore HC plea; PCB to take actions on Pakistan cricketers",
       "summary": "The Pakistan Cricket Board (PCB) is waiting for the findings of a National Cyber Crime Investigation Agency (NCCIA) probe before deciding whether to take disciplinary action against senior players Mohammad Rizwan and Imam-ul-Haq.",
@@ -815,6 +892,17 @@
       "sourceUrl": "https://theshillongtimes.com/2026/09/17/india-goes-for-big-push-towards-self-reliance-in-semiconductors/",
       "publishedAt": "2026-09-17T08:40:45.000Z",
       "fetchedAt": "2026-09-17T12:24:57.299Z"
+    },
+    {
+      "id": "5e5377c3fa3e1df5",
+      "title": "Gold Finance & Jewellery Stocks: Expert Outlook Ahead of Festive Season | Sky Gold in Focus",
+      "summary": "old and silver prices are slipping, raising questions about gold financing and jewellery stocks ahead of the festive season. The discussion examines competitive intensity, possible rate hikes, borrowing costs and their impact on gold finance companies, with investors advised to wait for Q2 numbers before taking fresh positions. Sunny Agrawal,…",
+      "category": "Business & Finance",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/video/202609/thumbnail-original_1339.jpg",
+      "source": "Business Today",
+      "sourceUrl": "https://www.businesstoday.in/bt-tv/market-today/video/gold-finance-jewellery-stocks-expert-outlook-ahead-of-festive-season-sky-gold-in-focus-556122-2026-09-17",
+      "publishedAt": "2026-09-17T08:35:20.000Z",
+      "fetchedAt": "2026-09-17T12:59:10.149Z"
     },
     {
       "id": "71fa53b473bd6ad3",
@@ -1013,6 +1101,17 @@
       "sourceUrl": "https://www.deccanherald.com/india/attempt-to-divert-attention-from-backlash-over-upi-tax-congress-on-governments-parliament-panel-claims-4149223",
       "publishedAt": "2026-09-17T07:19:46.000Z",
       "fetchedAt": "2026-09-17T08:59:40.894Z"
+    },
+    {
+      "id": "61f894b657b1621f",
+      "title": "PM Modi Tops Global Popularity Rankings with 68% Approval, Says Morning Consult Survey | Akashvani News",
+      "summary": "PM Modi Tops Global Popularity Rankings with 68% Approval, Says Morning Consult Survey | Akashvani News. This update was reported by News On AIR. Open the original report for full context and any developing updates.",
+      "category": "National & Trending News",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ENational%20%26amp%3B%20Trending%20News%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "News On AIR",
+      "sourceUrl": "https://newsonair.gov.in/pm-modi-tops-global-popularity-rankings-with-68-approval-says-morning-consult-survey/",
+      "publishedAt": "2026-09-17T07:19:38.000Z",
+      "fetchedAt": "2026-09-17T12:59:11.818Z"
     },
     {
       "id": "feb87ea46a6b8622",
@@ -1486,6 +1585,17 @@
       "sourceUrl": "https://sportstar.thehindu.com/asian-games/asian-games-2026-live-streaming-info-where-to-watch-aichi-nagoya-in-india/article71475320.ece",
       "publishedAt": "2026-09-17T04:59:36.000Z",
       "fetchedAt": "2026-09-17T09:19:37.936Z"
+    },
+    {
+      "id": "86ccde7748f3095e",
+      "title": "Adidas cuts jobs in India technology team",
+      "summary": "Adidas cuts jobs in India technology team. This update was reported by Investing.com. Open the original report for full context and any developing updates.",
+      "category": "Technology",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "Investing.com",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/adidas-cuts-jobs-in-india-technology-team-93CH-4904244",
+      "publishedAt": "2026-09-17T04:59:05.000Z",
+      "fetchedAt": "2026-09-17T12:59:08.683Z"
     },
     {
       "id": "e54e26ee12827d6c",
@@ -2641,116 +2751,6 @@
       "sourceUrl": "https://www.hindustantimes.com/india-news/25-years-of-modi-the-making-of-a-political-force-101789583959262.html",
       "publishedAt": "2026-09-16T18:39:18.000Z",
       "fetchedAt": "2026-09-17T01:33:34.930Z"
-    },
-    {
-      "id": "8b501060e6bc44df",
-      "title": "25 years of Modi: The making of a political force | India News",
-      "summary": "On October 7, he will complete 25 years in public service – of which he’s spent 4,495 days as India’s longest continuously-serving elected prime minister | India News",
-      "category": "Politics & Government",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/16/1600x900/logo/Narendra-Modi-took-oath-as-chief-minister-of-Gujar_1789584071760_NY9v.jpg",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/india-news/25-years-of-modi-the-making-of-a-political-force-101789583959262.html",
-      "publishedAt": "2026-09-16T18:39:18.000Z",
-      "fetchedAt": "2026-09-16T18:56:28.046Z"
-    },
-    {
-      "id": "7ce79ed037cd64ad",
-      "title": "Adidas to lay off half of its 700 employees at Tech Hub in Gurugram",
-      "summary": "Sportswear major Adidas has, during a town hall, announced that it would lay off nearly half of its India Tech Hub workforce out of 700 employees in Gurugram. T",
-      "category": "Technology",
-      "image": "https://cf-images.assettype.com/TNIE%2Fimport%2F2023%2F7%2F31%2Foriginal%2F2018-03-14T063521Z_1_LYNXNPEE2D0GK_RTROPTP_3_ADIDAS-RESULTS.JPG?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "source": "The New Indian Express",
-      "sourceUrl": "https://www.newindianexpress.com/business/2026/Sep/16/adidas-to-lay-off-half-of-its-700-employees-at-tech-hub-in-gurugram",
-      "publishedAt": "2026-09-16T18:33:13.000Z",
-      "fetchedAt": "2026-09-16T20:43:08.126Z"
-    },
-    {
-      "id": "3cb6fa09970f2586",
-      "title": "Hockey India dismisses Pakistan's request for Asian Champions Trophy venue change",
-      "summary": "Hockey India has rejected Pakistan's request to shift the Asian Champions Trophy from Punjab and move its matches elsewhere. Pakistan hockey sited security concerns about travelling to India as the reason for asking for a venue change.",
-      "category": "Sports",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/india-vs-pakistan-162641206-16x9_0.png?VersionId=nmFjZkP.pJzZF5IRJgneR4tXAEcehOG8",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/amp/sports/hockey/story/asian-champions-trophy-2026-pakistan-venue-change-request-hockey-india-2996383-2026-09-16",
-      "publishedAt": "2026-09-16T18:28:25.000Z",
-      "fetchedAt": "2026-09-16T18:39:43.968Z"
-    },
-    {
-      "id": "748599c8998f8763",
-      "title": "India’s tech sovereignty hinges on data and AI control, not building everything: Responsive’s Manish Bafna",
-      "summary": "India’s tech sovereignty hinges on data and AI control, not building everything: Responsive’s Manish Bafna. This update was reported by Tech Observer Magazine. Open the original report for full context and any developing updates.",
-      "category": "Technology",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "Tech Observer Magazine",
-      "sourceUrl": "https://techobserver.in/news/enterprise-it/ndias-tech-sovereignty-hinges-on-data-and-ai-control-329367/",
-      "publishedAt": "2026-09-16T18:27:34.000Z",
-      "fetchedAt": "2026-09-16T23:08:10.880Z"
-    },
-    {
-      "id": "ee64684102055586",
-      "title": "ACG Jr. NBA 3v3 National Tournament for Under-16 boys’ and girls’ teams starts on September 24",
-      "summary": "The National Basketball Association (NBA) and the Basketball Federation of India (BFI) – the governing body of basketball in the country, announced on Wednesday the return of the ACG Jr. NBA 3v3 National Tournament, a nationwide, school-based tournament for under-16 boys’ and girls’ teams featuring stops in 10 cities across…",
-      "category": "National & Trending News",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWEyYmQwNDAwLWIxZmItMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
-      "source": "The Tribune",
-      "sourceUrl": "https://www.tribuneindia.com/news/sports/acg-jr-nba-3v3-national-tournament-for-under-16-boys-and-girls-teams-starts-on-september-24/amp",
-      "publishedAt": "2026-09-16T18:22:45.000Z",
-      "fetchedAt": "2026-09-16T20:43:10.826Z"
-    },
-    {
-      "id": "ec61bb0b12a455b3",
-      "title": "India’s Asian Games 2026 schedule today, September 17: Teqball gets country’s campaign underway",
-      "summary": "India begin their Asian Games 2026 campaign on Thursday, September 17 with men’s doubles teqball. Get schedule and match times for today.",
-      "category": "Sports",
-      "image": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/gqphdnwx4ihwf3emcud2",
-      "source": "olympics.com",
-      "sourceUrl": "https://www.olympics.com/en/news/asian-games-2026-india-schedule-today-september-17",
-      "publishedAt": "2026-09-16T18:15:00.000Z",
-      "fetchedAt": "2026-09-16T19:53:33.983Z"
-    },
-    {
-      "id": "d9aca422a5a3d2a9",
-      "title": "Bidhannagar Cyber Crime Police Arrest 3 More In SIM Card Fraud Crackdown",
-      "summary": "Bidhannagar Cyber Crime Police Arrest 3 More In SIM Card Fraud Crackdown. This update was reported by The Times of India. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134026600,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/kolkata/bidhannagar-cyber-crime-police-arrest-3-more-in-sim-card-fraud-crackdown/articleshow/134294776.cms",
-      "publishedAt": "2026-09-16T18:15:00.000Z",
-      "fetchedAt": "2026-09-16T18:23:58.753Z"
-    },
-    {
-      "id": "7cc27cfac1b3f6a9",
-      "title": "TechnoSport signs MoU with IIT-Delhi",
-      "summary": "TechnoSport partners with IIT-Delhi to launch T-CREST, enhancing sports textile research and innovation in India.",
-      "category": "Sports",
-      "image": "https://www.thehindu.com/theme/images/amp-og-image.jpg",
-      "source": "The Hindu",
-      "sourceUrl": "https://www.thehindu.com/news/cities/Coimbatore/technosport-signs-mou-with-iit-delhi/article71473458.ece/amp/",
-      "publishedAt": "2026-09-16T18:14:16.000Z",
-      "fetchedAt": "2026-09-16T19:28:20.990Z"
-    },
-    {
-      "id": "4003f73841199fbc",
-      "title": "Mizoram University’s research scholars discover new montane toad species at Phawngpui National Park",
-      "summary": "Mizoram University researchers discover new montane toad species, Duttaphrynus phawngpui, in Phawngpui National Park; findings published in Taprobanica.",
-      "category": "National & Trending News",
-      "image": "https://static.toiimg.com/thumb/msid-134294696,width-1280,height-720,imgsize-72482,resizemode-75,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/guwahati/mizoram-universitys-research-scholars-discover-new-montane-toad-species-at-phawngpui-national-park/amp_articleshow/134294698.cms",
-      "publishedAt": "2026-09-16T18:13:00.000Z",
-      "fetchedAt": "2026-09-16T20:55:19.188Z"
-    },
-    {
-      "id": "b07633958713dec3",
-      "title": "Israeli national held at Kangra airport",
-      "summary": "Israeli national held at Kangra airport. This update was reported by The Times of India. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
-      "category": "National & Trending News",
-      "image": "https://static.toiimg.com/thumb/msid-134085653,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/chandigarh/israeli-national-held-at-kangra-airport/articleshow/134294594.cms",
-      "publishedAt": "2026-09-16T18:10:00.000Z",
-      "fetchedAt": "2026-09-16T18:24:02.316Z"
     }
   ]
 }
