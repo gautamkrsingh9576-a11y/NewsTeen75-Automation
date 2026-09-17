@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-17T08:19:10.627Z",
+  "updatedAt": "2026-09-17T08:34:47.825Z",
   "count": 250,
   "articles": [
+    {
+      "id": "d67261287590ddb6",
+      "title": "Isro Staff: Not against Pvt Cos; demand due process, transparency; want strategic missions to remain unde",
+      "summary": "Private participation has a role in expanding India’s space sector, but publicly funded technology, infrastructure and expertise must be subject to transparency, proper valuation and accountability when made available for commercial use, a Joint Action Council (JAC) representing Isro employee associations has said.",
+      "category": "Technology",
+      "image": "https://static.toiimg.com/thumb/msid-134306103,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/science/isro-staff-not-against-pvt-cos-demand-due-process-transparency-want-strategic-missions-to-remain-under-isro/articleshow/134305965.cms",
+      "publishedAt": "2026-09-17T08:20:00.000Z",
+      "fetchedAt": "2026-09-17T08:34:42.398Z"
+    },
     {
       "id": "879d201ad16bf67e",
       "title": "Adidas Confirms India Tech Hub Layoffs, Nearly Half Workforce Affected",
@@ -45,6 +56,17 @@
       "sourceUrl": "https://www.indiatoday.in/jobs/story/adidas-confirms-layoffs-at-india-tech-hub-around-50-employees-reportedly-affected-tchc-2996094-2026-09-16",
       "publishedAt": "2026-09-17T07:53:23.000Z",
       "fetchedAt": "2026-09-17T08:19:04.860Z"
+    },
+    {
+      "id": "ba5e40eae5f6a556",
+      "title": "India-US Yudh Abhyas 2026: Troops conduct counterterrorism drill with drones in Auli",
+      "summary": "News News: Indian and US Army soldiers conducted a counterterrorism building-clearance and room-intervention drill at Auli in Uttarakhand on Wednesday as part of.",
+      "category": "Technology",
+      "image": "https://static.toiimg.com/thumb/msid-134305245,width-1280,height-720,imgsize-201936,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/defence/news/india-us-yudh-abhyas-2026-troops-conduct-counterterrorism-drill-with-drones-in-auli/articleshow/134305225.cms",
+      "publishedAt": "2026-09-17T07:46:00.000Z",
+      "fetchedAt": "2026-09-17T08:34:42.820Z"
     },
     {
       "id": "39a18f567b7cb85d",
@@ -223,6 +245,17 @@
       "fetchedAt": "2026-09-17T06:12:54.611Z"
     },
     {
+      "id": "e8a5b642f1fc478d",
+      "title": "How China’s Asian Games cricket campaign ended without a ball being bowled as Bangladesh advanced to the",
+      "summary": "China’s women’s cricket campaign at the Asian Games ended in agonising fashion on Thursday, without the team even taking the field, as their quarter-final against Bangladesh was abandoned without a ball being bowled because of a wet outfield in Nisshin, Aichi prefecture.",
+      "category": "Sports",
+      "image": "https://static.toiimg.com/thumb/msid-134302868,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/how-chinas-asian-games-cricket-campaign-ended-without-a-ball-being-bowled-as-bangladesh-advanced-to-the-semis/articleshow/134302783.cms",
+      "publishedAt": "2026-09-17T05:50:00.000Z",
+      "fetchedAt": "2026-09-17T08:34:40.372Z"
+    },
+    {
       "id": "7d173fd2cdc9fb46",
       "title": "AFG vs IND 3rd T20I: Sooryavanshi waits as India's bench gets the spotlight",
       "summary": "India have nothing left to prove in the series after two commanding wins, but the final T20I in Delhi offers a different kind of intrigue. The big question now is whether Vaibhav Sooryavanshi and India’s waiting players finally get their moment.",
@@ -287,6 +320,17 @@
       "sourceUrl": "https://www.cnbctv18.com/india/politics/narendra-modi-at-76-12-key-moments-in-his-25-year-political-journey-19992500.htm",
       "publishedAt": "2026-09-17T05:21:32.000Z",
       "fetchedAt": "2026-09-17T05:40:39.568Z"
+    },
+    {
+      "id": "872a97f696a38862",
+      "title": "Steamhouse India jumps on debut",
+      "summary": "Shares of Steamhouse India were currently trading at Rs 98.33 at 10:15 IST on the BSE, representing a premium of 21.37% as compared with the issue price of Rs 81.",
+      "category": "Business & Finance",
+      "image": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/amp/markets/capital-market-news/steamhouse-india-jumps-on-debut-126091700289_1.html",
+      "publishedAt": "2026-09-17T05:20:32.000Z",
+      "fetchedAt": "2026-09-17T08:34:45.293Z"
     },
     {
       "id": "ae7afa2655423ba7",
@@ -496,6 +540,17 @@
       "sourceUrl": "https://www.marketscreener.com/news/adidas-reduces-technology-roles-in-india-to-streamline-operations-ce785bd3d981f321",
       "publishedAt": "2026-09-17T04:20:45.000Z",
       "fetchedAt": "2026-09-17T05:40:44.414Z"
+    },
+    {
+      "id": "78157982e2bc42c8",
+      "title": "After Asia Cup trophy snub, Kapil Dev dodges Mohsin Naqvi bullet with a witty one-liner",
+      "summary": "India’s women’s cricket team won the Asia Cup for a record eighth time on Sunday. But the post-match celebrations were overshadowed by the team’s decision not to receive the trophy from Asian Cricket Council chief Mohsin Naqvi, who is also Pakistan’s interior minister and the chairman of the Pakistan Cricket…",
+      "category": "Sports",
+      "image": "https://static.toiimg.com/thumb/msid-134301506,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/after-asia-cup-trophy-snub-kapil-dev-dodges-mohsin-naqvi-bullet-with-a-witty-one-liner/articleshow/134301077.cms",
+      "publishedAt": "2026-09-17T04:16:00.000Z",
+      "fetchedAt": "2026-09-17T08:34:40.568Z"
     },
     {
       "id": "726f3efac119d0b9",
@@ -859,6 +914,17 @@
       "sourceUrl": "https://www.indiatoday.in/sports/football/story/chelsea-ownership-todd-boehly-exits-clearlake-full-control-2996426-2026-09-17",
       "publishedAt": "2026-09-17T02:11:43.000Z",
       "fetchedAt": "2026-09-17T02:19:06.473Z"
+    },
+    {
+      "id": "e305b056f0c28806",
+      "title": "Indian and Pakistani warships collide at sea, adding to tensions",
+      "summary": "Indian and Pakistani warships collide at sea, adding to tensions. This update was reported by The Japan Times. Open the original report for full context and any developing updates.",
+      "category": "Politics & Government",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/17/563504.jpg?v=3.1",
+      "source": "The Japan Times",
+      "sourceUrl": "https://www.japantimes.co.jp/news/2026/09/17/asia-pacific/politics/indian-pakistani-warships-collide/",
+      "publishedAt": "2026-09-17T02:11:00.000Z",
+      "fetchedAt": "2026-09-17T08:34:36.959Z"
     },
     {
       "id": "fb5f0c1e3c9deb9d",
@@ -1785,6 +1851,17 @@
       "fetchedAt": "2026-09-16T20:08:58.768Z"
     },
     {
+      "id": "134a4df96e40ea15",
+      "title": "Oracle layoffs: CFO rejects ‘doing more with less’ as Indian employees share job-loss pain",
+      "summary": "Oracle layoffs: CFO rejects ‘doing more with less’ as Indian employees share job-loss pain. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
+      "category": "Crime & Breaking News",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ECrime%20%26amp%3B%20Breaking%20News%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "The Indian Express",
+      "sourceUrl": "https://indianexpress.com/article/world/oracle-cfo-hilary-maxson-doing-more-with-less-layoffs-ai-spending-10881127/",
+      "publishedAt": "2026-09-16T16:43:48.000Z",
+      "fetchedAt": "2026-09-17T08:34:39.286Z"
+    },
+    {
       "id": "126dcc68e825234c",
       "title": "Adidas confirms layoffs at India tech hub, around 50% employees affected",
       "summary": "Adidas confirms layoffs at India tech hub, around 50% employees affected. This update was reported by India Today. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
@@ -2511,6 +2588,17 @@
       "fetchedAt": "2026-09-16T17:47:15.663Z"
     },
     {
+      "id": "fa833cd7915f858c",
+      "title": "Government reconstitutes CBFC board: Preity Zinta, Roopali Ganguly, Pallavi Joshi, Pankaj Tripathi among",
+      "summary": "The Information and Broadcasting Ministry on Wednesday announced the reconstitution of the Central Board of Film Certification (CBFC), with an 18-member board featuring several well-known names from the film and entertainment industry. The new panel includes actors Preity Zinta, Suniel Shetty, Roopali Ganguly, Pallavi Joshi, Pankaj Tripathi and Prosenjit Chatterjee,…",
+      "category": "Entertainment",
+      "image": "https://static.toiimg.com/thumb/msid-134289271,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/cbfc-reconstitutes-board-preity-zinta-roopali-ganguly-pallavi-joshi-pankaj-tripathi-join-the-new-18-member-committee/articleshow/134289104.cms",
+      "publishedAt": "2026-09-16T13:29:00.000Z",
+      "fetchedAt": "2026-09-17T08:34:41.526Z"
+    },
+    {
       "id": "cfc0b2f2ce8ecb25",
       "title": "Prepare profiles of criminals: SSP to cops",
       "summary": "Prepare profiles of criminals: SSP to cops. This update was reported by The Times of India. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
@@ -2663,94 +2751,6 @@
       "sourceUrl": "https://www.kalkine.co.in/article/financial/india-home-loan-bse530979-understanding-its-role-in-indias-housing-finance-segment",
       "publishedAt": "2026-09-16T12:34:00.000Z",
       "fetchedAt": "2026-09-16T21:44:45.435Z"
-    },
-    {
-      "id": "663c9bc3d2f72a0c",
-      "title": "Haryana Financial Corporation (BSE:530927): Business Profile and Finance Sector Overview",
-      "summary": "Haryana Financial Corporation (BSE:530927): Business Profile and Finance Sector Overview. This update was reported by Kalkine India. Open the original report for full context and any developing updates.",
-      "category": "Business & Finance",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EBusiness%20%26amp%3B%20Finance%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "Kalkine India",
-      "sourceUrl": "https://www.kalkine.co.in/article/financial/haryana-financial-corporation-bse530927-exploring-its-role-in-indias-finance-and-leasing-segment",
-      "publishedAt": "2026-09-16T12:34:00.000Z",
-      "fetchedAt": "2026-09-16T20:26:57.050Z"
-    },
-    {
-      "id": "e3dad9b1d9177a54",
-      "title": "UPI MDR fee: Govt refuses to back down despite Opposition pressure; matter reaches SC",
-      "summary": "UPI MDR fee: Govt refuses to back down despite Opposition pressure; matter reaches SC. This update was reported by theweek.in. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
-      "category": "Politics & Government",
-      "image": "https://img.theweek.in/content/dam/week/en/archive/news/india/images/2026/9/16/upi-controversy-sopy.jpg",
-      "source": "theweek.in",
-      "sourceUrl": "https://www.theweek.in/news/india/2026/09/16/upi-mdr-fee-govt-refuses-to-back-down-despite-opposition-pressure-matter-reaches-sc.html",
-      "publishedAt": "2026-09-16T12:32:23.000Z",
-      "fetchedAt": "2026-09-16T18:23:58.197Z"
-    },
-    {
-      "id": "e78f025a0e68c558",
-      "title": "A NITI Aayog task force wants Formula One back in India by 2028 - dive-bomb.com",
-      "summary": "A NITI Aayog task force aims to revive Formula 1 in India by 2028. We unpack the 2013 exit, Adani",
-      "category": "Sports",
-      "image": "https://static.wixstatic.com/media/5f682b_b1d625314c7d4771a590b97469fce310~mv2.png/v1/fill/w_1000,h_563,al_c,q_90,usm_0.66_1.00_0.01/5f682b_b1d625314c7d4771a590b97469fce310~mv2.png",
-      "source": "dive-bomb.com",
-      "sourceUrl": "https://www.dive-bomb.com/article/a-niti-aayog-task-force-wants-formula-one-back-in-india-by-2028",
-      "publishedAt": "2026-09-16T12:31:00.000Z",
-      "fetchedAt": "2026-09-16T21:28:55.313Z"
-    },
-    {
-      "id": "e78f025a0e68c558",
-      "title": "A NITI Aayog task force wants Formula One back in India by 2028",
-      "summary": "A NITI Aayog task force aims to revive Formula 1 in India by 2028. We unpack the 2013 exit, Adani",
-      "category": "Sports",
-      "image": "https://static.wixstatic.com/media/5f682b_b1d625314c7d4771a590b97469fce310~mv2.png/v1/fill/w_1000,h_563,al_c,q_90,usm_0.66_1.00_0.01/5f682b_b1d625314c7d4771a590b97469fce310~mv2.png",
-      "source": "DIVEBOMB Motorsport",
-      "sourceUrl": "https://www.dive-bomb.com/article/a-niti-aayog-task-force-wants-formula-one-back-in-india-by-2028",
-      "publishedAt": "2026-09-16T12:31:00.000Z",
-      "fetchedAt": "2026-09-16T18:56:34.272Z"
-    },
-    {
-      "id": "aeb84ce5c6df10ed",
-      "title": "Air India Becomes Title Sponsor of Sa Re Ga Ma Pa",
-      "summary": "Air India becomes Title Sponsor of Sa Re Ga Ma Pa 2026, premiering September 19 on Zee TV UK with a spectacular new format.",
-      "category": "Entertainment",
-      "image": "https://pimwp.s3-accelerate.amazonaws.com/2026/09/Air-India-Becomes-Title-Sponsor-of-Zee-TV-UKs-Sa-Re-Ga-Ma-Pa-2026-as-Indias-Biggest-Singing-Reality-Show-Returns-in-Its-Grandest-Ever-Avatar.webp",
-      "source": "passionateinmarketing.com",
-      "sourceUrl": "https://www.passionateinmarketing.com/air-india-becomes-title-sponsor-of-zee-tv-uks-sa-re-ga-ma-pa-2026-as-indias-biggest-singing-reality-show-returns-in-its-grandest-ever-avatar/",
-      "publishedAt": "2026-09-16T12:30:19.000Z",
-      "fetchedAt": "2026-09-16T18:39:45.194Z"
-    },
-    {
-      "id": "f03dc4d58224651c",
-      "title": "Actor Anant Nag honoured with Dadasaheb Phalke award 2024 for 'contribution to Indian cinema'",
-      "summary": "Actor Anant Nag honoured with Dadasaheb Phalke award 2024 for 'contribution to Indian cinema'. This update was reported by Deccan Herald. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
-      "category": "Entertainment",
-      "image": "https://cf-images.assettype.com/deccanherald%2F2025-01-26%2F67w09xy3%2Ffile74ufrv3qx6ddtbe0b8w.jpg?rect=0%2C0%2C600%2C315&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "source": "Deccan Herald",
-      "sourceUrl": "https://www.deccanherald.com/amp/story/entertainment/actor-anant-nag-honoured-with-dadasaheb-phalke-award-2024-for-contribution-to-indian-cinema-4148234",
-      "publishedAt": "2026-09-16T12:27:00.000Z",
-      "fetchedAt": "2026-09-16T18:03:29.985Z"
-    },
-    {
-      "id": "e44033552b82fbf8",
-      "title": "World Bank raises India’s growth forecast from 6.3 to 6.6 percent for current financial year",
-      "summary": "World Bank raises India’s growth forecast from 6.3 to 6.6 percent for current financial year. This update was reported by News On AIR. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
-      "category": "Business & Finance",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EBusiness%20%26amp%3B%20Finance%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "News On AIR",
-      "sourceUrl": "https://newsonair.gov.in/world-bank-raises-indias-growth-forecast-from-6-3-to-6-6-percent-for-current-financial-year/",
-      "publishedAt": "2026-09-16T12:21:33.000Z",
-      "fetchedAt": "2026-09-16T17:47:17.646Z"
-    },
-    {
-      "id": "da2f174f119f1d1b",
-      "title": "The financial reality behind India’s increasing dependence on private healthcare",
-      "summary": "A medical emergency does not wait for a good time. When a medical emergency hits, there is no time to arrange finances.",
-      "category": "Business & Finance",
-      "image": "https://s3.ap-south-1.amazonaws.com/media.thesouthfirst.com/wp-content/uploads/2026/09/healthinsurance.jpg",
-      "source": "The South First",
-      "sourceUrl": "https://thesouthfirst.com/business-tech/the-financial-reality-behind-indias-increasing-dependence-on-private-healthcare/",
-      "publishedAt": "2026-09-16T12:17:36.000Z",
-      "fetchedAt": "2026-09-16T18:43:15.265Z"
     }
   ]
 }
