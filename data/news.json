@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-09-17T04:21:43.975Z",
+  "updatedAt": "2026-09-17T04:38:15.638Z",
   "count": 250,
   "articles": [
+    {
+      "id": "984eef983c837427",
+      "title": "Mirzapur The Movie Box Office Collection Day 13: Pankaj Tripathi Film Faces Strong Competition From Hanuman Ansh, Misses Rs 200 Crore Mark In India",
+      "summary": "The film is produced by Ritesh Sidhwani and Farhan Akhtar under the banner of Excel Entertainment",
+      "category": "Entertainment",
+      "image": "https://c.ndtvimg.com/2026-09/q83eopec_mirzapur_625x300_14_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "source": "NDTV",
+      "sourceUrl": "https://www.ndtv.com/entertainment/mirzapur-the-movie-box-office-collection-day-13-pankaj-tripathi-film-faces-strong-competition-from-hanuman-ansh-misses-rs-200-crore-mark-in-india-12057639",
+      "publishedAt": "2026-09-17T04:26:03.000Z",
+      "fetchedAt": "2026-09-17T04:38:12.988Z"
+    },
+    {
+      "id": "24147aa1d85ccacc",
+      "title": "PM Modi a symbol of national service and dedication: BJP on his 76th birthday",
+      "summary": "Prime Minister Narendra Modi celebrated his birthday and 25 years in public service. Leaders praised his dedication to national development and public welfare. India is achieving new heights of self-reliance and global recognition under his guidance. His leadership has fostered progress in infrastructure and citizen-centric governance. Modi",
+      "category": "National & Trending News",
+      "image": "https://img.etimg.com/thumb/msid-134301590,width-1200,height-630,imgsize-118482,overlay-economictimes/articleshow.jpg",
+      "source": "The Economic Times",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/pm-modi-a-symbol-of-national-service-and-dedication-bjp-on-his-76th-birthday/articleshow/134301525.cms?from=mdr",
+      "publishedAt": "2026-09-17T04:23:39.000Z",
+      "fetchedAt": "2026-09-17T04:38:15.198Z"
+    },
+    {
+      "id": "726f3efac119d0b9",
+      "title": "Macklemore pledges $1m, asks US promoter who dropped him from Sheeran tour to match",
+      "summary": "Macklemore said he will donate his $1 million net earnings from Ed Sheeran's Loop Tour to six groups supporting Palestinians and urged Robert Kraft to match it. The pledge came after his removal from the tour over pro-Palestine remarks, with Kraft and other support acts responding publicly.",
+      "category": "Entertainment",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/macklemore-pledges-170446659-16x9_0.jpg?VersionId=jRFZQRqI9OJH.trF5dxBYiN6uaVoV3Oj",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/entertainment/music/story/macklemore-pledges-1m-asks-us-promoter-robert-krant-who-dropped-him-from-ed-sheeran-tour-to-match-2996475-2026-09-17",
+      "publishedAt": "2026-09-17T04:09:13.000Z",
+      "fetchedAt": "2026-09-17T04:38:13.399Z"
+    },
     {
       "id": "7ef1a99bbe4f972a",
       "title": "Fresh from India Test duty, Manav Suthar stars with five-wicket haul for Warwickshire",
@@ -23,6 +56,17 @@
       "sourceUrl": "https://www.exchange4media.com/marketing-news/pm-at-76-the-making-of-narendra-modi-politician-brand-and-phenomenon-158310.html",
       "publishedAt": "2026-09-17T03:45:06.000Z",
       "fetchedAt": "2026-09-17T03:50:13.040Z"
+    },
+    {
+      "id": "1f7fe1f887ad07a8",
+      "title": "Decathlon India's Private Label Brand Strategy in Sports Retail",
+      "summary": "Industry and Competitive ContextIndian sportswear is a large, fast-growing and structurally fragmented category. Euromonitor data summarised by Research and Markets puts Indian sportswear sales at INR 824.1 billion in 2025, an 11% increase on the prior year, with a forecast 10% CAGR taking the market to INR 1.30 trillion by…",
+      "category": "Sports",
+      "image": "https://static.wixstatic.com/media/8a841b_71a26a43597f43b5a8f487c7be523de3~mv2.jpg/v1/fill/w_985,h_537,al_c/8a841b_71a26a43597f43b5a8f487c7be523de3~mv2.jpg",
+      "source": "MarkHub24",
+      "sourceUrl": "https://www.markhub24.com/post/decathlon-india-s-private-label-brand-strategy-in-sports-retail",
+      "publishedAt": "2026-09-17T03:30:05.000Z",
+      "fetchedAt": "2026-09-17T04:38:11.528Z"
     },
     {
       "id": "4fabbaba8517a5ae",
@@ -289,6 +333,17 @@
       "fetchedAt": "2026-09-17T03:50:16.697Z"
     },
     {
+      "id": "810ed28d3404ea46",
+      "title": "Asian Champions Trophy: Pakistan requests AHF to shift its matches from India",
+      "summary": "Pakistan seeks a neutral venue for the Asian Champions Trophy, but India refuses to change the tournament location.",
+      "category": "National & Trending News",
+      "image": "https://th-i.thgim.com/public/incoming/oetcrb/article71475109.ece/alternates/LANDSCAPE_1200/20260914031L.jpg",
+      "source": "The Hindu",
+      "sourceUrl": "https://www.thehindu.com/sport/hockey/asian-champions-trophy-pakistan-requests-ahf-to-shift-its-matches-from-india/article71475104.ece",
+      "publishedAt": "2026-09-17T00:18:50.000Z",
+      "fetchedAt": "2026-09-17T04:38:15.637Z"
+    },
+    {
       "id": "748b12c336de08a3",
       "title": "UPI MDR fee hike: Opposition demands rollback, claims US pressure; false, no foreign influence, says government",
       "summary": "UPI MDR fee hike: Opposition demands rollback, claims US pressure; false, no foreign influence, says government. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
@@ -430,6 +485,17 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/city/gurgaon/cocaine-worth-rs-15-crore-seized-three-foreigners-arrested-in-faridabad/articleshow/134296162.cms",
       "publishedAt": "2026-09-16T19:37:00.000Z",
       "fetchedAt": "2026-09-17T02:19:05.621Z"
+    },
+    {
+      "id": "84e6e8efc04182ca",
+      "title": "2 criminals injured in encounter with police in Faridabad",
+      "summary": "Two men, wanted in theft cases, were shot in the leg after they allegedly opened fire, police said.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134292574,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/gurgaon/2-criminals-injured-in-encounter-with-police-in-faridabad/articleshow/134292578.cms",
+      "publishedAt": "2026-09-16T19:35:00.000Z",
+      "fetchedAt": "2026-09-17T04:38:10.717Z"
     },
     {
       "id": "3ecbe2408f072044",
@@ -738,6 +804,17 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/city/goa/hc-quashes-deportation-order-against-austrian-national/amp_articleshow/134294599.cms",
       "publishedAt": "2026-09-16T18:08:00.000Z",
       "fetchedAt": "2026-09-16T19:13:14.705Z"
+    },
+    {
+      "id": "662ca986df2d7a9b",
+      "title": "Hockey: Pakistan urges AHF to move Asian Champions Trophy out of India over security concerns",
+      "summary": "The Pakistan Hockey Federation has requested the AHF to relocate the 2026 Asian Champions Trophy or shift its matches outside India over safety concerns.",
+      "category": "Sports",
+      "image": "https://cdn1.wionews.com/prod/wion/images/2026/20260916/image-1789581531177.jpg?imwidth=1200&imheight=900",
+      "source": "WION",
+      "sourceUrl": "https://www.wionews.com/sports/pakistan-asks-ahf-relocate-asian-champions-trophy-india-1789580825934",
+      "publishedAt": "2026-09-16T18:03:38.000Z",
+      "fetchedAt": "2026-09-17T04:38:11.958Z"
     },
     {
       "id": "9202f9bfae0b36c7",
@@ -2674,83 +2751,6 @@
       "sourceUrl": "https://www.hindustantimes.com/india-news/bangladesh-national-caught-smuggling-gold-inside-undergarments-at-delhi-airport-jeddah-saudi-101789535366944.html",
       "publishedAt": "2026-09-16T05:17:45.000Z",
       "fetchedAt": "2026-09-16T18:03:32.114Z"
-    },
-    {
-      "id": "e33b38bc1da33e59",
-      "title": "Parul University Journalism Students Complete Six-Day Delhi Media Leadership Tour Across Indias Top Newsrooms",
-      "summary": "Vadodara / New Delhi, August 2026: Journalism and mass communication students from Parul University, Vadodara, have completed a six-day Delhi media leadership tour, going behind the scenes at the Press Trust of India, Hindustan Times, India TV, News18, TV9, Republic...",
-      "category": "National & Trending News",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTUwMjIzZWQwLWIxOGUtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
-      "source": "tribuneindia.com",
-      "sourceUrl": "https://www.tribuneindia.com/news/business/parul-university-journalism-students-complete-six-day-delhi-media-leadership-tour-across-indias-top-newsrooms/amp",
-      "publishedAt": "2026-09-16T05:16:39.000Z",
-      "fetchedAt": "2026-09-16T21:12:10.480Z"
-    },
-    {
-      "id": "33bba07b1b0a6a57",
-      "title": "India Key Driver For Global Growth: Senior IMF Official",
-      "summary": "IMF Deputy Managing Director Clarke said that against a backdrop of heightened global uncertainty and evolving risks, preserving macroeconomic stability and resilience remains essential.",
-      "category": "Business & Finance",
-      "image": "https://imgs.etvbharat.com/etvbharat/prod-images/16-09-2026/1200-675-27643496-27-27643496-1789535663573.jpg",
-      "source": "etvbharat.com",
-      "sourceUrl": "https://www.etvbharat.com/en/business/india-key-driver-for-global-growth-senior-imf-official-enn26091601183",
-      "publishedAt": "2026-09-16T05:14:41.000Z",
-      "fetchedAt": "2026-09-17T02:19:09.383Z"
-    },
-    {
-      "id": "e087b65b8084832f",
-      "title": "'Ramayana' to battle 'Godzilla Minus Zero' on Diwali; Indian fans call clash 'God vs Godzilla'",
-      "summary": "The Times of India brings the Latest & Top Breaking News on Politics and Current Affairs in India & around the World, Cricket, Sports, Business, Bollywood News and Entertainment, Science, Technology, Health & Fitness news & opinions from leading columnists.",
-      "category": "Entertainment",
-      "image": "https://static.toiimg.com/thumb/msid-134255310,width-1280,height-720,imgsize-378680,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-vs-godzilla-minus-zero-on-diwali-indian-fans-call-clash-god-vs-godzilla/amp_articleshow/134254455.cms",
-      "publishedAt": "2026-09-16T05:06:00.000Z",
-      "fetchedAt": "2026-09-16T20:08:59.982Z"
-    },
-    {
-      "id": "d6236c960c09abe2",
-      "title": "Sa Re Ga Ma Pa 2026 announces Air India as title sponsor; new season to premiere on THIS date",
-      "summary": "Zee TV UK has welcomed Air India as the title sponsor of Sa Re Ga Ma Pa 2026. The new season of the reality show premieres on September 19. Read on to know more.",
-      "category": "Entertainment",
-      "image": "https://cdn1.wionews.com/prod/wion/images/2026/20260916/image-1789534933642.png?imwidth=1200&imheight=900",
-      "source": "WION",
-      "sourceUrl": "https://www.wionews.com/entertainment/sa-re-ga-ma-pa-2026-announces-air-india-as-title-sponsor-new-season-to-premiere-on-this-date-1789534322074",
-      "publishedAt": "2026-09-16T05:04:00.000Z",
-      "fetchedAt": "2026-09-16T18:56:35.400Z"
-    },
-    {
-      "id": "e6f93e4f77d95194",
-      "title": "Vijay Kumar: City Lights is about innocent souls swallowed by Bengaluru",
-      "summary": "Vijay Kumar: City Lights is about innocent souls swallowed by Bengaluru. This update was reported by The New Indian Express. Open the original report for full context and any developing updates.",
-      "category": "Entertainment",
-      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-09-16%2Fvhtyl8h2%2Fcitylights1.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "source": "The New Indian Express",
-      "sourceUrl": "https://www.newindianexpress.com/amp/story/entertainment/2026/Sep/16/kannadainterviews2026sep15vijay-kumar-city-lights-is-about-innocent-souls-swallowed-by-bengaluru",
-      "publishedAt": "2026-09-16T04:48:00.000Z",
-      "fetchedAt": "2026-09-16T19:53:36.170Z"
-    },
-    {
-      "id": "347e5f8fff394e3e",
-      "title": "New Zealand Parliament approves India FTA, tariffs to fall on most exports",
-      "summary": "New Delhi: New Zealand’s Parliament Wednesday passed legislation needed for the free trade agreement (FTA) with India with lawmakers voting 93-29 in favour, according to Trade and Investment Minister Todd McClay. McClay said the vote showed strong parliamentary support for the agreement and its expected economic benefits. Also Read Trinamool…",
-      "category": "National & Trending News",
-      "image": "https://www.orissapost.com/wp-content/uploads/2025/12/india-new-zealand-trade-deal.jpg",
-      "source": "orissapost.com",
-      "sourceUrl": "https://www.orissapost.com/new-zealand-parliament-approves-india-fta-tariffs-to-fall-on-most-exports/",
-      "publishedAt": "2026-09-16T04:40:30.000Z",
-      "fetchedAt": "2026-09-16T18:39:51.191Z"
-    },
-    {
-      "id": "57af98342d4dac72",
-      "title": "How Vijay’s ‘silent government’ strategy is more than a replay of Tamil Nadu’s movie star CMs",
-      "summary": "As TVK govt crosses 100-day mark, Tamil Nadu CM Vijay’s reluctance to speak on issues or engage with media stands out as an extreme version of the movie star-turned-chief ministers who came before him.",
-      "category": "Politics & Government",
-      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/09/gfx_tvk-govt.png",
-      "source": "ThePrint",
-      "sourceUrl": "https://theprint.in/politics/how-vijays-silent-government-strategy-is-more-than-a-replay-of-tamil-nadus-movie-star-cms/3041963/",
-      "publishedAt": "2026-09-16T04:13:15.000Z",
-      "fetchedAt": "2026-09-16T18:43:05.410Z"
     }
   ]
 }
