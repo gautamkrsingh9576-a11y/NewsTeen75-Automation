@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-16T23:38:07.044Z",
-  "count": 218,
+  "updatedAt": "2026-09-17T00:00:21.787Z",
+  "count": 219,
   "articles": [
     {
       "id": "1d64d69610c65ffc",
@@ -364,6 +364,17 @@
       "sourceUrl": "https://ng.investing.com/news/stock-market-news/adidas-cuts-jobs-in-india-technology-team-93CH-2698704",
       "publishedAt": "2026-09-16T18:00:06.000Z",
       "fetchedAt": "2026-09-16T18:56:37.067Z"
+    },
+    {
+      "id": "acbcc7f8ce243b7d",
+      "title": "\"Completely focused on my performance\": India's lone gymnast at Asian Games 2026 Pranati Nayak ready for challenge",
+      "summary": "Indian gymnast Pranati Nayak is heading into her fourth Asian Games with renewed confidence after a strong season and focused preparations at the Odisha AM/NS India Gymnastics High Performance Centre (GHPC) in Bhubaneswar, where she has been working extensively on execution and landing ahead of the Aichi-Nagoya Games 2026.",
+      "category": "Sports",
+      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260916175429-thumbnail-320x180-70.jpg",
+      "source": "ANI News",
+      "sourceUrl": "https://www.aninews.in/news/sports/others/completely-focused-on-my-performance-indias-lone-gymnast-at-asian-games-2026-pranati-nayak-ready-for-challenge20260916232529/",
+      "publishedAt": "2026-09-16T17:55:00.000Z",
+      "fetchedAt": "2026-09-17T00:00:20.173Z"
     },
     {
       "id": "c276fc068b49e690",
