@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-09-17T17:27:52.314Z",
+  "updatedAt": "2026-09-17T17:43:17.368Z",
   "count": 250,
   "articles": [
+    {
+      "id": "4517a0e5c4b42e84",
+      "title": "How RayVector's AI Tech Revolutionises Semiconductor Manufacturing",
+      "summary": "Bengaluru-based deep-tech company RayVector Technologies is demonstrating its advanced multi-sensor module and wafer-handling technology at SEMICON India. This innovative solution uses sensing, imaging, and AI to detect minute irregularities in semiconductor wafers, helping manufacturers prevent costly production losses. The technology is already being utilised by major global players like Samsung,…",
+      "category": "Technology",
+      "image": "https://im.rediff.com/1200-630/news/2022/sep/07chip.jpg",
+      "source": "Rediff",
+      "sourceUrl": "https://www.rediff.com/news/report/bengaluru-firm-showcases-ai-powered-wafer-defect-detection-at-semicon-india/20260917.htm",
+      "publishedAt": "2026-09-17T17:22:40.000Z",
+      "fetchedAt": "2026-09-17T17:43:14.464Z"
+    },
+    {
+      "id": "fe1ab4ff25091162",
+      "title": "Friendship Cup, ruthless India: Abhishek blitz powers 3-0 sweep of Afghanistan",
+      "summary": "Afghanistan vs India, 3rd T20I: Abhishek Sharma hit a 30-ball hundred, the fastest by an Indian in T20Is, as India hammered Afghanistan by 127 runs. The Men in Blue made a statement in Delhi, sweeping the series 3-0 before heading off to Nagoya for the Asian Games.",
+      "category": "Sports",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/abhishek-sharma--ind-vs-afg-171941685-16x9_0.jpg?VersionId=ZDG4cTG0GJyfPOOuOEc.jjRmBbwTLhPV",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/sports/cricket/story/india-vs-afghanistan-3rd-t20i-report-abhishek-sharma-samson-3-0-series-sweep-2997215-2026-09-17",
+      "publishedAt": "2026-09-17T17:21:42.000Z",
+      "fetchedAt": "2026-09-17T17:43:05.174Z"
+    },
     {
       "id": "c7e539d0517d99e0",
       "title": "‘Release documents to substantiate claims of government upheaval’: N Cheluvarayaswamy to HD Kumaraswamy",
@@ -377,6 +399,28 @@
       "fetchedAt": "2026-09-17T15:25:46.859Z"
     },
     {
+      "id": "7497889bda4feb3e",
+      "title": "After Mumbai, Godrej Wealth expands into Delhi-NCR; targets ₹1 lakh crore AUM by 2031",
+      "summary": "Godrej Wealth, backed by the 129-year-old Godrej Industries Group, expands from Mumbai into Delhi-NCR, targeting ₹1 lakh crore AUM by 2031. Focused on affluent, HNI and UHNI clients, the firm plans a 35-location national footprint, entry into asset management with a mutual fund licence, and launch of a private credit…",
+      "category": "Business & Finance",
+      "image": "https://media.fortuneindia.com/fortune-india/2026-09-17/0wbejf18/WhatsApp-Image-2026-09-17-at-18.45.52.jpeg?w=1200&ar=40:21&auto=format,compress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "Fortune India",
+      "sourceUrl": "https://www.fortuneindia.com/amp/story/personal-finance/after-mumbai-godrej-wealth-expands-into-delhi-ncr-targets-1-lakh-crore-aum-by-2031/159830",
+      "publishedAt": "2026-09-17T13:20:26.000Z",
+      "fetchedAt": "2026-09-17T17:43:15.986Z"
+    },
+    {
+      "id": "c129bc8a19103dd4",
+      "title": "Indian national arrested for illegal working at convenience store",
+      "summary": "An immigration raid led to the arrest of an Indian national for 'illegal working' at a convenience store near Bournemouth University.",
+      "category": "Crime & Breaking News",
+      "image": "https://www.bournemouthecho.co.uk/resources/images/21467888.jpg?type=og-image",
+      "source": "Bournemouth Echo",
+      "sourceUrl": "https://www.bournemouthecho.co.uk/news/26558907.indian-national-arrested-bournemouth-immigration-raid/",
+      "publishedAt": "2026-09-17T13:00:00.000Z",
+      "fetchedAt": "2026-09-17T17:43:03.863Z"
+    },
+    {
       "id": "12a9d5b87d9fb487",
       "title": "UPI MDR: Ministry Addresses Concerns Over Cash Transactions And Inflation",
       "summary": "The Finance Ministry has clarified that the 0.4 per cent Merchant Discount Rate (MDR) on UPI transactions above Rs 2,000, effective October 15, is not expected to increase cash transactions or cause inflation. The ministry also dismissed allegations of US pressure influencing the decision, asserting that the policy aims to…",
@@ -452,6 +496,17 @@
       "sourceUrl": "https://sports.ndtv.com/india-vs-afghanistan-2026/india-vs-afghanistan-free-live-streaming-3rd-t20i-live-telecast-when-and-where-to-watch-12059428",
       "publishedAt": "2026-09-17T12:42:41.000Z",
       "fetchedAt": "2026-09-17T14:01:06.224Z"
+    },
+    {
+      "id": "5eca605f983e4101",
+      "title": "Mumbai club cricketer Vinay Iyer will coach Japan against India at the Asian Games",
+      "summary": "Mumbai club cricketer Vinay Iyer will coach Japan against India at the Asian Games. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
+      "category": "Sports",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "The Indian Express",
+      "sourceUrl": "https://indianexpress.com/article/sports/cricket/mumbai-club-cricketer-vinay-iyer-will-coach-japan-against-india-at-the-asian-games-10882440/",
+      "publishedAt": "2026-09-17T12:40:10.000Z",
+      "fetchedAt": "2026-09-17T17:43:05.502Z"
     },
     {
       "id": "b3ef10ea9b65d7ca",
@@ -2696,61 +2751,6 @@
       "sourceUrl": "https://www.indiatoday.in/entertainment/music/story/macklemore-pledges-1m-asks-us-promoter-robert-krant-who-dropped-him-from-ed-sheeran-tour-to-match-2996475-2026-09-17",
       "publishedAt": "2026-09-17T04:09:13.000Z",
       "fetchedAt": "2026-09-17T04:38:13.399Z"
-    },
-    {
-      "id": "edba741ec42cb64f",
-      "title": "India’s next semiconductor bet is not just about building chip factories",
-      "summary": "India’s next semiconductor bet is not just about building chip factories. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
-      "category": "Technology",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "The Indian Express",
-      "sourceUrl": "https://indianexpress.com/article/explained/semicon-india-2026-pm-modi-semiconductor-chip-push-10881503/",
-      "publishedAt": "2026-09-17T04:08:48.000Z",
-      "fetchedAt": "2026-09-17T07:30:05.685Z"
-    },
-    {
-      "id": "6f7e4876c6198fd9",
-      "title": "Meta in trouble? Centre questions legal immunity over algorithm-driven content on Facebook, Instagram",
-      "summary": "The government believes that once Meta accepts responsibility for material available on its platforms, it should also take further steps to prevent and report illegal content.",
-      "category": "Crime & Breaking News",
-      "image": "https://s3.india.com/wp-content/uploads/2026/07/meta.jpg",
-      "source": "India.com",
-      "sourceUrl": "https://www.india.com/news/india/meta-in-trouble-centre-questions-legal-immunity-intermediary-protection-over-algorithm-driven-content-on-facebook-instagram-take-more-responsibility-8526158/amp/",
-      "publishedAt": "2026-09-17T04:06:04.000Z",
-      "fetchedAt": "2026-09-17T07:46:20.829Z"
-    },
-    {
-      "id": "7ef1a99bbe4f972a",
-      "title": "Fresh from India Test duty, Manav Suthar stars with five-wicket haul for Warwickshire",
-      "summary": "Manav Suthar followed his impressive start to Test cricket with another starring performance in County Championship. The India spinner claimed five wickets as Warwickshire beat Essex by eight wickets to strengthen their title push.",
-      "category": "Sports",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/manav-suthar-175354877-16x9_0.jpg?VersionId=Ud60xrEW33rx6TgKfJKngjavRiJeSO46",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/sports/cricket/story/manav-suthar-five-wicket-haul-warwickshire-beat-essex-county-championship-2996481-2026-09-17",
-      "publishedAt": "2026-09-17T03:55:41.000Z",
-      "fetchedAt": "2026-09-17T04:02:05.210Z"
-    },
-    {
-      "id": "64e9e1c635dc8e12",
-      "title": "How to watch ETPL 2026 in India? Live stream, TV channel, teams, squads and schedule for European T20 Premier League",
-      "summary": "The inaugural ETPL season is here. Find out where to watch, plus the teams, squads and full 2026 schedule.",
-      "category": "Sports",
-      "image": "https://s.yimg.com/lo/mysterio/api/7612e6eb051634135b055236084f4d8a311cee67bf9ebecfdc611c9d75c8aba0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F5572702289c147f4221374e95512b0da",
-      "source": "Yahoo Sports",
-      "sourceUrl": "https://sports.yahoo.com/articles/watch-etpl-2026-india-live-114723495.html",
-      "publishedAt": "2026-09-17T03:49:34.000Z",
-      "fetchedAt": "2026-09-17T06:12:50.818Z"
-    },
-    {
-      "id": "ba00e50d1930b862",
-      "title": "Finance Minister Swarnim Wagle reaches New Delhi",
-      "summary": "Wagle is set to meet his Indian counterparts and business leaders to discuss reconstruction and wider economic cooperation.",
-      "category": "Business & Finance",
-      "image": "https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/HSY5lUJagAEhV7K-1789617510.jpg",
-      "source": "The Kathmandu Post",
-      "sourceUrl": "https://kathmandupost.com/politics/2026/09/17/finance-minister-swarnim-wagle-heads-to-new-delhi",
-      "publishedAt": "2026-09-17T03:48:16.000Z",
-      "fetchedAt": "2026-09-17T11:02:39.051Z"
     }
   ]
 }
