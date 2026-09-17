@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-17T01:00:10.925Z",
-  "count": 224,
+  "updatedAt": "2026-09-17T01:19:08.241Z",
+  "count": 226,
   "articles": [
+    {
+      "id": "7bf9d203f579936e",
+      "title": "Football on a curved table, wrestling without groundwork: Five little-known sports India will compete in",
+      "summary": "The Asian Games have always been more than a showcase of the sports that dominate television screens.",
+      "category": "Sports",
+      "image": "https://static.toiimg.com/thumb/msid-134297058,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/football-on-a-curved-table-wrestling-without-groundwork-five-little-known-sports-india-will-compete-in-at-asian-games-2026/articleshow/134297046.cms",
+      "publishedAt": "2026-09-17T01:07:00.000Z",
+      "fetchedAt": "2026-09-17T01:19:06.249Z"
+    },
     {
       "id": "748b12c336de08a3",
       "title": "UPI MDR fee hike: Opposition demands rollback, claims US pressure; false, no foreign influence, says government",
@@ -1596,6 +1607,17 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/meta-has-admitted-mistake-must-remove-child-abuse-content-govt-sources-say-firm-has-no-immunity/articleshow/134286605.cms",
       "publishedAt": "2026-09-16T11:32:00.000Z",
       "fetchedAt": "2026-09-16T18:56:30.143Z"
+    },
+    {
+      "id": "c6ed4cb2c917daf5",
+      "title": "Sony Sports Network to broadcast India’s star-studded Asian Games cricket campaign",
+      "summary": "Mumbai: Indian cricket stars including Jasprit Bumrah, Shreyas Iyer, Abhishek Sharma and Vaibhav Sooryavanshi are set to make their Asian",
+      "category": "Sports",
+      "image": "https://www.medianews4u.com/wp-content/uploads/2026/09/Asian-Games.png",
+      "source": "MediaNews4U",
+      "sourceUrl": "https://www.medianews4u.com/sony-sports-network-to-broadcast-indias-star-studded-asian-games-cricket-campaign/",
+      "publishedAt": "2026-09-16T11:29:04.000Z",
+      "fetchedAt": "2026-09-17T01:19:06.653Z"
     },
     {
       "id": "1ce8b9c5efebe861",
