@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-09-17T04:38:15.638Z",
+  "updatedAt": "2026-09-17T04:53:09.727Z",
   "count": 250,
   "articles": [
+    {
+      "id": "bcead31bec5bef06",
+      "title": "India should aspire to be among early leaders in emerging tech: PM Narendra Modi - People Matters",
+      "summary": "At a semiconductor industry roundtable, Prime Minister Narendra Modi urged India to aim for leadership in emerging technologies, reaffirming government support for a predictable policy environment and calling for deeper collaboration between industry and government.",
+      "category": "Technology",
+      "image": "https://asset.peoplematters.in/images/08f0aa6a-df56-4f99-9aba-c5f0b136ecef.jpeg",
+      "source": "People Matters - HR News",
+      "sourceUrl": "https://www.peoplematters.in/news/economy-policy/india-should-aspire-to-be-among-early-leaders-in-emerging-tech-pm-narendra-modi-52141",
+      "publishedAt": "2026-09-17T04:41:15.000Z",
+      "fetchedAt": "2026-09-17T04:53:06.264Z"
+    },
+    {
+      "id": "47a6c3380fe122d6",
+      "title": "India’s Data Centre Expansion Accelerates as US Faces Resistance",
+      "summary": "India’s Data Centre Expansion Accelerates as US Faces Resistance. This update was reported by constructionworld.in. Open the original report for full context and any developing updates.",
+      "category": "Technology",
+      "image": "https://www.constructionworld.in/assets/uploads/s_img_39818_1789619756.webp",
+      "source": "constructionworld.in",
+      "sourceUrl": "https://www.constructionworld.in/latest-construction-technology/indias-data-centre-expansion-accelerates-as-us-faces-resistance/97463",
+      "publishedAt": "2026-09-17T04:37:44.000Z",
+      "fetchedAt": "2026-09-17T04:53:08.332Z"
+    },
+    {
+      "id": "55f87f08c2eeb10f",
+      "title": "India’s Youth and the Politics of Jobs, Exams and Identity",
+      "summary": "India’s youth face a defining debate over identity, jobs, exams and democracy as Ujjain and Indore host rival programmes focused on their future.",
+      "category": "Politics & Government",
+      "image": "https://enewsroom.in/wp-content/uploads/2026/09/GenZYouthIndia-1.jpg",
+      "source": "eNewsroom India",
+      "sourceUrl": "https://enewsroom.in/india-youth-politics-jobs-exams-identity/",
+      "publishedAt": "2026-09-17T04:37:21.000Z",
+      "fetchedAt": "2026-09-17T04:52:59.053Z"
+    },
+    {
+      "id": "da4e8a46118c7bc6",
+      "title": "LED TVs: Top picks across screen sizes, resolutions and smart features for immersive home entertainment in India in 2026",
+      "summary": "Compare LED TVs from Samsung, LG, TCL, Xiaomi and more, with options spanning HD to 4K displays, smart platforms, varied screen sizes and useful connectivity for different home for everyday viewing!",
+      "category": "Entertainment",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/16/1600x900/logo/LED_TV_1789556830202_mfz6_1789556836841_63VS_a0787ad2-a090-4e9b-ba27-b62f2aad3f71_uILW.png",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/gadgets-and-appliances/led-tvs-top-picks-across-screen-sizes-resolutions-and-smart-features-for-immersive-home-entertainment-in-india-in-2026-11789537305121.html",
+      "publishedAt": "2026-09-17T04:30:36.000Z",
+      "fetchedAt": "2026-09-17T04:53:02.049Z"
+    },
     {
       "id": "984eef983c837427",
       "title": "Mirzapur The Movie Box Office Collection Day 13: Pankaj Tripathi Film Faces Strong Competition From Hanuman Ansh, Misses Rs 200 Crore Mark In India",
@@ -80,6 +124,17 @@
       "fetchedAt": "2026-09-17T03:35:35.466Z"
     },
     {
+      "id": "aef393abc6b0404e",
+      "title": "The Punch Boxing Set to Return with Its 14th Edition, Continuing Its Professional Boxing Journey in India",
+      "summary": "NEW DELHI, SEPTEMBER 2026: Professional boxing in India continues to gain momentum, with fighters increasingly looking for competitive opportunities, international exposure and meaningful professional careers. Adding to this movement is The Punch Boxing, one of India’s established professional boxing promotions, which is now gearing up for its 14th Edition. Launched…",
+      "category": "Sports",
+      "image": "https://revsportz.in/wp-content/uploads/2026/09/punch_boxing-1024x576.png",
+      "source": "Revsportz",
+      "sourceUrl": "https://revsportz.in/the-punch-boxing-set-to-return-with-its-14th-edition-continuing-its-professional-boxing-journey-in-india/",
+      "publishedAt": "2026-09-17T03:10:23.000Z",
+      "fetchedAt": "2026-09-17T04:53:00.787Z"
+    },
+    {
       "id": "fa95499a30155b02",
       "title": "Compound Interest: Can India upstage Korea and Taiwan for mixed team gold?",
       "summary": "Compound Interest: Can India upstage Korea and Taiwan for mixed team gold?. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
@@ -144,6 +199,17 @@
       "sourceUrl": "https://www.hindustantimes.com/india-news/govt-explores-holding-special-parliament-session-next-month-101789585765686-amp.html",
       "publishedAt": "2026-09-17T02:31:10.000Z",
       "fetchedAt": "2026-09-17T02:34:17.133Z"
+    },
+    {
+      "id": "b8667d9b1f0be77e",
+      "title": "Asian Games 2026: Fired-up Iran the only real threat as India chases historic medal tally in Japan",
+      "summary": "For India, badminton, shooting, wrestling and boxing have delivered wins consistently at the Asian Games and the 500-strong contingent of athletes at the 2026 Aichi-Nagoya Games will be looking to replicate their historic 2023 performance in Hangzhou when they brought back over 100 medals",
+      "category": "Sports",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/17/1600x900/logo/BADMINTON-CHN-34_1789604365572_RKZK_1789604388068_5dZy_60357c34-c43b-4299-8894-41d4f2471105_2lY9.jpg",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/mint-lounge/ideas/india-at-asian-games-2026-aichi-nagoya-11789604170255.html",
+      "publishedAt": "2026-09-17T02:30:34.000Z",
+      "fetchedAt": "2026-09-17T04:53:01.283Z"
     },
     {
       "id": "1cc488c0980ee6ce",
@@ -2390,6 +2456,17 @@
       "fetchedAt": "2026-09-16T20:26:55.141Z"
     },
     {
+      "id": "449f924cdcdcf4e9",
+      "title": "Saregama India: Best Stock in Its Sector? Key Metrics",
+      "summary": "Is Saregama India the best stock in its sector? Check CMP, ROE, PE versus Industry PE, debt levels and peer comparisons before deciding on this Media & Entertainment sector stock.",
+      "category": "Entertainment",
+      "image": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/09/saregama-india-best-stock-in-its-sector.png",
+      "source": "Univest",
+      "sourceUrl": "https://univest.in/blogs/saregama-india-best-stock-in-its-sector",
+      "publishedAt": "2026-09-16T09:17:53.000Z",
+      "fetchedAt": "2026-09-17T04:53:03.728Z"
+    },
+    {
       "id": "1644ff286d8ad996",
       "title": "Subscribe for National Stock Exchange of India Ltd IPO; Geojit Financial Services",
       "summary": "Geojit Financial Services, has come out with its report on National Stock Exchange of India Ltd The research firm has recommended to &ldquo; Subscribe&rdquo; the ipo in its research report as on September 16, 2026.",
@@ -2674,83 +2751,6 @@
       "sourceUrl": "https://www.ndtv.com/entertainment/mirzapur-box-office-collection-day-12-ali-fazal-film-is-on-the-threshold-of-rs-200-crore-in-india-12052931",
       "publishedAt": "2026-09-16T06:06:37.000Z",
       "fetchedAt": "2026-09-17T00:46:00.818Z"
-    },
-    {
-      "id": "23c015e9b994d185",
-      "title": "'End of day consumer pays': Ashneer Grover questions UPI merchant fee, says 'call it tax' | India News",
-      "summary": "Ashneer Grover questioned the merchant charge on UPI despite the government's clarification that the move won't impact consumers. | India News",
-      "category": "Crime & Breaking News",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/16/1600x900/logo/ashneer-grover-dhruv-bahl-tweet-haryanvi-viral_1693462507473_1789537171598_WkMw_0af26909-9897-4836-a90e-e21b98bc706a_2OFA.jpg",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/india-news/end-of-day-consumer-pays-ashneer-grover-reacts-to-upi-merchant-fee-says-call-it-tax-101789535586250.html",
-      "publishedAt": "2026-09-16T06:05:41.000Z",
-      "fetchedAt": "2026-09-17T00:25:43.963Z"
-    },
-    {
-      "id": "f3dc105afd377b4b",
-      "title": "INDIA EXCLUSIVE: I would love more of cross-pollination between Indian and American-British cinema, says",
-      "summary": "INDIA EXCLUSIVE: I would love more of cross-pollination between Indian and American-British cinema, says. This update was reported by The Times of India. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
-      "category": "Entertainment",
-      "image": "https://static.toiimg.com/thumb/msid-134279352,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/india-exclusive-i-would-love-more-of-cross-pollination-between-indian-and-american-british-cinema-says-andrew-garfield/articleshow/134279232.cms",
-      "publishedAt": "2026-09-16T05:59:00.000Z",
-      "fetchedAt": "2026-09-16T18:24:00.423Z"
-    },
-    {
-      "id": "f9414e63d14ea992",
-      "title": "A nation under cardiac pressure: What is really putting India’s hearts at risk?",
-      "summary": "long hours in a chair, poor sleep, chronic stress, expanding waistlines, diabetes and high blood pressure can quietly become part of everyday life long before a person thinks of themselves as a “heart patient.”",
-      "category": "National & Trending News",
-      "image": "https://static.toiimg.com/thumb/msid-134279415,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/health/a-nation-under-cardiac-pressure-what-is-really-putting-indias-hearts-at-risk/articleshow/134279318.cms",
-      "publishedAt": "2026-09-16T05:58:00.000Z",
-      "fetchedAt": "2026-09-16T18:56:39.875Z"
-    },
-    {
-      "id": "83372c5963c69604",
-      "title": "Preparations underway for return of F1 to India: Sports Minister Mandaviya",
-      "summary": "Preparations underway for return of F1 to India: Sports Minister Mandaviya. This update was reported by DD News. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
-      "category": "Sports",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "DD News",
-      "sourceUrl": "https://ddnews.gov.in/en/preparations-underway-for-return-of-f1-to-india-sports-minister-mandaviya/",
-      "publishedAt": "2026-09-16T05:42:20.000Z",
-      "fetchedAt": "2026-09-16T17:50:44.157Z"
-    },
-    {
-      "id": "fff6b9887ac62b96",
-      "title": "Nagaland plans live entertainment economy framework to boost jobs, tourism",
-      "summary": "Nagaland plans live entertainment economy framework to boost jobs, tourism. This update was reported by thehawk.in. Open the original report for full context and any developing updates.",
-      "category": "Entertainment",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EEntertainment%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "thehawk.in",
-      "sourceUrl": "https://www.thehawk.in/news/india/nagaland-plans-live-entertainment-economy-framework-to-boost-jobs-tourism",
-      "publishedAt": "2026-09-16T05:27:41.000Z",
-      "fetchedAt": "2026-09-16T20:26:55.322Z"
-    },
-    {
-      "id": "677921d4e116b1a4",
-      "title": "Canada deports Lawrence gang's 'logistics manager'",
-      "summary": "The deportation of key operative Karamveer Singh Deo from Canada marks a significant breakthrough for Punjab Police in smashing a vital international logistical network of La-wrence Bishnoi's gang.Deo of Bahadurke, wanted in connection with at least three cases in Ludhiana, was returned to India on Tuesday.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134278802,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/ludhiana/canada-deports-lawrence-gangs-logistics-manager/articleshow/134278737.cms",
-      "publishedAt": "2026-09-16T05:18:00.000Z",
-      "fetchedAt": "2026-09-16T19:53:32.227Z"
-    },
-    {
-      "id": "15f8da9864ed65d7",
-      "title": "Bangladeshi national caught smuggling gold from Saudi inside undergarments at Delhi airport | India News",
-      "summary": "Bangladeshi national caught smuggling gold from Saudi inside undergarments at Delhi airport | India News. This update was reported by Hindustan Times. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
-      "category": "National & Trending News",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/16/1600x900/logo/gold_muggling_igi_bangaldesh_1789535409766_GWD3_1789535417087_16LH_bc9e0fc5-46e8-481b-9e22-6cdd5c650a95_K4K2.jpeg",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/india-news/bangladesh-national-caught-smuggling-gold-inside-undergarments-at-delhi-airport-jeddah-saudi-101789535366944.html",
-      "publishedAt": "2026-09-16T05:17:45.000Z",
-      "fetchedAt": "2026-09-16T18:03:32.114Z"
     }
   ]
 }
