@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-09-17T12:59:12.171Z",
+  "updatedAt": "2026-09-17T13:20:09.515Z",
   "count": 250,
   "articles": [
+    {
+      "id": "ce7229fb5075cf18",
+      "title": "School assembly news headlines today- September 18: Top national, sports and world news curated for you",
+      "summary": "Today’s school assembly news highlights top national, sports, and world events, covering important updates from politics, sports achievements, and global headlines for September 18.",
+      "category": "National & Trending News",
+      "image": "https://static-bestcolleges.tosshub.com/2026/News/ieAVl7sMW0AkZxuLhQEVaNVjhLaATFd1Mm0KxUsh.png",
+      "source": "India Today",
+      "sourceUrl": "https://bestcolleges.indiatoday.in/latest-news/school-assembly-news-headlines-today-september-18-top-national-sports-and-world-news-curated-for-you-11617",
+      "publishedAt": "2026-09-17T12:52:32.000Z",
+      "fetchedAt": "2026-09-17T13:20:09.152Z"
+    },
+    {
+      "id": "49ae2bdda35b3419",
+      "title": "Sports News Today: Rishabh Pant to lead Rest of India, Sri Lanka's women's squad for Asian Games 2026, Lahore High Court rejects Muhammad Rizwan's petition - Mid-Day",
+      "summary": "Catch up on top sports headlines, Muhammad Rizwan`s petition gets rejected, Sri Lanka`s women`s squad for Asian Games 2026, and other stories",
+      "category": "Sports",
+      "image": "https://images.mid-day.com/images/images/2026/sep/sportsnews17-1789648900717_d.png",
+      "source": "Mid-Day",
+      "sourceUrl": "https://www.mid-day.com/sports/cricket/article/sports-news-today-rishabh-pant-to-lead-rest-of-india-sri-lanka-womens-squad-for-asian-games-2026-lahore-high-court-rejects-muhammad-rizwan-petition-23650509",
+      "publishedAt": "2026-09-17T12:46:00.000Z",
+      "fetchedAt": "2026-09-17T13:20:02.292Z"
+    },
     {
       "id": "cf6931007f614353",
       "title": "News18 India to host sports event 'Jazba' in Delhi on September 18",
@@ -311,6 +333,17 @@
       "fetchedAt": "2026-09-17T12:44:23.817Z"
     },
     {
+      "id": "5aeb5f38bab2d47d",
+      "title": "Column | Where is India’s chutney map?",
+      "summary": "Discover the diverse world of Indian chutneys, the ultimate unity-in-diversity dish reflecting regional flavors and cultural history.",
+      "category": "National & Trending News",
+      "image": "https://th-i.thgim.com/public/incoming/dlxvzw/article71476204.ece/alternates/LANDSCAPE_1200/collage%20-%202026-09-17T155554.584.jpg",
+      "source": "The Hindu",
+      "sourceUrl": "https://www.thehindu.com/society/column-chutneys-of-india-unity-in-diversity-sandip-roy/article71467571.ece",
+      "publishedAt": "2026-09-17T10:44:52.000Z",
+      "fetchedAt": "2026-09-17T13:20:09.515Z"
+    },
+    {
       "id": "d6dad419f8bcc409",
       "title": "Pa Ranjith goes pan-India with Vettuvam, poster hints at Indian traditional sport Mallakhamba - Mid-Day",
       "summary": "Pa Ranjith has unveiled Vettuvam with a cryptic Mallakhamba-inspired poster. The film marks his pan-India debut and will release in five Indian languages",
@@ -520,6 +553,17 @@
       "fetchedAt": "2026-09-17T10:21:01.281Z"
     },
     {
+      "id": "c5c3668f0e6f4cb1",
+      "title": "Manu Bhaker's Asian Games medal preparations hit by 50-km commute: India shooting coach unhappy with arra",
+      "summary": "A senior coach travelling with India's 30-member shooting contingent for the Aichi-Nagoya Asian Games has expressed disappointment over the arrangements in Japan, saying the long travel time between the team's hotel and the shooting range has become a major issue ahead of the competition.",
+      "category": "Sports",
+      "image": "https://static.toiimg.com/thumb/msid-134308010,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/manu-bhakers-asian-games-medal-preparations-hit-by-50-km-commute-india-shooting-coach-unhappy-with-arrangements/articleshow/134307870.cms",
+      "publishedAt": "2026-09-17T10:08:00.000Z",
+      "fetchedAt": "2026-09-17T13:20:02.574Z"
+    },
+    {
       "id": "4db0463e3d832280",
       "title": "‘Mirzapur: The Movie’ crosses Rs 200 crore India nett, fourth Hindi film of 2026 to do so",
       "summary": "‘Mirzapur: The Movie’ crosses Rs 200 crore India nett, fourth Hindi film of 2026 to do so. This update was reported by The News Mill. Open the original report for full context and any developing updates.",
@@ -683,6 +727,17 @@
       "sourceUrl": "https://indianexpress.com/article/cities/mumbai/sanjay-gandhi-national-park-bijakee-tigress-death-10882078/",
       "publishedAt": "2026-09-17T09:34:12.000Z",
       "fetchedAt": "2026-09-17T11:49:28.536Z"
+    },
+    {
+      "id": "7ae80f300dccd6a6",
+      "title": "From silicon to systems India’s semiconductor journey enters a new era",
+      "summary": "Semiconductors are among the most important building blocks of the modern world. From smartphones and computers to automobiles, satellites, artificial intelligence, telecommunications, defence systems and medical equipments, almost every advanced technology depends on semiconductor chips. Recognising their growing importance, the Government of India under Prime Minister Narendra Modi, has been…",
+      "category": "Technology",
+      "image": "https://ddindia.co.in/wp-content/uploads/2026/09/semiconductor-4.jpg",
+      "source": "ddindia.co.in",
+      "sourceUrl": "https://ddindia.co.in/2026/09/from-silicon-to-systems-indias-semiconductor-journey-enters-a-new-era/",
+      "publishedAt": "2026-09-17T09:32:19.000Z",
+      "fetchedAt": "2026-09-17T13:20:05.881Z"
     },
     {
       "id": "59576b609e01698d",
@@ -969,6 +1024,17 @@
       "sourceUrl": "https://www.newsmobile.in/business/adidas-confirms-india-tech-hub-layoffs-nearly-half-workforce-affected/",
       "publishedAt": "2026-09-17T08:17:21.000Z",
       "fetchedAt": "2026-09-17T08:19:05.823Z"
+    },
+    {
+      "id": "99d96c17faddd771",
+      "title": "Richie Mehta's Phoolan gets standing ovation at the 51st Toronto International Film Festival",
+      "summary": "Directed and written by acclaimed filmmaker Richie Mehta, the movie received a standing ovation from a packed audience of over 2,000 at its World Premiere at the 51st Toronto International Film Festival (TIFF)",
+      "category": "Entertainment",
+      "image": "https://cdn1.wionews.com/prod/wion/images/2026/20260917/image-1789629656149.png?imwidth=1200&imheight=900",
+      "source": "WION",
+      "sourceUrl": "https://www.wionews.com/entertainment/bollywood/richie-mehta-s-phoolan-gets-standing-ovation-at-the-51st-toronto-international-film-festival-1789629423689/amp",
+      "publishedAt": "2026-09-17T08:11:00.000Z",
+      "fetchedAt": "2026-09-17T13:20:03.792Z"
     },
     {
       "id": "b0d365005f91cfd0",
@@ -1387,6 +1453,17 @@
       "sourceUrl": "https://www.deccanherald.com/amp/story/opinion/are-indias-engineering-colleges-ready-for-technological-self-reliance-4149139",
       "publishedAt": "2026-09-17T05:47:00.000Z",
       "fetchedAt": "2026-09-17T08:59:44.311Z"
+    },
+    {
+      "id": "a71a65958fd17fdc",
+      "title": "Capital India Finance board OKs Rs 1,000 crore NCD issue",
+      "summary": "Capital India Finance added 2.05% to Rs 20.40 after the company said that its board has approved the issuance of one lakh non-convertible debentures (NCDs) on a private placement basis, aggregating up to Rs 100 crore.",
+      "category": "Business & Finance",
+      "image": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/amp/markets/capital-market-news/capital-india-finance-board-oks-rs-1-000-crore-ncd-issue-126091700331_1.html",
+      "publishedAt": "2026-09-17T05:46:01.000Z",
+      "fetchedAt": "2026-09-17T13:20:07.233Z"
     },
     {
       "id": "7d173fd2cdc9fb46",
@@ -2236,6 +2313,17 @@
       "fetchedAt": "2026-09-17T02:34:28.016Z"
     },
     {
+      "id": "880e88d09ce65171",
+      "title": "India supplies Wall Street with CEOs but has a shortage at home",
+      "summary": "Indias biggest private banks are finding it increasingly difficult to identify executives with the breadth of experience needed to lead large, complex institutions. HDFC Bank and Kotak Mahindra Banks CEO searches have highlighted a surprisingly narrow talent pool, as regulatory requirements, limited succession pipelines and competing financial sectors constrain potential…",
+      "category": "Business & Finance",
+      "image": "https://img.etimg.com/thumb/msid-134299200,width-1200,height-630,imgsize-67862,overlay-economictimes/articleshow.jpg",
+      "source": "The Economic Times",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/banking/finance/banking/india-supplies-wall-street-with-ceos-but-has-a-shortage-at-home/articleshow/134298107.cms?from=mdr",
+      "publishedAt": "2026-09-17T02:02:37.000Z",
+      "fetchedAt": "2026-09-17T13:20:06.992Z"
+    },
+    {
       "id": "7b5f32ff4efce495",
       "title": "Meta agrees to report child sexual abuse cases to Indian law enforcement amid Centre’s crackdown",
       "summary": "Until now, Meta reported instances of child sexual abuse material only to the National Center for Missing & Exploited Children (NCMEC), a body based in the United States.",
@@ -2663,94 +2751,6 @@
       "sourceUrl": "https://www.monitor.co.ug/uganda/business/finance/beyond-mobile-money-how-india-s-upi-could-transform-uganda-s-financial-system-5597868",
       "publishedAt": "2026-09-16T18:51:08.000Z",
       "fetchedAt": "2026-09-17T05:25:00.718Z"
-    },
-    {
-      "id": "9a4c2e3108e08f28",
-      "title": "Adidas cuts technology roles in India to simplify operations",
-      "summary": "Adidas has reduced roles in its India technology team as part of efforts to simplify operations, with the impact below 20% of the organisation.",
-      "category": "Technology",
-      "image": "https://bl-i.thgim.com/public/incoming/ymgtgb/article71474119.ece/alternates/LANDSCAPE_1200/2025-05-15T134049Z_1737239209_RC2CIEAY5ZL4_RTRMADP_3_ADIDAS-AGM.JPG",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/info-tech/adidas-cuts-technology-roles-in-india-to-simplify-operations/article71474116.ece",
-      "publishedAt": "2026-09-16T18:50:57.000Z",
-      "fetchedAt": "2026-09-16T19:13:09.023Z"
-    },
-    {
-      "id": "ed324fe68fe24fc9",
-      "title": "Currency conundrum: on the BRICS New Delhi Declaration",
-      "summary": "The push for local-currency trade within BRICS poses a difficult choice for India",
-      "category": "National & Trending News",
-      "image": "https://www.thehindu.com/theme/images/amp-og-image.jpg",
-      "source": "The Hindu",
-      "sourceUrl": "https://www.thehindu.com/opinion/editorial/currency-conundrum-on-the-brics-new-delhi-declaration/article71472831.ece/amp/",
-      "publishedAt": "2026-09-16T18:50:00.000Z",
-      "fetchedAt": "2026-09-16T20:55:18.772Z"
-    },
-    {
-      "id": "baf66e91487b3208",
-      "title": "BCCI president Mithun Manhas and Team India meet Japan Ambassador of India ahead of Suzuki Cup T20I",
-      "summary": "A week before India and Japan meet each other on the ground for the inaugural Suzuki Cup T20I on September 22, BCCI president Mithun Manhas and the Indian men’s cricket team met Japanese Ambassador to India, Ono Keiichi in New Delhi. This meeting celebrated the sporting partnership between the two…",
-      "category": "Sports",
-      "image": "https://revsportz.in/wp-content/uploads/2026/09/PHOTO-2026-09-17-00-17-48.jpg",
-      "source": "Revsportz",
-      "sourceUrl": "https://revsportz.in/bcci-president-mithun-manhas-and-team-india-meet-japan-ambassador-of-india-ahead-of-suzuki-cup-t20i/?amp=1",
-      "publishedAt": "2026-09-16T18:48:58.000Z",
-      "fetchedAt": "2026-09-16T19:53:34.458Z"
-    },
-    {
-      "id": "3e7109f53213a32d",
-      "title": "Adidas confirms job cuts in India tech hub",
-      "summary": "New Delhi: Adidas is reportedly laying off nearly half of its workforce at its Tech Hub in Gurugram, with software engineers, data scientists and data engineers among those affected.The company has...",
-      "category": "Technology",
-      "image": "https://www.millenniumpost.in/images/logo.png",
-      "source": "MillenniumPost",
-      "sourceUrl": "https://www.millenniumpost.in/business/adidas-confirms-job-cuts-in-india-tech-hub-676281",
-      "publishedAt": "2026-09-16T18:44:08.000Z",
-      "fetchedAt": "2026-09-16T19:13:10.394Z"
-    },
-    {
-      "id": "500d1401dba1b360",
-      "title": "Govt holds firm on UPI MDR as Opposition mounts pressure for rollback - business-standard.com",
-      "summary": "Finance Ministry rejects claims of US pressure behind UPI MDR, as Opposition parties and trader groups demand reconsideration of the new merchant fee",
-      "category": "Business & Finance",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/16/thumb/fitandfill/1200X628/1789581591-6316.jpg",
-      "source": "business-standard.com",
-      "sourceUrl": "https://www.business-standard.com/amp/finance/news/govt-holds-firm-on-upi-mdr-as-opposition-mounts-pressure-for-rollback-126091601240_1.html",
-      "publishedAt": "2026-09-16T18:41:14.000Z",
-      "fetchedAt": "2026-09-16T22:42:27.279Z"
-    },
-    {
-      "id": "500d1401dba1b360",
-      "title": "Govt holds firm on UPI MDR as Opposition mounts pressure for rollback",
-      "summary": "Finance Ministry rejects claims of US pressure behind UPI MDR, as Opposition parties and trader groups demand reconsideration of the new merchant fee",
-      "category": "Business & Finance",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/16/thumb/fitandfill/1200X628/1789581591-6316.jpg",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/amp/finance/news/govt-holds-firm-on-upi-mdr-as-opposition-mounts-pressure-for-rollback-126091601240_1.html",
-      "publishedAt": "2026-09-16T18:41:14.000Z",
-      "fetchedAt": "2026-09-16T20:43:08.879Z"
-    },
-    {
-      "id": "8b501060e6bc44df",
-      "title": "PM Modi turns 76: 25 years in power that transformed India's political landscape | India News",
-      "summary": "On October 7, he will complete 25 years in public service – of which he’s spent 4,495 days as India’s longest continuously-serving elected prime minister | India News",
-      "category": "Politics & Government",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/17/1600x900/logo/Image_1789578389764_UkOE_1789578397659_zmLW_b4f261_1789619598043_VW6s_1789619598176_MJV5_d9607ef5-1e89-4c56-98ff-a5d455b0cd28_Xftx.jpg",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/india-news/25-years-of-modi-the-making-of-a-political-force-101789583959262.html",
-      "publishedAt": "2026-09-16T18:39:18.000Z",
-      "fetchedAt": "2026-09-17T05:24:52.474Z"
-    },
-    {
-      "id": "8b501060e6bc44df",
-      "title": "PM Modi turns 76: The making of India’s longest-serving prime minister over 25 years | India News",
-      "summary": "On October 7, he will complete 25 years in public service – of which he’s spent 4,495 days as India’s longest continuously-serving elected prime minister | India News",
-      "category": "Politics & Government",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/17/1600x900/logo/--0_1789606339940_H1dA_1789606365557_6QZg_47cc3d22-7b4a-40c3-8a11-9a40c41b5442_OC7B.jpg",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/india-news/25-years-of-modi-the-making-of-a-political-force-101789583959262.html",
-      "publishedAt": "2026-09-16T18:39:18.000Z",
-      "fetchedAt": "2026-09-17T01:33:34.930Z"
     }
   ]
 }
