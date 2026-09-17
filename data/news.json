@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-09-17T02:19:09.764Z",
-  "count": 236,
+  "updatedAt": "2026-09-17T02:34:43.139Z",
+  "count": 243,
   "articles": [
+    {
+      "id": "3c35d24c5624bf39",
+      "title": "Govt explores holding special Parliament session next month | India News",
+      "summary": "The Union government has expressed interest in convening a special session of Parliament next month to push through bills implementing delimitation and women’s reservation and has also started reaching out to some members of the National Democratic Alliance, people aware of developments said on Wednesday",
+      "category": "Politics & Government",
+      "image": "https://www.hindustantimes.com/ht-img/img/2025/06/30/1600x900/ht-generic_india1_1751287243850_1751287256749.jpg",
+      "source": "hindustantimes.com",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/govt-explores-holding-special-parliament-session-next-month-101789585765686-amp.html",
+      "publishedAt": "2026-09-17T02:31:10.000Z",
+      "fetchedAt": "2026-09-17T02:34:17.133Z"
+    },
+    {
+      "id": "1cc488c0980ee6ce",
+      "title": "Shahzad Bhatti Network declared terrorist organisation under UAPA; accused of ‘radicalising gullible youth’ | India News",
+      "summary": "A gazette notification issued by the ministry invoked Section 35(1)(a) of the UAPA and added SBN to the First Schedule of the Act.",
+      "category": "Crime & Breaking News",
+      "image": "https://www.hindustantimes.com/ht-img/img/2025/06/30/1600x900/ht-generic_india3_1751287297962_1751287304722.jpg",
+      "source": "hindustantimes.com",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/shahzad-bhatti-network-terrorism-terror-group-uapa-unlawful-activities-prevention-act-pakistan-101789585638107-amp.html",
+      "publishedAt": "2026-09-17T02:30:00.000Z",
+      "fetchedAt": "2026-09-17T02:34:22.442Z"
+    },
+    {
+      "id": "f5546c1212520d5e",
+      "title": "Canada’s Economic Diversification: The India Reset",
+      "summary": "As Canada seeks to diversify its economic partnerships beyond the United States, its relationship with India is entering a more pragmatic phase. Despite ideological differences between the BJP-led Indian government [...]",
+      "category": "Politics & Government",
+      "image": "https://www.internationalaffairs.org.au/wp-content/uploads/President_Donald_Trump_meets_with_Canadian_Prime_Minister_Mark_Carney_in_the_Oval_Office_54501166867-scaled-e1789607814998.jpg",
+      "source": "Australian Institute of International Affairs",
+      "sourceUrl": "https://www.internationalaffairs.org.au/australianoutlook/canadas-economic-diversification-the-india-reset/",
+      "publishedAt": "2026-09-17T02:21:46.000Z",
+      "fetchedAt": "2026-09-17T02:34:15.125Z"
+    },
     {
       "id": "72110967cdf2d02b",
       "title": "Chelsea get new owners as Todd Boehly sells stake after four years",
@@ -25,6 +58,17 @@
       "fetchedAt": "2026-09-17T02:19:07.395Z"
     },
     {
+      "id": "7e0b2bc37732ec4f",
+      "title": "Chess Olympiad: How India's Arjun Erigaisi suffered biggest Round 1 upset against lower-rated opponent",
+      "summary": "Arjun Erigaisi (rated 2759) is India's second-ranked chess player at the moment. On Wednesday, with R Praggnanandhaa, India's current No.",
+      "category": "Sports",
+      "image": "https://static.toiimg.com/thumb/msid-134299581,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-how-indias-arjun-erigaisi-suffered-biggest-round-1-upset-against-lower-rated-opponent/articleshow/134298445.cms",
+      "publishedAt": "2026-09-17T02:07:00.000Z",
+      "fetchedAt": "2026-09-17T02:34:28.016Z"
+    },
+    {
       "id": "503bcce2bf9f83c1",
       "title": "Narendra Modi At 76: 10 Turning Points That Shaped His Political Journey From Gujarat To Delhi",
       "summary": "Modi's political journey has stretched across three phases: an organisational role in BJP, a long tenure as Gujarat chief minister and more than a decade as India's prime minister.",
@@ -34,6 +78,17 @@
       "sourceUrl": "https://www.news18.com/amp/explainers/narendra-modi-at-76-10-turning-points-that-shaped-his-political-journey-from-gujarat-to-delhi-ws-l-10335209.html",
       "publishedAt": "2026-09-17T01:47:00.000Z",
       "fetchedAt": "2026-09-17T02:00:02.742Z"
+    },
+    {
+      "id": "29dc9f257ad385e4",
+      "title": "'Find Another Job By December 15': Inside Adidas India's Tech Layoffs In Gurugram",
+      "summary": "Adidas India Job Cuts: The German sportswear giant has confirmed job cuts, while adding that the restructuring impact is less than 20% of operations.",
+      "category": "Technology",
+      "image": "https://c.ndtvimg.com/2026-09/9lbl13gc_adidas-layoff_625x300_17_September_26.png?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "source": "NDTV",
+      "sourceUrl": "https://www.ndtv.com/business-news/adidas-india-tech-layoffs-gurugram-350-employees-job-cuts-exit-december-12057200",
+      "publishedAt": "2026-09-17T01:46:50.000Z",
+      "fetchedAt": "2026-09-17T02:34:31.728Z"
     },
     {
       "id": "fa7a2b4ab55141a0",
@@ -1169,6 +1224,17 @@
       "fetchedAt": "2026-09-16T22:42:26.239Z"
     },
     {
+      "id": "a13d7de581cd10e7",
+      "title": "PM Modi calls for close collaboration between govt & semiconductor industry in shaping country’s technology future",
+      "summary": "PM Modi calls for close collaboration between govt & semiconductor industry in shaping country’s technology future. This update was reported by News On AIR. Open the original report for full context and any developing updates.",
+      "category": "Technology",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "News On AIR",
+      "sourceUrl": "https://newsonair.gov.in/pm-modi-calls-for-close-collaboration-between-govt-semiconductor-industry-in-shaping-countrys-technology-future/",
+      "publishedAt": "2026-09-16T14:35:25.000Z",
+      "fetchedAt": "2026-09-17T02:34:41.185Z"
+    },
+    {
       "id": "b1064a03f8b88043",
       "title": "Asian Games 2026 India Full Schedule: Complete List Of Events, Dates, Timings & Venues",
       "summary": "A total of 508 athletes (272 male and 238 female) will compete in 37 sporting events for India at the 2026 edition of Asian Games.",
@@ -1343,6 +1409,17 @@
       "sourceUrl": "https://indianexpress.com/article/opinion/columns/youth-protests-9-11-jantar-mantar-politicians-old-new-modi-government-10880893/",
       "publishedAt": "2026-09-16T13:19:03.000Z",
       "fetchedAt": "2026-09-16T18:43:04.962Z"
+    },
+    {
+      "id": "1a4180d994872e23",
+      "title": "CBI probes US Christian mission Timothy over alleged ₹92.55 crore FCRA violations | India News",
+      "summary": "The CBI has booked US-based Christian mission The Timothy Initiative and its functionaries over alleged FCRA violations and crores withdrawn using foreign debit cards.",
+      "category": "Crime & Breaking News",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/16/1600x900/logo/The-CBI-FIR-alleges--92-55-crore-was-withdrawn-usi_1789564446071_W0pj.jpg",
+      "source": "hindustantimes.com",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/cbi-probes-us-christian-mission-timothy-over-alleged-92-55-crore-fcra-violations-101789564452551-amp.html",
+      "publishedAt": "2026-09-16T13:14:12.000Z",
+      "fetchedAt": "2026-09-17T02:34:24.975Z"
     },
     {
       "id": "fd12cad768fea1d2",
