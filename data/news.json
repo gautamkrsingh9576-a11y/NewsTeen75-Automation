@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-17T23:30:58.198Z",
+  "updatedAt": "2026-09-17T23:42:00.754Z",
   "count": 250,
   "articles": [
+    {
+      "id": "e67981cea1263526",
+      "title": "Semicon India 2026: Micron, Tata, Infineon outline next steps in chip expansion",
+      "summary": "Chipmakers including Micron and Infineon and Tata Electronics, which is setting up two fab units, Thursday outlined plans to expand production, build factories and hire engineers, highlighting how India's semiconductor push is spreading across manufacturing, suppliers and research.",
+      "category": "Technology",
+      "image": "https://static.toiimg.com/thumb/msid-134323209,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/micron-tata-infineon-outline-next-steps-in-chip-expansion/articleshow/134323210.cms",
+      "publishedAt": "2026-09-17T23:09:00.000Z",
+      "fetchedAt": "2026-09-17T23:41:58.549Z"
+    },
     {
       "id": "c5969904bdaa4caf",
       "title": "India seeks technology-driven competitive advantage in Mining Sector: Dr Jitendra",
@@ -980,6 +991,17 @@
       "sourceUrl": "https://www.linkedin.com/posts/cnbc-tv18_narendramodi-digitalindia-upi-activity-7506340769700491264-7ZB0",
       "publishedAt": "2026-09-17T13:18:20.000Z",
       "fetchedAt": "2026-09-17T18:13:16.292Z"
+    },
+    {
+      "id": "9171c9b3eb9ab1ad",
+      "title": "UN mission says there are ‘reasonable grounds’ US committed war crimes in Iran",
+      "summary": "UN mission says there are ‘reasonable grounds’ US committed war crimes in Iran. This update was reported by Muslim Network TV. Open the original report for full context and any developing updates.",
+      "category": "Crime & Breaking News",
+      "image": "https://www.muslimnetwork.tv/wp-content/uploads/2026/07/AA-20260719-42014401-42014395-DAMAGE_CAUSED_BY_US_STRIKES_IN_IRANS_HORMOZGAN_PROVINCE.jpg",
+      "source": "Muslim Network TV",
+      "sourceUrl": "https://www.muslimnetwork.tv/un-mission-says-there-are-reasonable-grounds-us-committed-war-crimes-in-iran/",
+      "publishedAt": "2026-09-17T13:09:30.000Z",
+      "fetchedAt": "2026-09-17T23:41:55.499Z"
     },
     {
       "id": "5f70db97318c1ebb",
@@ -2729,28 +2751,6 @@
       "sourceUrl": "https://indianexpress.com/article/entertainment/television/inside-sumeet-raghavan-mumbai-home-tiny-balcony-open-kitchen-place-to-keep-feet-can-cost-rs-1-lakh-10881489/lite/",
       "publishedAt": "2026-09-17T07:20:13.000Z",
       "fetchedAt": "2026-09-17T17:54:41.772Z"
-    },
-    {
-      "id": "88b8b31337538896",
-      "title": "'Attempt to divert attention from backlash over UPI tax': Congress on government's Parliament panel claims",
-      "summary": "Congress rejects claims its MPs backed UPI tax, alleges government diverting attention from backlash. Rahul Gandhi slams PM over 'prostration' before Trump, demands rollback of new charges from October 15.",
-      "category": "Politics & Government",
-      "image": "https://media.assettype.com/deccanherald%2F2025-04-01%2Frboo4xsp%2Fonline_payment_1030246_1631616707_1036974_1633302648.png?rect=0%2C0%2C610%2C320&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
-      "source": "deccanherald.com",
-      "sourceUrl": "https://www.deccanherald.com/india/attempt-to-divert-attention-from-backlash-over-upi-tax-congress-on-governments-parliament-panel-claims-4149223",
-      "publishedAt": "2026-09-17T07:19:46.000Z",
-      "fetchedAt": "2026-09-17T08:59:40.894Z"
-    },
-    {
-      "id": "61f894b657b1621f",
-      "title": "PM Modi Tops Global Popularity Rankings with 68% Approval, Says Morning Consult Survey | Akashvani News",
-      "summary": "PM Modi Tops Global Popularity Rankings with 68% Approval, Says Morning Consult Survey | Akashvani News. This update was reported by News On AIR. Open the original report for full context and any developing updates.",
-      "category": "National & Trending News",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ENational%20%26amp%3B%20Trending%20News%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "News On AIR",
-      "sourceUrl": "https://newsonair.gov.in/pm-modi-tops-global-popularity-rankings-with-68-approval-says-morning-consult-survey/",
-      "publishedAt": "2026-09-17T07:19:38.000Z",
-      "fetchedAt": "2026-09-17T12:59:11.818Z"
     }
   ]
 }
