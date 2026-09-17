@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T07:46:30.865Z",
+  "updatedAt": "2026-09-17T07:57:55.174Z",
   "count": 250,
   "articles": [
     {
@@ -45,6 +45,17 @@
       "sourceUrl": "https://www.indiatoday.in/sports/cricket/story/mohammad-rizwan-lahore-high-court-nccia-summons-pakistan-england-tour-2996591-2026-09-17",
       "publishedAt": "2026-09-17T06:57:32.000Z",
       "fetchedAt": "2026-09-17T07:11:44.317Z"
+    },
+    {
+      "id": "cd34090515c1ecbf",
+      "title": "DheyaTech raises $4.5M to build India's first homegrown micro gas turbines",
+      "summary": "DheyaTech raises $4.5M to build India's first homegrown micro gas turbines. This update was reported by Dealroom. Open the original report for full context and any developing updates.",
+      "category": "Technology",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "Dealroom",
+      "sourceUrl": "https://app.dealroom.co/news/note/dheyatech-raises-4-5m-to-build-india-s-first-homegrown-micro-gas-turbines",
+      "publishedAt": "2026-09-17T06:50:22.000Z",
+      "fetchedAt": "2026-09-17T07:57:52.261Z"
     },
     {
       "id": "f0433e8e88234b29",
@@ -201,6 +212,17 @@
       "fetchedAt": "2026-09-17T05:40:42.159Z"
     },
     {
+      "id": "da9b8a10747c929d",
+      "title": "Unlocking India’s Innovation Potential Through Science, Technology And Collaboration",
+      "summary": "India's science and technology ecosystem is evolving rapidly, driven by a stronger focus on research, innovation, and emerging technologies. Policy reforms, industry collaboration, and technology-led initiatives are helping create an environment that supports scientific advancement and accelerates innovation across sectors. Dr. Vivek Kumar Singh, Senior Adviser (Science & Technology), NITI…",
+      "category": "Technology",
+      "image": "https://egov.eletsonline.com/wp-content/uploads/2026/09/Dr.-Vivek-Kumar-Singh.jpg",
+      "source": "Elets eGov",
+      "sourceUrl": "https://egov.eletsonline.com/2026/09/unlocking-indias-innovation-potential-through-science-technology-and-collaboration/",
+      "publishedAt": "2026-09-17T05:26:52.000Z",
+      "fetchedAt": "2026-09-17T07:57:51.948Z"
+    },
+    {
       "id": "ca82c84f379c8d7e",
       "title": "Narendra Modi at 76: 12 key moments in his 25-year political journey",
       "summary": "PM Narendra Modi's 76th birthday: BJP launches 'Seva Sankalp Abhiyan' to mark 25 years of his public service, tracing his journey.",
@@ -254,6 +276,17 @@
       "sourceUrl": "https://tele.net.in/national-news/prime-minister-of-india-calls-on-global-semiconductor-leaders-to-support-countrys-next-growth-phase-12543084",
       "publishedAt": "2026-09-17T05:01:02.000Z",
       "fetchedAt": "2026-09-17T07:11:46.268Z"
+    },
+    {
+      "id": "e54e26ee12827d6c",
+      "title": "From RSS Organiser To PM: Tracing Narendra Modi’s Political Rise",
+      "summary": "Tracing Modi’s political journey from his RSS years and BJP organisation work to Gujarat chief minister and three terms as prime minister",
+      "category": "Politics & Government",
+      "image": "https://cf-images.assettype.com/outlookindia/2024-02/b91b6008-22ee-4eb5-ba64-e9d00575293e/modi.jpg?w=1200&amp;ar=40%3A21&amp;auto=format%2Ccompress&amp;ogImage=true&amp;mode=crop&amp;enlarge=true&amp;overlay=false&amp;overlay_position=bottom&amp;overlay_width=100",
+      "source": "Outlook India",
+      "sourceUrl": "https://www.outlookindia.com/national/from-rss-organiser-to-pm-tracing-narendra-modis-political-rise",
+      "publishedAt": "2026-09-17T04:50:04.000Z",
+      "fetchedAt": "2026-09-17T07:57:44.779Z"
     },
     {
       "id": "3de4b023a12a94b2",
@@ -2718,39 +2751,6 @@
       "sourceUrl": "https://www.storyboard18.com/amp/advertising/ncpcr-summons-meta-india-md-again-over-child-abuse-ads-ws-l-110781.htm",
       "publishedAt": "2026-09-16T11:54:07.000Z",
       "fetchedAt": "2026-09-16T17:47:13.417Z"
-    },
-    {
-      "id": "62d24927958daf40",
-      "title": "Have a spine, rollback ‘UPI tax’: Oppn ups ante against govt",
-      "summary": "New Delhi, Sep 16 (PTI) The opposition on Wednesday stepped up its attack on the government over the MDR regime for UPI and demanded a rollback of the move, with Rahul Gandhi alleging that Prime Minister Narendra Modi has decided to “prostrate” before US President Donald Trump. The leader of…",
-      "category": "Politics & Government",
-      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
-      "source": "ThePrint",
-      "sourceUrl": "https://theprint.in/india/have-a-spine-rollback-upi-tax-oppn-ups-ante-against-govt/3044568/",
-      "publishedAt": "2026-09-16T11:48:58.000Z",
-      "fetchedAt": "2026-09-16T19:13:03.958Z"
-    },
-    {
-      "id": "001f36efabfbf086",
-      "title": "44 held in district-wide crackdown on wanted criminals",
-      "summary": "44 held in district-wide crackdown on wanted criminals. This update was reported by The Times of India. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134287029,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/ranchi/44-held-in-district-wide-crackdown-on-wanted-criminals/articleshow/134287034.cms",
-      "publishedAt": "2026-09-16T11:48:00.000Z",
-      "fetchedAt": "2026-09-16T18:23:58.847Z"
-    },
-    {
-      "id": "250c3ab6420795ff",
-      "title": "‘Keep your spine straight’: Rahul urges Modi to junk ‘UPI tax’, not ‘lie down flat’ before Trump",
-      "summary": "The PM, he alleges, has decided to lie down flat in front of the American President.",
-      "category": "Politics & Government",
-      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/09/Untitled-Design-3-3.jpg",
-      "source": "ThePrint",
-      "sourceUrl": "https://theprint.in/india/keep-your-spine-straight-rahul-urges-modi-to-junk-upi-tax-not-lie-down-flat-before-trump/3044508/",
-      "publishedAt": "2026-09-16T11:47:52.000Z",
-      "fetchedAt": "2026-09-16T19:28:17.807Z"
     }
   ]
 }
