@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-17T21:39:35.480Z",
+  "updatedAt": "2026-09-17T21:50:45.333Z",
   "count": 250,
   "articles": [
+    {
+      "id": "c1aee8c97c9aecd8",
+      "title": "Not a Haaland copy: Abhishek Sharma reveals true meaning behind new celebration",
+      "summary": "Abhishek Sharma said his celebration after the record-breaking hundred against Afghanistan was rooted in meditation, not imitation. He said the practice has steadied him through cricket's swings and he wanted others to notice its value.",
+      "category": "Sports",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/abhishek-sharma-175852593-16x9_0.jpg?VersionId=yUhLXbfF1GQ1Mnir652RpbbbqprO5wQ5",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/sports/cricket/story/abhishek-sharma-meditation-celebration-record-t20i-hundred-erling-haaland-afg-vs-ind-2997271-2026-09-18",
+      "publishedAt": "2026-09-17T21:30:32.000Z",
+      "fetchedAt": "2026-09-17T21:50:38.005Z"
+    },
     {
       "id": "500f664c1af61d93",
       "title": "Travis Kelce’s $35 million Ponzi scheme loss takes a new turn as he keeps himself away from it amid the n",
@@ -122,6 +133,17 @@
       "sourceUrl": "https://www.indiatoday.in/sports/cricket/story/india-vs-afghanistan-friendship-cup-shreyas-gessture-zadran-trophy-celebrations-2997244-2026-09-17",
       "publishedAt": "2026-09-17T18:23:52.000Z",
       "fetchedAt": "2026-09-17T18:33:34.552Z"
+    },
+    {
+      "id": "48ac524ea5e0829f",
+      "title": "One drug trafficker arrested",
+      "summary": "Kanpur Crime Branch and Kakadev police arrest Alok Saini Kapali; 10 kg ganja and 100 g smack seized in raid near Gita Nagar Metro Station.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/kanpur/one-drug-trafficker-arrested/articleshow/134319738.cms",
+      "publishedAt": "2026-09-17T18:21:00.000Z",
+      "fetchedAt": "2026-09-17T21:50:36.642Z"
     },
     {
       "id": "606cc1c77d8c2432",
@@ -1057,6 +1079,17 @@
       "sourceUrl": "https://www.orissapost.com/seeing-usd-11-12-bn-investment-commitments-under-semicon-2-0-vaishnaw/",
       "publishedAt": "2026-09-17T12:28:28.000Z",
       "fetchedAt": "2026-09-17T13:49:46.992Z"
+    },
+    {
+      "id": "ccbd95dbd58d6a4b",
+      "title": "Entertainment Network (India) vs Nifty 50: Returns Compared",
+      "summary": "See how Entertainment Network (India) share price has performed against the Nifty 50 across multiple time frames, with returns compared side by side using NSE closing data.",
+      "category": "Entertainment",
+      "image": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/09/entertainment-network-india-vs-nifty-50-share-price-performance.png",
+      "source": "Univest",
+      "sourceUrl": "https://univest.in/blogs/entertainment-network-india-vs-nifty-50-share-price-performance",
+      "publishedAt": "2026-09-17T12:25:00.000Z",
+      "fetchedAt": "2026-09-17T21:50:39.856Z"
     },
     {
       "id": "01d816eecfec9ea5",
@@ -2718,39 +2751,6 @@
       "sourceUrl": "https://www.deccanherald.com/amp/story/india/government-questions-rahul-gandhis-criticism-of-upi-charges-says-congress-mps-in-panel-gave-nod-4148728",
       "publishedAt": "2026-09-17T06:39:00.000Z",
       "fetchedAt": "2026-09-17T09:19:35.441Z"
-    },
-    {
-      "id": "f0433e8e88234b29",
-      "title": "6 New Friday South Indian OTT Releases (Sep 18): Irumudi, Idi Mazha Kaattu, Thudakkam, And More",
-      "summary": "The new South Indian OTT releases this week bring a genuinely mixed bag, led by Ravi Teja's family drama Irumudi on Netflix, Vismaya Mohanlal's acting debut Thu",
-      "category": "Entertainment",
-      "image": "https://media.assettype.com/esquireindia%2F2026-09-17%2Fqk0owawt%2F6-New-Friday-South-Indian-OTT-Releases.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "source": "Esquire India",
-      "sourceUrl": "https://www.esquireindia.co.in/entertainment/what-to-stream/new-south-indian-ott-releases-sep-18-2026-irumudi-thudakkam-idi-mazha-kaattu-modha-rathri-angikaaram-netflix-jiohotstar-prime-video",
-      "publishedAt": "2026-09-17T06:38:54.000Z",
-      "fetchedAt": "2026-09-17T07:11:45.159Z"
-    },
-    {
-      "id": "8d19d0317255d7b1",
-      "title": "Mineral extraction to metals production: India’s technology pivot for competitiveness",
-      "summary": "Exploring how technology, innovation, and critical minerals can strengthen India's mining and metals competitiveness",
-      "category": "Technology",
-      "image": "https://assets.kpmg.com/is/image/kpmgcloud/mineral-extraction-to-metals-production-indias-technology-pivot-for-competitiveness-thumbnail",
-      "source": "kpmg.com",
-      "sourceUrl": "https://kpmg.com/in/en/insights/2026/09/mineral-extraction-to-metals-production-indias-technology-pivot-for-competitiveness.html",
-      "publishedAt": "2026-09-17T06:36:50.000Z",
-      "fetchedAt": "2026-09-17T06:54:13.127Z"
-    },
-    {
-      "id": "dc19a8b81b4d5d39",
-      "title": "Pakistan cricket crisis deepens as Mohammad Rizwan moves Lahore High Court against cyber crime agency sum",
-      "summary": "Pakistan wicketkeeper-batter Mohammad Rizwan has approached the Lahore High Court against summons issued to him by the National Cyber Crime Investigation Agency (NCCIA). Rizwan appeared before the agency last week but has now questioned the basis of the investigation and its authority to summon him.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134303687,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-cricket-crisis-deepens-as-mohammad-rizwan-moves-lahore-high-court-against-cyber-crime-agency-summons/articleshow/134303567.cms",
-      "publishedAt": "2026-09-17T06:34:00.000Z",
-      "fetchedAt": "2026-09-17T06:54:09.541Z"
     }
   ]
 }
