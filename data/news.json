@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-09-17T19:01:45.061Z",
+  "updatedAt": "2026-09-17T19:19:26.968Z",
   "count": 250,
   "articles": [
+    {
+      "id": "8b10502da71f9b72",
+      "title": "NIIT Ltd. And SPJIMR Launch Professional Certificate in FinTech Operations to Build Talent for India's Digital Finance Ecosystem",
+      "summary": "Mumbai (Maharashtra) [India], September 17: NIIT Limited, a leading skills and talent development corporation and Bharatiya Vidya Bhavan's S.P. Jain Institute of Management & Research (SPJIMR) have announced the launch of a Professional Certificate in FinTech Operations, designed to prepare students, graduates and early-career professionals for roles in India's digital…",
+      "category": "Business & Finance",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/18/full/20260917173200.jpg",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/content/press-releases-ani/niit-ltd-and-spjimr-launch-professional-certificate-in-fintech-operations-to-build-talent-for-india-s-digital-finance-ecosystem-126091800020_1.html",
+      "publishedAt": "2026-09-17T18:50:02.000Z",
+      "fetchedAt": "2026-09-17T19:19:24.738Z"
+    },
+    {
+      "id": "b92bc8a80600992c",
+      "title": "Asian Games 2026: India's full schedule today, September 18; events, timings",
+      "summary": "India will have another busy day at the Asian Games 2026 in Aichi-Nagoya, Japan, on Friday, September 18.",
+      "category": "Sports",
+      "image": "https://static.toiimg.com/thumb/msid-134318227,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-indias-full-schedule-today-september-18-events-timings/articleshow/134318049.cms",
+      "publishedAt": "2026-09-17T18:35:00.000Z",
+      "fetchedAt": "2026-09-17T19:18:40.111Z"
+    },
     {
       "id": "1f7f3c20526c89a4",
       "title": "Asian Games: India Women target another cricket gold run as Japan await in quarters",
@@ -2729,28 +2751,6 @@
       "sourceUrl": "https://www.ndtvprofit.com/markets/syrma-sgs-kaynes-technology-dixon-shares-rally-semiconductor-stocks-in-focus-as-semicon-india-begins-12057804",
       "publishedAt": "2026-09-17T05:10:19.000Z",
       "fetchedAt": "2026-09-17T05:24:59.128Z"
-    },
-    {
-      "id": "9c7b819fe68a0114",
-      "title": "Prime minister of India calls on global semiconductor leaders to support country’s next growth phase",
-      "summary": "Prime minister of India calls on global semiconductor leaders to support country’s next growth phase. This update was reported by tele.net.in. Open the original report for full context and any developing updates.",
-      "category": "Technology",
-      "image": "https://img-cdn.publive.online/fit-in/1200x675/telenet/media/media_files/2026/09/04/semicon-2026-09-04-12-52-53.jpg",
-      "source": "tele.net.in",
-      "sourceUrl": "https://tele.net.in/national-news/prime-minister-of-india-calls-on-global-semiconductor-leaders-to-support-countrys-next-growth-phase-12543084",
-      "publishedAt": "2026-09-17T05:01:02.000Z",
-      "fetchedAt": "2026-09-17T07:11:46.268Z"
-    },
-    {
-      "id": "f26d035ab8949565",
-      "title": "Asian Games 2026 Live Streaming Info: Where to watch Aichi-Nagoya 2026 LIVE in India",
-      "summary": "Find out how to watch the Asian Games 2026 live in India, featuring over 500 Indian athletes competing.",
-      "category": "Sports",
-      "image": "https://ss-i.thgim.com/public/incoming/kvd3zr/article71475335.ece/alternates/LANDSCAPE_1200/AFP_C8JP39X.jpg",
-      "source": "Sportstar",
-      "sourceUrl": "https://sportstar.thehindu.com/asian-games/asian-games-2026-live-streaming-info-where-to-watch-aichi-nagoya-in-india/article71475320.ece",
-      "publishedAt": "2026-09-17T04:59:36.000Z",
-      "fetchedAt": "2026-09-17T09:19:37.936Z"
     }
   ]
 }
