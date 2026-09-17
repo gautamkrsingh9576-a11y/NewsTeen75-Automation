@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-09-17T11:02:41.685Z",
+  "updatedAt": "2026-09-17T11:21:19.921Z",
   "count": 250,
   "articles": [
+    {
+      "id": "3ffadc4e95f53004",
+      "title": "India to take away Meta's intermediary status, reclassifies it as a service provider",
+      "summary": "India to take away Meta's intermediary status, reclassifies it as a service provider. This update was reported by varindia.com. Open the original report for full context and any developing updates.",
+      "category": "Crime & Breaking News",
+      "image": "https://www.varindia.com/storage/news/2026/09/vKyBImHZkqwwqsLdK5KSvkGf6bvk9GFz6yZRQ3Ad.webp",
+      "source": "varindia.com",
+      "sourceUrl": "https://www.varindia.com/news/india-to-take-away-meta-s-intermediary-status-reclassifies-it-as-a-service-provider",
+      "publishedAt": "2026-09-17T11:20:02.000Z",
+      "fetchedAt": "2026-09-17T11:21:09.013Z"
+    },
+    {
+      "id": "5d6d0fe5765751f5",
+      "title": "Asian Games 2026: Sony Sports, SonyLIV to bring live action to India",
+      "summary": "The Asian Games 2026 will be held in Aichi-Nagoya, Japan, with India targeting another strong medal haul. Here are the details on when the Games begin, where to watch the opening ceremony and how Indian viewers can follow the action live",
+      "category": "Sports",
+      "image": "https://media.telanganatoday.com/wp-content/uploads/2026/09/Asian-Games-2026.jpg",
+      "source": "Telangana Today",
+      "sourceUrl": "https://telanganatoday.com/asian-games-2026-sony-sports-sonyliv-to-bring-live-action-to-india",
+      "publishedAt": "2026-09-17T11:00:20.000Z",
+      "fetchedAt": "2026-09-17T11:21:11.554Z"
+    },
     {
       "id": "98835ad43d09a974",
       "title": "Dr Vikram Mishra Honoured at BIB Pride of Bharat Award 2026",
@@ -80,6 +102,17 @@
       "fetchedAt": "2026-09-17T10:50:48.957Z"
     },
     {
+      "id": "51bc7ae20cf513f1",
+      "title": "'Less than 20% employees affected': Adidas denies reports of 50% job cuts at India Tech Hub",
+      "summary": "It further said that it has several open roles across the organisation, adding that affected employees can explore those opportunities.",
+      "category": "Technology",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6aabbb7385245-employees-reportedly-received-the-information-about-layoffs-during-a-townhall-on-september-15-170539266-16x9.jpg",
+      "source": "Business Today",
+      "sourceUrl": "https://www.businesstoday.in/technology/news/story/less-than-20-employees-affected-adidas-denies-reports-of-50-layoffs-at-india-tech-hub-556187-2026-09-17",
+      "publishedAt": "2026-09-17T10:23:17.000Z",
+      "fetchedAt": "2026-09-17T11:21:15.575Z"
+    },
+    {
       "id": "7a1bf38087677840",
       "title": "India's First Tokenised Corporate Bond: A Financial Innovation",
       "summary": "The National Stock Exchange of India has introduced tokenised corporate bonds on its Electronic Bidding Platform, with REC Limited and Larsen & Toubro raising Rs 1,000 crore. This initiative, unveiled at the Global Fintech Fest, emphasizes technology-driven solutions in the securities market, enhancing transparency and operational efficiency.",
@@ -111,6 +144,17 @@
       "sourceUrl": "https://ddindia.co.in/2026/09/pm-modi-shares-article-on-technology-driven-governance-model/",
       "publishedAt": "2026-09-17T10:19:13.000Z",
       "fetchedAt": "2026-09-17T10:36:13.570Z"
+    },
+    {
+      "id": "728b8cb414c6a462",
+      "title": "PM Modi urges youth to drive India’s advanced tech push",
+      "summary": "Prime Minister Narendra Modi hailed India’s engineering talent and chip-design skilling initiatives, calling them a strategic advantage.",
+      "category": "Technology",
+      "image": "https://cdn.siasat.com/wp-content/uploads/2026/09/PM-Modi-2.jpg",
+      "source": "The Siasat Daily",
+      "sourceUrl": "https://www.siasat.com/pm-modi-urges-youth-to-drive-indias-advanced-tech-push-3543732/",
+      "publishedAt": "2026-09-17T10:18:45.000Z",
+      "fetchedAt": "2026-09-17T11:21:16.094Z"
     },
     {
       "id": "c1cf0155864bf2d3",
@@ -586,6 +630,17 @@
       "fetchedAt": "2026-09-17T07:11:44.317Z"
     },
     {
+      "id": "d8c609335d85654a",
+      "title": "From Preity Zinta, Pankaj Tripathi to Grammy winner Ricky Kej: Meet the new 18-member CBFC board | Bollywood",
+      "summary": "The Union Ministry of Information and Broadcasting announced the reconstituted panel, with Shashi Shekhar Vempati continuing as chairperson.",
+      "category": "Entertainment",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/17/1600x900/logo/CBFC_1789627442125_s7ML_1789627446697_7Q8m_d745f195-b150-487a-85c2-bf11536c1169_pyG0.jpg",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/entertainment/bollywood/from-preity-zinta-pankaj-tripathi-grammy-winner-ricky-kej-suniel-shetty-priyadarshan-meet-the-new-18-member-cbfc-board-101789625525893-amp.html",
+      "publishedAt": "2026-09-17T06:54:46.000Z",
+      "fetchedAt": "2026-09-17T11:21:14.290Z"
+    },
+    {
       "id": "cd34090515c1ecbf",
       "title": "DheyaTech raises $4.5M to build India's first homegrown micro gas turbines",
       "summary": "DheyaTech raises $4.5M to build India's first homegrown micro gas turbines. This update was reported by Dealroom. Open the original report for full context and any developing updates.",
@@ -595,6 +650,17 @@
       "sourceUrl": "https://app.dealroom.co/news/note/dheyatech-raises-4-5m-to-build-india-s-first-homegrown-micro-gas-turbines",
       "publishedAt": "2026-09-17T06:50:22.000Z",
       "fetchedAt": "2026-09-17T07:57:52.261Z"
+    },
+    {
+      "id": "4fa07a067016283f",
+      "title": "Rise & Fall 2: Swara Bhasker, Karan Patel among first four to join Sehwag's show",
+      "summary": "Swara Bhasker, Karan Patel, Priyanka Chahar Choudhary and politician Shehzad Poonawalla are set to join Rise & Fall Season 2. The Virender Sehwag-hosted reality show will stream on MX Player from September 26.",
+      "category": "Entertainment",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/rise--fall-2-172743446-16x9_0.jpeg?VersionId=kWTbvIMQkZl7xcRNY3crFjp6C6FEvRBj",
+      "source": "indiatoday.in",
+      "sourceUrl": "https://www.indiatoday.in/entertainment/ott/story/rise-fall-2-swara-bhasker-karan-patel-priyanka-chahar-choudhary-shehzad-poonawalla-first-four-contestants-virendra-sehwag-show-2996568-2026-09-17",
+      "publishedAt": "2026-09-17T06:42:23.000Z",
+      "fetchedAt": "2026-09-17T11:21:14.798Z"
     },
     {
       "id": "81788106ddc2991c",
@@ -1101,6 +1167,17 @@
       "sourceUrl": "https://www.marketscreener.com/news/adidas-reduces-technology-roles-in-india-to-streamline-operations-ce785bd3d981f321",
       "publishedAt": "2026-09-17T04:20:45.000Z",
       "fetchedAt": "2026-09-17T05:40:44.414Z"
+    },
+    {
+      "id": "c900e4f5f414cfd5",
+      "title": "Asian Games 2026: Where to watch live streaming and telecast in India",
+      "summary": "India will compete at the Asian Games 2026 from September 19 to October 4. Know where to watch live streaming and telecast in India, along with TV channels and broadcast details.",
+      "category": "Sports",
+      "image": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/rdmwcoeawgz9mujlzqdo",
+      "source": "olympics.com",
+      "sourceUrl": "https://www.olympics.com/en/news/asian-games-2026-watch-live-streaming-telecast-tv-channels-broadcast-india",
+      "publishedAt": "2026-09-17T04:19:00.000Z",
+      "fetchedAt": "2026-09-17T11:21:13.315Z"
     },
     {
       "id": "78157982e2bc42c8",
@@ -2674,83 +2751,6 @@
       "sourceUrl": "https://m.rediff.com/amp/sports/report/pakistan-requests-neutral-venue-for-asian-champions-trophy/20260916.htm",
       "publishedAt": "2026-09-16T15:54:17.000Z",
       "fetchedAt": "2026-09-16T20:08:58.401Z"
-    },
-    {
-      "id": "924f7636987794a9",
-      "title": "Finance Ministry rejects ‘external pressure’ claims over UPI charges",
-      "summary": "Finance Ministry rejects ‘external pressure’ claims over UPI charges. This update was reported by The Statesman. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
-      "category": "Business & Finance",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EBusiness%20%26amp%3B%20Finance%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "The Statesman",
-      "sourceUrl": "https://www.thestatesman.com/business/finance-ministry-rejects-external-pressure-claims-over-upi-charges-1503639430.html",
-      "publishedAt": "2026-09-16T15:52:00.000Z",
-      "fetchedAt": "2026-09-16T18:24:01.676Z"
-    },
-    {
-      "id": "b18d507928a8ece5",
-      "title": "School Assembly News Headlines (September 17): Top National, International, Sports News",
-      "summary": "School Assembly News Headlines (September 17): Top National, International, Sports News. This update was reported by ndtv.com. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
-      "category": "National & Trending News",
-      "image": "https://c.ndtvimg.com/2026-08/656ftotc_maharashtra-board-exams_625x300_16_August_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "source": "ndtv.com",
-      "sourceUrl": "https://www.ndtv.com/education/school-assembly-news-headlines-september-17-top-national-international-sports-news-12055922/amp/1",
-      "publishedAt": "2026-09-16T15:48:40.000Z",
-      "fetchedAt": "2026-09-16T18:03:31.971Z"
-    },
-    {
-      "id": "307b794960a5348b",
-      "title": "HC cautions DMs, SPs against misuse of crime control law",
-      "summary": "HC cautions DMs, SPs against misuse of crime control law. This update was reported by The Times of India. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/patna/hc-cautions-dms-sps-against-misuse-of-crime-control-law/articleshow/134291726.cms",
-      "publishedAt": "2026-09-16T15:48:00.000Z",
-      "fetchedAt": "2026-09-16T18:03:28.455Z"
-    },
-    {
-      "id": "b9c0db35b41b679e",
-      "title": "Private players should not replicate ISRO’s efforts: G Madhavan Nair writes",
-      "summary": "Number of startups created should not be the measure of success for India’s private space sector, says former ISRO Chairman.",
-      "category": "Technology",
-      "image": "https://cf-images.assettype.com/newslaundry%2F2026-09-16%2Fzlfjdrzq%2Fthenewsminute2026-09-161wh8pc4iG-Madhavan-Nair1200.avif?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "source": "Newslaundry",
-      "sourceUrl": "https://www.newslaundry.com/2026/09/16/private-players-should-not-replicate-isros-efforts-g-madhavan-nair-writes",
-      "publishedAt": "2026-09-16T15:47:11.000Z",
-      "fetchedAt": "2026-09-16T19:28:23.592Z"
-    },
-    {
-      "id": "3df27a3582b3732c",
-      "title": "NIELIT, Infineon launch Centre of Excellence to build industry-ready talent for India’s semiconductor push",
-      "summary": "NIELIT Infineon Centre Of Excellence: NIELIT and Infineon have inaugurated a Centre of Excellence in Semiconductor Manufacturing in India, aimed at developing a skilled workforce for the country",
-      "category": "Technology",
-      "image": "https://etimg.etb2bimg.com/thumb/msid-134291554,imgsize-60242,width-1200,height=627,overlay-etgovernment,resizemode-75/news/digital-india/nielit-infineon-launch-centre-of-excellence-to-build-industry-ready-talent-for-indias-semiconductor-push.jpg",
-      "source": "ET Government",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/news/digital-india/nielit-infineon-launch-centre-of-excellence-to-build-industry-ready-talent-for-indias-semiconductor-push/134291554",
-      "publishedAt": "2026-09-16T15:46:00.000Z",
-      "fetchedAt": "2026-09-16T19:42:30.197Z"
-    },
-    {
-      "id": "7c7bf5e2c958a598",
-      "title": "Air India's Consolidated Loss Widens To More Than Rs 22,000 Crore In FY26",
-      "summary": "Air India's loss stood at more than SGD 3.56 billion (over Rs 26,700 crore) in the financial year ended March 2026.",
-      "category": "Business & Finance",
-      "image": "https://c.ndtvimg.com/2026-01/s4r9s7dg_air-india_625x300_29_January_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "source": "NDTV Profit",
-      "sourceUrl": "https://www.ndtvprofit.com/business/air-indias-consolidated-loss-widens-to-more-than-rs-22-000-crore-in-fy26-12055908/amp/1",
-      "publishedAt": "2026-09-16T15:45:54.000Z",
-      "fetchedAt": "2026-09-16T19:13:12.945Z"
-    },
-    {
-      "id": "353ab9ea708e0875",
-      "title": "Adidas Layoffs: 50% Staff At India Tech Hub Shown The Doors, Says Report",
-      "summary": "Adidas has reportedly begun large-scale layoffs at its Gurgaon technology hub, with over 350 employees said to be affected.",
-      "category": "Technology",
-      "image": "https://c.ndtvimg.com/2026-09/epnntg54_addidas-layoffs_625x300_16_September_26.png?im=FitAndFill,algorithm=dnn,width=1600,height=900",
-      "source": "NDTV Profit",
-      "sourceUrl": "https://www.ndtvprofit.com/business/adidas-layoffs-50-staff-at-india-tech-hub-shown-the-doors-says-report-12055718",
-      "publishedAt": "2026-09-16T15:34:08.000Z",
-      "fetchedAt": "2026-09-16T18:43:13.311Z"
     }
   ]
 }
