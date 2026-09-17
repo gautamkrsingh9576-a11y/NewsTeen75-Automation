@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-09-17T02:00:05.535Z",
-  "count": 231,
+  "updatedAt": "2026-09-17T02:19:09.764Z",
+  "count": 236,
   "articles": [
+    {
+      "id": "72110967cdf2d02b",
+      "title": "Chelsea get new owners as Todd Boehly sells stake after four years",
+      "summary": "Chelsea have new owners after Todd Boehly sold his stake to Clearlake Capital and stepped down as chairman. The change brings an end to Boehly’s four-year tenure, while Clearlake now assumes full control of the Premier League club.",
+      "category": "Sports",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/todd-boehly-171120335-16x9_0.jpg?VersionId=LWsf_BNHH5C1jHGZx0Rf5X0El5PswfnC",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/sports/football/story/chelsea-ownership-todd-boehly-exits-clearlake-full-control-2996426-2026-09-17",
+      "publishedAt": "2026-09-17T02:11:43.000Z",
+      "fetchedAt": "2026-09-17T02:19:06.473Z"
+    },
+    {
+      "id": "fb5f0c1e3c9deb9d",
+      "title": "'Toxic' box office collections day 22: Yash, Tara Sutaria, Nayanthara, Kiara Advani starrer inches closer",
+      "summary": "A Fairy Tale for Grown-Ups’ is now well into its third week in theatres. The film has slowed down considerably as it continues its theatrical run.",
+      "category": "Entertainment",
+      "image": "https://static.toiimg.com/thumb/msid-134299632,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/toxic-box-office-collections-day-22-yash-tara-sutaria-nayanthara-kiara-advani-starrer-inches-closer-to-rs-250-crore-mark-in-india/articleshow/134299624.cms",
+      "publishedAt": "2026-09-17T02:11:00.000Z",
+      "fetchedAt": "2026-09-17T02:19:07.395Z"
+    },
     {
       "id": "503bcce2bf9f83c1",
       "title": "Narendra Modi At 76: 10 Turning Points That Shaped His Political Journey From Gujarat To Delhi",
@@ -34,6 +56,17 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/football-on-a-curved-table-wrestling-without-groundwork-five-little-known-sports-india-will-compete-in-at-asian-games-2026/articleshow/134297046.cms",
       "publishedAt": "2026-09-17T01:07:00.000Z",
       "fetchedAt": "2026-09-17T01:19:06.249Z"
+    },
+    {
+      "id": "3bff9c11e59940d2",
+      "title": "Inside India newsletter: The world’s largest real-time payments system will no longer be free for all",
+      "summary": "India's digital payment system, which processes more than 1 million transactions every two minutes for free now, will start charging fees to merchants.",
+      "category": "Politics & Government",
+      "image": "https://image.cnbcfm.com/api/v1/image/108363466-1789541666403-gettyimages-2165979216-das-dailylif240812_np5wB.jpeg?v=1789541684",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/amp/2026/09/17/upi-payments-visa-amazon-phonepe.html",
+      "publishedAt": "2026-09-17T00:33:00.000Z",
+      "fetchedAt": "2026-09-17T02:19:04.424Z"
     },
     {
       "id": "748b12c336de08a3",
@@ -122,6 +155,17 @@
       "sourceUrl": "https://www.businesstoday.in/stocks/complete-sports-and-management-india-limited-share-price-555380",
       "publishedAt": "2026-09-16T19:40:38.000Z",
       "fetchedAt": "2026-09-16T20:43:07.239Z"
+    },
+    {
+      "id": "2342702f789dcace",
+      "title": "Cocaine worth Rs 15 crore seized, three foreigners arrested in Faridabad",
+      "summary": "A drug racket was uncovered after Faridabad police raided a rented house in Lakkarpur and seized 2.3kg of cocaine and other narcotic substances valued at around Rs 15 crore in the international market.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134296161,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/gurgaon/cocaine-worth-rs-15-crore-seized-three-foreigners-arrested-in-faridabad/articleshow/134296162.cms",
+      "publishedAt": "2026-09-16T19:37:00.000Z",
+      "fetchedAt": "2026-09-17T02:19:05.621Z"
     },
     {
       "id": "3ecbe2408f072044",
@@ -2300,6 +2344,17 @@
       "sourceUrl": "https://www.tribuneindia.com/news/business/parul-university-journalism-students-complete-six-day-delhi-media-leadership-tour-across-indias-top-newsrooms/amp",
       "publishedAt": "2026-09-16T05:16:39.000Z",
       "fetchedAt": "2026-09-16T21:12:10.480Z"
+    },
+    {
+      "id": "33bba07b1b0a6a57",
+      "title": "India Key Driver For Global Growth: Senior IMF Official",
+      "summary": "IMF Deputy Managing Director Clarke said that against a backdrop of heightened global uncertainty and evolving risks, preserving macroeconomic stability and resilience remains essential.",
+      "category": "Business & Finance",
+      "image": "https://imgs.etvbharat.com/etvbharat/prod-images/16-09-2026/1200-675-27643496-27-27643496-1789535663573.jpg",
+      "source": "etvbharat.com",
+      "sourceUrl": "https://www.etvbharat.com/en/business/india-key-driver-for-global-growth-senior-imf-official-enn26091601183",
+      "publishedAt": "2026-09-16T05:14:41.000Z",
+      "fetchedAt": "2026-09-17T02:19:09.383Z"
     },
     {
       "id": "e087b65b8084832f",
