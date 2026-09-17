@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-17T23:07:01.848Z",
+  "updatedAt": "2026-09-17T23:20:03.676Z",
   "count": 250,
   "articles": [
+    {
+      "id": "c5969904bdaa4caf",
+      "title": "India seeks technology-driven competitive advantage in Mining Sector: Dr Jitendra",
+      "summary": "Excelsior Correspondent NEW DELHI, Sept 17: India seeks technology-driven competitive advantage in mining and metals, and needs to move from a resource advantage to a technology-driven competitiveness in mining and metals, with technology integrated across the entire value chain, from...",
+      "category": "Technology",
+      "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTkwYmFkY2EwLWIyZWItMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
+      "source": "Daily Excelsior",
+      "sourceUrl": "https://www.dailyexcelsior.com/india-seeks-technology-driven-competitive-advantage-in-mining-sector-dr-jitendra/",
+      "publishedAt": "2026-09-17T23:00:19.000Z",
+      "fetchedAt": "2026-09-17T23:19:58.543Z"
+    },
     {
       "id": "3bf1d5a863f646d7",
       "title": "India, Vietnam Step Up Defence, Trade And Technology Cooperation",
@@ -2740,17 +2751,6 @@
       "sourceUrl": "https://www.thehindu.com/news/national/leaders-greet-pm-modi-on-76th-birthday/article71475668.ece",
       "publishedAt": "2026-09-17T07:16:04.000Z",
       "fetchedAt": "2026-09-17T20:13:14.285Z"
-    },
-    {
-      "id": "6c2a3e256c260ed5",
-      "title": "Leaders greet PM Modi on 76th birthday, hail his 25-year public life",
-      "summary": "Leaders across India wish PM Modi a happy 76th birthday, celebrating his 25 years of impactful public service.",
-      "category": "National & Trending News",
-      "image": "https://th-i.thgim.com/public/incoming/pp4haj/article71475692.ece/alternates/LANDSCAPE_1200/PTI09_17_2026_000058B.jpg",
-      "source": "The Hindu",
-      "sourceUrl": "https://www.thehindu.com/news/national/leaders-greet-pm-modi-on-76th-birthday/article71475668.ece",
-      "publishedAt": "2026-09-17T07:16:04.000Z",
-      "fetchedAt": "2026-09-17T18:13:19.911Z"
     }
   ]
 }
