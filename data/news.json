@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-09-17T10:21:07.147Z",
+  "updatedAt": "2026-09-17T10:36:23.417Z",
   "count": 250,
   "articles": [
+    {
+      "id": "7a1bf38087677840",
+      "title": "India's First Tokenised Corporate Bond: A Financial Innovation",
+      "summary": "The National Stock Exchange of India has introduced tokenised corporate bonds on its Electronic Bidding Platform, with REC Limited and Larsen & Toubro raising Rs 1,000 crore. This initiative, unveiled at the Global Fintech Fest, emphasizes technology-driven solutions in the securities market, enhancing transparency and operational efficiency.",
+      "category": "Business & Finance",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/17_09_2026_15_50_45_1183952.jpg&width=920&format=jpeg",
+      "source": "Devdiscourse",
+      "sourceUrl": "https://www.devdiscourse.com/article/business/3978427-indias-first-tokenised-corporate-bond-a-financial-innovation",
+      "publishedAt": "2026-09-17T10:20:49.000Z",
+      "fetchedAt": "2026-09-17T10:36:20.589Z"
+    },
+    {
+      "id": "2e8b8dcb6ec5756e",
+      "title": "PM Modi shares article on technology-driven governance model",
+      "summary": "Prime Minister Narendra Modi on Thursday shared an article by Rajiv Gauba, Member, NITI Aayog, highlighting governance model centred on technology, trust and citizen engagement. In a post on X, the Prime Minister’s Office (PMO) said that Gauba’s article examines how digital systems, direct transfers, simpler regulations and transparent procurement…",
+      "category": "Technology",
+      "image": "https://ddindia.co.in/wp-content/uploads/2026/08/PM-Modi-2-1.jpg",
+      "source": "DD India",
+      "sourceUrl": "https://ddindia.co.in/2026/09/pm-modi-shares-article-on-technology-driven-governance-model/",
+      "publishedAt": "2026-09-17T10:19:13.000Z",
+      "fetchedAt": "2026-09-17T10:36:13.570Z"
+    },
+    {
+      "id": "c1cf0155864bf2d3",
+      "title": "Adidas tech layoffs: Company confirms 20% of India tech hub employees let go",
+      "summary": "Adidas has confirmed job cuts across its India technology organisation, but says fewer than 20 per cent of employees are affected.",
+      "category": "Technology",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/adidas-170931145-16x9_0.png?VersionId=w13R6hVkJKrYUfQRAIGZBrFisTWJcnBi",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/jobs/story/adidas-says-20-of-india-tech-hub-employees-let-go-not-50-as-reported-2996791-2026-09-17",
+      "publishedAt": "2026-09-17T10:09:50.000Z",
+      "fetchedAt": "2026-09-17T10:36:11.790Z"
+    },
     {
       "id": "c1cf0155864bf2d3",
       "title": "Adidas says 20% of India tech hub employees let go, not 50% as reported",
@@ -267,6 +300,17 @@
       "fetchedAt": "2026-09-17T08:59:41.974Z"
     },
     {
+      "id": "21c0a9c1075710b5",
+      "title": "Shri Ramayan Katha - Official Chhattisgarhi Trailer",
+      "summary": "Watch the Official trailer from chhattisgarhi movie 'Shri Ramayan Katha' starring Dev Sharma, Anjali Arora. 'Shri Ramayan Katha' movie is directed by Abhishek Singh. To know more about 'Shri Ramayan Katha' trailer watch the video. Check out the latest chhattisgarhi trailers, new movie trailers, trending chhattisgarhi movie trailer, and more…",
+      "category": "Entertainment",
+      "image": "https://static.toiimg.com/thumb/msid-134306218,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/videos/entertainment/regional/chhattisgarhi/shri-ramayan-katha-official-chhattisgarhi-trailer/videoshow/134306218.cms",
+      "publishedAt": "2026-09-17T08:26:07.000Z",
+      "fetchedAt": "2026-09-17T10:36:11.047Z"
+    },
+    {
       "id": "d67261287590ddb6",
       "title": "Isro Staff: Not against Pvt Cos; demand due process, transparency; want strategic missions to remain unde",
       "summary": "Private participation has a role in expanding India’s space sector, but publicly funded technology, infrastructure and expertise must be subject to transparency, proper valuation and accountability when made available for commercial use, a Joint Action Council (JAC) representing Isro employee associations has said.",
@@ -342,6 +386,17 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/defence/news/india-us-yudh-abhyas-2026-troops-conduct-counterterrorism-drill-with-drones-in-auli/articleshow/134305225.cms",
       "publishedAt": "2026-09-17T07:46:00.000Z",
       "fetchedAt": "2026-09-17T08:34:42.820Z"
+    },
+    {
+      "id": "af4045409086c8c1",
+      "title": "Maratha quota row: Manoj Jarange-Patil ends hunger strike, gives a three-month breather to Maharashtra government",
+      "summary": "Maharashtra CM Devendra Fadnavis assured Maratha reservation under Kunbi category after Manoj Jarange-Patil called off his 20-day fast. The government has accepted 12 of 13 demands but Jarange-Patil insists on written guarantees before ending agitation permanently.",
+      "category": "Politics & Government",
+      "image": "https://cf-images.assettype.com/deccanherald%2F2026-09-13%2F2810t76z%2Ffile87kyxi5ef54snwhku35.jpg?rect=0%2C0%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "Deccan Herald",
+      "sourceUrl": "https://www.deccanherald.com/amp/story/india/maharashtra/maratha-quota-row-manoj-jarange-patil-end-hunger-strike-gives-a-three-month-breather-to-maharashtra-government-4149246",
+      "publishedAt": "2026-09-17T07:29:00.000Z",
+      "fetchedAt": "2026-09-17T10:36:07.747Z"
     },
     {
       "id": "39a18f567b7cb85d",
@@ -2696,61 +2751,6 @@
       "sourceUrl": "https://www.hindustantimes.com/india-news/anant-nag-s-five-decade-career-earns-him-dadasaheb-phalke-award-101789570574352.html",
       "publishedAt": "2026-09-16T14:56:13.000Z",
       "fetchedAt": "2026-09-16T19:53:41.166Z"
-    },
-    {
-      "id": "c44f3868ba453997",
-      "title": "Mandaadi Vs Sardar 2 Box Office Collection Day 7: Soori's Film Crosses Rs 50 Cr, Stays Far Ahead Of Karthi Starrer",
-      "summary": "Mandaadi crosses Rs 50 crore in India net collections on Day 7, remaining far ahead of Sardar 2 as both films slow during weekdays.",
-      "category": "Entertainment",
-      "image": "https://imgs.etvbharat.com/etvbharat/prod-images/16-09-2026/1200-675-27647882-307-27647882-1789567171367.jpg",
-      "source": "ETV Bharat",
-      "sourceUrl": "https://www.etvbharat.com/amp/en/entertainment/soori-film-mandaadi-vs-karthi-movie-sardar-2-box-office-collection-day-7-enn26091605569",
-      "publishedAt": "2026-09-16T14:55:24.000Z",
-      "fetchedAt": "2026-09-16T18:43:10.538Z"
-    },
-    {
-      "id": "cbf8c923ad544d74",
-      "title": "Spark - Official Trailer",
-      "summary": "Watch the Official Trailer from Kannada movie 'Spark' starring Niranjan Sudhindra, Lovely Star Prem, Rachana Inder, Abhay Vashistha and Shubham Singh. 'Spark' movie is directed by D. Mahantesh Handral. To know more about 'Spark' trailer watch the video. Check out the latest Kannada trailers, new movie trailers, trending Kannada movie…",
-      "category": "Entertainment",
-      "image": "https://static.toiimg.com/thumb/msid-134290769,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/videos/entertainment/regional/kannada/spark-official-trailer/videoshow/134290769.cms",
-      "publishedAt": "2026-09-16T14:49:39.000Z",
-      "fetchedAt": "2026-09-16T20:08:59.696Z"
-    },
-    {
-      "id": "68f1ce53d3834d70",
-      "title": "Rs 15,000 crore revenue: Why govt is backing UPI levy despite backlash",
-      "summary": "Rs 15,000 crore revenue: Why govt is backing UPI levy despite backlash. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
-      "category": "Politics & Government",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EPolitics%20%26amp%3B%20Government%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "The Indian Express",
-      "sourceUrl": "https://indianexpress.com/article/explained/explained-economics/govt-thinks-upi-mdr-worth-it-10881019/",
-      "publishedAt": "2026-09-16T14:47:46.000Z",
-      "fetchedAt": "2026-09-17T01:47:56.432Z"
-    },
-    {
-      "id": "b9fe87e01d3b6bf6",
-      "title": "India should aspire to be among early leaders in emerging technologies: PM Modi",
-      "summary": "India should aspire to be among early leaders in emerging technologies: PM Modi. This update was reported by ddindia.co.in. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
-      "category": "Technology",
-      "image": "https://ddindia.co.in/wp-content/uploads/2026/09/pm-modi.jpeg",
-      "source": "ddindia.co.in",
-      "sourceUrl": "https://ddindia.co.in/2026/09/india-should-aspire-to-be-among-early-leaders-in-emerging-technologies-pm-modi/",
-      "publishedAt": "2026-09-16T14:46:54.000Z",
-      "fetchedAt": "2026-09-16T18:24:01.025Z"
-    },
-    {
-      "id": "1c21f0c94bcc34ec",
-      "title": "Women’s T20 Asia Cup: India to face defending champions Sri Lanka in final today",
-      "summary": "Women’s T20 Asia Cup: India to face defending champions Sri Lanka in final today. This update was reported by News On AIR. Open the original report for full context and any developing updates.",
-      "category": "Sports",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "News On AIR",
-      "sourceUrl": "https://newsonair.gov.in/womens-asia-cup-india-to-take-on-defending-champions-sri-lanka-in-final-today/",
-      "publishedAt": "2026-09-16T14:46:49.000Z",
-      "fetchedAt": "2026-09-16T20:26:53.825Z"
     }
   ]
 }
