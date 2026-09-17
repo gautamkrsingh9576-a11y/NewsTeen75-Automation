@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T19:44:43.502Z",
+  "updatedAt": "2026-09-17T19:55:26.679Z",
   "count": 250,
   "articles": [
     {
@@ -12,6 +12,17 @@
       "sourceUrl": "https://www.indiatoday.in/sports/cricket/story/gautam-gambhir-vaibhav-sooryavanshi-selection-sanju-samson-afg-vs-ind-2997266-2026-09-18",
       "publishedAt": "2026-09-17T19:23:08.000Z",
       "fetchedAt": "2026-09-17T19:31:58.613Z"
+    },
+    {
+      "id": "8b10502da71f9b72",
+      "title": "NIIT Ltd. And SPJIMR Launch Professional Certificate in FinTech Operations to Build Talent for India's Digital Finance Ecosystem - business-standard.com",
+      "summary": "Mumbai (Maharashtra) [India], September 17: NIIT Limited, a leading skills and talent development corporation and Bharatiya Vidya Bhavan's S.P. Jain Institute of Management & Research (SPJIMR) have announced the launch of a Professional Certificate in FinTech Operations, designed to prepare students, graduates and early-career professionals for roles in India's digital…",
+      "category": "Business & Finance",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/18/full/20260917173200.jpg",
+      "source": "business-standard.com",
+      "sourceUrl": "https://www.business-standard.com/content/press-releases-ani/niit-ltd-and-spjimr-launch-professional-certificate-in-fintech-operations-to-build-talent-for-india-s-digital-finance-ecosystem-126091800020_1.html",
+      "publishedAt": "2026-09-17T18:50:02.000Z",
+      "fetchedAt": "2026-09-17T19:55:25.088Z"
     },
     {
       "id": "8b10502da71f9b72",
@@ -2280,6 +2291,17 @@
       "fetchedAt": "2026-09-17T08:18:55.286Z"
     },
     {
+      "id": "e6166cb9d10d6b46",
+      "title": "Semicon India 2026: Amid ‘weaponisation’ of supply chains, PM pitches India as a ‘trustworthy’ chipmaking destination",
+      "summary": "Modi highlights India's expanding semiconductor ecosystem at SEMICON India 2026, promoting innovation, investment, and global manufacturing opportunities.",
+      "category": "National & Trending News",
+      "image": "https://th-i.thgim.com/public/incoming/t32n5m/article71475716.ece/alternates/LANDSCAPE_1200/PTI09_17_2026_000057B.jpg",
+      "source": "The Hindu",
+      "sourceUrl": "https://www.thehindu.com/news/national/semicon-india-2026-indias-semiconductor-ecosystem-expanding-opening-new-opportunities-says-modi/article71475696.ece",
+      "publishedAt": "2026-09-17T07:22:16.000Z",
+      "fetchedAt": "2026-09-17T19:55:26.678Z"
+    },
+    {
       "id": "9496e182ed3d4723",
       "title": "Modi at BRICS 2026: Between US Ties and China’s Rise",
       "summary": "BRICS Summit 2026 debated India’s US ties, China’s AI push and technology wars as global power struggles reshape developing nations. Read more.",
@@ -2729,28 +2751,6 @@
       "sourceUrl": "https://economictimes.indiatimes.com/markets",
       "publishedAt": "2026-09-17T05:35:02.000Z",
       "fetchedAt": "2026-09-17T13:49:44.773Z"
-    },
-    {
-      "id": "a223ea1636aeb4c6",
-      "title": "'No request will be entertained': Hockey India rejects Pakistan’s neutral venue request for Asian...",
-      "summary": "Hockey India secretary general Bhola Nath Singh, who is also an Asian Hockey Federation (AHF) vice-president, rejected the request, saying there won",
-      "category": "Sports",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/02/20260218104302_Pakistan-hockey-Instagram.jpg",
-      "source": "Moneycontrol.com",
-      "sourceUrl": "https://www.moneycontrol.com/sports/no-request-will-be-entertained-hockey-india-rejects-pakistan-s-neutral-venue-request-for-asian-champions-trophy-article-14031772.html",
-      "publishedAt": "2026-09-17T05:31:31.000Z",
-      "fetchedAt": "2026-09-17T05:40:42.159Z"
-    },
-    {
-      "id": "038914641511b6cb",
-      "title": "Pride and Prejudice series gets premiere date",
-      "summary": "Pride and Prejudice series gets premiere date. This update was reported by newindianexpress.com. Open the original report for full context and any developing updates.",
-      "category": "Entertainment",
-      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-09-16%2F1m33peqf%2FPride_and_Prejudice.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "source": "newindianexpress.com",
-      "sourceUrl": "https://www.newindianexpress.com/amp/story/entertainment/2026/Sep/17/englishnews2026sep16pride-and-prejudice-series-gets-premiere-date",
-      "publishedAt": "2026-09-17T05:30:00.000Z",
-      "fetchedAt": "2026-09-17T08:59:43.486Z"
     }
   ]
 }
