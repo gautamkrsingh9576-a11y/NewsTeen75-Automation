@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T19:32:05.543Z",
+  "updatedAt": "2026-09-17T19:44:43.502Z",
   "count": 250,
   "articles": [
     {
@@ -408,6 +408,17 @@
       "sourceUrl": "https://www.nationalheraldindia.com/amp/story/politics/appeasement-never-pays-congress-jabs-govt-on-us-russia-sanctions-bill-100-percent-tariff",
       "publishedAt": "2026-09-17T14:57:54.000Z",
       "fetchedAt": "2026-09-17T19:31:56.480Z"
+    },
+    {
+      "id": "9ce633f2dc9ad73b",
+      "title": "Visa Hurdle Cleared For Indian Asian Games Athletes",
+      "summary": "Five Indian track and field athletes, including pole vaulter Sindhushree Ganesh and triple jumper Asha Ilango, who faced visa delays, have now received their travel documents and are set to join the Asian Games contingent in Japan. They will participate in an acclimatisation camp before the athletics competition begins.",
+      "category": "Sports",
+      "image": "https://im.rediff.com/1200-630/sports/2023/sep/23games4.JPG",
+      "source": "Rediff",
+      "sourceUrl": "https://m.rediff.com/amp/sports/report/five-indian-athletes-head-to-asian-games-after-visa-delay/20260917.htm",
+      "publishedAt": "2026-09-17T14:54:29.000Z",
+      "fetchedAt": "2026-09-17T19:44:34.912Z"
     },
     {
       "id": "b3ff1695a3eb1cca",
@@ -1134,6 +1145,17 @@
       "sourceUrl": "https://www.varindia.com/news/india-to-take-away-meta-s-intermediary-status-reclassifies-it-as-a-service-provider",
       "publishedAt": "2026-09-17T11:20:02.000Z",
       "fetchedAt": "2026-09-17T11:21:09.013Z"
+    },
+    {
+      "id": "e4ad5a76eac5d3d9",
+      "title": "BlogDescription",
+      "summary": "BlogDescription. This update was reported by PIB. Open the original report for full context and any developing updates.",
+      "category": "Technology",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "PIB",
+      "sourceUrl": "https://www.pib.gov.in/blogs/blogsdescr.aspx?feaaid=582&lang=1",
+      "publishedAt": "2026-09-17T11:20:00.000Z",
+      "fetchedAt": "2026-09-17T19:44:39.970Z"
     },
     {
       "id": "9dcf07f624d114b4",
@@ -2729,28 +2751,6 @@
       "sourceUrl": "https://www.newindianexpress.com/amp/story/entertainment/2026/Sep/17/englishnews2026sep16pride-and-prejudice-series-gets-premiere-date",
       "publishedAt": "2026-09-17T05:30:00.000Z",
       "fetchedAt": "2026-09-17T08:59:43.486Z"
-    },
-    {
-      "id": "da9b8a10747c929d",
-      "title": "Unlocking India’s Innovation Potential Through Science, Technology And Collaboration",
-      "summary": "India's science and technology ecosystem is evolving rapidly, driven by a stronger focus on research, innovation, and emerging technologies. Policy reforms, industry collaboration, and technology-led initiatives are helping create an environment that supports scientific advancement and accelerates innovation across sectors. Dr. Vivek Kumar Singh, Senior Adviser (Science & Technology), NITI…",
-      "category": "Technology",
-      "image": "https://egov.eletsonline.com/wp-content/uploads/2026/09/Dr.-Vivek-Kumar-Singh.jpg",
-      "source": "Elets eGov",
-      "sourceUrl": "https://egov.eletsonline.com/2026/09/unlocking-indias-innovation-potential-through-science-technology-and-collaboration/",
-      "publishedAt": "2026-09-17T05:26:52.000Z",
-      "fetchedAt": "2026-09-17T07:57:51.948Z"
-    },
-    {
-      "id": "ca82c84f379c8d7e",
-      "title": "Narendra Modi at 76: 12 key moments in his 25-year political journey",
-      "summary": "PM Narendra Modi's 76th birthday: BJP launches 'Seva Sankalp Abhiyan' to mark 25 years of his public service, tracing his journey.",
-      "category": "Politics & Government",
-      "image": "https://images.cnbctv18.com/uploads/2026/09/modi-sco-summit-5-2026-09-847fe106bd9848dd6bb66fecbd03b3a4.jpg?im=FitAndFill,width=1200,height=675",
-      "source": "CNBC TV18",
-      "sourceUrl": "https://www.cnbctv18.com/india/politics/narendra-modi-at-76-12-key-moments-in-his-25-year-political-journey-19992500.htm",
-      "publishedAt": "2026-09-17T05:21:32.000Z",
-      "fetchedAt": "2026-09-17T05:40:39.568Z"
     }
   ]
 }
