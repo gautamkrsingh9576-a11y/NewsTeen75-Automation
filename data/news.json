@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-17T21:26:18.038Z",
+  "updatedAt": "2026-09-17T21:39:35.480Z",
   "count": 250,
   "articles": [
+    {
+      "id": "500f664c1af61d93",
+      "title": "Travis Kelce’s $35 million Ponzi scheme loss takes a new turn as he keeps himself away from it amid the n",
+      "summary": "The mastermind behind a $35 million Ponzi scheme that defrauded Travis Kelce and multiple NBA players has been sentenced to 11 years in prison — and he's an illegal immigrant from India who's been living in the U.S. since 2005.Siddharth Jawahar, 38, ran his scheme through an… pic.twitter.com/S80ezHlS42",
+      "category": "National & Trending News",
+      "image": "https://static.toiimg.com/thumb/msid-134320931,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/nfl/news/travis-kelces-35-million-ponzi-scheme-loss-takes-a-new-turn-as-he-keeps-himself-away-from-it-amid-the-new-season/articleshow/134320928.cms",
+      "publishedAt": "2026-09-17T21:01:00.000Z",
+      "fetchedAt": "2026-09-17T21:39:35.479Z"
+    },
     {
       "id": "71a56b47b75ad70c",
       "title": "Here's India's action-packed schedule for September 18! 🇮🇳 🔥 From early-morning Teqball & Soft Tennis qualifiers to a big Women's Cricket quarter-final against Japan, there’s plenty to watch out for! 🏏 💪 #AsianGames2026 #AsianGames #IndiaAtAsianGame",
@@ -166,6 +177,17 @@
       "sourceUrl": "https://www.india.com/sports/cricket/shreyas-iyers-team-india-ride-of-abhishek-sharmas-record-ton-to-complete-3-0-whitewash-vs-afghanistan-8526927/",
       "publishedAt": "2026-09-17T18:03:12.000Z",
       "fetchedAt": "2026-09-17T20:13:07.486Z"
+    },
+    {
+      "id": "03fb7a7723442696",
+      "title": "GIFT City Advances Nine Places, Ranks 37th Globally Among 115 Financial Centres",
+      "summary": "The latest ranking also places GIFT City among the top 15 financial centres in the Asia-Pacific region, making it the only Indian centre in this group.",
+      "category": "Business & Finance",
+      "image": "https://c.ndtvimg.com/2026-07/j47ggcdc_gift-city_625x300_02_July_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "source": "NDTV Profit",
+      "sourceUrl": "https://www.ndtvprofit.com/business/gift-city-advances-nine-places-ranks-37th-globally-among-115-financial-centres-12061629",
+      "publishedAt": "2026-09-17T18:02:29.000Z",
+      "fetchedAt": "2026-09-17T21:39:33.937Z"
     },
     {
       "id": "4517a0e5c4b42e84",
@@ -2729,28 +2751,6 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-cricket-crisis-deepens-as-mohammad-rizwan-moves-lahore-high-court-against-cyber-crime-agency-summons/articleshow/134303567.cms",
       "publishedAt": "2026-09-17T06:34:00.000Z",
       "fetchedAt": "2026-09-17T06:54:09.541Z"
-    },
-    {
-      "id": "aa5ac48d08f54473",
-      "title": "Lionel Messi leads Inter Miami to Campeones Cup win, takes trophy tally to 49",
-      "summary": "Lionel Messi scored his 100th Inter Miami goal and set up another in the 2-0 Campeones Cup win over Cruz Azul. The result gave Miami a fourth trophy since his arrival and took his career haul to 49.",
-      "category": "Sports",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/lionel-messi-173004936-16x9_0.jpg?VersionId=1mbg5pkj7LJfZC1M42_ULmx1L5itdf_j",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/sports/football/story/lionel-messi-inter-miami-campeones-cup-100th-goal-48-trophy-tally-2996581-2026-09-17",
-      "publishedAt": "2026-09-17T06:33:22.000Z",
-      "fetchedAt": "2026-09-17T08:59:42.606Z"
-    },
-    {
-      "id": "84ce3f8b69851415",
-      "title": "iPhone 18 Pro is made in India, Apple shipping globally including US on charter planes",
-      "summary": "Apple has reportedly begun shipping made-in-India iPhone 18 Pro and iPhone 18 Pro Max devices on chartered flights right before the two phones go on sale. This is the first time when the Pro iPhone models are being made in the country from day one.",
-      "category": "Technology",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/iphone-18-pro-092114367-16x9_1.png?VersionId=dnDfX302fyIRXrPq88vs0Dxy6gsq_Plg",
-      "source": "indiatoday.in",
-      "sourceUrl": "https://www.indiatoday.in/amp/technology/news/story/iphone-18-pro-is-made-in-india-apple-shipping-globally-including-us-on-charter-planes-2996578-2026-09-17",
-      "publishedAt": "2026-09-17T06:32:14.000Z",
-      "fetchedAt": "2026-09-17T06:36:45.497Z"
     }
   ]
 }
