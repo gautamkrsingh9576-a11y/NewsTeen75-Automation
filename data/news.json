@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-09-17T08:34:47.825Z",
+  "updatedAt": "2026-09-17T08:59:48.487Z",
   "count": 250,
   "articles": [
+    {
+      "id": "d556531f1b5814e8",
+      "title": "Asian Games: Indian MMA star confirms accommodation mess, athletes stranded for hours",
+      "summary": "The Asian Games 2026 have begun with an unexpected accommodation headache in Nagoya, with Indian athletes among those facing lengthy waits for rooms. MMA fighter Varun Sanyal has confirmed the disruption, while Thailand's sepak takraw team faced a similar ordeal.",
+      "category": "Sports",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/nagoya--asian-games-226-174553823-16x9_0.png?VersionId=P5cIKhQxJsCwZyLnbboPO5bsB0r2ssXJ",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/sports/asian-games/story/asian-games-2026-accommodation-mess-varun-sanyal-confirms-indian-athletes-stranded-nagoya-2996701-2026-09-17",
+      "publishedAt": "2026-09-17T08:46:12.000Z",
+      "fetchedAt": "2026-09-17T08:59:42.820Z"
+    },
+    {
+      "id": "e71b6ff59343139e",
+      "title": "Mohammad Rizwan loses Lahore HC plea; PCB to take actions on Pakistan cricketers",
+      "summary": "The Pakistan Cricket Board (PCB) is waiting for the findings of a National Cyber Crime Investigation Agency (NCCIA) probe before deciding whether to take disciplinary action against senior players Mohammad Rizwan and Imam-ul-Haq.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134306521,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/mohammad-rizwan-loses-lahore-hc-plea-pcb-to-take-actions-on-pakistan-cricketers/articleshow/134306136.cms",
+      "publishedAt": "2026-09-17T08:43:00.000Z",
+      "fetchedAt": "2026-09-17T08:59:41.974Z"
+    },
     {
       "id": "d67261287590ddb6",
       "title": "Isro Staff: Not against Pvt Cos; demand due process, transparency; want strategic missions to remain unde",
@@ -91,6 +113,17 @@
       "fetchedAt": "2026-09-17T08:18:55.286Z"
     },
     {
+      "id": "88b8b31337538896",
+      "title": "'Attempt to divert attention from backlash over UPI tax': Congress on government's Parliament panel claims",
+      "summary": "Congress rejects claims its MPs backed UPI tax, alleges government diverting attention from backlash. Rahul Gandhi slams PM over 'prostration' before Trump, demands rollback of new charges from October 15.",
+      "category": "Politics & Government",
+      "image": "https://media.assettype.com/deccanherald%2F2025-04-01%2Frboo4xsp%2Fonline_payment_1030246_1631616707_1036974_1633302648.png?rect=0%2C0%2C610%2C320&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
+      "source": "deccanherald.com",
+      "sourceUrl": "https://www.deccanherald.com/india/attempt-to-divert-attention-from-backlash-over-upi-tax-congress-on-governments-parliament-panel-claims-4149223",
+      "publishedAt": "2026-09-17T07:19:46.000Z",
+      "fetchedAt": "2026-09-17T08:59:40.894Z"
+    },
+    {
       "id": "f88b871b8099cd64",
       "title": "India’s Innovation in Digital Payments Is Powering Global Growth | Adyen at GFF 2026",
       "summary": "India&rsquo;s payments ecosystem is evolving rapidly, and exponentially, with innovation playing a significant role in that growth.At Global Fintech Fest 2026, Virginia Yang, VP, Account Management, APAC, Adyen, talked to The Economic Times about India&rsquo;s digital payments leadership and shared her takeaways from the event. Yang also talked about her…",
@@ -166,6 +199,17 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-cricket-crisis-deepens-as-mohammad-rizwan-moves-lahore-high-court-against-cyber-crime-agency-summons/articleshow/134303567.cms",
       "publishedAt": "2026-09-17T06:34:00.000Z",
       "fetchedAt": "2026-09-17T06:54:09.541Z"
+    },
+    {
+      "id": "aa5ac48d08f54473",
+      "title": "Lionel Messi leads Inter Miami to Campeones Cup win, takes trophy tally to 49",
+      "summary": "Lionel Messi scored his 100th Inter Miami goal and set up another in the 2-0 Campeones Cup win over Cruz Azul. The result gave Miami a fourth trophy since his arrival and took his career haul to 49.",
+      "category": "Sports",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/lionel-messi-173004936-16x9_0.jpg?VersionId=1mbg5pkj7LJfZC1M42_ULmx1L5itdf_j",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/sports/football/story/lionel-messi-inter-miami-campeones-cup-100th-goal-48-trophy-tally-2996581-2026-09-17",
+      "publishedAt": "2026-09-17T06:33:22.000Z",
+      "fetchedAt": "2026-09-17T08:59:42.606Z"
     },
     {
       "id": "84ce3f8b69851415",
@@ -256,6 +300,17 @@
       "fetchedAt": "2026-09-17T08:34:40.372Z"
     },
     {
+      "id": "dda55e56e5dd2aa7",
+      "title": "Are India’s engineering colleges ready for technological self-reliance?",
+      "summary": "Indian engineering education lags behind global tech needs, with sub-standard colleges churning out 'digital manual labourers'. Can AI and radical reforms bridge the gap before 2026?",
+      "category": "Technology",
+      "image": "https://cf-images.assettype.com/deccanherald%2F2026-09-17%2Fbmgx1tco%2Fengin.png?rect=0%2C63%2C1672%2C878&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "deccanherald.com",
+      "sourceUrl": "https://www.deccanherald.com/amp/story/opinion/are-indias-engineering-colleges-ready-for-technological-self-reliance-4149139",
+      "publishedAt": "2026-09-17T05:47:00.000Z",
+      "fetchedAt": "2026-09-17T08:59:44.311Z"
+    },
+    {
       "id": "7d173fd2cdc9fb46",
       "title": "AFG vs IND 3rd T20I: Sooryavanshi waits as India's bench gets the spotlight",
       "summary": "India have nothing left to prove in the series after two commanding wins, but the final T20I in Delhi offers a different kind of intrigue. The big question now is whether Vaibhav Sooryavanshi and India’s waiting players finally get their moment.",
@@ -300,6 +355,17 @@
       "fetchedAt": "2026-09-17T05:40:42.159Z"
     },
     {
+      "id": "038914641511b6cb",
+      "title": "Pride and Prejudice series gets premiere date",
+      "summary": "Pride and Prejudice series gets premiere date. This update was reported by newindianexpress.com. Open the original report for full context and any developing updates.",
+      "category": "Entertainment",
+      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-09-16%2F1m33peqf%2FPride_and_Prejudice.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "newindianexpress.com",
+      "sourceUrl": "https://www.newindianexpress.com/amp/story/entertainment/2026/Sep/17/englishnews2026sep16pride-and-prejudice-series-gets-premiere-date",
+      "publishedAt": "2026-09-17T05:30:00.000Z",
+      "fetchedAt": "2026-09-17T08:59:43.486Z"
+    },
+    {
       "id": "da9b8a10747c929d",
       "title": "Unlocking India’s Innovation Potential Through Science, Technology And Collaboration",
       "summary": "India's science and technology ecosystem is evolving rapidly, driven by a stronger focus on research, innovation, and emerging technologies. Policy reforms, industry collaboration, and technology-led initiatives are helping create an environment that supports scientific advancement and accelerates innovation across sectors. Dr. Vivek Kumar Singh, Senior Adviser (Science & Technology), NITI…",
@@ -334,6 +400,17 @@
     },
     {
       "id": "ae7afa2655423ba7",
+      "title": "Home First Finance Company India allots 3,681 equity shares under ESOP - business-standard.com",
+      "summary": "The paid-up share capital of the company has accordingly increased from Rs. 20,91,18,922 consisting of 10,45,59,461 equity shares having a face value of Rs. 2/- each to Rs 20,91,26,284 consisting of 10,45,63,142 equity shares having a face value of Rs. 2/- each.",
+      "category": "Business & Finance",
+      "image": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+      "source": "business-standard.com",
+      "sourceUrl": "https://www.business-standard.com/amp/markets/capital-market-news/home-first-finance-company-india-allots-3-681-equity-shares-under-esop-126091700287_1.html",
+      "publishedAt": "2026-09-17T05:20:17.000Z",
+      "fetchedAt": "2026-09-17T08:59:45.126Z"
+    },
+    {
+      "id": "ae7afa2655423ba7",
       "title": "Home First Finance Company India allots 3,681 equity shares under ESOP",
       "summary": "The paid-up share capital of the company has accordingly increased from Rs. 20,91,18,922 consisting of 10,45,59,461 equity shares having a face value of Rs. 2/- each to Rs 20,91,26,284 consisting of 10,45,63,142 equity shares having a face value of Rs. 2/- each.",
       "category": "Business & Finance",
@@ -342,6 +419,17 @@
       "sourceUrl": "https://www.business-standard.com/amp/markets/capital-market-news/home-first-finance-company-india-allots-3-681-equity-shares-under-esop-126091700287_1.html",
       "publishedAt": "2026-09-17T05:20:17.000Z",
       "fetchedAt": "2026-09-17T06:54:14.571Z"
+    },
+    {
+      "id": "8a951df8f6205569",
+      "title": "India, US discuss nuclear expansion, power needs for AI and data centres",
+      "summary": "New Delhi/ Houston: The Union Power Minister Manohar Lal has discussed India’s nuclear energy expansion plans and the rapidly growing electricity requirements o",
+      "category": "Technology",
+      "image": "https://media.assettype.com/psuwatch%2F2026-09-17%2Fb1y630ae%2FIndia-US-discuss-nuclear-expansion-power-needs-for-AI-and-data-centres.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "PSU Watch",
+      "sourceUrl": "https://psuwatch.com/newsupdates/india-us-discuss-nuclear-expansion-power-needs-for-ai-and-data-centres",
+      "publishedAt": "2026-09-17T05:17:15.000Z",
+      "fetchedAt": "2026-09-17T08:59:44.583Z"
     },
     {
       "id": "325daf02a0039f5f",
@@ -2663,94 +2751,6 @@
       "sourceUrl": "https://indianexpress.com/article/explained/anbil-mahesh-raids-tamil-nadu-dmk-rs-100-crore-school-fraud-10880841/",
       "publishedAt": "2026-09-16T12:56:56.000Z",
       "fetchedAt": "2026-09-16T19:53:30.734Z"
-    },
-    {
-      "id": "16afbfa02f12955b",
-      "title": "MSME-focused lender UGRO Capital raises Rs 380 crore via NCDs from Dutch development bank FMO",
-      "summary": "MSME-focused lender UGRO Capital raises Rs 380 crore via NCDs from Dutch development bank FMO. This update was reported by Indian Startup News. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
-      "category": "Business & Finance",
-      "image": "https://img-cdn.publive.online/fit-in/1200x675/indianstartupnews/media/media_files/7DnSbLAwZoRHegqdx0WE.jpg",
-      "source": "Indian Startup News",
-      "sourceUrl": "https://indianstartupnews.com/news/msme-focused-lender-ugro-capital-raises-rs-380-crore-via-ncds-from-dutch-development-bank-fmo-12541335",
-      "publishedAt": "2026-09-16T12:51:43.000Z",
-      "fetchedAt": "2026-09-16T18:24:01.771Z"
-    },
-    {
-      "id": "8970dbde81136202",
-      "title": "Preity Zinta, Pankaj Tripathi among members as Centre reconstitutes film board",
-      "summary": "Preity Zinta, Pankaj Tripathi among members as Centre reconstitutes film board. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
-      "category": "Entertainment",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EEntertainment%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "The Indian Express",
-      "sourceUrl": "https://indianexpress.com/article/entertainment/cbfc-reconstituted-preity-zinta-suniel-shetty-pankaj-tripathi-10880863/",
-      "publishedAt": "2026-09-16T12:51:05.000Z",
-      "fetchedAt": "2026-09-16T19:53:35.411Z"
-    },
-    {
-      "id": "6335705007359f0b",
-      "title": "Finance Ministry Clarifies UPI MDR Policy, Denies Foreign Pressure",
-      "summary": "Finance Ministry Clarifies UPI MDR Policy, Denies Foreign Pressure. This update was reported by Rediff. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
-      "category": "Business & Finance",
-      "image": "https://im.rediff.com/worldrediff/pix/rediff_icon_red.png",
-      "source": "Rediff",
-      "sourceUrl": "https://www.rediff.com/business/report/finance-ministry-clarifies-no-foreign-influence-on-upi-mdr/20260916.htm",
-      "publishedAt": "2026-09-16T12:48:44.000Z",
-      "fetchedAt": "2026-09-16T17:50:45.895Z"
-    },
-    {
-      "id": "f9a1eca1f4e2ab5d",
-      "title": "CJP to launch ‘Adivasi School Thik Karo’ campaign from Gadchiroli on Sep 17: Dipke",
-      "summary": "Nagpur, Sep 16 (PTI) Alleging that tribal schools in India faced government apathy for the last 80 years, Cockroach Janta Party founder Abhijeet Dipke on Wednesday announced the launch of his group’s ‘Adivasi School Thik Karo’ campaign from Gadchiroli in the state from September 17. Addressing a press conference here,…",
-      "category": "Politics & Government",
-      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
-      "source": "ThePrint",
-      "sourceUrl": "https://theprint.in/india/cjp-to-launch-adivasi-school-thik-karo-campaign-from-gadchiroli-on-sep-17-dipke/3044657/",
-      "publishedAt": "2026-09-16T12:47:15.000Z",
-      "fetchedAt": "2026-09-16T19:42:24.477Z"
-    },
-    {
-      "id": "5b1d1811694198f9",
-      "title": "Moose Wala killing to Ambala blast: The long terror trail of ISI proxy Shahzad Bhatti",
-      "summary": "From a local criminal to an alleged ISI proxy involved in \"hybrid terrorism\", Pakistan-based gangster Shahzad Bhatti is accused of building a cross-border network for arms and narcotics smuggling over the years.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134287842,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/delhi/moose-wala-killing-to-ambala-blast-the-long-terror-trail-of-isi-proxy-shahzad-bhatti/articleshow/134287783.cms",
-      "publishedAt": "2026-09-16T12:40:00.000Z",
-      "fetchedAt": "2026-09-16T18:43:06.547Z"
-    },
-    {
-      "id": "aa721245d26d3f09",
-      "title": "Nepal Finance Minister to visit India, seek support for post-flood reconstruction",
-      "summary": "Nepal Finance Minister to visit India, seek support for post-flood reconstruction. This update was reported by thehawk.in. Open the original report for full context and any developing updates.",
-      "category": "Business & Finance",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EBusiness%20%26amp%3B%20Finance%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "thehawk.in",
-      "sourceUrl": "https://www.thehawk.in/news/economy-and-business/nepal-finance-minister-to-visit-india-seek-support-for-post-flood-reconstruction",
-      "publishedAt": "2026-09-16T12:36:38.000Z",
-      "fetchedAt": "2026-09-16T18:39:47.736Z"
-    },
-    {
-      "id": "91921c81e7a0f8aa",
-      "title": "Karnavati Finance (BSE:538928): Business Profile and Finance Sector Overview",
-      "summary": "Karnavati Finance (BSE:538928): Business Profile and Finance Sector Overview. This update was reported by Kalkine India. Open the original report for full context and any developing updates.",
-      "category": "Business & Finance",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EBusiness%20%26amp%3B%20Finance%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "Kalkine India",
-      "sourceUrl": "https://www.kalkine.co.in/article/financial/karnavati-finance-bse538928-understanding-its-role-in-indias-finance-and-leasing-segment",
-      "publishedAt": "2026-09-16T12:34:00.000Z",
-      "fetchedAt": "2026-09-16T21:44:45.220Z"
-    },
-    {
-      "id": "f606cedcb46ca8b1",
-      "title": "India Home Loan (BSE:530979): Business Profile and Housing Finance Overview",
-      "summary": "India Home Loan (BSE:530979): Business Profile and Housing Finance Overview. This update was reported by Kalkine India. Open the original report for full context and any developing updates.",
-      "category": "Business & Finance",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EBusiness%20%26amp%3B%20Finance%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "Kalkine India",
-      "sourceUrl": "https://www.kalkine.co.in/article/financial/india-home-loan-bse530979-understanding-its-role-in-indias-housing-finance-segment",
-      "publishedAt": "2026-09-16T12:34:00.000Z",
-      "fetchedAt": "2026-09-16T21:44:45.435Z"
     }
   ]
 }
