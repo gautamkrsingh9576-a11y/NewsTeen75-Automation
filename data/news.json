@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-09-17T06:36:56.360Z",
+  "updatedAt": "2026-09-17T06:54:18.100Z",
   "count": 250,
   "articles": [
+    {
+      "id": "8d19d0317255d7b1",
+      "title": "Mineral extraction to metals production: India’s technology pivot for competitiveness",
+      "summary": "Exploring how technology, innovation, and critical minerals can strengthen India's mining and metals competitiveness",
+      "category": "Technology",
+      "image": "https://assets.kpmg.com/is/image/kpmgcloud/mineral-extraction-to-metals-production-indias-technology-pivot-for-competitiveness-thumbnail",
+      "source": "kpmg.com",
+      "sourceUrl": "https://kpmg.com/in/en/insights/2026/09/mineral-extraction-to-metals-production-indias-technology-pivot-for-competitiveness.html",
+      "publishedAt": "2026-09-17T06:36:50.000Z",
+      "fetchedAt": "2026-09-17T06:54:13.127Z"
+    },
+    {
+      "id": "dc19a8b81b4d5d39",
+      "title": "Pakistan cricket crisis deepens as Mohammad Rizwan moves Lahore High Court against cyber crime agency sum",
+      "summary": "Pakistan wicketkeeper-batter Mohammad Rizwan has approached the Lahore High Court against summons issued to him by the National Cyber Crime Investigation Agency (NCCIA). Rizwan appeared before the agency last week but has now questioned the basis of the investigation and its authority to summon him.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134303687,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/pakistan-cricket-crisis-deepens-as-mohammad-rizwan-moves-lahore-high-court-against-cyber-crime-agency-summons/articleshow/134303567.cms",
+      "publishedAt": "2026-09-17T06:34:00.000Z",
+      "fetchedAt": "2026-09-17T06:54:09.541Z"
+    },
     {
       "id": "84ce3f8b69851415",
       "title": "iPhone 18 Pro is made in India, Apple shipping globally including US on charter planes",
@@ -113,6 +135,17 @@
       "fetchedAt": "2026-09-17T05:40:39.568Z"
     },
     {
+      "id": "ae7afa2655423ba7",
+      "title": "Home First Finance Company India allots 3,681 equity shares under ESOP",
+      "summary": "The paid-up share capital of the company has accordingly increased from Rs. 20,91,18,922 consisting of 10,45,59,461 equity shares having a face value of Rs. 2/- each to Rs 20,91,26,284 consisting of 10,45,63,142 equity shares having a face value of Rs. 2/- each.",
+      "category": "Business & Finance",
+      "image": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/amp/markets/capital-market-news/home-first-finance-company-india-allots-3-681-equity-shares-under-esop-126091700287_1.html",
+      "publishedAt": "2026-09-17T05:20:17.000Z",
+      "fetchedAt": "2026-09-17T06:54:14.571Z"
+    },
+    {
       "id": "9ddc21d243599d14",
       "title": "Syrma SGS, Kaynes Tech, Dixon Shares Rally: Semiconductor Stocks In Focus As SEMICON India Begins",
       "summary": "The moves come as the fifth edition of SEMICON India opens in New Delhi. Prime Minister Narendra Modi is scheduled to inaugurate the three-day event.",
@@ -133,6 +166,17 @@
       "sourceUrl": "https://theprint.in/india/tripura-launches-initiative-to-bring-ai-learning-to-govt-school-students/3045137/",
       "publishedAt": "2026-09-17T04:48:04.000Z",
       "fetchedAt": "2026-09-17T05:40:39.238Z"
+    },
+    {
+      "id": "9ebb8be7afee0469",
+      "title": "PM Modi a symbol of national service and dedication: BJP on his birthday",
+      "summary": "Union ministers and senior BJP leaders on Thursday extended birthday greetings to Prime Minister Narendra Modi, highlighting his 25 years in public life and his contribution to development, welfare and governance.",
+      "category": "National & Trending News",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTdlYzgxNDIwLWIyNTItMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
+      "source": "The Tribune",
+      "sourceUrl": "https://www.tribuneindia.com/news/india/pm-modi-a-symbol-of-national-service-and-dedication-bjp-on-his-birthday/amp/",
+      "publishedAt": "2026-09-17T04:44:35.000Z",
+      "fetchedAt": "2026-09-17T06:54:17.707Z"
     },
     {
       "id": "b31a3b1b569b2aa3",
@@ -309,6 +353,17 @@
       "sourceUrl": "https://www.tribuneindia.com/news/usa-news/us-international-development-finance-corporation-announces-more-than-8-bn-in-investments-to-fuel-american-economic-national-security-interests/amp",
       "publishedAt": "2026-09-17T03:47:06.000Z",
       "fetchedAt": "2026-09-17T05:54:19.392Z"
+    },
+    {
+      "id": "28eb3e822645ee12",
+      "title": "PM Modi to inaugurate 5th edition of SEMICON India 2026 today",
+      "summary": "PM Modi to inaugurate 5th edition of SEMICON India 2026 today. This update was reported by DD News. Open the original report for full context and any developing updates.",
+      "category": "Technology",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "DD News",
+      "sourceUrl": "https://ddnews.gov.in/en/pm-modi-to-inaugurate-5th-edition-of-semicon-india-2026-today/",
+      "publishedAt": "2026-09-17T03:47:03.000Z",
+      "fetchedAt": "2026-09-17T06:54:14.017Z"
     },
     {
       "id": "e7e14f8d8aff0b6b",
@@ -562,6 +617,17 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/toxic-box-office-collections-day-22-yash-tara-sutaria-nayanthara-kiara-advani-starrer-inches-closer-to-rs-250-crore-mark-in-india/articleshow/134299624.cms",
       "publishedAt": "2026-09-17T02:11:00.000Z",
       "fetchedAt": "2026-09-17T02:19:07.395Z"
+    },
+    {
+      "id": "d5ef662f41b8907a",
+      "title": "The Asian Games: The Ultimate Test for a Sports Journalist",
+      "summary": "The Asian Games is the most challenging assignment for an Indian sports journalist. India stands to win 100 medals yet again and, unlike the Commonwealth Games, where the standard in certain sports may not be as high, the Asian Games is the gold standard, with China, Japan and Korea all…",
+      "category": "Sports",
+      "image": "https://revsportz.in/wp-content/uploads/2026/09/revs-e1789610527930.jpeg",
+      "source": "Revsportz",
+      "sourceUrl": "https://revsportz.in/the-asian-games-the-ultimate-test-for-a-sports-journalist/?amp=1",
+      "publishedAt": "2026-09-17T02:08:20.000Z",
+      "fetchedAt": "2026-09-17T06:54:11.474Z"
     },
     {
       "id": "8fcaea7ef4888377",
@@ -2599,6 +2665,17 @@
       "fetchedAt": "2026-09-16T18:39:40.129Z"
     },
     {
+      "id": "ae221eccfc9bde36",
+      "title": "Industry, MSMEs and people drove India’s 7.8% Q1 growth: Sitharaman",
+      "summary": "Industry, MSMEs and people drove India’s 7.8% Q1 growth: Sitharaman. This update was reported by Awaz The Voice. Open the original report for full context and any developing updates.",
+      "category": "Business & Finance",
+      "image": "https://www.awazthevoice.in/upload/news/1789557492ANI-20260916105058.webp",
+      "source": "Awaz The Voice",
+      "sourceUrl": "https://www.awazthevoice.in/business-news/industry-msmes-and-people-drove-india-s-q-growth-sitharaman-67761.html",
+      "publishedAt": "2026-09-16T11:18:12.000Z",
+      "fetchedAt": "2026-09-17T06:54:15.812Z"
+    },
+    {
       "id": "07d23d2e51d95161",
       "title": "Primetime - Official Trailer",
       "summary": "Watch the Official Trailer from English movie 'Primetime' starring Robert Pattinson, Merritt Wever, Skyler Gisondo, Matthew Maher and Bokeem Woodbine. 'Primetime' movie is directed by Lance Oppenheim. To know more about 'Primetime' trailer watch the video. Check out the latest English trailers, new movie trailers, trending English movie trailers, and…",
@@ -2674,83 +2751,6 @@
       "sourceUrl": "https://www.aninews.in/news/business/indias-78-q1-growth-driven-by-hard-work-of-industry-msmes-people-fm-sitharaman20260916162215/",
       "publishedAt": "2026-09-16T10:52:00.000Z",
       "fetchedAt": "2026-09-16T18:43:16.982Z"
-    },
-    {
-      "id": "e0212018aaaab141",
-      "title": "Finance panel seeks government response on Virtual Digital Asset grey areas, report likely soon",
-      "summary": "The Parliamentary Standing Committee on Finance has concluded its discussions on Virtual Digital Assets (VDAs), with Chairperson Bhartruhari Mahtab saying the panel has identified certain grey areas that need to be addressed and is expecting a response from the government next week.",
-      "category": "Business & Finance",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWZhODIxMDUwLWIxYjktMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
-      "source": "The Tribune",
-      "sourceUrl": "https://www.tribuneindia.com/news/business/finance-panel-seeks-government-response-on-virtual-digital-asset-grey-areas-report-likely-soon/",
-      "publishedAt": "2026-09-16T10:32:48.000Z",
-      "fetchedAt": "2026-09-16T19:42:35.102Z"
-    },
-    {
-      "id": "cf316429dd5328f6",
-      "title": "Parliament clears India trade deal but political risks remain",
-      "summary": "Parliament clears India trade deal but political risks remain. This update was reported by indiannewslink.co.nz. Open the original report for full context and any developing updates.",
-      "category": "Politics & Government",
-      "image": "https://admin.indiannewslink.co.nz/uploads/Parliament_clears_Main_Banner_8e03e1feba.png",
-      "source": "indiannewslink.co.nz",
-      "sourceUrl": "https://www.indiannewslink.co.nz/parliament-clears-india-trade-deal-but-political-risks-remain",
-      "publishedAt": "2026-09-16T10:26:32.000Z",
-      "fetchedAt": "2026-09-16T18:39:41.482Z"
-    },
-    {
-      "id": "6f7772943e76fa8c",
-      "title": "'CM Busy Shooting In London': Stalin Hits Back At Vijay After Raid At Ex-Tamil Nadu Minister's House",
-      "summary": "MK Stalin accused the TVK government of launching \"the raid missile\" against former Tamil Nadu Minister.",
-      "category": "Crime & Breaking News",
-      "image": "https://images.news18.com/ibnlive/uploads/2026/08/mkstalintvkvijay-2026-08-768a532dfcb0efcf54338577bdcfe959-1200x675.jpg",
-      "source": "News18",
-      "sourceUrl": "https://www.news18.com/amp/india/cm-busy-shooting-in-london-stalin-hits-back-at-vijay-after-raid-on-ex-tamil-nadu-ministers-house-10333934.html",
-      "publishedAt": "2026-09-16T10:24:26.000Z",
-      "fetchedAt": "2026-09-17T04:02:02.951Z"
-    },
-    {
-      "id": "b58c2d0b2526b852",
-      "title": "PM Modi says BJP established a new principle in Indian politics of Nation-First",
-      "summary": "PM Modi says BJP established a new principle in Indian politics of Nation-First. This update was reported by News On AIR. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
-      "category": "Politics & Government",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EPolitics%20%26amp%3B%20Government%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "News On AIR",
-      "sourceUrl": "https://newsonair.gov.in/pm-modi-says-bjp-established-a-new-principle-in-indian-politics-of-nation-first/",
-      "publishedAt": "2026-09-16T10:11:41.000Z",
-      "fetchedAt": "2026-09-16T17:47:12.316Z"
-    },
-    {
-      "id": "a13860630abf5079",
-      "title": "Stormbound - Official Trailer",
-      "summary": "Watch the Official Trailer from english movie 'Stormbound' starring Jason Foster & Jeff Gammons. 'Stormbound' movie is directed by Miko Lim. To know more about 'Stormbound' trailer watch the video. Check out the latest english trailers, new movie trailers, trending english movie trailers, and more at ETimes - Times of…",
-      "category": "Entertainment",
-      "image": "https://static.toiimg.com/thumb/msid-134284780,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/videos/entertainment/english/stormbound-official-trailer/videoshow/134284780.cms",
-      "publishedAt": "2026-09-16T10:11:17.000Z",
-      "fetchedAt": "2026-09-16T19:28:21.770Z"
-    },
-    {
-      "id": "a03bc62deccf91cc",
-      "title": "RSS forms panel for censorship of OTT content: Demands for certification like films; know the existing rule...",
-      "summary": "RSS committee reviews OTT content censorship in India. Follow Bhaskar English Latest Updates. The Rashtriya Swayamsevak Sangh (RSS) has formed a panel to oversee the censorship of content shown on OTT platforms. The panel will determine whether OTT content is obscene, against Indian culture, anti-national or likely to have a…",
-      "category": "Entertainment",
-      "image": "https://images.bhaskarassets.com/thumb/730x0/web2images/1884/2026/09/16/newsroom-composite-730x548_1789544103871.gif",
-      "source": "Bhaskar English",
-      "sourceUrl": "https://www.bhaskarenglish.in/entertainment/news/rss-forms-panel-censorship-ott-content-india-rules-experts-views-139047411.html",
-      "publishedAt": "2026-09-16T10:08:56.000Z",
-      "fetchedAt": "2026-09-17T05:07:33.539Z"
-    },
-    {
-      "id": "e22d4c7895df15a9",
-      "title": "EPFO wage ceiling raised from Rs 15,000 to Rs 25,000: Who will benefit",
-      "summary": "The Union Cabinet on Wednesday approved raising the wage ceiling for mandatory coverage under the Employees' Provident Fund Organisation (EPFO) from Rs 15,000 to Rs 25,000 per month.",
-      "category": "Business & Finance",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/epfo-ceiling-hike-145313989-original_0-sixteen-to-nine.jpg?VersionId=ATOSDg7bf2C.OkoTMLkRgPdwy.DtKjJe",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/business/personal-finance/story/epfo-wage-ceiling-raised-from-rs-15000-to-rs-25000-who-will-benefit-2995850-2026-09-16",
-      "publishedAt": "2026-09-16T10:08:41.000Z",
-      "fetchedAt": "2026-09-16T19:53:39.563Z"
     }
   ]
 }
