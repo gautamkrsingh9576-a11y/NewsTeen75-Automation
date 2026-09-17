@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T21:50:45.333Z",
+  "updatedAt": "2026-09-17T22:02:31.707Z",
   "count": 250,
   "articles": [
     {
@@ -320,6 +320,17 @@
       "sourceUrl": "https://www.indiatoday.in/sports/asian-games/story/varun-sanyal-asian-games-accommodation-chaos-japan-india-comparison-2997186-2026-09-17",
       "publishedAt": "2026-09-17T16:48:10.000Z",
       "fetchedAt": "2026-09-17T16:56:51.579Z"
+    },
+    {
+      "id": "d3f6d37beb85b5a3",
+      "title": "Prime Minister Shri Narendra Modi inaugurates Micron Technology’s Semiconductor Assembly, Test and Packaging (ATMP) facility in Sanand,Gujarat",
+      "summary": "Prime Minister Shri Narendra Modi, today inaugurated the Micron ATMP (Assembly, Test, Marking, and P",
+      "category": "Technology",
+      "image": "https://www.pib.gov.in/pib.gov.in/images/indian-emblem.png",
+      "source": "PIB",
+      "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2233998&reg=48&lang=1",
+      "publishedAt": "2026-09-17T16:44:19.000Z",
+      "fetchedAt": "2026-09-17T22:02:28.918Z"
     },
     {
       "id": "6f61d0de431f249a",
@@ -2159,6 +2170,17 @@
       "fetchedAt": "2026-09-17T09:19:41.301Z"
     },
     {
+      "id": "53241a45c2098db2",
+      "title": "Political integration unites territories, constitutional democracy unites citizens: Vice-President",
+      "summary": "Vice-President C.P. Radhakrishnan emphasizes national integration through equal rights and dignity at Hyderabad Liberation Day celebrations.",
+      "category": "National & Trending News",
+      "image": "https://th-i.thgim.com/public/incoming/tjv005/article71475942.ece/alternates/FREE_1200/DSC3006.jpg",
+      "source": "The Hindu",
+      "sourceUrl": "https://www.thehindu.com/news/national/telangana/political-integration-unites-territories-constitutional-democracy-unites-citizens-vice-president/article71475785.ece/amp/",
+      "publishedAt": "2026-09-17T09:01:50.000Z",
+      "fetchedAt": "2026-09-17T22:02:31.706Z"
+    },
+    {
       "id": "c9f631e4fb41a762",
       "title": "Kunal Kapoor calls ‘Ramayana’ India’s most ambitious films, dismisses online backlash",
       "summary": "Directed by Nitesh Tiwari, the upcoming adaptation of the Hindu epic stars Ranbir Kapoor as Lord Ram and Sai Pallavi as Sita",
@@ -2729,28 +2751,6 @@
       "sourceUrl": "https://www.pib.gov.in/PressNoteDetails.aspx?ModuleId=3&NoteId=160020&id=160020&reg=48&lang=2",
       "publishedAt": "2026-09-17T06:47:00.000Z",
       "fetchedAt": "2026-09-17T11:49:23.290Z"
-    },
-    {
-      "id": "4fa07a067016283f",
-      "title": "Rise & Fall 2: Swara Bhasker, Karan Patel among first four to join Sehwag's show",
-      "summary": "Swara Bhasker, Karan Patel, Priyanka Chahar Choudhary and politician Shehzad Poonawalla are set to join Rise & Fall Season 2. The Virender Sehwag-hosted reality show will stream on MX Player from September 26.",
-      "category": "Entertainment",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/rise--fall-2-172743446-16x9_0.jpeg?VersionId=kWTbvIMQkZl7xcRNY3crFjp6C6FEvRBj",
-      "source": "indiatoday.in",
-      "sourceUrl": "https://www.indiatoday.in/entertainment/ott/story/rise-fall-2-swara-bhasker-karan-patel-priyanka-chahar-choudhary-shehzad-poonawalla-first-four-contestants-virendra-sehwag-show-2996568-2026-09-17",
-      "publishedAt": "2026-09-17T06:42:23.000Z",
-      "fetchedAt": "2026-09-17T11:21:14.798Z"
-    },
-    {
-      "id": "81788106ddc2991c",
-      "title": "Government questions Rahul Gandhi's criticism of UPI charges, says Congress MPs in panel gave nod",
-      "summary": "The government has questioned Rahul Gandhi's opposition to UPI payment fees, citing support from Congress MPs including P Chidambaram in a parliamentary panel. The panel had recommended a tiered MDR framework to address funding gaps in the UPI ecosystem.",
-      "category": "Politics & Government",
-      "image": "https://cf-images.assettype.com/deccanherald%2F2026-09-11%2Fme121unl%2Ffile87ij0to34w3gk4ihey4.jpg?rect=0%2C0%2C944%2C496&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "source": "Deccan Herald",
-      "sourceUrl": "https://www.deccanherald.com/amp/story/india/government-questions-rahul-gandhis-criticism-of-upi-charges-says-congress-mps-in-panel-gave-nod-4148728",
-      "publishedAt": "2026-09-17T06:39:00.000Z",
-      "fetchedAt": "2026-09-17T09:19:35.441Z"
     }
   ]
 }
