@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-09-17T15:41:38.171Z",
+  "updatedAt": "2026-09-17T15:54:30.386Z",
   "count": 250,
   "articles": [
+    {
+      "id": "6ccbef75c53f0c85",
+      "title": "AIFF Announces Discounted Tickets For India's FIFA Tier-1 Friendlies",
+      "summary": "The All India Football Federation (AIFF) is facilitating discounted tickets for members of Mohun Bagan, East Bengal, and Mohammedan Sporting for India",
+      "category": "Sports",
+      "image": "https://im.rediff.com/1200-630/sports/2022/jun/24aiff.jpg",
+      "source": "Rediff",
+      "sourceUrl": "https://www.rediff.com/sports/report/aiff-announces-discounted-tickets-for-india-friendlies/20260917.htm",
+      "publishedAt": "2026-09-17T15:32:31.000Z",
+      "fetchedAt": "2026-09-17T15:54:15.131Z"
+    },
+    {
+      "id": "9ead4e63026bb5ad",
+      "title": "Asian Games 2026 full schedule: Dates, events and India’s day-by-day programme",
+      "summary": "Asian Games 2026 full schedule: Dates, events and India’s day-by-day programme. This update was reported by The Statesman. Open the original report for full context and any developing updates.",
+      "category": "Sports",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "The Statesman",
+      "sourceUrl": "https://www.thestatesman.com/sports/asian-games-2026-full-schedule-dates-events-and-indias-day-by-day-programme-1503639856.html",
+      "publishedAt": "2026-09-17T15:28:00.000Z",
+      "fetchedAt": "2026-09-17T15:54:13.418Z"
+    },
+    {
+      "id": "1e61d061d8403908",
+      "title": "AMD says India is central to its chip design and R&D ecosystem, with key work on its latest 2nm server chip being led by teams in the country. The company says its $400 million India investment plan is ahead of schedule, while hiring has also surpassed its ori",
+      "summary": "AMD says India is central to its chip design and R&D ecosystem, with key work on its latest 2nm server chip being led by teams in the country. The company says its $400 million India investment plan is ahead of schedule, while hiring has also surpassed its original target. #amd…",
+      "category": "Technology",
+      "image": "https://dms.licdn.com/playlist/vid/v2/D4E05AQFDZtWO53TATQ/thumbnail-with-play-button-overlay-high/B4EaCv.jE6H4C4-/0/1789658814508?e=2147483647&v=beta&t=UiGrx7E8oowQFHFe15qKA3-BHa3F6v2a4Xa4jajqZwU",
+      "source": "LinkedIn",
+      "sourceUrl": "https://www.linkedin.com/posts/cnbc-tv18_amd-semiconductors-chipdesign-activity-7506373255612526593-kqCL",
+      "publishedAt": "2026-09-17T15:27:25.000Z",
+      "fetchedAt": "2026-09-17T15:54:17.589Z"
+    },
     {
       "id": "85e7ce11fe1d6db0",
       "title": "‘Vettuvam’ poster: Pa. Ranjith’s next film is about India’s traditional Mallakhamba sport; glimpse releas",
@@ -1167,6 +1200,17 @@
       "sourceUrl": "https://indianexpress.com/article/sports/cricket/india-women-cricket-schedule-asian-games-2026-squad-live-streaming-10882057/",
       "publishedAt": "2026-09-17T09:31:07.000Z",
       "fetchedAt": "2026-09-17T09:50:10.366Z"
+    },
+    {
+      "id": "24632a8dba0faa3c",
+      "title": "Savinya on exit from Bigg Boss Tamil Season 10: It was a betrayal, for sure",
+      "summary": "Savinya on exit from Bigg Boss Tamil Season 10: It was a betrayal, for sure. This update was reported by The New Indian Express. Open the original report for full context and any developing updates.",
+      "category": "Entertainment",
+      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-09-16%2Fzkhx5tgl%2FBigg_Boss_Tamil.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "The New Indian Express",
+      "sourceUrl": "https://www.newindianexpress.com/amp/story/entertainment/2026/Sep/17/tamilinterviews2026sep16savinya-on-exit-from-bigg-boss-tamil-season-10-it-was-a-betrayal-for-sure",
+      "publishedAt": "2026-09-17T09:30:00.000Z",
+      "fetchedAt": "2026-09-17T15:54:16.004Z"
     },
     {
       "id": "ede723d68af1b5b4",
@@ -2588,6 +2632,17 @@
       "fetchedAt": "2026-09-17T05:40:46.646Z"
     },
     {
+      "id": "f5546c1212520d5e",
+      "title": "Canada’s Economic Diversification: The India Reset",
+      "summary": "As Canada seeks to diversify its economic partnerships beyond the United States, its relationship with India is entering a more pragmatic phase. Despite ideological differences between the BJP-led Indian government [...]",
+      "category": "Politics & Government",
+      "image": "https://www.internationalaffairs.org.au/wp-content/uploads/President_Donald_Trump_meets_with_Canadian_Prime_Minister_Mark_Carney_in_the_Oval_Office_54501166867-scaled-e1789607814998.jpg",
+      "source": "Australian Institute of International Affairs",
+      "sourceUrl": "https://www.internationalaffairs.org.au/australianoutlook/canadas-economic-diversification-the-india-reset/",
+      "publishedAt": "2026-09-17T03:21:34.000Z",
+      "fetchedAt": "2026-09-17T15:54:11.142Z"
+    },
+    {
       "id": "4fabbaba8517a5ae",
       "title": "'Find a new job till...': Adidas lays off nearly 50% of its India Tech Hub workforce",
       "summary": "'Find a new job till...': Adidas lays off nearly 50% of its India Tech Hub workforce. This update was reported by Business Today. Open the original report for full context and any developing updates.",
@@ -2696,61 +2751,6 @@
       "sourceUrl": "https://www.cnbctv18.com/business/finance/upi-mdr-traders-board-member-business-impact-seeks-fee-withdrawal-19992410.htm",
       "publishedAt": "2026-09-17T02:47:46.000Z",
       "fetchedAt": "2026-09-17T15:07:52.649Z"
-    },
-    {
-      "id": "5ff1e1c5b730410e",
-      "title": "Asian Games 2026: Indian athletes land in Japan to a forgettable welcome",
-      "summary": "Japan’s reputation for organisational efficiency lay in tatters as the rowing and shooting contingent faced unexpected ordeals upon arrival. A majority of the rowing squad were left stranded without accommodation, some of their names actually missing from the accreditation system.",
-      "category": "Sports",
-      "image": "https://static.toiimg.com/thumb/msid-134300035,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-indian-athletes-land-in-japan-to-a-forgettable-welcome/articleshow/134299877.cms",
-      "publishedAt": "2026-09-17T02:37:00.000Z",
-      "fetchedAt": "2026-09-17T04:02:05.789Z"
-    },
-    {
-      "id": "00722f03c75669a4",
-      "title": "NTA publishes its exam calendar for 2026-2027 | India News",
-      "summary": "The National Testing Agency (NTA) on Wednesday released its tentative examination calendar for the December 2026-March 2027 period, scheduling major examinations including UGC-NET, Joint CSIR-UGC NET, JEE (Main), CMAT and CUET-PG",
-      "category": "National & Trending News",
-      "image": "https://www.hindustantimes.com/ht-img/img/2025/06/30/1600x900/ht-generic_india1_1751287243850_1751287256749.jpg",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/india-news/nta-publishes-its-exam-calendar-for-20262027-101789586057883-amp.html",
-      "publishedAt": "2026-09-17T02:32:30.000Z",
-      "fetchedAt": "2026-09-17T06:12:56.759Z"
-    },
-    {
-      "id": "089e400fa95848f9",
-      "title": "Gonsalves and Beg to lead India’s teqball campaign at 2026 Asian Games",
-      "summary": "Gonsalves and Beg to lead India’s teqball campaign at 2026 Asian Games. This update was reported by The News Mill. Open the original report for full context and any developing updates.",
-      "category": "Sports",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "The News Mill",
-      "sourceUrl": "https://thenewsmill.com/2026/09/gonsalves-and-beg-to-lead-indias-teqball-campaign-at-2026-asian-games/",
-      "publishedAt": "2026-09-17T02:32:10.000Z",
-      "fetchedAt": "2026-09-17T02:59:50.810Z"
-    },
-    {
-      "id": "5795d5874807cbab",
-      "title": "What’s in a hockey stick: Change in material & technology make big difference",
-      "summary": "What’s in a hockey stick: Change in material & technology make big difference. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
-      "category": "Technology",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "The Indian Express",
-      "sourceUrl": "https://indianexpress.com/article/sports/hockey/asian-games-2026-hockey-stick-evolution-material-technology-10881421/",
-      "publishedAt": "2026-09-17T02:31:43.000Z",
-      "fetchedAt": "2026-09-17T07:46:28.416Z"
-    },
-    {
-      "id": "3c35d24c5624bf39",
-      "title": "Govt explores holding special Parliament session next month | India News",
-      "summary": "The Union government has expressed interest in convening a special session of Parliament next month to push through bills implementing delimitation and women’s reservation and has also started reaching out to some members of the National Democratic Alliance, people aware of developments said on Wednesday",
-      "category": "Politics & Government",
-      "image": "https://www.hindustantimes.com/ht-img/img/2025/06/30/1600x900/ht-generic_india1_1751287243850_1751287256749.jpg",
-      "source": "hindustantimes.com",
-      "sourceUrl": "https://www.hindustantimes.com/india-news/govt-explores-holding-special-parliament-session-next-month-101789585765686-amp.html",
-      "publishedAt": "2026-09-17T02:31:10.000Z",
-      "fetchedAt": "2026-09-17T02:34:17.133Z"
     }
   ]
 }
