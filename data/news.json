@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-17T15:54:30.386Z",
+  "updatedAt": "2026-09-17T16:10:50.985Z",
   "count": 250,
   "articles": [
+    {
+      "id": "9f3ca1587bea6816",
+      "title": "Asian Games 2026 India schedule: Dates, timings, sports, venues and live streaming",
+      "summary": "The opening ceremony is scheduled for September 19 at 2:30 PM IST at Nagoya City Mizuho Park Athletic Stadium, while the closing ceremony will take place at the same venue on October 4 at 3:30 PM IST. India has sent 503 athletes to the Games, with the contingent spread across…",
+      "category": "Sports",
+      "image": "https://images.cnbctv18.com/uploads/2026/09/2024-07-30t075310z-1113325924-up1ek7u0lwj0i-rtrmadp-3-olympics-2024-shooting-2-2026-09-87cb34b42e904c0b8a9bba69e94d02bb.jpg?im=FitAndFill,width=1200,height=675",
+      "source": "CNBC TV18",
+      "sourceUrl": "https://www.cnbctv18.com/sports/asian-games-2026-india-schedule-dates-timings-sports-venues-and-live-streaming-19993154.htm",
+      "publishedAt": "2026-09-17T15:35:13.000Z",
+      "fetchedAt": "2026-09-17T16:10:34.241Z"
+    },
     {
       "id": "6ccbef75c53f0c85",
       "title": "AIFF Announces Discounted Tickets For India's FIFA Tier-1 Friendlies",
@@ -254,6 +265,17 @@
       "sourceUrl": "https://www.deccanherald.com/amp/story/opinion/seva-sankalp-abhiyan-modis-bday-celebration-in-shadow-of-political-setbacks-4149657",
       "publishedAt": "2026-09-17T12:51:00.000Z",
       "fetchedAt": "2026-09-17T15:41:17.692Z"
+    },
+    {
+      "id": "6f51af2b71c843f0",
+      "title": "Applied Materials to invest $5 billion in India as Modi's flagship chip event kicks off",
+      "summary": "Applied Materials to invest $5 billion in India as Modi's flagship chip event kicks off. This update was reported by Reuters. Open the original report for full context and any developing updates.",
+      "category": "Technology",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/world/asia-pacific/applied-materials-invest-5-billion-india-modis-flagship-chip-event-kicks-off-2026-09-17/",
+      "publishedAt": "2026-09-17T12:50:12.000Z",
+      "fetchedAt": "2026-09-17T16:10:39.476Z"
     },
     {
       "id": "49ae2bdda35b3419",
@@ -1079,6 +1101,17 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/videos/sports/cricket/afghanistan-cricket-players-on-india-bond-ipl-experience-delhis-unmatched-support/videoshow/134307883.cms",
       "publishedAt": "2026-09-17T09:51:29.000Z",
       "fetchedAt": "2026-09-17T10:01:14.652Z"
+    },
+    {
+      "id": "0fa25e760ff2ed7e",
+      "title": "‘Mirzapur: The Movie’ crosses Rs 200 crore in India",
+      "summary": "‘Mirzapur: The Movie’ crosses Rs 200 crore in India. This update was reported by Awaz The Voice. Open the original report for full context and any developing updates.",
+      "category": "Entertainment",
+      "image": "https://www.awazthevoice.in/upload/news/17896386421789367860ANI-20260914061212.webp",
+      "source": "Awaz The Voice",
+      "sourceUrl": "https://www.awazthevoice.in/entertainment-news/mirzapur-the-movie-crosses-rs-crore-in-india-67821.html",
+      "publishedAt": "2026-09-17T09:50:43.000Z",
+      "fetchedAt": "2026-09-17T16:10:36.394Z"
     },
     {
       "id": "9e2fae8ea812cfed",
@@ -2718,39 +2751,6 @@
       "sourceUrl": "https://indianexpress.com/article/india/breaking-news-india-live-updates-17-september-2026-manoj-jarange-maratha-quota-supreme-court-accident-imd-rain-delhi-mumbai-world-10881418/",
       "publishedAt": "2026-09-17T03:06:27.000Z",
       "fetchedAt": "2026-09-17T03:35:32.789Z"
-    },
-    {
-      "id": "338b751de5ecc324",
-      "title": "NSE IPO opens today: From 132.37 million investors to a Rs 4.42 lakh crore valuation- what are you...",
-      "summary": "NSE&rsquo;s unique registered investor base increased from 30.87 million as of March 31, 2020, to 132.37 million as of June 30, 2026",
-      "category": "Business & Finance",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260916121523_Paras-Bisht.jpg",
-      "source": "Moneycontrol.com",
-      "sourceUrl": "https://www.moneycontrol.com/news/business/personal-finance/nse-ipo-opens-today-from-132-37-million-investors-to-a-rs-4-42-lakh-crore-valuation-what-are-you-actually-buying-14031668.html",
-      "publishedAt": "2026-09-17T03:01:25.000Z",
-      "fetchedAt": "2026-09-17T14:38:04.744Z"
-    },
-    {
-      "id": "3c8ab5f61fc6457e",
-      "title": "Asian Games 2026 Date, Time In India, Full Schedule, Venues, When And Where To Watch",
-      "summary": "The Asian Games 2026 India schedule begins before the opening ceremony, with Indian athletes in action from September 17 as Aichi-Nagoya hosts the 20th Games fr",
-      "category": "Sports",
-      "image": "https://media.assettype.com/esquireindia%2F2026-09-17%2Fepo0kair%2FAsian-Games-2026-India-Full-Schedule.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "source": "esquireindia.co.in",
-      "sourceUrl": "https://www.esquireindia.co.in/culture/sports/asian-games-2026-date-time-in-india-ist-full-schedule-venues-when-and-where-to-watch-sony-sports-tv-live-streaming-sonyliv-september-17",
-      "publishedAt": "2026-09-17T02:59:16.000Z",
-      "fetchedAt": "2026-09-17T03:50:17.086Z"
-    },
-    {
-      "id": "35caad846b9fe99f",
-      "title": "UPI MDR: Traders’ board member flags business impact, seeks fee withdrawal",
-      "summary": "NTWB urges Centre to withdraw 0.4% MDR on UPI transactions, citing concerns over business costs and growth.",
-      "category": "Business & Finance",
-      "image": "https://images.cnbctv18.com/uploads/2026/09/image-2026-09-bd1a9eeaef6e429646285af1981c9849.jpg?im=FitAndFill,width=1200,height=675",
-      "source": "CNBC TV18",
-      "sourceUrl": "https://www.cnbctv18.com/business/finance/upi-mdr-traders-board-member-business-impact-seeks-fee-withdrawal-19992410.htm",
-      "publishedAt": "2026-09-17T02:47:46.000Z",
-      "fetchedAt": "2026-09-17T15:07:52.649Z"
     }
   ]
 }
