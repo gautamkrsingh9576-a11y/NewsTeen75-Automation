@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-09-17T16:28:36.337Z",
+  "updatedAt": "2026-09-17T16:44:59.169Z",
   "count": 250,
   "articles": [
+    {
+      "id": "5829968e3145c706",
+      "title": "News18 India to host Jazba sports conclave in Delhi on September 18",
+      "summary": "Event will bring athletes, policymakers and industry leaders together to discuss Indian sport",
+      "category": "Sports",
+      "image": "https://indiantelevision.com/wp-content/uploads/2026/09/Jazba-1000x600.jpg",
+      "source": "Indian Television Dot Com",
+      "sourceUrl": "https://indiantelevision.com/television/news18-india-to-host-jazba-sports-conclave-in-delhi-on-september-18/",
+      "publishedAt": "2026-09-17T16:21:01.000Z",
+      "fetchedAt": "2026-09-17T16:44:42.362Z"
+    },
+    {
+      "id": "fad3146b0aa5b322",
+      "title": "India pushes back on US energy security stance after Congress tariff vote, envoy Kwatra says sourcing reflects “fundamental national responsibility”",
+      "summary": "India’s Ambassador to the United States Vinay Mohan Kwatra has laid out a strong defence of the country’s energy policy hours after the US Congress passed legislation opening the door to steep new tariffs on Indian goods over New Delhi’s purchases of Russian oil.",
+      "category": "National & Trending News",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTNkODliMGMwLWIyYjMtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
+      "source": "The Tribune",
+      "sourceUrl": "https://www.tribuneindia.com/news/usa-news/india-pushes-back-on-us-energy-security-stance-after-congress-tariff-vote-envoy-kwatra-says-sourcing-reflects-fundamental-national-responsibility/amp/?utm=relatedarticles",
+      "publishedAt": "2026-09-17T16:17:06.000Z",
+      "fetchedAt": "2026-09-17T16:44:49.939Z"
+    },
     {
       "id": "fa34c03e109685d1",
       "title": "Semicon India 2026: ASML to deepen India presence beyond Tata Electronics fab, sees $120 billion semiconductor market by 2030",
@@ -58,6 +80,17 @@
       "fetchedAt": "2026-09-17T15:54:17.589Z"
     },
     {
+      "id": "5eafb1274399005b",
+      "title": "Oil India to spend ₹15,000 cr over three years on deepwater drilling",
+      "summary": "State-run Oil India plans to drill deepwater exploration wells across the Andaman, Krishna-Godavari, Mahanadi and Kerala-Konkan sedimentary basins over three years.",
+      "category": "Business & Finance",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/17/thumb/featurecrop/1200X628/1789658469-5773.jpg",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/amp/companies/news/oil-india-to-spend-15-000-cr-over-three-years-on-deepwater-drilling-126091701359_1.html",
+      "publishedAt": "2026-09-17T15:21:30.000Z",
+      "fetchedAt": "2026-09-17T16:44:47.195Z"
+    },
+    {
       "id": "24970c233d726e39",
       "title": "Abhishek Sharma pulls off yoga celebration after smashing fastest T20I century by Indian - WATCH",
       "summary": "Abhishek Sharma celebrated his record-breaking T20I century in style on Thursday, removing his helmet, sitting on the ground and striking a meditation yoga pose after completing his hundred against Afghanistan in Delhi.",
@@ -67,6 +100,17 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/abhishek-sharma-pulls-off-yoga-celebration-after-smashing-fastest-t20i-century-by-indian-watch/articleshow/134315875.cms",
       "publishedAt": "2026-09-17T15:18:00.000Z",
       "fetchedAt": "2026-09-17T16:28:20.898Z"
+    },
+    {
+      "id": "c8e9300082e495eb",
+      "title": "Four murder cases involving minors transferred to special court in Coimbatore",
+      "summary": "Four murder cases involving minors, who were arrested in Coimbatore over the past three months, have been transferred to a special court following a preliminary assessment by the juvenile justice board (JJB).",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134315888,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "timesofindia.indiatimes.com",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/chennai/four-murder-cases-involving-minors-transferred-to-special-court-in-coimbatore/articleshow/134315882.cms",
+      "publishedAt": "2026-09-17T15:16:00.000Z",
+      "fetchedAt": "2026-09-17T16:44:39.965Z"
     },
     {
       "id": "85e7ce11fe1d6db0",
@@ -2707,50 +2751,6 @@
       "sourceUrl": "https://www.internationalaffairs.org.au/australianoutlook/canadas-economic-diversification-the-india-reset/",
       "publishedAt": "2026-09-17T03:21:34.000Z",
       "fetchedAt": "2026-09-17T15:54:11.142Z"
-    },
-    {
-      "id": "4fabbaba8517a5ae",
-      "title": "'Find a new job till...': Adidas lays off nearly 50% of its India Tech Hub workforce",
-      "summary": "'Find a new job till...': Adidas lays off nearly 50% of its India Tech Hub workforce. This update was reported by Business Today. Open the original report for full context and any developing updates.",
-      "category": "Technology",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6aab5d62e0680-the-companys-gurugram-office-houses-its-local-marketing-organisation-and-one-of-its-global-engineer-172418150-16x9.png",
-      "source": "Business Today",
-      "sourceUrl": "https://www.businesstoday.in/technology/news/story/find-a-new-job-till-adidas-india-lays-off-nearly-50-of-its-india-tech-hub-workforce-556015-2026-09-17",
-      "publishedAt": "2026-09-17T03:20:30.000Z",
-      "fetchedAt": "2026-09-17T03:35:35.466Z"
-    },
-    {
-      "id": "732140ad85bd090d",
-      "title": "Five little-known sports India will compete in at Asian Games 2026",
-      "summary": "From Teqball and Kurash to Sepak Takraw and Sport Climbing, here are five lesser-known sports India will compete in at Asian Games 2026",
-      "category": "Sports",
-      "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1tud8oigmfatv3dlmsw/1/asian-games-jpg.webp",
-      "source": "Mathrubhumi English",
-      "sourceUrl": "https://english.mathrubhumi.com/amp/sports/news/asian-games-2026-five-little-known-sports-india-cul3ewra",
-      "publishedAt": "2026-09-17T03:18:15.000Z",
-      "fetchedAt": "2026-09-17T07:46:23.243Z"
-    },
-    {
-      "id": "aef393abc6b0404e",
-      "title": "The Punch Boxing Set to Return with Its 14th Edition, Continuing Its Professional Boxing Journey in India",
-      "summary": "NEW DELHI, SEPTEMBER 2026: Professional boxing in India continues to gain momentum, with fighters increasingly looking for competitive opportunities, international exposure and meaningful professional careers. Adding to this movement is The Punch Boxing, one of India’s established professional boxing promotions, which is now gearing up for its 14th Edition. Launched…",
-      "category": "Sports",
-      "image": "https://revsportz.in/wp-content/uploads/2026/09/punch_boxing-1024x576.png",
-      "source": "Revsportz",
-      "sourceUrl": "https://revsportz.in/the-punch-boxing-set-to-return-with-its-14th-edition-continuing-its-professional-boxing-journey-in-india/",
-      "publishedAt": "2026-09-17T03:10:23.000Z",
-      "fetchedAt": "2026-09-17T04:53:00.787Z"
-    },
-    {
-      "id": "e022b2f9104fecfa",
-      "title": "Centre questions Meta's 'intermediary' status over Facebook, Instagram ads | India News",
-      "summary": "The government is increasing scrutiny on platforms and expects compliance in dealing with illegal content.",
-      "category": "Crime & Breaking News",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/17/1600x900/logo/meta_1789614511969_1wGq_1789614512653_vHsR_7227bfe2-2dd8-4414-bfc4-474a8faa75fc_oUB0.JPG",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/india-news/india-centre-questions-meta-intermediary-status-over-facebook-instagram-ads-news-101789611377669-amp.html",
-      "publishedAt": "2026-09-17T03:09:11.000Z",
-      "fetchedAt": "2026-09-17T12:44:15.089Z"
     }
   ]
 }
