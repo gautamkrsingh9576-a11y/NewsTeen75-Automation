@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-09-17T03:19:29.349Z",
-  "count": 248,
+  "updatedAt": "2026-09-17T03:35:36.104Z",
+  "count": 250,
   "articles": [
+    {
+      "id": "4fabbaba8517a5ae",
+      "title": "'Find a new job till...': Adidas lays off nearly 50% of its India Tech Hub workforce",
+      "summary": "'Find a new job till...': Adidas lays off nearly 50% of its India Tech Hub workforce. This update was reported by Business Today. Open the original report for full context and any developing updates.",
+      "category": "Technology",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6aab5d62e0680-the-companys-gurugram-office-houses-its-local-marketing-organisation-and-one-of-its-global-engineer-172418150-16x9.png",
+      "source": "Business Today",
+      "sourceUrl": "https://www.businesstoday.in/technology/news/story/find-a-new-job-till-adidas-india-lays-off-nearly-50-of-its-india-tech-hub-workforce-556015-2026-09-17",
+      "publishedAt": "2026-09-17T03:20:30.000Z",
+      "fetchedAt": "2026-09-17T03:35:35.466Z"
+    },
+    {
+      "id": "fa95499a30155b02",
+      "title": "Compound Interest: Can India upstage Korea and Taiwan for mixed team gold?",
+      "summary": "Compound Interest: Can India upstage Korea and Taiwan for mixed team gold?. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
+      "category": "Sports",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "The Indian Express",
+      "sourceUrl": "https://indianexpress.com/article/sports/compound-archery-asian-games-india-mixed-team-gold-challenge-10881447/",
+      "publishedAt": "2026-09-17T03:08:07.000Z",
+      "fetchedAt": "2026-09-17T03:35:34.174Z"
+    },
+    {
+      "id": "3bc2d082d22bac55",
+      "title": "India News Live Updates, 17 September 2026: 20-day fast ends, Maratha quota activist gives Maharashtra government 3-month deadline",
+      "summary": "India News Live Updates, 17 September 2026: 20-day fast ends, Maratha quota activist gives Maharashtra government 3-month deadline. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
+      "category": "Politics & Government",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EPolitics%20%26amp%3B%20Government%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "The Indian Express",
+      "sourceUrl": "https://indianexpress.com/article/india/breaking-news-india-live-updates-17-september-2026-manoj-jarange-maratha-quota-supreme-court-accident-imd-rain-delhi-mumbai-world-10881418/",
+      "publishedAt": "2026-09-17T03:06:27.000Z",
+      "fetchedAt": "2026-09-17T03:35:32.789Z"
+    },
     {
       "id": "089e400fa95848f9",
       "title": "Gonsalves and Beg to lead India’s teqball campaign at 2026 Asian Games",
@@ -1851,6 +1884,17 @@
       "fetchedAt": "2026-09-17T01:19:06.653Z"
     },
     {
+      "id": "a96d0295bdd0151c",
+      "title": "UP man flung in air in Greater Noida hit-and-run; was picking up birthday cake | India News",
+      "summary": "Police said the suspect, a 24-year-old management student, was arrested on September 14 for the September 5 accident",
+      "category": "Crime & Breaking News",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/16/1600x900/logo/The-September-5-accident-was-captured-on-a-CCTV-ca_1789558143685_G93V.png",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/up-man-flung-in-air-in-greater-noida-hit-and-run-was-picking-up-birthday-cake-101789558091561-amp.html",
+      "publishedAt": "2026-09-16T11:28:11.000Z",
+      "fetchedAt": "2026-09-17T03:35:33.522Z"
+    },
+    {
       "id": "1ce8b9c5efebe861",
       "title": "Forgotten Island - Official Trailer",
       "summary": "Watch the Official Trailer from English movie 'Forgotten Island' starring H.E.R., Liza Soberano, Dave Franco, Jenny Slate, Manny Jacinto and Dolly de Leon. 'Forgotten Island' movie is directed by Joel Crawford and Januel Mercado and produced by Mark Swift. To know more about 'Forgotten Island' trailer watch the video. Check…",
@@ -2707,28 +2751,6 @@
       "sourceUrl": "https://newsonair.gov.in/pm-modi-becomes-longest-serving-elected-head-of-government-in-india/",
       "publishedAt": "2026-09-15T23:54:17.000Z",
       "fetchedAt": "2026-09-16T18:03:27.603Z"
-    },
-    {
-      "id": "6badf13f3e5040c2",
-      "title": "CBI officer in RG Kar, Hathras cases assigned Disha probe",
-      "summary": "Decorated CBI officer Seema Pahuja will supervise the investigation into the Disha Salian case, bringing her expertise in handling sensitive criminal inquiries to this high-profile probe, sources said. The team is set to record statements of all individuals who attended a gathering earlier that night at the Mumbai home of…",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134275421,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/cbi-officer-in-rg-kar-hathras-cases-assigned-disha-probe/articleshow/134275412.cms",
-      "publishedAt": "2026-09-15T22:44:00.000Z",
-      "fetchedAt": "2026-09-16T19:53:31.982Z"
-    },
-    {
-      "id": "d340968019e43be9",
-      "title": "Meta agrees to report CSAM directly to Indian authorities",
-      "summary": "Meta will report child-safety matters directly to India's national cybercrime portal, the company said, amid mounting govt scrutiny over allegations that paid advertisements linked to child sexual abuse material (CSAM) appeared on Instagram.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134272989,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/meta-agrees-to-report-csam-directly-to-indian-authorities/articleshow/134272984.cms",
-      "publishedAt": "2026-09-15T20:33:00.000Z",
-      "fetchedAt": "2026-09-16T19:42:25.540Z"
     }
   ]
 }
