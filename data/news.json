@@ -1,7 +1,62 @@
 {
-  "updatedAt": "2026-09-17T09:35:30.474Z",
+  "updatedAt": "2026-09-17T09:50:20.285Z",
   "count": 250,
   "articles": [
+    {
+      "id": "542b1a292f1b5880",
+      "title": "Lam Research to Invest ₹10,000 Cr in India for Silicon Manufacturing",
+      "summary": "Lam Research to Invest ₹10,000 Cr in India for Silicon Manufacturing. This update was reported by analyticsindiamag.com. Open the original report for full context and any developing updates.",
+      "category": "Technology",
+      "image": "https://storage.googleapis.com/gpt-engineer-file-uploads/XW65pun0vjQL3xcUmVglEg4ZrsL2/social-images/social-1763560217027-Expert-Panel-discussion-768x512.webp",
+      "source": "analyticsindiamag.com",
+      "sourceUrl": "https://analyticsindiamag.com/ai-news/lam-research-to-invest-10000-cr-in-india-for-silicon-manufacturing",
+      "publishedAt": "2026-09-17T09:46:24.000Z",
+      "fetchedAt": "2026-09-17T09:50:16.091Z"
+    },
+    {
+      "id": "1c976c04e4e9de2f",
+      "title": "Rishabh Pant to lead Rest of India team in Irani Cup against Jammu and Kashmir - mid-day.com",
+      "summary": "Rishabh Pant will captain Rest of India against Ranji champions Jammu and Kashmir, while Vipraj Nigam earns a call-up following Varun Chakaravarthy`s injury",
+      "category": "Sports",
+      "image": "https://images.mid-day.com/images/images/2026/sep/pantmidday-1789638061786_d.png",
+      "source": "mid-day.com",
+      "sourceUrl": "https://www.mid-day.com/amp/sports/cricket/article/irani-cup-rishabh-pant-to-lead-rest-of-india-team-against-jammu-and-kashmir-23650472",
+      "publishedAt": "2026-09-17T09:45:00.000Z",
+      "fetchedAt": "2026-09-17T09:50:11.550Z"
+    },
+    {
+      "id": "43e057bce7a98760",
+      "title": "Adidas India layoff: Why German sportswear giant has fired engineers and data scientists",
+      "summary": "In a major round of layoffs, Adidas has reportedly slashed 20 per cent of roles in its technology team in Gurugram. Those affected include software engineers, data scientists, and data engineers",
+      "category": "Technology",
+      "image": "https://images.firstpost.com/uploads/2026/09/Untitled-design-82-2026-09-75d587c818e31affb3ab815437c56fd8-1200x675.jpg?im=FitAndFill,width=1200,height=675",
+      "source": "Firstpost",
+      "sourceUrl": "https://www.firstpost.com/explainers/adidas-india-layoff-why-german-sportswear-giant-has-fired-engineers-and-data-scientists-14046568.html",
+      "publishedAt": "2026-09-17T09:43:01.000Z",
+      "fetchedAt": "2026-09-17T09:50:15.586Z"
+    },
+    {
+      "id": "1d3af6756b6f27e1",
+      "title": "India Ke Top 1 percent: Anil Kapoor recalls missing daughter Rhea’s birth due to work, 'Still can't forgive myself' - mid-day.com",
+      "summary": "Anil Kapoor recalled missing Rhea’s birth due to work commitments and admitted he still regrets it. He called daughters Sonam and Rhea his “double bonus.”",
+      "category": "Entertainment",
+      "image": "https://images.mid-day.com/images/images/2026/sep/sjriwrere-1789637411907_d.png",
+      "source": "mid-day.com",
+      "sourceUrl": "https://www.mid-day.com/entertainment/television-news/article/india-ke-top-1-percent-anil-kapoor-reveals-how-having-a-daughter-is-a-blessing-rhea-kapoor-sonam-kapoor-23650468",
+      "publishedAt": "2026-09-17T09:36:00.000Z",
+      "fetchedAt": "2026-09-17T09:50:13.629Z"
+    },
+    {
+      "id": "59576b609e01698d",
+      "title": "India Women’s cricket schedule at Asian Games: Match date, squad, live streaming",
+      "summary": "India Women’s cricket schedule at Asian Games: Match date, squad, live streaming. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
+      "category": "Sports",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "The Indian Express",
+      "sourceUrl": "https://indianexpress.com/article/sports/cricket/india-women-cricket-schedule-asian-games-2026-squad-live-streaming-10882057/",
+      "publishedAt": "2026-09-17T09:31:07.000Z",
+      "fetchedAt": "2026-09-17T09:50:10.366Z"
+    },
     {
       "id": "f92b113dd4711af2",
       "title": "EyeROV: Indian Deep-Tech Startup Showcases its Underwater Drones to World Leaders",
@@ -45,6 +100,17 @@
       "sourceUrl": "https://indiatechnologynews.in/ltm-honoured-with-avasant-digital-masters-award-2026/",
       "publishedAt": "2026-09-17T09:02:32.000Z",
       "fetchedAt": "2026-09-17T09:19:41.301Z"
+    },
+    {
+      "id": "4f6d49295ae9da1b",
+      "title": "Brand Modi at 25: The evolution, endurance and communication strategy of Narendra Modi",
+      "summary": "Brand Modi at 25: The evolution, endurance and communication strategy of Narendra Modi. This update was reported by Exchange4Media. Open the original report for full context and any developing updates.",
+      "category": "Politics & Government",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EPolitics%20%26amp%3B%20Government%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "Exchange4Media",
+      "sourceUrl": "https://www.exchange4media.com/media-others-news/brand-modi-at-25-the-evolution-endurance-and-communication-strategy-of-narendra-modi-158326.html",
+      "publishedAt": "2026-09-17T08:56:59.000Z",
+      "fetchedAt": "2026-09-17T09:50:08.318Z"
     },
     {
       "id": "a8770b4f0e9bbeef",
@@ -2685,72 +2751,6 @@
       "sourceUrl": "https://www.sahi.com/news/capital-india-to-offer-ncds-worth-up-to-1-billion-rupees-via-private-placement",
       "publishedAt": "2026-09-16T14:18:29.000Z",
       "fetchedAt": "2026-09-16T18:03:31.256Z"
-    },
-    {
-      "id": "72fc70fcfcbc281e",
-      "title": "Watch: Jasprit Bumrah Left Clapping After Shivam Dube's Costly Misfield In 2nd India vs Afghanistan T20I",
-      "summary": "Watch: Jasprit Bumrah Left Clapping After Shivam Dube's Costly Misfield In 2nd India vs Afghanistan T20I. This update was reported by NDTV Sports. Open the original report for full context and any developing updates.",
-      "category": "Sports",
-      "image": "https://c.ndtvimg.com/2026-09/i6556qco_jasprit-bumrah-shivam-dube_625x300_16_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "source": "NDTV Sports",
-      "sourceUrl": "https://sports.ndtv.com/india-vs-afghanistan-2026/jasprit-bumrah-left-clapping-after-shivam-dubes-costly-misfield-in-2nd-india-vs-afghanistan-t20i-watch-12055447",
-      "publishedAt": "2026-09-16T14:15:45.000Z",
-      "fetchedAt": "2026-09-16T20:55:13.681Z"
-    },
-    {
-      "id": "3e85e5b6d216e78f",
-      "title": "Afreximbank’s PAPSS looks beyond Africa with China and India payment-system links early 2027",
-      "summary": "Afreximbank’s PAPSS looks beyond Africa with China and India payment-system links early 2027. This update was reported by The Africa Report. Open the original report for full context and any developing updates.",
-      "category": "Business & Finance",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EBusiness%20%26amp%3B%20Finance%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "The Africa Report",
-      "sourceUrl": "https://www.theafricareport.com/430879/afreximbanks-papss-looks-beyond-africa-with-china-and-india-payment-system-links-early-2027/",
-      "publishedAt": "2026-09-16T14:14:55.000Z",
-      "fetchedAt": "2026-09-16T20:26:57.317Z"
-    },
-    {
-      "id": "8d3c7ccf771b988d",
-      "title": "Umar Khalid Is ‘Nationalist’ says Congress Leader; ABVP opposes screening at NLSIU Bengaluru",
-      "summary": "Congress leader B.K. Hariprasad called Umar Khalid a &ldquo;nationalist&rdquo; while criticising ABVP&rsquo;s opposition to a proposed documentary screening at NLSIU, prompting a response from ABVP National Secretary Shravan B Raj, who said the group would oppose the &ldquo;glorification&rdquo; of what he called &ldquo;anti-national elements.&rdquo; Karnataka Minister Priyank Kharge questioned who…",
-      "category": "National & Trending News",
-      "image": "https://m.economictimes.com/",
-      "source": "The Economic Times",
-      "sourceUrl": "https://m.economictimes.com/news/politics-and-nation/umar-khalid-is-nationalist-says-congress-leader-abvp-opposes-screening-at-nlsiu-bengaluru/amp_videoshow/134290201.cms",
-      "publishedAt": "2026-09-16T14:14:00.000Z",
-      "fetchedAt": "2026-09-16T21:44:46.209Z"
-    },
-    {
-      "id": "e62ddd8eb0848478",
-      "title": "‘Scam dramedy’ Waiting Hai turns India’s Tatkal chaos into a crime caper",
-      "summary": "‘Scam dramedy’ Waiting Hai turns India’s Tatkal chaos into a crime caper. This update was reported by ThePrint. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
-      "category": "Entertainment",
-      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/09/waiting-hai-.jpg",
-      "source": "ThePrint",
-      "sourceUrl": "https://theprint.in/entertainment/scam-dramedy-waiting-hai-turns-indias-tatkal-chaos-into-a-crime-caper/3044695/",
-      "publishedAt": "2026-09-16T13:56:59.000Z",
-      "fetchedAt": "2026-09-16T17:50:44.649Z"
-    },
-    {
-      "id": "c4868feffc5055d1",
-      "title": "Will Pakistan come to India for Asian Champions Trophy 2026?",
-      "summary": "The Asian Champions Trophy is scheduled to take place in Mohali and Jalandhar from October 27 to November 5, with Pakistan yet to get approval to play in the tournament.",
-      "category": "Politics & Government",
-      "image": "https://ss-i.thgim.com/public/incoming/o344nl/article71472708.ece/alternates/LANDSCAPE_1200/GettyImages-1832370417.jpg",
-      "source": "Sportstar",
-      "sourceUrl": "https://sportstar.thehindu.com/hockey/pakistan-hockey-participation-in-asian-champions-trophy-in-india-awaits-goverment-clearance/article71472696.ece",
-      "publishedAt": "2026-09-16T13:50:16.000Z",
-      "fetchedAt": "2026-09-17T00:45:58.830Z"
-    },
-    {
-      "id": "428b36498fe69a16",
-      "title": "Adidas layoffs: Nearly half of India Tech Hub workforce in Gurgaon let go, says report. Who was affected?",
-      "summary": "The reported job cuts could affect roughly 45% to 50% of the hub’s workforce of around 700 employees and include software engineers, data scientists and data engineers, Wocult reported citing people familiar with the matter.",
-      "category": "Technology",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/16/1600x900/logo/adidas_1789567580806_g5dn_1789567586140_OiJG_bbc87e01-4999-4ae7-a07b-acb4b66acdb9_uSRo.png",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/companies/news/adidas-layoffs-nearly-half-of-india-tech-hub-workforce-in-gurgaon-let-go-says-report-who-was-affected-11789566213054.html",
-      "publishedAt": "2026-09-16T13:47:54.000Z",
-      "fetchedAt": "2026-09-16T18:39:47.113Z"
     }
   ]
 }
