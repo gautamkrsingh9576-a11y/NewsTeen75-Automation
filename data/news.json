@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-09-17T09:50:20.285Z",
+  "updatedAt": "2026-09-17T10:01:22.666Z",
   "count": 250,
   "articles": [
+    {
+      "id": "f1201413cc50bf90",
+      "title": "India Could Be Back On TheF1 Calendar In 2028? Sports Minister Makes Big Move",
+      "summary": "India Could Be Back On TheF1 Calendar In 2028? Sports Minister Makes Big Move. This update was reported by Sportscape Magazine. Open the original report for full context and any developing updates.",
+      "category": "Sports",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "Sportscape Magazine",
+      "sourceUrl": "https://www.sportscapemagazine.com/blog/formula-1-india-2028-f1-india-task-force",
+      "publishedAt": "2026-09-17T09:54:52.000Z",
+      "fetchedAt": "2026-09-17T10:01:14.162Z"
+    },
+    {
+      "id": "2c9b069846bf566f",
+      "title": "Afghanistan cricket players on India bond, IPL experience & Delhi’s unmatched support",
+      "summary": "Afghanistan players open up on their special bond with India, experiences in the IPL and the incredible support they continue to receive from fans in Delhi and across the country.",
+      "category": "Sports",
+      "image": "https://static.toiimg.com/thumb/msid-134307883,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "timesofindia.indiatimes.com",
+      "sourceUrl": "https://timesofindia.indiatimes.com/videos/sports/cricket/afghanistan-cricket-players-on-india-bond-ipl-experience-delhis-unmatched-support/videoshow/134307883.cms",
+      "publishedAt": "2026-09-17T09:51:29.000Z",
+      "fetchedAt": "2026-09-17T10:01:14.652Z"
+    },
+    {
+      "id": "6d3b80a1c6a635d5",
+      "title": "'Mirzapur: The Movie' crosses Rs 200 crore India nett, becomes fourth Hindi film of 2026 to reach milestone",
+      "summary": "'Mirzapur: The Movie' has crossed the Rs 200 crore India nett box office milestone, with trade analyst Taran Adarsh reporting that the film has reached Rs 203 crore in its Hindi version in its second week.",
+      "category": "Entertainment",
+      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260917094737-thumbnail-320x180-70.jpg",
+      "source": "ANI News",
+      "sourceUrl": "https://www.aninews.in/news/entertainment/bollywood/mirzapur-the-movie-crosses-rs-200-crore-india-nett-becomes-fourth-hindi-film-of-2026-to-reach-milestone20260917151753/",
+      "publishedAt": "2026-09-17T09:47:00.000Z",
+      "fetchedAt": "2026-09-17T10:01:17.205Z"
+    },
     {
       "id": "542b1a292f1b5880",
       "title": "Lam Research to Invest ₹10,000 Cr in India for Silicon Manufacturing",
@@ -34,6 +67,28 @@
       "sourceUrl": "https://www.firstpost.com/explainers/adidas-india-layoff-why-german-sportswear-giant-has-fired-engineers-and-data-scientists-14046568.html",
       "publishedAt": "2026-09-17T09:43:01.000Z",
       "fetchedAt": "2026-09-17T09:50:15.586Z"
+    },
+    {
+      "id": "42336a15d9d6f7c7",
+      "title": "Crestron Brings Next-Generation Collaboration and Intelligent AV Solutions to InfoComm India 2026",
+      "summary": "Crestron Brings Next-Generation Collaboration and Intelligent AV Solutions to InfoComm India 2026. This update was reported by India Technology News. Open the original report for full context and any developing updates.",
+      "category": "Technology",
+      "image": "https://indiatechnologynews.in/wp-content/uploads/2026/09/Crestron-Logo.png",
+      "source": "India Technology News",
+      "sourceUrl": "https://indiatechnologynews.in/crestron-brings-next-generation-collaboration-and-intelligent-av-solutions-to-infocomm-india-2026/",
+      "publishedAt": "2026-09-17T09:40:51.000Z",
+      "fetchedAt": "2026-09-17T10:01:19.270Z"
+    },
+    {
+      "id": "1d3af6756b6f27e1",
+      "title": "India Ke Top 1 percent: Anil Kapoor recalls missing daughter Rhea’s birth due to work, 'Still can't forgive myself' - Mid-Day",
+      "summary": "Anil Kapoor recalled missing Rhea’s birth due to work commitments and admitted he still regrets it. He called daughters Sonam and Rhea his “double bonus.”",
+      "category": "Entertainment",
+      "image": "https://images.mid-day.com/images/images/2026/sep/sjriwrere-1789637411907_d.png",
+      "source": "Mid-Day",
+      "sourceUrl": "https://www.mid-day.com/entertainment/television-news/article/india-ke-top-1-percent-anil-kapoor-reveals-how-having-a-daughter-is-a-blessing-rhea-kapoor-sonam-kapoor-23650468",
+      "publishedAt": "2026-09-17T09:36:00.000Z",
+      "fetchedAt": "2026-09-17T10:01:16.477Z"
     },
     {
       "id": "1d3af6756b6f27e1",
@@ -166,6 +221,17 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/science/isro-staff-not-against-pvt-cos-demand-due-process-transparency-want-strategic-missions-to-remain-under-isro/articleshow/134305965.cms",
       "publishedAt": "2026-09-17T08:20:00.000Z",
       "fetchedAt": "2026-09-17T08:34:42.398Z"
+    },
+    {
+      "id": "7a5bf81d01d28299",
+      "title": "iPhone 18 Pro to go on sale tomorrow in India, limited availability but good offers expected",
+      "summary": "Apple will open India sales for the iPhone 18 Pro and iPhone 18 Pro Max at 8 am IST on September 18.",
+      "category": "Technology",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/iphone-18-pro-prices-compared-across-india--us--uk--europe-and-dubai-markets-today-102419857-16x9.png?VersionId=mhzyp88BNTqr294BQhEa7JMSoUJg_fuL",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/amp/technology/news/story/iphone-18-pro-to-go-on-sale-tomorrow-in-india-limited-availability-but-good-offers-expected-2996666-2026-09-17",
+      "publishedAt": "2026-09-17T08:19:53.000Z",
+      "fetchedAt": "2026-09-17T10:01:19.480Z"
     },
     {
       "id": "879d201ad16bf67e",
@@ -1222,6 +1288,17 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-how-indias-arjun-erigaisi-suffered-biggest-round-1-upset-against-lower-rated-opponent/articleshow/134298445.cms",
       "publishedAt": "2026-09-17T02:07:00.000Z",
       "fetchedAt": "2026-09-17T02:34:28.016Z"
+    },
+    {
+      "id": "7b5f32ff4efce495",
+      "title": "Meta agrees to report child sexual abuse cases to Indian law enforcement amid Centre’s crackdown",
+      "summary": "Until now, Meta reported instances of child sexual abuse material only to the National Center for Missing & Exploited Children (NCMEC), a body based in the United States.",
+      "category": "Politics & Government",
+      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/08/Untitled-design-2026-08-18T144245.461.png",
+      "source": "ThePrint",
+      "sourceUrl": "https://theprint.in/india/meta-agrees-to-report-child-sexual-abuse-cases-to-indian-law-enforcement-amid-centres-crackdown/3042861/",
+      "publishedAt": "2026-09-17T02:00:05.000Z",
+      "fetchedAt": "2026-09-17T10:01:12.340Z"
     },
     {
       "id": "00c5de56e09a074a",
@@ -2674,83 +2751,6 @@
       "sourceUrl": "https://newsonair.gov.in/pm-modi-calls-for-close-collaboration-between-govt-semiconductor-industry-in-shaping-countrys-technology-future/",
       "publishedAt": "2026-09-16T14:35:25.000Z",
       "fetchedAt": "2026-09-17T02:34:41.185Z"
-    },
-    {
-      "id": "33384a88c1251904",
-      "title": "Stalin slams CM Vijay after raids at ex-DMK minister Anbil Mahesh's home: ‘Busy shooting in London | India News",
-      "summary": "MK Stalin's remarks came after raids at the residence of ex-minister Poyyamozhi's residence over bribery charges.",
-      "category": "Crime & Breaking News",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/16/1600x900/logo/ANI-20260910133-0_1789566809493_cDJJ_1789566819116_y0k4_4d08fd1c-e810-4665-af84-019d0e29d65d_PV8w.jpg",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/india-news/stalin-slams-cm-vijay-after-raids-at-ex-dmk-minister-anbil-maheshs-home-busy-shooting-in-london-101789565939345-amp.html",
-      "publishedAt": "2026-09-16T14:33:38.000Z",
-      "fetchedAt": "2026-09-17T05:24:55.420Z"
-    },
-    {
-      "id": "b1064a03f8b88043",
-      "title": "Asian Games 2026 India Full Schedule: Complete List Of Events, Dates, Timings & Venues",
-      "summary": "A total of 508 athletes (272 male and 238 female) will compete in 37 sporting events for India at the 2026 edition of Asian Games.",
-      "category": "Sports",
-      "image": "https://images.news18.com/ibnlive/uploads/2026/09/Indias-full-schedule-at-Asian-Games-2026-2026-09-1f50b9d1ecc92a6fc73ca389804ea747-1200x675.jpg",
-      "source": "News18",
-      "sourceUrl": "https://www.news18.com/sports/other-sports/asian-games-2026-india-full-schedule-complete-list-of-events-dates-timings-venues-ws-l-10334484.html",
-      "publishedAt": "2026-09-16T14:33:30.000Z",
-      "fetchedAt": "2026-09-16T18:43:08.147Z"
-    },
-    {
-      "id": "6d5e609b8e14faf3",
-      "title": "Students’ hopes, dreams shattered by callous, criminal conduct: Delhi High Court on building collapse",
-      "summary": "Students’ hopes, dreams shattered by callous, criminal conduct: Delhi High Court on building collapse. This update was reported by The Indian Express. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
-      "category": "Crime & Breaking News",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ECrime%20%26amp%3B%20Breaking%20News%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "The Indian Express",
-      "sourceUrl": "https://indianexpress.com/article/legal-news/delhi-high-court-satya-niketan-building-collapse-hostel-safety-students-dead-10881001/",
-      "publishedAt": "2026-09-16T14:33:01.000Z",
-      "fetchedAt": "2026-09-16T17:50:43.428Z"
-    },
-    {
-      "id": "5973382b2f3f36bf",
-      "title": "Student Protests, Modi, and Rahul Gandhi: Jairam Ramesh on India’s Political Mood",
-      "summary": "Student Protests, Modi, and Rahul Gandhi: Jairam Ramesh on India’s Political Mood. This update was reported by Frontline Magazine. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
-      "category": "Politics & Government",
-      "image": "https://fl-i.thgim.com/public/incoming/u46x9u/article71466409.ece/alternates/LANDSCAPE_1200/Jairam%20Ramesh.jpg",
-      "source": "Frontline Magazine",
-      "sourceUrl": "https://frontline.thehindu.com/interviews/jairam-ramesh-india-political-mood/article71466410.ece",
-      "publishedAt": "2026-09-16T14:29:20.000Z",
-      "fetchedAt": "2026-09-16T17:47:12.373Z"
-    },
-    {
-      "id": "b05ea86361b5d7c9",
-      "title": "India’s academic freedom ‘severely restricted’ under BJP government: report",
-      "summary": "A report reveals severe restrictions on academic freedom in India under the BJP government, impacting universities and scholarly expression.",
-      "category": "National & Trending News",
-      "image": "https://th-i.thgim.com/public/incoming/bqwnrr/article71473117.ece/alternates/LANDSCAPE_1200/iStock-483479827.jpg",
-      "source": "The Hindu",
-      "sourceUrl": "https://www.thehindu.com/news/national/indias-academic-freedom-severely-restricted-under-bjp-government-report/article71472166.ece",
-      "publishedAt": "2026-09-16T14:24:51.000Z",
-      "fetchedAt": "2026-09-16T21:55:28.669Z"
-    },
-    {
-      "id": "485146acadce3119",
-      "title": "PM chairs Semiconductor Roundtable with leading CEOs",
-      "summary": "PM chairs Semiconductor Roundtable with leading CEOs. This update was reported by PM India. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
-      "category": "Technology",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "PM India",
-      "sourceUrl": "https://www.pmindia.gov.in/en/news_updates/pm-chairs-semiconductor-roundtable-with-leading-ceos/?comment=disable",
-      "publishedAt": "2026-09-16T14:23:56.000Z",
-      "fetchedAt": "2026-09-16T17:50:45.305Z"
-    },
-    {
-      "id": "9074a4a85427aa29",
-      "title": "Capital India To Offer NCDs Worth Up To 1 Billion Rupees Via Private Placement",
-      "summary": "Capital India To Offer NCDs Worth Up To 1 Billion Rupees Via Private Placement. This update was reported by sahi.com. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
-      "category": "Business & Finance",
-      "image": "https://www.sahi.com/assets/uploads/2124_PE_1_CORPORATE_16_09_2026_16x9_61db663aa5.jpg",
-      "source": "sahi.com",
-      "sourceUrl": "https://www.sahi.com/news/capital-india-to-offer-ncds-worth-up-to-1-billion-rupees-via-private-placement",
-      "publishedAt": "2026-09-16T14:18:29.000Z",
-      "fetchedAt": "2026-09-16T18:03:31.256Z"
     }
   ]
 }
