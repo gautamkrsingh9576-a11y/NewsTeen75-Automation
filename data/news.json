@@ -1,7 +1,73 @@
 {
-  "updatedAt": "2026-09-17T12:00:29.924Z",
+  "updatedAt": "2026-09-17T12:24:57.299Z",
   "count": 250,
   "articles": [
+    {
+      "id": "01d816eecfec9ea5",
+      "title": "PM shares an article highlighting India Post’s transformation into a modern, technology-driven and professionally managed institution",
+      "summary": "PM shares an article highlighting India Post’s transformation into a modern, technology-driven and professionally managed institution. This update was reported by pmindia.gov.in. Open the original report for full context and any developing updates.",
+      "category": "Technology",
+      "image": "https://www.pmindia.gov.in/wp-content/uploads/2023/07/default_Thumbnails-03.jpg",
+      "source": "pmindia.gov.in",
+      "sourceUrl": "https://www.pmindia.gov.in/en/news_updates/pm-shares-an-article-highlighting-india-posts-transformation-into-a-modern-technology-driven-and-professionally-managed-institution/?comment=disable",
+      "publishedAt": "2026-09-17T12:24:04.000Z",
+      "fetchedAt": "2026-09-17T12:24:51.775Z"
+    },
+    {
+      "id": "2703e4e66d2f6701",
+      "title": "US strikes in Iran may be war crimes, Tehran crackdown crimes against humanity: UN probe",
+      "summary": "A UN fact-finding mission said it had reasonable grounds to believe the United States was behind two February strikes in Iran, on a school in Minab and a sports centre in Lamerd. The report also said the attacks amounted to war crimes and that Iran's later protest crackdown involved crimes…",
+      "category": "Crime & Breaking News",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/the-most-serious-finding-in-the-report-concerns-the-strike-on-shajareh-tayyebeh-primary-school-in-mi-171601158-16x9_0.jpg?VersionId=SIfTiYuAU16k8ASkpyRrHtgyzsWXQkji",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/amp/world/story/us-strikes-in-iran-un-report-says-minab-school-and-lamerd-sports-centre-attacks-were-war-crimes-2996955-2026-09-17",
+      "publishedAt": "2026-09-17T12:16:08.000Z",
+      "fetchedAt": "2026-09-17T12:24:46.279Z"
+    },
+    {
+      "id": "a8c50abad9e97a6e",
+      "title": "NIIT Ltd. And SPJIMR Launch Professional Certificate in FinTech Operations to Build Talent for Indias Digital Finance Ecosystem",
+      "summary": "Mumbai (Maharashtra) [India], September 17: NIIT Limited, a leading skills and talent development corporation and Bharatiya Vidya Bhavan’s S.P. Jain Institute of Management & Research (SPJIMR) have announced the launch of a Professional Certificate in FinTech Operations, designed to prepare students, graduates and early-career professionals for roles in India’s digital…",
+      "category": "Business & Finance",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTc0NzAyZjYwLWIyOTAtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
+      "source": "The Tribune",
+      "sourceUrl": "https://www.tribuneindia.com/news/business/niit-ltd-and-spjimr-launch-professional-certificate-in-fintech-operations-to-build-talent-for-indias-digital-finance-ecosystem/amp/?utm=relatedarticles",
+      "publishedAt": "2026-09-17T12:08:05.000Z",
+      "fetchedAt": "2026-09-17T12:24:56.009Z"
+    },
+    {
+      "id": "06bae6e1d4bf4530",
+      "title": "Army sepoy dies after gunshot injury at Pune’s NDA, probe underway | India News",
+      "summary": "A 46-year-old Army sepoy died days after sustaining a gunshot injury at a security post inside Pune’s National Defence Academy. Police are probing the circumstances. | India News",
+      "category": "National & Trending News",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/17/1600x900/logo/A-sepoy-posted-at-Pune-s-National-Defence-Academy-_1789646186351_v5bp.jpg",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/army-sepoy-dies-after-gunshot-injury-at-pune-s-nda-probe-underway-101789646193017.html",
+      "publishedAt": "2026-09-17T11:56:32.000Z",
+      "fetchedAt": "2026-09-17T12:24:56.826Z"
+    },
+    {
+      "id": "daaf952d343d949b",
+      "title": "Finance Ministry Rejects US Influence Claims On UPI MDR",
+      "summary": "The Finance Ministry has refuted allegations that US pressure influenced the decision to levy a 0.4 per cent Merchant Discount Rate (MDR) on select UPI payments. The ministry clarified that the NPCI guidelines prioritise RuPay credit cards on UPI to promote domestic alternatives and ensure a self-sustaining revenue model for…",
+      "category": "Business & Finance",
+      "image": "https://im.rediff.com/1200-630/money/2025/mar/25upi2.jpg",
+      "source": "Rediff",
+      "sourceUrl": "https://www.rediff.com/business/report/finmin-denies-us-pressure-on-upi-mdr-clarifies-rupay-policy/20260917.htm",
+      "publishedAt": "2026-09-17T11:56:09.000Z",
+      "fetchedAt": "2026-09-17T12:24:54.136Z"
+    },
+    {
+      "id": "71c9eb9156e6e1d0",
+      "title": "BRICS and the BJP’s Ceiling on India’s Ambition: The Case for a Grand Strategy",
+      "summary": "BRICS and the BJP’s Ceiling on India’s Ambition: The Case for a Grand Strategy. This update was reported by TheWire.in. Open the original report for full context and any developing updates.",
+      "category": "Politics & Government",
+      "image": "https://m.thewire.in/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhld2lyZS1pbi1wcm9kLXNvcnRkL21lZGlhN2MwZWFjYzAtYjI4Zi0xMWYxLWI3YzQtZDkzNjNhNjU5MGM3LmpwZw==",
+      "source": "TheWire.in",
+      "sourceUrl": "https://m.thewire.in/article/politics/brics-and-the-bjps-ceiling-on-indias-ambition",
+      "publishedAt": "2026-09-17T11:54:32.000Z",
+      "fetchedAt": "2026-09-17T12:24:43.909Z"
+    },
     {
       "id": "dfa9a7afb1da2af7",
       "title": "India seeks technology-driven competitive advantage in mining sector: Minister",
@@ -89,6 +155,17 @@
       "sourceUrl": "https://www.varindia.com/news/india-to-take-away-meta-s-intermediary-status-reclassifies-it-as-a-service-provider",
       "publishedAt": "2026-09-17T11:20:02.000Z",
       "fetchedAt": "2026-09-17T11:21:09.013Z"
+    },
+    {
+      "id": "010b418f798a6486",
+      "title": "Asian Games 2026: Complete schedule, events and venue details",
+      "summary": "Explore the Asian Games 2026 schedule, venues, key events, and India's athlete lineup for this exciting multi-sport competition.",
+      "category": "Sports",
+      "image": "https://th-i.thgim.com/public/news/national/9pqbfp/article71475805.ece/alternates/LANDSCAPE_1200/image%2018.jpg",
+      "source": "The Hindu",
+      "sourceUrl": "https://www.thehindu.com/sport/asian-games-2026-complete-schedule-events-and-venue-details/article71475763.ece",
+      "publishedAt": "2026-09-17T11:09:07.000Z",
+      "fetchedAt": "2026-09-17T12:24:47.565Z"
     },
     {
       "id": "89d77039d92b3fe6",
@@ -221,6 +298,17 @@
       "sourceUrl": "https://www.indiatoday.in/sports/asian-games/story/asian-games-2026-india-gonsalves-beg-knocked-out-teqball-group-stage-2996800-2026-09-17",
       "publishedAt": "2026-09-17T10:30:05.000Z",
       "fetchedAt": "2026-09-17T10:50:48.957Z"
+    },
+    {
+      "id": "b10838e20fcf0a58",
+      "title": "Opinion | US Has Institutionally 'Weaponised' India's Russia Oil Dependence. Can New Delhi Cope?",
+      "summary": "A new legislation can connect India's Russian energy purchases to its access to the American market over a five-year period",
+      "category": "Technology",
+      "image": "https://c.ndtvimg.com/2025-09/im3itgmo_donald-trump-reuters_625x300_04_September_25.jpeg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "source": "NDTV",
+      "sourceUrl": "https://www.ndtv.com/opinion/us-has-weaponised-indias-russia-oil-dependence-now-what-12059199",
+      "publishedAt": "2026-09-17T10:25:25.000Z",
+      "fetchedAt": "2026-09-17T12:24:53.293Z"
     },
     {
       "id": "51bc7ae20cf513f1",
@@ -630,6 +718,28 @@
       "fetchedAt": "2026-09-17T08:59:41.974Z"
     },
     {
+      "id": "1e2ab72d11e0367d",
+      "title": "India goes for big push towards self-reliance in semiconductors",
+      "summary": "India goes for big push towards self-reliance in semiconductors. This update was reported by The Shillong Times. Open the original report for full context and any developing updates.",
+      "category": "National & Trending News",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ENational%20%26amp%3B%20Trending%20News%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "The Shillong Times",
+      "sourceUrl": "https://theshillongtimes.com/2026/09/17/india-goes-for-big-push-towards-self-reliance-in-semiconductors/",
+      "publishedAt": "2026-09-17T08:40:45.000Z",
+      "fetchedAt": "2026-09-17T12:24:57.299Z"
+    },
+    {
+      "id": "71fa53b473bd6ad3",
+      "title": "Wildwood- Official Trailer​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "summary": "Watch the Official trailer​ from english​​ movie '​​​Wildwood' starring Peyton Elizabeth Lee and Jacob Tremblay. 'Wildwood' movie is directed by Travis Knight. To know more about '​​​Wildwood' trailer​ watch the video. Check out the latest english​​ trailer​s, new movie trailer​s, trending english​​ movie trailer​, and more at ETimes - Times…",
+      "category": "Entertainment",
+      "image": "https://static.toiimg.com/thumb/msid-134306320,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/videos/entertainment/english/wildwood-official-trailer/videoshow/134306320.cms",
+      "publishedAt": "2026-09-17T08:31:48.000Z",
+      "fetchedAt": "2026-09-17T12:24:49.958Z"
+    },
+    {
       "id": "21c0a9c1075710b5",
       "title": "Shri Ramayan Katha - Official Chhattisgarhi Trailer",
       "summary": "Watch the Official trailer from chhattisgarhi movie 'Shri Ramayan Katha' starring Dev Sharma, Anjali Arora. 'Shri Ramayan Katha' movie is directed by Abhishek Singh. To know more about 'Shri Ramayan Katha' trailer watch the video. Check out the latest chhattisgarhi trailers, new movie trailers, trending chhattisgarhi movie trailer, and more…",
@@ -828,6 +938,17 @@
       "fetchedAt": "2026-09-17T07:11:48.088Z"
     },
     {
+      "id": "7ae2c888484ff36f",
+      "title": "PM Modi pitches India as trusted semiconductor manufacturing destination",
+      "summary": "NEW DELHI: Prime Minister Narendra Modi on Thursday inaugurated the start of commercial production at CDIL Semiconductor’s facility in Mohali, Punjab, and Suchi",
+      "category": "Entertainment",
+      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-09-17%2F7x3vdqyo%2FPTI09172026000038B.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "The New Indian Express",
+      "sourceUrl": "https://www.newindianexpress.com/amp/story/india/2026/Sep/17/pm-modi-pitches-india-as-trusted-semiconductor-manufacturing-destination",
+      "publishedAt": "2026-09-17T07:04:00.000Z",
+      "fetchedAt": "2026-09-17T12:24:49.284Z"
+    },
+    {
       "id": "c576187ed957d28d",
       "title": "India Outsourcing Shifts Upmarket as AI Reshapes Jobs, ING Says",
       "summary": "India Outsourcing Shifts Upmarket as AI Reshapes Jobs, ING Says. This update was reported by Bloomberg.com. Open the original report for full context and any developing updates.",
@@ -991,6 +1112,17 @@
       "sourceUrl": "https://www.news18.com/photogallery/sports/page-2821/",
       "publishedAt": "2026-09-17T06:17:43.000Z",
       "fetchedAt": "2026-09-17T09:19:37.706Z"
+    },
+    {
+      "id": "04772b2de570823b",
+      "title": "Indian National Team Footballer Dalima Chhibber joins Nova Sports as Football Culture & Player Pathways Lead to help build the next generation of girls’ football in India",
+      "summary": "Indian national team footballer Dalima Chhibber has joined Nova Sports as its Football Culture & Player Pathways Lead, taking on an active, hands-on role within the Nova Football Pathway. Chhibber will contribute to the development of the Nova Football Academy curriculum and operating processes, mentor athletes and serve as a…",
+      "category": "Sports",
+      "image": "https://revsportz.in/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-17-at-11.34.53-AM.jpeg",
+      "source": "Revsportz",
+      "sourceUrl": "https://revsportz.in/indian-national-team-footballer-dalima-chhibber-joins-nova-sports-as-football-culture-player-pathways-lead-to-help-build-the-next-generation-of-girls-football-in-india/",
+      "publishedAt": "2026-09-17T06:15:32.000Z",
+      "fetchedAt": "2026-09-17T12:24:48.142Z"
     },
     {
       "id": "2b7439ad254c4cdf",
@@ -2619,138 +2751,6 @@
       "sourceUrl": "https://newsonair.gov.in/pm-modi-tops-global-popularity-rankings-with-68-approval-says-morning-consult-survey/",
       "publishedAt": "2026-09-16T17:36:06.000Z",
       "fetchedAt": "2026-09-16T19:42:39.948Z"
-    },
-    {
-      "id": "268ddeae9e55b1e3",
-      "title": "Bridging India's skills gap: National Apprenticeship Promotion Scheme faces low corporate participation",
-      "summary": "India's National Apprenticeship Promotion Scheme faces low corporate participation. Many young graduates lack practical work experience, creating a significant skills gap. Low engagement from MSMEs and startups hinders the program's overall effectiveness. Improving NAPS accessibility and support can unlock economic potential for the nation. Companies must view apprentices as long-term…",
-      "category": "National & Trending News",
-      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-113306,resizemode-75,msid-134293607/opinion/et-editorial/bridging-indias-skills-gap-national-apprenticeship-promotion-scheme-faces-low-corporate-participation.jpg",
-      "source": "The Economic Times",
-      "sourceUrl": "https://economictimes.indiatimes.com/opinion/et-editorial/bridging-indias-skills-gap-national-apprenticeship-promotion-scheme-faces-low-corporate-participation/articleshow/134293607.cms?from=mdr",
-      "publishedAt": "2026-09-16T17:34:00.000Z",
-      "fetchedAt": "2026-09-16T20:09:05.093Z"
-    },
-    {
-      "id": "29529ce8a373f9e3",
-      "title": "PM Modi Becomes Longest-Serving Elected Head of Government in India",
-      "summary": "PM Modi Becomes Longest-Serving Elected Head of Government in India. This update was reported by News On AIR. Open the original report for full context and any developing updates.",
-      "category": "Politics & Government",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EPolitics%20%26amp%3B%20Government%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "News On AIR",
-      "sourceUrl": "https://newsonair.gov.in/pm-modi-becomes-longest-serving-elected-head-of-government-in-india/",
-      "publishedAt": "2026-09-16T17:28:30.000Z",
-      "fetchedAt": "2026-09-17T04:02:01.139Z"
-    },
-    {
-      "id": "3e9ac10dee6ca9f9",
-      "title": "Adidas On India Tech Job Cuts: Impact Of Changes Is Less Than 20% Of Our India Technology Organization",
-      "summary": "Adidas On India Tech Job Cuts: Impact Of Changes Is Less Than 20% Of Our India Technology Organization. This update was reported by TradingView. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
-      "category": "Technology",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "source": "TradingView",
-      "sourceUrl": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4580AX:0-adidas-on-india-tech-job-cuts-impact-of-changes-is-less-than-20-of-our-india-technology-organization/",
-      "publishedAt": "2026-09-16T17:28:07.000Z",
-      "fetchedAt": "2026-09-16T18:03:30.609Z"
-    },
-    {
-      "id": "c8e27c9ec17fdd0e",
-      "title": "News from the world of Education: September 16, 2026",
-      "summary": "News from the world of Education: September 16, 2026. This update was reported by The Hindu. Open the original report for full context and any developing updates.",
-      "category": "National & Trending News",
-      "image": "https://th-i.thgim.com/public/education/yio6x8/article71473957.ece/alternates/LANDSCAPE_1200/28EPBS_Fillers.jpg",
-      "source": "The Hindu",
-      "sourceUrl": "https://www.thehindu.com/education/news-from-the-world-of-education-september-17-2026/article71473989.ece",
-      "publishedAt": "2026-09-16T17:26:21.000Z",
-      "fetchedAt": "2026-09-17T07:11:49.827Z"
-    },
-    {
-      "id": "c8e27c9ec17fdd0e",
-      "title": "News from the world of Education: September 17, 2026",
-      "summary": "News from the world of Education: September 17, 2026. This update was reported by The Hindu. Open the original report for full context and any developing updates.",
-      "category": "National & Trending News",
-      "image": "https://th-i.thgim.com/public/education/yio6x8/article71473957.ece/alternates/LANDSCAPE_1200/28EPBS_Fillers.jpg",
-      "source": "The Hindu",
-      "sourceUrl": "https://www.thehindu.com/education/news-from-the-world-of-education-september-17-2026/article71473989.ece",
-      "publishedAt": "2026-09-16T17:26:21.000Z",
-      "fetchedAt": "2026-09-17T06:12:57.193Z"
-    },
-    {
-      "id": "57f720c9ccc9dd8f",
-      "title": "Japanese sports goods giant Yonex acquires stake in Indian distribution partner Sunrise Sports",
-      "summary": "Yonex has positioned the Indian market as one of its priority regions as part of its medium to long-term vision &ldquo;Global Growth Strategy&rdquo;",
-      "category": "Sports",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260916171747_yonex.png",
-      "source": "Moneycontrol.com",
-      "sourceUrl": "https://www.moneycontrol.com/news/business/companies/japanese-sports-goods-giant-yonex-acquires-stake-in-indian-distribution-partner-sunrise-sports-14031469.html",
-      "publishedAt": "2026-09-16T17:18:38.000Z",
-      "fetchedAt": "2026-09-16T20:26:52.475Z"
-    },
-    {
-      "id": "82bfe96cf0c71e55",
-      "title": "Oman pitches new port that could give India better access to Gulf energy",
-      "summary": "Oman's Sohar Port offers India enhanced access to Gulf energy, benefiting from its strategic location away from conflict zones.",
-      "category": "National & Trending News",
-      "image": "https://th-i.thgim.com/public/incoming/f8yark/article71473966.ece/alternates/LANDSCAPE_1200/2026-09-16T034034Z_274723842_RC2I9NAQIP6T_RTRMADP_3_IRAN-CRISIS-SHIPPING.JPG",
-      "source": "The Hindu",
-      "sourceUrl": "https://www.thehindu.com/news/national/oman-pitches-new-port-that-could-give-india-better-access-to-gulf-energy/article71473404.ece",
-      "publishedAt": "2026-09-16T17:18:21.000Z",
-      "fetchedAt": "2026-09-16T18:43:17.926Z"
-    },
-    {
-      "id": "8dc0ba04a61bf115",
-      "title": "Team India News: Naman Dhir, Auqib Nabi Earn Maiden National Call As ODI Squad For West Indies Series Announced",
-      "summary": "The ODI series against the West Indies will start from September 27 in Thiruvananthapuram, while the T20 series will start from Lucknow from October 6.",
-      "category": "Sports",
-      "image": "https://imgs.etvbharat.com/etvbharat/prod-images/16-09-2026/1200-675-27649278-562-27649278-1789578838446.jpg",
-      "source": "ETV Bharat",
-      "sourceUrl": "https://www.etvbharat.com/amp/en/sports/team-india-news-naman-dhir-auqib-nabi-earn-maiden-national-call-as-odi-squad-for-west-indies-series-announced-enn26091606965",
-      "publishedAt": "2026-09-16T17:14:43.000Z",
-      "fetchedAt": "2026-09-16T18:56:31.002Z"
-    },
-    {
-      "id": "5ea6439d881a62e4",
-      "title": "Chinese Telegram Ring, Bank Insider & Rs 12.84 Crore: How Delhi Police's IFSO Unit Busted Mega Corporate Cy",
-      "summary": "The fraudulent scheme involved 317 unauthorised digital transactions executed directly from Hero FinCorp's corporate bank account",
-      "category": "Crime & Breaking News",
-      "image": "https://images.news18.com/ibnlive/uploads/2025/05/Untitled-design-2025-05-05T165825.003-2025-05-1ef22b3aee57b00d08572233b8cd9f45-16x9.jpg",
-      "source": "News18",
-      "sourceUrl": "https://www.news18.com/amp/india/chinese-telegram-ring-bank-insider-rs-12-84-crore-how-delhi-polices-ifso-unit-busted-mega-corporate-cyber-fraud-ws-lt-10334806.html",
-      "publishedAt": "2026-09-16T17:08:17.000Z",
-      "fetchedAt": "2026-09-16T20:08:55.573Z"
-    },
-    {
-      "id": "c4d6abc1a07c54b3",
-      "title": "India's Squad vs WI - Who's In, Who's Out: Hardik Pandya, Rishabh Pant Ignored As India Call Up Two Debutants",
-      "summary": "India's Squad vs WI - Who's In, Who's Out: Hardik Pandya, Rishabh Pant Ignored As India Call Up Two Debutants. This update was reported by NDTV Sports. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
-      "category": "Sports",
-      "image": "https://c.ndtvimg.com/2026-09/n10vhdu_hardik-pandya_625x300_01_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "source": "NDTV Sports",
-      "sourceUrl": "https://sports.ndtv.com/india-vs-west-indies-2026/indias-squad-vs-west-indies-whos-in-whos-out-hardik-pandya-rishabh-pant-ignored-as-india-call-up-two-debutants-12056250",
-      "publishedAt": "2026-09-16T17:02:23.000Z",
-      "fetchedAt": "2026-09-16T18:23:59.462Z"
-    },
-    {
-      "id": "5ccc18da25788f38",
-      "title": "CJP leader Abhijeet Dipke tears up copy of MoU between Maharashtra govt, trust over tribal hostels",
-      "summary": "Maharashtra tribal hostels row escalates as CJP leader Abhijeet Dipke tears up MoU between state govt and RSS-linked trust, alleging handover of 490 hostels to the trust without proper consultation.",
-      "category": "Politics & Government",
-      "image": "https://media.assettype.com/deccanherald%2F2026-09-16%2Fftlqa9f1%2Ffile87mi4lcq1r9mqv77b7f.jpg?rect=0%2C0%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
-      "source": "Deccan Herald",
-      "sourceUrl": "https://www.deccanherald.com/india/maharashtra/cjp-leader-abhijeet-dipke-tears-up-copy-of-mou-between-maharashtra-govt-trust-over-tribal-hostels-4148638",
-      "publishedAt": "2026-09-16T17:01:57.000Z",
-      "fetchedAt": "2026-09-16T20:08:53.962Z"
-    },
-    {
-      "id": "05f372c68537a3c2",
-      "title": "Bajaj Finance Personal Loan Interest Rates: Borrowers Can Access Loans Starting from 10% p.a.",
-      "summary": "Bajaj Finance Personal Loan Interest Rates: Borrowers Can Access Loans Starting from 10% p.a.. This update was reported by Press Trust of India. Open the original report for full context and any developing updates.",
-      "category": "Business & Finance",
-      "image": "https://www.ptinews.com/assets/images/logo.jpeg",
-      "source": "Press Trust of India",
-      "sourceUrl": "https://www.ptinews.com/story/business/bajaj-finance-personal-loan-interest-rates-borrowers-can-access-loans-starting-from-10-p-a-/4067825",
-      "publishedAt": "2026-09-16T17:00:57.000Z",
-      "fetchedAt": "2026-09-16T19:13:11.724Z"
     }
   ]
 }
