@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-17T19:19:26.968Z",
+  "updatedAt": "2026-09-17T19:32:05.543Z",
   "count": 250,
   "articles": [
+    {
+      "id": "847916727ce16fea",
+      "title": "Vaibhav Sooryavanshi will have to wait for his opportunity: Gautam Gambhir",
+      "summary": "Gautam Gambhir said Vaibhav Sooryavanshi will have to wait for his opportunity to be back in the Indian T20I team. Sooryavanshi wasn't used for a single game during the series against Afghanistan.",
+      "category": "Sports",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/vaibhav-sooryavanshi--gautam-gambhir-144402880-16x9_1.jpg?VersionId=k0MnyvS3Yy2h2OSfbNLG9wAAWBBpsQ.d",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/sports/cricket/story/gautam-gambhir-vaibhav-sooryavanshi-selection-sanju-samson-afg-vs-ind-2997266-2026-09-18",
+      "publishedAt": "2026-09-17T19:23:08.000Z",
+      "fetchedAt": "2026-09-17T19:31:58.613Z"
+    },
     {
       "id": "8b10502da71f9b72",
       "title": "NIIT Ltd. And SPJIMR Launch Professional Certificate in FinTech Operations to Build Talent for India's Digital Finance Ecosystem",
@@ -122,6 +133,17 @@
       "sourceUrl": "https://www.indiatoday.in/sports/cricket/story/india-vs-afghanistan-3rd-t20i-report-abhishek-sharma-samson-3-0-series-sweep-2997215-2026-09-17",
       "publishedAt": "2026-09-17T17:21:42.000Z",
       "fetchedAt": "2026-09-17T17:43:05.174Z"
+    },
+    {
+      "id": "475c11028d62c19e",
+      "title": "RBI absorbs ₹50,000 crore through bond sale amid liquidity surge",
+      "summary": "The central bank sold Rs 50,000 crore of government securities in the first of three OMO tranches planned for September to absorb surplus liquidity from the banking system.",
+      "category": "Business & Finance",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/17/thumb/fitandfill/1200X628/1789666620-4699.jpg",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/amp/finance/news/rbi-absorbs-50-000-cr-via-bond-sale-as-it-moves-to-drain-liquidity-126091701336_1.html",
+      "publishedAt": "2026-09-17T17:21:17.000Z",
+      "fetchedAt": "2026-09-17T19:32:03.781Z"
     },
     {
       "id": "20d8fcf051f11177",
@@ -245,6 +267,17 @@
       "fetchedAt": "2026-09-17T17:13:08.463Z"
     },
     {
+      "id": "03d6c2574ad81b1f",
+      "title": "India Has Research Strength. Why Isnt More of It Driving Innovation?",
+      "summary": "Why a country producing research across a wide range of technologies is unable to create a startup ecosystem.",
+      "category": "Technology",
+      "image": "https://m.thewire.in/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhld2lyZS1pbi1wcm9kLXNvcnRkL21lZGlhNWQ5MmM3MzAtYjJhZS0xMWYxLWI3YzQtZDkzNjNhNjU5MGM3LmpwZw==",
+      "source": "TheWire.in",
+      "sourceUrl": "https://m.thewire.in/article/education/india-has-research-strength-why-isnt-more-of-it-driving-innovation/amp?utm=relatedarticles",
+      "publishedAt": "2026-09-17T15:40:56.000Z",
+      "fetchedAt": "2026-09-17T19:32:02.210Z"
+    },
+    {
       "id": "9f3ca1587bea6816",
       "title": "Asian Games 2026 India schedule: Dates, timings, sports, venues and live streaming",
       "summary": "The opening ceremony is scheduled for September 19 at 2:30 PM IST at Nagoya City Mizuho Park Athletic Stadium, while the closing ceremony will take place at the same venue on October 4 at 3:30 PM IST. India has sent 503 athletes to the Games, with the contingent spread across…",
@@ -265,6 +298,17 @@
       "sourceUrl": "https://www.rediff.com/sports/report/aiff-announces-discounted-tickets-for-india-friendlies/20260917.htm",
       "publishedAt": "2026-09-17T15:32:31.000Z",
       "fetchedAt": "2026-09-17T15:54:15.131Z"
+    },
+    {
+      "id": "a0cc160b67267225",
+      "title": "Raksha Khadse inspects SAI Kolkata facilities, reviews athlete support systemsV",
+      "summary": "Union Minister of State for Youth Affairs and Sports Raksha Khadse visited the SAI Regional Centre in Kolkata and reviewed sports infrastructure, athlete development facilities and support systems. She interacted with athletes and coaches and chaired a review meeting with SAI officials",
+      "category": "Sports",
+      "image": "https://media.telanganatoday.com/wp-content/uploads/2026/09/Raksha-Khadse.jpg",
+      "source": "Telangana Today",
+      "sourceUrl": "https://telanganatoday.com/raksha-khadse-inspects-sai-kolkata-facilities-reviews-athlete-support-systemsv",
+      "publishedAt": "2026-09-17T15:30:21.000Z",
+      "fetchedAt": "2026-09-17T19:31:59.086Z"
     },
     {
       "id": "9ead4e63026bb5ad",
@@ -355,6 +399,17 @@
       "fetchedAt": "2026-09-17T15:41:26.416Z"
     },
     {
+      "id": "f41a75f809fb8ac1",
+      "title": "'Appeasement never pays': Congress jabs govt on US Russia sanctions Bill",
+      "summary": "Opposition accuses PM of surrendering to US pressure as Trump gets power to impose tariffs of up to 100 per cent",
+      "category": "Politics & Government",
+      "image": "https://cf-images.assettype.com/nationalherald%2F2026-09-17%2F9tlnyolp%2FDonald-trump.jpg?rect=0%2C0%2C3871%2C2032&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "National Herald",
+      "sourceUrl": "https://www.nationalheraldindia.com/amp/story/politics/appeasement-never-pays-congress-jabs-govt-on-us-russia-sanctions-bill-100-percent-tariff",
+      "publishedAt": "2026-09-17T14:57:54.000Z",
+      "fetchedAt": "2026-09-17T19:31:56.480Z"
+    },
+    {
       "id": "b3ff1695a3eb1cca",
       "title": "Abhishek Sharma Hammers 30-Ball T20I Century, Shatters Two World Records And Becomes Fastest Indian To Historic Feat",
       "summary": "Abhishek Sharma, the dashing opener, rode on nine fours and 10 sixes to slam a 30-ball century against Afghanistan",
@@ -408,6 +463,17 @@
       "sourceUrl": "https://www.indiatoday.in/sports/cricket/story/abhishek-sharma-fastest-t20i-hundred-indian-rohit-sharma-record-afg-vs-ind-2997087-2026-09-17",
       "publishedAt": "2026-09-17T14:39:12.000Z",
       "fetchedAt": "2026-09-17T15:25:43.519Z"
+    },
+    {
+      "id": "5ca5461572c9658c",
+      "title": "US strike on Minab school, anti-govt protest crackdown: UN mission flags war crimes in Iran | World News",
+      "summary": "The UN-backed mission stated it had reasonable ground to believe that US committed a war crime when it struck a school in Minab.",
+      "category": "Crime & Breaking News",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/17/1600x900/logo/IRAN-CRISIS-SCHOOL-ATTACK-1_1774610086318_1774610106006_1789652099574_uPfL_9f38c2ea-5717-4eff-9850-3541f0f2158c_6NWS.JPG",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/world-news/us-strike-on-minab-school-anti-govt-protest-crackdown-un-mission-flags-war-crimes-in-iran-human-rights-council-101789651688154-amp.html",
+      "publishedAt": "2026-09-17T14:28:52.000Z",
+      "fetchedAt": "2026-09-17T19:31:57.396Z"
     },
     {
       "id": "fb3afc695f4cc233",
@@ -562,6 +628,17 @@
       "sourceUrl": "https://www.linkedin.com/posts/cnbc-tv18_narendramodi-digitalindia-upi-activity-7506340769700491264-7ZB0",
       "publishedAt": "2026-09-17T13:18:20.000Z",
       "fetchedAt": "2026-09-17T18:13:16.292Z"
+    },
+    {
+      "id": "fb7c23015341e6dd",
+      "title": "PUT DOWN your phone: This country is paying people to read books. Know why",
+      "summary": "Singapore’s National Library Board launched the ReadSG campaign, rewarding citizens with cash-convertible virtual coins for reading 15 minutes daily to combat declining attention spans and promote long-form reading.",
+      "category": "National & Trending News",
+      "image": "https://cdn1.wionews.com/prod/wion/images/2026/20260917/image-1789650262309.png?imwidth=1200&imheight=900",
+      "source": "WION",
+      "sourceUrl": "https://www.wionews.com/trending/put-down-your-phone-this-country-is-paying-people-to-read-books-know-why-1789650012587/amp",
+      "publishedAt": "2026-09-17T13:04:00.000Z",
+      "fetchedAt": "2026-09-17T19:32:04.791Z"
     },
     {
       "id": "c129bc8a19103dd4",
@@ -2674,83 +2751,6 @@
       "sourceUrl": "https://www.cnbctv18.com/india/politics/narendra-modi-at-76-12-key-moments-in-his-25-year-political-journey-19992500.htm",
       "publishedAt": "2026-09-17T05:21:32.000Z",
       "fetchedAt": "2026-09-17T05:40:39.568Z"
-    },
-    {
-      "id": "872a97f696a38862",
-      "title": "Steamhouse India jumps on debut",
-      "summary": "Shares of Steamhouse India were currently trading at Rs 98.33 at 10:15 IST on the BSE, representing a premium of 21.37% as compared with the issue price of Rs 81.",
-      "category": "Business & Finance",
-      "image": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/amp/markets/capital-market-news/steamhouse-india-jumps-on-debut-126091700289_1.html",
-      "publishedAt": "2026-09-17T05:20:32.000Z",
-      "fetchedAt": "2026-09-17T08:34:45.293Z"
-    },
-    {
-      "id": "ae7afa2655423ba7",
-      "title": "Home First Finance Company India allots 3,681 equity shares under ESOP - business-standard.com",
-      "summary": "The paid-up share capital of the company has accordingly increased from Rs. 20,91,18,922 consisting of 10,45,59,461 equity shares having a face value of Rs. 2/- each to Rs 20,91,26,284 consisting of 10,45,63,142 equity shares having a face value of Rs. 2/- each.",
-      "category": "Business & Finance",
-      "image": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
-      "source": "business-standard.com",
-      "sourceUrl": "https://www.business-standard.com/amp/markets/capital-market-news/home-first-finance-company-india-allots-3-681-equity-shares-under-esop-126091700287_1.html",
-      "publishedAt": "2026-09-17T05:20:17.000Z",
-      "fetchedAt": "2026-09-17T08:59:45.126Z"
-    },
-    {
-      "id": "ae7afa2655423ba7",
-      "title": "Home First Finance Company India allots 3,681 equity shares under ESOP",
-      "summary": "The paid-up share capital of the company has accordingly increased from Rs. 20,91,18,922 consisting of 10,45,59,461 equity shares having a face value of Rs. 2/- each to Rs 20,91,26,284 consisting of 10,45,63,142 equity shares having a face value of Rs. 2/- each.",
-      "category": "Business & Finance",
-      "image": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/amp/markets/capital-market-news/home-first-finance-company-india-allots-3-681-equity-shares-under-esop-126091700287_1.html",
-      "publishedAt": "2026-09-17T05:20:17.000Z",
-      "fetchedAt": "2026-09-17T06:54:14.571Z"
-    },
-    {
-      "id": "8a951df8f6205569",
-      "title": "India, US discuss nuclear expansion, power needs for AI and data centres",
-      "summary": "New Delhi/ Houston: The Union Power Minister Manohar Lal has discussed India’s nuclear energy expansion plans and the rapidly growing electricity requirements o",
-      "category": "Technology",
-      "image": "https://media.assettype.com/psuwatch%2F2026-09-17%2Fb1y630ae%2FIndia-US-discuss-nuclear-expansion-power-needs-for-AI-and-data-centres.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "source": "PSU Watch",
-      "sourceUrl": "https://psuwatch.com/newsupdates/india-us-discuss-nuclear-expansion-power-needs-for-ai-and-data-centres",
-      "publishedAt": "2026-09-17T05:17:15.000Z",
-      "fetchedAt": "2026-09-17T08:59:44.583Z"
-    },
-    {
-      "id": "1346275a75d6b136",
-      "title": "'Will protect trade, economic interests': India committed to energy security, says MEA amid US tariff threat",
-      "summary": "India on Thursday said it will take all necessary steps to safeguard its economic interests and energy security after the US House of Representatives passed a b",
-      "category": "Entertainment",
-      "image": "https://cf-images.assettype.com/newindianexpress%2F2025-03-08%2Flukjywlc%2FModi-Trump-meet.jpg?rect=0%2C0%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "source": "The New Indian Express",
-      "sourceUrl": "https://www.newindianexpress.com/amp/story/india/2026/Sep/17/will-protect-trade-economic-interests-india-committed-to-energy-security-says-mea-amid-us-tariff-threat",
-      "publishedAt": "2026-09-17T05:12:00.000Z",
-      "fetchedAt": "2026-09-17T11:35:36.659Z"
-    },
-    {
-      "id": "325daf02a0039f5f",
-      "title": "Akshay Kumar, Anupam Kher, film fraternity wish PM Modi on birthday",
-      "summary": "Prime Minister Narendra Modi is celebrating his 76th birthday on Thursday, and several celebrities from the Indian entertainment industry took to X to extend their wishes.",
-      "category": "Entertainment",
-      "image": "https://www.awazthevoice.in/upload/news/1789621868ANI-20260917045747.webp",
-      "source": "Awaz The Voice",
-      "sourceUrl": "https://www.awazthevoice.in/india-news/akshay-kumar-anupam-kher-film-fraternity-wish-pm-modi-on-birthday-67775.html",
-      "publishedAt": "2026-09-17T05:11:08.000Z",
-      "fetchedAt": "2026-09-17T07:46:26.001Z"
-    },
-    {
-      "id": "9ddc21d243599d14",
-      "title": "Syrma SGS, Kaynes Tech, Dixon Shares Rally: Semiconductor Stocks In Focus As SEMICON India Begins",
-      "summary": "The moves come as the fifth edition of SEMICON India opens in New Delhi. Prime Minister Narendra Modi is scheduled to inaugurate the three-day event.",
-      "category": "Technology",
-      "image": "https://c.ndtvimg.com/2026-07/l0vnbgg4_v_625x300_09_July_26.png?im=FitAndFill,algorithm=dnn,width=1600,height=900",
-      "source": "NDTV Profit",
-      "sourceUrl": "https://www.ndtvprofit.com/markets/syrma-sgs-kaynes-technology-dixon-shares-rally-semiconductor-stocks-in-focus-as-semicon-india-begins-12057804",
-      "publishedAt": "2026-09-17T05:10:19.000Z",
-      "fetchedAt": "2026-09-17T05:24:59.128Z"
     }
   ]
 }
