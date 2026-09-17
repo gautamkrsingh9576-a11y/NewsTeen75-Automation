@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-17T00:25:46.016Z",
-  "count": 221,
+  "updatedAt": "2026-09-17T00:46:01.956Z",
+  "count": 223,
   "articles": [
     {
       "id": "748b12c336de08a3",
@@ -1158,6 +1158,17 @@
       "fetchedAt": "2026-09-16T17:50:44.649Z"
     },
     {
+      "id": "c4868feffc5055d1",
+      "title": "Will Pakistan come to India for Asian Champions Trophy 2026?",
+      "summary": "The Asian Champions Trophy is scheduled to take place in Mohali and Jalandhar from October 27 to November 5, with Pakistan yet to get approval to play in the tournament.",
+      "category": "Politics & Government",
+      "image": "https://ss-i.thgim.com/public/incoming/o344nl/article71472708.ece/alternates/LANDSCAPE_1200/GettyImages-1832370417.jpg",
+      "source": "Sportstar",
+      "sourceUrl": "https://sportstar.thehindu.com/hockey/pakistan-hockey-participation-in-asian-champions-trophy-in-india-awaits-goverment-clearance/article71472696.ece",
+      "publishedAt": "2026-09-16T13:50:16.000Z",
+      "fetchedAt": "2026-09-17T00:45:58.830Z"
+    },
+    {
       "id": "428b36498fe69a16",
       "title": "Adidas layoffs: Nearly half of India Tech Hub workforce in Gurgaon let go, says report. Who was affected?",
       "summary": "The reported job cuts could affect roughly 45% to 50% of the hub’s workforce of around 700 employees and include software engineers, data scientists and data engineers, Wocult reported citing people familiar with the matter.",
@@ -2102,6 +2113,17 @@
       "sourceUrl": "https://www.indiatoday.in/entertainment/ott/story/toxic-ott-release-when-and-where-to-watch-yashs-film-after-box-office-disaster-2995679-2026-09-16",
       "publishedAt": "2026-09-16T06:21:03.000Z",
       "fetchedAt": "2026-09-16T20:55:16.172Z"
+    },
+    {
+      "id": "fb3712b3145df4c3",
+      "title": "Mirzapur Box Office Collection Day 12: Ali Fazal Film Is On The Threshold Of Rs 200 Crore In India",
+      "summary": "The net collection of the film in India stands at Rs 195.70 crore so far, while the gross stands at Rs 233.14 crore.",
+      "category": "Entertainment",
+      "image": "https://c.ndtvimg.com/2026-09/pbech4mg_ali-fazal-_625x300_16_September_26.jpeg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+      "source": "NDTV",
+      "sourceUrl": "https://www.ndtv.com/entertainment/mirzapur-box-office-collection-day-12-ali-fazal-film-is-on-the-threshold-of-rs-200-crore-in-india-12052931",
+      "publishedAt": "2026-09-16T06:06:37.000Z",
+      "fetchedAt": "2026-09-17T00:46:00.818Z"
     },
     {
       "id": "23c015e9b994d185",
