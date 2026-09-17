@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-17T01:19:08.241Z",
-  "count": 226,
+  "updatedAt": "2026-09-17T01:33:39.260Z",
+  "count": 229,
   "articles": [
+    {
+      "id": "fa7a2b4ab55141a0",
+      "title": "Modi @76. And he never had it easy",
+      "summary": "Prime Minister Narendra Modi turns 76 today, and 2026 has been described by many as one of the toughest years of his political career. But a look at his journey tells a different story. His is a story that has rarely seen an easy chapter. The pattern and outcome have…",
+      "category": "Politics & Government",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/pm-modi-birthday-160858593-16x9_0.jpg?VersionId=KDF48PObKzCbiMM3Qcd0.rGUALmdN2hq",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/amp/india/story/pm-modi-birthday-76-years-age-rss-bjp-gujarat-cm-prime-minister-great-challenges-2996136-2026-09-17",
+      "publishedAt": "2026-09-17T01:30:00.000Z",
+      "fetchedAt": "2026-09-17T01:33:34.581Z"
+    },
     {
       "id": "7bf9d203f579936e",
       "title": "Football on a curved table, wrestling without groundwork: Five little-known sports India will compete in",
@@ -45,6 +56,17 @@
       "sourceUrl": "https://www.thehindu.com/news/international/us-house-passes-russia-sanctions-bill-india-tariffs/article71474350.ece",
       "publishedAt": "2026-09-16T23:12:59.000Z",
       "fetchedAt": "2026-09-16T23:38:07.043Z"
+    },
+    {
+      "id": "7d9f9a8e1c48d28b",
+      "title": "India women follow men’s team’s lead, refuse Asia Cup trophy from Naqvi",
+      "summary": "The episode closely mirrored last year’s men’s Asia Cup final at the same venue, when India also declined to accept the trophy from Naqvi.",
+      "category": "Sports",
+      "image": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-09/India-Naqvi.jpg",
+      "source": "thedailystar.net",
+      "sourceUrl": "https://www.thedailystar.net/sports/cricket/news/india-women-follow-mens-teams-lead-refuse-asia-cup-trophy-naqvi-4272396",
+      "publishedAt": "2026-09-16T23:09:23.000Z",
+      "fetchedAt": "2026-09-17T01:33:37.627Z"
     },
     {
       "id": "393b29ec1fc4ab4a",
@@ -254,6 +276,17 @@
       "sourceUrl": "https://www.business-standard.com/amp/finance/news/govt-holds-firm-on-upi-mdr-as-opposition-mounts-pressure-for-rollback-126091601240_1.html",
       "publishedAt": "2026-09-16T18:41:14.000Z",
       "fetchedAt": "2026-09-16T20:43:08.879Z"
+    },
+    {
+      "id": "8b501060e6bc44df",
+      "title": "PM Modi turns 76: The making of India’s longest-serving prime minister over 25 years | India News",
+      "summary": "On October 7, he will complete 25 years in public service – of which he’s spent 4,495 days as India’s longest continuously-serving elected prime minister | India News",
+      "category": "Politics & Government",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/17/1600x900/logo/--0_1789606339940_H1dA_1789606365557_6QZg_47cc3d22-7b4a-40c3-8a11-9a40c41b5442_OC7B.jpg",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/25-years-of-modi-the-making-of-a-political-force-101789583959262.html",
+      "publishedAt": "2026-09-16T18:39:18.000Z",
+      "fetchedAt": "2026-09-17T01:33:34.930Z"
     },
     {
       "id": "8b501060e6bc44df",
