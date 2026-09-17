@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-17T09:19:45.727Z",
+  "updatedAt": "2026-09-17T09:35:30.474Z",
   "count": 250,
   "articles": [
+    {
+      "id": "f92b113dd4711af2",
+      "title": "EyeROV: Indian Deep-Tech Startup Showcases its Underwater Drones to World Leaders",
+      "summary": "EyeROV: Indian Deep-Tech Startup Showcases its Underwater Drones to World Leaders. This update was reported by Yahoo! Finance Canada. Open the original report for full context and any developing updates.",
+      "category": "Technology",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "Yahoo! Finance Canada",
+      "sourceUrl": "https://ca.finance.yahoo.com/news/eyerov-indian-deep-tech-startup-092100760.html",
+      "publishedAt": "2026-09-17T09:21:00.000Z",
+      "fetchedAt": "2026-09-17T09:35:23.254Z"
+    },
     {
       "id": "dd95bca15ed15af1",
       "title": "Giottus launches India’s largest funded wallet challenge",
@@ -12,6 +23,17 @@
       "sourceUrl": "https://indiatechnologynews.in/giottus-launches-indias-largest-funded-wallet-challenge/",
       "publishedAt": "2026-09-17T09:13:29.000Z",
       "fetchedAt": "2026-09-17T09:19:40.851Z"
+    },
+    {
+      "id": "4bc575cadce8bd78",
+      "title": "Video | Closing India's Counter-Drone Gap with 100% Indigenous Tech",
+      "summary": "As hostile drone swarms and GPS-spoofed UAVs threaten India&rsquo;s borders, DroneVerse is closing the counter-drone gap. Serving defense forces and critical infrastructure, its indigenous systems - like GANDIVA and TRISHUL&mdash;cover the full kill chain from detection to neutralization with zero Chinese components.",
+      "category": "Technology",
+      "image": "https://c.ndtvimg.com/dmx-images/video/images/vod/medium/2026-09/droneversefinal_201481_110259_5000_hd_big_thumb.jpg?downsize=1600:900",
+      "source": "ndtvprofit.com",
+      "sourceUrl": "https://www.ndtvprofit.com/videos/business/closing-india-s-counter-drone-gap-with-100-indigenous-tech-1159576",
+      "publishedAt": "2026-09-17T09:09:32.000Z",
+      "fetchedAt": "2026-09-17T09:35:25.519Z"
     },
     {
       "id": "b89a06c421947d58",
@@ -34,6 +56,17 @@
       "sourceUrl": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/india-s-clean-energy-push-hits-a-milestone-coal-power-sees-no-growth-for-first-time-in-50-years-14031996.html",
       "publishedAt": "2026-09-17T08:49:07.000Z",
       "fetchedAt": "2026-09-17T09:19:44.959Z"
+    },
+    {
+      "id": "93136094e3bda320",
+      "title": "Death of tribal children in Balaghat: Rahul calls MP govt India’s most corrupt, incompetent",
+      "summary": "New Delhi, Sep 17 (PTI) Congress leader Rahul Gandhi on Thursday launched a blistering attack on the BJP government in Madhya Pradesh over the death of more than 30 tribal children due to various diseases in Balaghat district, claiming that the state government is India’s most corrupt and incompetent. Gandhi…",
+      "category": "Politics & Government",
+      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
+      "source": "theprint.in",
+      "sourceUrl": "https://theprint.in/india/death-of-tribal-children-in-balaghat-rahul-calls-mp-govt-indias-most-corrupt-incompetent/3045343/",
+      "publishedAt": "2026-09-17T08:46:38.000Z",
+      "fetchedAt": "2026-09-17T09:35:16.646Z"
     },
     {
       "id": "d556531f1b5814e8",
@@ -2718,39 +2751,6 @@
       "sourceUrl": "https://www.livemint.com/companies/news/adidas-layoffs-nearly-half-of-india-tech-hub-workforce-in-gurgaon-let-go-says-report-who-was-affected-11789566213054.html",
       "publishedAt": "2026-09-16T13:47:54.000Z",
       "fetchedAt": "2026-09-16T18:39:47.113Z"
-    },
-    {
-      "id": "3a4c2c9f3836eabd",
-      "title": "Chess Olympiad chaos: FIDE promises reimbursement after India lodging woes",
-      "summary": "FIDE has promised to reimburse teams after accommodation failures left India and others without proper rooms in Samarkand. The episode exposed fresh organisational lapses before the Chess Olympiad, even as the governing body blamed the local committee and moved to limit the damage.",
-      "category": "Sports",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/gukesh--r-praggnanandha--srinath-narayanan-15290670-16x9_1.jpeg?VersionId=_KA.RM8HcTAPe2Y0sRHB4Ox45fNa3sn8",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/sports/other-sports/story/chess-olympiad-accommodation-chaos-fide-reimburse-india-teams-samarkand-2996117-2026-09-16",
-      "publishedAt": "2026-09-16T13:44:23.000Z",
-      "fetchedAt": "2026-09-16T19:13:06.426Z"
-    },
-    {
-      "id": "e25a12de76dc1454",
-      "title": "Ramoji Film City's Edge Lies In Transparency, Trust And Efficiency: Ch. Kiron And Ch. Vijayeswari At TIFF",
-      "summary": "Ramoji Film City's Edge Lies In Transparency, Trust And Efficiency: Ch. Kiron And Ch. Vijayeswari At TIFF. This update was reported by ETV Bharat. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
-      "category": "Entertainment",
-      "image": "https://imgs.etvbharat.com/etvbharat/prod-images/16-09-2026/1200-675-27647648-681-27647648-1789564517439.jpg",
-      "source": "ETV Bharat",
-      "sourceUrl": "https://www.etvbharat.com/amp/en/entertainment/ramoji-film-citys-edge-lies-in-transparency-trust-and-efficiency-ch-kiron-and-ch-vijayeswari-at-tiff-enn26091605335",
-      "publishedAt": "2026-09-16T13:34:24.000Z",
-      "fetchedAt": "2026-09-16T17:47:15.663Z"
-    },
-    {
-      "id": "fa833cd7915f858c",
-      "title": "Government reconstitutes CBFC board: Preity Zinta, Roopali Ganguly, Pallavi Joshi, Pankaj Tripathi among",
-      "summary": "The Information and Broadcasting Ministry on Wednesday announced the reconstitution of the Central Board of Film Certification (CBFC), with an 18-member board featuring several well-known names from the film and entertainment industry. The new panel includes actors Preity Zinta, Suniel Shetty, Roopali Ganguly, Pallavi Joshi, Pankaj Tripathi and Prosenjit Chatterjee,…",
-      "category": "Entertainment",
-      "image": "https://static.toiimg.com/thumb/msid-134289271,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/cbfc-reconstitutes-board-preity-zinta-roopali-ganguly-pallavi-joshi-pankaj-tripathi-join-the-new-18-member-committee/articleshow/134289104.cms",
-      "publishedAt": "2026-09-16T13:29:00.000Z",
-      "fetchedAt": "2026-09-17T08:34:41.526Z"
     }
   ]
 }
