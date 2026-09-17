@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-17T22:42:43.531Z",
+  "updatedAt": "2026-09-17T22:53:45.393Z",
   "count": 250,
   "articles": [
+    {
+      "id": "3bf1d5a863f646d7",
+      "title": "India, Vietnam Step Up Defence, Trade And Technology Cooperation",
+      "summary": "India, Vietnam Step Up Defence, Trade And Technology Cooperation. This update was reported by BW Businessworld. Open the original report for full context and any developing updates.",
+      "category": "Technology",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "BW Businessworld",
+      "sourceUrl": "https://www.businessworld.in/article/india-vietnam-step-up-defence-trade-and-technology-cooperation-623749",
+      "publishedAt": "2026-09-17T22:42:42.000Z",
+      "fetchedAt": "2026-09-17T22:53:41.764Z"
+    },
     {
       "id": "e96f922bf424d7b0",
       "title": "Asian Games 2026: Cricket, hockey expected to be favourites to bring in gold",
@@ -2740,17 +2751,6 @@
       "sourceUrl": "https://www.newindianexpress.com/amp/story/india/2026/Sep/17/pm-modi-pitches-india-as-trusted-semiconductor-manufacturing-destination",
       "publishedAt": "2026-09-17T07:04:00.000Z",
       "fetchedAt": "2026-09-17T12:24:49.284Z"
-    },
-    {
-      "id": "c576187ed957d28d",
-      "title": "India Outsourcing Shifts Upmarket as AI Reshapes Jobs, ING Says",
-      "summary": "India Outsourcing Shifts Upmarket as AI Reshapes Jobs, ING Says. This update was reported by Bloomberg.com. Open the original report for full context and any developing updates.",
-      "category": "Technology",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "Bloomberg.com",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-17/india-outsourcing-shifts-upmarket-as-ai-reshapes-jobs-ing-says",
-      "publishedAt": "2026-09-17T06:59:00.000Z",
-      "fetchedAt": "2026-09-17T07:30:05.341Z"
     }
   ]
 }
