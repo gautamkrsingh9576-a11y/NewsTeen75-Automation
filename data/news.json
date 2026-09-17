@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-17T05:07:37.365Z",
+  "updatedAt": "2026-09-17T05:25:01.405Z",
   "count": 250,
   "articles": [
+    {
+      "id": "9ddc21d243599d14",
+      "title": "Syrma SGS, Kaynes Tech, Dixon Shares Rally: Semiconductor Stocks In Focus As SEMICON India Begins",
+      "summary": "The moves come as the fifth edition of SEMICON India opens in New Delhi. Prime Minister Narendra Modi is scheduled to inaugurate the three-day event.",
+      "category": "Technology",
+      "image": "https://c.ndtvimg.com/2026-07/l0vnbgg4_v_625x300_09_July_26.png?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "source": "NDTV Profit",
+      "sourceUrl": "https://www.ndtvprofit.com/markets/syrma-sgs-kaynes-technology-dixon-shares-rally-semiconductor-stocks-in-focus-as-semicon-india-begins-12057804",
+      "publishedAt": "2026-09-17T05:10:19.000Z",
+      "fetchedAt": "2026-09-17T05:24:59.128Z"
+    },
     {
       "id": "b31a3b1b569b2aa3",
       "title": "Littelfuse Highlights India Growth Priorities at electronica India 2026",
@@ -23,6 +34,17 @@
       "sourceUrl": "https://www.peoplematters.in/news/economy-policy/india-should-aspire-to-be-among-early-leaders-in-emerging-tech-pm-narendra-modi-52141",
       "publishedAt": "2026-09-17T04:41:15.000Z",
       "fetchedAt": "2026-09-17T04:53:06.264Z"
+    },
+    {
+      "id": "a6bd28f69ee05be6",
+      "title": "Manoj Jarange ends 20-day fast, vows to resume if govt doesn't ‘fulfil promise’",
+      "summary": "This comes a day after he said he will resume his journey to Mumbai to stage an agitation on Thursday afternoon. | India News",
+      "category": "Politics & Government",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/17/1600x900/PTI09-14-2026-000255B-0_1789610304562_Ha5L_1789610318701_1R4b_da32f9fc-ef75-473c-8023-d64580aafb00_p7y5.jpg",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/maratha-quota-activist-manoj-jarange-patil-ends-fast-strike-maharashtra-govt-3-months-to-consider-demands-mumbai-protest-101789609974243.html",
+      "publishedAt": "2026-09-17T04:37:46.000Z",
+      "fetchedAt": "2026-09-17T05:24:54.050Z"
     },
     {
       "id": "47a6c3380fe122d6",
@@ -133,6 +155,17 @@
       "sourceUrl": "https://www.hindustantimes.com/india-news/fake-alert-mea-denies-reports-of-world-leaders-falling-sick-after-brics-summit-xi-jinping-ill-101789616239196-amp.html",
       "publishedAt": "2026-09-17T03:41:10.000Z",
       "fetchedAt": "2026-09-17T05:07:28.472Z"
+    },
+    {
+      "id": "a2102550e9d7a75d",
+      "title": "Beyond GCC: How Woodside Is Building Its Bengaluru Global Hub",
+      "summary": "Woodside Energy is building its Bengaluru centre as more than a conventional GCC, bringing together technology, digital, finance and operations capabilities while using AI with a strong focus on business outcomes, cybersecurity and human oversight.",
+      "category": "Technology",
+      "image": "https://www.deccanchronicle.com/h-upload/2026/09/17/2089863-enegry-1.jpg",
+      "source": "Deccan Chronicle",
+      "sourceUrl": "https://www.deccanchronicle.com/amp/technology/ai-with-humans-in-the-loop-inside-woodsides-bengaluru-technology-hub-1988081",
+      "publishedAt": "2026-09-17T03:36:03.000Z",
+      "fetchedAt": "2026-09-17T05:25:00.091Z"
     },
     {
       "id": "1f7fe1f887ad07a8",
@@ -276,6 +309,17 @@
       "sourceUrl": "https://www.internationalaffairs.org.au/australianoutlook/canadas-economic-diversification-the-india-reset/",
       "publishedAt": "2026-09-17T02:21:46.000Z",
       "fetchedAt": "2026-09-17T02:34:15.125Z"
+    },
+    {
+      "id": "4225c483c1eaf8bb",
+      "title": "Preity Zinta, Priyadarshan, Pankaj Tripathi, Suniel Shetty join reconstituted CBFC",
+      "summary": "The panel brings together professionals from cinema, TV, music, literature and theatre",
+      "category": "Entertainment",
+      "image": "https://media.assettype.com/gulfnews%2F2026-09-16%2Fxf8rk5yh%2FCOMBO-NEWS.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "Gulf News",
+      "sourceUrl": "https://gulfnews.com/entertainment/bollywood/preity-zinta-priyadarshan-pankaj-tripathi-suniel-shetty-join-reconstituted-cbfc-1.500677474",
+      "publishedAt": "2026-09-17T02:19:00.000Z",
+      "fetchedAt": "2026-09-17T05:24:56.748Z"
     },
     {
       "id": "72110967cdf2d02b",
@@ -707,6 +751,17 @@
       "fetchedAt": "2026-09-16T21:12:02.975Z"
     },
     {
+      "id": "57f6e4a3dd1abf0b",
+      "title": "Beyond Mobile Money: How India’s UPI could transform Uganda’s financial system",
+      "summary": "Beyond Mobile Money: How India’s UPI could transform Uganda’s financial system. This update was reported by Daily Monitor. Open the original report for full context and any developing updates.",
+      "category": "Business & Finance",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EBusiness%20%26amp%3B%20Finance%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "Daily Monitor",
+      "sourceUrl": "https://www.monitor.co.ug/uganda/business/finance/beyond-mobile-money-how-india-s-upi-could-transform-uganda-s-financial-system-5597868",
+      "publishedAt": "2026-09-16T18:51:08.000Z",
+      "fetchedAt": "2026-09-17T05:25:00.718Z"
+    },
+    {
       "id": "9a4c2e3108e08f28",
       "title": "Adidas cuts technology roles in India to simplify operations",
       "summary": "Adidas has reduced roles in its India technology team as part of efforts to simplify operations, with the impact below 20% of the organisation.",
@@ -771,6 +826,17 @@
       "sourceUrl": "https://www.business-standard.com/amp/finance/news/govt-holds-firm-on-upi-mdr-as-opposition-mounts-pressure-for-rollback-126091601240_1.html",
       "publishedAt": "2026-09-16T18:41:14.000Z",
       "fetchedAt": "2026-09-16T20:43:08.879Z"
+    },
+    {
+      "id": "8b501060e6bc44df",
+      "title": "PM Modi turns 76: 25 years in power that transformed India's political landscape | India News",
+      "summary": "On October 7, he will complete 25 years in public service – of which he’s spent 4,495 days as India’s longest continuously-serving elected prime minister | India News",
+      "category": "Politics & Government",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/17/1600x900/logo/Image_1789578389764_UkOE_1789578397659_zmLW_b4f261_1789619598043_VW6s_1789619598176_MJV5_d9607ef5-1e89-4c56-98ff-a5d455b0cd28_Xftx.jpg",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/25-years-of-modi-the-making-of-a-political-force-101789583959262.html",
+      "publishedAt": "2026-09-16T18:39:18.000Z",
+      "fetchedAt": "2026-09-17T05:24:52.474Z"
     },
     {
       "id": "8b501060e6bc44df",
@@ -1664,6 +1730,17 @@
       "fetchedAt": "2026-09-17T02:34:41.185Z"
     },
     {
+      "id": "33384a88c1251904",
+      "title": "Stalin slams CM Vijay after raids at ex-DMK minister Anbil Mahesh's home: ‘Busy shooting in London | India News",
+      "summary": "MK Stalin's remarks came after raids at the residence of ex-minister Poyyamozhi's residence over bribery charges.",
+      "category": "Crime & Breaking News",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/16/1600x900/logo/ANI-20260910133-0_1789566809493_cDJJ_1789566819116_y0k4_4d08fd1c-e810-4665-af84-019d0e29d65d_PV8w.jpg",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/stalin-slams-cm-vijay-after-raids-at-ex-dmk-minister-anbil-maheshs-home-busy-shooting-in-london-101789565939345-amp.html",
+      "publishedAt": "2026-09-16T14:33:38.000Z",
+      "fetchedAt": "2026-09-17T05:24:55.420Z"
+    },
+    {
       "id": "b1064a03f8b88043",
       "title": "Asian Games 2026 India Full Schedule: Complete List Of Events, Dates, Timings & Venues",
       "summary": "A total of 508 athletes (272 male and 238 female) will compete in 37 sporting events for India at the 2026 edition of Asian Games.",
@@ -2280,6 +2357,17 @@
       "fetchedAt": "2026-09-16T21:28:55.978Z"
     },
     {
+      "id": "820a131b25c3adcc",
+      "title": "Today News Headlines for School Assembly, September 17, 2026: 700 trees chopped off for stadium in Madhya Pradesh; asked to plant 7,000 as compensation",
+      "summary": "Today News Headlines for School Assembly, September 17, 2026: 700 trees chopped off for stadium in Madhya Pradesh; asked to plant 7,000 as compensation. This update was reported by indianexpress.com. Open the original report for full context and any developing updates.",
+      "category": "National & Trending News",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ENational%20%26amp%3B%20Trending%20News%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "indianexpress.com",
+      "sourceUrl": "https://indianexpress.com/article/education/today-news-headlines-for-school-assembly-september-17-2026-india-summons-paks-charge-daffaires-over-naval-ship-collision-10880060/",
+      "publishedAt": "2026-09-16T11:14:16.000Z",
+      "fetchedAt": "2026-09-17T05:25:01.405Z"
+    },
+    {
       "id": "30696d6d68940f5c",
       "title": "Today News Headlines for School Assembly, September 17, 2026: India summons Pakistan envoy over naval ship collision",
       "summary": "Today News Headlines for School Assembly, September 17, 2026: India summons Pakistan envoy over naval ship collision. This update was reported by The Indian Express. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
@@ -2663,94 +2751,6 @@
       "sourceUrl": "https://think.ing.com/articles/why-ai-matters-for-india-and-the-philippines/",
       "publishedAt": "2026-09-16T07:44:06.000Z",
       "fetchedAt": "2026-09-16T18:39:48.551Z"
-    },
-    {
-      "id": "017153346e265d16",
-      "title": "AK Srikanth’s A Song for Eresha Releases on Apple TV India",
-      "summary": "The feature film is adapted from the award-winning filmmaker’s debut literary novel",
-      "category": "Entertainment",
-      "image": "https://www.deccanchronicle.com/h-upload/2026/09/16/2089541-a-song-for-eresha.jpg",
-      "source": "Deccan Chronicle",
-      "sourceUrl": "https://www.deccanchronicle.com/entertainment/ak-srikanths-a-song-for-eresha-releases-on-apple-tv-india-1987849",
-      "publishedAt": "2026-09-16T07:38:42.000Z",
-      "fetchedAt": "2026-09-16T18:43:08.930Z"
-    },
-    {
-      "id": "689d618272899bbd",
-      "title": "Immersive entertainment centre opens in Ahmedabad, India",
-      "summary": "Immersive entertainment centre opens in Ahmedabad, India. This update was reported by amusementsandattractions.com. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
-      "category": "Entertainment",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EEntertainment%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "amusementsandattractions.com",
-      "sourceUrl": "https://www.amusementsandattractions.com/amusements/news/immersive-entertainment-centre-opens-in-ahmedabad-india",
-      "publishedAt": "2026-09-16T07:33:00.000Z",
-      "fetchedAt": "2026-09-16T18:24:00.290Z"
-    },
-    {
-      "id": "4aaa44260fdf5917",
-      "title": "Nana Patekar gave up Rs 1.5 crore car to help farmers, writer recalls actor’s ‘right reasons’ for anger",
-      "summary": "Nana Patekar was planning to buy a Rs 1.5 crore car when he saw news reports about families struggling after farmer suicides. Instead of buying the car, he chose to use the money to help the affected families.",
-      "category": "Entertainment",
-      "image": "https://static.india.com/wp-content/uploads/2026/09/Nana-Patekar-PC-Instagram.jpg",
-      "source": "India.com",
-      "sourceUrl": "https://www.india.com/entertainment/bollywood/nana-patekar-gave-up-rs-1-5-crore-car-to-help-farmers-writer-recalls-actors-right-reasons-for-anger-8525489/",
-      "publishedAt": "2026-09-16T07:25:22.000Z",
-      "fetchedAt": "2026-09-16T19:42:27.995Z"
-    },
-    {
-      "id": "cb831055bb940903",
-      "title": "Royal Society of Chemistry launches India Sustainability Forum 2026 in Pune",
-      "summary": "Pune (Maharashtra) [India], September 16: The Royal Society of Chemistry (RSC) convened the inaugural India Sustainability Forum (ISF) 2026 in partnership with CSIR-National Chemical Laboratory (CSIR-NCL), Pune and INFLIBNET Centre at the CSIR-National Chemical Laboratory, Pune bringing together leading scientists, industry experts, policymakers and innovators to explore how chemistry can…",
-      "category": "National & Trending News",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTZjY2RmNzcwLWIxOWYtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
-      "source": "The Tribune",
-      "sourceUrl": "https://www.tribuneindia.com/news/business/royal-society-of-chemistry-launches-india-sustainability-forum-2026-in-pune/amp",
-      "publishedAt": "2026-09-16T07:22:38.000Z",
-      "fetchedAt": "2026-09-16T21:44:47.073Z"
-    },
-    {
-      "id": "4ff2f3e895222eb7",
-      "title": "AU Small Finance Bank vehicle loan portfolio crosses ₹50,000-crore mark",
-      "summary": "AU Small Finance Bank's vehicle loan portfolio hits Rs 50,000 crore AUM, a key milestone for the bank's growth and universal bank transition.",
-      "category": "Business & Finance",
-      "image": "https://images.cnbctv18.com/uploads/2026/09/image-2026-09-6b8a2fda6b6b6c0421a35afc2a956eb1.jpg?im=FitAndFill,width=1200,height=675",
-      "source": "CNBC TV18",
-      "sourceUrl": "https://www.cnbctv18.com/business/au-small-finance-bank-vehicle-loan-portfolio-crosses-%E2%82%B950000-crore-mark-19991749.htm",
-      "publishedAt": "2026-09-16T07:08:19.000Z",
-      "fetchedAt": "2026-09-16T19:53:38.887Z"
-    },
-    {
-      "id": "8419beef09ea6d5b",
-      "title": "Hyderbad firm’s $70M FIFA rights bid hit by alleged forgery, CCS books US investor",
-      "summary": "Hyderabad CCS booked US-based businessman Deelip Mhaske over alleged FIFA 2026 media rights fraud, fake documents and Rs 2 crore loss to Metalloid Productions.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/hyderabad/hyd-firms-70m-fifa-rights-bid-hit-by-alleged-forgery-ccs-books-us-investor/articleshow/132297371.cms",
-      "publishedAt": "2026-09-16T06:57:00.000Z",
-      "fetchedAt": "2026-09-16T19:28:19.318Z"
-    },
-    {
-      "id": "d44c8c5bb03e176c",
-      "title": "Cong leader Surjewala slams Modi govt over 0.4 per cent UPI fee",
-      "summary": "Bengaluru, Sep 16 (PTI) AICC general secretary Randeep Singh Surjewala on Wednesday alleged that the Modi government’s move to impose a 0.4 per cent fee on UPI payments above Rs 2,000 amounted to a “betrayal” of ordinary Indians and would ultimately increase the burden on consumers. Calling September 14, the…",
-      "category": "Politics & Government",
-      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
-      "source": "ThePrint",
-      "sourceUrl": "https://theprint.in/india/cong-leader-surjewala-slams-modi-govt-over-0-4-per-cent-upi-fee/3044112/",
-      "publishedAt": "2026-09-16T06:47:58.000Z",
-      "fetchedAt": "2026-09-16T19:28:18.023Z"
-    },
-    {
-      "id": "db6706e35f9169df",
-      "title": "Prime Video expands news offering with short-form local and national clips",
-      "summary": "Prime Video expands news offering with short-form local and national clips. This update was reported by bestmediainfo.com. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
-      "category": "National & Trending News",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ENational%20%26amp%3B%20Trending%20News%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "bestmediainfo.com",
-      "sourceUrl": "https://bestmediainfo.com/mediainfo/mediainfo-digital/prime-video-expands-news-offering-with-short-form-local-and-national-clips-12539446",
-      "publishedAt": "2026-09-16T06:47:06.000Z",
-      "fetchedAt": "2026-09-16T18:24:02.439Z"
     }
   ]
 }
