@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-09-17T08:59:48.487Z",
+  "updatedAt": "2026-09-17T09:19:45.727Z",
   "count": 250,
   "articles": [
+    {
+      "id": "dd95bca15ed15af1",
+      "title": "Giottus launches India’s largest funded wallet challenge",
+      "summary": "Giottus launches India’s largest funded wallet challenge. This update was reported by indiatechnologynews.in. Open the original report for full context and any developing updates.",
+      "category": "Technology",
+      "image": "https://indiatechnologynews.in/wp-content/uploads/2026/09/giottus.png",
+      "source": "indiatechnologynews.in",
+      "sourceUrl": "https://indiatechnologynews.in/giottus-launches-indias-largest-funded-wallet-challenge/",
+      "publishedAt": "2026-09-17T09:13:29.000Z",
+      "fetchedAt": "2026-09-17T09:19:40.851Z"
+    },
+    {
+      "id": "b89a06c421947d58",
+      "title": "LTM Honoured with Avasant Digital Masters Award 2026",
+      "summary": "LTM Honoured with Avasant Digital Masters Award 2026. This update was reported by indiatechnologynews.in. Open the original report for full context and any developing updates.",
+      "category": "Technology",
+      "image": "https://indiatechnologynews.in/wp-content/uploads/2026/06/ltm-1.png",
+      "source": "indiatechnologynews.in",
+      "sourceUrl": "https://indiatechnologynews.in/ltm-honoured-with-avasant-digital-masters-award-2026/",
+      "publishedAt": "2026-09-17T09:02:32.000Z",
+      "fetchedAt": "2026-09-17T09:19:41.301Z"
+    },
+    {
+      "id": "a8770b4f0e9bbeef",
+      "title": "India's clean-energy push hits a milestone: Coal power sees no growth for first time in 50 years",
+      "summary": "Solar, wind, hydro and nuclear generation together met the entire 63 TWh increase in electricity generation between the first halves of 2024 and 2026.",
+      "category": "National & Trending News",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260917084716_dadri.jpg",
+      "source": "Moneycontrol.com",
+      "sourceUrl": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/india-s-clean-energy-push-hits-a-milestone-coal-power-sees-no-growth-for-first-time-in-50-years-14031996.html",
+      "publishedAt": "2026-09-17T08:49:07.000Z",
+      "fetchedAt": "2026-09-17T09:19:44.959Z"
+    },
     {
       "id": "d556531f1b5814e8",
       "title": "Asian Games: Indian MMA star confirms accommodation mess, athletes stranded for hours",
@@ -168,6 +201,17 @@
       "fetchedAt": "2026-09-17T07:57:52.261Z"
     },
     {
+      "id": "81788106ddc2991c",
+      "title": "Government questions Rahul Gandhi's criticism of UPI charges, says Congress MPs in panel gave nod",
+      "summary": "The government has questioned Rahul Gandhi's opposition to UPI payment fees, citing support from Congress MPs including P Chidambaram in a parliamentary panel. The panel had recommended a tiered MDR framework to address funding gaps in the UPI ecosystem.",
+      "category": "Politics & Government",
+      "image": "https://cf-images.assettype.com/deccanherald%2F2026-09-11%2Fme121unl%2Ffile87ij0to34w3gk4ihey4.jpg?rect=0%2C0%2C944%2C496&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "Deccan Herald",
+      "sourceUrl": "https://www.deccanherald.com/amp/story/india/government-questions-rahul-gandhis-criticism-of-upi-charges-says-congress-mps-in-panel-gave-nod-4148728",
+      "publishedAt": "2026-09-17T06:39:00.000Z",
+      "fetchedAt": "2026-09-17T09:19:35.441Z"
+    },
+    {
       "id": "f0433e8e88234b29",
       "title": "6 New Friday South Indian OTT Releases (Sep 18): Irumudi, Idi Mazha Kaattu, Thudakkam, And More",
       "summary": "The new South Indian OTT releases this week bring a genuinely mixed bag, led by Ravi Teja's family drama Irumudi on Netflix, Vismaya Mohanlal's acting debut Thu",
@@ -243,6 +287,17 @@
       "sourceUrl": "https://www.firstpost.com/tech/pm-modi-opens-semicon-2026-says-indias-semiconductor-ecosystem-is-on-the-rise-14046536.html",
       "publishedAt": "2026-09-17T06:18:27.000Z",
       "fetchedAt": "2026-09-17T06:36:43.553Z"
+    },
+    {
+      "id": "d6d9e04c14cfe34e",
+      "title": "Photo gallery: sports Page -2821",
+      "summary": "Page-2821 Explore Sports Photo Gallery with latest images from Football, WWE, Formula 1, Hockey, Tennis & more. Relive iconic moments, player highlights & match action.",
+      "category": "Sports",
+      "image": "https://images.news18.com/static_news18/pix/ibnhome/news18/news18-main.png",
+      "source": "News18",
+      "sourceUrl": "https://www.news18.com/photogallery/sports/page-2821/",
+      "publishedAt": "2026-09-17T06:17:43.000Z",
+      "fetchedAt": "2026-09-17T09:19:37.706Z"
     },
     {
       "id": "2b7439ad254c4cdf",
@@ -463,6 +518,17 @@
       "sourceUrl": "https://tele.net.in/national-news/prime-minister-of-india-calls-on-global-semiconductor-leaders-to-support-countrys-next-growth-phase-12543084",
       "publishedAt": "2026-09-17T05:01:02.000Z",
       "fetchedAt": "2026-09-17T07:11:46.268Z"
+    },
+    {
+      "id": "f26d035ab8949565",
+      "title": "Asian Games 2026 Live Streaming Info: Where to watch Aichi-Nagoya 2026 LIVE in India",
+      "summary": "Find out how to watch the Asian Games 2026 live in India, featuring over 500 Indian athletes competing.",
+      "category": "Sports",
+      "image": "https://ss-i.thgim.com/public/incoming/kvd3zr/article71475335.ece/alternates/LANDSCAPE_1200/AFP_C8JP39X.jpg",
+      "source": "Sportstar",
+      "sourceUrl": "https://sportstar.thehindu.com/asian-games/asian-games-2026-live-streaming-info-where-to-watch-aichi-nagoya-in-india/article71475320.ece",
+      "publishedAt": "2026-09-17T04:59:36.000Z",
+      "fetchedAt": "2026-09-17T09:19:37.936Z"
     },
     {
       "id": "e54e26ee12827d6c",
@@ -2685,72 +2751,6 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/cbfc-reconstitutes-board-preity-zinta-roopali-ganguly-pallavi-joshi-pankaj-tripathi-join-the-new-18-member-committee/articleshow/134289104.cms",
       "publishedAt": "2026-09-16T13:29:00.000Z",
       "fetchedAt": "2026-09-17T08:34:41.526Z"
-    },
-    {
-      "id": "cfc0b2f2ce8ecb25",
-      "title": "Prepare profiles of criminals: SSP to cops",
-      "summary": "Prepare profiles of criminals: SSP to cops. This update was reported by The Times of India. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/ranchi/prepare-profiles-of-criminals-ssp-to-cops/articleshow/134289188.cms",
-      "publishedAt": "2026-09-16T13:23:00.000Z",
-      "fetchedAt": "2026-09-16T17:47:13.367Z"
-    },
-    {
-      "id": "7357b514b43d22dc",
-      "title": "A politics that looks to the past cannot resonate with youth who look to the future",
-      "summary": "A politics that looks to the past cannot resonate with youth who look to the future. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
-      "category": "Politics & Government",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EPolitics%20%26amp%3B%20Government%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "The Indian Express",
-      "sourceUrl": "https://indianexpress.com/article/opinion/columns/youth-protests-9-11-jantar-mantar-politicians-old-new-modi-government-10880893/",
-      "publishedAt": "2026-09-16T13:19:03.000Z",
-      "fetchedAt": "2026-09-16T18:43:04.962Z"
-    },
-    {
-      "id": "1a4180d994872e23",
-      "title": "CBI probes US Christian mission Timothy over alleged ₹92.55 crore FCRA violations | India News",
-      "summary": "The CBI has booked US-based Christian mission The Timothy Initiative and its functionaries over alleged FCRA violations and crores withdrawn using foreign debit cards.",
-      "category": "Crime & Breaking News",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/16/1600x900/logo/The-CBI-FIR-alleges--92-55-crore-was-withdrawn-usi_1789564446071_W0pj.jpg",
-      "source": "hindustantimes.com",
-      "sourceUrl": "https://www.hindustantimes.com/india-news/cbi-probes-us-christian-mission-timothy-over-alleged-92-55-crore-fcra-violations-101789564452551-amp.html",
-      "publishedAt": "2026-09-16T13:14:12.000Z",
-      "fetchedAt": "2026-09-17T02:34:24.975Z"
-    },
-    {
-      "id": "fd12cad768fea1d2",
-      "title": "1st hate-crime victim after 9/11: 25 years later, Balbir Singh Sodhi remembered",
-      "summary": "Faith and civil rights leaders from Sikh, Muslim, Hindu, Jewish and Christian communities, along with Palestinian-American activists, came together in Mesa, Arizona, on Tuesday evening to remember the first victim of a hate crime in the US after the 9/11 terrorist attacks.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134289033,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/chandigarh/1st-hate-crime-victim-after-9/11-25-years-later-balbir-singh-sodhi-remembered/articleshow/134289040.cms",
-      "publishedAt": "2026-09-16T13:14:00.000Z",
-      "fetchedAt": "2026-09-16T18:39:42.248Z"
-    },
-    {
-      "id": "0287cb2919543745",
-      "title": "3rd Edition of Digitalisation, AI, Automation and Technology Integration in Mining and Metals",
-      "summary": "3rd Edition of Digitalisation, AI, Automation and Technology Integration in Mining and Metals. This update was reported by kpmg.com. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
-      "category": "Technology",
-      "image": "https://assets.kpmg.com/is/image/kpmgcloud/3rd-edition-of-digitalisation-ai-automation-and-technology-integration-in-mining-and-metals-thumbnail",
-      "source": "kpmg.com",
-      "sourceUrl": "https://kpmg.com/in/en/events/2026/09/3rd-edition-of-digitalisation-ai-automation-and-technology-integration-in-mining-and-metals.html",
-      "publishedAt": "2026-09-16T13:02:45.000Z",
-      "fetchedAt": "2026-09-16T17:50:45.388Z"
-    },
-    {
-      "id": "aa6c60069a754828",
-      "title": "Raids on ex-Tamil Nadu minister: What is the alleged Rs 100-crore school fraud?",
-      "summary": "Raids on ex-Tamil Nadu minister: What is the alleged Rs 100-crore school fraud?. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
-      "category": "Politics & Government",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EPolitics%20%26amp%3B%20Government%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "The Indian Express",
-      "sourceUrl": "https://indianexpress.com/article/explained/anbil-mahesh-raids-tamil-nadu-dmk-rs-100-crore-school-fraud-10880841/",
-      "publishedAt": "2026-09-16T12:56:56.000Z",
-      "fetchedAt": "2026-09-16T19:53:30.734Z"
     }
   ]
 }
