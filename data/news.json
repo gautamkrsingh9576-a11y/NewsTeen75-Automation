@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-17T18:33:42.539Z",
+  "updatedAt": "2026-09-17T18:50:24.563Z",
   "count": 250,
   "articles": [
+    {
+      "id": "1f7f3c20526c89a4",
+      "title": "Asian Games: India Women target another cricket gold run as Japan await in quarters",
+      "summary": "India open their Asian Games women’s cricket campaign against hosts Japan in the quarter-final on Friday. The match gives Harmanpreet Kaur’s side a chance to carry their Asia Cup form into a knockout title defence.",
+      "category": "Sports",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/india-women-172944203-16x9_0.jpeg?VersionId=FdyyoRfbE.oZlNTiUcOMtXtg7JrBMCNT",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/sports/asian-games/story/india-vs-japan-womens-cricket-asian-games-india-quarterfinal-preview-2997017-2026-09-18",
+      "publishedAt": "2026-09-17T18:30:00.000Z",
+      "fetchedAt": "2026-09-17T18:50:17.889Z"
+    },
     {
       "id": "aba9f2801cf71d2f",
       "title": "Shreyas invites Zadran to join India's trophy celebrations, lifts Friendship Cup together",
@@ -12,6 +23,17 @@
       "sourceUrl": "https://www.indiatoday.in/sports/cricket/story/india-vs-afghanistan-friendship-cup-shreyas-gessture-zadran-trophy-celebrations-2997244-2026-09-17",
       "publishedAt": "2026-09-17T18:23:52.000Z",
       "fetchedAt": "2026-09-17T18:33:34.552Z"
+    },
+    {
+      "id": "606cc1c77d8c2432",
+      "title": "Ensure protection to victims, families, crime witnesses: Lalbazar",
+      "summary": "Kolkata Police orders stations to follow BNSS SOPs on witness safety after Cossipore woman alleges fresh attack by 2012 accused out on bail.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/kolkata/ensure-protection-to-victims-families-crime-witnesses-lalbazar/articleshow/134319748.cms",
+      "publishedAt": "2026-09-17T18:21:00.000Z",
+      "fetchedAt": "2026-09-17T18:50:16.568Z"
     },
     {
       "id": "0b50d8a90867bb65",
@@ -67,6 +89,17 @@
       "sourceUrl": "https://www.indiatoday.in/sports/cricket/story/india-vs-afghanistan-3rd-t20i-report-abhishek-sharma-samson-3-0-series-sweep-2997215-2026-09-17",
       "publishedAt": "2026-09-17T17:21:42.000Z",
       "fetchedAt": "2026-09-17T17:43:05.174Z"
+    },
+    {
+      "id": "20d8fcf051f11177",
+      "title": "After brief disruption, officials restart talks for Bangladesh PM Tarique Rahman’s India visit",
+      "summary": "India and Bangladesh resume talks for PM Tarique Rahman's upcoming visit to New Delhi amid diplomatic efforts to strengthen ties.",
+      "category": "National & Trending News",
+      "image": "https://th-i.thgim.com/public/incoming/uga9ji/article71477875.ece/alternates/LANDSCAPE_1200/2026-06-20T132134Z_1075935216_RC2NNJAWEETF_RTRMADP_3_BANGLADESH-DIPLOMACY.JPG",
+      "source": "The Hindu",
+      "sourceUrl": "https://www.thehindu.com/news/national/after-brief-disruption-officials-restart-talks-for-bangladesh-pm-tarique-rahmans-india-visit/article71477603.ece",
+      "publishedAt": "2026-09-17T17:21:10.000Z",
+      "fetchedAt": "2026-09-17T18:50:23.831Z"
     },
     {
       "id": "c7e539d0517d99e0",
@@ -1035,6 +1068,17 @@
       "sourceUrl": "https://telanganatoday.com/asian-games-2026-sony-sports-sonyliv-to-bring-live-action-to-india",
       "publishedAt": "2026-09-17T11:00:20.000Z",
       "fetchedAt": "2026-09-17T11:21:11.554Z"
+    },
+    {
+      "id": "38bca1a6d4b37dc0",
+      "title": "Maharaja Hollywood remake: Matthew McConaughey may step into Vijay Sethupathi’s role",
+      "summary": "Maharaja Hollywood remake: Matthew McConaughey may step into Vijay Sethupathi’s role. This update was reported by The New Indian Express. Open the original report for full context and any developing updates.",
+      "category": "Entertainment",
+      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-09-16%2Fsoxz8hvg%2FVJS_MM.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "The New Indian Express",
+      "sourceUrl": "https://www.newindianexpress.com/amp/story/entertainment/2026/Sep/17/tamilnews2026sep16maharaja-hollywood-remake-matthew-mcconaughey-may-step-into-vijay-sethupathis-role",
+      "publishedAt": "2026-09-17T11:00:00.000Z",
+      "fetchedAt": "2026-09-17T18:50:18.779Z"
     },
     {
       "id": "98835ad43d09a974",
@@ -2093,6 +2137,17 @@
       "fetchedAt": "2026-09-17T08:18:55.286Z"
     },
     {
+      "id": "9496e182ed3d4723",
+      "title": "Modi at BRICS 2026: Between US Ties and China’s Rise",
+      "summary": "BRICS Summit 2026 debated India’s US ties, China’s AI push and technology wars as global power struggles reshape developing nations. Read more.",
+      "category": "Technology",
+      "image": "https://fl-i.thgim.com/public/incoming/kg0bg1/article71475507.ece/alternates/LANDSCAPE_1200/Modi%20BRICS%20summit.jpg",
+      "source": "Frontline Magazine",
+      "sourceUrl": "https://frontline.thehindu.com/columns/brics-summit-modi-china-ai-global-power-rivalry/article71475493.ece",
+      "publishedAt": "2026-09-17T07:20:20.000Z",
+      "fetchedAt": "2026-09-17T18:50:21.252Z"
+    },
+    {
       "id": "7257e45880720fcb",
       "title": "‘Enough space to place your feet can cost Rs 1 lakh’: Inside Sumeet Raghavan’s Mumbai home",
       "summary": "‘Enough space to place your feet can cost Rs 1 lakh’: Inside Sumeet Raghavan’s Mumbai home. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
@@ -2696,61 +2751,6 @@
       "sourceUrl": "https://www.outlookindia.com/national/from-rss-organiser-to-pm-tracing-narendra-modis-political-rise",
       "publishedAt": "2026-09-17T04:50:04.000Z",
       "fetchedAt": "2026-09-17T07:57:44.779Z"
-    },
-    {
-      "id": "3de4b023a12a94b2",
-      "title": "Tripura launches initiative to bring AI learning to govt school students",
-      "summary": "Agartala, Sep 17 (PTI) The Tripura government has launched a state-level initiative, aimed at introducing AI to school students and building a future-ready generation equipped with emerging technology and skills, an official said on Thursday. The ‘AI Utsav – Skill Competition 2026’ will provide students of classes VI to XII…",
-      "category": "Politics & Government",
-      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
-      "source": "ThePrint",
-      "sourceUrl": "https://theprint.in/india/tripura-launches-initiative-to-bring-ai-learning-to-govt-school-students/3045137/",
-      "publishedAt": "2026-09-17T04:48:04.000Z",
-      "fetchedAt": "2026-09-17T05:40:39.238Z"
-    },
-    {
-      "id": "9ebb8be7afee0469",
-      "title": "PM Modi a symbol of national service and dedication: BJP on his birthday",
-      "summary": "Union ministers and senior BJP leaders on Thursday extended birthday greetings to Prime Minister Narendra Modi, highlighting his 25 years in public life and his contribution to development, welfare and governance.",
-      "category": "National & Trending News",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTdlYzgxNDIwLWIyNTItMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
-      "source": "The Tribune",
-      "sourceUrl": "https://www.tribuneindia.com/news/india/pm-modi-a-symbol-of-national-service-and-dedication-bjp-on-his-birthday/amp/",
-      "publishedAt": "2026-09-17T04:44:35.000Z",
-      "fetchedAt": "2026-09-17T06:54:17.707Z"
-    },
-    {
-      "id": "b31a3b1b569b2aa3",
-      "title": "Littelfuse Highlights India Growth Priorities at electronica India 2026",
-      "summary": "Littelfuse, a diversified, industrial technology manufacturing company shaping solutions for the safe and efficient transfer of electronica India.",
-      "category": "Technology",
-      "image": "https://timestech.in/wp-content/uploads/2026/09/Untitled-design-2026-09-17T100917.444.jpg",
-      "source": "TimesTech",
-      "sourceUrl": "https://timestech.in/littelfuse-highlights-india-growth-priorities-at-electronica-india-2026/",
-      "publishedAt": "2026-09-17T04:42:30.000Z",
-      "fetchedAt": "2026-09-17T05:07:35.448Z"
-    },
-    {
-      "id": "bcead31bec5bef06",
-      "title": "India should aspire to be among early leaders in emerging tech: PM Narendra Modi - People Matters",
-      "summary": "At a semiconductor industry roundtable, Prime Minister Narendra Modi urged India to aim for leadership in emerging technologies, reaffirming government support for a predictable policy environment and calling for deeper collaboration between industry and government.",
-      "category": "Technology",
-      "image": "https://asset.peoplematters.in/images/08f0aa6a-df56-4f99-9aba-c5f0b136ecef.jpeg",
-      "source": "People Matters - HR News",
-      "sourceUrl": "https://www.peoplematters.in/news/economy-policy/india-should-aspire-to-be-among-early-leaders-in-emerging-tech-pm-narendra-modi-52141",
-      "publishedAt": "2026-09-17T04:41:15.000Z",
-      "fetchedAt": "2026-09-17T04:53:06.264Z"
-    },
-    {
-      "id": "63b97935044c88ff",
-      "title": "‘Pleasure tour’: Tamil Nadu CM Vijay’s London ‘investment drive’ becomes punching bag for Opposition",
-      "summary": "TVK has strongly countered the criticism, highlighting announced investment commitments of around Rs 15,300 crore that are expected to create thousands of jobs.",
-      "category": "Politics & Government",
-      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/09/untitled-2026-09-17T103019.135.jpg",
-      "source": "ThePrint",
-      "sourceUrl": "https://theprint.in/politics/pleasure-tour-tamil-nadu-cm-vijays-london-investment-drive-becomes-punching-bag-for-opposition/3045101/",
-      "publishedAt": "2026-09-17T04:40:33.000Z",
-      "fetchedAt": "2026-09-17T16:28:17.812Z"
     }
   ]
 }
