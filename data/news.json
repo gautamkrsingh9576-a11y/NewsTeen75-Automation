@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-09-17T11:21:19.921Z",
+  "updatedAt": "2026-09-17T11:35:41.365Z",
   "count": 250,
   "articles": [
+    {
+      "id": "20e454ff456d903e",
+      "title": "She owes you nothing: Actor Sonarika calls for kindness amid Katrina Kaif trolling",
+      "summary": "Sonarika Bhadoria shared a post urging people to stop judging postpartum bodies amid the online chatter around Katrina Kaif's appearance. The actor said motherhood changes the body and called for compassion instead of scrutiny.",
+      "category": "Entertainment",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/sonarika-bhadoria--katrina-kaif-172906628-16x9_0.jpg?VersionId=V7Mbaqn2o4CAu_p0v_sxJ4NirSc.Kot9",
+      "source": "indiatoday.in",
+      "sourceUrl": "https://www.indiatoday.in/entertainment/television/story/sonarika-bhadoria-katrina-kaif-postpartum-body-trolling-kindness-2996883-2026-09-17",
+      "publishedAt": "2026-09-17T11:30:24.000Z",
+      "fetchedAt": "2026-09-17T11:35:36.162Z"
+    },
+    {
+      "id": "601c25e095cb2910",
+      "title": "Adidas trims tech roles in India, less than 20% impacted",
+      "summary": "Adidas has confirmed that it is reducing roles within its India Technology organisation, clarifying that less than 20%people will be affected",
+      "category": "Technology",
+      "image": "https://www.hrkatha.com/wp-content/uploads/2026/09/Adidas.png",
+      "source": "HR Katha",
+      "sourceUrl": "https://www.hrkatha.com/news/adidas-trims-tech-roles-in-india-less-than-20-impacted/",
+      "publishedAt": "2026-09-17T11:30:19.000Z",
+      "fetchedAt": "2026-09-17T11:35:37.596Z"
+    },
+    {
+      "id": "85de5593d31b0ee1",
+      "title": "India to impose controversial fee for UPI instant payments: Who benefits?",
+      "summary": "It's the end of an era for India's popular instant digital payments system, which has been free of charge until now.",
+      "category": "National & Trending News",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AFP__20211108__9RA3PU__v1__MidRes__IndiaBankingStockIpoTechnology-1-1789638055.jpg?resize=1803%2C1080",
+      "source": "Al Jazeera",
+      "sourceUrl": "https://www.aljazeera.com/features/2026/9/17/india-to-impose-controversial-fee-for-upi-instant-payments-who-benefits",
+      "publishedAt": "2026-09-17T11:21:15.000Z",
+      "fetchedAt": "2026-09-17T11:35:39.779Z"
+    },
     {
       "id": "3ffadc4e95f53004",
       "title": "India to take away Meta's intermediary status, reclassifies it as a service provider",
@@ -12,6 +45,17 @@
       "sourceUrl": "https://www.varindia.com/news/india-to-take-away-meta-s-intermediary-status-reclassifies-it-as-a-service-provider",
       "publishedAt": "2026-09-17T11:20:02.000Z",
       "fetchedAt": "2026-09-17T11:21:09.013Z"
+    },
+    {
+      "id": "89d77039d92b3fe6",
+      "title": "India's Men's Hockey Team Strategizes for Asian Games Victory",
+      "summary": "The Indian men's hockey team, led by coach Craig Fulton, prepares for the Asian Games 2026 with a focus on overcoming past hurdles. After a disappointing World Cup, the team hopes to secure gold and qualify for the 2028 Olympics, beginning their campaign with a match against Indonesia.",
+      "category": "Sports",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/17_09_2026_16_38_55_7021597.jpg&width=920&format=jpeg",
+      "source": "Devdiscourse",
+      "sourceUrl": "https://www.devdiscourse.com/article/sports-games/3978460-indias-mens-hockey-team-strategizes-for-asian-games-victory",
+      "publishedAt": "2026-09-17T11:09:03.000Z",
+      "fetchedAt": "2026-09-17T11:35:34.605Z"
     },
     {
       "id": "5d6d0fe5765751f5",
@@ -56,6 +100,17 @@
       "sourceUrl": "https://thenewsmill.com/2026/09/india-drawn-in-group-k-for-fifa-u15-world-cup-azerbaijan-2026/",
       "publishedAt": "2026-09-17T10:42:11.000Z",
       "fetchedAt": "2026-09-17T11:02:33.309Z"
+    },
+    {
+      "id": "be5d6dd43f8c8bc0",
+      "title": "SEMICON India 2026",
+      "summary": "Exploring India–Malaysia collaboration across investment, technology, supply chains, innovation and semiconductor capability development",
+      "category": "Technology",
+      "image": "https://assets.kpmg.com/is/image/kpmgcloud/semicon-india-2026-thumbnail",
+      "source": "kpmg.com",
+      "sourceUrl": "https://kpmg.com/in/en/events/2026/09/semicon-india-2026.html",
+      "publishedAt": "2026-09-17T10:39:51.000Z",
+      "fetchedAt": "2026-09-17T11:35:37.990Z"
     },
     {
       "id": "be3e4124e8de5801",
@@ -155,6 +210,17 @@
       "sourceUrl": "https://www.siasat.com/pm-modi-urges-youth-to-drive-indias-advanced-tech-push-3543732/",
       "publishedAt": "2026-09-17T10:18:45.000Z",
       "fetchedAt": "2026-09-17T11:21:16.094Z"
+    },
+    {
+      "id": "02f60ae39e05bea4",
+      "title": "M. R. Poovamma",
+      "summary": "M. R. Poovamma. This update was reported by The Times of India. Open the original report for full context and any developing updates.",
+      "category": "Sports",
+      "image": "https://static.toiimg.com/thumb/msid-134308453,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/hall-of-fame/m-r-poovamma/articleshow/134308420.cms",
+      "publishedAt": "2026-09-17T10:14:00.000Z",
+      "fetchedAt": "2026-09-17T11:35:35.071Z"
     },
     {
       "id": "c1cf0155864bf2d3",
@@ -597,6 +663,17 @@
       "fetchedAt": "2026-09-17T08:59:40.894Z"
     },
     {
+      "id": "feb87ea46a6b8622",
+      "title": "EPFO wage ceiling hiked to Rs 25,000: 5 benefits employees should know",
+      "summary": "The government said the decision is another step towards building a more inclusive social security system, with social protection keeping pace with economic growth, rising wages and the expansion of formal employment.",
+      "category": "Business & Finance",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/epfo-175951661-16x9_0.jpeg?VersionId=42CBbPtjGkwMPrnfGLEUuj_hQvlP7Vdv",
+      "source": "indiatoday.in",
+      "sourceUrl": "https://www.indiatoday.in/business/personal-finance/story/epfo-wage-ceiling-hiked-to-rs-25000-5-benefits-employees-should-know-2996593-2026-09-17",
+      "publishedAt": "2026-09-17T07:10:47.000Z",
+      "fetchedAt": "2026-09-17T11:35:38.655Z"
+    },
+    {
       "id": "f88b871b8099cd64",
       "title": "India’s Innovation in Digital Payments Is Powering Global Growth | Adyen at GFF 2026",
       "summary": "India&rsquo;s payments ecosystem is evolving rapidly, and exponentially, with innovation playing a significant role in that growth.At Global Fintech Fest 2026, Virginia Yang, VP, Account Management, APAC, Adyen, talked to The Economic Times about India&rsquo;s digital payments leadership and shared her takeaways from the event. Yang also talked about her…",
@@ -958,6 +1035,17 @@
       "sourceUrl": "https://psuwatch.com/newsupdates/india-us-discuss-nuclear-expansion-power-needs-for-ai-and-data-centres",
       "publishedAt": "2026-09-17T05:17:15.000Z",
       "fetchedAt": "2026-09-17T08:59:44.583Z"
+    },
+    {
+      "id": "1346275a75d6b136",
+      "title": "'Will protect trade, economic interests': India committed to energy security, says MEA amid US tariff threat",
+      "summary": "India on Thursday said it will take all necessary steps to safeguard its economic interests and energy security after the US House of Representatives passed a b",
+      "category": "Entertainment",
+      "image": "https://cf-images.assettype.com/newindianexpress%2F2025-03-08%2Flukjywlc%2FModi-Trump-meet.jpg?rect=0%2C0%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "The New Indian Express",
+      "sourceUrl": "https://www.newindianexpress.com/amp/story/india/2026/Sep/17/will-protect-trade-economic-interests-india-committed-to-energy-security-says-mea-amid-us-tariff-threat",
+      "publishedAt": "2026-09-17T05:12:00.000Z",
+      "fetchedAt": "2026-09-17T11:35:36.659Z"
     },
     {
       "id": "325daf02a0039f5f",
@@ -2663,94 +2751,6 @@
       "sourceUrl": "https://dailypioneer.com/news/pm-modi-india-emerging-tech-semiconductor-industry",
       "publishedAt": "2026-09-16T16:18:00.000Z",
       "fetchedAt": "2026-09-16T19:42:32.063Z"
-    },
-    {
-      "id": "a94ac6dba8ce8119",
-      "title": "MS Subbulakshmi was a pan-India superstar, says Kamal Haasan at biopic launch",
-      "summary": "MS Subbulakshmi was a pan-India superstar, says Kamal Haasan at biopic launch. This update was reported by The Hindu. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
-      "category": "Entertainment",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/6pvif6/article71473756.ece/alternates/LANDSCAPE_1200/Kamal%20Haasan%20and%20Rashmika%20Mandanna%20during%20the%20launch%20of%20MS%20Subbulakshmi%20biopic%20in%20Chennai%20on%20Wednesday%20September%2016%202026",
-      "source": "The Hindu",
-      "sourceUrl": "https://www.thehindu.com/entertainment/movies/ms-subbulakshmi-was-a-pan-india-superstar-says-kamal-haasan-at-biopic-launch/article71473599.ece",
-      "publishedAt": "2026-09-16T16:10:37.000Z",
-      "fetchedAt": "2026-09-16T17:47:15.615Z"
-    },
-    {
-      "id": "ee7be1100bcc0efb",
-      "title": "Pakistan wants Asian Champions Trophy shifted out of India; Hockey India says no",
-      "summary": "Pakistan wants Asian Champions Trophy shifted out of India; Hockey India says no. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
-      "category": "Sports",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "The Indian Express",
-      "sourceUrl": "https://indianexpress.com/article/sports/hockey/pakistan-asian-champions-trophy-hockey-shift-india-neutral-venue-10881093/",
-      "publishedAt": "2026-09-16T16:07:57.000Z",
-      "fetchedAt": "2026-09-17T05:40:42.466Z"
-    },
-    {
-      "id": "f3bab951310f3bde",
-      "title": "Pakistan wants ACT hockey matches to be shifted from India to a neutral venue",
-      "summary": "Pakistan wants ACT hockey matches to be shifted from India to a neutral venue. This update was reported by The Indian Express. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
-      "category": "Sports",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "The Indian Express",
-      "sourceUrl": "https://indianexpress.com/article/sports/hockey/pakistan-asian-champions-trophy-hockey-shift-india-neutral-venue-10881093/",
-      "publishedAt": "2026-09-16T16:07:57.000Z",
-      "fetchedAt": "2026-09-16T17:47:14.624Z"
-    },
-    {
-      "id": "0b371f3aa4059453",
-      "title": "Twelve Indians injured in bus accident near Muktinath Temple | India News",
-      "summary": "Twelve Indians injured in bus accident near Muktinath Temple | India News. This update was reported by Hindustan Times. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
-      "category": "Crime & Breaking News",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/16/1600x900/logo/accident_1789574547060_SkNQ_1789574547181_MHDh_601ee836-da61-440c-bb33-c57f574bc930_MpMO.jpg",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/india-news/twelve-indians-injured-in-bus-accident-near-muktinath-temple-mustang-minibus-passengers-injured-101789574268591-amp.html",
-      "publishedAt": "2026-09-16T16:04:23.000Z",
-      "fetchedAt": "2026-09-16T18:03:28.329Z"
-    },
-    {
-      "id": "d96396d9479d2d03",
-      "title": "Integris Medtech Appoints Dev Tripathy as Group Chief Financial Officer",
-      "summary": "Integris Medtech Appoints Dev Tripathy as Group Chief Financial Officer. This update was reported by hrtoday.in. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
-      "category": "Business & Finance",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EBusiness%20%26amp%3B%20Finance%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "hrtoday.in",
-      "sourceUrl": "https://hrtoday.in/integris-medtech-appoints-dev-tripathy-as-group-chief-financial-officer/",
-      "publishedAt": "2026-09-16T16:00:09.000Z",
-      "fetchedAt": "2026-09-16T18:03:31.441Z"
-    },
-    {
-      "id": "283a2c5114f59b50",
-      "title": "Finally, a Mamdani Policy Even Republicans Can Love",
-      "summary": "But for all the emphasis Republicans have put on protecting children, students in Zohran Mamdani’s New York are going to be less screen-soaked than those in",
-      "category": "National & Trending News",
-      "image": "https://newsindiatimes.com/wp-content/uploads/2026/09/Screenshot-2026-09-16-115402.png",
-      "source": "News India Times",
-      "sourceUrl": "https://newsindiatimes.com/finally-a-mamdani-policy-even-republicans-can-love/",
-      "publishedAt": "2026-09-16T15:58:06.000Z",
-      "fetchedAt": "2026-09-16T19:28:25.852Z"
-    },
-    {
-      "id": "b47467787a54814a",
-      "title": "Rishabh Pant ignored for ODI squad, named Rest of India captain for Irani Cup",
-      "summary": "Rishabh Pant has been left out of India's ODI squad for the West Indies series but will return to action as captain of Rest of India in the Irani Cup. Pant will lead the side against maiden Ranji Trophy champions Jammu and Kashmir in the season-opening domestic fixture.",
-      "category": "Sports",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/rishabh-pant-163639633-16x9.jpg?VersionId=qEAuMDjMzNK30HhlqSuqN96kCCBmpa.b",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/sports/cricket/story/rishabh-pant-left-out-india-odi-squad-rest-of-india-captain-irani-cup-2996254-2026-09-16",
-      "publishedAt": "2026-09-16T15:55:56.000Z",
-      "fetchedAt": "2026-09-16T20:43:05.792Z"
-    },
-    {
-      "id": "b44c5b0bd5fce0df",
-      "title": "Pakistan Demands Asian Champions Trophy Be Moved From India",
-      "summary": "Pakistan has requested the Asian Hockey Federation to move its Asian Champions Trophy matches from India to a neutral venue, citing a",
-      "category": "Sports",
-      "image": "https://im.rediff.com/1200-630/cricket/2023/jul/10pakistan.jpg",
-      "source": "Rediff",
-      "sourceUrl": "https://m.rediff.com/amp/sports/report/pakistan-requests-neutral-venue-for-asian-champions-trophy/20260916.htm",
-      "publishedAt": "2026-09-16T15:54:17.000Z",
-      "fetchedAt": "2026-09-16T20:08:58.401Z"
     }
   ]
 }
