@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T21:10:35.134Z",
+  "updatedAt": "2026-09-17T21:26:18.038Z",
   "count": 250,
   "articles": [
     {
@@ -815,6 +815,17 @@
       "sourceUrl": "https://www.linkedin.com/posts/cnbc-tv18_narendramodi-digitalindia-upi-activity-7506340769700491264-7ZB0",
       "publishedAt": "2026-09-17T13:18:20.000Z",
       "fetchedAt": "2026-09-17T18:13:16.292Z"
+    },
+    {
+      "id": "5f70db97318c1ebb",
+      "title": "Indian-origin scientist Sethuraman Panchanathan named for National Academy of Engineering’s Arthur M. Buech...",
+      "summary": "Sethuraman Panchanathan’s journey from seeing Apollo 11 Moon rocks in Chennai to leading the NSF has now earned him the 2026 Arthur M. Bueche Award for his contributions to science, technology and public policy.",
+      "category": "National & Trending News",
+      "image": "https://images.firstpost.com/uploads/2026/09/Sethuraman-New-2026-09-44365f9ed1b61a5f6b0dc65c50815e27.jpg?im=FitAndFill,width=1200,height=675",
+      "source": "Firstpost",
+      "sourceUrl": "https://www.firstpost.com/tech/indian-origin-scientist-sethuraman-panchanathan-named-for-national-academy-of-engineerings-arthur-m-bueche-award-14046679.html",
+      "publishedAt": "2026-09-17T13:04:41.000Z",
+      "fetchedAt": "2026-09-17T21:26:17.556Z"
     },
     {
       "id": "fb7c23015341e6dd",
@@ -2740,17 +2751,6 @@
       "sourceUrl": "https://www.indiatoday.in/amp/technology/news/story/iphone-18-pro-is-made-in-india-apple-shipping-globally-including-us-on-charter-planes-2996578-2026-09-17",
       "publishedAt": "2026-09-17T06:32:14.000Z",
       "fetchedAt": "2026-09-17T06:36:45.497Z"
-    },
-    {
-      "id": "a8934c64a4ca3426",
-      "title": "Innokaiz India (BSE: 543905): Business Services Overview and Key Insights",
-      "summary": "Innokaiz India (BSE: 543905): Business Services Overview and Key Insights. This update was reported by kalkine.co.in. Open the original report for full context and any developing updates.",
-      "category": "Business & Finance",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EBusiness%20%26amp%3B%20Finance%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "kalkine.co.in",
-      "sourceUrl": "https://www.kalkine.co.in/article/business-finance/innokaiz-india-bse-543905-understanding-the-business-services-profile-and-key-areas-to-monitor",
-      "publishedAt": "2026-09-17T06:27:00.000Z",
-      "fetchedAt": "2026-09-17T20:29:57.064Z"
     }
   ]
 }
