@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-17T11:49:28.536Z",
+  "updatedAt": "2026-09-17T12:00:29.924Z",
   "count": 250,
   "articles": [
+    {
+      "id": "dfa9a7afb1da2af7",
+      "title": "India seeks technology-driven competitive advantage in mining sector: Minister",
+      "summary": "India seeks technology-driven competitive advantage in mining sector: Minister. This update was reported by Investment Guru India. Open the original report for full context and any developing updates.",
+      "category": "Technology",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "Investment Guru India",
+      "sourceUrl": "https://investmentguruindia.com/newsdetail/india-seeks-technology-driven-competitive-advantage-in-mining-sector-minister342018",
+      "publishedAt": "2026-09-17T11:44:56.000Z",
+      "fetchedAt": "2026-09-17T12:00:24.000Z"
+    },
     {
       "id": "20e454ff456d903e",
       "title": "She owes you nothing: Actor Sonarika calls for kindness amid Katrina Kaif trolling",
@@ -34,6 +45,17 @@
       "sourceUrl": "https://education.economictimes.indiatimes.com/news/industry/iiit-bangalore-taipei-computer-association-sign-loi-to-deepen-india-taiwan-tech-innovation-ties/134310449",
       "publishedAt": "2026-09-17T11:29:14.000Z",
       "fetchedAt": "2026-09-17T11:49:19.262Z"
+    },
+    {
+      "id": "d02a5be8541aef71",
+      "title": "From Hangzhou glory to Japan challenge: Indias Asian Games champions eye title defence",
+      "summary": "After Indias record-breaking campaign in Hangzhou, the countrys defending Asian Games champions are heading into another continental challenge, this time in Aichi-Nagoya, Japan, where the 2026 Asian Games will be held from September 19 to October 4.",
+      "category": "Sports",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWMxOTE2YmMwLWIyOGEtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
+      "source": "The Tribune",
+      "sourceUrl": "https://www.tribuneindia.com/news/sports/from-hangzhou-glory-to-japan-challenge-indias-asian-games-champions-eye-title-defence/",
+      "publishedAt": "2026-09-17T11:27:18.000Z",
+      "fetchedAt": "2026-09-17T12:00:21.029Z"
     },
     {
       "id": "a2f541b7ac4f1b8c",
@@ -100,6 +122,17 @@
       "sourceUrl": "https://newsarenaindia.com/entertainment/dr-vikram-mishra-honoured-at-bib-pride-of-bharat-award-2026/85046",
       "publishedAt": "2026-09-17T10:53:51.000Z",
       "fetchedAt": "2026-09-17T11:02:35.036Z"
+    },
+    {
+      "id": "d79f7a7b8bd335a4",
+      "title": "Vijayan accuses UDF govt of suppressing criticism over CPI(M) leader’s social media posts",
+      "summary": "Thiruvananthapuram, Sep 17 (PTI) CPI(M) veteran and Leader of Opposition Pinarayi Vijayan on Thursday criticised the UDF government over a police case reportedly registered against party leader K S Arun Kumar in connection with social media posts about Home Minister Ramesh Chennithala’s recent US visit. In a Facebook post, Vijayan…",
+      "category": "Politics & Government",
+      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
+      "source": "ThePrint",
+      "sourceUrl": "https://theprint.in/india/vijayan-accuses-udf-govt-of-suppressing-criticism-over-cpim-leaders-social-media-posts/3045564/",
+      "publishedAt": "2026-09-17T10:51:21.000Z",
+      "fetchedAt": "2026-09-17T12:00:17.384Z"
     },
     {
       "id": "ebac6850304f1314",
@@ -498,6 +531,17 @@
       "fetchedAt": "2026-09-17T09:35:25.519Z"
     },
     {
+      "id": "c0056e3feda364b7",
+      "title": "Finance Ministry Clarifies UPI MDR Policy Amid US Pressure Allegations",
+      "summary": "The Finance Ministry has refuted allegations that US pressure influenced the decision to levy a 0.4% Merchant Discount Rate (MDR) on select UPI payments. It clarified that NPCI guidelines prioritise RuPay credit cards on UPI to foster a domestic payment ecosystem and that the MDR introduction aims to create a…",
+      "category": "Business & Finance",
+      "image": "https://im.rediff.com/1200-630/money/2021/mar/10digital-payment.jpg",
+      "source": "Rediff",
+      "sourceUrl": "https://m.rediff.com/amp/business/report/finance-ministry-dismisses-us-pressure-on-upi-mdr-decision/20260917.htm",
+      "publishedAt": "2026-09-17T09:08:35.000Z",
+      "fetchedAt": "2026-09-17T12:00:26.122Z"
+    },
+    {
       "id": "6a8074e0e4507ed5",
       "title": "PM Modi Attends India-Norway Business and Research Summit in Oslo",
       "summary": "PM Modi Attends India-Norway Business and Research Summit in Oslo. This update was reported by News On AIR. Open the original report for full context and any developing updates.",
@@ -694,6 +738,28 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/defence/news/india-us-yudh-abhyas-2026-troops-conduct-counterterrorism-drill-with-drones-in-auli/articleshow/134305225.cms",
       "publishedAt": "2026-09-17T07:46:00.000Z",
       "fetchedAt": "2026-09-17T08:34:42.820Z"
+    },
+    {
+      "id": "bcd70afe55628d63",
+      "title": "Modi Courts Investors With India’s $30 Billion Chipmaking Bet",
+      "summary": "Modi Courts Investors With India’s $30 Billion Chipmaking Bet. This update was reported by Bloomberg.com. Open the original report for full context and any developing updates.",
+      "category": "Technology",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "Bloomberg.com",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-17/modi-courts-investors-with-india-s-30-billion-chipmaking-bet",
+      "publishedAt": "2026-09-17T07:31:36.000Z",
+      "fetchedAt": "2026-09-17T12:00:24.237Z"
+    },
+    {
+      "id": "de79bfcda8201127",
+      "title": "John Abraham-starrer Guru goes on floors",
+      "summary": "John Abraham-starrer Guru goes on floors. This update was reported by The New Indian Express. Open the original report for full context and any developing updates.",
+      "category": "Entertainment",
+      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-09-16%2F61lwj7ui%2FJohn_Abrahm_Ribhu_Dasgupta.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "The New Indian Express",
+      "sourceUrl": "https://www.newindianexpress.com/amp/story/entertainment/2026/Sep/17/hindinews2026sep16john-abraham-starrer-guru-goes-on-floors",
+      "publishedAt": "2026-09-17T07:30:00.000Z",
+      "fetchedAt": "2026-09-17T12:00:21.832Z"
     },
     {
       "id": "af4045409086c8c1",
@@ -1024,6 +1090,17 @@
       "sourceUrl": "https://www.indiatoday.in/amp/jobs/story/layoffs-in-corporate-india-why-turning-45-is-becoming-a-workplace-risk-educ-2996505-2026-09-17",
       "publishedAt": "2026-09-17T05:40:29.000Z",
       "fetchedAt": "2026-09-17T10:21:01.504Z"
+    },
+    {
+      "id": "f2b2a76efad64a33",
+      "title": "Cyber Alert: Today’s Biggest Cyber Crime Stories Shaking India – 17th September",
+      "summary": "Today’s cyber developments cover a ₹12.84-crore NBFC cyber heist, CISF-IIT Kanpur training, fraudulent SIM supply chains, AI policing and emerging AI-agent risks.",
+      "category": "Crime & Breaking News",
+      "image": "https://the420.in/wp-content/uploads/2026/09/c9f3a791-7bbc-487c-afa1-3137eb787823.png",
+      "source": "The420.in",
+      "sourceUrl": "https://the420.in/india-cyber-tech-brief-12-84-crore-nbfc-heist-ai-agent-risks/",
+      "publishedAt": "2026-09-17T05:40:26.000Z",
+      "fetchedAt": "2026-09-17T12:00:18.790Z"
     },
     {
       "id": "f639fb9b53107e06",
@@ -2674,83 +2751,6 @@
       "sourceUrl": "https://www.ptinews.com/story/business/bajaj-finance-personal-loan-interest-rates-borrowers-can-access-loans-starting-from-10-p-a-/4067825",
       "publishedAt": "2026-09-16T17:00:57.000Z",
       "fetchedAt": "2026-09-16T19:13:11.724Z"
-    },
-    {
-      "id": "beef3d88c1d9f8ac",
-      "title": "CBI registers case against U.S.-based Timothy Initiative, six others over alleged routing of funds through foreign debit cards",
-      "summary": "CBI investigates The Timothy Initiative and six others for allegedly routing foreign funds into India via foreign debit cards.",
-      "category": "National & Trending News",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
-      "source": "The Hindu",
-      "sourceUrl": "https://www.thehindu.com/news/national/cbi-registers-case-against-us-based-timothy-initiative-six-others-over-alleged-routing-of-funds-through-foreign-debit-cards/article71473327.ece",
-      "publishedAt": "2026-09-16T16:56:00.000Z",
-      "fetchedAt": "2026-09-16T20:09:04.450Z"
-    },
-    {
-      "id": "87aa5c9c5f036e62",
-      "title": "Chess Olympiad: Indian men beat Thailand 3-1; women blank Dominican Republic",
-      "summary": "World champion D Gukesh, Nihal Sarin and Vidit Gujrathi began India's men's campaign at the 46th Chess Olympiad with convincing victories, but Arjun Erigaisi's late collapse denied the team a clean sweep in a 3-1 win over Thailand on Wednesday.",
-      "category": "Sports",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/d-gukesh-051645484-16x9.jpg?VersionId=kDit9p5eLsKKe4EdyE2vVc4DOWodZILf",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/sports/other-sports/story/chess-olympiad-india-men-beat-thailand-3-1-women-beat-dominican-republic-2996308-2026-09-16",
-      "publishedAt": "2026-09-16T16:48:50.000Z",
-      "fetchedAt": "2026-09-16T20:08:58.768Z"
-    },
-    {
-      "id": "134a4df96e40ea15",
-      "title": "Oracle layoffs: CFO rejects ‘doing more with less’ as Indian employees share job-loss pain",
-      "summary": "Oracle layoffs: CFO rejects ‘doing more with less’ as Indian employees share job-loss pain. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
-      "category": "Crime & Breaking News",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ECrime%20%26amp%3B%20Breaking%20News%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "The Indian Express",
-      "sourceUrl": "https://indianexpress.com/article/world/oracle-cfo-hilary-maxson-doing-more-with-less-layoffs-ai-spending-10881127/",
-      "publishedAt": "2026-09-16T16:43:48.000Z",
-      "fetchedAt": "2026-09-17T08:34:39.286Z"
-    },
-    {
-      "id": "126dcc68e825234c",
-      "title": "Adidas confirms layoffs at India tech hub, around 50% employees affected",
-      "summary": "Adidas confirms layoffs at India tech hub, around 50% employees affected. This update was reported by India Today. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
-      "category": "Technology",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/ap-88340ed33a9743ecb0c4b5fcb298387a--0--162250215-16x9_0.jpg?VersionId=pANyWj10NUwcEqv0tjcfwjAExfPVlxfl",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/jobs/story/adidas-confirms-layoffs-at-india-tech-hub-around-50-employees-reportedly-affected-tchc-2996094-2026-09-16",
-      "publishedAt": "2026-09-16T16:43:48.000Z",
-      "fetchedAt": "2026-09-16T17:47:16.929Z"
-    },
-    {
-      "id": "a2b3560b726fd5e1",
-      "title": "2 wanted in theft cases shot in legs in Faridabad police encounter",
-      "summary": "2 wanted in theft cases shot in legs in Faridabad police encounter. This update was reported by The Times of India. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134292574,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/gurgaon/2-wanted-in-theft-cases-shot-in-legs-in-faridabad-police-encounter/articleshow/134292578.cms",
-      "publishedAt": "2026-09-16T16:43:00.000Z",
-      "fetchedAt": "2026-09-16T17:50:43.332Z"
-    },
-    {
-      "id": "9430e0a38e9ba997",
-      "title": "Pakistan demand neutral venue for Asian Champions Trophy, get blunt response from AHF VP: 'No such reques",
-      "summary": "Pakistan demand neutral venue for Asian Champions Trophy, get blunt response from AHF VP: 'No such reques. This update was reported by The Times of India. NewsTeen75 is showing the verified headline and source without adding unconfirmed details. Open the original report for full context and any developing updates.",
-      "category": "Sports",
-      "image": "https://static.toiimg.com/thumb/msid-134292444,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/hockey/pakistan-demand-neutral-venue-for-asian-champions-trophy-get-blunt-response-from-ahf-vp-no-such-request-would-be-entertained/articleshow/134292167.cms",
-      "publishedAt": "2026-09-16T16:37:00.000Z",
-      "fetchedAt": "2026-09-16T17:47:14.677Z"
-    },
-    {
-      "id": "63676c1dc01d8a9e",
-      "title": "Indian sports wrap, September 16: Pushpa Rana calls India’s Asian Games kabaddi credentials motivation not pressure",
-      "summary": "Here are India’s major updates, scores, and results from the world of sports on Wednesday, September 16.",
-      "category": "Sports",
-      "image": "https://ss-i.thgim.com/public/incoming/58kk5d/article71473936.ece/alternates/FREE_1200/GettyImages-450561823.jpg",
-      "source": "Sportstar",
-      "sourceUrl": "https://sportstar.thehindu.com/other-sports/indian-sports-wrap-september-16-wednesday-news-results-highlights-updates-summary/article71473762.ece/amp/",
-      "publishedAt": "2026-09-16T16:36:39.000Z",
-      "fetchedAt": "2026-09-16T18:43:07.687Z"
     }
   ]
 }
