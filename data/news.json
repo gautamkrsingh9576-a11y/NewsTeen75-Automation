@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-17T22:31:08.944Z",
+  "updatedAt": "2026-09-17T22:42:43.531Z",
   "count": 250,
   "articles": [
+    {
+      "id": "e96f922bf424d7b0",
+      "title": "Asian Games 2026: Cricket, hockey expected to be favourites to bring in gold",
+      "summary": "India's cricket and hockey teams head to the 2026 Asian Games carrying favourite's tags and heavy expectation. For cricket, it is a route to another gold and Olympic qualification, while hockey arrives with results and governance both under scrutiny.",
+      "category": "Sports",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/shreyas-iyer--harmanpreet-singh--harmanpreet-kaur--salima-tete-1748588-16x9_0.jpeg?VersionId=PxnhY_WYGstjmFSKfXocr9sbbd.x3Ykg",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/sports/asian-games/story/asian-games-2026-india-cricket-hockey-preview-schedule-squads-timing-medal-record-2996958-2026-09-18",
+      "publishedAt": "2026-09-17T22:30:25.000Z",
+      "fetchedAt": "2026-09-17T22:42:38.835Z"
+    },
     {
       "id": "c1aee8c97c9aecd8",
       "title": "Not a Haaland copy: Abhishek Sharma reveals true meaning behind new celebration",
@@ -221,6 +232,17 @@
       "sourceUrl": "https://www.ndtvprofit.com/business/gift-city-advances-nine-places-ranks-37th-globally-among-115-financial-centres-12061629",
       "publishedAt": "2026-09-17T18:02:29.000Z",
       "fetchedAt": "2026-09-17T21:39:33.937Z"
+    },
+    {
+      "id": "c8053299325e3923",
+      "title": "King Charles ‘warns’ Nvidia CEO Jensen Huang, Google DeepMind’s Demis Hassabis and other tech leaders: ‘S",
+      "summary": "Britain’s King Charles has cautioned prominent figures across the artificial intelligence (AI) sector about the existential threat posed by machine learning tools falling into hostile hands, arguing that robust defenses must be established before control slips away entirely. He hosted top corporate leadership from Silicon Valley and global research hubs…",
+      "category": "Technology",
+      "image": "https://static.toiimg.com/thumb/msid-134318592,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/king-charles-warns-nvidia-ceo-jensen-huang-google-deepminds-demis-hassabis-and-other-tech-leaders-surely-we-need/articleshow/134318552.cms",
+      "publishedAt": "2026-09-17T17:45:00.000Z",
+      "fetchedAt": "2026-09-17T22:42:40.952Z"
     },
     {
       "id": "4517a0e5c4b42e84",
@@ -2729,28 +2751,6 @@
       "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-17/india-outsourcing-shifts-upmarket-as-ai-reshapes-jobs-ing-says",
       "publishedAt": "2026-09-17T06:59:00.000Z",
       "fetchedAt": "2026-09-17T07:30:05.341Z"
-    },
-    {
-      "id": "124e2b78e4dc6a02",
-      "title": "Mohammad Rizwan moves Lahore High Court, challenges summons over England tour",
-      "summary": "Mohammad Rizwan has moved the Lahore High Court challenging an NCCIA summons linked to an investigation stemming from Pakistan’s troubled England tour. Pakistan, meanwhile, will look to put the 3-0 Test series defeat behind them when they begin their Asian Games 2026 campaign in the quarter-finals.",
-      "category": "Sports",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/mohammad-rizwan-174743485-16x9_0.jpg?VersionId=SxtKqgQuvd53dBhn6cb3DzUV9hzoPb8j",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/sports/cricket/story/mohammad-rizwan-lahore-high-court-nccia-summons-pakistan-england-tour-2996591-2026-09-17",
-      "publishedAt": "2026-09-17T06:57:32.000Z",
-      "fetchedAt": "2026-09-17T07:11:44.317Z"
-    },
-    {
-      "id": "d8c609335d85654a",
-      "title": "From Preity Zinta, Pankaj Tripathi to Grammy winner Ricky Kej: Meet the new 18-member CBFC board | Bollywood",
-      "summary": "The Union Ministry of Information and Broadcasting announced the reconstituted panel, with Shashi Shekhar Vempati continuing as chairperson.",
-      "category": "Entertainment",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/17/1600x900/logo/CBFC_1789627442125_s7ML_1789627446697_7Q8m_d745f195-b150-487a-85c2-bf11536c1169_pyG0.jpg",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/entertainment/bollywood/from-preity-zinta-pankaj-tripathi-grammy-winner-ricky-kej-suniel-shetty-priyadarshan-meet-the-new-18-member-cbfc-board-101789625525893-amp.html",
-      "publishedAt": "2026-09-17T06:54:46.000Z",
-      "fetchedAt": "2026-09-17T11:21:14.290Z"
     }
   ]
 }
