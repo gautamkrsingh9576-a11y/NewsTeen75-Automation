@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-18T03:16:23.135Z",
+  "updatedAt": "2026-09-18T03:32:07.507Z",
   "count": 250,
   "articles": [
+    {
+      "id": "cec0b663d8cd7953",
+      "title": "India vs Brazil: AIFF offers 14,000 discounted tickets to Kolkata clubs",
+      "summary": "AIFF has set aside more than 14,000 discounted tickets for supporters of Mohun Bagan, East Bengal and Mohammedan Sporting for India's friendly against Brazil in Kolkata. The move is aimed at drawing the city's football community into the stands as India prepare for rare Tier-1 tests against Brazil and Uruguay.",
+      "category": "Sports",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/brazil-football-team--kalyan-chaubey-181529176-16x9_0.jpg?VersionId=BrOjrMm8Q7VEVzO9nf36ZHFdw_3_9a4A",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/sports/football/story/india-vs-brazil-aiff-offers-14000-discounted-tickets-kolkata-clubs-east-bengal-mohun-bagan-2997334-2026-09-18",
+      "publishedAt": "2026-09-18T03:15:45.000Z",
+      "fetchedAt": "2026-09-18T03:32:01.573Z"
+    },
     {
       "id": "dcc194cf8b26cb14",
       "title": "India's Asian Games 2038 Bid: A Long Road Ahead",
@@ -232,6 +243,17 @@
       "sourceUrl": "https://www.dailyexcelsior.com/india-seeks-technology-driven-competitive-advantage-in-mining-sector-dr-jitendra/",
       "publishedAt": "2026-09-17T23:00:19.000Z",
       "fetchedAt": "2026-09-17T23:19:58.543Z"
+    },
+    {
+      "id": "68141f422e5f7b4b",
+      "title": "Bills vs Lions: Who is singing the national anthem today? Why is ‘O Canada’ being played? Know the performers",
+      "summary": "Bills vs Lions brings two national anthems before kickoff, with Barenaked Ladies and Auliʻi Cravalho leading the performances.",
+      "category": "National & Trending News",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/17/1600x900/logo/Bills_vs_Lions_1789685083341_1E0X_1789685083548_Ek4E_cfd18abb-4d49-41c9-a54f-58c735c23cc0_7sgN.jpg",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/sports/us-sports/bills-vs-lions-who-is-singing-the-national-anthem-today-why-is-o-canada-being-played-know-the-performers-101789684687498.html",
+      "publishedAt": "2026-09-17T22:58:22.000Z",
+      "fetchedAt": "2026-09-18T03:32:06.877Z"
     },
     {
       "id": "94a0ea91fd59576e",
@@ -2729,28 +2751,6 @@
       "sourceUrl": "https://theprint.in/india/death-of-tribal-children-in-balaghat-rahul-calls-mp-govt-indias-most-corrupt-incompetent/3045343/",
       "publishedAt": "2026-09-17T08:46:38.000Z",
       "fetchedAt": "2026-09-17T09:35:16.646Z"
-    },
-    {
-      "id": "d556531f1b5814e8",
-      "title": "Asian Games: Indian MMA star confirms accommodation mess, athletes stranded for hours",
-      "summary": "The Asian Games 2026 have begun with an unexpected accommodation headache in Nagoya, with Indian athletes among those facing lengthy waits for rooms. MMA fighter Varun Sanyal has confirmed the disruption, while Thailand's sepak takraw team faced a similar ordeal.",
-      "category": "Sports",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/nagoya--asian-games-226-174553823-16x9_0.png?VersionId=P5cIKhQxJsCwZyLnbboPO5bsB0r2ssXJ",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/sports/asian-games/story/asian-games-2026-accommodation-mess-varun-sanyal-confirms-indian-athletes-stranded-nagoya-2996701-2026-09-17",
-      "publishedAt": "2026-09-17T08:46:12.000Z",
-      "fetchedAt": "2026-09-17T08:59:42.820Z"
-    },
-    {
-      "id": "7a4f098c727737ae",
-      "title": "PIB debunks viral fake gazette claiming govt merger of 9 public sector banks",
-      "summary": "PIB fact-checkers debunk viral fake document claiming merger of nine PSU banks, clarifying no government proposal is on the table for such consolidation.",
-      "category": "Business & Finance",
-      "image": "https://media.assettype.com/gulfnews%2Fimport%2F2021%2F11%2F03%2FStock---SBI-Bank---State-Bank-of-India_17ce506c977_large.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "source": "Gulf News",
-      "sourceUrl": "https://gulfnews.com/business/banking/indian-government-fact-checkers-debunk-viral-claim-of-nine-psu-banks-merger-1.500677880",
-      "publishedAt": "2026-09-17T08:43:21.000Z",
-      "fetchedAt": "2026-09-17T12:59:10.631Z"
     }
   ]
 }
