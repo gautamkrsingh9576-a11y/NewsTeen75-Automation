@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-09-18T11:48:15.917Z",
+  "updatedAt": "2026-09-18T11:59:30.824Z",
   "count": 250,
   "articles": [
+    {
+      "id": "7516ced27e0f4489",
+      "title": "India’s semiconductor opportunity",
+      "summary": "Building talent, innovation, supplier ecosystems and manufacturing capabilities can strengthen India's semiconductor ecosystem",
+      "category": "Technology",
+      "image": "https://assets.kpmg.com/is/image/kpmgcloud/thumbnail-indias-semiconductor-opportunity",
+      "source": "kpmg.com",
+      "sourceUrl": "https://kpmg.com/in/en/insights/2026/09/indias-semiconductor-opportunity.html",
+      "publishedAt": "2026-09-18T11:48:58.000Z",
+      "fetchedAt": "2026-09-18T11:59:25.645Z"
+    },
+    {
+      "id": "93919332d50a1ea6",
+      "title": "What's new on OTT this week? 8 releases to spice up your watchlist",
+      "summary": "This week’s OTT line-up brings together romance, seduction, family conflict, survival action and stand-up comedy. The mix offers viewers a broad range of moods and genres across streaming platforms.",
+      "category": "Entertainment",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/ott-releases-of-the-week-184225408-16x9_0.jpg?VersionId=XyKL7J_IGJmZYUSGBTpDQb6VWYIjkngl",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/entertainment/ott/story/ott-releases-this-week-family-drama-survival-action-seduction-thrillers-stand-up-2997713-2026-09-18",
+      "publishedAt": "2026-09-18T11:46:31.000Z",
+      "fetchedAt": "2026-09-18T11:59:23.306Z"
+    },
+    {
+      "id": "6a260eeda54be546",
+      "title": "CBFC’s new film rules mention ‘anti-national’ content, internet reacts: ‘Call yourself Central Board of Film Censorship’ | Bollywood",
+      "summary": "The new rules also reiterate restrictions on violence, sensitive subjects and content that could affect India’s relations with other countries. | Bollywood",
+      "category": "National & Trending News",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/18/1600x900/logo/cbfc_1789727292645_4Tpq_1789727292799_jZ4V_cfa32326-0f00-40fa-a97d-95ebe7ef5570_WlAS.jpeg",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/entertainment/bollywood/cbfc-new-film-rules-mention-anti-national-content-internet-says-call-yourself-central-board-of-film-censorship-101789724688787.html",
+      "publishedAt": "2026-09-18T11:38:54.000Z",
+      "fetchedAt": "2026-09-18T11:59:30.545Z"
+    },
+    {
+      "id": "9e1167ad8fe60031",
+      "title": "\"Will Harm Bilateral Ties!\": India Warns US Over Proposed 100% Tariff Threat | BREKAING NEWS",
+      "summary": "| India warns the US over its proposed 100% tariff tariff tyranny, cautioning that such measures could impact bilateral ties between the two countries n18oc_worldn18oc_breaking-newsNews18 Mobile App - https://onelink.to/desc-youtube",
+      "category": "Crime & Breaking News",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/09/1789732033_5cb05fef-aca3-4d49-9806-db9285782d73-1200x675.jpeg",
+      "source": "News18",
+      "sourceUrl": "https://www.news18.com/videos/world/will-harm-bilateral-ties-india-warns-us-over-proposed-100-tariff-threat-brekaing-news-10339181.html",
+      "publishedAt": "2026-09-18T11:38:00.000Z",
+      "fetchedAt": "2026-09-18T11:59:20.198Z"
+    },
     {
       "id": "9f1b2dab6053e5b0",
       "title": "Tata Electronics partners with Fujifilm to accelerate semiconductor materials ecosystem in India",
@@ -135,6 +179,17 @@
       "fetchedAt": "2026-09-18T11:21:57.205Z"
     },
     {
+      "id": "709b3501894e4794",
+      "title": "The future of India’s enterprises is driven by innovation and ambition. Zee Media and SAP bring together the visionaries shaping the future of an AI-driven, agile and Atmanirbhar India at ‘Architects of Viksit Bharat’. Watch ‘Architects of Viksit Bharat - Ludhiana",
+      "summary": "The future of India’s enterprises is driven by innovation and ambition. Zee Media and SAP bring together the visionaries shaping the future of an AI-driven, agile and Atmanirbhar India at...",
+      "category": "Technology",
+      "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/813939344_940418235790308_4805102628343905676_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=596eb7&_nc_ohc=_B-2IHpTA24Q7kNvwEcKI9o&_nc_oc=AdpQE0FK5aLei-3ut0J5wDKp-QTXwIlUr8UR8TV3b2AjqWfdg5wIHr7xWW2d5lwZ348&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=16SEUyuV0YyFQEcI3TPLYQ&_nc_ss=70289&oh=00_AQJOfdEhzvAfUXvhyEe-MjIY3g6HHHqPp-V3UYeXGQOsEQ&oe=6AB31048",
+      "source": "facebook.com",
+      "sourceUrl": "https://www.facebook.com/zeebusinessonline/videos/the-future-of-indias-enterprises-is-driven-by-innovation-and-ambitionzee-media-a/2010387159611300/",
+      "publishedAt": "2026-09-18T10:55:22.000Z",
+      "fetchedAt": "2026-09-18T11:59:27.713Z"
+    },
+    {
       "id": "ed7ee3c493639e97",
       "title": "School assembly news headlines today- September 19: Top national, sports and world news curated for you",
       "summary": "Today’s school assembly news highlights top national, sports, and world events, covering important updates from politics, sports achievements, and global headlines for September 19.",
@@ -190,6 +245,17 @@
       "fetchedAt": "2026-09-18T10:52:11.460Z"
     },
     {
+      "id": "2eb7580ae418707d",
+      "title": "Chheda opens up on pressure to repeat Asian Games gold",
+      "summary": "Hriday Chheda, a gold medallist from the 2022 Asian Games, acknowledges the increased expectations for India",
+      "category": "Sports",
+      "image": "https://im.rediff.com/1200-630/sports/2026/sep/18shriday.jpg",
+      "source": "rediff.com",
+      "sourceUrl": "https://m.rediff.com/amp/sports/report/chheda-opens-up-on-pressure-to-repeat-asian-games-gold/20260918.htm",
+      "publishedAt": "2026-09-18T10:37:39.000Z",
+      "fetchedAt": "2026-09-18T11:59:22.330Z"
+    },
+    {
       "id": "ae664834aafbb8f6",
       "title": "AI-powered cardiac monitoring technology to launch in India on September 26",
       "summary": "Czech health-tech firm Kardi Ai will launch its AI-powered long-term cardiac monitoring technology in India on September 26 in Hyderabad. The prescription-grade system combines a wearable ECG chest strap, mobile connectivity and AI analytics to detect intermittent heart abnormalities",
@@ -232,6 +298,17 @@
       "sourceUrl": "https://hrtoday.in/saikat-mukhopadhyay-appointed-group-chief-financial-officer-at-boat-lifestyle/",
       "publishedAt": "2026-09-18T10:34:03.000Z",
       "fetchedAt": "2026-09-18T11:05:32.025Z"
+    },
+    {
+      "id": "5a6fde8900b44a85",
+      "title": "US national VanDyke gets default bail in NIA terror conspiracy case",
+      "summary": "The Rouse Avenue Court in Delhi has granted default bail to US national Matthew Aaron VanDyke in a case registered by the National Investigation Agency (NIA).",
+      "category": "National & Trending News",
+      "image": "https://static.toiimg.com/thumb/msid-134332585,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "timesofindia.indiatimes.com",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/us-national-vandyke-gets-default-bail-in-nia-terror-conspiracy-case/articleshow/134332458.cms",
+      "publishedAt": "2026-09-18T10:32:00.000Z",
+      "fetchedAt": "2026-09-18T11:59:30.824Z"
     },
     {
       "id": "94e3531fc171e584",
@@ -298,6 +375,17 @@
       "sourceUrl": "https://economictimes.indiatimes.com/nri/latest-updates/indian-man-first-to-be-charged-over-illegal-immigration-adverts-online-in-uk/articleshow/134331618.cms?from=mdr",
       "publishedAt": "2026-09-18T10:12:21.000Z",
       "fetchedAt": "2026-09-18T10:40:16.934Z"
+    },
+    {
+      "id": "5418482bb56016ce",
+      "title": "MA Political Science Course in India: Jobs, Salary and Future Scope",
+      "summary": "College Mentor connects you with Mentors who share their experiences, provide insights, educational content and inspire you to reach for the stars",
+      "category": "Politics & Government",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EPolitics%20%26amp%3B%20Government%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "College Mentor",
+      "sourceUrl": "https://www.collegementor.com/blogs/ma-political-science-course-in-india",
+      "publishedAt": "2026-09-18T10:12:15.000Z",
+      "fetchedAt": "2026-09-18T11:59:19.085Z"
     },
     {
       "id": "85fc607895a71aef",
@@ -430,6 +518,17 @@
       "sourceUrl": "https://www.businesstoday.in/jobs/story/reshaping-not-shrinking-how-indias-205-billion-tech-engine-defies-job-threats-in-ai-era-556430-2026-09-18",
       "publishedAt": "2026-09-18T09:36:26.000Z",
       "fetchedAt": "2026-09-18T09:53:11.893Z"
+    },
+    {
+      "id": "75e905f6af2375da",
+      "title": "Sonu Nigam to kick off ‘Revolution Tour India’ in Bengaluru in October - Mid-Day",
+      "summary": "Celebrated Indian singer Sonu Nigam is set to kick off the India leg of his highly-anticipated `Revolution Tour` live in Bengaluru on October 24",
+      "category": "Entertainment",
+      "image": "https://images.mid-day.com/images/images/2026/sep/SonuNigamSatrangiRetourlatestnews-1789724007117_d.png",
+      "source": "Mid-Day",
+      "sourceUrl": "https://www.mid-day.com/amp/lifestyle/culture/article/sonu-nigam-to-kick-off-revolution-tour-india-in-bengaluru-in-october-check-all-the-details-here-23650651",
+      "publishedAt": "2026-09-18T09:36:00.000Z",
+      "fetchedAt": "2026-09-18T11:59:24.699Z"
     },
     {
       "id": "d29bf3f43fbd49c1",
@@ -2652,105 +2751,6 @@
       "sourceUrl": "https://www.business-standard.com/content/press-releases-ani/niit-ltd-and-spjimr-launch-professional-certificate-in-fintech-operations-to-build-talent-for-india-s-digital-finance-ecosystem-126091800020_1.html",
       "publishedAt": "2026-09-17T18:50:02.000Z",
       "fetchedAt": "2026-09-17T19:55:25.088Z"
-    },
-    {
-      "id": "8b10502da71f9b72",
-      "title": "NIIT Ltd. And SPJIMR Launch Professional Certificate in FinTech Operations to Build Talent for India's Digital Finance Ecosystem",
-      "summary": "Mumbai (Maharashtra) [India], September 17: NIIT Limited, a leading skills and talent development corporation and Bharatiya Vidya Bhavan's S.P. Jain Institute of Management & Research (SPJIMR) have announced the launch of a Professional Certificate in FinTech Operations, designed to prepare students, graduates and early-career professionals for roles in India's digital…",
-      "category": "Business & Finance",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/18/full/20260917173200.jpg",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/content/press-releases-ani/niit-ltd-and-spjimr-launch-professional-certificate-in-fintech-operations-to-build-talent-for-india-s-digital-finance-ecosystem-126091800020_1.html",
-      "publishedAt": "2026-09-17T18:50:02.000Z",
-      "fetchedAt": "2026-09-17T19:19:24.738Z"
-    },
-    {
-      "id": "039661401bf8dd2e",
-      "title": "Complex priorities: On UPI transactions, MDR charges",
-      "summary": "The Merchant Discount Rate charges announced for UPI transactions show how political considerations can dilute economic benefits",
-      "category": "Politics & Government",
-      "image": "https://www.thehindu.com/theme/images/amp-og-image.jpg",
-      "source": "The Hindu",
-      "sourceUrl": "https://www.thehindu.com/opinion/editorial/complex-priorities-on-upi-transactions-mdr-charges/article71476513.ece/amp/",
-      "publishedAt": "2026-09-17T18:50:00.000Z",
-      "fetchedAt": "2026-09-18T00:08:26.278Z"
-    },
-    {
-      "id": "b92bc8a80600992c",
-      "title": "Asian Games 2026: India's full schedule today, September 18; events, timings",
-      "summary": "India will have another busy day at the Asian Games 2026 in Aichi-Nagoya, Japan, on Friday, September 18.",
-      "category": "Sports",
-      "image": "https://static.toiimg.com/thumb/msid-134318227,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-indias-full-schedule-today-september-18-events-timings/articleshow/134318049.cms",
-      "publishedAt": "2026-09-17T18:35:00.000Z",
-      "fetchedAt": "2026-09-17T19:18:40.111Z"
-    },
-    {
-      "id": "163ecf6c1a9b2157",
-      "title": "Election Commission bars both factions of Trinamool from using party name, symbol for byelections",
-      "summary": "Election Commission bars Trinamool factions from using party name and symbol in byelections, drawing criticism from Congress.",
-      "category": "National & Trending News",
-      "image": "https://th-i.thgim.com/public/incoming/3nfgsh/article71478141.ece/alternates/LANDSCAPE_1200/TMC%201.jpg",
-      "source": "The Hindu",
-      "sourceUrl": "https://www.thehindu.com/news/national/west-bengal/eci-bars-both-factions-of-trinamool-from-using-party-name-symbol-for-byelections/article71478009.ece",
-      "publishedAt": "2026-09-17T18:32:20.000Z",
-      "fetchedAt": "2026-09-18T02:46:56.407Z"
-    },
-    {
-      "id": "1f7f3c20526c89a4",
-      "title": "Asian Games: India Women target another cricket gold run as Japan await in quarters",
-      "summary": "India open their Asian Games women’s cricket campaign against hosts Japan in the quarter-final on Friday. The match gives Harmanpreet Kaur’s side a chance to carry their Asia Cup form into a knockout title defence.",
-      "category": "Sports",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/india-women-172944203-16x9_0.jpeg?VersionId=FdyyoRfbE.oZlNTiUcOMtXtg7JrBMCNT",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/sports/asian-games/story/india-vs-japan-womens-cricket-asian-games-india-quarterfinal-preview-2997017-2026-09-18",
-      "publishedAt": "2026-09-17T18:30:00.000Z",
-      "fetchedAt": "2026-09-17T18:50:17.889Z"
-    },
-    {
-      "id": "483e9e46ca79ca24",
-      "title": "‘The only way forward is through hard work’: Jhingan keen to forge a path back into national team after b",
-      "summary": "‘The only way forward is through hard work’: Jhingan keen to forge a path back into national team after b. This update was reported by The Times of India. Open the original report for full context and any developing updates.",
-      "category": "National & Trending News",
-      "image": "https://static.toiimg.com/thumb/msid-134319884,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/goa/the-only-way-forward-is-through-hard-work-jhingan-keen-to-forge-a-path-back-into-national-team-after-being-dropped/articleshow/134319880.cms",
-      "publishedAt": "2026-09-17T18:29:00.000Z",
-      "fetchedAt": "2026-09-17T19:01:44.343Z"
-    },
-    {
-      "id": "e2e1062a683be413",
-      "title": "Shooting legend and coach Jaspal Rana dies at 49; ‘Profound loss to Indian sports,’ says PM Modi",
-      "summary": "Shooting legend and coach Jaspal Rana dies at 49; ‘Profound loss to Indian sports,’ says PM Modi. This update was reported by DD News. Open the original report for full context and any developing updates.",
-      "category": "Sports",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "DD News",
-      "sourceUrl": "https://ddnews.gov.in/en/shooting-legend-and-coach-jaspal-rana-dies-at-49-profound-loss-to-indian-sports-says-pm-modi/",
-      "publishedAt": "2026-09-17T18:25:14.000Z",
-      "fetchedAt": "2026-09-18T04:32:09.747Z"
-    },
-    {
-      "id": "f55d961050cab542",
-      "title": "'Enabling environment of West Bengal will help business and credit growth' - business-standard.com",
-      "summary": "SBI sees robust credit demand in West Bengal, driven by MSMEs, retail, housing, agriculture and infrastructure as the business environment improves",
-      "category": "Business & Finance",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/17/thumb/fitandfill/1200X628/1789669175-7032.jpg",
-      "source": "business-standard.com",
-      "sourceUrl": "https://www.business-standard.com/finance/interviews/enabling-environment-of-west-bengal-will-help-business-and-credit-growth-126091701596_1.html",
-      "publishedAt": "2026-09-17T18:24:46.000Z",
-      "fetchedAt": "2026-09-18T02:46:46.233Z"
-    },
-    {
-      "id": "f55d961050cab542",
-      "title": "'Enabling environment of West Bengal will help business and credit growth'",
-      "summary": "SBI sees robust credit demand in West Bengal, driven by MSMEs, retail, housing, agriculture and infrastructure as the business environment improves",
-      "category": "Business & Finance",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/17/thumb/fitandfill/1200X628/1789669175-7032.jpg",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/finance/interviews/enabling-environment-of-west-bengal-will-help-business-and-credit-growth-126091701596_1.html",
-      "publishedAt": "2026-09-17T18:24:46.000Z",
-      "fetchedAt": "2026-09-17T23:06:59.401Z"
     }
   ]
 }
