@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-18T15:31:31.483Z",
+  "updatedAt": "2026-09-18T15:46:22.357Z",
   "count": 250,
   "articles": [
+    {
+      "id": "b70a9e0c10f8aa1a",
+      "title": "Karan Johar meets Prince William in London ahead of Earthshot Prize 2026 in Mumbai; duo discuss India's r",
+      "summary": "Filmmaker Karan Johar recently met Prince William in London ahead of the sixth annual Earthshot Prize Awards Night, which will be held in Mumbai on November 17, 2026. During their conversation, the two discussed this year’s finalists, environmental challenges and the importance of finding sustainable solutions, with Prince William also…",
+      "category": "Entertainment",
+      "image": "https://static.toiimg.com/thumb/msid-134338795,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/karan-johar-meets-prince-william-in-london-ahead-of-earthshot-prize-2026-in-mumbai-duo-discuss-indias-rain-crisis-farmers-under-stress-environmental-solutions-15-finalists-and-1-million-prize-for-each-winner/articleshow/134338616.cms",
+      "publishedAt": "2026-09-18T15:34:00.000Z",
+      "fetchedAt": "2026-09-18T15:46:15.919Z"
+    },
     {
       "id": "845f7ad5c0a806c6",
       "title": "Indian-born cheetah KGP12 gives birth to four cubs at Kuno National Park | HT India | Videos",
@@ -34,6 +45,17 @@
       "sourceUrl": "https://thebridge.in/sports-market/adidas-reduces-roles-in-india-technology-organisation-amid-restructuring-57654",
       "publishedAt": "2026-09-18T15:16:39.000Z",
       "fetchedAt": "2026-09-18T15:31:24.868Z"
+    },
+    {
+      "id": "0f5515178be4b510",
+      "title": "Rajnath urges scientists, engineers to build tech that doesn’t exist today",
+      "summary": "Defence News: BENGALURU: Terming R&D as a crucial priority area, defence minister Rajnath Singh Friday urged young scientists, engineers, designers, test pilots.",
+      "category": "Technology",
+      "image": "https://static.toiimg.com/thumb/msid-134338541,width-1280,height-720,imgsize-32784,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/defence/rajnath-urges-scientists-engineers-to-build-tech-that-doesnt-exist-today/articleshow/134338480.cms",
+      "publishedAt": "2026-09-18T15:11:00.000Z",
+      "fetchedAt": "2026-09-18T15:46:17.233Z"
     },
     {
       "id": "54d5cf035da976f3",
@@ -287,6 +309,17 @@
       "sourceUrl": "https://www.tribuneindia.com/news/india/delhi-court-grants-default-bail-to-us-national-in-myanmar-drone-training-camp-case/amp/?utm=relatedarticles",
       "publishedAt": "2026-09-18T13:20:35.000Z",
       "fetchedAt": "2026-09-18T13:44:46.967Z"
+    },
+    {
+      "id": "fb42d1d27b37ab39",
+      "title": "Japan’s reputation for precision meets its own Asian Games",
+      "summary": "Japan’s reputation for precision meets its own Asian Games. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
+      "category": "Sports",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "The Indian Express",
+      "sourceUrl": "https://indianexpress.com/article/sports/asian-games-2026-japan-reputation-aichi-nagoya-problems-controversies-10884026/",
+      "publishedAt": "2026-09-18T13:17:33.000Z",
+      "fetchedAt": "2026-09-18T15:46:15.020Z"
     },
     {
       "id": "b378a8a8422fec0d",
@@ -1994,6 +2027,17 @@
       "fetchedAt": "2026-09-18T07:25:10.506Z"
     },
     {
+      "id": "571f8d19dff090bd",
+      "title": "UGC-NET results for re-exam of English, commerce, sociology announced",
+      "summary": "UGC-NET re-exam results for English, commerce, and sociology announced; candidates can check scores on the official NTA website.",
+      "category": "National & Trending News",
+      "image": "https://th-i.thgim.com/public/incoming/mvnzuv/article71479698.ece/alternates/LANDSCAPE_1200/5.jpg",
+      "source": "The Hindu",
+      "sourceUrl": "https://www.thehindu.com/news/national/ugc-net-results-for-re-exam-of-english-commerce-sociology-announced/article71479671.ece",
+      "publishedAt": "2026-09-18T07:00:48.000Z",
+      "fetchedAt": "2026-09-18T15:46:21.985Z"
+    },
+    {
       "id": "80a4ad093f2eef33",
       "title": "Semicon India 2026: L&T Semiconductor unveils 40 products, marks entry into SiC platform",
       "summary": "L&T Semiconductor Technologies (LTSCT) showcases 40 new products at SEMICON India 2026, including a groundbreaking silicon carbide platform, aimed at enhancing India",
@@ -2478,6 +2522,17 @@
       "fetchedAt": "2026-09-18T08:06:30.615Z"
     },
     {
+      "id": "56d1867af66d52ef",
+      "title": "Sports collaboration roadmap charts India-Australia cooperation through 2032 and beyond",
+      "summary": "Sports collaboration roadmap charts India-Australia cooperation through 2032 and beyond. This update was reported by DD News. Open the original report for full context and any developing updates.",
+      "category": "Sports",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "DD News",
+      "sourceUrl": "https://ddnews.gov.in/en/sports-collaboration-roadmap-charts-india-australia-cooperation-through-2032-and-beyond/",
+      "publishedAt": "2026-09-18T05:27:04.000Z",
+      "fetchedAt": "2026-09-18T15:46:14.677Z"
+    },
+    {
       "id": "bf34fab916e49427",
       "title": "Asian Games 2026: Room Chaos Hits Indian Contingent Days Before Games",
       "summary": "The 2026 Asian Games are days away, but accommodation issues have reportedly created confusion for the Indian contingent in Nagoya. Sources say several athletes faced long waits for rooms, with instances of shared or mismatched room allotments. The IOA has stepped in amid the reported chaos, while welcome ceremonies for…",
@@ -2696,61 +2751,6 @@
       "sourceUrl": "https://education.economictimes.indiatimes.com/news/international/india-and-bangladesh-discuss-deepening-cooperation-in-education-technology-innovation/134326073?utm_source=latest_news&utm_medium=homepage",
       "publishedAt": "2026-09-18T04:45:12.000Z",
       "fetchedAt": "2026-09-18T09:26:11.176Z"
-    },
-    {
-      "id": "c60aa4590896c982",
-      "title": "Cyble and Cyber Security Council of UAE Sign MOU to Strengthen National Threat Intelligence Capabilities",
-      "summary": "Abu Dhabi [UAE], September 18:&nbsp;Cyble, a global AI-native cybersecurity company, today announced the signing of a Memorandum of Understanding (MOU) with the Cyber Security Council of the United Arab Emirates (UAE), the federal entity responsible for strengthening the UAEs cybersecurity posture. The agreement formalizes a strategic collaboration centered on Cybles…",
-      "category": "National & Trending News",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWIyZjRkZjMwLWIzMWEtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
-      "source": "The Tribune",
-      "sourceUrl": "https://www.tribuneindia.com/news/business/cyble-and-cyber-security-council-of-uae-sign-mou-to-strengthen-national-threat-intelligence-capabilities/amp/?utm=relatedarticles",
-      "publishedAt": "2026-09-18T04:37:40.000Z",
-      "fetchedAt": "2026-09-18T04:57:15.959Z"
-    },
-    {
-      "id": "2888be54f6da3c10",
-      "title": "Delhi Teen Gang-Raped, Killed; Decomposed Body, Severed Hand Found In Field, Parts Eaten By Stray Dogs",
-      "summary": "A 17-year-old girl was raped and stabbed to death in Delhi. Her decomposed body was found in an open field with one hand separated and parts eaten by stray dogs.",
-      "category": "Crime & Breaking News",
-      "image": "https://images.news18.com/ibnlive/uploads/2026/09/MixCollage-18-Sep-2026-10-58-AM-1087-2026-09-f8ea9e0e99cbc4eae7a10e3818513373-1200x675.jpg",
-      "source": "News18",
-      "sourceUrl": "https://www.news18.com/amp/india/delhi-teen-raped-stabbed-to-death-body-decomposed-eaten-by-stray-dogs-4-arrested-ws-el-10338066.html",
-      "publishedAt": "2026-09-18T04:36:04.000Z",
-      "fetchedAt": "2026-09-18T06:36:52.550Z"
-    },
-    {
-      "id": "ef3e6e296337f4b3",
-      "title": "JioStar’s ‘India Ke Top 1%’ onboards seven sponsors ahead of premiere",
-      "summary": "JioStar’s ‘India Ke Top 1%’ onboards seven sponsors ahead of premiere. This update was reported by Adgully.com. Open the original report for full context and any developing updates.",
-      "category": "Entertainment",
-      "image": "https://erp.adgully.com/artical_image/45db187bd205335cc7c292b5243bb4ce.jpeg",
-      "source": "Adgully.com",
-      "sourceUrl": "https://www.adgully.com/post/20785/jiostars-india-ke-top-1-onboards-seven-sponsors-ahead-of-premiere",
-      "publishedAt": "2026-09-18T04:35:00.000Z",
-      "fetchedAt": "2026-09-18T07:07:47.370Z"
-    },
-    {
-      "id": "c1e68d1d49d5286f",
-      "title": "BRICS in India",
-      "summary": "Foreign policy must rise above partisan politics Brig Anil Gupta anil5457@gmail.com Indias decision to host the BRICS Summit should ordinarily be a matter of national confidence rather than partisan controversy. At a time when the international order is undergoing...",
-      "category": "Politics & Government",
-      "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTlkOGI0MzYwLWIzMTktMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
-      "source": "Daily Excelsior",
-      "sourceUrl": "https://www.dailyexcelsior.com/brics-in-india/amp/",
-      "publishedAt": "2026-09-18T04:30:01.000Z",
-      "fetchedAt": "2026-09-18T04:46:17.695Z"
-    },
-    {
-      "id": "02bd1b28bf030e6b",
-      "title": "Nadella Joins 40-Plus Indian-American Tech CEOs To Discuss India-US Tech Ties",
-      "summary": "Satya Nadella emphasized Seattle-India tech collaboration at the Ideas4India forum, highlighting AI and innovation ties.",
-      "category": "Technology",
-      "image": "https://thecsrjournal.in/wp-content/uploads/2026/09/Satya-Nadela.jpeg",
-      "source": "thecsrjournal.in",
-      "sourceUrl": "https://thecsrjournal.in/nadella-joins-40-plus-indian-american-tech-ceos-to-discuss-india-us-tech-ties",
-      "publishedAt": "2026-09-18T04:28:50.000Z",
-      "fetchedAt": "2026-09-18T04:46:25.719Z"
     }
   ]
 }
