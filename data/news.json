@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T18:19:51.694Z",
+  "updatedAt": "2026-09-18T18:35:37.376Z",
   "count": 250,
   "articles": [
     {
@@ -91,6 +91,17 @@
       "fetchedAt": "2026-09-18T17:36:23.655Z"
     },
     {
+      "id": "62d9f27216b98306",
+      "title": "Indian sports wrap, September 18: F4 Indian Championship returns to Coimbatore for Round 2",
+      "summary": "Here are India’s major updates, scores, and results from the world of sports on Friday, September 18.",
+      "category": "Sports",
+      "image": "https://ss-i.thgim.com/public/incoming/dxmzo1/article71481263.ece/alternates/LANDSCAPE_1200/F4%20Indian%20Championship%20Returns%20to%20Kari%20Motor%20Speedway%20for%20Round%202%20as%20Championship%20Battle%20Intensifies%20-%20Image%201.jpeg",
+      "source": "Sportstar",
+      "sourceUrl": "https://sportstar.thehindu.com/other-sports/indian-sports-wrap-september-18-friday-news-results-highlights-updates-summary/article71481249.ece",
+      "publishedAt": "2026-09-18T16:57:02.000Z",
+      "fetchedAt": "2026-09-18T18:35:29.600Z"
+    },
+    {
       "id": "a21afe8805b3464a",
       "title": "Asian Games 2026: Sports Ministry reaches out to Indian diaspora amid accommodation crisis in Nagoya",
       "summary": "Sports Ministry reaches out to Indian diaspora to help deal with lodging crisis at Asiad",
@@ -177,6 +188,17 @@
       "sourceUrl": "https://manufacturing.economictimes.indiatimes.com/news/hi-tech/odisha-gets-23600-crore-investment-proposals-at-semicon-india-2026/134338901?utm_source=latest_news&utm_medium=homepage",
       "publishedAt": "2026-09-18T15:50:14.000Z",
       "fetchedAt": "2026-09-18T16:31:10.529Z"
+    },
+    {
+      "id": "781dc23293358de7",
+      "title": "‘Delays in military projects serious, causing technology gap’: Rajnath amid Tejas Mk-1A setbacks",
+      "summary": "Military project timelines have to be kept ‘realistic’, the minister says amid schedule overruns in the production of indigenous Tejas Mark-1A fighter jets",
+      "category": "Technology",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWM1NDczZTkwLWIzOGMtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
+      "source": "The Tribune",
+      "sourceUrl": "https://www.tribuneindia.com/news/defence/delays-in-military-projects-serious-causing-technology-gap-rajnath-singh/",
+      "publishedAt": "2026-09-18T15:49:49.000Z",
+      "fetchedAt": "2026-09-18T18:35:34.019Z"
     },
     {
       "id": "c6d68a2e272b5850",
@@ -2729,28 +2751,6 @@
       "sourceUrl": "https://www.constructionworld.in/latest-construction-technology/hirata-partners-ats-india-to-expand-semiconductor-technology-access/97538",
       "publishedAt": "2026-09-18T06:00:48.000Z",
       "fetchedAt": "2026-09-18T06:14:53.063Z"
-    },
-    {
-      "id": "2fca65815a6f1ffd",
-      "title": "Microsoft CEO Nadella lauds Seattle tech community's strengthening ties with India",
-      "summary": "Microsoft CEO Nadella lauds Seattle tech community's strengthening ties with India. This update was reported by Udayavani. Open the original report for full context and any developing updates.",
-      "category": "Technology",
-      "image": "https://d3jde0c4xcko0v.cloudfront.net/production/18-09-26/news/60g4r8mu6j3zuuFotoJet%20(86).webp",
-      "source": "Udayavani",
-      "sourceUrl": "https://udayavani.com/business/microsoft-ceo-nadella-lauds-seattle-tech-communitys-strengthening-ties-with-india-562030?lang=en",
-      "publishedAt": "2026-09-18T05:58:25.000Z",
-      "fetchedAt": "2026-09-18T07:52:35.580Z"
-    },
-    {
-      "id": "d8ad343479bfdea8",
-      "title": "Global tech debates AI speed. But slowing down isn’t among India’s priorities.",
-      "summary": "OpenAI, Anthropic and others are debating how fast AI should advance, but Indian AI labs and startups are not losing sleep over this. They have other questions to deal with: what immediate areas to focus on, how much to invest in them, and what to build for the long term.",
-      "category": "Technology",
-      "image": "https://images.the-captable.com/cs/158/d99b1110116911ed9e63f54395117598/AiSafetyFeatureImage-1789706812408.jpg",
-      "source": "The CapTable",
-      "sourceUrl": "https://the-captable.com/2026/09/frontier-ai-safety-speed-debate-india-ecosystem-not-slowing/?paymentMethod=international",
-      "publishedAt": "2026-09-18T05:57:36.000Z",
-      "fetchedAt": "2026-09-18T10:40:22.239Z"
     }
   ]
 }
