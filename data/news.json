@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-18T02:32:43.318Z",
+  "updatedAt": "2026-09-18T02:46:56.408Z",
   "count": 250,
   "articles": [
+    {
+      "id": "3f13fb5c66b6f784",
+      "title": "India moving beyond R&D hub to smart technology market",
+      "summary": "Important referral for telecom, networking, IT solution equipment buyer, and broadcasters since the last 25 years.",
+      "category": "Technology",
+      "image": "https://www.communicationstoday.co.in/wp-content/uploads/2026/09/India-moving-beyond-RD-hub-to-smart-technology-market.jpg",
+      "source": "Communications Today",
+      "sourceUrl": "https://www.communicationstoday.co.in/india-moving-beyond-rd-hub-to-smart-technology-market/",
+      "publishedAt": "2026-09-18T02:39:23.000Z",
+      "fetchedAt": "2026-09-18T02:46:44.556Z"
+    },
     {
       "id": "b4b88436a632e02d",
       "title": "Hardik Pandya will be good: Gautam Gambhir backs India all-rounder's comeback",
@@ -223,6 +234,17 @@
       "fetchedAt": "2026-09-17T23:30:52.129Z"
     },
     {
+      "id": "9aa81bd23c712d3e",
+      "title": "India Wins Third ICC Men’s T20 World Cup Title; President, Vice President and PM Congratulate Winning Team",
+      "summary": "India Wins Third ICC Men’s T20 World Cup Title; President, Vice President and PM Congratulate Winning Team. This update was reported by News On AIR. Open the original report for full context and any developing updates.",
+      "category": "Sports",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "News On AIR",
+      "sourceUrl": "https://newsonair.gov.in/india-wins-third-icc-mens-t20-world-cup-title-president-vice-president-and-pm-congratulate-winning-team/",
+      "publishedAt": "2026-09-17T21:50:14.000Z",
+      "fetchedAt": "2026-09-18T02:46:40.873Z"
+    },
+    {
       "id": "c1aee8c97c9aecd8",
       "title": "Not a Haaland copy: Abhishek Sharma reveals true meaning behind new celebration",
       "summary": "Abhishek Sharma said his celebration after the record-breaking hundred against Afghanistan was rooted in meditation, not imitation. He said the practice has steadied him through cricket's swings and he wanted others to notice its value.",
@@ -388,6 +410,17 @@
       "fetchedAt": "2026-09-17T19:18:40.111Z"
     },
     {
+      "id": "163ecf6c1a9b2157",
+      "title": "Election Commission bars both factions of Trinamool from using party name, symbol for byelections",
+      "summary": "Election Commission bars Trinamool factions from using party name and symbol in byelections, drawing criticism from Congress.",
+      "category": "National & Trending News",
+      "image": "https://th-i.thgim.com/public/incoming/3nfgsh/article71478141.ece/alternates/LANDSCAPE_1200/TMC%201.jpg",
+      "source": "The Hindu",
+      "sourceUrl": "https://www.thehindu.com/news/national/west-bengal/eci-bars-both-factions-of-trinamool-from-using-party-name-symbol-for-byelections/article71478009.ece",
+      "publishedAt": "2026-09-17T18:32:20.000Z",
+      "fetchedAt": "2026-09-18T02:46:56.407Z"
+    },
+    {
       "id": "1f7f3c20526c89a4",
       "title": "Asian Games: India Women target another cricket gold run as Japan await in quarters",
       "summary": "India open their Asian Games women’s cricket campaign against hosts Japan in the quarter-final on Friday. The match gives Harmanpreet Kaur’s side a chance to carry their Asia Cup form into a knockout title defence.",
@@ -408,6 +441,17 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/city/goa/the-only-way-forward-is-through-hard-work-jhingan-keen-to-forge-a-path-back-into-national-team-after-being-dropped/articleshow/134319880.cms",
       "publishedAt": "2026-09-17T18:29:00.000Z",
       "fetchedAt": "2026-09-17T19:01:44.343Z"
+    },
+    {
+      "id": "f55d961050cab542",
+      "title": "'Enabling environment of West Bengal will help business and credit growth' - business-standard.com",
+      "summary": "SBI sees robust credit demand in West Bengal, driven by MSMEs, retail, housing, agriculture and infrastructure as the business environment improves",
+      "category": "Business & Finance",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/17/thumb/fitandfill/1200X628/1789669175-7032.jpg",
+      "source": "business-standard.com",
+      "sourceUrl": "https://www.business-standard.com/finance/interviews/enabling-environment-of-west-bengal-will-help-business-and-credit-growth-126091701596_1.html",
+      "publishedAt": "2026-09-17T18:24:46.000Z",
+      "fetchedAt": "2026-09-18T02:46:46.233Z"
     },
     {
       "id": "f55d961050cab542",
@@ -2707,50 +2751,6 @@
       "sourceUrl": "https://www.businesstoday.in/bt-tv/market-today/video/gold-finance-jewellery-stocks-expert-outlook-ahead-of-festive-season-sky-gold-in-focus-556122-2026-09-17",
       "publishedAt": "2026-09-17T08:35:20.000Z",
       "fetchedAt": "2026-09-17T12:59:10.149Z"
-    },
-    {
-      "id": "71fa53b473bd6ad3",
-      "title": "Wildwood- Official Trailer​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "summary": "Watch the Official trailer​ from english​​ movie '​​​Wildwood' starring Peyton Elizabeth Lee and Jacob Tremblay. 'Wildwood' movie is directed by Travis Knight. To know more about '​​​Wildwood' trailer​ watch the video. Check out the latest english​​ trailer​s, new movie trailer​s, trending english​​ movie trailer​, and more at ETimes - Times…",
-      "category": "Entertainment",
-      "image": "https://static.toiimg.com/thumb/msid-134306320,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/videos/entertainment/english/wildwood-official-trailer/videoshow/134306320.cms",
-      "publishedAt": "2026-09-17T08:31:48.000Z",
-      "fetchedAt": "2026-09-17T12:24:49.958Z"
-    },
-    {
-      "id": "21c0a9c1075710b5",
-      "title": "Shri Ramayan Katha - Official Chhattisgarhi Trailer",
-      "summary": "Watch the Official trailer from chhattisgarhi movie 'Shri Ramayan Katha' starring Dev Sharma, Anjali Arora. 'Shri Ramayan Katha' movie is directed by Abhishek Singh. To know more about 'Shri Ramayan Katha' trailer watch the video. Check out the latest chhattisgarhi trailers, new movie trailers, trending chhattisgarhi movie trailer, and more…",
-      "category": "Entertainment",
-      "image": "https://static.toiimg.com/thumb/msid-134306218,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/videos/entertainment/regional/chhattisgarhi/shri-ramayan-katha-official-chhattisgarhi-trailer/videoshow/134306218.cms",
-      "publishedAt": "2026-09-17T08:26:07.000Z",
-      "fetchedAt": "2026-09-17T10:36:11.047Z"
-    },
-    {
-      "id": "7d0bd8843b9bb0fa",
-      "title": "Shri Ramayan Katha - Official Trailer",
-      "summary": "Watch the Official trailer from Hindi movie 'Shri Ramayan Katha' starring Dev Sharma, Anjali Arora. 'Shri Ramayan Katha' movie is directed by Abhishek Singh. To know more about 'Shri Ramayan Katha' trailer watch the video. Check out the latest Hindi trailers, new movie trailers, trending Hindi movie trailer, and more…",
-      "category": "Entertainment",
-      "image": "https://static.toiimg.com/thumb/msid-134306175,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/videos/entertainment/hindi/shri-ramayan-katha-official-trailer/videoshow/134306175.cms",
-      "publishedAt": "2026-09-17T08:23:42.000Z",
-      "fetchedAt": "2026-09-17T11:49:18.170Z"
-    },
-    {
-      "id": "d67261287590ddb6",
-      "title": "Isro Staff: Not against Pvt Cos; demand due process, transparency; want strategic missions to remain unde",
-      "summary": "Private participation has a role in expanding India’s space sector, but publicly funded technology, infrastructure and expertise must be subject to transparency, proper valuation and accountability when made available for commercial use, a Joint Action Council (JAC) representing Isro employee associations has said.",
-      "category": "Technology",
-      "image": "https://static.toiimg.com/thumb/msid-134306103,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/science/isro-staff-not-against-pvt-cos-demand-due-process-transparency-want-strategic-missions-to-remain-under-isro/articleshow/134305965.cms",
-      "publishedAt": "2026-09-17T08:20:00.000Z",
-      "fetchedAt": "2026-09-17T08:34:42.398Z"
     }
   ]
 }
