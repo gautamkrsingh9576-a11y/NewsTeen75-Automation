@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-18T05:44:02.872Z",
+  "updatedAt": "2026-09-18T05:55:09.342Z",
   "count": 250,
   "articles": [
+    {
+      "id": "a4acfaeb34a29ff1",
+      "title": "India among six bidders for 2038 Asian Games, OCA decision by 2028",
+      "summary": "India’s bid to host the 2038 Asian Games has entered a long evaluation process, with the Olympic Council Asia confirming that the final decision is still years away. The country is competing with five other nations for the multi-sport spectacle.",
+      "category": "Sports",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/asian-games-2026-243027605-16x9.jpg?VersionId=kdIe4SNxt2WV6Tpkaja_cD2ZS3qRknhx",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/sports/asian-games/story/india-among-six-bidders-2038-asian-games-oca-decision-2028-2997422-2026-09-18",
+      "publishedAt": "2026-09-18T05:41:49.000Z",
+      "fetchedAt": "2026-09-18T05:55:02.052Z"
+    },
     {
       "id": "ece5c7a0738a7cfd",
       "title": "Missing Delhi man found dead in Gurugram, was shot by ex-colleague, her partner | India News",
@@ -23,6 +34,28 @@
       "sourceUrl": "https://www.thehindu.com/sci-tech/health/biotechnology-and-healthcare-where-we-are-in-india-and-where-we-need-to-go/article71471597.ece",
       "publishedAt": "2026-09-18T05:25:40.000Z",
       "fetchedAt": "2026-09-18T05:43:59.140Z"
+    },
+    {
+      "id": "5a7716c770e4b1fa",
+      "title": "Asian Games 2026: India shooting schedule, athletes and event timings in IST",
+      "summary": "India’s shooters will compete across rifle, pistol and shotgun events at the Asian Games 2026 in Japan. The shooting competition will be held from September 19 to October 1.",
+      "category": "Sports",
+      "image": "https://static.toiimg.com/thumb/msid-134326658,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-india-shooting-schedule-athletes-and-event-timings-in-ist/articleshow/134326121.cms",
+      "publishedAt": "2026-09-18T05:19:00.000Z",
+      "fetchedAt": "2026-09-18T05:55:01.725Z"
+    },
+    {
+      "id": "8d06ec0fd5004aea",
+      "title": "India-Taiwan Tech ties: Karnataka inks cooperation pact on AI, digital economy",
+      "summary": "Karnataka has inked a tech pact with Taiwan to boost collaboration in artificial intelligence, cybersecurity, and the digital economy, strengthening India-Taiwan tech ties.",
+      "category": "Technology",
+      "image": "https://cdn1.wionews.com/prod/wion/images/2026/20260918/image-1789708450577.jpg?imwidth=1200&imheight=900",
+      "source": "WION",
+      "sourceUrl": "https://www.wionews.com/world/india-taiwan-tech-ties-karnataka-inks-cooperation-pact-on-ai-digital-economy-1789708348718",
+      "publishedAt": "2026-09-18T05:18:00.000Z",
+      "fetchedAt": "2026-09-18T05:55:04.537Z"
     },
     {
       "id": "e256855d8a759b16",
@@ -256,6 +289,17 @@
       "fetchedAt": "2026-09-18T03:57:30.514Z"
     },
     {
+      "id": "037aa44b7fa4750c",
+      "title": "Anto Joseph takes over as Editor of The Financial Standard, TNIE’s upcoming business daily",
+      "summary": "Anto Joseph takes over as Editor of The Financial Standard, TNIE’s upcoming business daily. This update was reported by Exchange4Media. Open the original report for full context and any developing updates.",
+      "category": "Business & Finance",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EBusiness%20%26amp%3B%20Finance%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "Exchange4Media",
+      "sourceUrl": "https://www.exchange4media.com/people-movement-news/anto-joseph-takes-over-as-editor-of-the-financial-standard-tnies-upcoming-business-daily-158353.html",
+      "publishedAt": "2026-09-18T03:42:50.000Z",
+      "fetchedAt": "2026-09-18T05:55:06.603Z"
+    },
+    {
       "id": "d7dd1cedf72c257e",
       "title": "Nani does not like the pan-India tag, asks why it is only used for south films: 'Nobody calls Jawan or Pathaan that' | Hindustan Times",
       "summary": "Telugu star Nani said he does not want any film to be called pan-India and questioned why the term is used exclusively for South Indian films.",
@@ -298,6 +342,17 @@
       "sourceUrl": "https://openthemagazine.com/world/satya-nadella-backs-indias-ai-potential-says-it-could-lead-world-in-developers-by-2030",
       "publishedAt": "2026-09-18T03:27:43.000Z",
       "fetchedAt": "2026-09-18T04:32:11.815Z"
+    },
+    {
+      "id": "61a0612f203f38af",
+      "title": "India can show the world how to scale social impact: DBS Foundation’s Karen Ngui",
+      "summary": "Karen Ngui Managing Director & Head DBS Foundation: Explore how DBS Foundation is fostering financial literacy, digital skills, and socio-economic resilience among vulnerable communities in India, enhancing their ability to adapt to technological changes and shifting demographics.",
+      "category": "Technology",
+      "image": "https://etimg.etb2bimg.com/thumb/msid-134324846,imgsize-381499,width-1200,height=627,overlay-etgovernment,resizemode-75/news/policy/india-can-show-the-world-how-to-scale-social-impact-dbs-foundations-karen-ngui.jpg",
+      "source": "ET Government",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/amp/news/policy/india-can-show-the-world-how-to-scale-social-impact-dbs-foundations-karen-ngui/134324846",
+      "publishedAt": "2026-09-18T03:24:49.000Z",
+      "fetchedAt": "2026-09-18T05:55:05.969Z"
     },
     {
       "id": "8be1bd31dfaa1b8e",
@@ -2555,6 +2610,17 @@
       "fetchedAt": "2026-09-17T13:20:09.515Z"
     },
     {
+      "id": "9a183570a1bd4d0f",
+      "title": "US committed war crimes in 2 deadly strikes in Iran; Tehran committed crimes against humanity: UN",
+      "summary": "An independent UN fact-finding mission on Iran announced on Thursday that it found US involvement in two military strikes involving a school and a sports facility in February, calling them war crimes.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134309257,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/us-committed-war-crimes-in-2-deadly-strikes-in-iran-tehran-committed-crimes-against-humanity-un/articleshow/134309141.cms",
+      "publishedAt": "2026-09-17T10:43:00.000Z",
+      "fetchedAt": "2026-09-18T05:55:00.907Z"
+    },
+    {
       "id": "d6dad419f8bcc409",
       "title": "Pa Ranjith goes pan-India with Vettuvam, poster hints at Indian traditional sport Mallakhamba - Mid-Day",
       "summary": "Pa Ranjith has unveiled Vettuvam with a cryptic Mallakhamba-inspired poster. The film marks his pan-India debut and will release in five Indian languages",
@@ -2685,72 +2751,6 @@
       "sourceUrl": "https://www.ndtv.com/opinion/us-has-weaponised-indias-russia-oil-dependence-now-what-12059199",
       "publishedAt": "2026-09-17T10:25:25.000Z",
       "fetchedAt": "2026-09-17T12:44:20.479Z"
-    },
-    {
-      "id": "b10838e20fcf0a58",
-      "title": "Opinion | US Has Institutionally 'Weaponised' India's Russia Oil Dependence. Can New Delhi Cope?",
-      "summary": "A new legislation can connect India's Russian energy purchases to its access to the American market over a five-year period",
-      "category": "Technology",
-      "image": "https://c.ndtvimg.com/2025-09/im3itgmo_donald-trump-reuters_625x300_04_September_25.jpeg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
-      "source": "NDTV",
-      "sourceUrl": "https://www.ndtv.com/opinion/us-has-weaponised-indias-russia-oil-dependence-now-what-12059199",
-      "publishedAt": "2026-09-17T10:25:25.000Z",
-      "fetchedAt": "2026-09-17T12:24:53.293Z"
-    },
-    {
-      "id": "51bc7ae20cf513f1",
-      "title": "'Less than 20% employees affected': Adidas denies reports of 50% job cuts at India Tech Hub",
-      "summary": "It further said that it has several open roles across the organisation, adding that affected employees can explore those opportunities.",
-      "category": "Technology",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6aabbb7385245-employees-reportedly-received-the-information-about-layoffs-during-a-townhall-on-september-15-170539266-16x9.jpg",
-      "source": "Business Today",
-      "sourceUrl": "https://www.businesstoday.in/technology/news/story/less-than-20-employees-affected-adidas-denies-reports-of-50-layoffs-at-india-tech-hub-556187-2026-09-17",
-      "publishedAt": "2026-09-17T10:23:17.000Z",
-      "fetchedAt": "2026-09-17T11:21:15.575Z"
-    },
-    {
-      "id": "d0901763330e654a",
-      "title": "Rakesh Kumar",
-      "summary": "Rakesh Kumar won three Asian Games gold medals as part of India's men's kabaddi team at the 2006 Doha, 2010 Guangzhou and 2014 Incheon Games. He also captained India at the 2010 and 2014 Asian Games, leading the team to gold on both occasions.",
-      "category": "Sports",
-      "image": "https://static.toiimg.com/thumb/msid-134308620,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/hall-of-fame/rakesh-kumar/articleshow/134308571.cms",
-      "publishedAt": "2026-09-17T10:22:00.000Z",
-      "fetchedAt": "2026-09-17T11:49:16.877Z"
-    },
-    {
-      "id": "34ca9999228ed70e",
-      "title": "First Khelo India Tribal Games to begin today in Chhattisgarh",
-      "summary": "First Khelo India Tribal Games to begin today in Chhattisgarh. This update was reported by News On AIR. Open the original report for full context and any developing updates.",
-      "category": "Sports",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "News On AIR",
-      "sourceUrl": "https://newsonair.gov.in/first-khelo-india-tribal-games-to-begin-today-in-chhattisgarh/",
-      "publishedAt": "2026-09-17T10:20:52.000Z",
-      "fetchedAt": "2026-09-17T14:01:05.443Z"
-    },
-    {
-      "id": "7a1bf38087677840",
-      "title": "India's First Tokenised Corporate Bond: A Financial Innovation",
-      "summary": "The National Stock Exchange of India has introduced tokenised corporate bonds on its Electronic Bidding Platform, with REC Limited and Larsen & Toubro raising Rs 1,000 crore. This initiative, unveiled at the Global Fintech Fest, emphasizes technology-driven solutions in the securities market, enhancing transparency and operational efficiency.",
-      "category": "Business & Finance",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/17_09_2026_15_50_45_1183952.jpg&width=920&format=jpeg",
-      "source": "Devdiscourse",
-      "sourceUrl": "https://www.devdiscourse.com/article/business/3978427-indias-first-tokenised-corporate-bond-a-financial-innovation",
-      "publishedAt": "2026-09-17T10:20:49.000Z",
-      "fetchedAt": "2026-09-17T10:36:20.589Z"
-    },
-    {
-      "id": "ef3f05df04b4add6",
-      "title": "India’s Chip Tiger is Ready to Jump. Can It Build the Products?",
-      "summary": "NXP CTO Lars Reger sees India’s growing appetite for electronics as a turning point. From drone controllers to connected cars, the next challenge is turning engineering expertise into products that Indian companies can build, sell and scale",
-      "category": "Technology",
-      "image": "https://media.openthemagazine.com/openthemagazine/2026-09-17/f3y3nizk/LARS.jpg?w=1200&ar=40:21&auto=format,compress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "source": "Open Magazine",
-      "sourceUrl": "https://openthemagazine.com/technology/indias-chip-tiger-is-ready-to-jump-can-it-build-the-products",
-      "publishedAt": "2026-09-17T10:19:50.000Z",
-      "fetchedAt": "2026-09-17T10:50:51.313Z"
     }
   ]
 }
