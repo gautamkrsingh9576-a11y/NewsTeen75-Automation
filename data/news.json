@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T23:01:29.881Z",
+  "updatedAt": "2026-09-18T23:19:24.406Z",
   "count": 250,
   "articles": [
     {
@@ -144,6 +144,17 @@
       "sourceUrl": "https://www.business-standard.com/content/press-releases-ani/semi-and-india-deep-tech-alliance-idta-to-launch-india-semiconductor-academy-126091900006_1.html",
       "publishedAt": "2026-09-18T18:40:12.000Z",
       "fetchedAt": "2026-09-18T20:22:14.034Z"
+    },
+    {
+      "id": "7d6fbdafb068de2a",
+      "title": "Man with criminal cases fakes rental agreement in Bengaluru, gets passport & flees to Saudi",
+      "summary": "A 31-year-old man allegedly obtained a passport using a fake rental agreement and concealed pending criminal cases before fleeing to Saudi Arabia. He had submitted an application claiming to be a resident of Bengaluru and even cleared police verification.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134342712,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/bengaluru/man-with-criminal-cases-fakes-rental-agreement-in-bengaluru-gets-passport-flees-to-saudi/articleshow/134342713.cms",
+      "publishedAt": "2026-09-18T18:38:00.000Z",
+      "fetchedAt": "2026-09-18T23:19:05.547Z"
     },
     {
       "id": "f152ac2b11d3871a",
@@ -2115,6 +2126,17 @@
       "fetchedAt": "2026-09-18T12:56:07.275Z"
     },
     {
+      "id": "5aa49e2c44594149",
+      "title": "Expedia Group Appoints New Chief Financial Officer",
+      "summary": "Expedia Group Appoints New Chief Financial Officer. This update was reported by safariindia.com. Open the original report for full context and any developing updates.",
+      "category": "Business & Finance",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EBusiness%20%26amp%3B%20Finance%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "safariindia.com",
+      "sourceUrl": "https://safariindia.com/expedia-group-appoints-new-chief-financial-officer/",
+      "publishedAt": "2026-09-18T10:18:05.000Z",
+      "fetchedAt": "2026-09-18T23:19:14.335Z"
+    },
+    {
       "id": "6c184059279af5d4",
       "title": "Walgreens to set up Global Capability Centre in Chennai, create over 250 jobs in first year",
       "summary": "Walgreens is establishing a Global Capability Centre in Chennai, creating over 250 jobs focused on technology and business services.",
@@ -2729,28 +2751,6 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/definitely-a-shortage-indias-chef-de-mission-admits-accommodation-crisis-reveals-additional-rooms-booked/articleshow/134329493.cms",
       "publishedAt": "2026-09-18T08:01:00.000Z",
       "fetchedAt": "2026-09-18T08:41:04.822Z"
-    },
-    {
-      "id": "4ba6c1f167251a08",
-      "title": "India-born cheetah KGP12 gives birth to four cubs at Kuno National Park",
-      "summary": ".In a post on X, Union Environment Minister Bupender Yadav said, \"A truly historic and joyous moment for Project Cheetah! A day after India",
-      "category": "National & Trending News",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260918075821_cheetah.png",
-      "source": "Moneycontrol.com",
-      "sourceUrl": "https://www.moneycontrol.com/city/indian-born-cheetah-kgp12-gives-birth-to-four-cubs-in-kuno-article-14032902.html",
-      "publishedAt": "2026-09-18T07:59:53.000Z",
-      "fetchedAt": "2026-09-18T08:06:38.742Z"
-    },
-    {
-      "id": "61128da2a7a09db1",
-      "title": "Political History, S.R. Bommai Ruling & Allegations of Destabilising Governments - India Today",
-      "summary": "A speaker delivered a detailed critique of political history, recounting key moments involving leadership transitions, government dismissals, and party alliances across several decades. The address cited the 1969 presidential election controversy involving Neelam Sanjiva Reddy and Indira Gandhi, followed by later coalition developments involving leaders like Chaudhary Charan Singh, Chandra…",
-      "category": "Politics & Government",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/video/202609/politicalalliancesscverdictshistoricalgovernments-s0-original-sixteen-to-nine.jpg?VersionId=imHm5JShOh1vwnpUaPTopV_qsdYkTq3v",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/india/video/political-history-sr-bommai-ruling-allegations-of-destabilising-governments-ytvd-2997554-2026-09-18",
-      "publishedAt": "2026-09-18T07:58:55.000Z",
-      "fetchedAt": "2026-09-18T08:24:51.171Z"
     }
   ]
 }
