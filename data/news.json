@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-09-18T14:13:38.340Z",
+  "updatedAt": "2026-09-18T14:30:09.095Z",
   "count": 250,
   "articles": [
+    {
+      "id": "9530c5a59fb4e9ce",
+      "title": "Indian Sports Ministry Seeks Diaspora Support For Asian Games Lodging",
+      "summary": "The Indian Sports Ministry has sought assistance from the Indian diaspora in Nagoya to help with athlete accommodation at the Asian Games, as several Indian and other athletes have faced delays and issues with their designated lodging due to a lack of a dedicated athletes",
+      "category": "Sports",
+      "image": "https://im.rediff.com/worldrediff/pix/rediff_icon_red.png",
+      "source": "Rediff",
+      "sourceUrl": "https://www.rediff.com/sports/report/sports-ministry-seeks-diaspora-help-for-asian-games-lodging-crisis/20260918.htm",
+      "publishedAt": "2026-09-18T14:15:36.000Z",
+      "fetchedAt": "2026-09-18T14:30:02.353Z"
+    },
+    {
+      "id": "839ceea8bccd720c",
+      "title": "Can India Turn the $300-Billion Data Centre Boom Into a Win for Tier-2 Youth?",
+      "summary": "Data centres are inevitable – the investment is coming, whether or not people oppose it. India could try to gain more from this eventuality than temporary construction jobs.",
+      "category": "Technology",
+      "image": "https://m.thewire.in/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhld2lyZS1pbi1wcm9kLXNvcnRkL21lZGlhYzEzNWE2NjAtYjM2YS0xMWYxLWI3YzQtZDkzNjNhNjU5MGM3LnBuZw==",
+      "source": "TheWire.in",
+      "sourceUrl": "https://m.thewire.in/article/tech/can-india-turn-the-300-billion-data-centre-boom-into-a-win-for-tier-2-youth",
+      "publishedAt": "2026-09-18T14:10:48.000Z",
+      "fetchedAt": "2026-09-18T14:30:05.845Z"
+    },
+    {
+      "id": "afa9661d768765af",
+      "title": "Chasing a golden dream | India @ Asian Games 2026",
+      "summary": "Most Indian athletes headed for Aichi-Nagoya aspire to a glory night on the podium. Here are seven of India’s brightest medal prospects, going by their current form",
+      "category": "Sports",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/asian-games-185638891-16x9_0.jpg?VersionId=Si2TsBNxnHjCON6eSjSr9obbwXyPwpS3",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/magazine/sports/story/20260928-chasing-a-golden-dream-india-asian-games-2026-2997441-2026-09-18",
+      "publishedAt": "2026-09-18T14:09:53.000Z",
+      "fetchedAt": "2026-09-18T14:30:02.745Z"
+    },
     {
       "id": "666f1f3f61900944",
       "title": "India-born cheetah gives birth to four cubs at Kuno",
@@ -100,6 +133,17 @@
       "sourceUrl": "https://www.tribuneindia.com/news/india/delhi-court-grants-default-bail-to-us-national-in-myanmar-drone-training-camp-case/amp/?utm=relatedarticles",
       "publishedAt": "2026-09-18T13:20:35.000Z",
       "fetchedAt": "2026-09-18T13:44:46.967Z"
+    },
+    {
+      "id": "b378a8a8422fec0d",
+      "title": "Marathi thriller 'Gondhal' is India's official entry for Oscars",
+      "summary": "Marathi thriller 'Gondhal' is India's official entry for Oscars. This update was reported by Deccan Herald. Open the original report for full context and any developing updates.",
+      "category": "Entertainment",
+      "image": "https://cf-images.assettype.com/deccanherald%2F2026-09-18%2Ffwl93mxb%2Fgondhal.jpg?rect=0%2C43%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "Deccan Herald",
+      "sourceUrl": "https://www.deccanherald.com/amp/story/entertainment/marathi-thriller-gondhal-is-indias-official-entry-for-oscars-4151053",
+      "publishedAt": "2026-09-18T13:17:00.000Z",
+      "fetchedAt": "2026-09-18T14:30:03.692Z"
     },
     {
       "id": "e9dd27868290d340",
@@ -309,6 +353,17 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/videos/entertainment/web-series/english/tyson-trailer-mike-tyson-starrer-tyson-official-trailer/videoshow/134334698.cms",
       "publishedAt": "2026-09-18T12:01:09.000Z",
       "fetchedAt": "2026-09-18T12:22:35.014Z"
+    },
+    {
+      "id": "54127664d94999ee",
+      "title": "Technologies India cannot afford to import: IISc expert lists defence priorities",
+      "summary": "Speaking on WION's Defence Pulse, IISc FSID CEO Omprakash Subbarao emphasised deepening defence indigenisation at the component level, highlighting how public digital infrastructure drives private innovation.",
+      "category": "Technology",
+      "image": "https://cdn1.wionews.com/prod/wion/images/2026/20260918/image-1789732699228.png?imwidth=1200&imheight=900",
+      "source": "WION",
+      "sourceUrl": "https://www.wionews.com/india-news/technologies-india-cannot-afford-to-import-iisc-expert-lists-defence-priorities-1789732401699",
+      "publishedAt": "2026-09-18T12:01:00.000Z",
+      "fetchedAt": "2026-09-18T14:30:06.141Z"
     },
     {
       "id": "0bc1d225fcc7f2bc",
@@ -1035,6 +1090,17 @@
       "sourceUrl": "https://www.moneycontrol.com/news/india/myanmar-terror-training-case-delhi-court-grants-default-bail-to-us-national-matthew-vandyke-14033000.html/amp",
       "publishedAt": "2026-09-18T09:44:42.000Z",
       "fetchedAt": "2026-09-18T11:22:05.111Z"
+    },
+    {
+      "id": "0b888e2bac141d46",
+      "title": "PNC Media and Entertainment (NSE:PNC): Has Season 2 of The Royals Begun Filming?",
+      "summary": "PNC Media and Entertainment (NSE:PNC): Has Season 2 of The Royals Begun Filming?. This update was reported by Kalkine India. Open the original report for full context and any developing updates.",
+      "category": "Entertainment",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EEntertainment%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "Kalkine India",
+      "sourceUrl": "https://www.kalkine.co.in/article/announcements/pnc-media-and-entertainment-nsepnc-has-season-2-of-the-royals-begun-filming",
+      "publishedAt": "2026-09-18T09:43:00.000Z",
+      "fetchedAt": "2026-09-18T14:30:03.923Z"
     },
     {
       "id": "e07ee51ed151a5cc",
@@ -2685,72 +2751,6 @@
       "sourceUrl": "https://m.thewire.in/article/politics/modis-nationwide-birthday-show-of-turning-76-comes-under-the-shadow-of-political-setbacks",
       "publishedAt": "2026-09-18T03:28:07.000Z",
       "fetchedAt": "2026-09-18T09:26:06.053Z"
-    },
-    {
-      "id": "6455cadc0f3c5149",
-      "title": "Satya Nadella Backs India’s AI Potential, Says it Could Lead World in Developers by 2030",
-      "summary": "Microsoft CEO Satya Nadella has reaffirmed the company’s commitment to India’s AI infrastructure, skills and sovereign capabilities. Speaking at a Seattle technology forum, he highlighted the country’s talent as Indian-American tech leaders discussed expanding collaboration",
-      "category": "Technology",
-      "image": "https://media.openthemagazine.com/openthemagazine/2026-09-18/sepo2jms/20200226112L.jpg?w=1200&ar=40:21&auto=format,compress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "source": "Open Magazine",
-      "sourceUrl": "https://openthemagazine.com/world/satya-nadella-backs-indias-ai-potential-says-it-could-lead-world-in-developers-by-2030",
-      "publishedAt": "2026-09-18T03:27:43.000Z",
-      "fetchedAt": "2026-09-18T04:32:11.815Z"
-    },
-    {
-      "id": "b108a333e6011e18",
-      "title": "India outsourcing shifts to higher-value work as AI slows hiring",
-      "summary": "India outsourcing is shifting toward higher-value work as AI slows hiring at major IT firms while software and business-services exports grow",
-      "category": "Technology",
-      "image": "https://pressinsider.com/wp-content/uploads/2025/09/AI-tools-Moodys.jpg",
-      "source": "PRESS Insider",
-      "sourceUrl": "https://pressinsider.com/news/india-outsourcing-shifts-to-higher-value-work-as-ai-slows-hiring/",
-      "publishedAt": "2026-09-18T03:25:10.000Z",
-      "fetchedAt": "2026-09-18T06:36:58.665Z"
-    },
-    {
-      "id": "61a0612f203f38af",
-      "title": "India can show the world how to scale social impact: DBS Foundation’s Karen Ngui",
-      "summary": "Karen Ngui Managing Director & Head DBS Foundation: Explore how DBS Foundation is fostering financial literacy, digital skills, and socio-economic resilience among vulnerable communities in India, enhancing their ability to adapt to technological changes and shifting demographics.",
-      "category": "Technology",
-      "image": "https://etimg.etb2bimg.com/thumb/msid-134324846,imgsize-381499,width-1200,height=627,overlay-etgovernment,resizemode-75/news/policy/india-can-show-the-world-how-to-scale-social-impact-dbs-foundations-karen-ngui.jpg",
-      "source": "ET Government",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/amp/news/policy/india-can-show-the-world-how-to-scale-social-impact-dbs-foundations-karen-ngui/134324846",
-      "publishedAt": "2026-09-18T03:24:49.000Z",
-      "fetchedAt": "2026-09-18T05:55:05.969Z"
-    },
-    {
-      "id": "8be1bd31dfaa1b8e",
-      "title": "Baby orangutans in India expose ‘frightening’ scale of trafficking",
-      "summary": "Baby orangutans in India expose ‘frightening’ scale of trafficking. This update was reported by The Australian. Open the original report for full context and any developing updates.",
-      "category": "Crime & Breaking News",
-      "image": "https://www.theaustralian.com.au/wp-content/themes/newscorpau-news-dna/dist/images/fallback/fallback-theaustralian-169.svg",
-      "source": "The Australian",
-      "sourceUrl": "https://www.theaustralian.com.au/nocookies?a=A.flavipes",
-      "publishedAt": "2026-09-18T03:18:52.000Z",
-      "fetchedAt": "2026-09-18T03:46:28.512Z"
-    },
-    {
-      "id": "8ab10e25feac92f9",
-      "title": "“Ingenuity of the human capital in India”: Microsoft CEO Satya Nadella highlights India’s AI potential",
-      "summary": "Microsoft Chairman and CEO Satya Nadella on Thursday reiterated Microsofts commitment to strengthening Indias AI opportunity, highlighting the &ldquo;ingenuity of the human capital in India&rdquo; and saying the country was poised to have the worlds largest developer community by 2030.",
-      "category": "Technology",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTdmYjUxMDUwLWIzMGYtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
-      "source": "The Tribune",
-      "sourceUrl": "https://www.tribuneindia.com/news/aerospace-tech/ingenuity-of-the-human-capital-in-india-microsoft-ceo-satya-nadella-highlights-indias-ai-potential",
-      "publishedAt": "2026-09-18T03:17:31.000Z",
-      "fetchedAt": "2026-09-18T04:57:11.961Z"
-    },
-    {
-      "id": "cec0b663d8cd7953",
-      "title": "India vs Brazil: AIFF offers 14,000 discounted tickets to Kolkata clubs",
-      "summary": "AIFF has set aside more than 14,000 discounted tickets for supporters of Mohun Bagan, East Bengal and Mohammedan Sporting for India's friendly against Brazil in Kolkata. The move is aimed at drawing the city's football community into the stands as India prepare for rare Tier-1 tests against Brazil and Uruguay.",
-      "category": "Sports",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/brazil-football-team--kalyan-chaubey-181529176-16x9_0.jpg?VersionId=BrOjrMm8Q7VEVzO9nf36ZHFdw_3_9a4A",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/sports/football/story/india-vs-brazil-aiff-offers-14000-discounted-tickets-kolkata-clubs-east-bengal-mohun-bagan-2997334-2026-09-18",
-      "publishedAt": "2026-09-18T03:15:45.000Z",
-      "fetchedAt": "2026-09-18T03:32:01.573Z"
     }
   ]
 }
