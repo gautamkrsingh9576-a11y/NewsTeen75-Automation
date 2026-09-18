@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-18T11:36:14.467Z",
+  "updatedAt": "2026-09-18T11:48:15.917Z",
   "count": 250,
   "articles": [
+    {
+      "id": "9f1b2dab6053e5b0",
+      "title": "Tata Electronics partners with Fujifilm to accelerate semiconductor materials ecosystem in India",
+      "summary": "Tata Electronics and Fujifilm have signed a Memorandum of Understanding (MoU) to accelerate semiconductor materials ecosystem development in India. Through this collaboration, Fujifilm aims to leverage its global expertise to develop and supply advanced semiconductor materials tailored to the requirements of Tata Electronics’ upcoming semiconductor Fab in Dholera, Gujarat.",
+      "category": "Technology",
+      "image": "https://static.toiimg.com/thumb/msid-134334065,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/tata-electronics-partners-with-fujifilm-to-accelerate-semiconductor-materials-ecosystem-in-india/articleshow/134334031.cms",
+      "publishedAt": "2026-09-18T11:34:00.000Z",
+      "fetchedAt": "2026-09-18T11:48:13.671Z"
+    },
     {
       "id": "1c6fcca1bfd67007",
       "title": "How Poonam turned a rowing scholarship opportunity into an Asian Games dream",
@@ -12,6 +23,17 @@
       "sourceUrl": "https://www.indiatoday.in/amp/sports/asian-games/story/asian-games-rowing-poonam-india-womens-coxless-four-2997718-2026-09-18",
       "publishedAt": "2026-09-18T11:32:47.000Z",
       "fetchedAt": "2026-09-18T11:36:05.792Z"
+    },
+    {
+      "id": "f1c324518aec99ff",
+      "title": "Indian Deep Tech Alliance invests ₹2,170 crore in 56 firms",
+      "summary": "The Indian Deep Tech Alliance invested ₹2,170 crore in 56 firms, highlighting growth in deep-tech innovation and investment.",
+      "category": "Technology",
+      "image": "https://th-i.thgim.com/public/news/national/g1u97d/article71480267.ece/alternates/LANDSCAPE_1200/BL21_Think_AI.jpg",
+      "source": "The Hindu",
+      "sourceUrl": "https://www.thehindu.com/news/national/indian-deep-tech-alliance-invests-2170-crore-in-56-firms/article71480200.ece",
+      "publishedAt": "2026-09-18T11:30:00.000Z",
+      "fetchedAt": "2026-09-18T11:48:13.240Z"
     },
     {
       "id": "f014af48667aba32",
@@ -69,6 +91,17 @@
       "fetchedAt": "2026-09-18T11:21:57.960Z"
     },
     {
+      "id": "150362b0cfbe0a11",
+      "title": "All athletes taken care of: How India swiftly solved the accommodation crisis in Nagoya",
+      "summary": "India have swiftly addressed the accommodation crisis faced by its athletes in Nagoya. After 30 to 35 names were removed from the accommodation list, the authorities booked additional hotel rooms to ensure all affected personnel were taken care of.",
+      "category": "Sports",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/india-at-asian-games-18031639-16x9_0.9jqvde4kkyyjwplgwcyde6_bj-32ov135voyzthecu0?VersionId=l_oKFNtRABpOcg1etB1xl6OhxZu24PJb",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/sports/asian-games/story/asian-games-indian-athletes-not-facing-accommodation-trouble-2997708-2026-09-18",
+      "publishedAt": "2026-09-18T11:05:07.000Z",
+      "fetchedAt": "2026-09-18T11:48:11.897Z"
+    },
+    {
       "id": "03766779a37d65fe",
       "title": "Bihar man held for woman’s murder in H’bag",
       "summary": "Police have solved the murder of a woman whose body was found beneath Kubri bridge behind the Hazaribag Wildlife Sanctuary under Ichak police station on Aug 25 and arrested one accused in connection with the case. The victim has been identified as Ranjana Sinha, a resident of Okni in Hazaribag…",
@@ -78,6 +111,17 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/city/ranchi/bihar-man-held-for-womans-murder-in-hbag/articleshow/134333349.cms",
       "publishedAt": "2026-09-18T11:05:00.000Z",
       "fetchedAt": "2026-09-18T11:21:56.896Z"
+    },
+    {
+      "id": "38eb73a1ba5175e6",
+      "title": "BCCI yet to take call on Ajit Agarkar's future as chief selector",
+      "summary": "The BCCI's annual general meeting has authorised the Board's office-bearers to decide Ajit Agarkar's future as chairman of the men's senior selection committee, with his term set to end next month.",
+      "category": "Sports",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/ajit-agarkar-061806713-16x9_1.jpg?VersionId=UrvaMnyOuh9bX5xARw92k0VqY5maQSkr",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/sports/cricket/story/bcci-office-bearers-authorised-ajit-agarkar-future-chief-selector-2997700-2026-09-18",
+      "publishedAt": "2026-09-18T11:02:17.000Z",
+      "fetchedAt": "2026-09-18T11:48:12.116Z"
     },
     {
       "id": "f2767968d6f082b2",
@@ -685,6 +729,17 @@
       "fetchedAt": "2026-09-18T08:24:51.171Z"
     },
     {
+      "id": "1a6591ae36768a70",
+      "title": "Raghav Chadha comes out in Ravneet Bittu's support as he claims attack on convoy: ‘He holds Z-plus security’ | India News",
+      "summary": "Ravneet Singh Bittu's claims of an attack on his convoy came weeks after he stepped down as Union Minister of State for Railways and Food Processing Industries.",
+      "category": "Crime & Breaking News",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/18/1600x900/logo/Raghav_Chadha_Ravneet_Bittu_1789716471775_TfKx_1789716476980_CQmu_9f4b690b-bba2-4dca-8e99-897febfb94e0_LisP.jpg",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/raghav-chadha-ravneet-bittu-support-as-he-claims-attack-on-convoy-z-plus-security-punjab-pathankot-bjp-101789715640737-amp.html",
+      "publishedAt": "2026-09-18T07:56:08.000Z",
+      "fetchedAt": "2026-09-18T11:48:11.061Z"
+    },
+    {
       "id": "cb7c3812226c202b",
       "title": "US pharmacy chain Walgreens plans tech centre in India's Chennai, expected to create 250 jobs",
       "summary": "US pharmacy chain Walgreens plans tech centre in India's Chennai, expected to create 250 jobs. This update was reported by Reuters. Open the original report for full context and any developing updates.",
@@ -1145,6 +1200,17 @@
       "sourceUrl": "https://indianexpress.com/article/entertainment/telugu/nani-questions-pan-india-tag-hindi-hits-are-never-called-that-10883120/",
       "publishedAt": "2026-09-18T06:20:22.000Z",
       "fetchedAt": "2026-09-18T08:53:55.642Z"
+    },
+    {
+      "id": "61d80d945af11ab0",
+      "title": "Register case over ‘derogatory references’ to Hindu figures: Delhi court | India News",
+      "summary": "Police cited their inquiry and told the court they found “no evidence of deliberate attempt to incite communal disharmony.",
+      "category": "Crime & Breaking News",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/18/1600x900/logo/The-court-directed-the-Cyber-Police-Station-to-reg_1789712019407_ABWB.jpg",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/register-case-over-derogatory-references-to-hindu-figures-delhi-court-101789712031103-amp.html",
+      "publishedAt": "2026-09-18T06:13:50.000Z",
+      "fetchedAt": "2026-09-18T11:48:10.576Z"
     },
     {
       "id": "4639ffd0c7db9aab",
@@ -2685,72 +2751,6 @@
       "sourceUrl": "https://www.business-standard.com/finance/interviews/enabling-environment-of-west-bengal-will-help-business-and-credit-growth-126091701596_1.html",
       "publishedAt": "2026-09-17T18:24:46.000Z",
       "fetchedAt": "2026-09-17T23:06:59.401Z"
-    },
-    {
-      "id": "aba9f2801cf71d2f",
-      "title": "Shreyas invites Zadran to join India's trophy celebrations, lifts Friendship Cup together",
-      "summary": "Shreyas Iyer ensured India's 3-0 Friendship Cup sweep over Afghanistan ended on a sporting note, inviting Afghanistan captain Ibrahim Zadran to join India's trophy celebrations and be part of the winning team photograph in Delhi on Thursday.",
-      "category": "Sports",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/shreyas-iyer--ibrahim-zadran-172305108-16x9_0.jpg?VersionId=6FK82Q4uvhqhyjcA6Niw2BAcEMdTvte5",
-      "source": "indiatoday.in",
-      "sourceUrl": "https://www.indiatoday.in/sports/cricket/story/india-vs-afghanistan-friendship-cup-shreyas-gessture-zadran-trophy-celebrations-2997244-2026-09-17",
-      "publishedAt": "2026-09-17T18:23:52.000Z",
-      "fetchedAt": "2026-09-17T18:33:34.552Z"
-    },
-    {
-      "id": "48ac524ea5e0829f",
-      "title": "One drug trafficker arrested",
-      "summary": "Kanpur Crime Branch and Kakadev police arrest Alok Saini Kapali; 10 kg ganja and 100 g smack seized in raid near Gita Nagar Metro Station.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/kanpur/one-drug-trafficker-arrested/articleshow/134319738.cms",
-      "publishedAt": "2026-09-17T18:21:00.000Z",
-      "fetchedAt": "2026-09-17T21:50:36.642Z"
-    },
-    {
-      "id": "606cc1c77d8c2432",
-      "title": "Ensure protection to victims, families, crime witnesses: Lalbazar",
-      "summary": "Kolkata Police orders stations to follow BNSS SOPs on witness safety after Cossipore woman alleges fresh attack by 2012 accused out on bail.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/kolkata/ensure-protection-to-victims-families-crime-witnesses-lalbazar/articleshow/134319748.cms",
-      "publishedAt": "2026-09-17T18:21:00.000Z",
-      "fetchedAt": "2026-09-17T18:50:16.568Z"
-    },
-    {
-      "id": "0b50d8a90867bb65",
-      "title": "Delhi court seeks NIA's response on bail plea filed by US national Matthew Aaron Van Dyke in terror conspi",
-      "summary": "A Delhi court has requested a response from the National Investigation Agency regarding a bail plea. The plea was submitted by US national Matthew Aaron Van Dyke, who faces terror charges. Van Dyke is accused of alleged links to ethnic armed groups within India. The agency has been directed to…",
-      "category": "National & Trending News",
-      "image": "https://img.etimg.com/thumb/msid-134319491,width-1200,height-630,imgsize-271294,overlay-economictimes/articleshow.jpg",
-      "source": "The Economic Times",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/india/delhi-court-seeks-nias-response-on-bail-plea-filed-by-us-national-matthew-aaron-van-dyke-in-terror-conspiracy-case/articleshow/134318807.cms?from=mdr",
-      "publishedAt": "2026-09-17T18:17:15.000Z",
-      "fetchedAt": "2026-09-17T18:33:42.538Z"
-    },
-    {
-      "id": "48e456479ea9e795",
-      "title": "Chess Olympiad: Gukesh struggles, Indian teams continue unbeaten run",
-      "summary": "India won again in both sections at the Chess Olympiad, but D Gukesh was held to another draw in the open event. The unbeaten run stays intact, with Nihal Sarin leading the open charge and the women producing a firmer result.",
-      "category": "Sports",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/gukesh-08085937-16x9.jpeg?VersionId=5cCJs.uIbagprIb.19G38HwxwXOyVV_H",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/amp/sports/other-sports/story/chess-olympiad-gukesh-draw-india-open-women-teams-unbeaten-2997195-2026-09-17",
-      "publishedAt": "2026-09-17T18:07:44.000Z",
-      "fetchedAt": "2026-09-17T18:13:12.739Z"
-    },
-    {
-      "id": "be7e2e55a421303c",
-      "title": "Grey's Anatomy Season 23 teaser hints at runway crash, Meredith Grey return",
-      "summary": "The first preview of Grey’s Anatomy season 23 shows Grey Sloan bracing for victims after two planes collide on a runway. The teaser also signals hospital upheaval, Meredith Grey’s return and strain after key departures.",
-      "category": "Entertainment",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/greys-anatomy-season-23-teaser-hints-at-runway-crash--meredith-grey-return-170520785-16x9_0.png?VersionId=ZWZuWIS6Q8R60RSO_B.cUCeULqOYK56.",
-      "source": "indiatoday.in",
-      "sourceUrl": "https://www.indiatoday.in/entertainment/ott/story/greys-anatomy-season-23-teaser-hints-at-runway-crash-meredith-grey-return-2997219-2026-09-17",
-      "publishedAt": "2026-09-17T18:07:05.000Z",
-      "fetchedAt": "2026-09-17T18:33:36.420Z"
     }
   ]
 }
