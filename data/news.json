@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-09-18T08:25:06.218Z",
+  "updatedAt": "2026-09-18T08:41:12.031Z",
   "count": 250,
   "articles": [
+    {
+      "id": "155872c267d81e8b",
+      "title": "'Shah Rukh Khan's Jawan, Pathaan Are Not Called Pan-Indian': Nani Questions Why South Films Get The \"Pan-India\" Tag",
+      "summary": "Nani, who is currently promoting his upcoming film The Paradise, said he does not want his movie to be labelled a pan-India film.",
+      "category": "Entertainment",
+      "image": "https://c.ndtvimg.com/2026-09/7t67aecc_nani_625x300_18_September_26.png?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "source": "ndtv.com",
+      "sourceUrl": "https://www.ndtv.com/entertainment/nani-rejects-pan-india-tag-for-the-paradise-compares-south-and-hindi-films-please-dont-call-12063602",
+      "publishedAt": "2026-09-18T08:30:03.000Z",
+      "fetchedAt": "2026-09-18T08:41:05.657Z"
+    },
+    {
+      "id": "4db3eb402b116b18",
+      "title": "Manu Bhaker, Tajinderpal Singh Toor named India’s flagbearers at 2026 Asian Games opening ceremony",
+      "summary": "Manu Bhaker, Tajinderpal Singh Toor named India’s flagbearers at 2026 Asian Games opening ceremony. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
+      "category": "Sports",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "The Indian Express",
+      "sourceUrl": "https://indianexpress.com/article/sports/asian-games-2026-opening-ceremony-india-flagbearers-manu-bhaker-tajinderpal-singh-toor-10883456/",
+      "publishedAt": "2026-09-18T08:27:40.000Z",
+      "fetchedAt": "2026-09-18T08:41:04.644Z"
+    },
+    {
+      "id": "4df1dd6306e65c93",
+      "title": "'It’s not just about his stardom or box-office success': Nani praises Tamil Nadu CM Vijay’s political jou",
+      "summary": "Actor Nani’s Chennai visit for the promotions of 'The Paradise' went beyond discussions about his upcoming film as he spoke about Tamil Nadu Chief Minister and actor-turned-politician Vijay’s political journey. During the press meet, Nani also questioned the way successful South Indian films are labelled “Pan-India” films, arguing that the…",
+      "category": "Entertainment",
+      "image": "https://static.toiimg.com/thumb/msid-134329501,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/its-not-just-about-his-stardom-or-box-office-success-nani-praises-tamil-nadu-cm-vijays-political-journey-during-the-paradise-promotions-questions-pan-india-tag-for-south-films/articleshow/134329491.cms",
+      "publishedAt": "2026-09-18T08:22:00.000Z",
+      "fetchedAt": "2026-09-18T08:41:05.382Z"
+    },
     {
       "id": "5fd79d2f99b0fe35",
       "title": "Panasonic showcases next-gen tech at Electronica 2026",
@@ -23,6 +56,17 @@
       "sourceUrl": "https://www.firstpost.com/sports/india-among-nations-hit-by-delays-during-flag-hoisting-ceremony-at-2026-asian-games-14046823.html",
       "publishedAt": "2026-09-18T08:08:01.000Z",
       "fetchedAt": "2026-09-18T08:24:56.776Z"
+    },
+    {
+      "id": "d0f7f32cab263577",
+      "title": "‘Definitely a shortage’: India’s Chef de Mission admits accommodation crisis at Asian Games, reveals addi",
+      "summary": "India’s Chef de Mission Sahdev Yadav has acknowledged a shortage of accommodation at the Aichi-Nagoya Asian Games, revealing that the Indian contingent had to book additional hotel rooms after its accommodation quota was reduced upon arrival in Japan.",
+      "category": "Sports",
+      "image": "https://static.toiimg.com/thumb/msid-134329697,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/definitely-a-shortage-indias-chef-de-mission-admits-accommodation-crisis-reveals-additional-rooms-booked/articleshow/134329493.cms",
+      "publishedAt": "2026-09-18T08:01:00.000Z",
+      "fetchedAt": "2026-09-18T08:41:04.822Z"
     },
     {
       "id": "4ba6c1f167251a08",
@@ -47,6 +91,17 @@
       "fetchedAt": "2026-09-18T08:24:51.171Z"
     },
     {
+      "id": "cb7c3812226c202b",
+      "title": "US pharmacy chain Walgreens plans tech centre in India's Chennai, expected to create 250 jobs",
+      "summary": "US pharmacy chain Walgreens plans tech centre in India's Chennai, expected to create 250 jobs. This update was reported by Reuters. Open the original report for full context and any developing updates.",
+      "category": "Technology",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-pharmacy-chain-walgreens-plans-tech-centre-indias-chennai-expected-create-250-2026-09-18/",
+      "publishedAt": "2026-09-18T07:55:54.000Z",
+      "fetchedAt": "2026-09-18T08:41:06.401Z"
+    },
+    {
       "id": "af4a5f68c9d5179e",
       "title": "'Mirzapur The Movie' box office collection Day 15 [LIVE]: Pankaj Tripathi, Ali Fazal and Ravi Kishan inch",
       "summary": "'Mirzapur The Movie' has comfortably crossed the Rs. 200 crore mark in India as it enters Day 15, with its domestic net now standing at Rs.",
@@ -56,6 +111,17 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/mirzapur-the-movie-box-office-collection-day-15-live-pankaj-tripathi-ali-fazal-and-ravi-kishan-inches-closer-to-rs-205-crore-india-net-and-rs-300-crore-worldwide-gross-milestones/articleshow/134329344.cms",
       "publishedAt": "2026-09-18T07:52:00.000Z",
       "fetchedAt": "2026-09-18T08:06:29.503Z"
+    },
+    {
+      "id": "31d13d5879f5ab91",
+      "title": "Philippines school shooting: 2 killed, 4 injured in South Cotabato",
+      "summary": "Philippines school shooting: 2 killed, 4 injured in South Cotabato. This update was reported by Livemint. Open the original report for full context and any developing updates.",
+      "category": "National & Trending News",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/18/1600x900/school_1789717637773_w8ok_1789717641587_tx1y_687e17bf-d1fb-4579-99c5-f22ba385b0c6_z4RY.png",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/news/world/philippines-school-shooting-casualties-feared-at-south-cotabatos-banga-national-high-school/amp-11789717009637.html",
+      "publishedAt": "2026-09-18T07:48:02.000Z",
+      "fetchedAt": "2026-09-18T08:41:11.796Z"
     },
     {
       "id": "790f805dd6e801a1",
@@ -782,6 +848,17 @@
       "sourceUrl": "https://www.ndtv.com/india-news/delhi-gangrape-murder-saw-dogs-eating-her-how-decomposed-body-of-delhi-rape-victim-was-found-12062735",
       "publishedAt": "2026-09-18T04:23:21.000Z",
       "fetchedAt": "2026-09-18T07:52:25.206Z"
+    },
+    {
+      "id": "7c544588bea14fc2",
+      "title": "Goldman finds a hidden AI trade beneath India’s lagging market",
+      "summary": "Goldman Sachs has uncovered a $670 billion India AI trade spanning 42 companies in power, data centers and semiconductors as the Nifty falls.",
+      "category": "Technology",
+      "image": "https://pressinsider.com/wp-content/uploads/2026/04/AI-5.jpg.jpeg",
+      "source": "PRESS Insider",
+      "sourceUrl": "https://pressinsider.com/news/goldman-finds-a-hidden-ai-trade-beneath-indias-lagging-market/",
+      "publishedAt": "2026-09-18T04:19:10.000Z",
+      "fetchedAt": "2026-09-18T08:41:06.800Z"
     },
     {
       "id": "cf615151334cb206",
@@ -2674,83 +2751,6 @@
       "sourceUrl": "https://www.wionews.com/trending/put-down-your-phone-this-country-is-paying-people-to-read-books-know-why-1789650012587/amp",
       "publishedAt": "2026-09-17T13:04:00.000Z",
       "fetchedAt": "2026-09-17T19:32:04.791Z"
-    },
-    {
-      "id": "c129bc8a19103dd4",
-      "title": "Indian national arrested for illegal working at convenience store",
-      "summary": "An immigration raid led to the arrest of an Indian national for 'illegal working' at a convenience store near Bournemouth University.",
-      "category": "Crime & Breaking News",
-      "image": "https://www.bournemouthecho.co.uk/resources/images/21467888.jpg?type=og-image",
-      "source": "Bournemouth Echo",
-      "sourceUrl": "https://www.bournemouthecho.co.uk/news/26558907.indian-national-arrested-bournemouth-immigration-raid/",
-      "publishedAt": "2026-09-17T13:00:00.000Z",
-      "fetchedAt": "2026-09-17T17:43:03.863Z"
-    },
-    {
-      "id": "12a9d5b87d9fb487",
-      "title": "UPI MDR: Ministry Addresses Concerns Over Cash Transactions And Inflation",
-      "summary": "The Finance Ministry has clarified that the 0.4 per cent Merchant Discount Rate (MDR) on UPI transactions above Rs 2,000, effective October 15, is not expected to increase cash transactions or cause inflation. The ministry also dismissed allegations of US pressure influencing the decision, asserting that the policy aims to…",
-      "category": "Business & Finance",
-      "image": "https://im.rediff.com/1200-630/money/2017/mar/01cash1.jpg",
-      "source": "Rediff",
-      "sourceUrl": "https://www.rediff.com/business/report/finmin-allays-fears-on-upi-mdr-levy-no-cash-increase-expected/20260917.htm",
-      "publishedAt": "2026-09-17T12:55:29.000Z",
-      "fetchedAt": "2026-09-17T14:22:22.399Z"
-    },
-    {
-      "id": "23c0146204a9c7be",
-      "title": "Top news of the day: September 17, 2026",
-      "summary": "Daily news highlights: Supreme Court reacts to Manipur deaths, Tata Sons reappoints Chandrasekaran, and U.S. sanctions bill targets India.",
-      "category": "National & Trending News",
-      "image": "https://th-i.thgim.com/public/incoming/i4zfc5/article71476705.ece/alternates/LANDSCAPE_1200/PTI06_15_2026_000158B.jpg",
-      "source": "The Hindu",
-      "sourceUrl": "https://www.thehindu.com/news/top-news-of-the-day-september-17-2026/article71476481.ece",
-      "publishedAt": "2026-09-17T12:54:58.000Z",
-      "fetchedAt": "2026-09-17T18:13:19.553Z"
-    },
-    {
-      "id": "d4bd2bf382119818",
-      "title": "CFO bridge: Making senior financial leadership accessible to India’s SMEs",
-      "summary": "Strategic finance leadership that helps SMEs scale, strengthen cash flow and build lasting value",
-      "category": "Business & Finance",
-      "image": "https://images.forbesindia.com/blog/wp-content/uploads/2026/09/WhatsApp-Image-20260912-at-120645-PM-2026-09-dc7b910fc61636e79df4732c46558c77.jpeg?im=FitAndFill,width=1200,height=900",
-      "source": "Forbes India",
-      "sourceUrl": "https://www.forbesindia.com/article/upfront/brand-connect/cfo-bridge-making-senior-financial-leadership-accessible-to-indias-smes/2998289/1",
-      "publishedAt": "2026-09-17T12:53:37.000Z",
-      "fetchedAt": "2026-09-17T17:54:45.341Z"
-    },
-    {
-      "id": "ce7229fb5075cf18",
-      "title": "School assembly news headlines today- September 18: Top national, sports and world news curated for you",
-      "summary": "Today’s school assembly news highlights top national, sports, and world events, covering important updates from politics, sports achievements, and global headlines for September 18.",
-      "category": "National & Trending News",
-      "image": "https://static-bestcolleges.tosshub.com/2026/News/ieAVl7sMW0AkZxuLhQEVaNVjhLaATFd1Mm0KxUsh.png",
-      "source": "India Today",
-      "sourceUrl": "https://bestcolleges.indiatoday.in/latest-news/school-assembly-news-headlines-today-september-18-top-national-sports-and-world-news-curated-for-you-11617",
-      "publishedAt": "2026-09-17T12:52:32.000Z",
-      "fetchedAt": "2026-09-17T13:20:09.152Z"
-    },
-    {
-      "id": "4310df75c51f63fa",
-      "title": "Seva Sankalp Abhiyan | Modi's b'day celebration in shadow of political setbacks",
-      "summary": "Prime Minister Narendra Modi's 76th birthday sees BJP launch a month-long 'Seva Sankalp Abhiyan' to celebrate 25 years in public life amid political challenges and Opposition attacks.",
-      "category": "Politics & Government",
-      "image": "https://cf-images.assettype.com/deccanherald%2F2026-09-17%2F3i8r2dp9%2Ffile87mvpm3ted4cc955q2d.jpg?rect=0%2C0%2C1162%2C610&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "source": "Deccan Herald",
-      "sourceUrl": "https://www.deccanherald.com/amp/story/opinion/seva-sankalp-abhiyan-modis-bday-celebration-in-shadow-of-political-setbacks-4149657",
-      "publishedAt": "2026-09-17T12:51:00.000Z",
-      "fetchedAt": "2026-09-17T15:41:17.692Z"
-    },
-    {
-      "id": "6f51af2b71c843f0",
-      "title": "Applied Materials to invest $5 billion in India as Modi's flagship chip event kicks off",
-      "summary": "Applied Materials to invest $5 billion in India as Modi's flagship chip event kicks off. This update was reported by Reuters. Open the original report for full context and any developing updates.",
-      "category": "Technology",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/world/asia-pacific/applied-materials-invest-5-billion-india-modis-flagship-chip-event-kicks-off-2026-09-17/",
-      "publishedAt": "2026-09-17T12:50:12.000Z",
-      "fetchedAt": "2026-09-17T16:10:39.476Z"
     }
   ]
 }
