@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-18T12:56:07.275Z",
+  "updatedAt": "2026-09-18T13:12:57.409Z",
   "count": 250,
   "articles": [
+    {
+      "id": "ba27f0bec04bca38",
+      "title": "Filmmaker Karan Johar becomes first Indian to host Earthshot Prize Awards Night",
+      "summary": "The global environmental award ceremony is also gearing up to hold its first edition in India on November 17",
+      "category": "Entertainment",
+      "image": "https://assets.telegraphindia.com/telegraph/2025/Dec/1765182419_1703826702_karan-johar.jpg",
+      "source": "Telegraph India",
+      "sourceUrl": "https://www.telegraphindia.com/entertainment/filmmaker-karan-johar-becomes-first-indian-to-host-earthshot-prize-awards-night/cid/2180565",
+      "publishedAt": "2026-09-18T12:51:19.000Z",
+      "fetchedAt": "2026-09-18T13:12:42.675Z"
+    },
     {
       "id": "6c7e7e284b560c30",
       "title": "Debagada Youth Murdered at Girlfriend's House: Police Recreate Crime Scene with Accused",
@@ -45,6 +56,17 @@
       "sourceUrl": "https://www.aninews.in/news/entertainment/bollywood/family-movie-thriller-and-mixture-of-everything-india-film-federation-president-on-gondhal-oscar-entry-for-india16020260918180054/",
       "publishedAt": "2026-09-18T12:30:00.000Z",
       "fetchedAt": "2026-09-18T12:41:03.119Z"
+    },
+    {
+      "id": "150362b0cfbe0a11",
+      "title": "All athletes taken care of: How India swiftly solved the accommodation crisis in Asian Games",
+      "summary": "Asian Games: India have swiftly addressed the accommodation crisis faced by its athletes in Nagoya. After 30 to 35 names were removed from the accommodation list, the authorities booked additional hotel rooms to ensure all affected personnel were taken care of.",
+      "category": "Sports",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/india-at-asian-games-18031639-16x9_0.9jqvde4kkyyjwplgwcyde6_bj-32ov135voyzthecu0?VersionId=l_oKFNtRABpOcg1etB1xl6OhxZu24PJb",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/sports/asian-games/story/asian-games-indian-athletes-not-facing-accommodation-trouble-2997708-2026-09-18",
+      "publishedAt": "2026-09-18T12:25:12.000Z",
+      "fetchedAt": "2026-09-18T13:12:41.792Z"
     },
     {
       "id": "f00d97eb04f682d4",
@@ -201,6 +223,17 @@
       "fetchedAt": "2026-09-18T11:48:13.671Z"
     },
     {
+      "id": "300c9a2885aca5d4",
+      "title": "Ashok Leyland partners with Kerala Grameena Bank for providing Vehicle Finance facilities",
+      "summary": "Ashok Leyland partners with Kerala Grameena Bank to provide customized vehicle financing solutions and flexible repayment options for commercial vehicle customers.",
+      "category": "Business & Finance",
+      "image": "https://pimwp.s3-accelerate.amazonaws.com/2026/09/Ashok-Leyland-partners-with-Kerala-Grameena-Bank-for-providing-Vehicle-Finance-facilities.webp",
+      "source": "Passionate In Marketing",
+      "sourceUrl": "https://www.passionateinmarketing.com/ashok-leyland-partners-with-kerala-grameena-bank-for-providing-vehicle-finance-facilities/",
+      "publishedAt": "2026-09-18T11:33:56.000Z",
+      "fetchedAt": "2026-09-18T13:12:55.447Z"
+    },
+    {
       "id": "1c6fcca1bfd67007",
       "title": "How Poonam turned a rowing scholarship opportunity into an Asian Games dream",
       "summary": "Poonam’s journey from taking up rowing for a college scholarship to earning a place in India’s Asian Games team has been built on growing ambition, consistent training and international exposure. With greater belief after competing in Europe, she now targets a medal in the Women’s Coxless Four.",
@@ -322,6 +355,17 @@
       "fetchedAt": "2026-09-18T11:21:56.896Z"
     },
     {
+      "id": "26a47e19f6ca8f33",
+      "title": "India finds Nestle baby food sample substandard, takes legal action",
+      "summary": "- India's food regulator is pursuing legal action against Nestle after finding its baby food substandard, impacting a crucial market",
+      "category": "Business & Finance",
+      "image": "https://i.brecorder.com/large/2026/09/181602161f5153c.webp",
+      "source": "Business Recorder",
+      "sourceUrl": "https://www.brecorder.com/news/amp/40440138",
+      "publishedAt": "2026-09-18T11:02:29.000Z",
+      "fetchedAt": "2026-09-18T13:12:56.073Z"
+    },
+    {
       "id": "38eb73a1ba5175e6",
       "title": "BCCI yet to take call on Ajit Agarkar's future as chief selector",
       "summary": "The BCCI's annual general meeting has authorised the Board's office-bearers to decide Ajit Agarkar's future as chairman of the men's senior selection committee, with his term set to end next month.",
@@ -386,6 +430,17 @@
       "sourceUrl": "https://www.hindustantimes.com/sports/others/asian-games-and-what-matters-to-a-new-indian-sport-audience-101789728496820-amp.html",
       "publishedAt": "2026-09-18T10:51:24.000Z",
       "fetchedAt": "2026-09-18T12:22:33.973Z"
+    },
+    {
+      "id": "700e99dc7bd798a1",
+      "title": "Wadhwani Innovation Centre Launched at IIT Kanpur to Bridge India’s Research-to-Market Gap",
+      "summary": "The newly launched Wadhwani-IIT Kanpur Innovation Centre aims to revolutionize India",
+      "category": "Technology",
+      "image": "https://etimg.etb2bimg.com/thumb/msid-134332898,imgsize-319672,width-1200,height=627,overlay-eteducation,resizemode-75/news/industry/wadhwani-innovation-centre-launched-at-iit-kanpur-to-bridge-indias-research-to-market-gap.jpg",
+      "source": "ET Education",
+      "sourceUrl": "https://education.economictimes.indiatimes.com/amp/news/industry/wadhwani-innovation-centre-launched-at-iit-kanpur-to-bridge-indias-research-to-market-gap/134332898",
+      "publishedAt": "2026-09-18T10:48:49.000Z",
+      "fetchedAt": "2026-09-18T13:12:46.220Z"
     },
     {
       "id": "9c2bf0d77b4f1422",
@@ -619,6 +674,17 @@
       "fetchedAt": "2026-09-18T12:56:02.893Z"
     },
     {
+      "id": "30189082d070fbe4",
+      "title": "BTS ARIRANG tickets go live in India: Check dates for Buenos Aires, São Paulo screenings",
+      "summary": "Tickets for the BTS ARIRANG live-viewing screenings are now available in India. Read more to check out the date of screening of live viewing concert shows.",
+      "category": "Entertainment",
+      "image": "https://cdn1.wionews.com/prod/wion/images/2026/20260918/image-1789722604760.jpg?imwidth=1200&imheight=900",
+      "source": "WION",
+      "sourceUrl": "https://www.wionews.com/entertainment/bts-arirang-tickets-go-live-in-india-check-dates-for-buenos-aires-s-o-paulo-screenings-1789719642552",
+      "publishedAt": "2026-09-18T10:04:00.000Z",
+      "fetchedAt": "2026-09-18T13:12:43.116Z"
+    },
+    {
       "id": "5ce3d96c9e1883d1",
       "title": "KBC 18: 26-year-old SC lawyer quits at Rs 25 lakh question on Vasco da Gama’s India voyage",
       "summary": "KBC 18: 26-year-old SC lawyer quits at Rs 25 lakh question on Vasco da Gama’s India voyage. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
@@ -628,6 +694,17 @@
       "sourceUrl": "https://indianexpress.com/article/entertainment/television/kbc-18-26-year-old-sc-lawyer-quits-at-25-lakh-after-vasco-da-gama-india-question-10883610/",
       "publishedAt": "2026-09-18T10:03:21.000Z",
       "fetchedAt": "2026-09-18T10:25:07.755Z"
+    },
+    {
+      "id": "74c4a2b19417013a",
+      "title": "Another Big Development for Andhra: Mazagon Dock Shipbuilders Ltd (MDL) to develop Greenfield Shipyard at Dugarajapatnam",
+      "summary": "Another Big Development for Andhra: Mazagon Dock Shipbuilders Ltd (MDL) to develop Greenfield Shipyard at Dugarajapatnam. This update was reported by India Technology News. Open the original report for full context and any developing updates.",
+      "category": "Technology",
+      "image": "https://indiatechnologynews.in/wp-content/uploads/2026/09/MDL_Dugarajapatnam_Shipyard_02.jpeg",
+      "source": "India Technology News",
+      "sourceUrl": "https://indiatechnologynews.in/another-big-development-for-andhra-mazagon-dock-shipbuilders-ltd-mdl-to-develop-greenfield-shipyard-at-dugarajapatnam/",
+      "publishedAt": "2026-09-18T09:59:41.000Z",
+      "fetchedAt": "2026-09-18T13:12:45.193Z"
     },
     {
       "id": "b3de0362f16df999",
@@ -1103,6 +1180,17 @@
       "fetchedAt": "2026-09-18T08:06:29.503Z"
     },
     {
+      "id": "fbf0170f3aac3c5f",
+      "title": "Watch: India-born cheetah gives birth to four cubs in Kuno National Park",
+      "summary": "An Indian-born cheetah at Kuno National Park has given birth to four cubs, a day after Project Cheetah completed four years. The second-generation births mark a fresh milestone for India's effort to build a self-sustaining wild cheetah population.",
+      "category": "National & Trending News",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/cheetah-cubs-kuno-184434357-16x9_0.jpeg?VersionId=kR5ELSnQ0XbpNz.Hj2lsIe5.eVnB_BG_",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/science/story/watch-india-born-cheetah-gives-birth-to-four-cubs-in-kuno-national-park-2997538-2026-09-18",
+      "publishedAt": "2026-09-18T07:48:35.000Z",
+      "fetchedAt": "2026-09-18T13:12:57.408Z"
+    },
+    {
       "id": "31d13d5879f5ab91",
       "title": "Philippines school shooting: 2 killed, 4 injured in South Cotabato",
       "summary": "Philippines school shooting: 2 killed, 4 injured in South Cotabato. This update was reported by Livemint. Open the original report for full context and any developing updates.",
@@ -1387,6 +1475,17 @@
       "sourceUrl": "https://www.hindustantimes.com/sports/others/flag-hoisting-at-asiad-countries-including-india-complete-ceremony-after-delay-and-disruption-101789713994660.html",
       "publishedAt": "2026-09-18T06:46:34.000Z",
       "fetchedAt": "2026-09-18T07:07:45.002Z"
+    },
+    {
+      "id": "36e579e5b5fa339f",
+      "title": "Asian Games 2026: Ambassador Nagma Mallick welcomes Sports Minister Mansukh Mandaviya in Tokyo",
+      "summary": "Indian Ambassador to Japan Nagma Mallick welcomed Union Minister for Youth Affairs & Sports Mansukh Mandaviya in Tokyo on Friday morning. He is visiting Japan to lead India’s delegation to the 20th Aichi-Nagoya Asian Games. India will look to build on their record-breaking medal haul at Hangzhou 2023 when the…",
+      "category": "Sports",
+      "image": "https://ddindia.co.in/wp-content/uploads/2026/09/Nagma-Mallick-Mansukh-Manda.jpg",
+      "source": "DD India",
+      "sourceUrl": "https://ddindia.co.in/2026/09/asian-games-2026-ambassador-nagma-mallick-welcomes-sports-minister-mansukh-mandaviya-in-tokyo/",
+      "publishedAt": "2026-09-18T06:45:17.000Z",
+      "fetchedAt": "2026-09-18T13:12:39.840Z"
     },
     {
       "id": "ec4bfeb21696a468",
@@ -2652,105 +2751,6 @@
       "sourceUrl": "https://www.thehindu.com/news/morning-digest-september-18-2026/article71478065.ece",
       "publishedAt": "2026-09-18T00:50:50.000Z",
       "fetchedAt": "2026-09-18T04:46:29.356Z"
-    },
-    {
-      "id": "fba4da3c5cc3ba6e",
-      "title": "'Irumudi' box office collections day 28: Ravi Teja film holds at Rs 95 lakhs amid OTT release; India net",
-      "summary": "Ravi Teja's 'Irumudi' maintained its Day 28 collection despite its availability on OTT platforms. The Telugu action film recorded Rs 95 lakhs in India net collections on its 28th day.",
-      "category": "Entertainment",
-      "image": "https://static.toiimg.com/thumb/msid-134323485,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/irumudi-box-office-collections-day-28-ravi-teja-film-holds-at-rs-95-lakhs-amid-ott-release-india-net-at-rs-186-10-cr/articleshow/134323483.cms",
-      "publishedAt": "2026-09-18T00:38:00.000Z",
-      "fetchedAt": "2026-09-18T00:49:41.066Z"
-    },
-    {
-      "id": "99367a2e2aa65433",
-      "title": "In West Bengal, an IPS officer, an inshallah, and the need to rise above the politics of greetings",
-      "summary": "In West Bengal, an IPS officer, an inshallah, and the need to rise above the politics of greetings. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
-      "category": "Politics & Government",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EPolitics%20%26amp%3B%20Government%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "The Indian Express",
-      "sourceUrl": "https://indianexpress.com/article/opinion/editorials/west-bengal-bushara-bano-transfer-religious-greetings-10882716/",
-      "publishedAt": "2026-09-18T00:35:36.000Z",
-      "fetchedAt": "2026-09-18T00:49:36.737Z"
-    },
-    {
-      "id": "5928fab4cc347954",
-      "title": "Beyond GEO and LEO: India’s Window in VLEO",
-      "summary": "Outer space has changed from being a pristine arena for scientific exploration to a field where geopolitics, technology, and the projection of international power intersect. From navigation and battlefield awareness to large&hellip;",
-      "category": "Technology",
-      "image": "https://www.indianarrative.com/wp-content/uploads/2026/09/nasa-yZygONrUBe8-unsplash.webp",
-      "source": "indianarrative.com",
-      "sourceUrl": "https://www.indianarrative.com/tech/beyond-geo-and-leo-indias-window-in-vleo/",
-      "publishedAt": "2026-09-18T00:31:00.000Z",
-      "fetchedAt": "2026-09-18T00:49:44.453Z"
-    },
-    {
-      "id": "fdd1eb7058eeaba5",
-      "title": "Asian Games 2026 Schedule: Dates, Timings, India Events, Live Streaming And Telecast Details",
-      "summary": "Asian Games 2026 full schedule, dates, timings, India events, Indian athletes, live streaming and telecast details. Check where to watch the Aichi-Nagoya Games.",
-      "category": "Sports",
-      "image": "https://c.ndtvimg.com/2026-09/m80nu1mg_asian-games_625x300_17_September_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "source": "ndtvprofit.com",
-      "sourceUrl": "https://www.ndtvprofit.com/sports/asian-games-2026-schedule-dates-timings-india-events-live-streaming-and-telecast-details-12060683",
-      "publishedAt": "2026-09-18T00:30:01.000Z",
-      "fetchedAt": "2026-09-18T01:00:49.008Z"
-    },
-    {
-      "id": "806653ebc4c173cb",
-      "title": "Asian Games 2026: ‘My biggest bet would surely be the doubles’ - Neha Aggarwal Sharma on India’s table te",
-      "summary": "India’s 10-member table tennis contingent is already in Japan, with the Aichi-Nagoya competition for the event beginning on September 20. At the forefront are world No.",
-      "category": "Sports",
-      "image": "https://static.toiimg.com/thumb/msid-134318614,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-my-biggest-bet-would-surely-be-the-doubles-neha-aggarwal-sharma-on-indias-table-tennis-medal-hopes/articleshow/134318539.cms",
-      "publishedAt": "2026-09-18T00:30:00.000Z",
-      "fetchedAt": "2026-09-18T01:31:38.963Z"
-    },
-    {
-      "id": "edb26b3990e280f4",
-      "title": "AI Brings Benefits But Also Risks, Regulation Has A Role, Says Minister",
-      "summary": "IT Minister Ashwini Vaishnaw said on Thursday that AI's complex user-safety dimension makes regulation necessary even as the technology brings significant benefits.",
-      "category": "Technology",
-      "image": "https://c.ndtvimg.com/2026-09/c74deivc_ashwini-vaishnaw_625x300_18_September_26.jpeg",
-      "source": "NDTV",
-      "sourceUrl": "https://www.ndtv.com/india-news/ai-brings-benefits-but-also-risks-regulation-has-a-role-says-minister-ashwini-vaishnaw-12062183",
-      "publishedAt": "2026-09-17T23:33:21.000Z",
-      "fetchedAt": "2026-09-18T03:46:32.438Z"
-    },
-    {
-      "id": "ea240071d8d01a8d",
-      "title": "Nissan India opens dealerships in Nagpur and Kolkata",
-      "summary": "Nissan Motor India today announced the opening of its two new dealerships in the cities of Nagpur and Kolkata respectively. In an endeavour to achieve maximum c",
-      "category": "National & Trending News",
-      "image": "https://stimg2.cardekho.com/images/carNewsimages/userimages/4332/Nissan.JPG",
-      "source": "CarDekho",
-      "sourceUrl": "https://www.cardekho.com/news/general/nissan-india-opens-dealerships-in-nagpur-and-kolkata-4333.htm?amp=1",
-      "publishedAt": "2026-09-17T23:26:55.000Z",
-      "fetchedAt": "2026-09-18T06:37:02.298Z"
-    },
-    {
-      "id": "e67981cea1263526",
-      "title": "Semicon India 2026: Micron, Tata, Infineon outline next steps in chip expansion",
-      "summary": "Chipmakers including Micron and Infineon and Tata Electronics, which is setting up two fab units, Thursday outlined plans to expand production, build factories and hire engineers, highlighting how India's semiconductor push is spreading across manufacturing, suppliers and research.",
-      "category": "Technology",
-      "image": "https://static.toiimg.com/thumb/msid-134323209,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/micron-tata-infineon-outline-next-steps-in-chip-expansion/articleshow/134323210.cms",
-      "publishedAt": "2026-09-17T23:09:00.000Z",
-      "fetchedAt": "2026-09-17T23:41:58.549Z"
-    },
-    {
-      "id": "c5969904bdaa4caf",
-      "title": "India seeks technology-driven competitive advantage in Mining Sector: Dr Jitendra",
-      "summary": "Excelsior Correspondent NEW DELHI, Sept 17: India seeks technology-driven competitive advantage in mining and metals, and needs to move from a resource advantage to a technology-driven competitiveness in mining and metals, with technology integrated across the entire value chain, from...",
-      "category": "Technology",
-      "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTkwYmFkY2EwLWIyZWItMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
-      "source": "Daily Excelsior",
-      "sourceUrl": "https://www.dailyexcelsior.com/india-seeks-technology-driven-competitive-advantage-in-mining-sector-dr-jitendra/",
-      "publishedAt": "2026-09-17T23:00:19.000Z",
-      "fetchedAt": "2026-09-17T23:19:58.543Z"
     }
   ]
 }
