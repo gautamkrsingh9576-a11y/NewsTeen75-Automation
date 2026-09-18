@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-09-18T07:07:53.820Z",
+  "updatedAt": "2026-09-18T07:25:17.716Z",
   "count": 250,
   "articles": [
+    {
+      "id": "f577e97c93760796",
+      "title": "Russia-India Rail Cooperation: A New Track for Connectivity Under BRICS 2026- Expert View by Spherical Insights",
+      "summary": "India-Russia railway cooperation is entering a broader phase in which technology, manufacturing, infrastructure and international connectivity are becoming increasingly interconnected.",
+      "category": "Technology",
+      "image": "https://www.sphericalinsights.com/assets/img/sphericalinsights-logo.png",
+      "source": "Spherical Insights",
+      "sourceUrl": "https://www.sphericalinsights.com/blogs/russia-india-rail-cooperation-a-new-track-for-connectivity-under-brics-2026",
+      "publishedAt": "2026-09-18T07:21:54.000Z",
+      "fetchedAt": "2026-09-18T07:25:13.734Z"
+    },
+    {
+      "id": "eb3eee84703d0433",
+      "title": "Microsoft CEO Satya Nadella says India could build world’s largest developer community by 2030",
+      "summary": "Microsoft CEO Satya Nadella has pointed to India’s expanding technology workforce as a potential foundation for the world’s largest developer community by 2030. His comments came as Indian-American technology executives in Seattle explored closer cooperation between India and the US on artificial intelligence, semiconductors, quantum computing, aerospace and advanced manufacturing.",
+      "category": "Technology",
+      "image": "https://images.firstpost.com/uploads/2026/06/Satya-Nadella-from-Build-Confrence-2026-06-f83c9fb1d1d923ffcf5524b6207fcd07.jpg?im=FitAndFill,width=1200,height=675",
+      "source": "Firstpost",
+      "sourceUrl": "https://www.firstpost.com/tech/microsoft-ceo-satya-nadella-says-india-could-build-worlds-largest-developer-community-by-2030-14046818.html/amp",
+      "publishedAt": "2026-09-18T07:08:42.000Z",
+      "fetchedAt": "2026-09-18T07:25:14.017Z"
+    },
     {
       "id": "18a88cf1c9023cc3",
       "title": "My Advisers Expands Technology, Digital Marketing and Business Consulting Services for Startups, SMEs and Entrepreneurs in India - 24-7PressRelease.com",
@@ -14,6 +36,17 @@
       "fetchedAt": "2026-09-18T07:07:48.174Z"
     },
     {
+      "id": "a5c84f0d860a563b",
+      "title": "India hammer Japan by 8 wickets to start Asian Games gold medal defence",
+      "summary": "India hammer Japan by 8 wickets to start Asian Games gold medal defence. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
+      "category": "Sports",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "The Indian Express",
+      "sourceUrl": "https://indianexpress.com/article/sports/cricket/india-beat-japan-8-wickets-asian-games-2026-gold-medal-defence-10883360/",
+      "publishedAt": "2026-09-18T07:03:20.000Z",
+      "fetchedAt": "2026-09-18T07:25:10.506Z"
+    },
+    {
       "id": "d1135c409b39df9d",
       "title": "India Music Retreat brings audiences closer to music through performances and shared listening",
       "summary": "Join the India Music Retreat in Jaipur for an immersive three-day experience of performances, conversations, and shared listening.",
@@ -23,6 +56,17 @@
       "sourceUrl": "https://www.thehindu.com/entertainment/music/india-music-retreat-brings-audiences-closer-to-music-through-performances-and-shared-listening/article71475662.ece",
       "publishedAt": "2026-09-18T06:56:45.000Z",
       "fetchedAt": "2026-09-18T07:07:46.132Z"
+    },
+    {
+      "id": "899a82f688bbd55e",
+      "title": "India A vs Australia A: Tripurana Vijay replaces injured Vijaykumar Vyshak",
+      "summary": "Karnataka pacer Vijaykumar Vyshak has been ruled out of the India A squad that is set to play two four-day matches against Australia A. Vyshak has been replaced by Andhra off-spinner Tripurana Vijay.",
+      "category": "Sports",
+      "image": "https://static.toiimg.com/thumb/msid-134328320,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/india-a-vs-australia-a-tripurana-vijay-replaces-injured-vijaykumar-vyshak/articleshow/134327658.cms",
+      "publishedAt": "2026-09-18T06:49:00.000Z",
+      "fetchedAt": "2026-09-18T07:25:10.936Z"
     },
     {
       "id": "b507de83b9af3770",
@@ -287,6 +331,17 @@
       "sourceUrl": "https://www.livemint.com/technology/india-has-building-blocks-for-semiconductor-growth-must-bridge-knowledge-market-gaps-l-t-semiconductor-tech-ceo-11789708579964.html",
       "publishedAt": "2026-09-18T05:16:19.000Z",
       "fetchedAt": "2026-09-18T05:29:23.042Z"
+    },
+    {
+      "id": "e493c9d46b3f1087",
+      "title": "Anbil Avan - Official Trailer",
+      "summary": "Anbil Avan. This update was reported by The Times of India. Open the original report for full context and any developing updates.",
+      "category": "Entertainment",
+      "image": "https://static.toiimg.com/thumb/msid-134326655,width-1280,height-720,imgsize-133442,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/videos/entertainment/regional/tamil/anbil-avan-official-trailer/amp_videoshow/134326655.cms",
+      "publishedAt": "2026-09-18T05:16:07.000Z",
+      "fetchedAt": "2026-09-18T07:25:12.789Z"
     },
     {
       "id": "8f13b4ecba32267b",
@@ -2696,61 +2751,6 @@
       "sourceUrl": "https://www.thehindu.com/news/international/us-house-passes-russia-sanctions-bill-india-tariffs/article71474350.ece",
       "publishedAt": "2026-09-17T11:50:14.000Z",
       "fetchedAt": "2026-09-17T14:38:05.546Z"
-    },
-    {
-      "id": "dfa9a7afb1da2af7",
-      "title": "India seeks technology-driven competitive advantage in mining sector: Minister",
-      "summary": "India seeks technology-driven competitive advantage in mining sector: Minister. This update was reported by Investment Guru India. Open the original report for full context and any developing updates.",
-      "category": "Technology",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "Investment Guru India",
-      "sourceUrl": "https://investmentguruindia.com/newsdetail/india-seeks-technology-driven-competitive-advantage-in-mining-sector-minister342018",
-      "publishedAt": "2026-09-17T11:44:56.000Z",
-      "fetchedAt": "2026-09-17T12:00:24.000Z"
-    },
-    {
-      "id": "c65ddb7ad645c5c5",
-      "title": "Yonex to acquire 50% voting rights in Indian partner Sunrise Sports",
-      "summary": "The Japanese sports equipment major will make Sunrise Sports an equity-method affiliate as it looks to deepen its presence in India’s growing badminton market.",
-      "category": "Sports",
-      "image": "https://thebridge.in/h-upload/2026/09/17/66882-cwg-d10-14-1.jpg",
-      "source": "Indian Sports Home",
-      "sourceUrl": "https://thebridge.in/amp/sports-market/yonex-acquire-50-voting-rights-sunrise-sports-57621",
-      "publishedAt": "2026-09-17T11:43:11.000Z",
-      "fetchedAt": "2026-09-17T15:07:46.736Z"
-    },
-    {
-      "id": "79a3035f2f6a0165",
-      "title": "Fresh CBI FIR in Disha Salian death invokes gang rape, murder charges",
-      "summary": "Fresh CBI FIR in Disha Salian death invokes gang rape, murder charges. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
-      "category": "Crime & Breaking News",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ECrime%20%26amp%3B%20Breaking%20News%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "The Indian Express",
-      "sourceUrl": "https://indianexpress.com/article/india/disha-salian-death-cbi-fir-bombay-high-court-probe-10882350/",
-      "publishedAt": "2026-09-17T11:42:46.000Z",
-      "fetchedAt": "2026-09-17T18:13:11.730Z"
-    },
-    {
-      "id": "93638168973f55a6",
-      "title": "Praj, Gevo Sign India Deal to Scale Up Bio-Isobutanol",
-      "summary": "Praj, Gevo Sign India Deal to Scale Up Bio-Isobutanol. This update was reported by chemanalyst.com. Open the original report for full context and any developing updates.",
-      "category": "Technology",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "chemanalyst.com",
-      "sourceUrl": "https://www.chemanalyst.com/NewsAndDeals/NewsDetails/praj-gevo-sign-india-deal-to-scale-up-bio-isobutanol-44517",
-      "publishedAt": "2026-09-17T11:40:29.000Z",
-      "fetchedAt": "2026-09-17T14:22:15.009Z"
-    },
-    {
-      "id": "20e454ff456d903e",
-      "title": "She owes you nothing: Actor Sonarika calls for kindness amid Katrina Kaif trolling",
-      "summary": "Sonarika Bhadoria shared a post urging people to stop judging postpartum bodies amid the online chatter around Katrina Kaif's appearance. The actor said motherhood changes the body and called for compassion instead of scrutiny.",
-      "category": "Entertainment",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/sonarika-bhadoria--katrina-kaif-172906628-16x9_0.jpg?VersionId=V7Mbaqn2o4CAu_p0v_sxJ4NirSc.Kot9",
-      "source": "indiatoday.in",
-      "sourceUrl": "https://www.indiatoday.in/entertainment/television/story/sonarika-bhadoria-katrina-kaif-postpartum-body-trolling-kindness-2996883-2026-09-17",
-      "publishedAt": "2026-09-17T11:30:24.000Z",
-      "fetchedAt": "2026-09-17T11:35:36.162Z"
     }
   ]
 }
