@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-09-18T05:29:26.962Z",
+  "updatedAt": "2026-09-18T05:44:02.872Z",
   "count": 250,
   "articles": [
+    {
+      "id": "ece5c7a0738a7cfd",
+      "title": "Missing Delhi man found dead in Gurugram, was shot by ex-colleague, her partner | India News",
+      "summary": "A police team was deputed to Uttarakhand, from where the Delhi man's ex-colleague and her partner were apprehended.",
+      "category": "Crime & Breaking News",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/18/1600x900/logo/20251110-DLI-HT-MN-FARIDABAD-AA-001-0_176359391229_1789708787086_Ecxz_1789708787230_ScwB_ec9b2da6-0de0-4fca-87a2-f0cfd1537347_q6X9.jpg",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/missing-delhi-man-found-dead-in-gurugram-was-shot-by-ex-colleague-her-partner-101789708571895-amp.html",
+      "publishedAt": "2026-09-18T05:35:45.000Z",
+      "fetchedAt": "2026-09-18T05:43:56.430Z"
+    },
+    {
+      "id": "ffaaa827fe4fc8c7",
+      "title": "Biotechnology and healthcare: where we are in India, and where we need to go",
+      "summary": "Explore India's biotechnology landscape and its potential to revolutionize healthcare, enhancing access, innovation, and economic growth for the future.",
+      "category": "Technology",
+      "image": "https://th-i.thgim.com/public/incoming/vps1v4/article71475424.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_UK45RK8BO_R1557492789_2_c0a6ddb0-89da-4749-9bb6-0220d2e0ff6b.jpg",
+      "source": "The Hindu",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/health/biotechnology-and-healthcare-where-we-are-in-india-and-where-we-need-to-go/article71471597.ece",
+      "publishedAt": "2026-09-18T05:25:40.000Z",
+      "fetchedAt": "2026-09-18T05:43:59.140Z"
+    },
     {
       "id": "e256855d8a759b16",
       "title": "India has ‘building blocks’ for semiconductor growth, must bridge knowledge, market gaps: L&T Semiconductor Tech CEO",
@@ -45,6 +67,17 @@
       "sourceUrl": "https://www.ndtv.com/entertainment/mirzapur-the-movie-box-office-collection-day-14-pankaj-tripathi-film-crosses-200-crore-mark-in-india-12062866/amp/1?utm_source=www.ndtv.com&utm_medium=amp-page&utm_campaign=trendingstories",
       "publishedAt": "2026-09-18T05:03:57.000Z",
       "fetchedAt": "2026-09-18T05:14:29.806Z"
+    },
+    {
+      "id": "761d0c5fe203f438",
+      "title": "Celebrating Varun Mathur: From sports marketing to global cinema and AI-led storytelling",
+      "summary": "Celebrating Varun Mathur: From sports marketing to global cinema and AI-led storytelling. This update was reported by Exchange4Media. Open the original report for full context and any developing updates.",
+      "category": "Entertainment",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EEntertainment%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "Exchange4Media",
+      "sourceUrl": "https://www.exchange4media.com/marketing-news/celebrating-varun-mathur-from-sports-marketing-to-global-cinema-and-ai-led-storytelling-158359.html",
+      "publishedAt": "2026-09-18T04:54:35.000Z",
+      "fetchedAt": "2026-09-18T05:43:58.003Z"
     },
     {
       "id": "c60aa4590896c982",
@@ -441,6 +474,17 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/the-peaks-are-higher-the-floor-is-rising-how-indias-asian-games-medal-story-has-changed-over-two-decades/articleshow/134323671.cms",
       "publishedAt": "2026-09-18T01:55:00.000Z",
       "fetchedAt": "2026-09-18T02:14:37.536Z"
+    },
+    {
+      "id": "42f788ce52d9d640",
+      "title": "Exclusive | Anil Kapoor on inviting B-town friends to India Ke Top 1 Percent: ‘Farah Khan would roast me’ - Mid-Day",
+      "summary": "Adding a fun twist to the conversation with mid-day, Anil Kapoor shares which of his B-town buddies must try participating in his show India Ke Top 1 Percent",
+      "category": "Entertainment",
+      "image": "https://images.mid-day.com/images/images/2026/sep/nnu-1789681500463_d.png",
+      "source": "Mid-Day",
+      "sourceUrl": "https://www.mid-day.com/amp/entertainment/television-news/article/exclusive-india-ke-top-1-percent-anil-kapoor-btown-friends-farah-khan-bigg-boss-ott-3-23650544",
+      "publishedAt": "2026-09-18T01:51:00.000Z",
+      "fetchedAt": "2026-09-18T05:43:58.356Z"
     },
     {
       "id": "bc5b17ef09f42574",
@@ -2707,50 +2751,6 @@
       "sourceUrl": "https://openthemagazine.com/technology/indias-chip-tiger-is-ready-to-jump-can-it-build-the-products",
       "publishedAt": "2026-09-17T10:19:50.000Z",
       "fetchedAt": "2026-09-17T10:50:51.313Z"
-    },
-    {
-      "id": "2e8b8dcb6ec5756e",
-      "title": "PM Modi shares article on technology-driven governance model",
-      "summary": "Prime Minister Narendra Modi on Thursday shared an article by Rajiv Gauba, Member, NITI Aayog, highlighting governance model centred on technology, trust and citizen engagement. In a post on X, the Prime Minister’s Office (PMO) said that Gauba’s article examines how digital systems, direct transfers, simpler regulations and transparent procurement…",
-      "category": "Technology",
-      "image": "https://ddindia.co.in/wp-content/uploads/2026/08/PM-Modi-2-1.jpg",
-      "source": "DD India",
-      "sourceUrl": "https://ddindia.co.in/2026/09/pm-modi-shares-article-on-technology-driven-governance-model/",
-      "publishedAt": "2026-09-17T10:19:13.000Z",
-      "fetchedAt": "2026-09-17T10:36:13.570Z"
-    },
-    {
-      "id": "728b8cb414c6a462",
-      "title": "PM Modi urges youth to drive India’s advanced tech push",
-      "summary": "Prime Minister Narendra Modi hailed India’s engineering talent and chip-design skilling initiatives, calling them a strategic advantage.",
-      "category": "Technology",
-      "image": "https://cdn.siasat.com/wp-content/uploads/2026/09/PM-Modi-2.jpg",
-      "source": "The Siasat Daily",
-      "sourceUrl": "https://www.siasat.com/pm-modi-urges-youth-to-drive-indias-advanced-tech-push-3543732/",
-      "publishedAt": "2026-09-17T10:18:45.000Z",
-      "fetchedAt": "2026-09-17T11:21:16.094Z"
-    },
-    {
-      "id": "02f60ae39e05bea4",
-      "title": "M. R. Poovamma",
-      "summary": "M. R. Poovamma. This update was reported by The Times of India. Open the original report for full context and any developing updates.",
-      "category": "Sports",
-      "image": "https://static.toiimg.com/thumb/msid-134308453,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/hall-of-fame/m-r-poovamma/articleshow/134308420.cms",
-      "publishedAt": "2026-09-17T10:14:00.000Z",
-      "fetchedAt": "2026-09-17T11:35:35.071Z"
-    },
-    {
-      "id": "c1cf0155864bf2d3",
-      "title": "Adidas tech layoffs: Company confirms 20% of India tech hub employees let go",
-      "summary": "Adidas has confirmed job cuts across its India technology organisation, but says fewer than 20 per cent of employees are affected.",
-      "category": "Technology",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/adidas-170931145-16x9_0.png?VersionId=w13R6hVkJKrYUfQRAIGZBrFisTWJcnBi",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/jobs/story/adidas-says-20-of-india-tech-hub-employees-let-go-not-50-as-reported-2996791-2026-09-17",
-      "publishedAt": "2026-09-17T10:09:50.000Z",
-      "fetchedAt": "2026-09-17T10:36:11.790Z"
     }
   ]
 }
