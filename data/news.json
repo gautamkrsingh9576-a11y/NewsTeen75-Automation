@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-09-18T10:08:04.104Z",
+  "updatedAt": "2026-09-18T10:25:10.926Z",
   "count": 250,
   "articles": [
+    {
+      "id": "898f6b7c585e4d8b",
+      "title": "Marathi film 'Gondhal' is India's pick for Oscars 2027",
+      "summary": "Marathi film 'Gondhal' is India's pick for Oscars 2027. This update was reported by awazthevoice.in. Open the original report for full context and any developing updates.",
+      "category": "Entertainment",
+      "image": "https://www.awazthevoice.in/upload/news/178972663860g4r8mu5bkk8kgvpt2mu5asazi1-aa-1_(1).webp",
+      "source": "awazthevoice.in",
+      "sourceUrl": "https://www.awazthevoice.in/entertainment-news/marathi-film-gondhal-is-india-s-pick-for-oscars-67909.html",
+      "publishedAt": "2026-09-18T10:17:18.000Z",
+      "fetchedAt": "2026-09-18T10:25:07.512Z"
+    },
+    {
+      "id": "5ce3d96c9e1883d1",
+      "title": "KBC 18: 26-year-old SC lawyer quits at Rs 25 lakh question on Vasco da Gama’s India voyage",
+      "summary": "KBC 18: 26-year-old SC lawyer quits at Rs 25 lakh question on Vasco da Gama’s India voyage. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
+      "category": "Entertainment",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EEntertainment%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "The Indian Express",
+      "sourceUrl": "https://indianexpress.com/article/entertainment/television/kbc-18-26-year-old-sc-lawyer-quits-at-25-lakh-after-vasco-da-gama-india-question-10883610/",
+      "publishedAt": "2026-09-18T10:03:21.000Z",
+      "fetchedAt": "2026-09-18T10:25:07.755Z"
+    },
     {
       "id": "b3de0362f16df999",
       "title": "Alteryx Brings Governed Business Logic to Enterprise AI at Gartner Data & Analytics Summit 2026",
@@ -23,6 +45,17 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-opening-ceremony-when-and-where-to-watch-live-in-india/articleshow/134331225.cms",
       "publishedAt": "2026-09-18T09:41:00.000Z",
       "fetchedAt": "2026-09-18T09:53:10.335Z"
+    },
+    {
+      "id": "3dea2c212ff3bb11",
+      "title": "Asiad 2026: Will India win 30 medals? Athletics tally in previous edition",
+      "summary": "Athletics is India's largest discipline at the Aichi-Nagoya Games, with the AFI selecting 77 athletes, including 34 men and 43 women",
+      "category": "Sports",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/22/thumb/fitandfill/1200X628/1787377977-5182.JPG",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/sports/asian-games/asiad-2026-will-india-win-30-medals-athletics-tally-in-previous-edition-126091800679_1.html",
+      "publishedAt": "2026-09-18T09:40:33.000Z",
+      "fetchedAt": "2026-09-18T10:25:05.908Z"
     },
     {
       "id": "fe1f35da472a794e",
@@ -100,6 +133,17 @@
       "sourceUrl": "https://www.kalkine.co.in/article/announcements/five-star-business-finance-nsefivestar-what-is-the-scheduled-analyst-meet",
       "publishedAt": "2026-09-18T09:14:00.000Z",
       "fetchedAt": "2026-09-18T09:41:18.824Z"
+    },
+    {
+      "id": "1a90fe42e3c7d974",
+      "title": "Chennai: Ex-bank manager held for ₹23 lakh bond fraud | Hindustan Times",
+      "summary": "Chennai: Ex-bank manager held for ₹23 lakh bond fraud | Hindustan Times. This update was reported by Hindustan Times. Open the original report for full context and any developing updates.",
+      "category": "Crime & Breaking News",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/01/27/1600x900/logo/ht-generic_cities2_1769511880449_1769511907099.jpg",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/cities/chennai-ex-bank-manager-held-for-rs-23-lakh-bond-fraud-101789722616117.html",
+      "publishedAt": "2026-09-18T09:10:15.000Z",
+      "fetchedAt": "2026-09-18T10:25:04.998Z"
     },
     {
       "id": "b4893b3e28b1af8f",
@@ -378,6 +422,17 @@
     },
     {
       "id": "4071b05ebf92ca14",
+      "title": "Home loan rates in Sep start at 7%: Top lenders and terms compared",
+      "summary": "Home loan rates vary by lender and loan size, with some banks offering different rates across borrowing slabs",
+      "category": "Business & Finance",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-11/26/thumb/fitandfill/1200X628/1764173401-8833.jpg",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/amp/finance/personal-finance/home-loan-rates-in-sep-start-at-7-top-lenders-and-terms-compared-126091800489_1.html",
+      "publishedAt": "2026-09-18T07:27:30.000Z",
+      "fetchedAt": "2026-09-18T10:25:08.655Z"
+    },
+    {
+      "id": "4071b05ebf92ca14",
       "title": "Home loan rates in Sep start at 7%: Top lenders and terms compared - business-standard.com",
       "summary": "Home loan rates vary by lender and loan size, with some banks offering different rates across borrowing slabs",
       "category": "Business & Finance",
@@ -606,6 +661,17 @@
       "sourceUrl": "https://www.cxodigitalpulse.com/adidas-begins-layoffs-at-gurugram-tech-hub-company-says-impact-is-below-20-of-india-technology-organisation/",
       "publishedAt": "2026-09-18T06:29:45.000Z",
       "fetchedAt": "2026-09-18T08:06:33.590Z"
+    },
+    {
+      "id": "d1c7f0e503324a31",
+      "title": "Asian Games 2026: Manu Bhaker, Tajinderpal Singh Toor named India flag-bearers",
+      "summary": "Asian Games 2026: Two-time Olympic medallist Manu Bhaker and two-time Asian Games champion Tajinderpal Singh Toor will lead India at the Aichi-Nagoya opening ceremony. Both flag-bearers are also among India’s biggest medal hopes at the continental showpiece.",
+      "category": "Sports",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/manu-bhaker-183310810-16x9_0.jpg?VersionId=J37fXIohz7EtGTTG7TJvT.4V00eL04Qn",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/sports/story/asian-games-2026-manu-bhaker-india-flag-bearer-tajinder-pal-singh-toor-opening-ceremony-2997476-2026-09-18",
+      "publishedAt": "2026-09-18T06:28:30.000Z",
+      "fetchedAt": "2026-09-18T10:25:05.724Z"
     },
     {
       "id": "1b1945268500030f",
@@ -2685,72 +2751,6 @@
       "sourceUrl": "https://www.business-standard.com/amp/companies/news/oil-india-to-spend-15-000-cr-over-three-years-on-deepwater-drilling-126091701359_1.html",
       "publishedAt": "2026-09-17T15:21:30.000Z",
       "fetchedAt": "2026-09-17T16:44:47.195Z"
-    },
-    {
-      "id": "24970c233d726e39",
-      "title": "Abhishek Sharma pulls off yoga celebration after smashing fastest T20I century by Indian - WATCH",
-      "summary": "Abhishek Sharma celebrated his record-breaking T20I century in style on Thursday, removing his helmet, sitting on the ground and striking a meditation yoga pose after completing his hundred against Afghanistan in Delhi.",
-      "category": "Sports",
-      "image": "https://static.toiimg.com/thumb/msid-134315920,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/abhishek-sharma-pulls-off-yoga-celebration-after-smashing-fastest-t20i-century-by-indian-watch/articleshow/134315875.cms",
-      "publishedAt": "2026-09-17T15:18:00.000Z",
-      "fetchedAt": "2026-09-17T16:28:20.898Z"
-    },
-    {
-      "id": "c8e9300082e495eb",
-      "title": "Four murder cases involving minors transferred to special court in Coimbatore",
-      "summary": "Four murder cases involving minors, who were arrested in Coimbatore over the past three months, have been transferred to a special court following a preliminary assessment by the juvenile justice board (JJB).",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134315888,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "timesofindia.indiatimes.com",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/chennai/four-murder-cases-involving-minors-transferred-to-special-court-in-coimbatore/articleshow/134315882.cms",
-      "publishedAt": "2026-09-17T15:16:00.000Z",
-      "fetchedAt": "2026-09-17T16:44:39.965Z"
-    },
-    {
-      "id": "85e7ce11fe1d6db0",
-      "title": "‘Vettuvam’ poster: Pa. Ranjith’s next film is about India’s traditional Mallakhamba sport; glimpse releas",
-      "summary": "00 PMA film by Pa Ranjith 🔥@LearnNteachprod #SaiDevanand #SaiVenkateswaran @arya_offl @vr_dineshravi @sobhitaD @KalaiActor @mimegopi @gurusoms @actorshabeer @gvprakash… pic.twitter.com/i3ldf4G6Fz",
-      "category": "Entertainment",
-      "image": "https://static.toiimg.com/thumb/msid-134315707,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vettuvam-poster-pa-ranjiths-next-film-is-about-indias-traditional-mallakhamba-sport-glimpse-release-details-out/articleshow/134315602.cms",
-      "publishedAt": "2026-09-17T15:06:00.000Z",
-      "fetchedAt": "2026-09-17T15:25:44.471Z"
-    },
-    {
-      "id": "e6147cf4eab2859d",
-      "title": "Govt moving towards deals with Israel, India on surveillance: Patwari",
-      "summary": "National Citizens Party (NCP) Chief Coordinator Nasiruddin Patwari on Thursday alleged that the current government is moving towards agreements with India and Israel related to surveillance and access to citizens&rsquo; digital communications. &ldquo;We have heard that, behind the scenes, the curr",
-      "category": "Politics & Government",
-      "image": "https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/merged/merged_b11b38059e87fb586f46d917dbe7544d.jpg",
-      "source": "The Financial Express",
-      "sourceUrl": "https://thefinancialexpress.com.bd/politics/govt-moving-towards-deals-with-israel-india-on-surveillance-patwari",
-      "publishedAt": "2026-09-17T15:04:08.000Z",
-      "fetchedAt": "2026-09-17T15:25:41.016Z"
-    },
-    {
-      "id": "c8a522a9ad55748c",
-      "title": "School Bombing, Civilian Killings: UN Probe Finds Grounds To Believe US Committed 'War Crimes' In Iran",
-      "summary": "The fact-finding mission has also accused Iranian authorities of carrying out crimes against humanity against their own people",
-      "category": "Crime & Breaking News",
-      "image": "https://images.news18.com/ibnlive/uploads/2026/09/03d08755_bc55_4910_ae9f_b9ff54c68da0_0_1789657125846-1200x675.jpg",
-      "source": "News18",
-      "sourceUrl": "https://www.news18.com/amp/india/school-bombing-civilian-killings-un-probe-finds-grounds-to-believe-us-committed-war-crimes-in-iran-ws-l-10337250.html",
-      "publishedAt": "2026-09-17T15:03:17.000Z",
-      "fetchedAt": "2026-09-17T20:54:22.001Z"
-    },
-    {
-      "id": "c8a522a9ad55748c",
-      "title": "School Bombing, Civilian Killings: UN Probe Finds Grounds To Believe US Committed War Crimes In Iran",
-      "summary": "The fact-finding mission has also accused Iranian authorities of carrying out crimes against humanity against their own people",
-      "category": "Crime & Breaking News",
-      "image": "https://images.news18.com/ibnlive/uploads/2026/09/03d08755_bc55_4910_ae9f_b9ff54c68da0_0_1789657125846-1200x675.jpg",
-      "source": "News18",
-      "sourceUrl": "https://www.news18.com/amp/india/school-bombing-civilian-killings-un-probe-finds-grounds-to-believe-us-committed-war-crimes-in-iran-ws-l-10337250.html",
-      "publishedAt": "2026-09-17T15:03:17.000Z",
-      "fetchedAt": "2026-09-17T20:13:05.540Z"
     }
   ]
 }
