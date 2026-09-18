@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-09-18T13:28:35.973Z",
+  "updatedAt": "2026-09-18T13:44:47.649Z",
   "count": 250,
   "articles": [
+    {
+      "id": "5c6b7db6039af8b9",
+      "title": "Asian Games: 2000 Indians ready to accommodate athletes after hotel crisis",
+      "summary": "India has asked the Indian community in Nagoya to stay ready to host athletes amid the Asian Games accommodation crisis. The contingency plan adds a backup after some athletes waited hours and others were removed from official lodging lists.",
+      "category": "Sports",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/asian-games-183710284-16x9_0.jpg?VersionId=eLzvb3ev0mRDCdazEtH3x_hsDVi2I8Cd",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/amp/sports/asian-games/story/asian-games-2000-indians-nagoya-ready-to-accommodate-athletes-2997860-2026-09-18",
+      "publishedAt": "2026-09-18T13:40:43.000Z",
+      "fetchedAt": "2026-09-18T13:44:37.189Z"
+    },
+    {
+      "id": "c289e14d1b76c643",
+      "title": "Kerala Crime Branch armed with legal opinion, PSC faces fresh test",
+      "summary": "Kerala Crime Branch armed with legal opinion, PSC faces fresh test. This update was reported by FM Bharat. Open the original report for full context and any developing updates.",
+      "category": "Crime & Breaking News",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ECrime%20%26amp%3B%20Breaking%20News%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "FM Bharat",
+      "sourceUrl": "https://www.fmbharat.com/en/india/kerala-crime-branch-armed-with-legal-opinion-psc-faces-fresh-test",
+      "publishedAt": "2026-09-18T13:30:00.000Z",
+      "fetchedAt": "2026-09-18T13:44:34.434Z"
+    },
+    {
+      "id": "d66fc9ddb110b114",
+      "title": "Dhoomakethu - Official Trailer",
+      "summary": "Watch the Official Trailer from Malayalam movie 'Dhoomakethu' starring Sajin Gopu, Nikhila Vimal, Shine Tom Chacko, Sidharth Bharathan and Ganapathi. 'Dhoomakethu' movie is directed by Sudhi Maddison and produced by Sameer Thahir, Shyju Khalid, Sajin Ali and Abbas Thirunavaya. To know more about 'Dhoomakethu' trailer watch the video. Check out…",
+      "category": "Entertainment",
+      "image": "https://static.toiimg.com/thumb/msid-134336830,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/videos/entertainment/regional/malayalam/dhoomakethu-official-trailer/videoshow/134336830.cms",
+      "publishedAt": "2026-09-18T13:24:40.000Z",
+      "fetchedAt": "2026-09-18T13:44:39.493Z"
+    },
+    {
+      "id": "b775a18d1c544678",
+      "title": "Delhi court grants default bail to US national in Myanmar drone training camp case",
+      "summary": "A Delhi court on Friday granted default bail to US national Matthew Aaron Van Dyke, arrested in connection with a case registered by the National Investigation Agency (NIA) related to a drone warfare training camp linked to ethnic armed groups in Myanmar.",
+      "category": "National & Trending News",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWJlYzM3MjEwLWIzNjMtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
+      "source": "The Tribune",
+      "sourceUrl": "https://www.tribuneindia.com/news/india/delhi-court-grants-default-bail-to-us-national-in-myanmar-drone-training-camp-case/amp/?utm=relatedarticles",
+      "publishedAt": "2026-09-18T13:20:35.000Z",
+      "fetchedAt": "2026-09-18T13:44:46.967Z"
+    },
     {
       "id": "9850e1f90cf21a38",
       "title": "Dorothy - Official Trailer",
@@ -80,6 +124,17 @@
       "fetchedAt": "2026-09-18T12:41:04.543Z"
     },
     {
+      "id": "9b0d1067d36b15fd",
+      "title": "AI & Digitalization to Transform India's Mining Sector",
+      "summary": "AI & Digitalization to Transform India's Mining Sector. This update was reported by Rediff MoneyWiz. Open the original report for full context and any developing updates.",
+      "category": "Technology",
+      "image": "https://im.rediff.com/money/2020/sep/14ai.jpg?fr=money",
+      "source": "Rediff MoneyWiz",
+      "sourceUrl": "https://money.rediff.com/news/market/ai-digitalization-to-transform-india-s-mining-sector/54573220260918",
+      "publishedAt": "2026-09-18T12:32:40.000Z",
+      "fetchedAt": "2026-09-18T13:44:41.557Z"
+    },
+    {
       "id": "2425d859898b5b6d",
       "title": "Family movie, thriller and mixture of everything: India Film Federation President on 'Gondhal' Oscar entry for India",
       "summary": "Abhay Sinha, President of the Film Federation of India, shared that India’s official entry for the 2027 Oscars, 'Gondhal', was selected from among 33 Indian films after it impressed the selection Committee.",
@@ -89,6 +144,17 @@
       "sourceUrl": "https://www.aninews.in/news/entertainment/bollywood/family-movie-thriller-and-mixture-of-everything-india-film-federation-president-on-gondhal-oscar-entry-for-india16020260918180054/",
       "publishedAt": "2026-09-18T12:30:00.000Z",
       "fetchedAt": "2026-09-18T12:41:03.119Z"
+    },
+    {
+      "id": "8e96d8ca4744776a",
+      "title": "How AI And Digitalisation Can Revolutionise Indian Mining",
+      "summary": "A member of the Parliamentary Standing Committee on Coal, Mines & Steel, Sasmit Patra, highlighted the transformative potential of AI and digital technologies in making India",
+      "category": "Technology",
+      "image": "https://im.rediff.com/worldrediff/pix/rediff_icon_red.png",
+      "source": "Rediff",
+      "sourceUrl": "https://m.rediff.com/amp/business/report/new-age-technologies-to-transform-indias-mining-and-metals-sector/20260918.htm",
+      "publishedAt": "2026-09-18T12:29:30.000Z",
+      "fetchedAt": "2026-09-18T13:44:42.939Z"
     },
     {
       "id": "150362b0cfbe0a11",
@@ -298,6 +364,17 @@
       "sourceUrl": "https://www.thehindu.com/news/national/indian-deep-tech-alliance-invests-2170-crore-in-56-firms/article71480200.ece",
       "publishedAt": "2026-09-18T11:30:00.000Z",
       "fetchedAt": "2026-09-18T11:48:13.240Z"
+    },
+    {
+      "id": "c8e6cf8567e215e0",
+      "title": "India thrash Japan by 8 wickets to enter semifinals of Asian Games",
+      "summary": "India thrash Japan by 8 wickets to enter semifinals of Asian Games. This update was reported by Udayavani. Open the original report for full context and any developing updates.",
+      "category": "Sports",
+      "image": "https://d3jde0c4xcko0v.cloudfront.net/production/18-09-26/news/60g4r8mu6mt7grFotoJet%20-%202026-09-18T125235.493.webp",
+      "source": "Udayavani",
+      "sourceUrl": "https://udayavani.com/sports/india-thrash-japan-by-8-wickets-to-enter-semifinals-of-asian-games-370865?lang=en",
+      "publishedAt": "2026-09-18T11:29:57.000Z",
+      "fetchedAt": "2026-09-18T13:44:38.375Z"
     },
     {
       "id": "f014af48667aba32",
@@ -760,6 +837,17 @@
       "sourceUrl": "https://indiatechnologynews.in/another-big-development-for-andhra-mazagon-dock-shipbuilders-ltd-mdl-to-develop-greenfield-shipyard-at-dugarajapatnam/",
       "publishedAt": "2026-09-18T09:59:41.000Z",
       "fetchedAt": "2026-09-18T13:12:45.193Z"
+    },
+    {
+      "id": "29529ce8a373f9e3",
+      "title": "PM Modi Becomes Longest-Serving Elected Head of Government in India",
+      "summary": "PM Modi Becomes Longest-Serving Elected Head of Government in India. This update was reported by News On AIR. Open the original report for full context and any developing updates.",
+      "category": "Politics & Government",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EPolitics%20%26amp%3B%20Government%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "News On AIR",
+      "sourceUrl": "https://newsonair.gov.in/pm-modi-becomes-longest-serving-elected-head-of-government-in-india/",
+      "publishedAt": "2026-09-18T09:58:42.000Z",
+      "fetchedAt": "2026-09-18T13:44:32.830Z"
     },
     {
       "id": "b3de0362f16df999",
@@ -2663,94 +2751,6 @@
       "sourceUrl": "https://www.news18.com/amp/india/isro-staff-raise-concerns-over-private-sector-role-seek-clarity-on-agencys-future-must-strengthen-national-capability-ws-l-10337898.html",
       "publishedAt": "2026-09-18T02:03:42.000Z",
       "fetchedAt": "2026-09-18T04:32:16.629Z"
-    },
-    {
-      "id": "80c005ef7aff818d",
-      "title": "CM calls for united effort to build ‘Viksit Bharat’",
-      "summary": "CM calls for united effort to build ‘Viksit Bharat’. This update was reported by nagalandpost.com. Open the original report for full context and any developing updates.",
-      "category": "Politics & Government",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EPolitics%20%26amp%3B%20Government%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "nagalandpost.com",
-      "sourceUrl": "https://nagalandpost.com/cm-calls-for-united-effort-to-build-viksit-bharat/",
-      "publishedAt": "2026-09-18T01:56:52.000Z",
-      "fetchedAt": "2026-09-18T02:14:35.006Z"
-    },
-    {
-      "id": "65a197190e5d4d95",
-      "title": "The peaks are higher, the floor is rising: How India’s Asian Games medal story has changed over two decades",
-      "summary": "“Abki baar, sau paar” was the rallying cry when India arrived at the Hangzhou Asian Games in September 2023.",
-      "category": "Sports",
-      "image": "https://static.toiimg.com/thumb/msid-134323792,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "timesofindia.indiatimes.com",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/the-peaks-are-higher-the-floor-is-rising-how-indias-asian-games-medal-story-has-changed-over-two-decades/articleshow/134323671.cms",
-      "publishedAt": "2026-09-18T01:55:00.000Z",
-      "fetchedAt": "2026-09-18T02:14:37.536Z"
-    },
-    {
-      "id": "42f788ce52d9d640",
-      "title": "Exclusive | Anil Kapoor on inviting B-town friends to India Ke Top 1 Percent: ‘Farah Khan would roast me’ - Mid-Day",
-      "summary": "Adding a fun twist to the conversation with mid-day, Anil Kapoor shares which of his B-town buddies must try participating in his show India Ke Top 1 Percent",
-      "category": "Entertainment",
-      "image": "https://images.mid-day.com/images/images/2026/sep/nnu-1789681500463_d.png",
-      "source": "Mid-Day",
-      "sourceUrl": "https://www.mid-day.com/amp/entertainment/television-news/article/exclusive-india-ke-top-1-percent-anil-kapoor-btown-friends-farah-khan-bigg-boss-ott-3-23650544",
-      "publishedAt": "2026-09-18T01:51:00.000Z",
-      "fetchedAt": "2026-09-18T05:43:58.356Z"
-    },
-    {
-      "id": "bc5b17ef09f42574",
-      "title": "PM invites tech giants to build chips in India",
-      "summary": "Prime Minister Narendra Modi on Thursday pitched India as a trusted alternative for global manufacturing, assuring chip industry leaders that the Government is taking every step necessary to make the country a preferred semiconductor destination. “The world is looking for new and trusted",
-      "category": "Technology",
-      "image": "https://dailypioneer.com/uploads/2026/story/images/big/pm-invites-tech-giants-to-build-chips-in-india-2026-09-18.jpg",
-      "source": "Daily Pioneer",
-      "sourceUrl": "https://dailypioneer.com/news/pm-invites-tech-giants-to-build-chips-in-india",
-      "publishedAt": "2026-09-18T01:47:07.000Z",
-      "fetchedAt": "2026-09-18T01:56:38.632Z"
-    },
-    {
-      "id": "2be3bb2de983cd7d",
-      "title": "Mohammed Shami, Bhuvneshwar Kumar Told To 'Move On' After BCCI's Latest Snub",
-      "summary": "In the India squads named on Wednesday for the series against West Indies, Bhuvneshwar Kumar and Mohammed Shami could not find a place",
-      "category": "Sports",
-      "image": "https://c.ndtvimg.com/2026-09/1foi7jj8_mohammed-shami-_625x300_04_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "source": "NDTV Sports",
-      "sourceUrl": "https://sports.ndtv.com/india-vs-west-indies-2026/mohammed-shami-bhuvneshwar-kumar-told-to-move-on-after-bccis-latest-snub-12061829",
-      "publishedAt": "2026-09-18T01:41:42.000Z",
-      "fetchedAt": "2026-09-18T04:16:14.204Z"
-    },
-    {
-      "id": "49d2d03c5d4dcbc5",
-      "title": "India launches project SUTRA targeting U.S. AI Technologies",
-      "summary": "India launches project SUTRA targeting U.S. AI Technologies. This update was reported by Barchart.com. Open the original report for full context and any developing updates.",
-      "category": "Technology",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "Barchart.com",
-      "sourceUrl": "https://www.barchart.com/press-releases/4670924/india-launches-project-sutra-targeting-u-s-ai-technologies",
-      "publishedAt": "2026-09-18T01:38:12.000Z",
-      "fetchedAt": "2026-09-18T02:57:30.205Z"
-    },
-    {
-      "id": "5d91e71102173a20",
-      "title": "India Inc Looks Beyond Pilots To Scale Climate Tech",
-      "summary": "Strap: Sustainability leaders say climate innovation must deliver commercial proof before enterprises commit to large-scale adoptionIndia Inc is moving beyond experimenting with climate technologies and placing greater emphasis on solutions that can demonstrate measurable business value, operationa…",
-      "category": "Technology",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "source": "TradingView",
-      "sourceUrl": "https://www.tradingview.com/news/moodys:566e2a8075e7e:0-india-inc-looks-beyond-pilots-to-scale-climate-tech/",
-      "publishedAt": "2026-09-18T01:31:00.000Z",
-      "fetchedAt": "2026-09-18T02:14:39.601Z"
-    },
-    {
-      "id": "98adba27363b5a0b",
-      "title": "Leaked from Agra, original found in Bihar: What Maharashtra TET chargesheet says",
-      "summary": "Leaked from Agra, original found in Bihar: What Maharashtra TET chargesheet says. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
-      "category": "Crime & Breaking News",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ECrime%20%26amp%3B%20Breaking%20News%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "The Indian Express",
-      "sourceUrl": "https://indianexpress.com/article/cities/mumbai/agra-bihar-maharashtra-tet-leak-chargesheet-10882734/",
-      "publishedAt": "2026-09-18T01:30:42.000Z",
-      "fetchedAt": "2026-09-18T12:22:32.685Z"
     }
   ]
 }
