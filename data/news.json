@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-18T02:57:42.135Z",
+  "updatedAt": "2026-09-18T03:16:23.135Z",
   "count": 250,
   "articles": [
+    {
+      "id": "dcc194cf8b26cb14",
+      "title": "India's Asian Games 2038 Bid: A Long Road Ahead",
+      "summary": "India's Asian Games 2038 Bid: A Long Road Ahead. This update was reported by Rediff. Open the original report for full context and any developing updates.",
+      "category": "Sports",
+      "image": "https://im.rediff.com/worldrediff/pix/rediff_icon_red.png",
+      "source": "Rediff",
+      "sourceUrl": "https://www.rediff.com/sports/report/indias-2038-asian-games-bid-fate-known-by-2028-oca/20260918.htm",
+      "publishedAt": "2026-09-18T03:06:34.000Z",
+      "fetchedAt": "2026-09-18T03:16:03.472Z"
+    },
     {
       "id": "dc4371bdcd0e922c",
       "title": "India not a sporting superpower, but can make presence felt at Asian Games",
@@ -2740,17 +2751,6 @@
       "sourceUrl": "https://gulfnews.com/business/banking/indian-government-fact-checkers-debunk-viral-claim-of-nine-psu-banks-merger-1.500677880",
       "publishedAt": "2026-09-17T08:43:21.000Z",
       "fetchedAt": "2026-09-17T12:59:10.631Z"
-    },
-    {
-      "id": "e71b6ff59343139e",
-      "title": "Mohammad Rizwan loses Lahore HC plea; PCB to take actions on Pakistan cricketers",
-      "summary": "The Pakistan Cricket Board (PCB) is waiting for the findings of a National Cyber Crime Investigation Agency (NCCIA) probe before deciding whether to take disciplinary action against senior players Mohammad Rizwan and Imam-ul-Haq.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134306521,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/mohammad-rizwan-loses-lahore-hc-plea-pcb-to-take-actions-on-pakistan-cricketers/articleshow/134306136.cms",
-      "publishedAt": "2026-09-17T08:43:00.000Z",
-      "fetchedAt": "2026-09-17T08:59:41.974Z"
     }
   ]
 }
