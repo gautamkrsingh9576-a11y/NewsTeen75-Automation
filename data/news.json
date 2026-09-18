@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T18:48:40.338Z",
+  "updatedAt": "2026-09-18T18:59:21.585Z",
   "count": 250,
   "articles": [
     {
@@ -210,6 +210,17 @@
       "sourceUrl": "https://www.news18.com/videos/india/playing-winning-isn-t-the-only-goal-union-minister-kiren-rijiju-decodes-india-s-sports-blueprint-10339750.html",
       "publishedAt": "2026-09-18T15:42:00.000Z",
       "fetchedAt": "2026-09-18T16:15:36.708Z"
+    },
+    {
+      "id": "a6c11401e570048c",
+      "title": "India software exports hit $221.4 billion as US share rises, product sales slip",
+      "summary": "India software exports hit $221.4 billion as US share rises, product sales slip. This update was reported by Tech Observer Magazine. Open the original report for full context and any developing updates.",
+      "category": "Technology",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "Tech Observer Magazine",
+      "sourceUrl": "https://techobserver.in/news/enterprise-it/india-software-exports-2025-26-rbi-survey-329421/?amp",
+      "publishedAt": "2026-09-18T15:41:12.000Z",
+      "fetchedAt": "2026-09-18T18:59:18.113Z"
     },
     {
       "id": "f850a6817b7f6647",
@@ -958,6 +969,17 @@
       "sourceUrl": "https://brandequity.economictimes.indiatimes.com/amp/news/digital/taboola-to-acquire-dianomi-bolstering-its-finance-focused-premium-ad-network/134334186",
       "publishedAt": "2026-09-18T11:54:41.000Z",
       "fetchedAt": "2026-09-18T13:55:56.613Z"
+    },
+    {
+      "id": "d1b09ac3446cf323",
+      "title": "BJP chief Nitin Nabin donates 3 months' MP salary to Bihar CM relief fund | India News",
+      "summary": "Nabin stated that all possible assistance is being provided to the affected families through financial aid, relief camps, and assessment of crop damage. | India News",
+      "category": "National & Trending News",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/18/1600x900/logo/Nitin_Nabin_1789732161684_XV3p_1789732161852_M82g_cfae25e3-f60b-4774-bfe2-03f1d6604533_mJQU.jpg",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/bjp-chief-nitin-nabin-donates-3-months-mp-salary-to-bihar-cm-relief-fund-101789731692250.html",
+      "publishedAt": "2026-09-18T11:50:26.000Z",
+      "fetchedAt": "2026-09-18T18:59:21.585Z"
     },
     {
       "id": "7516ced27e0f4489",
@@ -2434,6 +2456,17 @@
       "fetchedAt": "2026-09-18T07:25:14.017Z"
     },
     {
+      "id": "566675d0d78c6264",
+      "title": "L&T Semiconductor Technologies Unveils 40 Products at SEMICON 2026",
+      "summary": "Mumbai, September 18, 2026: L&T Semiconductor Technologies Limited (LTSCT), a wholly-owned subsidiary of Larsen & Toubro, today unveiled 40 of its products at SEMICON India 2026, under the theme “Silicon to Systems: Building the Ecosystem”.",
+      "category": "Technology",
+      "image": "https://2025prodstorageaccount-eqdyc8g8hpccdfez.a02.azurefd.net/ltprod/media/flthlgab/thumb.jpg",
+      "source": "Larsen & Toubro",
+      "sourceUrl": "https://www.larsentoubro.com/pressreleases/2026/2026-09-18-lt-semiconductor-technologies-unveils-40-products-at-semicon-2026",
+      "publishedAt": "2026-09-18T07:06:41.000Z",
+      "fetchedAt": "2026-09-18T18:59:17.747Z"
+    },
+    {
       "id": "18a88cf1c9023cc3",
       "title": "My Advisers Expands Technology, Digital Marketing and Business Consulting Services for Startups, SMEs and Entrepreneurs in India - 24-7PressRelease.com",
       "summary": "September 18, 2026 -- India-based consulting platform combines technology solutions, digital marketing, CRM, web services and business support to help startups, SMEs and entrepreneurs build, manage and grow their businesses online.",
@@ -2718,39 +2751,6 @@
       "sourceUrl": "https://www.hindustantimes.com/india-news/register-case-over-derogatory-references-to-hindu-figures-delhi-court-101789712031103-amp.html",
       "publishedAt": "2026-09-18T06:13:50.000Z",
       "fetchedAt": "2026-09-18T11:48:10.576Z"
-    },
-    {
-      "id": "4639ffd0c7db9aab",
-      "title": "Manu Bhaker to carry India flag as Asian Games chaos shows in ceremony delay",
-      "summary": "The flag-hoisting ceremony, involving five teams -- Yemen, North Korea, Palestine, India and Timor-Leste -- initially started after a 20-minute delay but was abruptly halted",
-      "category": "Sports",
-      "image": "https://assets.telegraphindia.com/telegraph/2026/Sep/1789711728_manu-bhaker.gif",
-      "source": "Telegraph India",
-      "sourceUrl": "https://www.telegraphindia.com/sports/manu-bhaker-to-carry-india-flag-as-asian-games-chaos-shows-in-ceremony-delay/cid/2180491",
-      "publishedAt": "2026-09-18T06:10:56.000Z",
-      "fetchedAt": "2026-09-18T06:53:11.033Z"
-    },
-    {
-      "id": "ea82d1bbee7053c1",
-      "title": "National Bank for Financing Infrastructure and Development hosts Infrastructure conclave 2026 to deliberate on avenues for mobilising long-term infrastructure capital",
-      "summary": "MUMBAI, India, Sept. 18, 2026 /PRNewswire/ -- The National Bank for Financing Infrastructure and Development (the Institution) hosted the Infrastructure conclave 2026 in Mumbai, bringing together key stakeholders from the infrastructure financing ecosystem to deliberate on avenues to strengthen infrastructure...",
-      "category": "National & Trending News",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWE0YzM2MDAwLWIzMjctMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
-      "source": "The Tribune",
-      "sourceUrl": "https://www.tribuneindia.com/news/business/national-bank-for-financing-infrastructure-and-development-hosts-infrastructure-conclave-2026-to-deliberate-on-avenues-for-mobilising-long-term-infrastructure-capital/amp",
-      "publishedAt": "2026-09-18T06:08:12.000Z",
-      "fetchedAt": "2026-09-18T07:40:27.001Z"
-    },
-    {
-      "id": "3729e1ccfc640596",
-      "title": "Hirata partners ATS India to expand semiconductor technology access",
-      "summary": "Hirata partners ATS India to expand semiconductor technology access. This update was reported by Construction World. Open the original report for full context and any developing updates.",
-      "category": "Technology",
-      "image": "https://www.constructionworld.in/assets/uploads/s_8c4c063c351df19f733d3c92751b96c5.webp",
-      "source": "Construction World",
-      "sourceUrl": "https://www.constructionworld.in/latest-construction-technology/hirata-partners-ats-india-to-expand-semiconductor-technology-access/97538",
-      "publishedAt": "2026-09-18T06:00:48.000Z",
-      "fetchedAt": "2026-09-18T06:14:53.063Z"
     }
   ]
 }
