@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-18T17:58:24.110Z",
+  "updatedAt": "2026-09-18T18:19:51.694Z",
   "count": 250,
   "articles": [
+    {
+      "id": "cecb612e1fb30db1",
+      "title": "D Gukesh returns to form as India cruise past Italy at Chess Olympiad",
+      "summary": "D Gukesh returned to winning ways as India beat Italy 3-1 in Round 3 of the Chess Olympiad. Nihal Sarin also won, while India's women's team defeated Greece 3.5-0.5 to remain unbeaten at the tournament.",
+      "category": "Sports",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/gukesh-and-nihal-sarin-180025275-16x9_0.jpg?VersionId=GZkDncXyacd6vYJbK4on6v73zpN69eVq",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/sports/other-sports/story/d-gukesh-returns-to-winning-ways-as-india-beat-italy-at-chess-olympiad-2998029-2026-09-18",
+      "publishedAt": "2026-09-18T18:00:40.000Z",
+      "fetchedAt": "2026-09-18T18:19:45.636Z"
+    },
     {
       "id": "b49e4cf40fea2007",
       "title": "'Energy sourcing based on national interest': MEA on purchase of Russian oil",
@@ -12,6 +23,17 @@
       "sourceUrl": "https://economictimes.indiatimes.com/news/india/energy-sourcing-based-on-national-interest-mea-on-purchase-of-russian-oil/articleshow/134341180.cms?UTM_Source=Google_Newsstand&UTM_Campaign=RSS_Feed&UTM_Medium=Referral&from=mdr",
       "publishedAt": "2026-09-18T17:46:04.000Z",
       "fetchedAt": "2026-09-18T17:58:22.776Z"
+    },
+    {
+      "id": "5ff63da190752d58",
+      "title": "Chip designed by IIT-ISM team earns national recognition",
+      "summary": "A semiconductor chip designed by students and research scholars at IIT(ISM), Dhanbad, has earned national recognition at Semicon India 2026, highlighting the institute’s growing contribution to indigenous chip design and low-power semiconductor technology.",
+      "category": "National & Trending News",
+      "image": "https://static.toiimg.com/thumb/msid-134341204,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/ranchi/chip-designed-by-iit-ism-team-earns-national-recognition/articleshow/134341205.cms",
+      "publishedAt": "2026-09-18T17:44:00.000Z",
+      "fetchedAt": "2026-09-18T18:19:51.693Z"
     },
     {
       "id": "99c153189b02d305",
@@ -474,6 +496,17 @@
       "sourceUrl": "https://www.firstpost.com/world/will-protect-national-interests-india-on-bangladeshs-review-of-101-bilateral-pacts-14046921.html",
       "publishedAt": "2026-09-18T13:44:21.000Z",
       "fetchedAt": "2026-09-18T14:13:38.340Z"
+    },
+    {
+      "id": "ca25e57ecb4bd8c6",
+      "title": "Girl gang-raped, murdered by friends she went to meet: Youth turning more violent; why are 97% of POCSO rap...",
+      "summary": "Delhi Swaroop Nagar POCSO case analysis. Follow Bhaskar English Latest Updates. On the morning of 13 September, some dogs were spotted in a field alongside a road in Delhis Swaroop Nagar area. They were tearing apart the decomposed body of a girl.",
+      "category": "Crime & Breaking News",
+      "image": "https://images.bhaskarassets.com/thumb/730x0/web2images/1884/2026/09/18/aaj-ka-exp-cover-19-09-2026-cover_1789739024.gif",
+      "source": "Bhaskar English",
+      "sourceUrl": "https://www.bhaskarenglish.in/originals/news/delhi-swaroop-nagar-pocso-rape-murder-case-analysis-139071232.html",
+      "publishedAt": "2026-09-18T13:44:18.000Z",
+      "fetchedAt": "2026-09-18T18:19:43.610Z"
     },
     {
       "id": "5c6b7db6039af8b9",
@@ -1123,6 +1156,17 @@
       "sourceUrl": "https://www.cnbctv18.com/entertainment/marathi-film-gondhal-named-indias-official-oscar-2027-entry-19993726.htm",
       "publishedAt": "2026-09-18T11:19:03.000Z",
       "fetchedAt": "2026-09-18T12:56:01.747Z"
+    },
+    {
+      "id": "725d24c6bb5ef65f",
+      "title": "Data show India yielded to U.S. curbs on oil imports",
+      "summary": "India's oil imports have fluctuated in response to U.S. sanctions on Venezuela, Iran, and Russia, highlighting its strategic economic interests.",
+      "category": "National & Trending News",
+      "image": "https://th-i.thgim.com/public/incoming/ox2rnw/article71480472.ece/alternates/LANDSCAPE_1200/iStock-182703770.jpg",
+      "source": "The Hindu",
+      "sourceUrl": "https://www.thehindu.com/business/Economy/venezuela-iran-russia-india-has-historically-complied-with-trump-on-cutting-oil-imports/article71480382.ece",
+      "publishedAt": "2026-09-18T11:17:42.000Z",
+      "fetchedAt": "2026-09-18T18:19:51.282Z"
     },
     {
       "id": "e80ac14a6c686041",
@@ -2707,50 +2751,6 @@
       "sourceUrl": "https://the-captable.com/2026/09/frontier-ai-safety-speed-debate-india-ecosystem-not-slowing/?paymentMethod=international",
       "publishedAt": "2026-09-18T05:57:36.000Z",
       "fetchedAt": "2026-09-18T10:40:22.239Z"
-    },
-    {
-      "id": "d8ad343479bfdea8",
-      "title": "Global tech debates AI pace. But slowing down isn't among India’s priorities.",
-      "summary": "OpenAI, Anthropic and others are debating how fast AI should advance, but Indian AI labs and startups are not losing sleep over this. They have other questions to deal with: what immediate areas to focus on, how much to invest in them, and what to build for the long term.",
-      "category": "Technology",
-      "image": "https://images.the-captable.com/cs/158/d99b1110116911ed9e63f54395117598/AiSafetyFeatureImage-1789706812408.jpg",
-      "source": "The CapTable",
-      "sourceUrl": "https://the-captable.com/2026/09/frontier-ai-safety-speed-debate-india-ecosystem-not-slowing/?paymentMethod=international",
-      "publishedAt": "2026-09-18T05:57:36.000Z",
-      "fetchedAt": "2026-09-18T06:14:53.959Z"
-    },
-    {
-      "id": "62727d67f1852e8f",
-      "title": "Bhaker And Toor To Lead India At Asian Games Opening",
-      "summary": "Double Olympic medallist Manu Bhaker and defending shot put champion Tajinderpal Singh Toor have been named as India",
-      "category": "Sports",
-      "image": "https://im.rediff.com/1200-630/sports/2026/sep/18too-manu.jpg",
-      "source": "Rediff",
-      "sourceUrl": "https://www.rediff.com/sports/report/bhaker-toor-named-indias-flag-bearers-for-asian-games/20260918.htm",
-      "publishedAt": "2026-09-18T05:56:26.000Z",
-      "fetchedAt": "2026-09-18T06:36:55.878Z"
-    },
-    {
-      "id": "32879f667f3a9766",
-      "title": "Kerala Widens Lionel Messi Event Probe, Ex-Sports Minister Likely To Be Quizzed",
-      "summary": "A probe is being conducted into alleged irregularities in the previous government's move to host Argentina's national team's match featuring Lionel Messi in Kochi in 2025.",
-      "category": "Sports",
-      "image": "https://c.ndtvimg.com/2026-09/4u112e48_v-abdurahiman_625x300_18_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
-      "source": "NDTV",
-      "sourceUrl": "https://www.ndtv.com/india-news/kerala-widens-lionel-messi-event-probe-ex-sports-minister-v-abdurahiman-likely-to-be-quizzed-12063033",
-      "publishedAt": "2026-09-18T05:54:12.000Z",
-      "fetchedAt": "2026-09-18T09:41:14.315Z"
-    },
-    {
-      "id": "f78cd008a91ccdb9",
-      "title": "As Project Cheetah completes 4 years, big cat population in India rises to 52",
-      "summary": "Cheetah population in India reaches 52 as Project Cheetah marks four years, focusing on habitat expansion and long-term conservation.",
-      "category": "National & Trending News",
-      "image": "https://th-i.thgim.com/public/incoming/egidjr/article71479485.ece/alternates/LANDSCAPE_1200/PTI12_31_2025_000425B.jpg",
-      "source": "The Hindu",
-      "sourceUrl": "https://www.thehindu.com/news/national/madhya-pradesh/as-project-cheetah-completes-4-years-big-cat-population-in-india-rises-to-52/article71479480.ece",
-      "publishedAt": "2026-09-18T05:52:33.000Z",
-      "fetchedAt": "2026-09-18T06:14:57.606Z"
     }
   ]
 }
