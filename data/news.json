@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-18T05:14:34.939Z",
+  "updatedAt": "2026-09-18T05:29:26.962Z",
   "count": 250,
   "articles": [
+    {
+      "id": "e256855d8a759b16",
+      "title": "India has ‘building blocks’ for semiconductor growth, must bridge knowledge, market gaps: L&T Semiconductor Tech CEO",
+      "summary": "India has the building blocks to strengthen its position in the semiconductor industry but must bridge knowledge and global market-exposure gaps, L&T Semiconductor Technologies CEO Sandeep Kumar said, highlighting artificial intelligence (AI) is not a hype but a reality and not an anomaly in the evolution of technology.",
+      "category": "Technology",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech1_1734536428801_1734536438047.jpg",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/technology/india-has-building-blocks-for-semiconductor-growth-must-bridge-knowledge-market-gaps-l-t-semiconductor-tech-ceo-11789708579964.html",
+      "publishedAt": "2026-09-18T05:16:19.000Z",
+      "fetchedAt": "2026-09-18T05:29:23.042Z"
+    },
     {
       "id": "8f13b4ecba32267b",
       "title": "15TH ALL INDIA AIR FORCE SCHOOLS ATHLETICS AND SPORTS CHAMPIONSHIP 2026 CONCLUDES AT BANGALURU",
@@ -1288,6 +1299,17 @@
       "sourceUrl": "https://www.thehawk.in/news/india/rahul-gandhi-sets-political-pitch-for-indore-visit-attacks-mp-government",
       "publishedAt": "2026-09-17T15:57:22.000Z",
       "fetchedAt": "2026-09-17T17:13:08.463Z"
+    },
+    {
+      "id": "46f0bc7bacfdb70e",
+      "title": "16-year-old girl gang-raped by 4 teens, found stabbed to death days later in Delhi | India News",
+      "summary": "The girl knew one of the suspects, a 17-year-old, and had gone to meet him on Saturday evening.&nbsp; | India News",
+      "category": "Crime & Breaking News",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/17/1600x900/logo/Traffic-South-ex-7_1771819583817_1771819612318_1789660406517_J2US_aa749797-6995-4802-bc34-cae1301061d8_Caki.jpg",
+      "source": "hindustantimes.com",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/delhi-teen-rape-16-year-old-raped-by-4-teens-found-stabbed-to-death-days-later-in-delhi-swaroop-nagar-delhi-police-101789659029166.html",
+      "publishedAt": "2026-09-17T15:55:35.000Z",
+      "fetchedAt": "2026-09-18T05:29:19.969Z"
     },
     {
       "id": "3119f7e74f8d37c7",
@@ -2729,28 +2751,6 @@
       "sourceUrl": "https://www.indiatoday.in/jobs/story/adidas-says-20-of-india-tech-hub-employees-let-go-not-50-as-reported-2996791-2026-09-17",
       "publishedAt": "2026-09-17T10:09:50.000Z",
       "fetchedAt": "2026-09-17T10:36:11.790Z"
-    },
-    {
-      "id": "c1cf0155864bf2d3",
-      "title": "Adidas says 20% of India tech hub employees let go, not 50% as reported",
-      "summary": "Adidas has confirmed job cuts across its India technology organisation, but says fewer than 20 per cent of employees are affected.",
-      "category": "Technology",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/adidas-170931145-16x9_0.png?VersionId=w13R6hVkJKrYUfQRAIGZBrFisTWJcnBi",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/jobs/story/adidas-says-20-of-india-tech-hub-employees-let-go-not-50-as-reported-2996791-2026-09-17",
-      "publishedAt": "2026-09-17T10:09:50.000Z",
-      "fetchedAt": "2026-09-17T10:21:01.281Z"
-    },
-    {
-      "id": "c5c3668f0e6f4cb1",
-      "title": "Manu Bhaker's Asian Games medal preparations hit by 50-km commute: India shooting coach unhappy with arra",
-      "summary": "A senior coach travelling with India's 30-member shooting contingent for the Aichi-Nagoya Asian Games has expressed disappointment over the arrangements in Japan, saying the long travel time between the team's hotel and the shooting range has become a major issue ahead of the competition.",
-      "category": "Sports",
-      "image": "https://static.toiimg.com/thumb/msid-134308010,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/manu-bhakers-asian-games-medal-preparations-hit-by-50-km-commute-india-shooting-coach-unhappy-with-arrangements/articleshow/134307870.cms",
-      "publishedAt": "2026-09-17T10:08:00.000Z",
-      "fetchedAt": "2026-09-17T13:20:02.574Z"
     }
   ]
 }
