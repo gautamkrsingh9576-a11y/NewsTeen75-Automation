@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-09-18T02:14:51.905Z",
+  "updatedAt": "2026-09-18T02:32:43.318Z",
   "count": 250,
   "articles": [
+    {
+      "id": "b4b88436a632e02d",
+      "title": "Hardik Pandya will be good: Gautam Gambhir backs India all-rounder's comeback",
+      "summary": "Gautam Gambhir has backed Hardik Pandya's return but said he needs India A game time first. The India coach also sees Nitish Kumar Reddy's development as central to the 2027 ODI World Cup plans.",
+      "category": "Sports",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/hardik-pandya-071220919-16x9_0.jpg?VersionId=C.bo7MJfxVm06mU0KWANv2GMpvkqWYlj",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/amp/sports/cricket/story/hardik-pandya-comeback-gautam-gambhir-india-a-route-2027-odi-world-cup-2997302-2026-09-18",
+      "publishedAt": "2026-09-18T02:26:05.000Z",
+      "fetchedAt": "2026-09-18T02:32:27.946Z"
+    },
+    {
+      "id": "e76a5d4d93085178",
+      "title": "TECC signs first tech LoI with south India",
+      "summary": "CHENNAI: The Taipei Economic and Cultural Center (TECC) in Chennai has facilitated the first technology cooperation Letter of Intent (LoI) between Taiwan and So",
+      "category": "Technology",
+      "image": "https://media.assettype.com/dt-next%2F2026-09-18%2F3yitcyjb%2F1-10.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "DT Next",
+      "sourceUrl": "https://www.dtnext.in/news/tamilnadu/tecc-signs-first-tech-loi-with-south-india",
+      "publishedAt": "2026-09-18T02:19:07.000Z",
+      "fetchedAt": "2026-09-18T02:32:31.828Z"
+    },
+    {
+      "id": "212416d2eb90fe99",
+      "title": "Finding a Second Home: Indian Student Aashni Rungta Pursues Business Excellence at CUHK",
+      "summary": "Finding a Second Home: Indian Student Aashni Rungta Pursues Business Excellence at CUHK. This update was reported by The Manila Times. Open the original report for full context and any developing updates.",
+      "category": "Business & Finance",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EBusiness%20%26amp%3B%20Finance%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "The Manila Times",
+      "sourceUrl": "https://www.manilatimes.net/2026/09/18/tmt-newswire/media-outreach-newswire/finding-a-second-home-indian-student-aashni-rungta-pursues-business-excellence-at-cuhk/2427999",
+      "publishedAt": "2026-09-18T02:13:36.000Z",
+      "fetchedAt": "2026-09-18T02:32:32.931Z"
+    },
     {
       "id": "80c005ef7aff818d",
       "title": "CM calls for united effort to build ‘Viksit Bharat’",
@@ -210,6 +243,17 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/city/chandigarh/club-firing-prime-accused-held/articleshow/134321069.cms",
       "publishedAt": "2026-09-17T21:15:00.000Z",
       "fetchedAt": "2026-09-18T00:31:51.950Z"
+    },
+    {
+      "id": "0af432e3c3f11a5c",
+      "title": "Meet Anand Deverakonda, Vijay Deverakonda's brother starring in Epic - mid-day.com",
+      "summary": "With Epic First Semester releasing, meet Anand Deverakonda, Vijay Deverakonda’s younger brother. From engineering backgorund to his acting career",
+      "category": "Entertainment",
+      "image": "https://images.mid-day.com/images/images/2026/sep/whoanvbrgbn_1789112596692_d.jpg",
+      "source": "mid-day.com",
+      "sourceUrl": "https://www.mid-day.com/entertainment/regional-indian-cinema-news/photo/meet-anand-deverakonda-vijay-deverakondas-brother-starring-in-epic-first-semester-113012/10",
+      "publishedAt": "2026-09-17T21:04:35.000Z",
+      "fetchedAt": "2026-09-18T02:32:29.721Z"
     },
     {
       "id": "0af432e3c3f11a5c",
@@ -2707,50 +2751,6 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/science/isro-staff-not-against-pvt-cos-demand-due-process-transparency-want-strategic-missions-to-remain-under-isro/articleshow/134305965.cms",
       "publishedAt": "2026-09-17T08:20:00.000Z",
       "fetchedAt": "2026-09-17T08:34:42.398Z"
-    },
-    {
-      "id": "7a5bf81d01d28299",
-      "title": "iPhone 18 Pro to go on sale tomorrow in India, limited availability but good offers expected",
-      "summary": "Apple will open India sales for the iPhone 18 Pro and iPhone 18 Pro Max at 8 am IST on September 18.",
-      "category": "Technology",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/iphone-18-pro-prices-compared-across-india--us--uk--europe-and-dubai-markets-today-102419857-16x9.png?VersionId=mhzyp88BNTqr294BQhEa7JMSoUJg_fuL",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/amp/technology/news/story/iphone-18-pro-to-go-on-sale-tomorrow-in-india-limited-availability-but-good-offers-expected-2996666-2026-09-17",
-      "publishedAt": "2026-09-17T08:19:53.000Z",
-      "fetchedAt": "2026-09-17T10:01:19.480Z"
-    },
-    {
-      "id": "879d201ad16bf67e",
-      "title": "Adidas Confirms India Tech Hub Layoffs, Nearly Half Workforce Affected",
-      "summary": "Adidas Confirms India Tech Hub Layoffs, Nearly Half Workforce Affected. This update was reported by News Mobile. Open the original report for full context and any developing updates.",
-      "category": "Technology",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "News Mobile",
-      "sourceUrl": "https://www.newsmobile.in/business/adidas-confirms-india-tech-hub-layoffs-nearly-half-workforce-affected/",
-      "publishedAt": "2026-09-17T08:17:21.000Z",
-      "fetchedAt": "2026-09-17T08:19:05.823Z"
-    },
-    {
-      "id": "f0ff801bc752920e",
-      "title": "Better project-capital match key for ₹680-770 trn infra need by 2047: Report - business-standard.com",
-      "summary": "India's Infrastructure Financing: India needs ₹168-172 trn in infra investment by FY31. While ₹38-40 trn is financed, ₹78-80 trn is yet to enter the pipeline, ₹31-32 trn awaits closure and ₹21-22 trn is stalled",
-      "category": "Business & Finance",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/17/thumb/fitandfill/1200X628/1781720883-433.jpg",
-      "source": "business-standard.com",
-      "sourceUrl": "https://www.business-standard.com/amp/industry/news/india-infrastructure-investment-financing-needs-fy31-project-financing-126091700526_1.html",
-      "publishedAt": "2026-09-17T08:11:02.000Z",
-      "fetchedAt": "2026-09-17T14:22:17.376Z"
-    },
-    {
-      "id": "f0ff801bc752920e",
-      "title": "Better project-capital match key for ₹680-770 trn infra need by 2047: Report",
-      "summary": "India's Infrastructure Financing: India needs ₹168-172 trn in infra investment by FY31. While ₹38-40 trn is financed, ₹78-80 trn is yet to enter the pipeline, ₹31-32 trn awaits closure and ₹21-22 trn is stalled",
-      "category": "Business & Finance",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/17/thumb/fitandfill/1200X628/1781720883-433.jpg",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/amp/industry/news/india-infrastructure-investment-financing-needs-fy31-project-financing-126091700526_1.html",
-      "publishedAt": "2026-09-17T08:11:02.000Z",
-      "fetchedAt": "2026-09-17T13:49:45.181Z"
     }
   ]
 }
