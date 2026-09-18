@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-18T16:31:13.761Z",
+  "updatedAt": "2026-09-18T16:44:48.236Z",
   "count": 250,
   "articles": [
+    {
+      "id": "ea79080650c9efd7",
+      "title": "Delhi HC grants bail to UK national Jagtar Singh Johal in 7 NIA cases after 8 years in custody | India News",
+      "summary": "A Division Bench of Justice Navin Chawla and Justice Ravinder Dudeja set aside the trial court orders refusing bail and directed Johal’s release. | India News",
+      "category": "National & Trending News",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/18/1600x900/logo/delhi_hc_1742542787654_1789747635467_8D2x_dc315f9a-bb3b-402d-b08b-96845d9c6f85_Bw2i.jpg",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/delhi-hc-grants-bail-to-uk-national-jagtar-singh-johal-in-7-nia-cases-after-8-years-in-custody-101789744817313.html",
+      "publishedAt": "2026-09-18T16:38:34.000Z",
+      "fetchedAt": "2026-09-18T16:44:48.236Z"
+    },
     {
       "id": "a536715914dcf42f",
       "title": "Nawazuddin Siddiqui gets roasted over Thamma on India’s Got Latent: ‘So, what went wrong?’",
@@ -23,6 +34,17 @@
       "sourceUrl": "https://dailypioneer.com/news/asian-games-accommodation-crisis-indian-diaspora-help",
       "publishedAt": "2026-09-18T16:12:16.000Z",
       "fetchedAt": "2026-09-18T16:31:07.884Z"
+    },
+    {
+      "id": "3490b5ad8b9ac714",
+      "title": "Santosh Davakhar, director of 'Gondhal', on film becoming India's official Oscar entry: 'We have a rich c",
+      "summary": "Marathi filmmaker Santosh Davakhar has spoken about his film 'Gondhal', which has now been chosen as India's official submission for the 99th Academy Awards. Built around the traditional Gondhal folk ritual practised in Maharashtra, the film delves into themes of faith, regional culture and everyday social realities, offering a distinctly…",
+      "category": "Entertainment",
+      "image": "https://static.toiimg.com/thumb/msid-134339400,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/marathi/movies/news/santosh-davakhar-director-of-gondhal-on-film-becoming-indias-official-oscar-entry-we-have-a-rich-culture-and-heritage-and-we-should-represent-india-through-good-cinema/articleshow/134339143.cms",
+      "publishedAt": "2026-09-18T16:10:00.000Z",
+      "fetchedAt": "2026-09-18T16:44:42.928Z"
     },
     {
       "id": "11d81d2cdc82195a",
@@ -859,6 +881,17 @@
       "sourceUrl": "https://www.indiatoday.in/amp/sports/asian-games/story/asian-games-rowing-poonam-india-womens-coxless-four-2997718-2026-09-18",
       "publishedAt": "2026-09-18T11:32:47.000Z",
       "fetchedAt": "2026-09-18T11:36:05.792Z"
+    },
+    {
+      "id": "49d2e949dd5b2e80",
+      "title": "This Simple Method Helps Gujarat Farmers Store Excess Rain Underground for Summer Months",
+      "summary": "Biplab Ketan Paul saw Gujarat’s farmers struggle with too much water in one season and too little in another. The innovation behind Bhungroo came from trying to connect those two problems, with women farmers helping shape how it would work.",
+      "category": "Technology",
+      "image": "https://img-cdn.publive.online/fit-in/1200x675/english-betterindia/media/media_files/2026/09/18/bhungroo-technology-2026-09-18-12-54-36.png",
+      "source": "The Better India",
+      "sourceUrl": "https://thebetterindia.com/technology/bhungroo-water-technology-gujarat-indian-innovation-biplab-ketan-paul-12547530",
+      "publishedAt": "2026-09-18T11:30:37.000Z",
+      "fetchedAt": "2026-09-18T16:44:44.579Z"
     },
     {
       "id": "f1c324518aec99ff",
@@ -2718,39 +2751,6 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-india-shooting-schedule-athletes-and-event-timings-in-ist/articleshow/134326121.cms",
       "publishedAt": "2026-09-18T05:19:00.000Z",
       "fetchedAt": "2026-09-18T05:55:01.725Z"
-    },
-    {
-      "id": "8d06ec0fd5004aea",
-      "title": "India-Taiwan Tech ties: Karnataka inks cooperation pact on AI, digital economy",
-      "summary": "Karnataka has inked a tech pact with Taiwan to boost collaboration in artificial intelligence, cybersecurity, and the digital economy, strengthening India-Taiwan tech ties.",
-      "category": "Technology",
-      "image": "https://cdn1.wionews.com/prod/wion/images/2026/20260918/image-1789708450577.jpg?imwidth=1200&imheight=900",
-      "source": "WION",
-      "sourceUrl": "https://www.wionews.com/world/india-taiwan-tech-ties-karnataka-inks-cooperation-pact-on-ai-digital-economy-1789708348718",
-      "publishedAt": "2026-09-18T05:18:00.000Z",
-      "fetchedAt": "2026-09-18T05:55:04.537Z"
-    },
-    {
-      "id": "be353df06eabf949",
-      "title": "NSUI march seeks Delhi University hostels, action on paper leaks",
-      "summary": "The National Students Union of India (NSUI) on Thursday organised a “Taali-Thali March” demanding adequate and affordable hostel facilities for Delhi University (DU) students, an end to paper leaks and accountability in the Satya Niketan building collapse.",
-      "category": "National & Trending News",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTRjYjE5ZDcwLWIzMjAtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
-      "source": "The Tribune",
-      "sourceUrl": "https://www.tribuneindia.com/news/delhi/nsui-march-seeks-delhi-university-hostels-action-on-paper-leaks/amp",
-      "publishedAt": "2026-09-18T05:17:49.000Z",
-      "fetchedAt": "2026-09-18T07:07:53.819Z"
-    },
-    {
-      "id": "e256855d8a759b16",
-      "title": "India has ‘building blocks’ for semiconductor growth, must bridge knowledge, market gaps: L&T Semiconductor Tech CEO",
-      "summary": "India has the building blocks to strengthen its position in the semiconductor industry but must bridge knowledge and global market-exposure gaps, L&T Semiconductor Technologies CEO Sandeep Kumar said, highlighting artificial intelligence (AI) is not a hype but a reality and not an anomaly in the evolution of technology.",
-      "category": "Technology",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech1_1734536428801_1734536438047.jpg",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/technology/india-has-building-blocks-for-semiconductor-growth-must-bridge-knowledge-market-gaps-l-t-semiconductor-tech-ceo-11789708579964.html",
-      "publishedAt": "2026-09-18T05:16:19.000Z",
-      "fetchedAt": "2026-09-18T05:29:23.042Z"
     }
   ]
 }
