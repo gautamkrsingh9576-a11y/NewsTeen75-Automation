@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-18T04:16:22.090Z",
+  "updatedAt": "2026-09-18T04:32:16.978Z",
   "count": 250,
   "articles": [
+    {
+      "id": "f1261b54c4d693c5",
+      "title": "Satya Nadella praises Seattle-India tech ties at CEOs forum",
+      "summary": "Microsoft CEO Satya Nadella praised Seattle's growing technology community and strengthening ties with India at a forum attended by over 40 Indian-origin tech CEOs and CTOs. Discussions covered AI, semiconductors, quantum technology, talent, aerospace and other areas of bilateral collaboration",
+      "category": "Technology",
+      "image": "https://media.telanganatoday.com/wp-content/uploads/2026/09/Satya-Nadella.jpg",
+      "source": "Telangana Today",
+      "sourceUrl": "https://telanganatoday.com/satya-nadella-praises-seattle-india-tech-ties-at-ceos-forum",
+      "publishedAt": "2026-09-18T04:26:00.000Z",
+      "fetchedAt": "2026-09-18T04:32:12.045Z"
+    },
     {
       "id": "01c49bffccce71ba",
       "title": "India vs Japan Live Score, Asian Games Women's Cricket: India look for flying start in quarters",
@@ -14,6 +25,17 @@
       "fetchedAt": "2026-09-18T04:16:12.349Z"
     },
     {
+      "id": "cd58d65dcb15124e",
+      "title": "Mohammad Rizwan approaches ICC Anti-Corruption Unit over mobile phone seizure by Pakistan's cyber crime a",
+      "summary": "Mohammad Rizwan’s troubles following Pakistan’s England tour have taken another turn, with the wicketkeeper-batter approaching the ICC’s Anti-Corruption Unit (ACU) for clarity over the seizure of his mobile phone by the National Cyber Crime Investigation Agency (NCCIA). The move comes days after the Lahore High Court dismissed his petition challenging…",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134325422,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "timesofindia.indiatimes.com",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/mohammad-rizwan-approaches-icc-anti-corruption-unit-over-mobile-phone-seizure-by-pakistans-cyber-crime-agency/articleshow/134325319.cms",
+      "publishedAt": "2026-09-18T04:06:00.000Z",
+      "fetchedAt": "2026-09-18T04:32:07.632Z"
+    },
+    {
       "id": "0ed5911f3fc34e81",
       "title": "Women’s World Banking sees ₹75,000 crore credit opportunity in India’s women-led businesses",
       "summary": "India's women-owned businesses represent a Rs 75,000 crore credit market. Millions seek formal financing, a huge opportunity for lenders.",
@@ -23,6 +45,17 @@
       "sourceUrl": "https://www.cnbctv18.com/business/finance/women-world-banking-sees-rs-75000-crore-credit-opportunity-india-women-led-businesses-19993320.htm",
       "publishedAt": "2026-09-18T03:56:37.000Z",
       "fetchedAt": "2026-09-18T04:16:16.726Z"
+    },
+    {
+      "id": "78631f594fa40ba3",
+      "title": "Harmanpreet-led India face Japan in Asian Games cricket quarter-final as busy schedule begins in Nagoya",
+      "summary": "Harmanpreet-led India face Japan in Asian Games cricket quarter-final as busy schedule begins in Nagoya. This update was reported by The Statesman. Open the original report for full context and any developing updates.",
+      "category": "Sports",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "The Statesman",
+      "sourceUrl": "https://www.thestatesman.com/sports/harmanpreet-led-india-face-japan-in-asian-games-cricket-quarter-final-as-busy-schedule-begins-in-nagoya-1503639988.html",
+      "publishedAt": "2026-09-18T03:53:00.000Z",
+      "fetchedAt": "2026-09-18T04:32:08.613Z"
     },
     {
       "id": "3b75e9090b8fbd24",
@@ -89,6 +122,17 @@
       "sourceUrl": "https://businessstandard.substack.com/p/in-hunt-for-olympic-medals-india",
       "publishedAt": "2026-09-18T03:31:14.000Z",
       "fetchedAt": "2026-09-18T03:46:29.144Z"
+    },
+    {
+      "id": "6455cadc0f3c5149",
+      "title": "Satya Nadella Backs India’s AI Potential, Says it Could Lead World in Developers by 2030",
+      "summary": "Microsoft CEO Satya Nadella has reaffirmed the company’s commitment to India’s AI infrastructure, skills and sovereign capabilities. Speaking at a Seattle technology forum, he highlighted the country’s talent as Indian-American tech leaders discussed expanding collaboration",
+      "category": "Technology",
+      "image": "https://media.openthemagazine.com/openthemagazine/2026-09-18/sepo2jms/20200226112L.jpg?w=1200&ar=40:21&auto=format,compress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "Open Magazine",
+      "sourceUrl": "https://openthemagazine.com/world/satya-nadella-backs-indias-ai-potential-says-it-could-lead-world-in-developers-by-2030",
+      "publishedAt": "2026-09-18T03:27:43.000Z",
+      "fetchedAt": "2026-09-18T04:32:11.815Z"
     },
     {
       "id": "8be1bd31dfaa1b8e",
@@ -199,6 +243,17 @@
       "sourceUrl": "https://www.manilatimes.net/2026/09/18/tmt-newswire/media-outreach-newswire/finding-a-second-home-indian-student-aashni-rungta-pursues-business-excellence-at-cuhk/2427999",
       "publishedAt": "2026-09-18T02:13:36.000Z",
       "fetchedAt": "2026-09-18T02:32:32.931Z"
+    },
+    {
+      "id": "b1c6383a269f03dc",
+      "title": "ISRO Staff Raise Concerns Over Private Sector Role, Seek Clarity On Agency’s Future: 'Must Strengthen Natio",
+      "summary": "ISRO employee associations have reiterated that private participation must strengthen, not weaken, the agency’s core capabilities.",
+      "category": "National & Trending News",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/09/MixCollage-18-Sep-2026-07-25-AM-3152-2026-09-f8d571ca397ce18ba0723d37dfd16519-1200x675.jpg",
+      "source": "News18",
+      "sourceUrl": "https://www.news18.com/amp/india/isro-staff-raise-concerns-over-private-sector-role-seek-clarity-on-agencys-future-must-strengthen-national-capability-ws-l-10337898.html",
+      "publishedAt": "2026-09-18T02:03:42.000Z",
+      "fetchedAt": "2026-09-18T04:32:16.629Z"
     },
     {
       "id": "80c005ef7aff818d",
@@ -575,6 +630,17 @@
       "fetchedAt": "2026-09-17T19:31:58.613Z"
     },
     {
+      "id": "f142a41193f3ebbe",
+      "title": "Drip Capital Partners With YES BANK To Boost Trade Finance Access For MSMEs",
+      "summary": "MSMEs will benefit from faster credit approvals, improved liquidity, enabling to scale operations and navigate global market uncertainties",
+      "category": "Business & Finance",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EBusiness%20%26amp%3B%20Finance%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "fintechbiznews.com",
+      "sourceUrl": "https://www.fintechbiznews.com/fintech-digital-lending/drip-capital-partners-with-yes-bank-to-boost-trade-finance-access-for-msmes",
+      "publishedAt": "2026-09-17T19:15:32.000Z",
+      "fetchedAt": "2026-09-18T04:32:15.332Z"
+    },
+    {
       "id": "33e0afae430faebd",
       "title": "India thrash Afghanistan by 127 runs, sweep T20I series 3-0 - SPORTS - GENERAL",
       "summary": "NEW DELHI: India completed a 3-0 sweep of the T20I series against Afghanistan with a massive 127-run victory in the third and final match on Thursday.",
@@ -661,6 +727,17 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/city/goa/the-only-way-forward-is-through-hard-work-jhingan-keen-to-forge-a-path-back-into-national-team-after-being-dropped/articleshow/134319880.cms",
       "publishedAt": "2026-09-17T18:29:00.000Z",
       "fetchedAt": "2026-09-17T19:01:44.343Z"
+    },
+    {
+      "id": "e2e1062a683be413",
+      "title": "Shooting legend and coach Jaspal Rana dies at 49; ‘Profound loss to Indian sports,’ says PM Modi",
+      "summary": "Shooting legend and coach Jaspal Rana dies at 49; ‘Profound loss to Indian sports,’ says PM Modi. This update was reported by DD News. Open the original report for full context and any developing updates.",
+      "category": "Sports",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "DD News",
+      "sourceUrl": "https://ddnews.gov.in/en/shooting-legend-and-coach-jaspal-rana-dies-at-49-profound-loss-to-indian-sports-says-pm-modi/",
+      "publishedAt": "2026-09-17T18:25:14.000Z",
+      "fetchedAt": "2026-09-18T04:32:09.747Z"
     },
     {
       "id": "f55d961050cab542",
@@ -1354,6 +1431,17 @@
       "sourceUrl": "https://telanganatoday.com/cii-energy-efficiency-summit-focuses-on-clean-technology-electrification-and-net-zero-transition",
       "publishedAt": "2026-09-17T14:09:57.000Z",
       "fetchedAt": "2026-09-17T18:33:39.393Z"
+    },
+    {
+      "id": "f48691cf8cc8d009",
+      "title": "Watch: SpaceX Executes Another National Security Launch for America | Videos",
+      "summary": "SpaceX launched a Falcon 9 rocket from California carrying a classified payload for the U.S. Space Force. The mission marked another national security launch, with the reusable booster successfully returning to land on a droneship in the Pacific Ocean after liftoff. | Videos",
+      "category": "National & Trending News",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/17/1600x900/logo/maxresdefault_1789653921201_KODX_1789653926077_DRLB_15c6d40a-d24d-4887-8ddf-aef5fedefbff_gcXN.jpg",
+      "source": "hindustantimes.com",
+      "sourceUrl": "https://www.hindustantimes.com/videos/watch-spacex-executes-another-national-security-launch-for-america-101789653927685.html",
+      "publishedAt": "2026-09-17T14:05:27.000Z",
+      "fetchedAt": "2026-09-18T04:32:16.977Z"
     },
     {
       "id": "d9950f1c42b0e4e5",
@@ -2663,94 +2751,6 @@
       "sourceUrl": "https://ddindia.co.in/2026/09/from-silicon-to-systems-indias-semiconductor-journey-enters-a-new-era/",
       "publishedAt": "2026-09-17T09:32:19.000Z",
       "fetchedAt": "2026-09-17T13:20:05.881Z"
-    },
-    {
-      "id": "59576b609e01698d",
-      "title": "India Women’s cricket schedule at Asian Games: Match date, squad, live streaming",
-      "summary": "India Women’s cricket schedule at Asian Games: Match date, squad, live streaming. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
-      "category": "Sports",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "The Indian Express",
-      "sourceUrl": "https://indianexpress.com/article/sports/cricket/india-women-cricket-schedule-asian-games-2026-squad-live-streaming-10882057/",
-      "publishedAt": "2026-09-17T09:31:07.000Z",
-      "fetchedAt": "2026-09-17T09:50:10.366Z"
-    },
-    {
-      "id": "24632a8dba0faa3c",
-      "title": "Savinya on exit from Bigg Boss Tamil Season 10: It was a betrayal, for sure",
-      "summary": "Savinya on exit from Bigg Boss Tamil Season 10: It was a betrayal, for sure. This update was reported by The New Indian Express. Open the original report for full context and any developing updates.",
-      "category": "Entertainment",
-      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-09-16%2Fzkhx5tgl%2FBigg_Boss_Tamil.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "source": "The New Indian Express",
-      "sourceUrl": "https://www.newindianexpress.com/amp/story/entertainment/2026/Sep/17/tamilinterviews2026sep16savinya-on-exit-from-bigg-boss-tamil-season-10-it-was-a-betrayal-for-sure",
-      "publishedAt": "2026-09-17T09:30:00.000Z",
-      "fetchedAt": "2026-09-17T15:54:16.004Z"
-    },
-    {
-      "id": "ede723d68af1b5b4",
-      "title": "Why Syrma SGS Technology share price is rising today? Explained",
-      "summary": "Syrma SGS Technology share price opened at ₹1,513.50 apiece on NSE today, as compared to previous close of ₹1,511.20 on Wednesday and hit an intraday high of ₹1,658 on 17 September.",
-      "category": "Technology",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/17/1600x900/maxresdefault_1789640428017_8eN3_1789640436433_K6kU_9f912462-0cf4-4360-989d-079fbac37c5c_qASM.jpg",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/market/stock-market-news/why-syrma-sgs-technology-share-price-is-rising-today-explained-11789635685953.html",
-      "publishedAt": "2026-09-17T09:29:04.000Z",
-      "fetchedAt": "2026-09-17T12:59:09.220Z"
-    },
-    {
-      "id": "ba42e94b5080f3d0",
-      "title": "Centre in SC reduces NEET-SS qualifying percentile to 30%; TN to get 40 vacant seats back",
-      "summary": "Centre reduces NEET-SS qualifying percentile to 30%, returning 40 vacant seats to Tamil Nadu for special stray vacancy round.",
-      "category": "National & Trending News",
-      "image": "https://th-i.thgim.com/public/news/national/o5w9a9/article71475993.ece/alternates/LANDSCAPE_1200/PTI12_16_2025_000065A.jpg",
-      "source": "The Hindu",
-      "sourceUrl": "https://www.thehindu.com/news/national/centre-in-sc-reduces-neet-ss-qualifying-percentile-to-30-tn-to-get-40-vacant-seats-back/article71475895.ece",
-      "publishedAt": "2026-09-17T09:26:24.000Z",
-      "fetchedAt": "2026-09-17T21:10:35.133Z"
-    },
-    {
-      "id": "f92b113dd4711af2",
-      "title": "EyeROV: Indian Deep-Tech Startup Showcases its Underwater Drones to World Leaders",
-      "summary": "EyeROV: Indian Deep-Tech Startup Showcases its Underwater Drones to World Leaders. This update was reported by Yahoo! Finance Canada. Open the original report for full context and any developing updates.",
-      "category": "Technology",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "Yahoo! Finance Canada",
-      "sourceUrl": "https://ca.finance.yahoo.com/news/eyerov-indian-deep-tech-startup-092100760.html",
-      "publishedAt": "2026-09-17T09:21:00.000Z",
-      "fetchedAt": "2026-09-17T09:35:23.254Z"
-    },
-    {
-      "id": "f05a8e06da36c71c",
-      "title": "Modi pitches India as global chipmaking hub",
-      "summary": "Modi pitches India as global chipmaking hub. This update was reported by Yahoo Finance. Open the original report for full context and any developing updates.",
-      "category": "Technology",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "Yahoo Finance",
-      "sourceUrl": "https://finance.yahoo.com/technology/articles/modi-pitches-india-global-chipmaking-091954560.html",
-      "publishedAt": "2026-09-17T09:19:54.000Z",
-      "fetchedAt": "2026-09-17T10:50:51.854Z"
-    },
-    {
-      "id": "1c5bafea0a404712",
-      "title": "PM Modi’s 76th birthday: From Akshay Kumar to Shilpa Shetty, Bollywood celebs extend warm wishes",
-      "summary": "Bollywood celebrities, including Akshay Kumar, Shilpa Shetty, and more, took to social media to extend warm wishes to Prime Minister Narendra Modi.",
-      "category": "Entertainment",
-      "image": "https://cdn1.wionews.com/prod/wion/images/2026/20260917/image-1789630506269.png?imwidth=1200&imheight=900",
-      "source": "WION",
-      "sourceUrl": "https://www.wionews.com/entertainment/pm-modi-s-76th-birthday-from-akshay-kumar-to-shilpa-shetty-bollywood-celebs-extend-warm-wishes-1789628871668/amp",
-      "publishedAt": "2026-09-17T09:15:00.000Z",
-      "fetchedAt": "2026-09-17T15:07:48.515Z"
-    },
-    {
-      "id": "dd95bca15ed15af1",
-      "title": "Giottus launches India’s largest funded wallet challenge",
-      "summary": "Giottus launches India’s largest funded wallet challenge. This update was reported by indiatechnologynews.in. Open the original report for full context and any developing updates.",
-      "category": "Technology",
-      "image": "https://indiatechnologynews.in/wp-content/uploads/2026/09/giottus.png",
-      "source": "indiatechnologynews.in",
-      "sourceUrl": "https://indiatechnologynews.in/giottus-launches-indias-largest-funded-wallet-challenge/",
-      "publishedAt": "2026-09-17T09:13:29.000Z",
-      "fetchedAt": "2026-09-17T09:19:40.851Z"
     }
   ]
 }
