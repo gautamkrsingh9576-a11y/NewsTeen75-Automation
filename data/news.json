@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T23:52:53.000Z",
+  "updatedAt": "2026-09-18T00:08:36.684Z",
   "count": 250,
   "articles": [
     {
@@ -67,6 +67,17 @@
       "sourceUrl": "https://www.indiatoday.in/sports/cricket/story/abhishek-sharma-meditation-celebration-record-t20i-hundred-erling-haaland-afg-vs-ind-2997271-2026-09-18",
       "publishedAt": "2026-09-17T21:30:32.000Z",
       "fetchedAt": "2026-09-17T21:50:38.005Z"
+    },
+    {
+      "id": "0af432e3c3f11a5c",
+      "title": "Meet Anand Deverakonda, Vijay Deverakonda's brother starring in Epic - Mid-Day",
+      "summary": "With Epic First Semester releasing, meet Anand Deverakonda, Vijay Deverakonda’s younger brother. From engineering backgorund to his acting career",
+      "category": "Entertainment",
+      "image": "https://images.mid-day.com/images/images/2026/sep/whoanvbrgbn_1789112596692_d.jpg",
+      "source": "Mid-Day",
+      "sourceUrl": "https://www.mid-day.com/entertainment/regional-indian-cinema-news/photo/meet-anand-deverakonda-vijay-deverakondas-brother-starring-in-epic-first-semester-113012/10",
+      "publishedAt": "2026-09-17T21:04:35.000Z",
+      "fetchedAt": "2026-09-18T00:08:30.570Z"
     },
     {
       "id": "500f664c1af61d93",
@@ -166,6 +177,17 @@
       "sourceUrl": "https://www.business-standard.com/content/press-releases-ani/niit-ltd-and-spjimr-launch-professional-certificate-in-fintech-operations-to-build-talent-for-india-s-digital-finance-ecosystem-126091800020_1.html",
       "publishedAt": "2026-09-17T18:50:02.000Z",
       "fetchedAt": "2026-09-17T19:19:24.738Z"
+    },
+    {
+      "id": "039661401bf8dd2e",
+      "title": "Complex priorities: On UPI transactions, MDR charges",
+      "summary": "The Merchant Discount Rate charges announced for UPI transactions show how political considerations can dilute economic benefits",
+      "category": "Politics & Government",
+      "image": "https://www.thehindu.com/theme/images/amp-og-image.jpg",
+      "source": "The Hindu",
+      "sourceUrl": "https://www.thehindu.com/opinion/editorial/complex-priorities-on-upi-transactions-mdr-charges/article71476513.ece/amp/",
+      "publishedAt": "2026-09-17T18:50:00.000Z",
+      "fetchedAt": "2026-09-18T00:08:26.278Z"
     },
     {
       "id": "b92bc8a80600992c",
@@ -2729,28 +2751,6 @@
       "sourceUrl": "https://www.indianmandarins.com/news/modi-wins-elections-now-comes-performance-and-permanence/33355",
       "publishedAt": "2026-09-17T07:24:27.000Z",
       "fetchedAt": "2026-09-17T08:18:55.286Z"
-    },
-    {
-      "id": "e6166cb9d10d6b46",
-      "title": "Semicon India 2026: Amid ‘weaponisation’ of supply chains, PM pitches India as a ‘trustworthy’ chipmaking destination",
-      "summary": "Modi highlights India's expanding semiconductor ecosystem at SEMICON India 2026, promoting innovation, investment, and global manufacturing opportunities.",
-      "category": "National & Trending News",
-      "image": "https://th-i.thgim.com/public/incoming/t32n5m/article71475716.ece/alternates/LANDSCAPE_1200/PTI09_17_2026_000057B.jpg",
-      "source": "The Hindu",
-      "sourceUrl": "https://www.thehindu.com/news/national/semicon-india-2026-indias-semiconductor-ecosystem-expanding-opening-new-opportunities-says-modi/article71475696.ece",
-      "publishedAt": "2026-09-17T07:22:16.000Z",
-      "fetchedAt": "2026-09-17T19:55:26.678Z"
-    },
-    {
-      "id": "9496e182ed3d4723",
-      "title": "Modi at BRICS 2026: Between US Ties and China’s Rise",
-      "summary": "BRICS Summit 2026 debated India’s US ties, China’s AI push and technology wars as global power struggles reshape developing nations. Read more.",
-      "category": "Technology",
-      "image": "https://fl-i.thgim.com/public/incoming/kg0bg1/article71475507.ece/alternates/LANDSCAPE_1200/Modi%20BRICS%20summit.jpg",
-      "source": "Frontline Magazine",
-      "sourceUrl": "https://frontline.thehindu.com/columns/brics-summit-modi-china-ai-global-power-rivalry/article71475493.ece",
-      "publishedAt": "2026-09-17T07:20:20.000Z",
-      "fetchedAt": "2026-09-17T18:50:21.252Z"
     }
   ]
 }
