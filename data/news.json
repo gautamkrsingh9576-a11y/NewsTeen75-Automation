@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T21:43:27.073Z",
+  "updatedAt": "2026-09-18T21:54:20.514Z",
   "count": 250,
   "articles": [
     {
@@ -353,6 +353,17 @@
       "sourceUrl": "https://sportstar.thehindu.com/other-sports/indian-sports-wrap-september-18-friday-news-results-highlights-updates-summary/article71481249.ece",
       "publishedAt": "2026-09-18T16:57:02.000Z",
       "fetchedAt": "2026-09-18T18:35:29.600Z"
+    },
+    {
+      "id": "7c8c43210fe855c0",
+      "title": "16th Finance Commission's 73.1% debt path by FY31 daunting: N K Singh",
+      "summary": "N K Singh says unfavourable geopolitics and exogenous circumstances could make debt adjustment harder, while urging states to prepare consolidation roadmaps",
+      "category": "Business & Finance",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2019-05/09/thumb/fitandfill/1200X628/1557416903-7419.jpg",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/amp/economy/news/16th-finance-commission-s-73-1-debt-path-by-fy31-daunting-n-k-singh-126091801431_1.html",
+      "publishedAt": "2026-09-18T16:56:49.000Z",
+      "fetchedAt": "2026-09-18T21:54:15.999Z"
     },
     {
       "id": "7c8c43210fe855c0",
@@ -2740,17 +2751,6 @@
       "sourceUrl": "https://www.livemint.com/news/world/philippines-school-shooting-casualties-feared-at-south-cotabatos-banga-national-high-school-11789717009637.html",
       "publishedAt": "2026-09-18T07:48:02.000Z",
       "fetchedAt": "2026-09-18T15:57:40.895Z"
-    },
-    {
-      "id": "31d13d5879f5ab91",
-      "title": "Philippines school shooting: 2 killed, 4 injured in South Cotabato",
-      "summary": "Philippines school shooting: 2 killed, 4 injured in South Cotabato. This update was reported by Livemint. Open the original report for full context and any developing updates.",
-      "category": "National & Trending News",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/18/1600x900/school_1789717637773_w8ok_1789717641587_tx1y_687e17bf-d1fb-4579-99c5-f22ba385b0c6_z4RY.png",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/news/world/philippines-school-shooting-casualties-feared-at-south-cotabatos-banga-national-high-school/amp-11789717009637.html",
-      "publishedAt": "2026-09-18T07:48:02.000Z",
-      "fetchedAt": "2026-09-18T08:41:11.796Z"
     }
   ]
 }
