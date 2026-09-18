@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-09-18T13:56:00.042Z",
+  "updatedAt": "2026-09-18T14:13:38.340Z",
   "count": 250,
   "articles": [
+    {
+      "id": "666f1f3f61900944",
+      "title": "India-born cheetah gives birth to four cubs at Kuno",
+      "summary": "An India-born cheetah gives birth to four cubs in Kuno National Park, boosting the population to 56 amid conservation efforts.",
+      "category": "National & Trending News",
+      "image": "https://th-i.thgim.com/public/incoming/xff7pt/article71480953.ece/alternates/LANDSCAPE_1200/20260918040L.jpg",
+      "source": "The Hindu",
+      "sourceUrl": "https://www.thehindu.com/news/national/madhya-pradesh/india-born-cheetah-gives-birth-to-four-cubs-at-kuno/article71480735.ece",
+      "publishedAt": "2026-09-18T13:53:16.000Z",
+      "fetchedAt": "2026-09-18T14:13:38.092Z"
+    },
+    {
+      "id": "fd9608b256b80564",
+      "title": "‘Will protect national interests’: India on Bangladesh’s review of 101 bilateral pacts",
+      "summary": "Following Sheikh Hasina’s ouster, Bangladesh is reviewing around 101 bilateral agreements and MoUs signed during her 15-year rule, according to reports",
+      "category": "National & Trending News",
+      "image": "https://images.firstpost.com/uploads/2026/09/pm-brics1-2026-09-6f39efd8cf2155c45615ef64631ceb91.jpg?im=FitAndFill,width=1200,height=675",
+      "source": "Firstpost",
+      "sourceUrl": "https://www.firstpost.com/world/will-protect-national-interests-india-on-bangladeshs-review-of-101-bilateral-pacts-14046921.html",
+      "publishedAt": "2026-09-18T13:44:21.000Z",
+      "fetchedAt": "2026-09-18T14:13:38.340Z"
+    },
     {
       "id": "5c6b7db6039af8b9",
       "title": "Asian Games: 2000 Indians ready to accommodate athletes after hotel crisis",
@@ -25,6 +47,17 @@
       "fetchedAt": "2026-09-18T13:55:53.165Z"
     },
     {
+      "id": "c128c8bb7433d121",
+      "title": "Olympic Medallist Bhaker, Shot Put Champion Toor Named India's Flag-Bearers",
+      "summary": "Double Olympic medallist Manu Bhaker and defending shot put champion Tajinderpal Singh Toor have been selected as India",
+      "category": "Sports",
+      "image": "https://im.rediff.com/1200-630/sports/2025/sep/03manu2.jpg",
+      "source": "rediff.com",
+      "sourceUrl": "https://www.rediff.com/sports/report/manu-bhaker-and-tajinderpal-singh-toor-named-indias-flag-bearers-for-asian-games/20260918.htm",
+      "publishedAt": "2026-09-18T13:34:48.000Z",
+      "fetchedAt": "2026-09-18T14:13:29.710Z"
+    },
+    {
       "id": "c289e14d1b76c643",
       "title": "Kerala Crime Branch armed with legal opinion, PSC faces fresh test",
       "summary": "Kerala Crime Branch armed with legal opinion, PSC faces fresh test. This update was reported by FM Bharat. Open the original report for full context and any developing updates.",
@@ -34,6 +67,17 @@
       "sourceUrl": "https://www.fmbharat.com/en/india/kerala-crime-branch-armed-with-legal-opinion-psc-faces-fresh-test",
       "publishedAt": "2026-09-18T13:30:00.000Z",
       "fetchedAt": "2026-09-18T13:44:34.434Z"
+    },
+    {
+      "id": "ea37419355096095",
+      "title": "Manu Bhaker, Tajinderpal Toor Named India's Flag-Bearers For Asian Games 2026 Opening",
+      "summary": "The picking of Bhaker and Toor as flag bearers was on expected lines as shooting and athletics contribute a major share of the total number medals for the country in the Asian Games",
+      "category": "Sports",
+      "image": "https://www.deccanchronicle.com/h-upload/2026/09/18/2090444-la-3019627.jpg",
+      "source": "Deccan Chronicle",
+      "sourceUrl": "https://www.deccanchronicle.com/sports/manu-bhaker-tajinderpal-toor-named-indias-flag-bearers-for-asian-games-2026-opening-1988520",
+      "publishedAt": "2026-09-18T13:25:06.000Z",
+      "fetchedAt": "2026-09-18T14:13:28.379Z"
     },
     {
       "id": "d66fc9ddb110b114",
@@ -56,6 +100,17 @@
       "sourceUrl": "https://www.tribuneindia.com/news/india/delhi-court-grants-default-bail-to-us-national-in-myanmar-drone-training-camp-case/amp/?utm=relatedarticles",
       "publishedAt": "2026-09-18T13:20:35.000Z",
       "fetchedAt": "2026-09-18T13:44:46.967Z"
+    },
+    {
+      "id": "e9dd27868290d340",
+      "title": "Tata Electronics and Enomoto Sign Memorandum of Understanding to Strengthen Semiconductor Packaging Ecosystem in India",
+      "summary": "Tata Electronics and Enomoto Sign Memorandum of Understanding to Strengthen Semiconductor Packaging Ecosystem in India. This update was reported by Tata Electronics. Open the original report for full context and any developing updates.",
+      "category": "Technology",
+      "image": "https://www.tataelectronics.com/",
+      "source": "Tata Electronics",
+      "sourceUrl": "https://www.tataelectronics.com/w/tata-electronics%E2%80%AFand%E2%80%AFenomoto-sign-memorandum-of-understanding-to-strengthen-semiconductor-packaging-ecosystem-in-india",
+      "publishedAt": "2026-09-18T13:14:17.000Z",
+      "fetchedAt": "2026-09-18T14:13:34.606Z"
     },
     {
       "id": "9850e1f90cf21a38",
@@ -100,6 +155,17 @@
       "sourceUrl": "https://www.mid-day.com/sports/cricket/article/sports-news-today-indian-womens-team-victory-bcci-agm-in-mumbai-jos-buttler-record-23650680",
       "publishedAt": "2026-09-18T12:43:00.000Z",
       "fetchedAt": "2026-09-18T13:28:27.892Z"
+    },
+    {
+      "id": "1c46baebac471e7c",
+      "title": "Marathi film Gondhal selected as India's official entry for Oscars 2027 - Mid-Day",
+      "summary": "Marathi film Gondhal has become India`s official entry into the Oscars 2027. The Film Federation of India announced the news on Friday",
+      "category": "Entertainment",
+      "image": "https://images.mid-day.com/images/images/2026/sep/gondhal-1789734091465_d.png",
+      "source": "Mid-Day",
+      "sourceUrl": "https://www.mid-day.com/amp/entertainment/regional-indian-cinema-news/article/oscars-2027-marathi-film-gondhal-becomes-india-official-entry-23650683",
+      "publishedAt": "2026-09-18T12:40:00.000Z",
+      "fetchedAt": "2026-09-18T14:13:31.731Z"
     },
     {
       "id": "6c7e7e284b560c30",
@@ -210,6 +276,17 @@
       "sourceUrl": "https://m.rediff.com/amp/sports/report/davis-cup-india-trails-korea-0-2-nagal-suresh-squander-leads/20260918.htm",
       "publishedAt": "2026-09-18T12:20:42.000Z",
       "fetchedAt": "2026-09-18T13:55:51.696Z"
+    },
+    {
+      "id": "2263360a46010195",
+      "title": "Nithari victim's father questions Surendra Koli's 'suicide', alleges murder | India News",
+      "summary": "Koli was found hanging at a rented tea stall on Sapt Sarovar Road in Haridwar on Friday.",
+      "category": "Crime & Breaking News",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/18/1600x900/logo/PTI09-18-2026-000109B-0_1789733883866_kwUF_1789733903108_AMI1_0c213862-b4d3-4912-8964-b4c6513544b7_Bkwo.jpg",
+      "source": "hindustantimes.com",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/nithari-victims-father-questions-surendra-kolis-suicide-alleges-murder-101789733424618-amp.html",
+      "publishedAt": "2026-09-18T12:19:00.000Z",
+      "fetchedAt": "2026-09-18T14:13:26.961Z"
     },
     {
       "id": "6581eadaaeb80bdb",
@@ -474,6 +551,17 @@
       "sourceUrl": "https://www.cnbctv18.com/entertainment/marathi-film-gondhal-named-indias-official-oscar-2027-entry-19993726.htm",
       "publishedAt": "2026-09-18T11:19:03.000Z",
       "fetchedAt": "2026-09-18T12:56:01.747Z"
+    },
+    {
+      "id": "e80ac14a6c686041",
+      "title": "Tune in to hear the stories, insights and vision driving India’s next wave of growth. Catch Mohammad Nasir, Director, MKC Agro Fresh Ltd. and Dinesh Agarwal, Founder & CEO, IndiaMART on ‘Architects of Viksit Bharat’, presented by Zee Media and SAP. Tom",
+      "summary": "Tune in to hear the stories, insights and vision driving India’s next wave of growth. Catch Mohammad Nasir, Director, MKC Agro Fresh Ltd. and Dinesh Agarwal, Founder & CEO, IndiaMART on ‘Architects...",
+      "category": "Technology",
+      "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/795581832_1565394097971280_2389967318272845921_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=596eb7&_nc_ohc=nXI5x0HikyAQ7kNvwGPWsZK&_nc_oc=AdrmeaH8VXGT26PQHu3_wwsVH5YO4bjbKQT6zQFrgTfHfqsFT3E1sAFQvXSiij87Ti4&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=zYY3S1T9GpmTgdK8T7aS5Q&_nc_ss=70289&oh=00_AQLHsG8-S5EpctS93-JTOYanlWL6hBxWk8JAaWHT4zG8BQ&oe=6AB31206",
+      "source": "facebook.com",
+      "sourceUrl": "https://www.facebook.com/zeebusinessonline/videos/tune-in-to-hear-the-stories-insights-and-vision-driving-indias-next-wave-of-grow/1868701597442420/",
+      "publishedAt": "2026-09-18T11:13:40.000Z",
+      "fetchedAt": "2026-09-18T14:13:33.805Z"
     },
     {
       "id": "6f8b3355ff768f34",
@@ -2663,94 +2751,6 @@
       "sourceUrl": "https://www.indiatoday.in/sports/football/story/india-vs-brazil-aiff-offers-14000-discounted-tickets-kolkata-clubs-east-bengal-mohun-bagan-2997334-2026-09-18",
       "publishedAt": "2026-09-18T03:15:45.000Z",
       "fetchedAt": "2026-09-18T03:32:01.573Z"
-    },
-    {
-      "id": "dcc194cf8b26cb14",
-      "title": "India's Asian Games 2038 Bid: A Long Road Ahead",
-      "summary": "India's Asian Games 2038 Bid: A Long Road Ahead. This update was reported by Rediff. Open the original report for full context and any developing updates.",
-      "category": "Sports",
-      "image": "https://im.rediff.com/worldrediff/pix/rediff_icon_red.png",
-      "source": "Rediff",
-      "sourceUrl": "https://www.rediff.com/sports/report/indias-2038-asian-games-bid-fate-known-by-2028-oca/20260918.htm",
-      "publishedAt": "2026-09-18T03:06:34.000Z",
-      "fetchedAt": "2026-09-18T03:16:03.472Z"
-    },
-    {
-      "id": "b2cc9ef2c4cf346d",
-      "title": "Chess Olympiad Round 2: How Nihal Sarin saved India's day amid Gukesh's historic drop in rating points",
-      "summary": "The current world champion, Dommaraju Gukesh, was on Board 1 facing all the top-rated opponents during India's gold-clinching campaign in Budapest at the 2024 Chess Olympiad. Besides the team, Gukesh won an individual gold too, boosting his overall confidence ahead of the Championship challenge against China's Ding Liren.",
-      "category": "Sports",
-      "image": "https://static.toiimg.com/thumb/msid-134324493,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "timesofindia.indiatimes.com",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-round-2-how-nihal-sarin-saved-indias-day-amid-gukeshs-historic-drop-in-rating-points/articleshow/134324435.cms",
-      "publishedAt": "2026-09-18T02:59:00.000Z",
-      "fetchedAt": "2026-09-18T03:46:29.671Z"
-    },
-    {
-      "id": "b52ac1cadae51ede",
-      "title": "Surfing: India’s coach sets sights on LA Olympics",
-      "summary": "Surfing: India’s coach sets sights on LA Olympics. This update was reported by theshillongtimes.com. Open the original report for full context and any developing updates.",
-      "category": "Sports",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "theshillongtimes.com",
-      "sourceUrl": "https://theshillongtimes.com/2026/09/18/surfing-indias-coach-sets-sights-on-la-olympics/",
-      "publishedAt": "2026-09-18T02:51:17.000Z",
-      "fetchedAt": "2026-09-18T04:46:21.040Z"
-    },
-    {
-      "id": "b29adf36baea101b",
-      "title": "Abhishek Sharma reveals Yuvraj Singh's advice behind record-breaking 108 vs AFG",
-      "summary": "Abhishek Sharma turned Yuvraj Singh’s advice into another explosive performance against Afghanistan. After receiving a message to avoid forcing every delivery, the India opener smashed a record-breaking 108 in the series finale.",
-      "category": "Sports",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/abhishek-sharma--yuvraj-singh-184750696-16x9_0.jpg?VersionId=Wf7jjJa4py1CYj6loufZ9lmz7luOdyfy",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/sports/cricket/story/afg-vs-ind-abhishek-sharma-yuvraj-singh-advice-record-30-ball-t20i-century-delhi-2997311-2026-09-18",
-      "publishedAt": "2026-09-18T02:48:37.000Z",
-      "fetchedAt": "2026-09-18T04:57:07.272Z"
-    },
-    {
-      "id": "dc4371bdcd0e922c",
-      "title": "India not a sporting superpower, but can make presence felt at Asian Games",
-      "summary": "India not a sporting superpower, but can make presence felt at Asian Games. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
-      "category": "Sports",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "The Indian Express",
-      "sourceUrl": "https://indianexpress.com/article/sports/india-not-sporting-superpower-asian-games-2026-medal-expectations-10882995/",
-      "publishedAt": "2026-09-18T02:41:04.000Z",
-      "fetchedAt": "2026-09-18T02:57:27.893Z"
-    },
-    {
-      "id": "4f10b397ec151407",
-      "title": "After 3+ years in power, Congress govt looks to revive promise to repeal Karnataka anti-conversion law",
-      "summary": "The party had promised to repeal the Act before the 2023 assembly polls, but held back without a majority in the legislative council. It now has the numbers.",
-      "category": "Politics & Government",
-      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/08/Untitled-design-2026-08-18T125013.389.png",
-      "source": "ThePrint",
-      "sourceUrl": "https://theprint.in/politics/after-3-years-in-power-congress-govt-looks-to-revive-promise-to-repeal-karnataka-anti-conversion-law/3044045/",
-      "publishedAt": "2026-09-18T02:40:42.000Z",
-      "fetchedAt": "2026-09-18T13:55:48.676Z"
-    },
-    {
-      "id": "a0f91bef424dcfbf",
-      "title": "‘Operation Safed Sagar crew shot at 16000 feet in peak winter’: Netflix India’s Tanya Bami",
-      "summary": "‘Operation Safed Sagar crew shot at 16000 feet in peak winter’: Netflix India’s Tanya Bami. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
-      "category": "Entertainment",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EEntertainment%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "The Indian Express",
-      "sourceUrl": "https://indianexpress.com/article/entertainment/web-series/operation-safed-sagar-crew-shot-at-16000-feet-in-peak-winter-netflix-indias-tanya-bami-10882178/",
-      "publishedAt": "2026-09-18T02:40:21.000Z",
-      "fetchedAt": "2026-09-18T02:57:28.506Z"
-    },
-    {
-      "id": "3f13fb5c66b6f784",
-      "title": "India moving beyond R&D hub to smart technology market",
-      "summary": "Important referral for telecom, networking, IT solution equipment buyer, and broadcasters since the last 25 years.",
-      "category": "Technology",
-      "image": "https://www.communicationstoday.co.in/wp-content/uploads/2026/09/India-moving-beyond-RD-hub-to-smart-technology-market.jpg",
-      "source": "Communications Today",
-      "sourceUrl": "https://www.communicationstoday.co.in/india-moving-beyond-rd-hub-to-smart-technology-market/",
-      "publishedAt": "2026-09-18T02:39:23.000Z",
-      "fetchedAt": "2026-09-18T02:46:44.556Z"
     }
   ]
 }
