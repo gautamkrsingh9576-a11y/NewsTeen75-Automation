@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-09-18T05:55:09.342Z",
+  "updatedAt": "2026-09-18T06:14:57.937Z",
   "count": 250,
   "articles": [
+    {
+      "id": "3729e1ccfc640596",
+      "title": "Hirata partners ATS India to expand semiconductor technology access",
+      "summary": "Hirata partners ATS India to expand semiconductor technology access. This update was reported by Construction World. Open the original report for full context and any developing updates.",
+      "category": "Technology",
+      "image": "https://www.constructionworld.in/assets/uploads/s_8c4c063c351df19f733d3c92751b96c5.webp",
+      "source": "Construction World",
+      "sourceUrl": "https://www.constructionworld.in/latest-construction-technology/hirata-partners-ats-india-to-expand-semiconductor-technology-access/97538",
+      "publishedAt": "2026-09-18T06:00:48.000Z",
+      "fetchedAt": "2026-09-18T06:14:53.063Z"
+    },
+    {
+      "id": "d8ad343479bfdea8",
+      "title": "Global tech debates AI pace. But slowing down isn't among India’s priorities.",
+      "summary": "OpenAI, Anthropic and others are debating how fast AI should advance, but Indian AI labs and startups are not losing sleep over this. They have other questions to deal with: what immediate areas to focus on, how much to invest in them, and what to build for the long term.",
+      "category": "Technology",
+      "image": "https://images.the-captable.com/cs/158/d99b1110116911ed9e63f54395117598/AiSafetyFeatureImage-1789706812408.jpg",
+      "source": "The CapTable",
+      "sourceUrl": "https://the-captable.com/2026/09/frontier-ai-safety-speed-debate-india-ecosystem-not-slowing/?paymentMethod=international",
+      "publishedAt": "2026-09-18T05:57:36.000Z",
+      "fetchedAt": "2026-09-18T06:14:53.959Z"
+    },
+    {
+      "id": "f78cd008a91ccdb9",
+      "title": "As Project Cheetah completes 4 years, big cat population in India rises to 52",
+      "summary": "Cheetah population in India reaches 52 as Project Cheetah marks four years, focusing on habitat expansion and long-term conservation.",
+      "category": "National & Trending News",
+      "image": "https://th-i.thgim.com/public/incoming/egidjr/article71479485.ece/alternates/LANDSCAPE_1200/PTI12_31_2025_000425B.jpg",
+      "source": "The Hindu",
+      "sourceUrl": "https://www.thehindu.com/news/national/madhya-pradesh/as-project-cheetah-completes-4-years-big-cat-population-in-india-rises-to-52/article71479480.ece",
+      "publishedAt": "2026-09-18T05:52:33.000Z",
+      "fetchedAt": "2026-09-18T06:14:57.606Z"
+    },
     {
       "id": "a4acfaeb34a29ff1",
       "title": "India among six bidders for 2038 Asian Games, OCA decision by 2028",
@@ -12,6 +45,17 @@
       "sourceUrl": "https://www.indiatoday.in/sports/asian-games/story/india-among-six-bidders-2038-asian-games-oca-decision-2028-2997422-2026-09-18",
       "publishedAt": "2026-09-18T05:41:49.000Z",
       "fetchedAt": "2026-09-18T05:55:02.052Z"
+    },
+    {
+      "id": "6bef6e7269f23915",
+      "title": "News18 India to host 'Jazba' in Delhi, discussing India’s growing sports economy",
+      "summary": "News18’s Jazba: Jadon Se Shikhar Tak event will bring policymakers and athletes together around grassroots development, infrastructure, sports policy, Olympic ambitions, innovation and the changing sports economy.",
+      "category": "Sports",
+      "image": "https://images.storyboard18.com/storyboard18/2026/09/Visuals-Page-2026-09-18T111038.296-2026-09-a9b514f722d90f54f450457c207033b8-1019x573.jpg",
+      "source": "Storyboard18",
+      "sourceUrl": "https://www.storyboard18.com/amp/brand-marketing/news18-india-to-host-jazba-in-delhi-discussing-indias-growing-sports-economy-110920.htm",
+      "publishedAt": "2026-09-18T05:40:59.000Z",
+      "fetchedAt": "2026-09-18T06:14:47.421Z"
     },
     {
       "id": "ece5c7a0738a7cfd",
@@ -80,6 +124,17 @@
       "fetchedAt": "2026-09-18T05:14:28.839Z"
     },
     {
+      "id": "acb1e6baa7d6e86a",
+      "title": "Gautam Gambhir's Blunt 'Sanju Samson Remark' As Vaibhav Sooryavanshi Gets Snubbed Again",
+      "summary": "India head coach Gautam Gambhir said 15-year-old Vaibhav Sooryavanshi must wait for senior team opportunities, prioritizing consistent performers over newcomers.",
+      "category": "Sports",
+      "image": "https://c.ndtvimg.com/2026-09/schkqrac_gambhir-and-sooryavanshi-ians_625x300_18_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "source": "NDTV Sports",
+      "sourceUrl": "https://sports.ndtv.com/india-vs-afghanistan-2026/gautam-gambhir-end-silence-on-vaibhav-sooryavanshi-snub-as-sanju-samson-roars-back-to-form-12062007",
+      "publishedAt": "2026-09-18T05:05:24.000Z",
+      "fetchedAt": "2026-09-18T06:14:48.065Z"
+    },
+    {
       "id": "80db31377ac1c456",
       "title": "Unaccustomed Earth first look: Freida Pinto, Siddharth lead Netflix family drama",
       "summary": "Netflix has unveiled the first look of Unaccustomed Earth, led by Freida Pinto and Siddharth. The family drama traces love, loss and belonging in an Indian American community across generations.",
@@ -111,6 +166,17 @@
       "sourceUrl": "https://www.exchange4media.com/marketing-news/celebrating-varun-mathur-from-sports-marketing-to-global-cinema-and-ai-led-storytelling-158359.html",
       "publishedAt": "2026-09-18T04:54:35.000Z",
       "fetchedAt": "2026-09-18T05:43:58.003Z"
+    },
+    {
+      "id": "e372e7d458dabecc",
+      "title": "Odisha: 12 sentenced to life in prison for murdering father, son over witchcraft | India News",
+      "summary": "The 12 were convicted of deliberating killing the victims because they believed the victims indulged in witchcraft",
+      "category": "Crime & Breaking News",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/18/1600x900/logo/The-prosecution-examined-23-witnesses---Shuttersto_1789706798404_9IDg.jpg",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/odisha-12-sentenced-to-life-in-prison-for-murdering-father-son-over-witchcraft-101789706804916-amp.html",
+      "publishedAt": "2026-09-18T04:46:44.000Z",
+      "fetchedAt": "2026-09-18T06:14:45.426Z"
     },
     {
       "id": "c60aa4590896c982",
@@ -2685,72 +2751,6 @@
       "sourceUrl": "https://kpmg.com/in/en/events/2026/09/semicon-india-2026.html",
       "publishedAt": "2026-09-17T10:39:51.000Z",
       "fetchedAt": "2026-09-17T11:35:37.990Z"
-    },
-    {
-      "id": "be3e4124e8de5801",
-      "title": "Indian man found dead in US home 17 days after marriage; family seeks EAM's help to repatriate body | India News",
-      "summary": "Mohammed Jaber Hussain's family said he was found dead in his sleep at his home in the US.",
-      "category": "Crime & Breaking News",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/17/1600x900/logo/US_man_1789639331163_i7Ac_1789639346974_qDaK_e754b929-5325-44ae-a24a-55b334bc533e_LsM1.jpg",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/india-news/indian-man-found-dead-in-us-home-17-days-after-marriage-kin-seek-eam-help-to-repatraite-body-mohammed-jaber-hussain-hyd-101789637621047-amp.html",
-      "publishedAt": "2026-09-17T10:38:22.000Z",
-      "fetchedAt": "2026-09-17T11:02:32.483Z"
-    },
-    {
-      "id": "4597248662724f72",
-      "title": "OG Mr India and former tennis player debuted with Karisma Kapoor, later left Bollywood; where's Bikram Saluja now? | Bollywood",
-      "summary": "Former elite athlete and model Bikram Saluja entered the Indian entertainment industry unexpectedly, debuting alongside Karisma Kapoor.&nbsp; | Bollywood",
-      "category": "Entertainment",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/17/1600x900/logo/Bikram_Saluja_1789635712719_LOCB_1789635725347_WBbB_f4bb02ca-cb62-400f-b619-7d24c110c52a_1WGG.jpg",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/entertainment/bollywood/og-mr-india-and-former-tennis-player-debuted-with-karisma-kapoor-later-left-bollywood-wheres-bikram-saluja-now-101789631591575.html",
-      "publishedAt": "2026-09-17T10:34:29.000Z",
-      "fetchedAt": "2026-09-17T10:50:49.599Z"
-    },
-    {
-      "id": "29529ce8a373f9e3",
-      "title": "PM Modi Becomes Longest-Serving Elected Head of Government in India",
-      "summary": "PM Modi Becomes Longest-Serving Elected Head of Government in India. This update was reported by News On AIR. Open the original report for full context and any developing updates.",
-      "category": "Politics & Government",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EPolitics%20%26amp%3B%20Government%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "News On AIR",
-      "sourceUrl": "https://newsonair.gov.in/pm-modi-becomes-longest-serving-elected-head-of-government-in-india/",
-      "publishedAt": "2026-09-17T10:33:50.000Z",
-      "fetchedAt": "2026-09-17T14:52:49.070Z"
-    },
-    {
-      "id": "2190d5dd2eef992e",
-      "title": "Asian Games 2026: When and where to watch in India",
-      "summary": "Discover when and where to watch the Asian Games 2026 in India, featuring live coverage on Sony Sports and Sony LIV.",
-      "category": "Sports",
-      "image": "https://th-i.thgim.com/public/incoming/jz7y2w/article71475921.ece/alternates/LANDSCAPE_1200/TH09-LEAD-ASIADGQUGGM9CS.3.jpg.jpg",
-      "source": "The Hindu",
-      "sourceUrl": "https://www.thehindu.com/sport/asian-games-2026-india-live-streaming-when-where-to-watch-ott/article71475908.ece",
-      "publishedAt": "2026-09-17T10:33:01.000Z",
-      "fetchedAt": "2026-09-17T10:50:48.724Z"
-    },
-    {
-      "id": "679aca3dda16350e",
-      "title": "Asian Games: India's Gonsalves-Beg pair knocked out of Teqball competition in group stage",
-      "summary": "Declan Marshall Gonsalves and Mohamed Anas Imran Beg were knocked out of the Asian Games men's doubles teqball competition after suffering two defeats in the group stage.",
-      "category": "Sports",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/teqball--asian-games-2026-163906714-16x9_1.jpg?VersionId=V4E8ekB1gidIH5pWDhV.42XyqJZUqpwV",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/sports/asian-games/story/asian-games-2026-india-gonsalves-beg-knocked-out-teqball-group-stage-2996800-2026-09-17",
-      "publishedAt": "2026-09-17T10:30:05.000Z",
-      "fetchedAt": "2026-09-17T10:50:48.957Z"
-    },
-    {
-      "id": "b10838e20fcf0a58",
-      "title": "Opinion | US Has Institutionally Weaponised India's Russia Oil Dependence. Can New Delhi Cope?",
-      "summary": "A new legislation can connect India's Russian energy purchases to its access to the American market over a five-year period",
-      "category": "Technology",
-      "image": "https://c.ndtvimg.com/2025-09/im3itgmo_donald-trump-reuters_625x300_04_September_25.jpeg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
-      "source": "NDTV",
-      "sourceUrl": "https://www.ndtv.com/opinion/us-has-weaponised-indias-russia-oil-dependence-now-what-12059199",
-      "publishedAt": "2026-09-17T10:25:25.000Z",
-      "fetchedAt": "2026-09-17T12:44:20.479Z"
     }
   ]
 }
