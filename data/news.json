@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T01:18:52.010Z",
+  "updatedAt": "2026-09-18T01:31:55.731Z",
   "count": 250,
   "articles": [
     {
@@ -56,6 +56,17 @@
       "sourceUrl": "https://www.ndtvprofit.com/sports/asian-games-2026-schedule-dates-timings-india-events-live-streaming-and-telecast-details-12060683",
       "publishedAt": "2026-09-18T00:30:01.000Z",
       "fetchedAt": "2026-09-18T01:00:49.008Z"
+    },
+    {
+      "id": "806653ebc4c173cb",
+      "title": "Asian Games 2026: ‘My biggest bet would surely be the doubles’ - Neha Aggarwal Sharma on India’s table te",
+      "summary": "India’s 10-member table tennis contingent is already in Japan, with the Aichi-Nagoya competition for the event beginning on September 20. At the forefront are world No.",
+      "category": "Sports",
+      "image": "https://static.toiimg.com/thumb/msid-134318614,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-my-biggest-bet-would-surely-be-the-doubles-neha-aggarwal-sharma-on-indias-table-tennis-medal-hopes/articleshow/134318539.cms",
+      "publishedAt": "2026-09-18T00:30:00.000Z",
+      "fetchedAt": "2026-09-18T01:31:38.963Z"
     },
     {
       "id": "e67981cea1263526",
@@ -2740,17 +2751,6 @@
       "sourceUrl": "https://www.news18.com/amp/sports/other-sports/pm-narendra-modis-sporting-push-khelo-india-tops-and-the-olympic-dream-ws-bl-10335704.html",
       "publishedAt": "2026-09-17T07:53:27.000Z",
       "fetchedAt": "2026-09-17T08:19:01.195Z"
-    },
-    {
-      "id": "427f2d6b3cfc79c6",
-      "title": "Adidas confirms layoffs at India tech hub, around 20% employees affected",
-      "summary": "Adidas is reportedly laying off nearly 20 per cent of its India Tech Hub workforce, with software engineers, data scientists and data engineers among those affected.",
-      "category": "Technology",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/ap-88340ed33a9743ecb0c4b5fcb298387a--0--162250215-16x9_0.jpg?VersionId=pANyWj10NUwcEqv0tjcfwjAExfPVlxfl",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/jobs/story/adidas-confirms-layoffs-at-india-tech-hub-around-50-employees-reportedly-affected-tchc-2996094-2026-09-16",
-      "publishedAt": "2026-09-17T07:53:23.000Z",
-      "fetchedAt": "2026-09-17T08:19:04.860Z"
     }
   ]
 }
