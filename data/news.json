@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-09-18T16:15:44.141Z",
+  "updatedAt": "2026-09-18T16:31:13.761Z",
   "count": 250,
   "articles": [
+    {
+      "id": "a536715914dcf42f",
+      "title": "Nawazuddin Siddiqui gets roasted over Thamma on India’s Got Latent: ‘So, what went wrong?’",
+      "summary": "Nawazuddin Siddiqui gets roasted over Thamma on India’s Got Latent: ‘So, what went wrong?’. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
+      "category": "Entertainment",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EEntertainment%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "The Indian Express",
+      "sourceUrl": "https://indianexpress.com/article/entertainment/bollywood/nawazuddin-siddiqui-gets-roasted-over-thamma-on-indias-got-latent-10884235/",
+      "publishedAt": "2026-09-18T16:26:05.000Z",
+      "fetchedAt": "2026-09-18T16:31:08.513Z"
+    },
+    {
+      "id": "04ea1ec507732355",
+      "title": "Asian Games accommodation crisis: India seeks diaspora help",
+      "summary": "Amid an accommodation crisis at the Asian Games in Nagoya, India's Sports Ministry has sought help from the Indian diaspora if lodging shortages for athletes persist.",
+      "category": "Sports",
+      "image": "https://dailypioneer.com/uploads/2026/story/images/big/asian-games-accommodation-crisis--sports-ministry-seeks-indian-diaspora-help-2026-09-18.jpg",
+      "source": "Daily Pioneer",
+      "sourceUrl": "https://dailypioneer.com/news/asian-games-accommodation-crisis-indian-diaspora-help",
+      "publishedAt": "2026-09-18T16:12:16.000Z",
+      "fetchedAt": "2026-09-18T16:31:07.884Z"
+    },
     {
       "id": "11d81d2cdc82195a",
       "title": "From AI For Indian Air Force To Niche Drone Tech: Inside India's Defence-Tech Revolution | MC Special",
@@ -12,6 +34,17 @@
       "sourceUrl": "https://www.moneycontrol.com/news/videos/business/from-ai-for-indian-air-force-to-niche-drone-tech-inside-india-s-defence-tech-revolution-mc-special-14033228.html",
       "publishedAt": "2026-09-18T15:50:19.000Z",
       "fetchedAt": "2026-09-18T16:15:40.150Z"
+    },
+    {
+      "id": "f71e570709725f97",
+      "title": "Odisha gets ₹23,600 crore investment proposals at SEMICON India 2026",
+      "summary": "The proposals, which could generate around 6,100 jobs, include a semiconductor facility for SiC substrate wafers as the state steps up efforts to build a broader electronics and semiconductor ecosystem.",
+      "category": "Technology",
+      "image": "https://etimg.etb2bimg.com/thumb/msid-134338901,imgsize-209002,width-1200,height=627,overlay-etmanufacturing,resizemode-75/news/hi-tech/odisha-gets-23600-crore-investment-proposals-at-semicon-india-2026.jpg",
+      "source": "ET Manufacturing",
+      "sourceUrl": "https://manufacturing.economictimes.indiatimes.com/news/hi-tech/odisha-gets-23600-crore-investment-proposals-at-semicon-india-2026/134338901?utm_source=latest_news&utm_medium=homepage",
+      "publishedAt": "2026-09-18T15:50:14.000Z",
+      "fetchedAt": "2026-09-18T16:31:10.529Z"
     },
     {
       "id": "c6d68a2e272b5850",
@@ -102,6 +135,17 @@
       "fetchedAt": "2026-09-18T15:31:20.702Z"
     },
     {
+      "id": "0f1204e03a4e645e",
+      "title": "Why Indian Right Has Not Built The Power That Will Outlast The Government",
+      "summary": "Somewhere in a Delhi drawing room this evening, a professionally successful Indian in his forties will explain with real conviction why Narendra Modi",
+      "category": "Politics & Government",
+      "image": "https://swarajya.gumlet.io/swarajya/2026-09-18/iw7dd5so/download.jpg?w=600&h=315&format=jpg",
+      "source": "Swarajyamag",
+      "sourceUrl": "https://swarajyamag.com/politics/why-indias-right-should-studythe-medicis-method-not-their-canon",
+      "publishedAt": "2026-09-18T15:03:50.000Z",
+      "fetchedAt": "2026-09-18T16:31:03.150Z"
+    },
+    {
       "id": "f546fdacd31910e2",
       "title": "Mansukh Mandaviya Acts After Indian Athletes Face Accommodation Crisis At 2026 Asian Games In Aichi-Nagoya",
       "summary": "Sports Minister Mansukh Mandaviya has moved to address an accommodation crisis after Indian athletes faced severe stay problems on arrival for the 2026 Asian Games in Japan’s Aichi-Nagoya on Friday, September 18.",
@@ -111,6 +155,17 @@
       "sourceUrl": "https://www.outlookindia.com/sports/others/asian-games-2026-aichi-nagoya-indian-athletes-accommodation-crisis-mansukh-mandaviya",
       "publishedAt": "2026-09-18T15:03:11.000Z",
       "fetchedAt": "2026-09-18T15:57:33.443Z"
+    },
+    {
+      "id": "4812263bc78888a4",
+      "title": "Private financing critical for Viksit Bharat goal: Economic Affairs Secy",
+      "summary": "Achieving India's Viksit Bharat vision will require critical private sector investment, as public expenditure alone cannot bridge the massive financing gap, Economic Affairs Secy Anuradha Thakur said",
+      "category": "Business & Finance",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-04/16/thumb/fitandfill/1200X628/1776362922-9005.jpg",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/amp/economy/news/private-financing-critical-for-viksit-bharat-goal-economic-affairs-secy-126091801069_1.html",
+      "publishedAt": "2026-09-18T15:02:02.000Z",
+      "fetchedAt": "2026-09-18T16:31:11.481Z"
     },
     {
       "id": "5846a40c2f3d531d",
@@ -1543,6 +1598,17 @@
       "fetchedAt": "2026-09-18T09:53:10.593Z"
     },
     {
+      "id": "ac38de3b5e45930d",
+      "title": "Nani questions ‘pan-India’ tag for South Indian films",
+      "summary": "Nani questions ‘pan-India’ tag for South Indian films. This update was reported by Udayavani. Open the original report for full context and any developing updates.",
+      "category": "Entertainment",
+      "image": "https://d3jde0c4xcko0v.cloudfront.net/production/18-09-26/news/60g4ramu6r7cfr.webp",
+      "source": "Udayavani",
+      "sourceUrl": "https://udayavani.com/entertainment/nani-questions-pan-india-tag-for-south-indian-films-828956?lang=en",
+      "publishedAt": "2026-09-18T09:30:15.000Z",
+      "fetchedAt": "2026-09-18T16:31:09.466Z"
+    },
+    {
       "id": "3b1a74899cae5948",
       "title": "Satya Nadella calls for AI innovations to enhance accessibility and control in agriculture",
       "summary": "Microsoft CEO Satya Nadella emphasizes the importance of artificial intelligence in transforming agriculture in India by enhancing accessibility, sovereignty, and control, during his address at the Ideas4India forum.",
@@ -2685,72 +2751,6 @@
       "sourceUrl": "https://www.livemint.com/technology/india-has-building-blocks-for-semiconductor-growth-must-bridge-knowledge-market-gaps-l-t-semiconductor-tech-ceo-11789708579964.html",
       "publishedAt": "2026-09-18T05:16:19.000Z",
       "fetchedAt": "2026-09-18T05:29:23.042Z"
-    },
-    {
-      "id": "e493c9d46b3f1087",
-      "title": "Anbil Avan - Official Trailer",
-      "summary": "Anbil Avan. This update was reported by The Times of India. Open the original report for full context and any developing updates.",
-      "category": "Entertainment",
-      "image": "https://static.toiimg.com/thumb/msid-134326655,width-1280,height-720,imgsize-133442,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/videos/entertainment/regional/tamil/anbil-avan-official-trailer/amp_videoshow/134326655.cms",
-      "publishedAt": "2026-09-18T05:16:07.000Z",
-      "fetchedAt": "2026-09-18T07:25:12.789Z"
-    },
-    {
-      "id": "3636df4072ae86d7",
-      "title": "Maya Lady - Official Teaser",
-      "summary": "Maya Lady. This update was reported by The Times of India. Open the original report for full context and any developing updates.",
-      "category": "Entertainment",
-      "image": "https://static.toiimg.com/thumb/msid-134326617,width-1280,height-720,imgsize-201415,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/videos/entertainment/regional/telugu/maya-lady-official-teaser/amp_videoshow/134326617.cms",
-      "publishedAt": "2026-09-18T05:13:16.000Z",
-      "fetchedAt": "2026-09-18T07:40:16.273Z"
-    },
-    {
-      "id": "1ce4971bf539fa5b",
-      "title": "SEMICON India 2026: Smart Electricity Meters Help Control Power Consumption From Anywhere",
-      "summary": "Smart meters are designed to make electricity usage more transparent while providing consumers with greater convenience and control, reports Chanchal Mukherjee.",
-      "category": "Technology",
-      "image": "https://imgs.etvbharat.com/etvbharat/prod-images/18-09-2026/1200-675-27658266-312-27658266-1789708248965.jpg",
-      "source": "ETV Bharat",
-      "sourceUrl": "https://www.etvbharat.com/en/technology/semicon-india-2026-smart-electricity-meters-help-control-power-consumption-from-anywhere-enn26091800489",
-      "publishedAt": "2026-09-18T05:11:21.000Z",
-      "fetchedAt": "2026-09-18T09:41:18.005Z"
-    },
-    {
-      "id": "2a11d14f7d364112",
-      "title": "India’s AI dividend must reach everyone: Microsoft CEO",
-      "summary": "Seattle, September 18 (IANS) Microsoft Chairman and CEO Satya Nadella has urged technology leaders to ensure artificial intelligence reaches farmers, businesses and communities across India, saying its promise will depend on how widely people can use it a",
-      "category": "Technology",
-      "image": "https://morungexpress.com/uploads/2026/09/99711060_1789708057_202609183945839.jpg",
-      "source": "MorungExpress",
-      "sourceUrl": "https://morungexpress.com/indias-ai-dividend-must-reach-everyone-microsoft-ceo",
-      "publishedAt": "2026-09-18T05:10:55.000Z",
-      "fetchedAt": "2026-09-18T07:40:18.903Z"
-    },
-    {
-      "id": "8f13b4ecba32267b",
-      "title": "15TH ALL INDIA AIR FORCE SCHOOLS ATHLETICS AND SPORTS CHAMPIONSHIP 2026 CONCLUDES AT BANGALURU",
-      "summary": "15TH ALL INDIA AIR FORCE SCHOOLS ATHLETICS AND SPORTS CHAMPIONSHIP 2026 CONCLUDES AT BANGALURU. This update was reported by IBG News. Open the original report for full context and any developing updates.",
-      "category": "Sports",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "IBG News",
-      "sourceUrl": "https://ibgnews.com/2026/09/18/15th-all-india-air-force-schools-athletics-and-sports-championship-2026-concludes-at-bangaluru/",
-      "publishedAt": "2026-09-18T05:10:21.000Z",
-      "fetchedAt": "2026-09-18T05:14:28.839Z"
-    },
-    {
-      "id": "acb1e6baa7d6e86a",
-      "title": "Gautam Gambhir's Blunt 'Sanju Samson Remark' As Vaibhav Sooryavanshi Gets Snubbed Again",
-      "summary": "India head coach Gautam Gambhir said 15-year-old Vaibhav Sooryavanshi must wait for senior team opportunities, prioritizing consistent performers over newcomers.",
-      "category": "Sports",
-      "image": "https://c.ndtvimg.com/2026-09/schkqrac_gambhir-and-sooryavanshi-ians_625x300_18_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "source": "NDTV Sports",
-      "sourceUrl": "https://sports.ndtv.com/india-vs-afghanistan-2026/gautam-gambhir-end-silence-on-vaibhav-sooryavanshi-snub-as-sanju-samson-roars-back-to-form-12062007",
-      "publishedAt": "2026-09-18T05:05:24.000Z",
-      "fetchedAt": "2026-09-18T06:14:48.065Z"
     }
   ]
 }
