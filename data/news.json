@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-18T16:44:48.236Z",
+  "updatedAt": "2026-09-18T16:55:24.201Z",
   "count": 250,
   "articles": [
+    {
+      "id": "a21afe8805b3464a",
+      "title": "Asian Games 2026: Sports Ministry reaches out to Indian diaspora amid accommodation crisis in Nagoya",
+      "summary": "Sports Ministry reaches out to Indian diaspora to help deal with lodging crisis at Asiad",
+      "category": "Sports",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/18/1600x900/logo/asian_games_1789749451000_1789749465645_TDrl_1789749465877_lMYT_6a47602b-2568-4287-8cdb-f30094ba2efa_behE.jpg",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/news/india/asian-games-2026-sports-ministry-reaches-out-to-indian-diaspora-amid-accommodation-crisis-in-nagoya-11789744884314.html",
+      "publishedAt": "2026-09-18T16:40:17.000Z",
+      "fetchedAt": "2026-09-18T16:55:19.504Z"
+    },
     {
       "id": "ea79080650c9efd7",
       "title": "Delhi HC grants bail to UK national Jagtar Singh Johal in 7 NIA cases after 8 years in custody | India News",
@@ -2740,17 +2751,6 @@
       "sourceUrl": "https://www.thehindu.com/sci-tech/health/biotechnology-and-healthcare-where-we-are-in-india-and-where-we-need-to-go/article71471597.ece",
       "publishedAt": "2026-09-18T05:25:40.000Z",
       "fetchedAt": "2026-09-18T05:43:59.140Z"
-    },
-    {
-      "id": "5a7716c770e4b1fa",
-      "title": "Asian Games 2026: India shooting schedule, athletes and event timings in IST",
-      "summary": "India’s shooters will compete across rifle, pistol and shotgun events at the Asian Games 2026 in Japan. The shooting competition will be held from September 19 to October 1.",
-      "category": "Sports",
-      "image": "https://static.toiimg.com/thumb/msid-134326658,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-india-shooting-schedule-athletes-and-event-timings-in-ist/articleshow/134326121.cms",
-      "publishedAt": "2026-09-18T05:19:00.000Z",
-      "fetchedAt": "2026-09-18T05:55:01.725Z"
     }
   ]
 }
