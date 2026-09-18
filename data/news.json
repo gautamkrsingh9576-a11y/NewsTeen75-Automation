@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T00:08:36.684Z",
+  "updatedAt": "2026-09-18T00:32:08.589Z",
   "count": 250,
   "articles": [
     {
@@ -67,6 +67,17 @@
       "sourceUrl": "https://www.indiatoday.in/sports/cricket/story/abhishek-sharma-meditation-celebration-record-t20i-hundred-erling-haaland-afg-vs-ind-2997271-2026-09-18",
       "publishedAt": "2026-09-17T21:30:32.000Z",
       "fetchedAt": "2026-09-17T21:50:38.005Z"
+    },
+    {
+      "id": "f3bbe449f112f943",
+      "title": "Club firing: Prime accused held",
+      "summary": "Panchkula Sector 11 club firing: Police arrested prime accused Gurpreet Singh alias Kaku in Kharar, recovered Zigana pistol, cartridges and XUV 500.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/chandigarh/club-firing-prime-accused-held/articleshow/134321069.cms",
+      "publishedAt": "2026-09-17T21:15:00.000Z",
+      "fetchedAt": "2026-09-18T00:31:51.950Z"
     },
     {
       "id": "0af432e3c3f11a5c",
@@ -914,6 +925,17 @@
       "sourceUrl": "https://www.nationalheraldindia.com/entertainment/meet-the-18-members-of-indias-new-censor-board-committee-several-with-bjp-links",
       "publishedAt": "2026-09-17T13:36:53.000Z",
       "fetchedAt": "2026-09-17T14:22:14.078Z"
+    },
+    {
+      "id": "8568ffeb30089c87",
+      "title": "From Mirabai Chanu to Lakshya Sen: India's top medal contenders at Asian Games 2026",
+      "summary": "From Mirabai Chanu and Lakshya Sen to Manu Bhaker: Explore India's top medal contenders at the Asian Games 2026 in Aichi-Nagoya, event schedules, and gold prospects.",
+      "category": "Sports",
+      "image": "https://s.yimg.com/lo/mysterio/api/b04a8bc669f44efc425550da708b8ac8d99a1c94ffe2d40353ed95043980aa02/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2Fe77f374d46505dc369754e5f6825984d",
+      "source": "sports.yahoo.com",
+      "sourceUrl": "https://sports.yahoo.com/articles/mirabai-chanu-lakshya-sen-indias-133418248.html",
+      "publishedAt": "2026-09-17T13:34:18.000Z",
+      "fetchedAt": "2026-09-18T00:31:53.536Z"
     },
     {
       "id": "6a229fb7d7015fe4",
@@ -2729,28 +2751,6 @@
       "sourceUrl": "https://www.deccanherald.com/amp/story/india/maharashtra/maratha-quota-row-manoj-jarange-patil-end-hunger-strike-gives-a-three-month-breather-to-maharashtra-government-4149246",
       "publishedAt": "2026-09-17T07:29:00.000Z",
       "fetchedAt": "2026-09-17T10:36:07.747Z"
-    },
-    {
-      "id": "39a18f567b7cb85d",
-      "title": "‘We will rule Canada’: Lawrence Bishnoi gang’s threat letter revealed",
-      "summary": "‘We will rule Canada’: Lawrence Bishnoi gang’s threat letter revealed. This update was reported by Punjab Newsline. Open the original report for full context and any developing updates.",
-      "category": "Crime & Breaking News",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ECrime%20%26amp%3B%20Breaking%20News%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "Punjab Newsline",
-      "sourceUrl": "https://www.punjabnewsline.com/news/we-will-rule-canada-lawrence-bishnoi-gangs-threat-letter-revealed",
-      "publishedAt": "2026-09-17T07:27:39.000Z",
-      "fetchedAt": "2026-09-17T07:30:01.098Z"
-    },
-    {
-      "id": "b759fd360c7d4388",
-      "title": "MODI WINS ELECTIONS NOW COMES PERFORMANCE AND PERMANENCE",
-      "summary": "MODI WINS ELECTIONS NOW COMES PERFORMANCE AND PERMANENCE. This update was reported by indianmandarins.com. Open the original report for full context and any developing updates.",
-      "category": "Politics & Government",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EPolitics%20%26amp%3B%20Government%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "indianmandarins.com",
-      "sourceUrl": "https://www.indianmandarins.com/news/modi-wins-elections-now-comes-performance-and-permanence/33355",
-      "publishedAt": "2026-09-17T07:24:27.000Z",
-      "fetchedAt": "2026-09-17T08:18:55.286Z"
     }
   ]
 }
