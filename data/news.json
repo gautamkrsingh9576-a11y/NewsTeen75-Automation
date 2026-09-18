@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T20:22:16.934Z",
+  "updatedAt": "2026-09-18T20:36:22.863Z",
   "count": 250,
   "articles": [
     {
@@ -89,6 +89,17 @@
       "sourceUrl": "https://www.business-standard.com/content/press-releases-ani/semi-and-india-deep-tech-alliance-idta-to-launch-india-semiconductor-academy-126091900006_1.html",
       "publishedAt": "2026-09-18T18:40:12.000Z",
       "fetchedAt": "2026-09-18T20:22:14.034Z"
+    },
+    {
+      "id": "877cbe19f0f1ca56",
+      "title": "Private sector financing critical to achieve Viksit Bharat by 2047: DEA Secretary",
+      "summary": "Private sector financing will have to play a critical role in funding India’s transformation towards becoming a developed nation by 2047, Department of Economic",
+      "category": "Business & Finance",
+      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-02-01%2Fzc2oqbd3%2FANI_20260201121612.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "The New Indian Express",
+      "sourceUrl": "https://www.newindianexpress.com/amp/story/business/2026/Sep/18/private-sector-financing-critical-to-achieve-viksit-bharat-by-2047-dea-secretary",
+      "publishedAt": "2026-09-18T18:33:00.000Z",
+      "fetchedAt": "2026-09-18T20:36:21.371Z"
     },
     {
       "id": "6a1754efb0925c08",
@@ -564,6 +575,17 @@
       "fetchedAt": "2026-09-18T15:15:48.974Z"
     },
     {
+      "id": "3439fe081503f188",
+      "title": "Private investment critical for Viksit Bharat financing: Economic Affairs Secretary",
+      "summary": "New Delhi: Private sector investment will have to play a critical role in financing India’s journey towards Viksit Bharat as government budgets alone cannot mee",
+      "category": "Business & Finance",
+      "image": "https://media.assettype.com/psuwatch%2F2026-09-18%2Fqqw3ehfp%2FEconomic-Affairs-Secretary-Anuradha-Thakur.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "PSU Watch",
+      "sourceUrl": "https://psuwatch.com/newsupdates/private-investment-critical-for-viksit-bharat-financing-economic-affairs-secretary",
+      "publishedAt": "2026-09-18T14:42:28.000Z",
+      "fetchedAt": "2026-09-18T20:36:20.831Z"
+    },
+    {
       "id": "26f68bdf0d22498e",
       "title": "No timeline, but Asia Cup trophies will be in India one day: Devajit Saikia",
       "summary": "BCCI secretary Devajit Saikia has assured that India's men's and women's Asia Cup trophies will return to the board's Mumbai headquarters, though he offered no timeline. He also backed the women's team to win Asian Games gold.",
@@ -694,6 +716,17 @@
       "sourceUrl": "https://m.thewire.in/article/ptiprnews/idta-members-invest-approximately-inr-2170-crores-across-56-deep-tech-companies-in-alliances-first-year",
       "publishedAt": "2026-09-18T13:50:50.000Z",
       "fetchedAt": "2026-09-18T15:31:26.385Z"
+    },
+    {
+      "id": "cedfab083227a664",
+      "title": "Sports Ministry reaches out to Indian diaspora to help deal with lodging crisis at Asiad",
+      "summary": "Nagoya, Sep 18 (PTI) Alarmed by the accommodation crisis at the Asian Games, the Sports Ministry has reached out to the Indian diaspora here to “help with the lodging” of athletes in case the shortage of rooms is not resolved during the continental showpiece beginning on Saturday. Several athletes, including…",
+      "category": "Sports",
+      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
+      "source": "ThePrint",
+      "sourceUrl": "https://theprint.in/sport/sports-ministry-reaches-out-to-indian-diaspora-to-help-deal-with-lodging-crisis-at-asiad/3046805/?amp",
+      "publishedAt": "2026-09-18T13:48:38.000Z",
+      "fetchedAt": "2026-09-18T20:36:17.256Z"
     },
     {
       "id": "96440fbb0e24e4a4",
@@ -870,6 +903,17 @@
       "sourceUrl": "https://www.tataelectronics.com/w/tata-electronics%E2%80%AFand%E2%80%AFenomoto-sign-memorandum-of-understanding-to-strengthen-semiconductor-packaging-ecosystem-in-india",
       "publishedAt": "2026-09-18T13:14:17.000Z",
       "fetchedAt": "2026-09-18T14:13:34.606Z"
+    },
+    {
+      "id": "04bd9a5b4f13c7f2",
+      "title": "Top news of the day: September 18, 2026",
+      "summary": "Congress’s Nandigram candidate arrested hours after getting Mamata’s support; Delhi court grants bail to U.S. national in terror-conspiracy case, and more in The Hindu’s top news of September 18, 2026.",
+      "category": "National & Trending News",
+      "image": "https://th-i.thgim.com/public/incoming/x7nkj/article71481040.ece/alternates/LANDSCAPE_1200/Copy%20of%20Untitled%20Design.jpg",
+      "source": "The Hindu",
+      "sourceUrl": "https://www.thehindu.com/news/top-news-of-the-day-september-18-2026/article71480608.ece",
+      "publishedAt": "2026-09-18T13:13:49.000Z",
+      "fetchedAt": "2026-09-18T20:36:22.416Z"
     },
     {
       "id": "9850e1f90cf21a38",
@@ -2707,50 +2751,6 @@
       "sourceUrl": "https://www.indiatoday.in/sports/asian-games/story/asian-games-quimcy-dsouza-india-teqball-medal-semi-final-2997507-2026-09-18",
       "publishedAt": "2026-09-18T07:17:06.000Z",
       "fetchedAt": "2026-09-18T08:06:27.555Z"
-    },
-    {
-      "id": "eb3eee84703d0433",
-      "title": "Microsoft CEO Satya Nadella says India could build world’s largest developer community by 2030",
-      "summary": "Microsoft CEO Satya Nadella has pointed to India’s expanding technology workforce as a potential foundation for the world’s largest developer community by 2030. His comments came as Indian-American technology executives in Seattle explored closer cooperation between India and the US on artificial intelligence, semiconductors, quantum computing, aerospace and advanced manufacturing.",
-      "category": "Technology",
-      "image": "https://images.firstpost.com/uploads/2026/06/Satya-Nadella-from-Build-Confrence-2026-06-f83c9fb1d1d923ffcf5524b6207fcd07.jpg?im=FitAndFill,width=1200,height=675",
-      "source": "Firstpost",
-      "sourceUrl": "https://www.firstpost.com/tech/microsoft-ceo-satya-nadella-says-india-could-build-worlds-largest-developer-community-by-2030-14046818.html/amp",
-      "publishedAt": "2026-09-18T07:08:42.000Z",
-      "fetchedAt": "2026-09-18T07:25:14.017Z"
-    },
-    {
-      "id": "566675d0d78c6264",
-      "title": "L&T Semiconductor Technologies Unveils 40 Products at SEMICON 2026",
-      "summary": "Mumbai, September 18, 2026: L&T Semiconductor Technologies Limited (LTSCT), a wholly-owned subsidiary of Larsen & Toubro, today unveiled 40 of its products at SEMICON India 2026, under the theme “Silicon to Systems: Building the Ecosystem”.",
-      "category": "Technology",
-      "image": "https://2025prodstorageaccount-eqdyc8g8hpccdfez.a02.azurefd.net/ltprod/media/flthlgab/thumb.jpg",
-      "source": "Larsen & Toubro",
-      "sourceUrl": "https://www.larsentoubro.com/pressreleases/2026/2026-09-18-lt-semiconductor-technologies-unveils-40-products-at-semicon-2026",
-      "publishedAt": "2026-09-18T07:06:41.000Z",
-      "fetchedAt": "2026-09-18T18:59:17.747Z"
-    },
-    {
-      "id": "18a88cf1c9023cc3",
-      "title": "My Advisers Expands Technology, Digital Marketing and Business Consulting Services for Startups, SMEs and Entrepreneurs in India - 24-7PressRelease.com",
-      "summary": "September 18, 2026 -- India-based consulting platform combines technology solutions, digital marketing, CRM, web services and business support to help startups, SMEs and entrepreneurs build, manage and grow their businesses online.",
-      "category": "Technology",
-      "image": "https://www.24-7pressrelease.com/assets/attachments/053/press_release_distribution_0538743_237228",
-      "source": "24-7PressRelease.com",
-      "sourceUrl": "https://www.24-7pressrelease.com/press-release/538743/my-advisers-expands-technology-digital-marketing-and-business-consulting-services-for-startups-smes-and-entrepreneurs-in-india",
-      "publishedAt": "2026-09-18T07:04:43.000Z",
-      "fetchedAt": "2026-09-18T07:07:48.174Z"
-    },
-    {
-      "id": "a5c84f0d860a563b",
-      "title": "India hammer Japan by 8 wickets to start Asian Games gold medal defence",
-      "summary": "India hammer Japan by 8 wickets to start Asian Games gold medal defence. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
-      "category": "Sports",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "The Indian Express",
-      "sourceUrl": "https://indianexpress.com/article/sports/cricket/india-beat-japan-8-wickets-asian-games-2026-gold-medal-defence-10883360/",
-      "publishedAt": "2026-09-18T07:03:20.000Z",
-      "fetchedAt": "2026-09-18T07:25:10.506Z"
     }
   ]
 }
