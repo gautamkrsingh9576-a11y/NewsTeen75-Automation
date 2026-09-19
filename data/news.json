@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T05:32:36.120Z",
+  "updatedAt": "2026-09-19T05:44:36.289Z",
   "count": 250,
   "articles": [
     {
@@ -157,6 +157,17 @@
       "fetchedAt": "2026-09-19T04:24:47.052Z"
     },
     {
+      "id": "0580e3190bfbef59",
+      "title": "Plaud Note Pro review: The dictaphone is back with AI, but can you afford to leave it on?",
+      "summary": "Plaud Note Pro review: The dictaphone is back with AI, but can you afford to leave it on?. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
+      "category": "Technology",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "The Indian Express",
+      "sourceUrl": "https://indianexpress.com/article/technology/tech-reviews/plaud-note-pro-review-10884577/",
+      "publishedAt": "2026-09-19T03:46:27.000Z",
+      "fetchedAt": "2026-09-19T05:44:32.276Z"
+    },
+    {
       "id": "b83732e9b0b0f1e4",
       "title": "India and Pakistan could meet in Asian Games medal round — The National",
       "summary": "India and Pakistan could meet in the medal round of the 2026 Asian Games cricket tournament in Japan.",
@@ -287,6 +298,17 @@
       "sourceUrl": "https://www.deccanherald.com/india/karnataka/vtu-offers-pg-courses-in-quantum-technology-electric-vehicle-technology-4151546",
       "publishedAt": "2026-09-19T02:51:19.000Z",
       "fetchedAt": "2026-09-19T03:11:39.428Z"
+    },
+    {
+      "id": "99e381ace8deee74",
+      "title": "Chess Olympiad Round 3: Koneru Humpy downs 'Greek Goddess' Tsolakidou; Gukesh back above 2700",
+      "summary": "On Friday, the Indian women's team, defending champions and unbeaten so far in the tournament, was paired against Greece in Round 3 of the 2026 Chess Olympiad in Samarkand, Uzbekistan. On paper, this looked routine.",
+      "category": "Sports",
+      "image": "https://static.toiimg.com/thumb/msid-134346836,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-round-3-koneru-humpy-downs-greek-goddess-tsolakidou-gukesh-back-above-2700/articleshow/134346470.cms",
+      "publishedAt": "2026-09-19T02:50:00.000Z",
+      "fetchedAt": "2026-09-19T05:44:28.769Z"
     },
     {
       "id": "3a05a58f6989c02f",
@@ -2729,28 +2751,6 @@
       "sourceUrl": "https://indianexpress.com/article/sports/asian-games-india-flag-hoisting-delay-miscommunication-10883579/",
       "publishedAt": "2026-09-18T10:42:51.000Z",
       "fetchedAt": "2026-09-18T10:52:11.460Z"
-    },
-    {
-      "id": "de2843d47e1a4740",
-      "title": "Chile’s national day brings a taste of Santiago to Delhi | Hindustan Times",
-      "summary": "Diplomats and city dignitaries gathered for an evening of Chilean culture capped by a vibrant performance of the Cueca, the country’s national dance.",
-      "category": "National & Trending News",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/18/1600x900/logo/chileindeo_1789727860695_8tC9_1789727865340_pYBO_fc6a3637-933d-457a-a260-f64b44cb5e87_Hqoi.jpg",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/htcity/htcity-delhi-junction/chiles-national-day-brings-a-taste-of-santiago-to-delhi-101789727056805.html",
-      "publishedAt": "2026-09-18T10:39:04.000Z",
-      "fetchedAt": "2026-09-18T14:45:47.083Z"
-    },
-    {
-      "id": "5552258b9755afeb",
-      "title": "Central Board of Film Certification issues new guidelines after nearly 35 years | India News",
-      "summary": "Issued by Ministry of Information and Broadcasting, the guidelines retain existing provisions on violence, obscenity, sexual violence, communal content, national security",
-      "category": "National & Trending News",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/18/1600x900/logo/The-CBFC-had-previously-issued-guidelines-in-Decem_1789727862555_HOQe.jpg",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/india-news/central-board-of-film-certification-issues-new-guidelines-after-nearly-35-years-101789727870387-amp.html",
-      "publishedAt": "2026-09-18T10:37:49.000Z",
-      "fetchedAt": "2026-09-18T15:16:00.747Z"
     }
   ]
 }
