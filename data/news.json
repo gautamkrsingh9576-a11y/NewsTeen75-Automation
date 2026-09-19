@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-19T23:45:04.290Z",
+  "updatedAt": "2026-09-19T23:55:56.136Z",
   "count": 250,
   "articles": [
+    {
+      "id": "c95228a814bb6cae",
+      "title": "Asian Games 2026 LIVE UPDATES Day 1: Shooting event starts at 6:15 am; hockey starts at 7:30",
+      "summary": "Asiad 2026 LIVE NEWS UPDATES: India will take part in two medal events early on Day 1 through the women's singles and mixed doubles bronze-medal matches in teqball",
+      "category": "Sports",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/19/thumb/featurecrop/1200X628/1789812133-8912.jpg",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/sports/asian-games/asian-games-2026-live-india-cricket-live-score-table-tennis-badminton-teqball-medal-shooting-india-vs-bangladesh-semifinal-cricket-hockey-live-updates-streaming-asiad-news-126091900498_1.html",
+      "publishedAt": "2026-09-19T23:44:27.000Z",
+      "fetchedAt": "2026-09-19T23:55:48.108Z"
+    },
     {
       "id": "ed02448ea805d371",
       "title": "India at Asian Games Live updates for September 20: Can India bag their first medal?",
@@ -2740,17 +2751,6 @@
       "sourceUrl": "https://www.thestatesman.com/business/indias-chip-push-gathers-pace-25-semicon-deals-target-gases-chemicals-packaging-and-power-electronics-1503640422.html",
       "publishedAt": "2026-09-19T07:51:00.000Z",
       "fetchedAt": "2026-09-19T10:34:11.357Z"
-    },
-    {
-      "id": "4b0566ac09b8e380",
-      "title": "India men's cricket team dealing with clothing issue ahead of departure for Asian Games",
-      "summary": "India men's cricket team dealing with clothing issue ahead of departure for Asian Games. This update was reported by Udayavani. Open the original report for full context and any developing updates.",
-      "category": "Sports",
-      "image": "https://d3jde0c4xcko0v.cloudfront.net/production/19-09-26/news/60g4r8mu8019l2FotoJet%20-%202026-09-19T115053.220.webp",
-      "source": "Udayavani",
-      "sourceUrl": "https://udayavani.com/sports/india-mens-cricket-team-dealing-with-clothing-issue-ahead-of-departure-for-asian-games-857351?lang=en",
-      "publishedAt": "2026-09-19T07:47:36.000Z",
-      "fetchedAt": "2026-09-19T11:26:31.299Z"
     }
   ]
 }
