@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-19T15:25:26.577Z",
+  "updatedAt": "2026-09-19T15:38:49.541Z",
   "count": 250,
   "articles": [
+    {
+      "id": "2abe0dcfa447f8f9",
+      "title": "Karnataka Woman Bludgeoned To Death With Stone, 2-Year-Old Daughter Found Crying Beside Her Body",
+      "summary": "Police are questioning the suspects to determine what led to Sneha’s death and whether the alleged affair had any connection to the crime.",
+      "category": "Crime & Breaking News",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/07/murder-case-crime-scene-2026-07-ebfe80441dd6464bc62df99549d292e9-1200x675.png",
+      "source": "News18",
+      "sourceUrl": "https://www.news18.com/amp/india/karnataka-woman-bludgeoned-to-death-with-stone-2-year-old-daughter-found-crying-beside-her-body-10341644.html",
+      "publishedAt": "2026-09-19T15:32:09.000Z",
+      "fetchedAt": "2026-09-19T15:38:38.512Z"
+    },
     {
       "id": "85b2913c491a10c7",
       "title": "Asian Games 2026 Day 2, September 20: India’s full schedule, venue, fixtures & time",
@@ -12,6 +23,17 @@
       "sourceUrl": "https://indianexpress.com/article/sports/asian-games-2026-day-2-india-full-schedule-fixtures-aichi-nagoya-10885257/",
       "publishedAt": "2026-09-19T15:01:12.000Z",
       "fetchedAt": "2026-09-19T15:10:29.422Z"
+    },
+    {
+      "id": "ccc68f49fdb6ecfb",
+      "title": "Explained: Why India can't wear their regular jersey for Asian Games matches",
+      "summary": "Fans were quick to notice that India wasn't wearing its regular jersey for the ongoing Asian Games, and here's the reason why",
+      "category": "Sports",
+      "image": "https://s.yimg.com/lo/mysterio/api/191fa28ae6ecb793b90fda97524880a287b5bd51a65dd7b02042097cc8023849/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F4723fbea4e8bb0e21bc7a1143aeea4d9",
+      "source": "Yahoo Sports",
+      "sourceUrl": "https://sports.yahoo.com/articles/explained-why-india-cant-wear-145152566.html",
+      "publishedAt": "2026-09-19T14:51:52.000Z",
+      "fetchedAt": "2026-09-19T15:38:39.529Z"
     },
     {
       "id": "46cba894aec91107",
@@ -80,6 +102,17 @@
       "fetchedAt": "2026-09-19T14:54:59.464Z"
     },
     {
+      "id": "9ac263e008022013",
+      "title": "BPCL named Team India Principal Partner for Asian Games 2026",
+      "summary": "BPCL named Team India Principal Partner for Asian Games 2026. This update was reported by Indian Sports Home. Open the original report for full context and any developing updates.",
+      "category": "Sports",
+      "image": "https://thebridge.in/h-upload/2026/09/19/66959-cwg-d10-17-1.jpg",
+      "source": "Indian Sports Home",
+      "sourceUrl": "https://thebridge.in/amp/asian-games/bpcl-backs-team-india-as-principal-partner-at-asian-games-2026-57674",
+      "publishedAt": "2026-09-19T14:33:01.000Z",
+      "fetchedAt": "2026-09-19T15:38:40.755Z"
+    },
+    {
       "id": "6bbb78dfaf7aa759",
       "title": "Asian Games schedule for Sunday, September 20: Medal events, match timings and more",
       "summary": "Asian Games 2026: India's schedule on Sunday, September 20, features several high-profile contests and medal opportunities, with the women's cricket semifinal against Bangladesh, hockey clashes against Uzbekistan and Indonesia, and two teqball bronze-medal matches among the key events.",
@@ -113,6 +146,17 @@
       "fetchedAt": "2026-09-19T14:32:08.022Z"
     },
     {
+      "id": "bedabc691fe3635c",
+      "title": "Taped out on Republic Day, working by Independence Day: India unveils its first home-designed broadband chip, Vihaan-I",
+      "summary": "Chennai startup Aheesa's Vihaan-I, built on RISC-V and C-DAC's VEGA processor, targets the imported silicon that runs most of India's internet equipment. Commercial rollout is planned for early 2027",
+      "category": "Technology",
+      "image": "https://cdn1.expresscomputer.in/wp-content/uploads/2026/09/19194642/Aheesa-unveils-its-Vihaan-I-semiconductor-chip-in-the-presence-of-Union-Minister-Shri-Ashwini-Vaishnaw-at-Semicon-India-2026-.jpg",
+      "source": "Express Computer",
+      "sourceUrl": "https://www.expresscomputer.in/news/taped-out-on-republic-day-working-by-independence-day-india-unveils-its-first-home-designed-broadband-chip-vihaan-i/138906/",
+      "publishedAt": "2026-09-19T14:18:06.000Z",
+      "fetchedAt": "2026-09-19T15:38:46.125Z"
+    },
+    {
       "id": "11a543fc36c1e4ee",
       "title": "TVK govt gets a warning from ally CPI(M) over new Secretariat near Marina Beach, says it will 'stop work'",
       "summary": "Tamil Nadu Secretariat: CPIM protests against the proposed government complex near Marina Beach, citing environmental concerns and livelihood threats for local fisherfolk in Chennai.",
@@ -144,6 +188,17 @@
       "sourceUrl": "https://m.rediff.com/amp/sports/report/pm-modi-extends-best-wishes-to-indian-contingent-at-asian-games/20260919.htm",
       "publishedAt": "2026-09-19T13:47:26.000Z",
       "fetchedAt": "2026-09-19T15:10:29.176Z"
+    },
+    {
+      "id": "86337bd5cc46c9c0",
+      "title": "Madhya Pradesh govt 'terrified' of 'Chhatron ki Goonj': Congress ahead of Rahul Gandhi's Indore event",
+      "summary": "MP student protest: Congress claims the Madhya Pradesh government is terrified of Rahul Gandhi attending the Chhatron ki Goonj event in Indore, citing education crisis and Vyapam scam.",
+      "category": "Politics & Government",
+      "image": "https://cf-images.assettype.com/deccanherald%2F2026-06-17%2Ffso6mfp9%2Ffile86bw8njd2id4fzru6pb.jpg?rect=0%2C0%2C600%2C315&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "Deccan Herald",
+      "sourceUrl": "https://www.deccanherald.com/amp/story/india/madhya-pradesh/madhya-pradesh-govt-terrified-of-chhatron-ki-goonj-congress-ahead-of-rahul-gandhis-indore-event-4152093",
+      "publishedAt": "2026-09-19T13:47:00.000Z",
+      "fetchedAt": "2026-09-19T15:38:35.539Z"
     },
     {
       "id": "403053b441aac8ff",
@@ -2696,61 +2751,6 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/us-national-gets-default-bail-in-terror-case/articleshow/134346161.cms",
       "publishedAt": "2026-09-19T01:02:00.000Z",
       "fetchedAt": "2026-09-19T01:19:33.007Z"
-    },
-    {
-      "id": "3956fee8d4ec4c5e",
-      "title": "Biopic to be made on Lalit Modi: Ranveer Singh shows interest in playing the role; Sajid Nadiadwala to prod...",
-      "summary": "Follow Bhaskar English for latest updates on Lalit Modi biopic news. A film is being made on the life of Indian Premier League (IPL) founder Lalit Modi. According to a report by Pinkvilla, Sajid Nadiadwala will produce the biopic under his banner, Nadiadwala Grandson Entertainment.",
-      "category": "Entertainment",
-      "image": "https://images.bhaskarassets.com/thumb/730x0/web2images/1884/2026/09/18/dbgifmagic__60_1789741848626.gif",
-      "source": "Bhaskar English",
-      "sourceUrl": "https://www.bhaskarenglish.in/entertainment/news/lalit-modi-biopic-ranveer-singh-sajid-nadiadwala-ipl-movie-139074809.html",
-      "publishedAt": "2026-09-19T01:00:24.000Z",
-      "fetchedAt": "2026-09-19T05:55:38.931Z"
-    },
-    {
-      "id": "3956fee8d4ec4c5e",
-      "title": "Biopic on Lalit Modi in the Works: Ranveer Singh Has Shown Interest in Playing the Role; Sajid Nadiadwala W...",
-      "summary": "Follow Bhaskar English for latest updates on Lalit Modi biopic news. A film is being made on the life of Indian Premier League (IPL) founder Lalit Modi. According to a report by Pinkvilla, Sajid Nadiadwala will produce the biopic under his banner, Nadiadwala Grandson Entertainment.",
-      "category": "Entertainment",
-      "image": "https://images.bhaskarassets.com/thumb/730x0/web2images/1884/2026/09/18/dbgifmagic__60_1789741848626.gif",
-      "source": "Bhaskar English",
-      "sourceUrl": "https://www.bhaskarenglish.in/entertainment/news/lalit-modi-biopic-ranveer-singh-sajid-nadiadwala-ipl-movie-139074809.html",
-      "publishedAt": "2026-09-19T01:00:24.000Z",
-      "fetchedAt": "2026-09-19T02:15:24.086Z"
-    },
-    {
-      "id": "b67cfd998e3a6131",
-      "title": "Asian Games 2026 preview: India aims to surpass record 106-medal tally in Japan",
-      "summary": "Asian Games 2026 preview: India aims to surpass record 106-medal tally in Japan. This update was reported by The Federal. Open the original report for full context and any developing updates.",
-      "category": "Sports",
-      "image": "https://thefederal.com/h-upload/2026/09/18/632196-india-asian-games-2026.jpg",
-      "source": "The Federal",
-      "sourceUrl": "https://thefederal.com/category/sports/asian-games-2026-preview-japan-india-eye-record-haul-257023",
-      "publishedAt": "2026-09-19T01:00:00.000Z",
-      "fetchedAt": "2026-09-19T02:30:31.938Z"
-    },
-    {
-      "id": "51d8adeb6ee37520",
-      "title": "The 54 Best TV Shows on Amazon Prime Video Right Now (September 2026)",
-      "summary": "The 54 Best TV Shows on Amazon Prime Video Right Now (September 2026). This update was reported by TVGuide.com. Open the original report for full context and any developing updates.",
-      "category": "Crime & Breaking News",
-      "image": "https://www.tvguide.com/a/img/resize/bfc56c6631ab930bd038527ac4e999d9b32a03f4/hub/2026/09/18/53c7b1d9-b8b8-4d76-985a-9a0ebee8f078/rspi-s1-ut-103-250317-lansab-00086r-cropc2-3000.jpg?auto=webp",
-      "source": "TVGuide.com",
-      "sourceUrl": "https://www.tvguide.com/news/best-tv-shows-on-amazon-prime-video/",
-      "publishedAt": "2026-09-19T00:58:00.000Z",
-      "fetchedAt": "2026-09-19T04:24:39.987Z"
-    },
-    {
-      "id": "50d5f7a7bc01fed2",
-      "title": "Pawan Sehrawat replaces Tajinderpal Singh Toor as India's Asian Games flag-bearer",
-      "summary": "The Times of India brings the Latest & Top Breaking News on Politics and Current Affairs in India & around the World, Cricket, Sports, Business, Bollywood News and Entertainment, Science, Technology, Health & Fitness news & opinions from leading columnists.",
-      "category": "Sports",
-      "image": "https://static.toiimg.com/thumb/msid-134346127,width-1280,height-720,imgsize-39704,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/pawan-sehrawat-replaces-tajinderpal-singh-toor-as-indias-asian-games-flag-bearer/amp_articleshow/134346121.cms",
-      "publishedAt": "2026-09-19T00:53:00.000Z",
-      "fetchedAt": "2026-09-19T03:11:33.297Z"
     }
   ]
 }
