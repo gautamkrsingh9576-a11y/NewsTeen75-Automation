@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-19T07:32:19.601Z",
+  "updatedAt": "2026-09-19T07:44:56.137Z",
   "count": 250,
   "articles": [
+    {
+      "id": "ef19394d6a0a4cb5",
+      "title": "Santosh Davakhar reacts to ‘Gondhal’ being chosen as India’s official entry for Oscar 2027 entry: ‘We wer",
+      "summary": "Director Santosh Davakhar has reacted to his Marathi thriller ‘Gondhal’ being selected as India’s official entry for the 2027 Academy Awards. The Film Federation of India (FFI) chose the film for the Best International Feature Film category from 33 submissions.",
+      "category": "Entertainment",
+      "image": "https://static.toiimg.com/thumb/msid-134350108,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/marathi/movies/news/santosh-davakhar-reacts-to-gondhal-being-chosen-as-indias-official-entry-for-oscar-2027-entry-we-were-confident-while-making-and-submitting-the-film/articleshow/134350086.cms",
+      "publishedAt": "2026-09-19T07:38:00.000Z",
+      "fetchedAt": "2026-09-19T07:44:46.931Z"
+    },
     {
       "id": "ab26841ce997d692",
       "title": "Asian Games: Which sport has won India the most medals?",
@@ -56,6 +67,17 @@
       "sourceUrl": "https://www.nationalheraldindia.com/entertainment/we-were-confident-santosh-davakhar-on-gondhal-being-indias-oscar-entry",
       "publishedAt": "2026-09-19T07:02:24.000Z",
       "fetchedAt": "2026-09-19T07:19:37.722Z"
+    },
+    {
+      "id": "6ac3b92025e2e29c",
+      "title": "Asian Games: India's men's cricket team faces kit delays before Nagoya trip",
+      "summary": "India's men's cricket team is dealing with kit-sizing issues ahead of its Asian Games departure, with some players still awaiting the correct jerseys. The problem comes after Tajinderpal Singh Toor's similar kit delay forced a late change to India's flag-bearer.",
+      "category": "Sports",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/shreyas-iyer-13415926-16x9_0.jpg?VersionId=9ZhKK_QIXi00GE0dNeTK5859cG6TMp0j",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/sports/asian-games/story/asian-games-india-mens-cricket-team-kit-delay-nagoya-departure-2998176-2026-09-19",
+      "publishedAt": "2026-09-19T06:42:58.000Z",
+      "fetchedAt": "2026-09-19T07:44:45.959Z"
     },
     {
       "id": "1197af9ee1d364a8",
@@ -221,6 +243,17 @@
       "sourceUrl": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/us-bought-nearly-120-billion-of-india-s-software-services-in-fy26-share-rose-to-54-1-14033353.html",
       "publishedAt": "2026-09-19T05:46:42.000Z",
       "fetchedAt": "2026-09-19T07:19:39.283Z"
+    },
+    {
+      "id": "56c0d8f129dd55ca",
+      "title": "Nitish Kumar gave up CM's post on his own, BJP didn't ask him to do so: Samrat Choudhary",
+      "summary": "Bihar Chief Minister Samrat Choudhary clarifies that former leader Nitish Kumar surrendered his post voluntarily, dismissing claims of any BJP pressure. He highlights past political alliances, state governance, law and order priorities, and ongoing flood relief measures.",
+      "category": "Politics & Government",
+      "image": "https://cf-images.assettype.com/deccanherald%2F2026-04-14%2Fzccfx0ih%2Fdeccanherald2026-04-14covlf8macrash-9.avif?rect=0%2C0%2C900%2C473&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "deccanherald.com",
+      "sourceUrl": "https://www.deccanherald.com/amp/story/india/bihar/nitish-kumar-gave-up-cms-post-on-his-own-bjp-didnt-ask-him-to-do-so-samrat-choudhary-4151403",
+      "publishedAt": "2026-09-19T05:27:00.000Z",
+      "fetchedAt": "2026-09-19T07:44:43.724Z"
     },
     {
       "id": "ff4254477e6d1ce4",
@@ -2467,6 +2500,17 @@
       "fetchedAt": "2026-09-18T13:44:42.939Z"
     },
     {
+      "id": "c8436b402b60a364",
+      "title": "National HRD Network Condemns the Manesar Violence and killing of Maruti's HR",
+      "summary": "The National HRD Network, an organization representing the HR professionals in India, has strongly deplored the act of violence and the senseless killing of a m",
+      "category": "National & Trending News",
+      "image": "https://stimg2.cardekho.com/images/carNewsimages/userimages/8305/Maruti.jpg",
+      "source": "CarDekho",
+      "sourceUrl": "https://www.cardekho.com/news/general/national-hrd-network-condemns-the-manesar-violence-and-killing-of-marutis-hr-8306.htm?amp=1",
+      "publishedAt": "2026-09-18T12:29:00.000Z",
+      "fetchedAt": "2026-09-19T07:44:54.601Z"
+    },
+    {
       "id": "150362b0cfbe0a11",
       "title": "All athletes taken care of: How India swiftly solved the accommodation crisis in Asian Games",
       "summary": "Asian Games: India have swiftly addressed the accommodation crisis faced by its athletes in Nagoya. After 30 to 35 names were removed from the accommodation list, the authorities booked additional hotel rooms to ensure all affected personnel were taken care of.",
@@ -2707,50 +2751,6 @@
       "sourceUrl": "https://www.hindustantimes.com/india-news/bjp-chief-nitin-nabin-donates-3-months-mp-salary-to-bihar-cm-relief-fund-101789731692250.html",
       "publishedAt": "2026-09-18T11:50:26.000Z",
       "fetchedAt": "2026-09-18T18:59:21.585Z"
-    },
-    {
-      "id": "7516ced27e0f4489",
-      "title": "India’s semiconductor opportunity",
-      "summary": "Building talent, innovation, supplier ecosystems and manufacturing capabilities can strengthen India's semiconductor ecosystem",
-      "category": "Technology",
-      "image": "https://assets.kpmg.com/is/image/kpmgcloud/thumbnail-indias-semiconductor-opportunity",
-      "source": "kpmg.com",
-      "sourceUrl": "https://kpmg.com/in/en/insights/2026/09/indias-semiconductor-opportunity.html",
-      "publishedAt": "2026-09-18T11:48:58.000Z",
-      "fetchedAt": "2026-09-18T11:59:25.645Z"
-    },
-    {
-      "id": "dc19de632a177341",
-      "title": "Who Is Quimcy Dsouza? Indian Teqball pro on brink of making Asian Games history",
-      "summary": "India’s Quimcy Joaquim Dsouza stormed into the women’s singles semifinal at the 2026 Asian Games, moving within one win of securing a historic Teqball medal for the country.",
-      "category": "Sports",
-      "image": "https://images.firstpost.com/uploads/2026/09/BeFunky-collage-2026-09-18T171118.192-2026-09-17fb68845b9bab4933bd2f73d7a4dbbf.jpg?im=FitAndFill,width=1200,height=675",
-      "source": "Firstpost",
-      "sourceUrl": "https://www.firstpost.com/sports/who-is-quimcy-dsouza-indian-teqball-pro-on-brink-of-making-asian-games-history-14046881.html",
-      "publishedAt": "2026-09-18T11:47:32.000Z",
-      "fetchedAt": "2026-09-18T12:22:33.578Z"
-    },
-    {
-      "id": "93919332d50a1ea6",
-      "title": "What's new on OTT this week? 8 releases to spice up your watchlist",
-      "summary": "This week’s OTT line-up brings together romance, seduction, family conflict, survival action and stand-up comedy. The mix offers viewers a broad range of moods and genres across streaming platforms.",
-      "category": "Entertainment",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/ott-releases-of-the-week-184225408-16x9_0.jpg?VersionId=XyKL7J_IGJmZYUSGBTpDQb6VWYIjkngl",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/entertainment/ott/story/ott-releases-this-week-family-drama-survival-action-seduction-thrillers-stand-up-2997713-2026-09-18",
-      "publishedAt": "2026-09-18T11:46:31.000Z",
-      "fetchedAt": "2026-09-18T11:59:23.306Z"
-    },
-    {
-      "id": "5418482bb56016ce",
-      "title": "MA Political Science Course in India: Jobs, Salary and Future Scope",
-      "summary": "College Mentor connects you with Mentors who share their experiences, provide insights, educational content and inspire you to reach for the stars",
-      "category": "Politics & Government",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EPolitics%20%26amp%3B%20Government%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "College Mentor",
-      "sourceUrl": "https://www.collegementor.com/blogs/ma-political-science-course-in-india",
-      "publishedAt": "2026-09-18T11:46:26.000Z",
-      "fetchedAt": "2026-09-19T07:32:08.907Z"
     }
   ]
 }
