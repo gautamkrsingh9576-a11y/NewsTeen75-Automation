@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-19T03:53:41.820Z",
+  "updatedAt": "2026-09-19T04:08:16.738Z",
   "count": 250,
   "articles": [
+    {
+      "id": "da510166e8c1a090",
+      "title": "Yuvraj Singh's 6 sixes off Stuart Broad: 19 years of an historic T20I moment",
+      "summary": "Yuvraj Singh's six sixes off Stuart Broad on 19 September 2007 remain one of Indian cricket's most iconic moments. Nineteen years later, that over still stands as a benchmark for fearless T20 hitting.",
+      "category": "Sports",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/yuvraj-singh-190202446-16x9_0.png?VersionId=3HN5EdHV40AiKYd8F1ShZo7Whho7ULDq",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/sports/cricket/story/yuvraj-singh-six-sixes-stuart-broad-19-years-t20-world-cup-2007-on-this-day-2998105-2026-09-19",
+      "publishedAt": "2026-09-19T04:02:33.000Z",
+      "fetchedAt": "2026-09-19T04:08:08.988Z"
+    },
     {
       "id": "b83732e9b0b0f1e4",
       "title": "India and Pakistan could meet in Asian Games medal round — The National",
@@ -12,6 +23,17 @@
       "sourceUrl": "https://ua.news/en/sport/indiia-ta-pakistan-mozhut-zigrati-v-medalnomu-raundi-aziiskikh-igor-the-national",
       "publishedAt": "2026-09-19T03:40:15.000Z",
       "fetchedAt": "2026-09-19T03:53:32.335Z"
+    },
+    {
+      "id": "c14e0a832e27edeb",
+      "title": "New Zealand star's India series participation in doubt after freak injury",
+      "summary": "Rachin Ravindra's availability for New Zealand's upcoming five-match T20I series against India has been thrown into doubt after he dislocated his right shoulder during a promotional shoot in Auckland.",
+      "category": "Sports",
+      "image": "https://static.toiimg.com/thumb/msid-134347205,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/new-zealand-stars-india-series-participation-in-doubt-after-freak-injury/articleshow/134347172.cms",
+      "publishedAt": "2026-09-19T03:26:00.000Z",
+      "fetchedAt": "2026-09-19T04:08:08.774Z"
     },
     {
       "id": "02bd1b28bf030e6b",
@@ -47,6 +69,17 @@
       "fetchedAt": "2026-09-19T03:27:25.175Z"
     },
     {
+      "id": "db324698b0f7da76",
+      "title": "Quote of the Day by Vikram Sarabhai: We must be second to none in the application of advanced...",
+      "summary": "Vikram Sarabhai’s oft-cited quote set out his view that advanced technology must address real social needs. It continues to reflect the purpose behind India’s space programme and its development focus.",
+      "category": "Technology",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/from-the-india-today-archives-2008--vikram-sarabhai-master-mind-111712367-16x9.png?VersionId=qGeh7nWm955NLdWcqGCMUyjNcQTAQcjd",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/amp/education-today/news/story/quote-of-the-day-by-vikram-sarabhai-we-must-be-second-to-none-in-the-application-of-advanced-2997942-2026-09-19",
+      "publishedAt": "2026-09-19T03:00:00.000Z",
+      "fetchedAt": "2026-09-19T04:08:11.173Z"
+    },
+    {
       "id": "cb06dd9956fb1430",
       "title": "VTU offers PG courses in Quantum Technology & Electric Vehicle Technology",
       "summary": "VTU MTech courses: Visvesvaraya Technological University introduces new postgraduate programmes in Quantum Technology and Electric Vehicle Technology at its Bengaluru regional centre for students.",
@@ -80,6 +113,17 @@
       "fetchedAt": "2026-09-19T02:44:32.908Z"
     },
     {
+      "id": "f95f79f9d5a89b24",
+      "title": "Family Full House Attracts Brands Ahead of Premiere",
+      "summary": "Family Full House with Rohit Sharma attracts major brands ahead of its Sony Entertainment Television premiere, highlighting strong advertiser interest.",
+      "category": "Entertainment",
+      "image": "https://pimwp.s3-accelerate.amazonaws.com/2026/09/Family-Full-House-with-Rohit-Sharma-emerges-as-a-brand-magnet-ahead-of-its-premiere-on-Sony-Entertainment-Television.webp",
+      "source": "Passionate In Marketing",
+      "sourceUrl": "https://www.passionateinmarketing.com/family-full-house-with-rohit-sharma-emerges-as-a-brand-magnet-ahead-of-its-premiere-on-sony-entertainment-television/",
+      "publishedAt": "2026-09-19T02:11:38.000Z",
+      "fetchedAt": "2026-09-19T04:08:09.708Z"
+    },
+    {
       "id": "746cccb3ae79c87c",
       "title": "France's Naval Group and India's Nibe sign MoU for cooperation in modern naval technologies in shipbuildi",
       "summary": "News News: NEW DELHI: France's Naval Group and India's Nibe Ltd along with its group companies on Friday established a strategic partnership to strengthen India’.",
@@ -100,6 +144,17 @@
       "sourceUrl": "https://www.greaterkashmir.com/sports/khyber-cement-kashmir-super-league-2026-athwas-india-xi-crowned-league-winners-12550776",
       "publishedAt": "2026-09-19T02:02:14.000Z",
       "fetchedAt": "2026-09-19T02:55:08.626Z"
+    },
+    {
+      "id": "1b298265545bced1",
+      "title": "India globally competitive in chips: Ashwini Vaishnaw",
+      "summary": "Speaking to the press on the sidelines of the annual Semicon India Summit 2026 in the capital, Vaishnaw said the growth of the ecosystem in India has given the government confidence that more than 100,000 new jobs will easily be created in the semiconductor industry in the near future.",
+      "category": "Technology",
+      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-189120,resizemode-75,msid-134346379/tech/technology/india-globally-competitive-in-chips-ashwini-vaishnaw.jpg",
+      "source": "The Economic Times",
+      "sourceUrl": "https://economictimes.indiatimes.com/tech/technology/india-globally-competitive-in-chips-ashwini-vaishnaw/articleshow/134346379.cms?UTM_Source=Google_Newsstand&UTM_Campaign=RSS_Feed&UTM_Medium=Referral&from=mdr",
+      "publishedAt": "2026-09-19T01:55:22.000Z",
+      "fetchedAt": "2026-09-19T04:08:12.024Z"
     },
     {
       "id": "9cefd87a3f8ce2f2",
@@ -388,6 +443,17 @@
       "fetchedAt": "2026-09-18T19:52:28.033Z"
     },
     {
+      "id": "9f644af904e9c723",
+      "title": "Executive's murder in Gurgaon: Haryana Police denies family’s charges, autopsy report says drowning cause",
+      "summary": "Haryana Police on Friday denied allegations of procedural lapses raised by the family of 31-year-old realty firm executive Yuvraj Manchanda, who was allegedly murdered by a former colleague and her partner.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134346327,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/gurgaon/haryana-police-denies-realty-exec-familys-charges/articleshow/134343265.cms",
+      "publishedAt": "2026-09-18T19:08:00.000Z",
+      "fetchedAt": "2026-09-19T04:08:08.085Z"
+    },
+    {
       "id": "278be838ada0a224",
       "title": "Statement by Junior Minister For Financial Services, Economic Development And Digital Transformation Honourable Lorna G. Smith OBE At the Press Conference on Inaugural VI-India Financial Services Trade Mission and YOUR Constitution | GOV.VG",
       "summary": "The level of engagement was high and as the Premier said, meeting senior Indian Government Ministers and officials was a real demonstration of the weight we carry as a government on the world stage. This morning I would like to focus specifically on what this mission means for our financial…",
@@ -397,6 +463,17 @@
       "sourceUrl": "https://gov.vg/news/statement-junior-minister-financial-services-economic-development-and-digital-transformation-0",
       "publishedAt": "2026-09-18T19:08:00.000Z",
       "fetchedAt": "2026-09-18T23:43:08.714Z"
+    },
+    {
+      "id": "b5e3ed60eca80ccd",
+      "title": "GIFT City signs MoU with Vietnam’s Da Nang financial hub to boost investment",
+      "summary": "GIFT City signs MoU with Vietnam’s Da Nang financial hub to boost investment. This update was reported by DD News. Open the original report for full context and any developing updates.",
+      "category": "Business & Finance",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EBusiness%20%26amp%3B%20Finance%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "DD News",
+      "sourceUrl": "https://ddnews.gov.in/en/gift-city-signs-mou-with-vietnams-da-nang-financial-hub-to-boost-investment/",
+      "publishedAt": "2026-09-18T19:05:24.000Z",
+      "fetchedAt": "2026-09-19T04:08:13.498Z"
     },
     {
       "id": "baefa0cbf95deef1",
@@ -2674,83 +2751,6 @@
       "sourceUrl": "https://www.indiatoday.in/sports/asian-games/story/asian-games-india-lose-indonesia-men-soft-tennis-quarterfinals-2997630-2026-09-18",
       "publishedAt": "2026-09-18T09:52:34.000Z",
       "fetchedAt": "2026-09-18T11:05:30.220Z"
-    },
-    {
-      "id": "90f8eb943a3cdd37",
-      "title": "20-year-old man kills friend over dispute in Delhi, hides body in a trunk; arrested from Maharashtra | India News",
-      "summary": "The Delhi police arrested the accused, identified as Rakesh, from Maharashtra’s Chhatrapati Sambhajinagar on Thursday after a sustained investigation.",
-      "category": "Crime & Breaking News",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/18/1600x900/logo/Traffic-South-ex-7_1771819583817_1771819612318_1789713261281_5Olt_861e806e-bd68-478c-8158-1221a4c4a924_Z9Qm.jpg",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/india-news/20yearold-man-kills-friend-over-dispute-in-delhi-hides-body-in-a-trunk-arrested-from-maharashtra-101789713020200-amp.html",
-      "publishedAt": "2026-09-18T09:51:51.000Z",
-      "fetchedAt": "2026-09-18T11:36:01.289Z"
-    },
-    {
-      "id": "40e5f5ce8db4d89c",
-      "title": "Myanmar terror training case: Delhi court grants default bail to US national Matthew VanDyke",
-      "summary": "Van Dyke’s plea specifically relied on the delay in completing the investigation within the legally prescribed period, forming the basis for his claim to default bail.",
-      "category": "National & Trending News",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/03/20260320145559_Matthew-Aaron-VanDyke.jpg",
-      "source": "Moneycontrol.com",
-      "sourceUrl": "https://www.moneycontrol.com/news/india/myanmar-terror-training-case-delhi-court-grants-default-bail-to-us-national-matthew-vandyke-14033000.html/amp",
-      "publishedAt": "2026-09-18T09:44:42.000Z",
-      "fetchedAt": "2026-09-18T11:22:05.111Z"
-    },
-    {
-      "id": "0b888e2bac141d46",
-      "title": "PNC Media and Entertainment (NSE:PNC): Has Season 2 of The Royals Begun Filming?",
-      "summary": "PNC Media and Entertainment (NSE:PNC): Has Season 2 of The Royals Begun Filming?. This update was reported by Kalkine India. Open the original report for full context and any developing updates.",
-      "category": "Entertainment",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EEntertainment%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "Kalkine India",
-      "sourceUrl": "https://www.kalkine.co.in/article/announcements/pnc-media-and-entertainment-nsepnc-has-season-2-of-the-royals-begun-filming",
-      "publishedAt": "2026-09-18T09:43:00.000Z",
-      "fetchedAt": "2026-09-18T14:30:03.923Z"
-    },
-    {
-      "id": "e07ee51ed151a5cc",
-      "title": "Asian Games 2026 opening ceremony: When and where to watch live in India",
-      "summary": "The Asian Games 2026 officially begin in Aichi-Nagoya, Japan, on Saturday, September 19, with India aiming to improve on its record medal haul from the previous edition in Hangzhou.",
-      "category": "Sports",
-      "image": "https://static.toiimg.com/thumb/msid-134331348,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-opening-ceremony-when-and-where-to-watch-live-in-india/articleshow/134331225.cms",
-      "publishedAt": "2026-09-18T09:41:00.000Z",
-      "fetchedAt": "2026-09-18T09:53:10.335Z"
-    },
-    {
-      "id": "3dea2c212ff3bb11",
-      "title": "Asiad 2026: Will India win 30 medals? Athletics tally in previous edition - business-standard.com",
-      "summary": "Athletics is India's largest discipline at the Aichi-Nagoya Games, with the AFI selecting 77 athletes, including 34 men and 43 women",
-      "category": "Sports",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/22/thumb/fitandfill/1200X628/1787377977-5182.JPG",
-      "source": "business-standard.com",
-      "sourceUrl": "https://www.business-standard.com/sports/asian-games/asiad-2026-will-india-win-30-medals-athletics-tally-in-previous-edition-126091800679_1.html",
-      "publishedAt": "2026-09-18T09:40:33.000Z",
-      "fetchedAt": "2026-09-18T11:05:29.848Z"
-    },
-    {
-      "id": "3dea2c212ff3bb11",
-      "title": "Asiad 2026: Will India win 30 medals? Athletics tally in previous edition",
-      "summary": "Athletics is India's largest discipline at the Aichi-Nagoya Games, with the AFI selecting 77 athletes, including 34 men and 43 women",
-      "category": "Sports",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/22/thumb/fitandfill/1200X628/1787377977-5182.JPG",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/sports/asian-games/asiad-2026-will-india-win-30-medals-athletics-tally-in-previous-edition-126091800679_1.html",
-      "publishedAt": "2026-09-18T09:40:33.000Z",
-      "fetchedAt": "2026-09-18T10:25:05.908Z"
-    },
-    {
-      "id": "fe1f35da472a794e",
-      "title": "Kramer Brings its Complete AV Ecosystem to Life at InfoComm India 2026",
-      "summary": "Kramer Brings its Complete AV Ecosystem to Life at InfoComm India 2026. This update was reported by India Technology News. Open the original report for full context and any developing updates.",
-      "category": "Technology",
-      "image": "https://indiatechnologynews.in/wp-content/uploads/2026/09/Media-5.jpg",
-      "source": "India Technology News",
-      "sourceUrl": "https://indiatechnologynews.in/kramer-brings-its-complete-av-ecosystem-to-life-at-infocomm-india-2026/",
-      "publishedAt": "2026-09-18T09:39:04.000Z",
-      "fetchedAt": "2026-09-18T09:41:17.316Z"
     }
   ]
 }
