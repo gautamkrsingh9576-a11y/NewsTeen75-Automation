@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T21:49:43.815Z",
+  "updatedAt": "2026-09-19T21:59:57.525Z",
   "count": 250,
   "articles": [
     {
@@ -25,6 +25,17 @@
       "fetchedAt": "2026-09-19T21:25:00.321Z"
     },
     {
+      "id": "637e9ca4dc5e22dc",
+      "title": "Nvidia CEO Jensen Huang Urges India to Move Faster on AI",
+      "summary": "Chapel Hill, N.C. — Nvidia CEO Jensen Huang said India should move quickly to capitalize on artificial intelligence, pointing to the country’s strength in information technology and urging Indian companies &hellip;",
+      "category": "Technology",
+      "image": "https://indianewengland.com/wp-content/uploads/2026/09/Jensen-Huang.png",
+      "source": "INDIA New England News",
+      "sourceUrl": "https://indianewengland.com/nvidia-ceo-jensen-huang-urges-india-to-move-faster-on-ai/",
+      "publishedAt": "2026-09-19T20:03:01.000Z",
+      "fetchedAt": "2026-09-19T21:59:54.064Z"
+    },
+    {
       "id": "9b9b7ee8f1f752fd",
       "title": "At 17, New York student Liam Anderson breaks national bench press record with 396 pounds, then breaks his",
       "summary": "break the national bench press record in his age and weight class before turning 18 later this month. The Shenendehowa High School senior did more than that.",
@@ -34,6 +45,17 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/sports/international-sports/at-17-new-york-student-liam-anderson-breaks-national-bench-press-record-with-396-pounds-then-breaks-his-own-record-again-with-402-pounds/articleshow/134360016.cms",
       "publishedAt": "2026-09-19T19:50:00.000Z",
       "fetchedAt": "2026-09-19T20:32:34.681Z"
+    },
+    {
+      "id": "bc85a58b9fd1533d",
+      "title": "PM Modi Anchors India’s Resilient Semiconductor Ecosystem",
+      "summary": "PM Modi Anchors India’s Resilient Semiconductor Ecosystem. This update was reported by The Kashmir Horizon. Open the original report for full context and any developing updates.",
+      "category": "Technology",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "The Kashmir Horizon",
+      "sourceUrl": "https://thekashmirhorizon.com/2026/09/20/pm-modi-anchors-indias-resilient-semiconductor-ecosystem/",
+      "publishedAt": "2026-09-19T19:48:49.000Z",
+      "fetchedAt": "2026-09-19T21:59:54.291Z"
     },
     {
       "id": "2262f6ac3a40957d",
@@ -2729,28 +2751,6 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/city/guwahati/affair-row-turns-deadly-assam-man-beheaded-over-relationship-with-neighbours-wife/articleshow/134349612.cms",
       "publishedAt": "2026-09-19T07:16:00.000Z",
       "fetchedAt": "2026-09-19T12:24:41.092Z"
-    },
-    {
-      "id": "a543998174b4ad54",
-      "title": "Satya Nadella addresses “IDEAS4INDIA”: Indian American Tech CEOs Forum hosted by CGI Seattle",
-      "summary": "Indias Consulate in Seattle brought together more than 40 Indian-origin technology CEOs and CTOs, including Microsofts Satya Nadella, to discuss ways to deepen the India-US technology partnership. The forum focused on AI infrastructure, semiconductors, quantum computing, data centres, aerospace and skilling, as US technology majors expand investments and operations in…",
-      "category": "Technology",
-      "image": "https://img.etimg.com/thumb/msid-134349817,width-1200,height-630,imgsize-1189562,overlay-economictimes/articleshow.jpg",
-      "source": "The Economic Times",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/india/satya-nadella-addresses-ideas4india-indian-american-tech-ceos-forum-hosted-by-cgi-seattle/articleshow/134349792.cms?from=mdr",
-      "publishedAt": "2026-09-19T07:13:46.000Z",
-      "fetchedAt": "2026-09-19T07:32:13.221Z"
-    },
-    {
-      "id": "5b52afe9e01a30da",
-      "title": "Wildlife transit hub",
-      "summary": "As investigation continues into the case of the orangutans, which were found abandoned in a forest in Balasore, TOI takes a look at how Odisha is increasingly becoming the preferred transit route for wildlife traffickers.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134349816,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/bhubaneswar/wildlife-transit-hub/articleshow/134349597.cms",
-      "publishedAt": "2026-09-19T07:11:00.000Z",
-      "fetchedAt": "2026-09-19T11:12:35.572Z"
     }
   ]
 }
