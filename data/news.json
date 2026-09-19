@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T21:59:57.525Z",
+  "updatedAt": "2026-09-19T22:17:25.688Z",
   "count": 250,
   "articles": [
     {
@@ -210,6 +210,17 @@
       "sourceUrl": "https://sports.ndtv.com/cricket/india-lose-no-1-t20i-ranking-despite-3-0-sweep-of-afghanistan-new-leader-revealed-12069988",
       "publishedAt": "2026-09-19T18:49:01.000Z",
       "fetchedAt": "2026-09-19T20:32:24.997Z"
+    },
+    {
+      "id": "6a186671fafd1c0f",
+      "title": "Kathmandu-Bound Air India Flight Returns To Delhi Over Suspected Tech Issue",
+      "summary": "Kathmandu-Bound Air India Flight Returns To Delhi Over Suspected Tech Issue. This update was reported by NDTV. Open the original report for full context and any developing updates.",
+      "category": "Technology",
+      "image": "https://c.ndtvimg.com/2025-07/10aofjvk_boeing-787-dreamliner_625x300_31_July_25.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "source": "NDTV",
+      "sourceUrl": "https://www.ndtv.com/india-news/kathmandu-bound-air-india-flight-returns-to-delhi-over-suspected-tech-issue-12070207",
+      "publishedAt": "2026-09-19T18:45:38.000Z",
+      "fetchedAt": "2026-09-19T22:17:22.976Z"
     },
     {
       "id": "e97110ba75878c40",
@@ -2740,17 +2751,6 @@
       "sourceUrl": "https://indianexpress.com/article/sports/asian-games-india-most-medals-athletics-wrestling-kabaddi-shooting-10884780/",
       "publishedAt": "2026-09-19T07:17:14.000Z",
       "fetchedAt": "2026-09-19T07:32:10.511Z"
-    },
-    {
-      "id": "eef492da5221d3df",
-      "title": "Affair row turns deadly: Assam man beheaded over relationship with neighbour’s wife",
-      "summary": "A 31-year-old man was allegedly murdered and beheaded in Assam’s Jorhat district following a dispute over his alleged relationship with a neighbour’s wife, with police arresting four people in connection with the crime, officials said.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134349611,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/guwahati/affair-row-turns-deadly-assam-man-beheaded-over-relationship-with-neighbours-wife/articleshow/134349612.cms",
-      "publishedAt": "2026-09-19T07:16:00.000Z",
-      "fetchedAt": "2026-09-19T12:24:41.092Z"
     }
   ]
 }
