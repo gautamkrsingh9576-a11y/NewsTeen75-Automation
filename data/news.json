@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-09-19T11:26:36.054Z",
+  "updatedAt": "2026-09-19T11:39:58.146Z",
   "count": 250,
   "articles": [
+    {
+      "id": "a8bce6c8da8b5853",
+      "title": "Canada optimistic about concluding trade talks with India by year-end, minister says",
+      "summary": "Canada is optimistic about concluding negotiations on a comprehensive economic partnership agreement (CEPA) with India by year-end, the country's minister for ​international trade said on Saturday.",
+      "category": "Business & Finance",
+      "image": "https://www.reuters.com/resizer/v2/TPKXMTINIVLOPPL7QFCWCI3QTQ.jpg?auth=1c2e30ad290f33ef764c5733dc5b08b5f28787f447fa79266862b5e86e9273a0&height=1005&width=1920&quality=80&smart=true",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/3fec1b0a85a0/business/finance/canada-optimistic-about-concluding-trade-talks-with-india-by-year-end-minister-2026-09-19/",
+      "publishedAt": "2026-09-19T11:29:43.000Z",
+      "fetchedAt": "2026-09-19T11:39:54.160Z"
+    },
+    {
+      "id": "14e1873fa67a20e4",
+      "title": "Google Trends reveals India’s top 8 modak recipes",
+      "summary": "As Ganesh Chaturthi celebrations sweep across India, kitchens are buzzing with modak preparations — and Google Search data shows exactly what people are cooking. While traditional favourites like Ukadiche Modak, Kozhukattai, and Kudumulu remain undisputed leaders, home cooks are increasingly experimenting with new flavours, mindful alternatives, and creative twists.",
+      "category": "Technology",
+      "image": "https://static.toiimg.com/thumb/msid-134353081,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "timesofindia.indiatimes.com",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/google-trends-reveals-indias-top-8-modak-recipes/articleshow/134353069.cms",
+      "publishedAt": "2026-09-19T11:26:00.000Z",
+      "fetchedAt": "2026-09-19T11:39:53.371Z"
+    },
+    {
+      "id": "61786522851af01d",
+      "title": "‘Resident Evil’ registers Rs 3.02 crore Day 1 haul in India, biggest opening for franchise",
+      "summary": "‘Resident Evil’ registers Rs 3.02 crore Day 1 haul in India, biggest opening for franchise. This update was reported by telegraphindia.com. Open the original report for full context and any developing updates.",
+      "category": "Entertainment",
+      "image": "https://assets.telegraphindia.com/telegraph/2026/Sep/1789723120_resident-evil.jpg",
+      "source": "telegraphindia.com",
+      "sourceUrl": "https://www.telegraphindia.com/entertainment/resident-evil-registers-rs-3-02-crore-day-1-haul-in-india-biggest-opening-for-franchise/cid/2180705",
+      "publishedAt": "2026-09-19T11:22:13.000Z",
+      "fetchedAt": "2026-09-19T11:39:51.084Z"
+    },
     {
       "id": "61b4d02ffe2b3f48",
       "title": "Finance Minister Wagle calls on Indian businessmen to expand investment in Nepal",
@@ -102,6 +135,28 @@
       "fetchedAt": "2026-09-19T11:26:33.433Z"
     },
     {
+      "id": "006abb1b0105899f",
+      "title": "Indians Living in Japan on Stand-By to House Asian Games Athletes",
+      "summary": "Few Indian athletes have moved from the huts into hotels and have put in place contingency plans as more competitors and support staff arrive in the coming days",
+      "category": "Sports",
+      "image": "https://www.deccanchronicle.com/h-upload/2026/09/19/2090756-aa-8190433.jpg",
+      "source": "Deccan Chronicle",
+      "sourceUrl": "https://www.deccanchronicle.com/amp/sports/indians-living-in-japan-on-stand-by-to-house-asian-games-athletes-1988756",
+      "publishedAt": "2026-09-19T10:27:15.000Z",
+      "fetchedAt": "2026-09-19T11:39:50.126Z"
+    },
+    {
+      "id": "cbdb7d9fc00ff92f",
+      "title": "Mansukh Mandaviya Meets World Aquatics Prez To Develop Aquatic Sports In India",
+      "summary": "Sports Minister Mansukh Mandaviya on Saturday met World Aquatics president Husain Al-Musallam, with the focus on developing aquatic sports in India. The meeting was held on the sidelines of the Asian...",
+      "category": "Sports",
+      "image": "https://www.deccanchronicle.com/h-upload/2026/09/19/2090754-sports-minister.jpg",
+      "source": "Deccan Chronicle",
+      "sourceUrl": "https://www.deccanchronicle.com/sports/with-focus-on-aquatics-development-indian-sports-minister-meets-world-aquatics-president-1988755",
+      "publishedAt": "2026-09-19T10:23:31.000Z",
+      "fetchedAt": "2026-09-19T11:39:49.908Z"
+    },
+    {
       "id": "a094b4fae94a1390",
       "title": "Why Indian Railways is testing a ‘dehumidifier’ in an electric train engine",
       "summary": "Why Indian Railways is testing a ‘dehumidifier’ in an electric train engine. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
@@ -190,6 +245,17 @@
       "fetchedAt": "2026-09-19T10:34:15.374Z"
     },
     {
+      "id": "7292a8e42fb267db",
+      "title": "India joins 24 countries in global initiative on 6G technology | Akashvani News",
+      "summary": "India joins 24 countries in global initiative on 6G technology | Akashvani News. This update was reported by News On AIR. Open the original report for full context and any developing updates.",
+      "category": "Technology",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "News On AIR",
+      "sourceUrl": "https://newsonair.gov.in/india-joins-24-countries-in-global-initiative-on-6g-technology/",
+      "publishedAt": "2026-09-19T09:45:20.000Z",
+      "fetchedAt": "2026-09-19T11:39:53.048Z"
+    },
+    {
       "id": "32aa30461e990350",
       "title": "Here comes Team India! 🇮🇳🇮🇳 Led by Pawan Sehrawat and Manu Bhaker, the Indian contingent marches out in the opening ceremony at Asian Games 2026! The Games officially begins. 🥳🎉",
       "summary": "Here comes Team India! 🇮🇳🇮🇳 Led by Pawan Sehrawat and Manu Bhaker, the Indian contingent marches out in the opening ceremony at Asian Games 2026! The Games officially begins. 🥳🎉. This update was reported by facebook.com. Open the original report for full context and any developing updates.",
@@ -232,6 +298,17 @@
       "sourceUrl": "https://www.indiatoday.in/amp/india/story/uttar-pradesh-jobs-yogi-adityanath-1-lakh-appointment-letters-six-months-utrith-2998249-2026-09-19",
       "publishedAt": "2026-09-19T09:36:23.000Z",
       "fetchedAt": "2026-09-19T09:40:26.958Z"
+    },
+    {
+      "id": "252202df89fc298f",
+      "title": "ASI shot dead at Amritsar grain market; man gunned down in Islamabad",
+      "summary": "Two unidentified men fatally shot an assistant sub-inspector of Punjab Police in Amritsar. ASI Harjit Singh was shot near the neck by a single bullet fired from a pistol. This incident occurred around 12:30 am on Friday while the ASI was on duty. Hours earlier, another man was gunned down…",
+      "category": "Crime & Breaking News",
+      "image": "https://img.etimg.com/thumb/msid-134351456,width-1200,height-630,imgsize-262228,overlay-economictimes/articleshow.jpg",
+      "source": "economictimes.com",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/tragic-shooting-in-amritsar-asi-gunned-down-in-grain-market-second-murder-in-islamabad-district/articleshow/134351428.cms?from=mdr",
+      "publishedAt": "2026-09-19T09:35:02.000Z",
+      "fetchedAt": "2026-09-19T11:39:49.082Z"
     },
     {
       "id": "3af1102ee1d6d7ca",
@@ -1488,6 +1565,17 @@
       "fetchedAt": "2026-09-19T03:27:29.441Z"
     },
     {
+      "id": "a4a51b7f484920dd",
+      "title": "With Hike For Government Staff, AAP Kickstarts Punjab Poll Campaign",
+      "summary": "The AAP is set to formally kick off its 2027 poll campaign a day after the Mann government announced an 8 per cent hike in DA for around eight lakh government employees",
+      "category": "Politics & Government",
+      "image": "https://c.ndtvimg.com/2026-09/k6pahq74_mann_625x300_19_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "source": "NDTV",
+      "sourceUrl": "https://www.ndtv.com/india-news/punjab-election-bhagwant-mann-with-hike-for-government-staff-aap-kickstarts-punjab-poll-campaign-12067282",
+      "publishedAt": "2026-09-19T03:11:13.000Z",
+      "fetchedAt": "2026-09-19T11:39:47.860Z"
+    },
+    {
       "id": "1b86595732fcd3b3",
       "title": "BPL And AIIMS Delhi Partner To Scale AI-Powered Mammography Across India",
       "summary": "BPL And AIIMS Delhi Partner To Scale AI-Powered Mammography Across India. This update was reported by bwhealthcareworld.com. Open the original report for full context and any developing updates.",
@@ -2663,94 +2751,6 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/marathi/movies/news/santosh-davakhar-director-of-gondhal-on-film-becoming-indias-official-oscar-entry-we-have-a-rich-culture-and-heritage-and-we-should-represent-india-through-good-cinema/articleshow/134339143.cms",
       "publishedAt": "2026-09-18T16:10:00.000Z",
       "fetchedAt": "2026-09-18T16:44:42.928Z"
-    },
-    {
-      "id": "11d81d2cdc82195a",
-      "title": "From AI For Indian Air Force To Niche Drone Tech: Inside India's Defence-Tech Revolution | MC Special",
-      "summary": "India is building a new defence-tech ecosystem, with startups increasingly working directly with the armed forces on cutting-edge technologies. In an exclusive interview to Moneycontrol Managing Editor Nalin Mehta, Omnipresence Robot Tech co-founders Akash Sinha and Jyoti Sinha discuss their journey from working with the US Army and DARPA to…",
-      "category": "Technology",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260918154520_Nalin-sir-DEFENCE-STARTUP-TT.jpg",
-      "source": "Moneycontrol.com",
-      "sourceUrl": "https://www.moneycontrol.com/news/videos/business/from-ai-for-indian-air-force-to-niche-drone-tech-inside-india-s-defence-tech-revolution-mc-special-14033228.html",
-      "publishedAt": "2026-09-18T15:50:19.000Z",
-      "fetchedAt": "2026-09-18T16:15:40.150Z"
-    },
-    {
-      "id": "f71e570709725f97",
-      "title": "Odisha gets ₹23,600 crore investment proposals at SEMICON India 2026",
-      "summary": "The proposals, which could generate around 6,100 jobs, include a semiconductor facility for SiC substrate wafers as the state steps up efforts to build a broader electronics and semiconductor ecosystem.",
-      "category": "Technology",
-      "image": "https://etimg.etb2bimg.com/thumb/msid-134338901,imgsize-209002,width-1200,height=627,overlay-etmanufacturing,resizemode-75/news/hi-tech/odisha-gets-23600-crore-investment-proposals-at-semicon-india-2026.jpg",
-      "source": "ET Manufacturing",
-      "sourceUrl": "https://manufacturing.economictimes.indiatimes.com/news/hi-tech/odisha-gets-23600-crore-investment-proposals-at-semicon-india-2026/134338901?utm_source=latest_news&utm_medium=homepage",
-      "publishedAt": "2026-09-18T15:50:14.000Z",
-      "fetchedAt": "2026-09-18T16:31:10.529Z"
-    },
-    {
-      "id": "781dc23293358de7",
-      "title": "‘Delays in military projects serious, causing technology gap’: Rajnath amid Tejas Mk-1A setbacks",
-      "summary": "Military project timelines have to be kept ‘realistic’, the minister says amid schedule overruns in the production of indigenous Tejas Mark-1A fighter jets",
-      "category": "Technology",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWM1NDczZTkwLWIzOGMtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
-      "source": "The Tribune",
-      "sourceUrl": "https://www.tribuneindia.com/news/defence/delays-in-military-projects-serious-causing-technology-gap-rajnath-singh/",
-      "publishedAt": "2026-09-18T15:49:49.000Z",
-      "fetchedAt": "2026-09-18T18:35:34.019Z"
-    },
-    {
-      "id": "c6d68a2e272b5850",
-      "title": "Playing & Winning Isn't The Only Goal!: Union Minister Kiren Rijiju Decodes India's Sports Blueprint",
-      "summary": "In an exclusive conversation on News18 India's Jazba, Union Minister and former Sports Minister Kiren Rijiju reflects on his mission to transform India's sports landscape.While competitive sports naturally revolve around playing and winning, Rijiju reveals how his broader objective as Sports Minister was to democratize sports access across the nation,…",
-      "category": "Sports",
-      "image": "https://images.news18.com/ibnlive/uploads/2026/09/1789746422_8934212b-b595-4a5c-89e1-5101fde4d1a5-1200x675.jpeg",
-      "source": "News18",
-      "sourceUrl": "https://www.news18.com/videos/india/playing-winning-isn-t-the-only-goal-union-minister-kiren-rijiju-decodes-india-s-sports-blueprint-10339750.html",
-      "publishedAt": "2026-09-18T15:42:00.000Z",
-      "fetchedAt": "2026-09-18T16:15:36.708Z"
-    },
-    {
-      "id": "cb4af0f3bc9355ab",
-      "title": "Budget alone cannot fund Viksit Bharat, private capital critical, innovative financing central: DEA...",
-      "summary": "DEA Secretary Anuradha Thakur said private-sector financing will have to play a critical role alongside government spending to meet the scale of funding required for India&rsquo;s Viksit Bharat development agenda.",
-      "category": "Business & Finance",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260918154004_DEA-Secretary-Anuradha-Thakur.png",
-      "source": "Moneycontrol.com",
-      "sourceUrl": "https://www.moneycontrol.com/news/business/economy/budget-alone-cannot-fund-viksit-bharat-private-capital-critical-innovative-financing-central-dea-secretary-anuradha-thakur-14033220.html",
-      "publishedAt": "2026-09-18T15:41:52.000Z",
-      "fetchedAt": "2026-09-18T20:48:19.202Z"
-    },
-    {
-      "id": "a6c11401e570048c",
-      "title": "India software exports hit $221.4 billion as US share rises, product sales slip",
-      "summary": "India software exports hit $221.4 billion as US share rises, product sales slip. This update was reported by Tech Observer Magazine. Open the original report for full context and any developing updates.",
-      "category": "Technology",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "Tech Observer Magazine",
-      "sourceUrl": "https://techobserver.in/news/enterprise-it/india-software-exports-2025-26-rbi-survey-329421/?amp",
-      "publishedAt": "2026-09-18T15:41:12.000Z",
-      "fetchedAt": "2026-09-18T18:59:18.113Z"
-    },
-    {
-      "id": "f850a6817b7f6647",
-      "title": "NODWIN Gaming enters mainstream sports to build new-age sporting properties | Hindustan Times",
-      "summary": "NODWIN Gaming launches NODWIN Sports, focusing on new-age sports properties and audience engagement throughout the Global South, led by Gurbaksh Singh Virdi.",
-      "category": "Sports",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/18/1600x900/logo/NODWIN_Gaming__1789745686158_Zxrc_1789745686293_IWa8_f34f48c5-61e0-4dbe-8f7d-abbde5c8ae97_U5qc.jpeg",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/sports/others/nodwin-gaming-enters-mainstream-sports-to-build-new-age-sporting-properties-101789745433132.html",
-      "publishedAt": "2026-09-18T15:40:23.000Z",
-      "fetchedAt": "2026-09-18T17:24:31.097Z"
-    },
-    {
-      "id": "b70a9e0c10f8aa1a",
-      "title": "Karan Johar meets Prince William in London ahead of Earthshot Prize 2026 in Mumbai; duo discuss India's r",
-      "summary": "Filmmaker Karan Johar recently met Prince William in London ahead of the sixth annual Earthshot Prize Awards Night, which will be held in Mumbai on November 17, 2026. During their conversation, the two discussed this year’s finalists, environmental challenges and the importance of finding sustainable solutions, with Prince William also…",
-      "category": "Entertainment",
-      "image": "https://static.toiimg.com/thumb/msid-134338795,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/karan-johar-meets-prince-william-in-london-ahead-of-earthshot-prize-2026-in-mumbai-duo-discuss-indias-rain-crisis-farmers-under-stress-environmental-solutions-15-finalists-and-1-million-prize-for-each-winner/articleshow/134338616.cms",
-      "publishedAt": "2026-09-18T15:34:00.000Z",
-      "fetchedAt": "2026-09-18T15:46:15.919Z"
     }
   ]
 }
