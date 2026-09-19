@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T05:19:41.447Z",
+  "updatedAt": "2026-09-19T05:32:36.120Z",
   "count": 250,
   "articles": [
     {
@@ -177,6 +177,17 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/new-zealand-stars-india-series-participation-in-doubt-after-freak-injury/articleshow/134347172.cms",
       "publishedAt": "2026-09-19T03:26:00.000Z",
       "fetchedAt": "2026-09-19T04:08:08.774Z"
+    },
+    {
+      "id": "eee0205e8cee1d60",
+      "title": "US tariffs ‘effective tool’ to safeguard economic, national security: USTR",
+      "summary": "The Trump administration has described tariffs as a key instrument of US economic and national security policy, saying the newly enacted Russia-Iran sanctions law reflects growing bipartisan support for using trade measures to protect American interests and push towards an end to the Russia-Ukraine war.",
+      "category": "National & Trending News",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWIwZGEyZWMwLWIzZDktMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
+      "source": "The Tribune",
+      "sourceUrl": "https://www.tribuneindia.com/news/india/us-tariffs-effective-tool-to-safeguard-economic-national-security-ustr/amp",
+      "publishedAt": "2026-09-19T03:24:52.000Z",
+      "fetchedAt": "2026-09-19T05:32:35.890Z"
     },
     {
       "id": "67303fea9eb20900",
@@ -388,6 +399,17 @@
       "fetchedAt": "2026-09-19T02:55:12.996Z"
     },
     {
+      "id": "5772feb567c3cb0f",
+      "title": "Kabaddi Star Pawan Sehrawat Steps In As Asian Games Flag-Bearer",
+      "summary": "Kabaddi Star Pawan Sehrawat Steps In As Asian Games Flag-Bearer. This update was reported by Rediff. Open the original report for full context and any developing updates.",
+      "category": "Sports",
+      "image": "https://im.rediff.com/1200-630/sports/2023/oct/03kabaddi-men.jpg",
+      "source": "Rediff",
+      "sourceUrl": "https://m.rediff.com/amp/sports/report/pawan-sehrawat-replaces-tajinderpal-toor-as-asian-games-flag-bearer/20260919.htm",
+      "publishedAt": "2026-09-19T01:41:35.000Z",
+      "fetchedAt": "2026-09-19T05:32:29.010Z"
+    },
+    {
       "id": "be631ff6e4f5895b",
       "title": "Sports ministry steps in as Japan Asiad faces accommodation, transport chaos",
       "summary": "With athletes forced to sleep at the registration arena and others enduring endless waits for rooms and buses, the Sports Ministry has stepped in to take stock of the situation facing the Indian contingent here.",
@@ -575,6 +597,17 @@
       "fetchedAt": "2026-09-19T01:03:19.701Z"
     },
     {
+      "id": "f441d25f6418cc94",
+      "title": "Congress mulls Political Affairs Committee to bridge govt-party coordination gap in Karnataka",
+      "summary": "Congress mulls Political Affairs Committee to bridge govt-party coordination gap in Karnataka. This update was reported by uniindia.com. Open the original report for full context and any developing updates.",
+      "category": "Politics & Government",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EPolitics%20%26amp%3B%20Government%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "uniindia.com",
+      "sourceUrl": "https://www.uniindia.com/south-india/congress-mulls-political-affairs-committee-to-bridge-govt-party-coordination-gap-in-karnataka/184720",
+      "publishedAt": "2026-09-18T22:02:00.000Z",
+      "fetchedAt": "2026-09-19T05:32:26.286Z"
+    },
+    {
       "id": "ec4ab5fddb36a8f1",
       "title": "Asian Games 2026 | Organisational glitches mar run-up to opening ceremony",
       "summary": "Asian Games 2026: India's official welcome and flag-hoisting ceremony in Nagoya was delayed by over an hour after miscommunication between OCA and organisers. Airport registration and accommodation issues persisted, while South Korea raised complaint.",
@@ -584,6 +617,17 @@
       "sourceUrl": "https://www.deccanherald.com/sports/asian-games-2026-organisational-glitches-mar-run-up-to-opening-ceremony-4151434",
       "publishedAt": "2026-09-18T21:17:31.000Z",
       "fetchedAt": "2026-09-18T21:31:39.339Z"
+    },
+    {
+      "id": "f2035218e55aa744",
+      "title": "Share Market Live, Share Market Today: Latest Share Market News, Share Market Live Updates on The Economic Times",
+      "summary": "Share Market Today | Share Market Live updates: Get all the Latest Share Market News and Updates on The Economic Times. Share Market Live Charts, News, Analysis, IPO News and more.",
+      "category": "Business & Finance",
+      "image": "https://economictimes.indiatimes.com/photo/83206419.cms",
+      "source": "The Economic Times",
+      "sourceUrl": "https://economictimes.indiatimes.com/markets",
+      "publishedAt": "2026-09-18T21:17:03.000Z",
+      "fetchedAt": "2026-09-19T05:32:33.099Z"
     },
     {
       "id": "96cd09de6c7f5eec",
@@ -2707,50 +2751,6 @@
       "sourceUrl": "https://www.hindustantimes.com/india-news/central-board-of-film-certification-issues-new-guidelines-after-nearly-35-years-101789727870387-amp.html",
       "publishedAt": "2026-09-18T10:37:49.000Z",
       "fetchedAt": "2026-09-18T15:16:00.747Z"
-    },
-    {
-      "id": "2eb7580ae418707d",
-      "title": "Chheda opens up on pressure to repeat Asian Games gold",
-      "summary": "Hriday Chheda, a gold medallist from the 2022 Asian Games, acknowledges the increased expectations for India",
-      "category": "Sports",
-      "image": "https://im.rediff.com/1200-630/sports/2026/sep/18shriday.jpg",
-      "source": "rediff.com",
-      "sourceUrl": "https://m.rediff.com/amp/sports/report/chheda-opens-up-on-pressure-to-repeat-asian-games-gold/20260918.htm",
-      "publishedAt": "2026-09-18T10:37:39.000Z",
-      "fetchedAt": "2026-09-18T11:59:22.330Z"
-    },
-    {
-      "id": "ae664834aafbb8f6",
-      "title": "AI-powered cardiac monitoring technology to launch in India on September 26",
-      "summary": "Czech health-tech firm Kardi Ai will launch its AI-powered long-term cardiac monitoring technology in India on September 26 in Hyderabad. The prescription-grade system combines a wearable ECG chest strap, mobile connectivity and AI analytics to detect intermittent heart abnormalities",
-      "category": "Technology",
-      "image": "https://media.telanganatoday.com/wp-content/uploads/2026/09/ai-kardi-.jpg",
-      "source": "Telangana Today",
-      "sourceUrl": "https://telanganatoday.com/ai-powered-cardiac-monitoring-technology-to-launch-in-india-on-september-26",
-      "publishedAt": "2026-09-18T10:36:38.000Z",
-      "fetchedAt": "2026-09-18T10:52:13.974Z"
-    },
-    {
-      "id": "d1e571f86731937d",
-      "title": "Marathi movie Gondhal is India’s official entry for Oscars 2027",
-      "summary": "Marathi movie Gondhal is India’s official entry for Oscars 2027. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
-      "category": "Entertainment",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EEntertainment%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "The Indian Express",
-      "sourceUrl": "https://indianexpress.com/article/entertainment/regional/marathi-film-gondhal-is-indias-official-entry-for-oscars-2027-10828289/",
-      "publishedAt": "2026-09-18T10:35:57.000Z",
-      "fetchedAt": "2026-09-18T12:56:01.381Z"
-    },
-    {
-      "id": "d1e571f86731937d",
-      "title": "Marathi film Gondhal is India’s official entry for Oscars 2027",
-      "summary": "Marathi film Gondhal is India’s official entry for Oscars 2027. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
-      "category": "Entertainment",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EEntertainment%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "The Indian Express",
-      "sourceUrl": "https://indianexpress.com/article/entertainment/regional/marathi-film-gondhal-is-indias-official-entry-for-oscars-2027-10828289/",
-      "publishedAt": "2026-09-18T10:35:57.000Z",
-      "fetchedAt": "2026-09-18T11:21:58.832Z"
     }
   ]
 }
