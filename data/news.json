@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T22:30:52.531Z",
+  "updatedAt": "2026-09-19T22:43:09.677Z",
   "count": 250,
   "articles": [
     {
@@ -12,6 +12,17 @@
       "sourceUrl": "https://www.facebook.com/khelnow/posts/the-asian-games-2026-are-officially-underway-india-will-look-to-make-history-on-/1683023140500636/",
       "publishedAt": "2026-09-19T21:30:25.000Z",
       "fetchedAt": "2026-09-19T21:38:04.346Z"
+    },
+    {
+      "id": "a5bd6cbba586f715",
+      "title": "Exclusive: Microsoft CTO Says India Has Potential to Lead Agricultural AI Applications",
+      "summary": "Exclusive: Microsoft CTO Says India Has Potential to Lead Agricultural AI Applications. This update was reported by South Asian Herald. Open the original report for full context and any developing updates.",
+      "category": "Technology",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "South Asian Herald",
+      "sourceUrl": "https://southasianherald.com/exclusive-microsoft-cto-says-india-has-potential-to-lead-agricultural-ai-applications/",
+      "publishedAt": "2026-09-19T20:44:15.000Z",
+      "fetchedAt": "2026-09-19T22:43:06.280Z"
     },
     {
       "id": "8cc4738edaa28c49",
@@ -2740,17 +2751,6 @@
       "sourceUrl": "https://ddnews.gov.in/en/brics-bharat-innovates-exposition-showcases-37-indian-deep-tech-startups-in-new-delhi/",
       "publishedAt": "2026-09-19T07:27:49.000Z",
       "fetchedAt": "2026-09-19T11:50:39.273Z"
-    },
-    {
-      "id": "7a8128c134f56b6c",
-      "title": "Scams, Chaos Grip BJP-Ruled States as Power Brokers and Influence Pedlars Rule the Roost",
-      "summary": "Barely four years in office, Modi realised it was impossible to stop corruption altogether. Therefore, from the start, he made elaborate measures to effectively suppress all traces of massive swindling and fraud taking place under his administration.",
-      "category": "Politics & Government",
-      "image": "https://m.thewire.in/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhld2lyZS1pbi1wcm9kLXNvcnRkL21lZGlhNjZjOGNhYTAtYjQwNC0xMWYxLWI3YzQtZDkzNjNhNjU5MGM3LmpwZw==",
-      "source": "thewire.in",
-      "sourceUrl": "https://m.thewire.in/article/politics/scams-chaos-grip-bjp-ruled-states-as-power-brokers-and-influence-pedlars-rule-the-roost/amp",
-      "publishedAt": "2026-09-19T07:24:22.000Z",
-      "fetchedAt": "2026-09-19T10:34:05.252Z"
     }
   ]
 }
