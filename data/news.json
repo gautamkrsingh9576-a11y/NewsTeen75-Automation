@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-19T20:00:13.305Z",
+  "updatedAt": "2026-09-19T20:18:02.437Z",
   "count": 250,
   "articles": [
+    {
+      "id": "06f27e423bbe3e6f",
+      "title": "Tom Hardy's 2-Part Crime Thriller Is Officially One of His Best",
+      "summary": "Tom Hardy's 2-Part Crime Thriller Is Officially One of His Best. This update was reported by IMDb. Open the original report for full context and any developing updates.",
+      "category": "Crime & Breaking News",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ECrime%20%26amp%3B%20Breaking%20News%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "IMDb",
+      "sourceUrl": "https://www.imdb.com/news/ni66023859/?ref_=nmnw_art_perm",
+      "publishedAt": "2026-09-19T19:37:14.000Z",
+      "fetchedAt": "2026-09-19T20:17:53.259Z"
+    },
     {
       "id": "01c669dcd393802e",
       "title": "Exclusive: Taraknath Woddi Calls India-US Tech Partnership an Enduring Alliance",
@@ -100,6 +111,17 @@
       "sourceUrl": "https://www.indiatoday.in/entertainment/television/story/salman-khan-shreds-trolls-bigg-boss-20-mocking-katrina-kaif-post-pregnancy-weight-calls-them-parasites-2998534-2026-09-20",
       "publishedAt": "2026-09-19T18:42:07.000Z",
       "fetchedAt": "2026-09-19T18:47:30.596Z"
+    },
+    {
+      "id": "551f819b4385d44e",
+      "title": "India needs tech-led mining sector: Jitendra Singh",
+      "summary": "Calls for moving beyond isolated pilots towards connected, scalable & trusted systems",
+      "category": "Technology",
+      "image": "https://www.millenniumpost.in/h-upload/2026/09/19/1057502-jitendra-singh-tomar2.jpg",
+      "source": "MillenniumPost",
+      "sourceUrl": "https://www.millenniumpost.in/nation/india-needs-a-tech-led-mining-sector-jitendra-676631",
+      "publishedAt": "2026-09-19T18:32:56.000Z",
+      "fetchedAt": "2026-09-19T20:17:58.181Z"
     },
     {
       "id": "41f94695b0990598",
@@ -212,6 +234,17 @@
       "fetchedAt": "2026-09-19T17:58:43.393Z"
     },
     {
+      "id": "38b70c0039b835c8",
+      "title": "India crush Afghanistan by 127 runs in 3rd T20 International to win series 3-0",
+      "summary": "India crush Afghanistan by 127 runs in 3rd T20 International to win series 3-0. This update was reported by News On AIR. Open the original report for full context and any developing updates.",
+      "category": "Sports",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "News On AIR",
+      "sourceUrl": "https://newsonair.gov.in/india-crush-afghanistan-by-127-runs-in-3rd-t20-international-to-win-series-3-0/",
+      "publishedAt": "2026-09-19T17:45:51.000Z",
+      "fetchedAt": "2026-09-19T20:17:55.253Z"
+    },
+    {
       "id": "248f86f53849c007",
       "title": "India’s real GDP growth forecast to 7% for current financial year: Moody",
       "summary": "India’s real GDP growth forecast to 7% for current financial year: Moody. This update was reported by News On AIR. Open the original report for full context and any developing updates.",
@@ -276,6 +309,17 @@
       "sourceUrl": "https://www.deccanherald.com/india/uttar-pradesh/trapped-in-dynastic-politics-mukesh-sahani-slams-nishad-party-chief-4152332",
       "publishedAt": "2026-09-19T17:14:17.000Z",
       "fetchedAt": "2026-09-19T17:25:05.950Z"
+    },
+    {
+      "id": "f9206212d2d23084",
+      "title": "In 1914, Josie Bassett Morris started a new life on a remote Utah homestead; she stayed for 50 years, and",
+      "summary": "The Cub Creek area offers hiking trails and ancient rock art. Josie Bassett Morris lived independently on her homestead for fifty years. She was a self-reliant rancher who also brewed whiskey and helped neighbors. Her cabin and land are now part of Dinosaur National Monument. The area preserves her history…",
+      "category": "National & Trending News",
+      "image": "https://img.etimg.com/thumb/msid-134357877,width-1200,height-630,imgsize-1817238,overlay-economictimes/articleshow.jpg",
+      "source": "The Economic Times",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/international/us/in-1914-josie-bassett-morris-started-a-new-life-on-a-remote-utah-homestead-she-stayed-for-50-years-and-her-cabin-eventually-became-part-of-a-national-monument/articleshow/134357094.cms?from=mdr",
+      "publishedAt": "2026-09-19T17:12:45.000Z",
+      "fetchedAt": "2026-09-19T20:18:02.045Z"
     },
     {
       "id": "a38359f720343b07",
@@ -410,6 +454,17 @@
       "fetchedAt": "2026-09-19T17:36:49.000Z"
     },
     {
+      "id": "01e1f8622a67efef",
+      "title": "Swedish industry leaders optimistic about stronger India-Europe business collaboration after India-EU FTA",
+      "summary": "Swedish industry leaders optimistic about stronger India-Europe business collaboration after India-EU FTA. This update was reported by News On AIR. Open the original report for full context and any developing updates.",
+      "category": "Technology",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "News On AIR",
+      "sourceUrl": "https://newsonair.gov.in/india-eu-fta-to-boost-trade-technology-cooperation-and-investment-ties-with-sweden/",
+      "publishedAt": "2026-09-19T16:35:35.000Z",
+      "fetchedAt": "2026-09-19T20:17:58.720Z"
+    },
+    {
       "id": "f78217f90cb5d6db",
       "title": "Arsenal get pecked by the seagulls in Brighton rout, Spurs' losing streak continues",
       "summary": "Arsenal's perfect start to the Premier League season came crashing down as Brighton stunned the champions 3-0. Tottenham also remained winless after a 3-2 home defeat to Aston Villa, while Everton and Newcastle picked up victories.",
@@ -452,6 +507,17 @@
       "sourceUrl": "https://ommcomnews.com/business-news/viksit-bharat-fm-sitharaman-led-meet-concludes-with-focus-on-financing/",
       "publishedAt": "2026-09-19T16:30:48.000Z",
       "fetchedAt": "2026-09-19T17:36:57.094Z"
+    },
+    {
+      "id": "6a7da44494f0a721",
+      "title": "Bengaluru firm ropes in Israel’s P-Cure to launch network of compact proton therapy centres in India",
+      "summary": "Bengaluru firms partner with Israel’s P-Cure to establish compact proton therapy centres in India, investing ₹1,900 crore for advanced cancer treatment.",
+      "category": "National & Trending News",
+      "image": "https://th-i.thgim.com/public/incoming/5g40s3/article71485691.ece/alternates/LANDSCAPE_1200/IMG_BL0902_Pulse_Capsule_2_1_KHFI46AQ.jpg",
+      "source": "The Hindu",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/bengaluru-firm-ropes-in-israels-p-cure-to-launch-network-of-compact-proton-therapy-centres-in-india/article71481906.ece",
+      "publishedAt": "2026-09-19T16:12:22.000Z",
+      "fetchedAt": "2026-09-19T20:18:02.437Z"
     },
     {
       "id": "6dd4f74ae8c2df20",
@@ -683,6 +749,17 @@
       "sourceUrl": "https://theprint.in/india/haryana-govt-must-address-farmers-concerns-rao-narender-singh/3047646/",
       "publishedAt": "2026-09-19T14:54:19.000Z",
       "fetchedAt": "2026-09-19T15:49:44.125Z"
+    },
+    {
+      "id": "aaf492526fd67aad",
+      "title": "Indian sports wrap, September 19: Parth Jindal appointed new Tamil Nadu Judo Association president",
+      "summary": "Here are India’s major updates, scores, and results from the world of sports on Saturday, September 19.",
+      "category": "Sports",
+      "image": "https://ss-i.thgim.com/public/incoming/p05mq9/article71485332.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-19%20at%207.19.24%20PM.jpeg",
+      "source": "Sportstar",
+      "sourceUrl": "https://sportstar.thehindu.com/other-sports/indian-sports-wrap-september-19-saturday-latest-updates-news-judo-parth-jindal/article71485358.ece",
+      "publishedAt": "2026-09-19T14:53:17.000Z",
+      "fetchedAt": "2026-09-19T20:17:55.486Z"
     },
     {
       "id": "ccc68f49fdb6ecfb",
@@ -2674,83 +2751,6 @@
       "sourceUrl": "https://www.awazthevoice.in/sports-news/adani-group-renews-ioa-partnership-ahead-of-asian-games-67953.html",
       "publishedAt": "2026-09-19T06:33:45.000Z",
       "fetchedAt": "2026-09-19T13:25:34.705Z"
-    },
-    {
-      "id": "f9406c7c853eebd2",
-      "title": "What Is Teqball? The Sport Where India's Quimcy Dsouza Is Closing In On An Asian Games Medal",
-      "summary": "Teqball originated in Hungary a little over 10 years ago and is played on a distinctive curved table designed specifically for the sport.",
-      "category": "Sports",
-      "image": "https://c.ndtvimg.com/2026-09/e89s2g6k_c_625x300_19_September_26.png?im=FitAndFill,algorithm=dnn,width=1600,height=900",
-      "source": "NDTV Profit",
-      "sourceUrl": "https://www.ndtvprofit.com/sports/what-is-teqball-the-sport-where-india-s-quimcy-dsouza-is-closing-in-on-an-asian-games-medal-12067742",
-      "publishedAt": "2026-09-19T06:33:15.000Z",
-      "fetchedAt": "2026-09-19T07:02:52.617Z"
-    },
-    {
-      "id": "7f59fddfd814705a",
-      "title": "Air India CEO mulls Air India Express merger to cut costs: Report",
-      "summary": "Air India’s proposed restructuring is still preliminary, with any merger requiring board approval. Air India Express would retain its brand under the proposed arrangement.",
-      "category": "Entertainment",
-      "image": "https://images.storyboard18.com/storyboard18/2026/09/Visuals-Page-2026-09-19T103303.146-2026-09-2dee165ac5952b55b380ce33c1f94494-1019x573.jpg",
-      "source": "Storyboard18",
-      "sourceUrl": "https://www.storyboard18.com/amp/brand-marketing/air-india-ceo-mulls-air-india-express-merger-to-cut-costs-report-110966.htm",
-      "publishedAt": "2026-09-19T06:31:01.000Z",
-      "fetchedAt": "2026-09-19T06:51:02.871Z"
-    },
-    {
-      "id": "4bd459c5777bd77f",
-      "title": "Hanuman Ansh box office collection Day 43: Neem Karoli Baba biopic sees 20% drop, India net collection inches",
-      "summary": "Hanuman Ansh box office collection Day 43: Vishal Chaturvedi’s devotional film continues its impressive run in the seventh week. Here’s how much Hanuman Ansh earned on its 43rd day.",
-      "category": "Entertainment",
-      "image": "https://static.india.com/wp-content/uploads/2026/09/Hanuman-Ansh-box-office-collection-Day-43-.png",
-      "source": "India.com",
-      "sourceUrl": "https://www.india.com/entertainment/bollywood/hanuman-ansh-box-office-collection-day-43-neem-karoli-baba-biopic-sees-20-percent-drop-india-net-collection-inches-closer-to-rs-250-crore-8527499/",
-      "publishedAt": "2026-09-19T06:30:05.000Z",
-      "fetchedAt": "2026-09-19T06:35:35.809Z"
-    },
-    {
-      "id": "5f457e170c7f0939",
-      "title": "We were confident: Santosh Davakhar on 'Gondhal' being picked as India's Oscar entry | Bollywood",
-      "summary": "We were confident: Santosh Davakhar on 'Gondhal' being picked as India's Oscar entry | Bollywood. This update was reported by Hindustan Times. Open the original report for full context and any developing updates.",
-      "category": "Entertainment",
-      "image": "https://www.hindustantimes.com/ht-img/img/2025/07/20/1600x900/logo/2_1752989036965_1752989037265.jpeg",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/entertainment/bollywood/we-were-confident-santosh-davakhar-on-gondhal-being-picked-as-india-s-oscar-entry-101789798855270.html",
-      "publishedAt": "2026-09-19T06:20:54.000Z",
-      "fetchedAt": "2026-09-19T06:35:35.170Z"
-    },
-    {
-      "id": "5764e49444742290",
-      "title": "Tight security as DUSU polls counting underway, NSUI in lead for president post after four rounds",
-      "summary": "Tight security as DUSU polls counting underway, NSUI in lead for president post after four rounds. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
-      "category": "Crime & Breaking News",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ECrime%20%26amp%3B%20Breaking%20News%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "The Indian Express",
-      "sourceUrl": "https://indianexpress.com/article/cities/delhi/dusu-election-results-2026-counting-nsui-leads-president-race-deepanshu-shokeen-10884764/",
-      "publishedAt": "2026-09-19T06:15:05.000Z",
-      "fetchedAt": "2026-09-19T10:56:20.738Z"
-    },
-    {
-      "id": "2b01a5116fed35e2",
-      "title": "Asian Games Teqball: India's Quimcy D'Souza To Fight For Bronze",
-      "summary": "Asian Games Teqball: India's Quimcy D'Souza To Fight For Bronze. This update was reported by Deccan Chronicle. Open the original report for full context and any developing updates.",
-      "category": "Sports",
-      "image": "https://www.deccanchronicle.com/h-upload/2026/09/19/2090700-indianteqballplayerindias-quimcy-joaquim-dsouza.jpg",
-      "source": "Deccan Chronicle",
-      "sourceUrl": "https://www.deccanchronicle.com/sports/asiad-quimcy-dsouza-loses-in-teqball-semis-to-play-for-bronze-next-1988714",
-      "publishedAt": "2026-09-19T06:14:25.000Z",
-      "fetchedAt": "2026-09-19T06:35:33.694Z"
-    },
-    {
-      "id": "fc489cbe0a0c9257",
-      "title": "Govt moving towards deals with Israel, India on surveillance: Patwari",
-      "summary": "Referring to the Digital Security Act enacted by the previous government, he says the law had been used to justify checking the Facebook and WhatsApp messages of political figures and other people.",
-      "category": "Politics & Government",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/01/31/nasiruddin_patwary.png",
-      "source": "The Business Standard",
-      "sourceUrl": "https://www.tbsnews.net/bangladesh/politics/govt-moving-towards-deals-israel-india-surveillance-patwari-1545921",
-      "publishedAt": "2026-09-19T06:11:31.000Z",
-      "fetchedAt": "2026-09-19T07:55:41.635Z"
     }
   ]
 }
