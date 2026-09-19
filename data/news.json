@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-09-19T07:19:45.221Z",
+  "updatedAt": "2026-09-19T07:32:19.601Z",
   "count": 250,
   "articles": [
+    {
+      "id": "ab26841ce997d692",
+      "title": "Asian Games: Which sport has won India the most medals?",
+      "summary": "Asian Games: Which sport has won India the most medals?. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
+      "category": "Sports",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "The Indian Express",
+      "sourceUrl": "https://indianexpress.com/article/sports/asian-games-india-most-medals-athletics-wrestling-kabaddi-shooting-10884780/",
+      "publishedAt": "2026-09-19T07:17:14.000Z",
+      "fetchedAt": "2026-09-19T07:32:10.511Z"
+    },
+    {
+      "id": "a543998174b4ad54",
+      "title": "Satya Nadella addresses “IDEAS4INDIA”: Indian American Tech CEOs Forum hosted by CGI Seattle",
+      "summary": "Indias Consulate in Seattle brought together more than 40 Indian-origin technology CEOs and CTOs, including Microsofts Satya Nadella, to discuss ways to deepen the India-US technology partnership. The forum focused on AI infrastructure, semiconductors, quantum computing, data centres, aerospace and skilling, as US technology majors expand investments and operations in…",
+      "category": "Technology",
+      "image": "https://img.etimg.com/thumb/msid-134349817,width-1200,height-630,imgsize-1189562,overlay-economictimes/articleshow.jpg",
+      "source": "The Economic Times",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/satya-nadella-addresses-ideas4india-indian-american-tech-ceos-forum-hosted-by-cgi-seattle/articleshow/134349792.cms?from=mdr",
+      "publishedAt": "2026-09-19T07:13:46.000Z",
+      "fetchedAt": "2026-09-19T07:32:13.221Z"
+    },
     {
       "id": "7c432d591e74751b",
       "title": "Asian Games 2026 Men's Cricket: Full Schedule, Date, IST Time, Squad And Where To Watch",
@@ -133,6 +155,17 @@
       "sourceUrl": "https://english.nepalnews.com/s/business/finance-minister-wagle-calls-for-indian-investment-in-nepal/",
       "publishedAt": "2026-09-19T05:59:19.000Z",
       "fetchedAt": "2026-09-19T06:15:38.316Z"
+    },
+    {
+      "id": "2b27ef6b4b33760c",
+      "title": "From ISR to electronic warfare: Drones reshape India’s military doctrine",
+      "summary": "As battlefields evolve, so do the systems that define victory and vulnerability. With just over a decade of their induction in...",
+      "category": "Technology",
+      "image": "https://mediaindia.eu/wp-content/uploads/2026/06/IO-Lead-5.jpg",
+      "source": "Media India Group",
+      "sourceUrl": "https://mediaindia.eu/defence-aerospace/from-isr-to-electronic-warfare-drones-reshape-indias-military-doctrine/",
+      "publishedAt": "2026-09-19T05:58:23.000Z",
+      "fetchedAt": "2026-09-19T07:32:14.568Z"
     },
     {
       "id": "5754781f7be50374",
@@ -287,6 +320,17 @@
       "sourceUrl": "https://astanatimes.com/2026/09/kazakhstan-eyes-cross-border-qr-payments-as-indias-upi-offers-blueprint/",
       "publishedAt": "2026-09-19T04:45:33.000Z",
       "fetchedAt": "2026-09-19T04:51:20.848Z"
+    },
+    {
+      "id": "c37ef24a70aa3dc3",
+      "title": "'I didn't know if people will like this film or not': 'Gondhal' director Santosh Davakhar on Oscars entry",
+      "summary": "The Times of India brings the Latest & Top Breaking News on Politics and Current Affairs in India & around the World, Cricket, Sports, Business, Bollywood News and Entertainment, Science, Technology, Health & Fitness news & opinions from leading columnists.",
+      "category": "Entertainment",
+      "image": "https://static.toiimg.com/thumb/msid-134347911,width-1280,height-720,imgsize-171549,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/marathi/movies/news/i-didnt-know-if-people-will-like-this-film-or-not-gondhal-director-santosh-davakhar-on-oscars-entry/amp_articleshow/134347901.cms",
+      "publishedAt": "2026-09-19T04:44:00.000Z",
+      "fetchedAt": "2026-09-19T07:32:12.228Z"
     },
     {
       "id": "770d278c7d18cad0",
@@ -2698,59 +2742,15 @@
       "fetchedAt": "2026-09-18T11:59:23.306Z"
     },
     {
-      "id": "e4834a223730419d",
-      "title": "Why BSc (Hons) Food Technology at Shoolini Stands Out for Careers?",
-      "summary": "Explore BSc (Hons) Food Technology, its career scope, jobs, research opportunities and industry prospects in India.",
-      "category": "Technology",
-      "image": "https://shooliniuniversity.com/blog/wp-content/uploads/2026/09/BSc-Hons-Food-Technology.png",
-      "source": "Shoolini University",
-      "sourceUrl": "https://shooliniuniversity.com/blog/why-bsc-hons-food-technology-at-shoolini-stands-out-for-careers/",
-      "publishedAt": "2026-09-18T11:44:12.000Z",
-      "fetchedAt": "2026-09-18T17:24:38.218Z"
-    },
-    {
-      "id": "7e235e44ac4bc030",
-      "title": "NIT Raipur Hosts 4th International Conference on Ambient Intelligence in Health Care",
-      "summary": "Department of Computer Applications, National Institute of Technology Raipur, inaugurated the two-da",
-      "category": "Technology",
-      "image": "https://www.pib.gov.in/pib.gov.in/images/indian-emblem.png",
-      "source": "PIB",
-      "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2312127&reg=48&lang=2",
-      "publishedAt": "2026-09-18T11:43:00.000Z",
-      "fetchedAt": "2026-09-18T23:01:25.463Z"
-    },
-    {
-      "id": "6a260eeda54be546",
-      "title": "CBFC’s new film rules mention ‘anti-national’ content, internet reacts: ‘Call yourself Central Board of Film Censorship’ | Bollywood",
-      "summary": "The new rules also reiterate restrictions on violence, sensitive subjects and content that could affect India’s relations with other countries. | Bollywood",
-      "category": "National & Trending News",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/18/1600x900/logo/cbfc_1789727292645_4Tpq_1789727292799_jZ4V_cfa32326-0f00-40fa-a97d-95ebe7ef5570_WlAS.jpeg",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/entertainment/bollywood/cbfc-new-film-rules-mention-anti-national-content-internet-says-call-yourself-central-board-of-film-censorship-101789724688787.html",
-      "publishedAt": "2026-09-18T11:38:54.000Z",
-      "fetchedAt": "2026-09-18T11:59:30.545Z"
-    },
-    {
-      "id": "9e1167ad8fe60031",
-      "title": "\"Will Harm Bilateral Ties!\": India Warns US Over Proposed 100% Tariff Threat | BREKAING NEWS",
-      "summary": "| India warns the US over its proposed 100% tariff tariff tyranny, cautioning that such measures could impact bilateral ties between the two countries n18oc_worldn18oc_breaking-newsNews18 Mobile App - https://onelink.to/desc-youtube",
-      "category": "Crime & Breaking News",
-      "image": "https://images.news18.com/ibnlive/uploads/2026/09/1789732033_5cb05fef-aca3-4d49-9806-db9285782d73-1200x675.jpeg",
-      "source": "News18",
-      "sourceUrl": "https://www.news18.com/videos/world/will-harm-bilateral-ties-india-warns-us-over-proposed-100-tariff-threat-brekaing-news-10339181.html",
-      "publishedAt": "2026-09-18T11:38:00.000Z",
-      "fetchedAt": "2026-09-18T11:59:20.198Z"
-    },
-    {
-      "id": "85f43928ee7cd821",
-      "title": "India’s One Nation, One Time Push Forces GCCs to Rethink 24/7 Operations",
-      "summary": "India’s One Nation, One Time Push Forces GCCs to Rethink 24/7 Operations. This update was reported by analyticsindiamag.com. Open the original report for full context and any developing updates.",
-      "category": "Technology",
-      "image": "https://storage.googleapis.com/gpt-engineer-file-uploads/XW65pun0vjQL3xcUmVglEg4ZrsL2/social-images/social-1763560217027-Expert-Panel-discussion-768x512.webp",
-      "source": "analyticsindiamag.com",
-      "sourceUrl": "https://analyticsindiamag.com/gcc/indias-one-nation-one-time-push-forces-gccs-to-rethink-247-operations",
-      "publishedAt": "2026-09-18T11:35:16.000Z",
-      "fetchedAt": "2026-09-18T12:56:03.718Z"
+      "id": "5418482bb56016ce",
+      "title": "MA Political Science Course in India: Jobs, Salary and Future Scope",
+      "summary": "College Mentor connects you with Mentors who share their experiences, provide insights, educational content and inspire you to reach for the stars",
+      "category": "Politics & Government",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EPolitics%20%26amp%3B%20Government%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "College Mentor",
+      "sourceUrl": "https://www.collegementor.com/blogs/ma-political-science-course-in-india",
+      "publishedAt": "2026-09-18T11:46:26.000Z",
+      "fetchedAt": "2026-09-19T07:32:08.907Z"
     }
   ]
 }
