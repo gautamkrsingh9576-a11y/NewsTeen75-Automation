@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-09-19T04:08:16.738Z",
+  "updatedAt": "2026-09-19T04:24:50.304Z",
   "count": 250,
   "articles": [
+    {
+      "id": "5beedf45c8c6f469",
+      "title": "India changes Asian Games flag-bearer over uniform delay — Channel NewsAsia",
+      "summary": "India replaced shot putter Tajinderpal Singh Toor as its male Asian Games opening ceremony flag-bearer after his ceremonial uniform was delayed.",
+      "category": "Sports",
+      "image": "https://cdn-cabinet.ua.news/uploads/images/india_changed_asian_games_flagbearer_ove_1789791147730.webp",
+      "source": "UA.NEWS",
+      "sourceUrl": "https://ua.news/en/sport/indiia-zminila-praporonostsia-aziiskikh-igor-cherez-zatrimku-formi-channel-newsasia",
+      "publishedAt": "2026-09-19T04:20:18.000Z",
+      "fetchedAt": "2026-09-19T04:24:41.504Z"
+    },
+    {
+      "id": "33b9ed0d4ca020ee",
+      "title": "'Delhi a terrifying daily story for women': Rahul, Priyanka slam Amit Shah over teen's gangrape-murder",
+      "summary": "दिल्ली में 17 साल की युवती के साथ गैंगरेप हुआ, उसकी हत्या कर शव खुले मैदान में फेंक दिया गया। राजधानी में इतनी बड़ी दरिंदगी और पुलिस को कई दिनों तक भनक नहीं लगती।दुर्भाग्य है कि दिल्ली आज राजधानी नहीं, महिलाओं के लिए हर दिन की खौफनाक कहानी बनकर रह…",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134347444,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/delhi-a-terrifying-daily-story-for-women-rahul-priyanka-slam-amit-shah-over-teens-gangrape-murder/articleshow/134347405.cms",
+      "publishedAt": "2026-09-19T04:11:00.000Z",
+      "fetchedAt": "2026-09-19T04:24:39.599Z"
+    },
+    {
+      "id": "8cae69994fe22d57",
+      "title": "Star New Zealand batter injured during ad shoot, doubtful for India series",
+      "summary": "Star New Zealand batter injured during ad shoot, doubtful for India series. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
+      "category": "Sports",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "The Indian Express",
+      "sourceUrl": "https://indianexpress.com/article/sports/cricket/new-zealand-rachin-ravindra-injury-diving-catch-ad-shoot-india-series-10884616/",
+      "publishedAt": "2026-09-19T04:09:37.000Z",
+      "fetchedAt": "2026-09-19T04:24:40.790Z"
+    },
     {
       "id": "da510166e8c1a090",
       "title": "Yuvraj Singh's 6 sixes off Stuart Broad: 19 years of an historic T20I moment",
@@ -12,6 +45,17 @@
       "sourceUrl": "https://www.indiatoday.in/sports/cricket/story/yuvraj-singh-six-sixes-stuart-broad-19-years-t20-world-cup-2007-on-this-day-2998105-2026-09-19",
       "publishedAt": "2026-09-19T04:02:33.000Z",
       "fetchedAt": "2026-09-19T04:08:08.988Z"
+    },
+    {
+      "id": "0dccad530267d083",
+      "title": "Aye Finance CTO Appointment and Q1 FY27 Business Performance Updates",
+      "summary": "Aye Finance CTO Appointment and Q1 FY27 Business Performance Updates. This update was reported by Kalkine India. Open the original report for full context and any developing updates.",
+      "category": "Business & Finance",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EBusiness%20%26amp%3B%20Finance%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "Kalkine India",
+      "sourceUrl": "https://www.kalkine.co.in/article/financial/aye-finance-appoints-nishit-shrivastava-as-cto-to-drive-technology-led-lending-expansion",
+      "publishedAt": "2026-09-19T03:47:00.000Z",
+      "fetchedAt": "2026-09-19T04:24:47.052Z"
     },
     {
       "id": "b83732e9b0b0f1e4",
@@ -78,6 +122,17 @@
       "sourceUrl": "https://www.indiatoday.in/amp/education-today/news/story/quote-of-the-day-by-vikram-sarabhai-we-must-be-second-to-none-in-the-application-of-advanced-2997942-2026-09-19",
       "publishedAt": "2026-09-19T03:00:00.000Z",
       "fetchedAt": "2026-09-19T04:08:11.173Z"
+    },
+    {
+      "id": "e08372d483624330",
+      "title": "University of Western Australia opens first India campus in Mumbai’s Andheri East - Mid-Day",
+      "summary": "University of Western Australia launches its first India campus in Mumbai’s Andheri East, with its first batch of students set to begin classes this month",
+      "category": "Entertainment",
+      "image": "https://images.mid-day.com/images/images/2026/sep/ind-aus-prati-a-1789776389306_d.png",
+      "source": "Mid-Day",
+      "sourceUrl": "https://www.mid-day.com/amp/mumbai/mumbai-news/article/bullish-about-india-university-of-western-australia-opens-first-india-campus-in-mumbai-23650734",
+      "publishedAt": "2026-09-19T02:54:00.000Z",
+      "fetchedAt": "2026-09-19T04:24:43.017Z"
     },
     {
       "id": "cb06dd9956fb1430",
@@ -254,6 +309,17 @@
       "sourceUrl": "https://thefederal.com/category/sports/asian-games-2026-preview-japan-india-eye-record-haul-257023",
       "publishedAt": "2026-09-19T01:00:00.000Z",
       "fetchedAt": "2026-09-19T02:30:31.938Z"
+    },
+    {
+      "id": "51d8adeb6ee37520",
+      "title": "The 54 Best TV Shows on Amazon Prime Video Right Now (September 2026)",
+      "summary": "The 54 Best TV Shows on Amazon Prime Video Right Now (September 2026). This update was reported by TVGuide.com. Open the original report for full context and any developing updates.",
+      "category": "Crime & Breaking News",
+      "image": "https://www.tvguide.com/a/img/resize/bfc56c6631ab930bd038527ac4e999d9b32a03f4/hub/2026/09/18/53c7b1d9-b8b8-4d76-985a-9a0ebee8f078/rspi-s1-ut-103-250317-lansab-00086r-cropc2-3000.jpg?auto=webp",
+      "source": "TVGuide.com",
+      "sourceUrl": "https://www.tvguide.com/news/best-tv-shows-on-amazon-prime-video/",
+      "publishedAt": "2026-09-19T00:58:00.000Z",
+      "fetchedAt": "2026-09-19T04:24:39.987Z"
     },
     {
       "id": "50d5f7a7bc01fed2",
@@ -2685,72 +2751,6 @@
       "sourceUrl": "https://www.wionews.com/entertainment/bts-arirang-tickets-go-live-in-india-check-dates-for-buenos-aires-s-o-paulo-screenings-1789719642552",
       "publishedAt": "2026-09-18T10:04:00.000Z",
       "fetchedAt": "2026-09-18T13:12:43.116Z"
-    },
-    {
-      "id": "5ce3d96c9e1883d1",
-      "title": "KBC 18: 26-year-old SC lawyer quits at Rs 25 lakh question on Vasco da Gama’s India voyage",
-      "summary": "KBC 18: 26-year-old SC lawyer quits at Rs 25 lakh question on Vasco da Gama’s India voyage. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
-      "category": "Entertainment",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EEntertainment%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "The Indian Express",
-      "sourceUrl": "https://indianexpress.com/article/entertainment/television/kbc-18-26-year-old-sc-lawyer-quits-at-25-lakh-after-vasco-da-gama-india-question-10883610/",
-      "publishedAt": "2026-09-18T10:03:21.000Z",
-      "fetchedAt": "2026-09-18T10:25:07.755Z"
-    },
-    {
-      "id": "74c4a2b19417013a",
-      "title": "Another Big Development for Andhra: Mazagon Dock Shipbuilders Ltd (MDL) to develop Greenfield Shipyard at Dugarajapatnam",
-      "summary": "Another Big Development for Andhra: Mazagon Dock Shipbuilders Ltd (MDL) to develop Greenfield Shipyard at Dugarajapatnam. This update was reported by India Technology News. Open the original report for full context and any developing updates.",
-      "category": "Technology",
-      "image": "https://indiatechnologynews.in/wp-content/uploads/2026/09/MDL_Dugarajapatnam_Shipyard_02.jpeg",
-      "source": "India Technology News",
-      "sourceUrl": "https://indiatechnologynews.in/another-big-development-for-andhra-mazagon-dock-shipbuilders-ltd-mdl-to-develop-greenfield-shipyard-at-dugarajapatnam/",
-      "publishedAt": "2026-09-18T09:59:41.000Z",
-      "fetchedAt": "2026-09-18T13:12:45.193Z"
-    },
-    {
-      "id": "0759bd22d1e4c751",
-      "title": "Cinema Entertainment Parks Penny Stocks 2027: 5 Picks",
-      "summary": "Explore 5 cinema and entertainment parks penny stocks in India 2027, from Entertainment Network to Touchwood Entertainment, with live CMP, market cap, PE and ROE data before you invest.",
-      "category": "Entertainment",
-      "image": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/09/cinema-entertainment-parks-penny-stocks-india-2027.png",
-      "source": "Univest",
-      "sourceUrl": "https://univest.in/blogs/cinema-entertainment-parks-penny-stocks-india-2027",
-      "publishedAt": "2026-09-18T09:59:00.000Z",
-      "fetchedAt": "2026-09-18T20:59:19.603Z"
-    },
-    {
-      "id": "29529ce8a373f9e3",
-      "title": "PM Modi Becomes Longest-Serving Elected Head of Government in India",
-      "summary": "PM Modi Becomes Longest-Serving Elected Head of Government in India. This update was reported by News On AIR. Open the original report for full context and any developing updates.",
-      "category": "Politics & Government",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EPolitics%20%26amp%3B%20Government%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "News On AIR",
-      "sourceUrl": "https://newsonair.gov.in/pm-modi-becomes-longest-serving-elected-head-of-government-in-india/",
-      "publishedAt": "2026-09-18T09:58:42.000Z",
-      "fetchedAt": "2026-09-18T13:44:32.830Z"
-    },
-    {
-      "id": "b3de0362f16df999",
-      "title": "Alteryx Brings Governed Business Logic to Enterprise AI at Gartner Data & Analytics Summit 2026",
-      "summary": "Alteryx Brings Governed Business Logic to Enterprise AI at Gartner Data & Analytics Summit 2026. This update was reported by India Technology News. Open the original report for full context and any developing updates.",
-      "category": "Technology",
-      "image": "https://indiatechnologynews.in/wp-content/uploads/2026/09/Arvind-Krishnan-Chief-Technology-Officer-Alteryx.jpeg",
-      "source": "India Technology News",
-      "sourceUrl": "https://indiatechnologynews.in/alteryx-brings-governed-business-logic-to-enterprise-ai-at-gartner-data-analytics-summit-2026/",
-      "publishedAt": "2026-09-18T09:53:05.000Z",
-      "fetchedAt": "2026-09-18T10:08:01.363Z"
-    },
-    {
-      "id": "0dfdacdeb72f389a",
-      "title": "Asian Games: India lose to Indonesia in men's team quarterfinals of soft tennis",
-      "summary": "India collected a couple of wins in the group stage before losing 0-2 to Indonesia in the men's team quarterfinals of the Asian Games soft tennis competition here on Friday.",
-      "category": "Sports",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/soft-tennis-18521353-16x9_0.jpg?VersionId=Qg0wF3KIREuIGr92QKxFD47U_jrNW0Pg",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/sports/asian-games/story/asian-games-india-lose-indonesia-men-soft-tennis-quarterfinals-2997630-2026-09-18",
-      "publishedAt": "2026-09-18T09:52:34.000Z",
-      "fetchedAt": "2026-09-18T11:05:30.220Z"
     }
   ]
 }
