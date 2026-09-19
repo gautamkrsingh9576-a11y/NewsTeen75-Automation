@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-09-19T12:24:47.499Z",
+  "updatedAt": "2026-09-19T12:42:12.713Z",
   "count": 250,
   "articles": [
+    {
+      "id": "889671e3bf573d60",
+      "title": "India men’s cricket team to wear BCCI jersey for Japan T20I, Asian Games kit issue resolved: MYAS sources",
+      "summary": "The India men's cricket team will wear the BCCI jersey for its historic One-Off T20I match against Japan, while the team has received its official Asian Games kit for the remainder of the tournament, a Ministry of Youth Affairs and Sports (MYAS) source told ANI on Saturday.",
+      "category": "Sports",
+      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260919120228-thumbnail-320x180-70.jpg",
+      "source": "ANI News",
+      "sourceUrl": "https://www.aninews.in/news/sports/cricket/india-men8217s-cricket-team-to-wear-bcci-jersey-for-japan-t20i-asian-games-kit-issue-resolved-myas-sources20260919175928/",
+      "publishedAt": "2026-09-19T12:29:00.000Z",
+      "fetchedAt": "2026-09-19T12:42:04.652Z"
+    },
+    {
+      "id": "5310b692ed205ffb",
+      "title": "Asian Games 2026 India Day 2 schedule: Cricket semifinal, hockey, and shooting headline 20th September for contingent | Hindustan Times",
+      "summary": "India face their first packed Asian Games 2026 day on September 20, with a cricket semifinal, hockey openers and&nbsp;",
+      "category": "Sports",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/19/1600x900/logo/PTI09-19-2026-000304A-0_1789819364785_hUet_1789819463597_4ciR_24746265-9c80-4040-bb3b-65d97c72edd9_sTfo.jpg",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/sports/others/asian-games-2026-india-day-2-schedule-cricket-semifinal-hockey-and-shooting-headline-20th-september-for-contingent-101789819091722.html",
+      "publishedAt": "2026-09-19T12:15:58.000Z",
+      "fetchedAt": "2026-09-19T12:42:04.890Z"
+    },
     {
       "id": "a4f08505e77cd902",
       "title": "AI spending is surging, but when does it create value? Morgan Stanley’s ROIIC lesson for India",
@@ -34,6 +56,28 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/18-years-after-the-2008-financial-meltdown-how-a-crisis-born-in-us-reshaped-india/articleshow/134352862.cms",
       "publishedAt": "2026-09-19T11:55:00.000Z",
       "fetchedAt": "2026-09-19T12:03:00.360Z"
+    },
+    {
+      "id": "fbdbffa6bc166281",
+      "title": "Punjab govt helping turn youth’s ideas into reality: Mann",
+      "summary": "Mohali, Sep 19 (PTI) Punjab Chief Minister Bhagwant Mann on Saturday said his government is creating a robust ecosystem of opportunities, financial support and institutional backing to turn the youth’s ideas into reality. Mann was addressing the ISB Leadership Summit-2026 on the Mohali campus of the Indian School of Business…",
+      "category": "Politics & Government",
+      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
+      "source": "ThePrint",
+      "sourceUrl": "https://theprint.in/india/punjab-govt-helping-turn-youths-ideas-into-reality-mann/3047488/",
+      "publishedAt": "2026-09-19T11:49:18.000Z",
+      "fetchedAt": "2026-09-19T12:42:01.916Z"
+    },
+    {
+      "id": "c8702d147d4e776a",
+      "title": "World Bank raises India’s growth forecast from 6.3 to 6.6 percent for current financial year",
+      "summary": "World Bank raises India’s growth forecast from 6.3 to 6.6 percent for current financial year. This update was reported by News On AIR. Open the original report for full context and any developing updates.",
+      "category": "Business & Finance",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EBusiness%20%26amp%3B%20Finance%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "News On AIR",
+      "sourceUrl": "https://newsonair.gov.in/world-bank-raises-indias-growth-forecast-from-6-3-to-6-6-percent-for-current-financial-year/",
+      "publishedAt": "2026-09-19T11:30:50.000Z",
+      "fetchedAt": "2026-09-19T12:42:09.594Z"
     },
     {
       "id": "a8bce6c8da8b5853",
@@ -111,6 +155,17 @@
       "sourceUrl": "https://www.thestatesman.com/sports/asian-games-bhaker-sehrawat-lead-india-contingent-as-nagoya-games-officially-open-1503640463.html",
       "publishedAt": "2026-09-19T11:11:00.000Z",
       "fetchedAt": "2026-09-19T11:50:34.841Z"
+    },
+    {
+      "id": "ea85089fff8093aa",
+      "title": "Army chief Seth concludes Russia visit, holds talks on defence cooperation",
+      "summary": "Moscow: Chief of Army Staff General Dhiraj Seth has concluded his three-day official visit to Russia, during which he interacted with senior military leadership of the country and visited key military institutions, Indian military officials said Saturday. The visit, which concluded Friday, provided fresh impetus to India-Russia defence cooperation, with…",
+      "category": "National & Trending News",
+      "image": "https://www.orissapost.com/wp-content/uploads/2026/06/Gen-Dhiraj-Seth-takes-charge-as-new-Army-Chief.jpg",
+      "source": "orissapost.com",
+      "sourceUrl": "https://www.orissapost.com/army-chief-seth-concludes-russia-visit-holds-talks-on-defence-cooperation/",
+      "publishedAt": "2026-09-19T11:07:51.000Z",
+      "fetchedAt": "2026-09-19T12:42:12.712Z"
     },
     {
       "id": "8855922a2f8cad62",
@@ -542,6 +597,17 @@
       "fetchedAt": "2026-09-19T09:40:30.822Z"
     },
     {
+      "id": "a6da3bd61f2fea52",
+      "title": "L&T Semiconductor, Tata Electronics Join Hands To Manufacture India-Designed Chips For Global Markets",
+      "summary": "L&T Semiconductor, Tata Electronics Join Hands To Manufacture India-Designed Chips For Global Markets. This update was reported by swarajyamag.com. Open the original report for full context and any developing updates.",
+      "category": "Technology",
+      "image": "https://swarajya.gumlet.io/swarajya%2F2026-09-19%2Fldyr6qi1%2FPic-Via-LT-website.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "swarajyamag.com",
+      "sourceUrl": "https://swarajyamag.com/amp/story/tech%2Flt-semiconductor-tata-electronics-join-hands-to-manufacture-india-designed-chips-for-global-markets",
+      "publishedAt": "2026-09-19T09:10:27.000Z",
+      "fetchedAt": "2026-09-19T12:42:07.217Z"
+    },
+    {
       "id": "23d3846048a7ebad",
       "title": "Beej - Official Trailer​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
       "summary": "Watch the Official trailer​ from punjabi​​​​ movie 'Beej' starring Gurjot Mann, Rajdeep Singh, Balwinder Dhaliwal and Gill Malkit. 'Beej' movie is directed by Manshendra Singh. To know more about 'Beej' trailer​ watch the video. Check out the latest punjabi​​​​ trailer​s, new movie trailer​s, trending punjabi​​​​ movie trailer​, and more at…",
@@ -683,6 +749,17 @@
       "sourceUrl": "https://www.espn.in/espn/story/_/id/49974109/indian-teams-action-fide-chess-olympiad-quimcy-dsouza-asian-games-teqball-semifinal-indian-sports-live-september-19",
       "publishedAt": "2026-09-19T08:30:47.000Z",
       "fetchedAt": "2026-09-19T10:20:38.154Z"
+    },
+    {
+      "id": "8362b2d7c9a74928",
+      "title": "Delhi gang-rape: Chargesheet in a week, 3 juveniles to face adult trial, say cops | India News",
+      "summary": "Delhi gang-rape: Chargesheet in a week, 3 juveniles to face adult trial, say cops | India News. This update was reported by Hindustan Times. Open the original report for full context and any developing updates.",
+      "category": "Crime & Breaking News",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/19/1600x900/logo/The-four-allegedly-gang-raped-the-girl-in-the-earl_1789806297945_5ePT.jpg",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/delhi-gang-rape-chargesheet-in-a-week-3-juveniles-to-face-adult-trial-say-cops-101789806305209-amp.html",
+      "publishedAt": "2026-09-19T08:25:04.000Z",
+      "fetchedAt": "2026-09-19T12:42:03.048Z"
     },
     {
       "id": "431a6b7802f64724",
@@ -2258,6 +2335,17 @@
       "fetchedAt": "2026-09-19T05:32:26.286Z"
     },
     {
+      "id": "86cc303798a87796",
+      "title": "School gun incident, Franklin man charged",
+      "summary": "Prosecutors said a Franklin man pointed a gun at an Indian Community School employee during a property-line dispute as the employee cleared brush.",
+      "category": "Crime & Breaking News",
+      "image": "https://images.foxtv.com/static.fox6now.com/www.fox6now.com/content/uploads/2026/09/1200/630/5p-ics-folo-looklive-pkg_00.00.00.00.jpg?ve=1&tl=1",
+      "source": "FOX6 News Milwaukee",
+      "sourceUrl": "https://www.fox6now.com/news/indian-community-school-franklin-gun-incident-charges",
+      "publishedAt": "2026-09-18T21:30:08.000Z",
+      "fetchedAt": "2026-09-19T12:42:02.666Z"
+    },
+    {
       "id": "4f8a73fbf40b67fe",
       "title": "When dissent was a democratic duty: Remembering Jageshwar Mandal",
       "summary": "When dissent was a democratic duty: Remembering Jageshwar Mandal. This update was reported by Counterview. Open the original report for full context and any developing updates.",
@@ -2663,94 +2751,6 @@
       "sourceUrl": "https://www.indiatoday.in/sports/other-sports/story/d-gukesh-returns-to-winning-ways-as-india-beat-italy-at-chess-olympiad-2998029-2026-09-18",
       "publishedAt": "2026-09-18T18:00:40.000Z",
       "fetchedAt": "2026-09-18T18:19:45.636Z"
-    },
-    {
-      "id": "eb09d33e50c234e8",
-      "title": "Gurugram cops destroyed proof: Family of man allegedly killed by ex-colleague, her partner | India News",
-      "summary": "Manchanda’s relatives said they were unable to recover his ashes and belongings, while police maintained that the remains and personal items were preserved. | India News",
-      "category": "Crime & Breaking News",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/18/1600x900/logo/Manchanda-was-allegedly-killed-by-his-former-colle_1789754387838_ubgL.jpg",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/india-news/gurugram-cops-destroyed-proof-family-of-man-allegedly-killed-by-ex-colleague-her-partner-yuvraj-singh-manchanda-murder-101789754390819.html",
-      "publishedAt": "2026-09-18T17:59:50.000Z",
-      "fetchedAt": "2026-09-19T12:02:52.718Z"
-    },
-    {
-      "id": "f1192e0ec4b63251",
-      "title": "Korean stars Son Ye-jin, Ji Chang-wook and Nana's message to Indian fans: 'Would love to meet you all'",
-      "summary": "Korean stars Son Ye-jin, Ji Chang-wook and Nana's message to Indian fans: 'Would love to meet you all'. This update was reported by MillenniumPost. Open the original report for full context and any developing updates.",
-      "category": "Entertainment",
-      "image": "https://www.millenniumpost.in/h-upload/2026/09/18/1057325-the-scandal-series-lead-stars-1.jpg",
-      "source": "MillenniumPost",
-      "sourceUrl": "https://www.millenniumpost.in/amp/entertainment/korean-stars-son-ye-jin-ji-chang-wook-and-nanas-message-to-indian-fans-would-love-to-meet-you-all-676492",
-      "publishedAt": "2026-09-18T17:55:53.000Z",
-      "fetchedAt": "2026-09-18T20:48:14.526Z"
-    },
-    {
-      "id": "5db2f11ebcdcbfe4",
-      "title": "Pooja Logistics Private Limited Says Truckit India May Compete",
-      "summary": "Pooja Logistics discloses that Truckit India may compete in logistics, while the subsidiary reported Rs 57.73 crore of revenue in financial year 2025.",
-      "category": "Business & Finance",
-      "image": "https://www.multibagg.ai/",
-      "source": "Multibagg AI",
-      "sourceUrl": "https://www.multibagg.ai/market-pulse/articles/pooja-logistics-truckit-india-overlap-drhp-cmu79a1or0002vtpcubq524tv",
-      "publishedAt": "2026-09-18T17:52:08.000Z",
-      "fetchedAt": "2026-09-18T21:17:32.478Z"
-    },
-    {
-      "id": "6af45bc6f0a418a2",
-      "title": "Indian economist raised by single mom wins Janet Yellen’s praise for gender budgeting work",
-      "summary": "Lekha Chakraborty’s chapter in an internationally published new book on women in public finance moves the former US Treasury Secretary who calls her work a rare instance of personal conviction shaping rigorous economic research",
-      "category": "Business & Finance",
-      "image": "https://media.openthemagazine.com/openthemagazine/2026-09-18/u7a458b2/ok.jpg?w=1200&ar=40:21&auto=format,compress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "source": "openthemagazine.com",
-      "sourceUrl": "https://openthemagazine.com/business/indian-economist-raised-by-single-mom-wins-janet-yellens-praise-for-gender-budgeting-work",
-      "publishedAt": "2026-09-18T17:52:00.000Z",
-      "fetchedAt": "2026-09-19T08:29:40.223Z"
-    },
-    {
-      "id": "b49e4cf40fea2007",
-      "title": "'Energy sourcing based on national interest': MEA on purchase of Russian oil",
-      "summary": "'Energy sourcing based on national interest': MEA on purchase of Russian oil. This update was reported by The Economic Times. Open the original report for full context and any developing updates.",
-      "category": "National & Trending News",
-      "image": "https://img.etimg.com/thumb/msid-134341179,width-1200,height-630,imgsize-66352,overlay-economictimes/articleshow.jpg",
-      "source": "The Economic Times",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/india/energy-sourcing-based-on-national-interest-mea-on-purchase-of-russian-oil/articleshow/134341180.cms?UTM_Source=Google_Newsstand&UTM_Campaign=RSS_Feed&UTM_Medium=Referral&from=mdr",
-      "publishedAt": "2026-09-18T17:46:04.000Z",
-      "fetchedAt": "2026-09-18T17:58:22.776Z"
-    },
-    {
-      "id": "5ff63da190752d58",
-      "title": "Chip designed by IIT-ISM team earns national recognition",
-      "summary": "A semiconductor chip designed by students and research scholars at IIT(ISM), Dhanbad, has earned national recognition at Semicon India 2026, highlighting the institute’s growing contribution to indigenous chip design and low-power semiconductor technology.",
-      "category": "National & Trending News",
-      "image": "https://static.toiimg.com/thumb/msid-134341204,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/ranchi/chip-designed-by-iit-ism-team-earns-national-recognition/articleshow/134341205.cms",
-      "publishedAt": "2026-09-18T17:44:00.000Z",
-      "fetchedAt": "2026-09-18T18:19:51.693Z"
-    },
-    {
-      "id": "99c153189b02d305",
-      "title": "India’s women’s Kabaddi team arrives in Japan aiming for fourth consecutive Asian Games gold",
-      "summary": "India’s women’s Kabaddi team arrives in Japan aiming for fourth consecutive Asian Games gold. This update was reported by The News Mill. Open the original report for full context and any developing updates.",
-      "category": "Sports",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "The News Mill",
-      "sourceUrl": "https://thenewsmill.com/2026/09/indias-womens-kabaddi-team-arrives-in-japan-aiming-for-fourth-consecutive-asian-games-gold/",
-      "publishedAt": "2026-09-18T17:42:48.000Z",
-      "fetchedAt": "2026-09-18T17:58:17.233Z"
-    },
-    {
-      "id": "b07a64a804400769",
-      "title": "IPL star Abishek Porel gets bail in rape case after arrest over medical student’s complaint",
-      "summary": "Indian Premier League (IPL) star cricketer Abishek Porel has been granted bail by a Chinsurah court in the alleged rape and criminal intimidation case.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134340778,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/kolkata/ipl-star-abishek-porel-gets-bail-in-rape-case-after-arrest-over-medical-students-complaint/articleshow/134340571.cms",
-      "publishedAt": "2026-09-18T17:40:00.000Z",
-      "fetchedAt": "2026-09-18T17:58:16.415Z"
     }
   ]
 }
