@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T11:39:58.146Z",
+  "updatedAt": "2026-09-19T11:50:44.000Z",
   "count": 250,
   "articles": [
     {
@@ -45,6 +45,28 @@
       "sourceUrl": "https://english.nepalnews.com/s/business/finance-minister-wagle-calls-on-indian-businessmen-to-expand-investment-in-nepal/",
       "publishedAt": "2026-09-19T11:19:22.000Z",
       "fetchedAt": "2026-09-19T11:26:34.398Z"
+    },
+    {
+      "id": "19eee353c01c9992",
+      "title": "Delhi cop, wife found dead in Narela flat locked from inside: Police | India News",
+      "summary": "Police said that around 1pm, the Narela police station received a call regarding a house locked from inside | India News",
+      "category": "Crime & Breaking News",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/19/1600x900/logo/Deputy-commissioner-of-police--outer-north--Shobhi_1789816739985_H0hW.jpg",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/delhi-cop-wife-found-dead-in-narela-flat-locked-from-inside-police-101789816749172.html",
+      "publishedAt": "2026-09-19T11:19:08.000Z",
+      "fetchedAt": "2026-09-19T11:50:34.054Z"
+    },
+    {
+      "id": "b6c8c563ce70c922",
+      "title": "Asian Games: Bhaker, Sehrawat lead India contingent as Nagoya Games officially open",
+      "summary": "Asian Games: Bhaker, Sehrawat lead India contingent as Nagoya Games officially open. This update was reported by thestatesman.com. Open the original report for full context and any developing updates.",
+      "category": "Sports",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "thestatesman.com",
+      "sourceUrl": "https://www.thestatesman.com/sports/asian-games-bhaker-sehrawat-lead-india-contingent-as-nagoya-games-officially-open-1503640463.html",
+      "publishedAt": "2026-09-19T11:11:00.000Z",
+      "fetchedAt": "2026-09-19T11:50:34.841Z"
     },
     {
       "id": "8855922a2f8cad62",
@@ -111,6 +133,17 @@
       "sourceUrl": "https://www.indiatoday.in/entertainment/ott/story/choose-your-words-samay-raina-warns-nawazuddin-on-latent-recalls-ranveer-allahbadia-row-2998273-2026-09-19",
       "publishedAt": "2026-09-19T10:52:31.000Z",
       "fetchedAt": "2026-09-19T10:56:23.040Z"
+    },
+    {
+      "id": "b1df0552f5ccaae7",
+      "title": "NCP (SP) asks Centre to spell out economic fallout of US tariff threat over Russian oil",
+      "summary": "NCP (SP) asks Centre to spell out economic fallout of US tariff threat over Russian oil. This update was reported by The Economic Times. Open the original report for full context and any developing updates.",
+      "category": "Politics & Government",
+      "image": "https://m.economictimes.com/thumb/width-1280,height-720,imgsize-54098,msid-134352322/ncp-sp-asks-centre-to-spell-out-economic-fallout-of-us-tariff-threat-over-russian-oil.jpg",
+      "source": "The Economic Times",
+      "sourceUrl": "https://m.economictimes.com/news/politics-and-nation/ncp-sp-urges-government-to-reveal-economic-risks-of-us-tariffs-on-russian-oil-as-fuel-prices-loom/amp_articleshow/134352048.cms",
+      "publishedAt": "2026-09-19T10:36:00.000Z",
+      "fetchedAt": "2026-09-19T11:50:33.204Z"
     },
     {
       "id": "d0125d49150e7331",
@@ -309,6 +342,17 @@
       "sourceUrl": "https://economictimes.indiatimes.com/news/india/tragic-shooting-in-amritsar-asi-gunned-down-in-grain-market-second-murder-in-islamabad-district/articleshow/134351428.cms?from=mdr",
       "publishedAt": "2026-09-19T09:35:02.000Z",
       "fetchedAt": "2026-09-19T11:39:49.082Z"
+    },
+    {
+      "id": "cb916e7bc45562a0",
+      "title": "UWA opens Mumbai Campus; MBA course to commence from November",
+      "summary": "UWA opens a Mumbai campus offering MBA programs starting November 2026, enhancing education and industry ties in India.",
+      "category": "Business & Finance",
+      "image": "https://th-i.thgim.com/public/incoming/9vhmo7/article71484210.ece/alternates/FREE_1200/20260918236L.jpg",
+      "source": "The Hindu",
+      "sourceUrl": "https://www.thehindu.com/education/uwa-opens-mumbai-campus-mba-course-to-commence-from-november/article71480282.ece/amp/",
+      "publishedAt": "2026-09-19T09:32:24.000Z",
+      "fetchedAt": "2026-09-19T11:50:42.029Z"
     },
     {
       "id": "3af1102ee1d6d7ca",
@@ -727,6 +771,17 @@
       "sourceUrl": "https://medicalbuyer.co.in/integris-medtech-names-dev-tripathy-as-group-cfo/",
       "publishedAt": "2026-09-19T07:30:00.000Z",
       "fetchedAt": "2026-09-19T10:56:27.321Z"
+    },
+    {
+      "id": "dc0fd5a22e02a4f8",
+      "title": "BRICS Bharat Innovates Exposition showcases 37 Indian deep-tech startups in New Delhi",
+      "summary": "BRICS Bharat Innovates Exposition showcases 37 Indian deep-tech startups in New Delhi. This update was reported by DD News. Open the original report for full context and any developing updates.",
+      "category": "Technology",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "DD News",
+      "sourceUrl": "https://ddnews.gov.in/en/brics-bharat-innovates-exposition-showcases-37-indian-deep-tech-startups-in-new-delhi/",
+      "publishedAt": "2026-09-19T07:27:49.000Z",
+      "fetchedAt": "2026-09-19T11:50:39.273Z"
     },
     {
       "id": "7a8128c134f56b6c",
@@ -1643,6 +1698,17 @@
     },
     {
       "id": "e08372d483624330",
+      "title": "University of Western Australia opens first India campus in Mumbai’s Andheri East - mid-day.com",
+      "summary": "University of Western Australia launches its first India campus in Mumbai’s Andheri East, with its first batch of students set to begin classes this month",
+      "category": "Entertainment",
+      "image": "https://images.mid-day.com/images/images/2026/sep/ind-aus-prati-a-1789776389306_d.png",
+      "source": "mid-day.com",
+      "sourceUrl": "https://www.mid-day.com/amp/mumbai/mumbai-news/article/bullish-about-india-university-of-western-australia-opens-first-india-campus-in-mumbai-23650734",
+      "publishedAt": "2026-09-19T02:54:00.000Z",
+      "fetchedAt": "2026-09-19T11:50:36.437Z"
+    },
+    {
+      "id": "e08372d483624330",
       "title": "University of Western Australia opens first India campus in Mumbai’s Andheri East - Mid-Day",
       "summary": "University of Western Australia launches its first India campus in Mumbai’s Andheri East, with its first batch of students set to begin classes this month",
       "category": "Entertainment",
@@ -2357,6 +2423,17 @@
       "fetchedAt": "2026-09-18T20:36:21.371Z"
     },
     {
+      "id": "408a1de84189006c",
+      "title": "India-France defence cooperation deepens with technology transfer and joint production",
+      "summary": "India-France defence cooperation deepens with technology transfer and joint production. This update was reported by DD News. Open the original report for full context and any developing updates.",
+      "category": "Technology",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "DD News",
+      "sourceUrl": "https://ddnews.gov.in/en/india-france-defence-cooperation-deepens-with-technology-transfer-and-joint-production/",
+      "publishedAt": "2026-09-18T18:31:17.000Z",
+      "fetchedAt": "2026-09-19T11:50:37.798Z"
+    },
+    {
       "id": "c827994bbf7c5983",
       "title": "Asian Games 2026 India schedule today, September 19: Opening Ceremony, Quimcy Dsouza in teqball on agenda",
       "summary": "India's Asian Games 2026 schedule for today, Saturday, September 19, features the Opening Ceremony and Quimcy Dsouza in teqball. Know schedule and match start times.",
@@ -2674,83 +2751,6 @@
       "sourceUrl": "https://www.livemint.com/news/india/asian-games-2026-sports-ministry-reaches-out-to-indian-diaspora-amid-accommodation-crisis-in-nagoya-11789744884314.html",
       "publishedAt": "2026-09-18T16:40:17.000Z",
       "fetchedAt": "2026-09-18T16:55:19.504Z"
-    },
-    {
-      "id": "ea79080650c9efd7",
-      "title": "Delhi HC grants bail to UK national Jagtar Singh Johal in 7 NIA cases after 8 years in custody | India News",
-      "summary": "A Division Bench of Justice Navin Chawla and Justice Ravinder Dudeja set aside the trial court orders refusing bail and directed Johal’s release. | India News",
-      "category": "National & Trending News",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/18/1600x900/logo/delhi_hc_1742542787654_1789747635467_8D2x_dc315f9a-bb3b-402d-b08b-96845d9c6f85_Bw2i.jpg",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/india-news/delhi-hc-grants-bail-to-uk-national-jagtar-singh-johal-in-7-nia-cases-after-8-years-in-custody-101789744817313.html",
-      "publishedAt": "2026-09-18T16:38:34.000Z",
-      "fetchedAt": "2026-09-18T16:44:48.236Z"
-    },
-    {
-      "id": "a536715914dcf42f",
-      "title": "Nawazuddin Siddiqui gets roasted over Thamma on India’s Got Latent: ‘So, what went wrong?’",
-      "summary": "Nawazuddin Siddiqui gets roasted over Thamma on India’s Got Latent: ‘So, what went wrong?’. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
-      "category": "Entertainment",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EEntertainment%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "The Indian Express",
-      "sourceUrl": "https://indianexpress.com/article/entertainment/bollywood/nawazuddin-siddiqui-gets-roasted-over-thamma-on-indias-got-latent-10884235/",
-      "publishedAt": "2026-09-18T16:26:05.000Z",
-      "fetchedAt": "2026-09-18T16:31:08.513Z"
-    },
-    {
-      "id": "8db1693f869db554",
-      "title": "India, Russia set to deepen defence ties with focus on technology sharing, joint production: Report",
-      "summary": "India, Russia set to deepen defence ties with focus on technology sharing, joint production: Report. This update was reported by FM Bharat. Open the original report for full context and any developing updates.",
-      "category": "Technology",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "FM Bharat",
-      "sourceUrl": "https://www.fmbharat.com/en/world/india-russia-set-to-deepen-defence-ties-with-focus-on-technology-sharing-joint-production-report",
-      "publishedAt": "2026-09-18T16:22:26.000Z",
-      "fetchedAt": "2026-09-18T19:41:40.281Z"
-    },
-    {
-      "id": "0a7f0f7ae5ce0d42",
-      "title": "India trail 0-2 to South Korea in Davis Cup 2026 qualifiers",
-      "summary": "India trail 0-2 to South Korea in Davis Cup 2026 qualifiers. This update was reported by The News Mill. Open the original report for full context and any developing updates.",
-      "category": "Sports",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "The News Mill",
-      "sourceUrl": "https://thenewsmill.com/2026/09/india-trail-0-2-to-south-korea-in-davis-cup-2026-qualifiers/",
-      "publishedAt": "2026-09-18T16:13:32.000Z",
-      "fetchedAt": "2026-09-18T17:58:17.395Z"
-    },
-    {
-      "id": "04ea1ec507732355",
-      "title": "Asian Games accommodation crisis: India seeks diaspora help",
-      "summary": "Amid an accommodation crisis at the Asian Games in Nagoya, India's Sports Ministry has sought help from the Indian diaspora if lodging shortages for athletes persist.",
-      "category": "Sports",
-      "image": "https://dailypioneer.com/uploads/2026/story/images/big/asian-games-accommodation-crisis--sports-ministry-seeks-indian-diaspora-help-2026-09-18.jpg",
-      "source": "Daily Pioneer",
-      "sourceUrl": "https://dailypioneer.com/news/asian-games-accommodation-crisis-indian-diaspora-help",
-      "publishedAt": "2026-09-18T16:12:16.000Z",
-      "fetchedAt": "2026-09-18T16:31:07.884Z"
-    },
-    {
-      "id": "3490b5ad8b9ac714",
-      "title": "Santosh Davakar on ‘Gondhal’ becoming India’s official Oscar entry: ‘We have a rich culture and heritage,",
-      "summary": "Marathi filmmaker Santosh Davakar has spoken about his film ‘Gondhal’, which has been chosen as India’s official submission for the 99th Academy Awards. Built around the traditional Gondhal folk ritual practised in Maharashtra, the film explores themes of faith, regional culture and everyday social realities, offering a distinctly local perspective…",
-      "category": "Entertainment",
-      "image": "https://static.toiimg.com/thumb/msid-134339400,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/marathi/movies/news/santosh-davakhar-director-of-gondhal-on-film-becoming-indias-official-oscar-entry-we-have-a-rich-culture-and-heritage-and-we-should-represent-india-through-good-cinema/articleshow/134339143.cms",
-      "publishedAt": "2026-09-18T16:10:00.000Z",
-      "fetchedAt": "2026-09-18T19:29:48.708Z"
-    },
-    {
-      "id": "3490b5ad8b9ac714",
-      "title": "Santosh Davakhar, director of 'Gondhal', on film becoming India's official Oscar entry: 'We have a rich c",
-      "summary": "Marathi filmmaker Santosh Davakhar has spoken about his film 'Gondhal', which has now been chosen as India's official submission for the 99th Academy Awards. Built around the traditional Gondhal folk ritual practised in Maharashtra, the film delves into themes of faith, regional culture and everyday social realities, offering a distinctly…",
-      "category": "Entertainment",
-      "image": "https://static.toiimg.com/thumb/msid-134339400,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/marathi/movies/news/santosh-davakhar-director-of-gondhal-on-film-becoming-indias-official-oscar-entry-we-have-a-rich-culture-and-heritage-and-we-should-represent-india-through-good-cinema/articleshow/134339143.cms",
-      "publishedAt": "2026-09-18T16:10:00.000Z",
-      "fetchedAt": "2026-09-18T16:44:42.928Z"
     }
   ]
 }
