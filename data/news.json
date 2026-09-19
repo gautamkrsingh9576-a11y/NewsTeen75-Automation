@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-19T20:18:02.437Z",
+  "updatedAt": "2026-09-19T20:32:34.682Z",
   "count": 250,
   "articles": [
+    {
+      "id": "9b9b7ee8f1f752fd",
+      "title": "At 17, New York student Liam Anderson breaks national bench press record with 396 pounds, then breaks his",
+      "summary": "break the national bench press record in his age and weight class before turning 18 later this month. The Shenendehowa High School senior did more than that.",
+      "category": "National & Trending News",
+      "image": "https://static.toiimg.com/thumb/msid-134360016,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/international-sports/at-17-new-york-student-liam-anderson-breaks-national-bench-press-record-with-396-pounds-then-breaks-his-own-record-again-with-402-pounds/articleshow/134360016.cms",
+      "publishedAt": "2026-09-19T19:50:00.000Z",
+      "fetchedAt": "2026-09-19T20:32:34.681Z"
+    },
     {
       "id": "06f27e423bbe3e6f",
       "title": "Tom Hardy's 2-Part Crime Thriller Is Officially One of His Best",
@@ -102,6 +113,28 @@
       "fetchedAt": "2026-09-19T19:26:09.781Z"
     },
     {
+      "id": "efe5c86cefa8f84f",
+      "title": "UHPFRC, Monopile Technology Used In Indora-Dighori Flyover: Gadkari",
+      "summary": "Several advanced construction technologies, including Ultra-High Performance Fibre Reinforced Concrete (UHPFRC) and monopile foundations, were used to construct the Indora-Dighori flyover and overcome severe space constraints, Union minister Nitin Gadkari said at the project’s inauguration on Saturday.",
+      "category": "Technology",
+      "image": "https://static.toiimg.com/thumb/msid-134359718,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/nagpur/uhpfrc-monopile-technology-used-in-indora-dighori-flyover-gadkari/articleshow/134359719.cms",
+      "publishedAt": "2026-09-19T18:58:00.000Z",
+      "fetchedAt": "2026-09-19T20:32:31.077Z"
+    },
+    {
+      "id": "eb38d2e17c8b6fdb",
+      "title": "India Lose No. 1 T20I Ranking Despite 3-0 Sweep Of Afghanistan. New Leader Revealed",
+      "summary": "England returned to the summit of the T20 world rankings, surpassing India, with another thumping of Sri Lanka to complete a 3-0 series whitewash in Manchester on Saturday.",
+      "category": "Sports",
+      "image": "https://c.ndtvimg.com/2026-07/ofgtnf04_team-india-bcci_625x300_24_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "source": "NDTV Sports",
+      "sourceUrl": "https://sports.ndtv.com/cricket/india-lose-no-1-t20i-ranking-despite-3-0-sweep-of-afghanistan-new-leader-revealed-12069988",
+      "publishedAt": "2026-09-19T18:49:01.000Z",
+      "fetchedAt": "2026-09-19T20:32:24.997Z"
+    },
+    {
       "id": "e97110ba75878c40",
       "title": "Salman shreds trolls mocking Katrina's post-pregnancy weight, calls them parasites",
       "summary": "Salman Khan confronted Scout and blasted trolling during Bigg Boss 20's Weekend Ka Vaar. His sharp reaction turned a contestant dressing-down into a wider swipe at online cruelty.",
@@ -144,6 +177,17 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/city/nagpur/mcoca-accused-flees-gmch-ward/articleshow/134359265.cms",
       "publishedAt": "2026-09-19T18:23:00.000Z",
       "fetchedAt": "2026-09-19T18:47:25.684Z"
+    },
+    {
+      "id": "79fe66bc2a902a3a",
+      "title": "West Indies announce squads for India white-ball tour",
+      "summary": "Cricket West Indies have announced their squads for the upcoming limited-overs tour of India, with Shai Hope set to captain both the ODI and T20I sides. The tour will comprise three ODIs and five T20Is, with the first ODI scheduled for September 27 in Thiruvananthapuram. The series will run until…",
+      "category": "Sports",
+      "image": "https://revsportz.in/wp-content/uploads/2026/09/photo-output-6-scaled.jpeg",
+      "source": "Revsportz",
+      "sourceUrl": "https://revsportz.in/west-indies-announce-squads-for-india-white-ball-tour/?amp=1",
+      "publishedAt": "2026-09-19T18:10:50.000Z",
+      "fetchedAt": "2026-09-19T20:32:26.061Z"
     },
     {
       "id": "d2ca28132f66d3fd",
@@ -287,6 +331,17 @@
       "sourceUrl": "https://www.ndtv.com/india-news/analysis-as-punjab-rehab-numbers-increase-politics-intensifies-over-drug-problem-12069998",
       "publishedAt": "2026-09-19T17:18:07.000Z",
       "fetchedAt": "2026-09-19T17:25:05.387Z"
+    },
+    {
+      "id": "f3ed77c4ba28aa43",
+      "title": "DUSU poll results a message to anti-national forces: Amit Shah",
+      "summary": "Union Home Minister Amit Shah on Saturday said the ABVP’s victory in Delhi University Students’ Union (DUSU) elections is a message to “anti-national forces” who want to turn youth power into a “laboratory for their anti-national agenda”.",
+      "category": "National & Trending News",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTBhYjI5MzAwLWI0NGUtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
+      "source": "The Tribune",
+      "sourceUrl": "https://www.tribuneindia.com/news/delhi/dusu-poll-results-a-message-to-anti-national-forces-amit-shah/amp/",
+      "publishedAt": "2026-09-19T17:17:46.000Z",
+      "fetchedAt": "2026-09-19T20:32:34.421Z"
     },
     {
       "id": "1757af403bef0f1d",
@@ -2696,61 +2751,6 @@
       "sourceUrl": "https://www.indiatoday.in/sports/asian-games/story/asian-games-india-mens-cricket-team-kit-delay-nagoya-departure-2998176-2026-09-19",
       "publishedAt": "2026-09-19T06:42:58.000Z",
       "fetchedAt": "2026-09-19T07:44:45.959Z"
-    },
-    {
-      "id": "1197af9ee1d364a8",
-      "title": "Maharashtra plans India's first space technology park with ₹150-crore investment targeting ₹1,000-crore revenue",
-      "summary": "Maharashtra is under consideration to host India's first Space Park, an initiative that could attract an investment of Rs 150",
-      "category": "Technology",
-      "image": "https://swarajya.gumlet.io/swarajya/2026-09-19/ea2tpcq6/swarajyapix-1-a-satellite-in-orbit-arcing-above-a-maha-1.jpg?w=600&h=315&format=jpg",
-      "source": "Swarajya",
-      "sourceUrl": "https://swarajyamag.com/news-brief/maharashtra-plans-indias-first-space-technology-park-with-150-crore-investment-targeting-1000-crore-revenue",
-      "publishedAt": "2026-09-19T06:42:49.000Z",
-      "fetchedAt": "2026-09-19T07:19:38.501Z"
-    },
-    {
-      "id": "adb25a3f16cd0f88",
-      "title": "Asian Games: India Men's Cricket Team Faces Clothing Issue Before Departure",
-      "summary": "Asian Games: India Men's Cricket Team Faces Clothing Issue Before Departure. This update was reported by Deccan Chronicle. Open the original report for full context and any developing updates.",
-      "category": "Sports",
-      "image": "https://www.deccanchronicle.com/h-upload/2026/09/19/2090709-indiancricketteam.jpg",
-      "source": "Deccan Chronicle",
-      "sourceUrl": "https://www.deccanchronicle.com/amp/sports/asian-games-india-mens-cricket-team-faces-clothing-issue-before-departure-1988723",
-      "publishedAt": "2026-09-19T06:42:19.000Z",
-      "fetchedAt": "2026-09-19T08:29:37.111Z"
-    },
-    {
-      "id": "fc9ff72890350ded",
-      "title": "Delhi Pollution Solutions: German Filter Cubes, Outdoor Purifiers & Innovations Tested - India Today",
-      "summary": "A special broadcast of 'Pollution ka Solution' explores innovative technologies to combat air quality crises across Delhi's pollution hotspots. The episode highlights tested solutions, including German filtration giant Mann+Hummel's Filter Cube, brought to India via MRH Technologies. Tested previously in Stuttgart, Germany, and validated by IIT Delhi during peak pollution…",
-      "category": "Technology",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/video/202609/innovationstotackledelhiairpollution-s0-original-sixteen-to-nine.jpg?VersionId=IAWaxHDcWhhPpEGYg62ZgXrM3MxkXotx",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/amp/technology/video/delhi-pollution-solutions-german-filter-cubes-outdoor-purifiers-innovations-tested-ytvd-2998179-2026-09-19",
-      "publishedAt": "2026-09-19T06:39:21.000Z",
-      "fetchedAt": "2026-09-19T06:51:07.375Z"
-    },
-    {
-      "id": "8267186fce91b906",
-      "title": "Asian Games 2026: India Badminton full schedule, athletes and timimgs in IST",
-      "summary": "India’s men’s and women’s badminton teams have been handed challenging routes at the Asian Games 2026. The draws for the team events were revealed on Saturday, September 19, with both competitions set to follow a straight knockout format.",
-      "category": "Sports",
-      "image": "https://static.toiimg.com/thumb/msid-134349268,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-india-badminton-full-schedule-athletes-and-timimgs-in-ist/articleshow/134348984.cms",
-      "publishedAt": "2026-09-19T06:35:00.000Z",
-      "fetchedAt": "2026-09-19T10:34:07.317Z"
-    },
-    {
-      "id": "0b77ec4d6cbe273f",
-      "title": "Adani Group renews IOA partnership ahead of Asian Games 2026",
-      "summary": "The Adani Group has renewed its partnership as Principal Sponsor of the Indian Olympic Association (IOA), reaffirming its long-term support for Indian sport and athletes competing at the highest level.",
-      "category": "Sports",
-      "image": "https://www.awazthevoice.in/upload/news/1789799625ANI-20260919061236.webp",
-      "source": "Awaz The Voice",
-      "sourceUrl": "https://www.awazthevoice.in/sports-news/adani-group-renews-ioa-partnership-ahead-of-asian-games-67953.html",
-      "publishedAt": "2026-09-19T06:33:45.000Z",
-      "fetchedAt": "2026-09-19T13:25:34.705Z"
     }
   ]
 }
