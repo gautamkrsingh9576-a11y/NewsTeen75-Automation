@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-19T03:42:12.396Z",
+  "updatedAt": "2026-09-19T03:53:41.820Z",
   "count": 250,
   "articles": [
+    {
+      "id": "b83732e9b0b0f1e4",
+      "title": "India and Pakistan could meet in Asian Games medal round — The National",
+      "summary": "India and Pakistan could meet in the medal round of the 2026 Asian Games cricket tournament in Japan.",
+      "category": "Sports",
+      "image": "https://cdn-cabinet.ua.news/uploads/images/india_pakistan_mozhut_zigraty_na_aziysky_1789788959619.webp",
+      "source": "UA.NEWS",
+      "sourceUrl": "https://ua.news/en/sport/indiia-ta-pakistan-mozhut-zigrati-v-medalnomu-raundi-aziiskikh-igor-the-national",
+      "publishedAt": "2026-09-19T03:40:15.000Z",
+      "fetchedAt": "2026-09-19T03:53:32.335Z"
+    },
     {
       "id": "02bd1b28bf030e6b",
       "title": "Nadella Joins 40-Plus Indian-American Tech CEOs To Discuss India-US Tech Ties",
@@ -2740,17 +2751,6 @@
       "sourceUrl": "https://indiatechnologynews.in/kramer-brings-its-complete-av-ecosystem-to-life-at-infocomm-india-2026/",
       "publishedAt": "2026-09-18T09:39:04.000Z",
       "fetchedAt": "2026-09-18T09:41:17.316Z"
-    },
-    {
-      "id": "2f60dd7bff1588f2",
-      "title": "‘Will come back on Saturday’: How accused in Delhi HR professional's murder case kept texting his family from his phone | India News",
-      "summary": "Until September 8, Yuvraj Singh Manchanda's sister, parents, fiancée, and friend continued to receive WhatsApp messages from his phone. | India News",
-      "category": "Crime & Breaking News",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/18/1600x900/logo/PTI09-18-2026-000107B-0_1789723623550_EsOT_1789723648926_8r7S_f91ba822-4f23-4df9-b1d8-5a85415d458e_WKwJ.jpg",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/india-news/will-come-back-on-saturday-how-accused-in-delhi-hr-professionals-murder-case-kept-texting-his-family-from-his-phone-101789722249519.html",
-      "publishedAt": "2026-09-18T09:37:18.000Z",
-      "fetchedAt": "2026-09-18T09:53:08.436Z"
     }
   ]
 }
