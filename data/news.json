@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-19T12:03:03.376Z",
+  "updatedAt": "2026-09-19T12:24:47.499Z",
   "count": 250,
   "articles": [
+    {
+      "id": "a4f08505e77cd902",
+      "title": "AI spending is surging, but when does it create value? Morgan Stanley’s ROIIC lesson for India",
+      "summary": "AI spending is pushing technology companies to commit billions of dollars to data centres, chips and other infrastructure, putting pressure on near-term cash flows. Morgan Stanley's ROIIC framework highlights why investors should assess whether these investments generate returns above the cost of capital.",
+      "category": "Technology",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6aae7a8da5e22-create-an-image-to-depict-ai-impacting-jobs--do-not-use-text-in-image-190532388-16x9.jpg",
+      "source": "Business Today",
+      "sourceUrl": "https://www.businesstoday.in/technology/artificial-intelligence/story/ai-spending-is-surging-but-when-does-it-create-value-morgan-stanleys-roiic-lesson-for-india-556631-2026-09-19",
+      "publishedAt": "2026-09-19T12:07:50.000Z",
+      "fetchedAt": "2026-09-19T12:24:43.254Z"
+    },
     {
       "id": "3abec6d39e6e21e8",
       "title": "Ilaiyaraaja completes 50 years in Indian cinema as ‘Gondhal’ becomes first film featuring his music to be",
@@ -45,6 +56,17 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/google-trends-reveals-indias-top-8-modak-recipes/articleshow/134353069.cms",
       "publishedAt": "2026-09-19T11:26:00.000Z",
       "fetchedAt": "2026-09-19T11:39:53.371Z"
+    },
+    {
+      "id": "326b9fddef8cc2bf",
+      "title": "Tamil Nadu: Uncertainty continues over government formation under TVK | Akashvani News",
+      "summary": "Tamil Nadu: Uncertainty continues over government formation under TVK | Akashvani News. This update was reported by News On AIR. Open the original report for full context and any developing updates.",
+      "category": "Politics & Government",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EPolitics%20%26amp%3B%20Government%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "News On AIR",
+      "sourceUrl": "https://newsonair.gov.in/deadlock-continues-in-tamil-nadu-over-govt-formation-as-mlas-of-vck-left-parties-meet-on-lending-support/",
+      "publishedAt": "2026-09-19T11:25:09.000Z",
+      "fetchedAt": "2026-09-19T12:24:39.157Z"
     },
     {
       "id": "61786522851af01d",
@@ -133,6 +155,17 @@
       "sourceUrl": "https://www.deccanherald.com/india/keralam/union-minister-suresh-gopi-says-too-early-to-criticise-udf-govt-over-keralam-power-crisis-4151969",
       "publishedAt": "2026-09-19T10:57:35.000Z",
       "fetchedAt": "2026-09-19T11:26:27.943Z"
+    },
+    {
+      "id": "3da591e0822422da",
+      "title": "Apply for Youth Entrepreneurs Challenge 2027 – India",
+      "summary": "Apply for Youth Entrepreneurs Challenge 2027 – India. This update was reported by fundsforNGOs. Open the original report for full context and any developing updates.",
+      "category": "Technology",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "fundsforNGOs",
+      "sourceUrl": "https://www2.fundsforngos.org/innovation/apply-for-youth-entrepreneurs-challenge-2027-india/",
+      "publishedAt": "2026-09-19T10:55:45.000Z",
+      "fetchedAt": "2026-09-19T12:24:42.860Z"
     },
     {
       "id": "29f4e65e2ee3c1fc",
@@ -894,6 +927,17 @@
       "fetchedAt": "2026-09-19T07:32:10.511Z"
     },
     {
+      "id": "eef492da5221d3df",
+      "title": "Affair row turns deadly: Assam man beheaded over relationship with neighbour’s wife",
+      "summary": "A 31-year-old man was allegedly murdered and beheaded in Assam’s Jorhat district following a dispute over his alleged relationship with a neighbour’s wife, with police arresting four people in connection with the crime, officials said.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134349611,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/guwahati/affair-row-turns-deadly-assam-man-beheaded-over-relationship-with-neighbours-wife/articleshow/134349612.cms",
+      "publishedAt": "2026-09-19T07:16:00.000Z",
+      "fetchedAt": "2026-09-19T12:24:41.092Z"
+    },
+    {
       "id": "a543998174b4ad54",
       "title": "Satya Nadella addresses “IDEAS4INDIA”: Indian American Tech CEOs Forum hosted by CGI Seattle",
       "summary": "Indias Consulate in Seattle brought together more than 40 Indian-origin technology CEOs and CTOs, including Microsofts Satya Nadella, to discuss ways to deepen the India-US technology partnership. The forum focused on AI infrastructure, semiconductors, quantum computing, data centres, aerospace and skilling, as US technology majors expand investments and operations in…",
@@ -1233,6 +1277,17 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/moment-of-pride-for-marathi-cinema-devendra-fadnavis-celebrates-santosh-davakhars-gondhal-as-indias-official-entry-from-33-films-for-oscars-2027/articleshow/134348577.cms",
       "publishedAt": "2026-09-19T05:44:00.000Z",
       "fetchedAt": "2026-09-19T10:20:39.133Z"
+    },
+    {
+      "id": "e0f29d9bc1975ee9",
+      "title": "Cash-Flow Lending Key To Financing New-Age Industries: SBI",
+      "summary": "State Bank of India is exploring lending models based on future cash flows as new-age businesses often lack the traditional collateral required for bank financeCash-flow-based lending is set to become increasingly important for financing new-age industries such as data centres, solar manufacturing…",
+      "category": "Business & Finance",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "source": "TradingView",
+      "sourceUrl": "https://www.tradingview.com/news/moodys:70906046d97af:0-cash-flow-lending-key-to-financing-new-age-industries-sbi/",
+      "publishedAt": "2026-09-19T05:31:00.000Z",
+      "fetchedAt": "2026-09-19T12:24:44.992Z"
     },
     {
       "id": "56c0d8f129dd55ca",
@@ -2522,6 +2577,17 @@
       "fetchedAt": "2026-09-19T02:30:32.426Z"
     },
     {
+      "id": "b3c15c2b3275381f",
+      "title": "Cops arrest Bangla youth for stealing mobiles on Kol streets",
+      "summary": "A 23-year-old Bangladeshi national, Imran Ahmed, was arrested by Kolkata Police’s detective department on Kyd Street on Thursday night, putting a halt to an organized cross-border mobile snatching spree tailored specifically to target shoppers during the festive rush.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134342448,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/kolkata/cops-arrest-bangla-youth-for-stealing-mobiles-on-kol-streets/articleshow/134342449.cms",
+      "publishedAt": "2026-09-18T18:28:00.000Z",
+      "fetchedAt": "2026-09-19T12:24:40.594Z"
+    },
+    {
       "id": "6a1754efb0925c08",
       "title": "Mapping the surge: US powers record Indian smartphone exports - business-standard.com",
       "summary": "Shipments to the US accounted for 70 per cent of India's total smartphone export value during this period, reaching a record $9.4 billion - a 26 per cent Y-o-Y increase.",
@@ -2685,72 +2751,6 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/city/kolkata/ipl-star-abishek-porel-gets-bail-in-rape-case-after-arrest-over-medical-students-complaint/articleshow/134340571.cms",
       "publishedAt": "2026-09-18T17:40:00.000Z",
       "fetchedAt": "2026-09-18T17:58:16.415Z"
-    },
-    {
-      "id": "38384c6412b14da0",
-      "title": "Private financing critical for Viksit Bharat goal: Economic Affairs Secretary",
-      "summary": "Private financing critical for Viksit Bharat goal: Economic Affairs Secretary. This update was reported by The Economic Times. Open the original report for full context and any developing updates.",
-      "category": "Business & Finance",
-      "image": "https://img.etimg.com/thumb/msid-134340828,width-1200,height-630,imgsize-90922,overlay-economictimes/articleshow.jpg",
-      "source": "The Economic Times",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/policy/private-financing-critical-for-viksit-bharat-goal-economic-affairs-secretary/articleshow/134340634.cms?from=mdr",
-      "publishedAt": "2026-09-18T17:32:45.000Z",
-      "fetchedAt": "2026-09-18T20:05:59.920Z"
-    },
-    {
-      "id": "916e9646ab0de894",
-      "title": "BCCI revises umpire pay: Higher fees, merit-based promotion-relegation system",
-      "summary": "The BCCI has reduced the number of umpire categories while substantially increasing their per-day pay, along with that of match referees, and introduced a merit-based promotion and relegation system, board secretary Devajit Saikia said on Friday.",
-      "category": "Sports",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/bcci-logo-183201862-16x9_0.jpg?VersionId=iNm9.trIWUZOEmUBXzUHAuVido_8RVBQ",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/amp/sports/cricket/story/bcci-umpire-pay-revision-higher-fees-merit-based-promotion-relegation-2998012-2026-09-18",
-      "publishedAt": "2026-09-18T17:29:35.000Z",
-      "fetchedAt": "2026-09-18T17:36:21.500Z"
-    },
-    {
-      "id": "d77bca73e47e8860",
-      "title": "Robotic-Assisted Surgery in India Enters Its Next Phase as Intuitive Introduces da Vinci 5",
-      "summary": "Distribute press releases across India with trusted newswire services, media coverage and global distribution reach.",
-      "category": "Technology",
-      "image": "https://www.businesswireindia.com/",
-      "source": "businesswireindia.com",
-      "sourceUrl": "https://www.businesswireindia.com/robotic-assisted-surgery-in-india-enters-its-next-phase-as-intuitive-introduces-da-vinci-5-101801.html",
-      "publishedAt": "2026-09-18T17:17:56.000Z",
-      "fetchedAt": "2026-09-18T21:17:30.907Z"
-    },
-    {
-      "id": "2e835e58eccadd03",
-      "title": "Marathi film Gondhal is India's official entry for Oscars 2027",
-      "summary": "On Friday, September 18, 2026, the Film Federation of India announced Marathi film Gondhal as India's official entry for the 99th Academy Awards. The award ceremony will take place in March 2027.",
-      "category": "Entertainment",
-      "image": "https://cdn1.wionews.com/prod/wion/images/2026/20260918/image-1789732639500.png?imwidth=1200&imheight=900",
-      "source": "WION",
-      "sourceUrl": "https://www.wionews.com/entertainment/marathi-film-gondhal-is-india-s-official-entry-for-oscars-2027-1789731957388",
-      "publishedAt": "2026-09-18T17:13:01.000Z",
-      "fetchedAt": "2026-09-19T08:29:38.336Z"
-    },
-    {
-      "id": "c3cfae7c60002e2f",
-      "title": "Asian Games 2026: India's full schedule on September 19, Saturday; Quimcy Dsouza in Teqball semifinal bef",
-      "summary": "30pm IST in Nagoya. However, a few competitions, including women's cricket, soft tennis and teqball, have already got underway ahead of the ceremony.",
-      "category": "Sports",
-      "image": "https://static.toiimg.com/thumb/msid-134340035,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-indias-full-schedule-on-september-19-saturday-quimcy-dsouza-in-teqball-semifinal-before-opening-ceremony/articleshow/134339883.cms",
-      "publishedAt": "2026-09-18T17:06:00.000Z",
-      "fetchedAt": "2026-09-18T17:36:21.220Z"
-    },
-    {
-      "id": "9871b81a463f2727",
-      "title": "Resilient critical-mineral value chains crucial for India’s manufacturing, energy transition: Prof. Gobardhan Das",
-      "summary": "India needs to build resilient critical-mineral value chains to strengthen its manufacturing capabilities, support the energy transition and drive emerging technologies, with minerals such as lithium, cobalt and spherical graphite gaining increasing strategic importance, said Prof. Gobardhan Das, Member, NITI Aayog.",
-      "category": "Technology",
-      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260918170110-thumbnail-320x180-70.jpg",
-      "source": "ANI News",
-      "sourceUrl": "https://www.aninews.in/news/national/general-news/resilient-critical-mineral-value-chains-crucial-for-india8217s-manufacturing-energy-transition-prof-gobardhan-das20260918223136/",
-      "publishedAt": "2026-09-18T17:01:00.000Z",
-      "fetchedAt": "2026-09-18T21:31:43.823Z"
     }
   ]
 }
