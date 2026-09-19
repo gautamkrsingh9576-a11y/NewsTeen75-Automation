@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T17:36:58.866Z",
+  "updatedAt": "2026-09-19T17:48:16.203Z",
   "count": 250,
   "articles": [
     {
@@ -91,6 +91,17 @@
       "fetchedAt": "2026-09-19T17:25:13.055Z"
     },
     {
+      "id": "1963c222c75ea738",
+      "title": "Locked, loaded and ready: India's shooting stars take aim in Japan",
+      "summary": "India's 30-member shooting squad, led by Manu Bhaker, Rudrankksh Patil and Esha Singh, enters the Asian Games with medal hopes across rifle, pistol and shotgun. But Jaspal Rana's absence adds an emotional layer to India's campaign.",
+      "category": "Sports",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/indias-shooting-team-at-asian-games-2026-19013973-16x9_0.png?VersionId=YsYjdm9X..Cztw4eRZUHoOAAhhH2AoJ5",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/sports/asian-games/story/asian-games-2026-shooting-preview-india-squad-manu-bhaker-medal-hopes-schedule-2998571-2026-09-19",
+      "publishedAt": "2026-09-19T17:02:35.000Z",
+      "fetchedAt": "2026-09-19T17:48:06.742Z"
+    },
+    {
       "id": "3db04e70d6df2d99",
       "title": "‘Trapped in dynastic politics, running his own shop’: Mukesh Sahani slams Sanjay Nishad",
       "summary": "Vikassheel Insaan Party (VIP) president Mukesh Sahani on Saturday accused Uttar Pradesh minister and Nishad Party chief Sanjay Nishad of being \"trapped in dynastic politics\" and alleged that he had failed to secure reservation for the Nishad community despite being in the government for five years.",
@@ -133,6 +144,17 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/city/kochi/national-education-seminar-stresses-need-for-curriculum-overhaul/articleshow/134357388.cms",
       "publishedAt": "2026-09-19T16:47:00.000Z",
       "fetchedAt": "2026-09-19T17:36:58.275Z"
+    },
+    {
+      "id": "c457e50f0b39b5e5",
+      "title": "Pilot Body Seeks Broader Audit Of Boeing 787 Tech Records In AI-171 Probe",
+      "summary": "According to the pilots' body, the Boeing 787's highly integrated 'More Electric Aircraft' architecture makes electrical generation, distribution, monitoring and data-network systems central to safe operation.",
+      "category": "Technology",
+      "image": "https://c.ndtvimg.com/2026-06/2ll7uadk_image_160x120_11_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "source": "NDTV",
+      "sourceUrl": "https://www.ndtv.com/india-news/pilot-body-seeks-broader-audit-of-boeing-787-tech-records-in-ai-171-probe-12069895",
+      "publishedAt": "2026-09-19T16:45:02.000Z",
+      "fetchedAt": "2026-09-19T17:48:10.290Z"
     },
     {
       "id": "791021f928b07b51",
@@ -520,6 +542,17 @@
       "fetchedAt": "2026-09-19T15:38:46.125Z"
     },
     {
+      "id": "a8c2b329b299dd7b",
+      "title": "A different kind of politics?",
+      "summary": "As the Satheesan government completes four months in the saddle, the difference is palpable in Thiruvananthapuram",
+      "category": "Politics & Government",
+      "image": "https://cf-images.assettype.com/nationalherald%2F2026-09-19%2Fmtjf7341%2FSatheesan.jpg?rect=0%2C0%2C1280%2C672&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "National Herald",
+      "sourceUrl": "https://www.nationalheraldindia.com/amp/story/opinion/a-different-kind-of-politics",
+      "publishedAt": "2026-09-19T14:14:01.000Z",
+      "fetchedAt": "2026-09-19T17:48:02.712Z"
+    },
+    {
       "id": "3b030131ed6e498b",
       "title": "Trump got appeasement, India suffered humiliation: Congress on H-1B visa-fee renewal",
       "summary": "The Congress accused the Narendra Modi government of appeasing US President Donald Trump after the White House extended the USD 100,000 H-1B visa payment requirement for certain petitions by 12 months. The party said the move would affect Indian IT professionals, students and job opportunities. Trump has also ordered tighter…",
@@ -573,6 +606,17 @@
       "sourceUrl": "https://www.deccanherald.com/amp/story/india/madhya-pradesh/madhya-pradesh-govt-terrified-of-chhatron-ki-goonj-congress-ahead-of-rahul-gandhis-indore-event-4152093",
       "publishedAt": "2026-09-19T13:47:00.000Z",
       "fetchedAt": "2026-09-19T15:38:35.539Z"
+    },
+    {
+      "id": "85387399dbde6456",
+      "title": "Salman Khan schools ScoutOP after his threat to Arshifa Khan on national television; says, ‘Would you...",
+      "summary": "The episode will showcase the ‘Sach Ki Topi’ challenge, with Mahhi Vij among the participants answering questions. Salman will bring up the topic of offensive language used during disputes and will inquire about what happened within the house.",
+      "category": "National & Trending News",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260919134518_SKSSOP.jpg",
+      "source": "Moneycontrol.com",
+      "sourceUrl": "https://www.moneycontrol.com/entertainment/tv/salman-khan-schools-scoutop-after-his-threat-to-arshifa-khan-on-national-television-says-would-you-like-to-inform-your-gaming-community-to-tackle-me-too-article-14033570.html/amp",
+      "publishedAt": "2026-09-19T13:45:49.000Z",
+      "fetchedAt": "2026-09-19T17:48:16.202Z"
     },
     {
       "id": "403053b441aac8ff",
@@ -2707,50 +2751,6 @@
       "sourceUrl": "https://indianexpress.com/article/entertainment/bollywood/dhurandhar-not-oscar-material-why-main-vaapas-aaunga-was-not-chosen-over-gondhal-vivek-vaswani-10884571/",
       "publishedAt": "2026-09-19T04:07:52.000Z",
       "fetchedAt": "2026-09-19T09:26:24.168Z"
-    },
-    {
-      "id": "17dce31c8cf03496",
-      "title": "Two Asian Games medals in sight as Quimcy D’Souza, one of the pioneers of teqball in India, leads charge",
-      "summary": "Quimcy D’Souza, one of the pioneers of teqball in India, stormed into the semifinals of the sport that is making its Asian Games debut here.",
-      "category": "Sports",
-      "image": "https://static.toiimg.com/thumb/msid-134347417,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/two-asian-games-medals-in-sight-as-quimcy-dsouza-one-of-the-pioneers-of-teqball-in-india-leads-charge/articleshow/134347381.cms",
-      "publishedAt": "2026-09-19T04:06:00.000Z",
-      "fetchedAt": "2026-09-19T04:39:18.830Z"
-    },
-    {
-      "id": "da510166e8c1a090",
-      "title": "Yuvraj Singh's 6 sixes off Stuart Broad: 19 years of an historic T20I moment",
-      "summary": "Yuvraj Singh's six sixes off Stuart Broad on 19 September 2007 remain one of Indian cricket's most iconic moments. Nineteen years later, that over still stands as a benchmark for fearless T20 hitting.",
-      "category": "Sports",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/yuvraj-singh-190202446-16x9_0.png?VersionId=3HN5EdHV40AiKYd8F1ShZo7Whho7ULDq",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/sports/cricket/story/yuvraj-singh-six-sixes-stuart-broad-19-years-t20-world-cup-2007-on-this-day-2998105-2026-09-19",
-      "publishedAt": "2026-09-19T04:02:33.000Z",
-      "fetchedAt": "2026-09-19T04:08:08.988Z"
-    },
-    {
-      "id": "1d6d6b2d9eaaa49c",
-      "title": "Asiad 2026: Indian women boxers eye first gold since Mary Kom's 2014 win",
-      "summary": "Indian boxers returned from the Glasgow Commonwealth Games last month with a record haul of 10 medals, including five golds and a silver won by the women boxers",
-      "category": "Sports",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/03/thumb/fitandfill/1200X628/1785730018-2291.jpg",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/sports/asian-games/asiad-2026-indian-women-boxers-eye-first-gold-since-mary-kom-s-2014-win-126091800986_1.html",
-      "publishedAt": "2026-09-19T03:51:24.000Z",
-      "fetchedAt": "2026-09-19T05:03:26.585Z"
-    },
-    {
-      "id": "0dccad530267d083",
-      "title": "Aye Finance CTO Appointment and Q1 FY27 Business Performance Updates",
-      "summary": "Aye Finance CTO Appointment and Q1 FY27 Business Performance Updates. This update was reported by Kalkine India. Open the original report for full context and any developing updates.",
-      "category": "Business & Finance",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EBusiness%20%26amp%3B%20Finance%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "Kalkine India",
-      "sourceUrl": "https://www.kalkine.co.in/article/financial/aye-finance-appoints-nishit-shrivastava-as-cto-to-drive-technology-led-lending-expansion",
-      "publishedAt": "2026-09-19T03:47:00.000Z",
-      "fetchedAt": "2026-09-19T04:24:47.052Z"
     }
   ]
 }
