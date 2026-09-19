@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T20:55:01.003Z",
+  "updatedAt": "2026-09-19T21:10:33.218Z",
   "count": 250,
   "articles": [
     {
@@ -597,6 +597,17 @@
       "fetchedAt": "2026-09-19T17:36:57.094Z"
     },
     {
+      "id": "606863cff8e1f719",
+      "title": "‘India is proud of them’: PM Modi extends best wishes to Indian athletes at Asian Games 2026",
+      "summary": "Prime Minister Narendra Modi extended his best wishes to the Indian contingent as the Asian Games officially opened in Aichi-Nagoya on Saturday. India are represented by a 501-member contingent and will aim to improve on their record medal tally from the 2023 Hangzhou Games.",
+      "category": "Sports",
+      "image": "https://cdn1.wionews.com/prod/wion/images/2026/20260919/image-1789833428871.jpg?imwidth=1200&imheight=900",
+      "source": "WION",
+      "sourceUrl": "https://www.wionews.com/sports/india-is-proud-of-them-pm-modi-extends-best-wishes-to-indian-athletes-at-asian-games-2026-1789832304660/amp",
+      "publishedAt": "2026-09-19T16:29:00.000Z",
+      "fetchedAt": "2026-09-19T21:10:25.909Z"
+    },
+    {
       "id": "6a7da44494f0a721",
       "title": "Bengaluru firm ropes in Israel’s P-Cure to launch network of compact proton therapy centres in India",
       "summary": "Bengaluru firms partner with Israel’s P-Cure to establish compact proton therapy centres in India, investing ₹1,900 crore for advanced cancer treatment.",
@@ -749,6 +760,17 @@
       "sourceUrl": "https://www.thehindu.com/videos/upi-fees-will-new-charges-change-how-india-pays-insight-india/article71484860.ece",
       "publishedAt": "2026-09-19T15:30:00.000Z",
       "fetchedAt": "2026-09-19T16:56:22.847Z"
+    },
+    {
+      "id": "ba09f6e7286befaa",
+      "title": "India Mandates Aadhaar Biometric Checks for Subsidised LPG Refills",
+      "summary": "India’s Ministry of Petroleum and Natural Gas has announced that domestic LPG consumers must complete biometric Aadhaar authentication to continue booking",
+      "category": "Technology",
+      "image": "https://opengovasia.com/wp-content/uploads/2026/09/india-aadhaar-lpg-authentication.webp",
+      "source": "OpenGov Asia",
+      "sourceUrl": "https://opengovasia.com/india-mandates-aadhaar-biometric-checks-for-subsidised-lpg-refills/?c=us",
+      "publishedAt": "2026-09-19T15:29:01.000Z",
+      "fetchedAt": "2026-09-19T21:10:29.517Z"
     },
     {
       "id": "2ba4d72763c99fa7",
@@ -2729,28 +2751,6 @@
       "sourceUrl": "https://udayavani.com/entertainment/we-were-confident-santosh-davakhar-on-gondhal-being-picked-as-indias-oscar-entry-159957?lang=en",
       "publishedAt": "2026-09-19T07:02:26.000Z",
       "fetchedAt": "2026-09-19T07:19:37.354Z"
-    },
-    {
-      "id": "492297ff460090d7",
-      "title": "We were confident: Santosh Davakhar on 'Gondhal' being India's Oscar entry",
-      "summary": "Director says Marathi thriller centred on traditional Maharashtra ritual can offer international audiences different view of India",
-      "category": "Entertainment",
-      "image": "https://cf-images.assettype.com/nationalherald%2F2026-09-19%2Fi6jxkln0%2Fgondhal-poster.jpg?rect=0%2C0%2C1000%2C525&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "source": "National Herald",
-      "sourceUrl": "https://www.nationalheraldindia.com/entertainment/we-were-confident-santosh-davakhar-on-gondhal-being-indias-oscar-entry",
-      "publishedAt": "2026-09-19T07:02:24.000Z",
-      "fetchedAt": "2026-09-19T07:19:37.722Z"
-    },
-    {
-      "id": "949e66d47f757fd3",
-      "title": "S&P Global Energy to Host Clean Energy Expansion India 2026",
-      "summary": "S&P Global Energy to Host Clean Energy Expansion India 2026. This update was reported by Energetica India Magazine. Open the original report for full context and any developing updates.",
-      "category": "Technology",
-      "image": "https://www.energetica-india.net/images/noticias/v77bdBVWdQRhTD8I526h1z8IUNHBgUHPI7TZ6fY0hSXlh59kBpOChx.jpg",
-      "source": "Energetica India Magazine",
-      "sourceUrl": "https://www.energetica-india.net/news/sp-global-energy-to-host-clean-energy-expansion-india-2026",
-      "publishedAt": "2026-09-19T06:48:52.000Z",
-      "fetchedAt": "2026-09-19T07:55:49.143Z"
     }
   ]
 }
