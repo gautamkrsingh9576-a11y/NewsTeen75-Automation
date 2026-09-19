@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-19T14:55:06.006Z",
+  "updatedAt": "2026-09-19T15:10:37.228Z",
   "count": 250,
   "articles": [
+    {
+      "id": "85b2913c491a10c7",
+      "title": "Asian Games 2026 Day 2, September 20: India’s full schedule, venue, fixtures & time",
+      "summary": "Asian Games 2026 Day 2, September 20: India’s full schedule, venue, fixtures & time. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
+      "category": "Sports",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "The Indian Express",
+      "sourceUrl": "https://indianexpress.com/article/sports/asian-games-2026-day-2-india-full-schedule-fixtures-aichi-nagoya-10885257/",
+      "publishedAt": "2026-09-19T15:01:12.000Z",
+      "fetchedAt": "2026-09-19T15:10:29.422Z"
+    },
     {
       "id": "46cba894aec91107",
       "title": "INTERVIEW | Santosh Davakhar On Gondhal's Oscar Entry, Breaking 'Regional Cinema' Mindset & Representing India",
@@ -100,6 +111,17 @@
       "sourceUrl": "https://www.news18.com/amp/sports/other-sports/dais-nmajs-host-national-isso-football-judo-and-taekwondo-championships-ws-l-10341479.html",
       "publishedAt": "2026-09-19T13:48:42.000Z",
       "fetchedAt": "2026-09-19T14:18:22.347Z"
+    },
+    {
+      "id": "c217488783f1cb6e",
+      "title": "PM Modi Extends Best Wishes To Indian Athletes At Asian Games",
+      "summary": "Prime Minister Narendra Modi conveyed his best wishes to the Indian contingent participating in the Asian Games in Aichi-Nagoya.",
+      "category": "Sports",
+      "image": "https://im.rediff.com/1200-630/sports/2026/sep/19india-tt-asian-games.jpg",
+      "source": "rediff.com",
+      "sourceUrl": "https://m.rediff.com/amp/sports/report/pm-modi-extends-best-wishes-to-indian-contingent-at-asian-games/20260919.htm",
+      "publishedAt": "2026-09-19T13:47:26.000Z",
+      "fetchedAt": "2026-09-19T15:10:29.176Z"
     },
     {
       "id": "31eac860fff15432",
@@ -2434,6 +2456,17 @@
       "fetchedAt": "2026-09-19T05:03:30.084Z"
     },
     {
+      "id": "8b0fde6a1dd3193c",
+      "title": "Supreme Court plans NTA office visit over paper leaks, says ‘lessons from past not learnt’ | India News",
+      "summary": "The focus is on institutionalizing reforms and ensuring a smoother transition to updated testing methods, including a move toward computer-based examinations. | India News",
+      "category": "National & Trending News",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/19/1600x900/logo/Image_1789491237810_7Iyp_1789491244065_4fwl_277f9a_1789783270695_xtk8_1789783270992_mSEX_0e517947-b615-4dfd-891f-417925e63ba8_0WWZ.jpg",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/supreme-court-plans-nta-office-visit-over-paper-leaks-says-lessons-from-past-not-learnt-101789782869493.html",
+      "publishedAt": "2026-09-19T02:15:16.000Z",
+      "fetchedAt": "2026-09-19T15:10:37.228Z"
+    },
+    {
       "id": "f95f79f9d5a89b24",
       "title": "Family Full House Attracts Brands Ahead of Premiere",
       "summary": "Family Full House with Rohit Sharma attracts major brands ahead of its Sony Entertainment Television premiere, highlighting strong advertiser interest.",
@@ -2718,39 +2751,6 @@
       "sourceUrl": "https://www.ndtvprofit.com/sports/india-at-asian-games-2026-day-1-full-schedule-timings-and-medal-events-for-september-19-12065698",
       "publishedAt": "2026-09-19T00:30:01.000Z",
       "fetchedAt": "2026-09-19T00:51:05.071Z"
-    },
-    {
-      "id": "ce253a7489a146e2",
-      "title": "BREAKING: Indian Sports Minister puts in place a plan to handle the organisational issues in Nagoya",
-      "summary": "BREAKING The situations confronting athletes in Nagoya demanded quick intervention. Yesterday the Sports Minister Mansukh Mandaviya arrived in Nagoya and took stock of the situation. In a brief meeting with the media he informed that the Ministry had put in place a three-tier plan with immediate effect, involving the IOA…",
-      "category": "Sports",
-      "image": "https://revsportz.in/wp-content/uploads/2026/09/mansukh-e1789777477138.jpeg",
-      "source": "Revsportz",
-      "sourceUrl": "https://revsportz.in/breaking-indian-sports-minister-puts-in-place-a-plan-to-handle-the-organisational-issues-in-nagoya/?amp=1",
-      "publishedAt": "2026-09-19T00:26:52.000Z",
-      "fetchedAt": "2026-09-19T01:46:24.274Z"
-    },
-    {
-      "id": "5a3262b27addec10",
-      "title": "'Hanuman Ansh' box office collection day 43; Vishal Chaturvedi film records 20.0% drop; Rs 316.30 cr worl",
-      "summary": "The Times of India brings the Latest & Top Breaking News on Politics and Current Affairs in India & around the World, Cricket, Sports, Business, Bollywood News and Entertainment, Science, Technology, Health & Fitness news & opinions from leading columnists.",
-      "category": "Entertainment",
-      "image": "https://static.toiimg.com/thumb/msid-134345847,width-1280,height-720,imgsize-260359,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/hanuman-ansh-box-office-collection-day-43-vishal-chaturvedi-film-records-20-0-drop-rs-316-30-cr-worldwide-gross-rs-248-38-cr-india-net/amp_articleshow/134345835.cms",
-      "publishedAt": "2026-09-19T00:02:00.000Z",
-      "fetchedAt": "2026-09-19T00:51:07.570Z"
-    },
-    {
-      "id": "894321a922fd4050",
-      "title": "Watch Wall Street Week | India’s Growth Test, Bangalore’s Infrastructure Problem, Cricket Attracts Capital",
-      "summary": "Watch Wall Street Week | India’s Growth Test, Bangalore’s Infrastructure Problem, Cricket Attracts Capital. This update was reported by Bloomberg.com. Open the original report for full context and any developing updates.",
-      "category": "Technology",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "Bloomberg.com",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-18/wall-street-week-india-s-growth-test-video",
-      "publishedAt": "2026-09-18T23:41:33.000Z",
-      "fetchedAt": "2026-09-18T23:43:06.467Z"
     }
   ]
 }
