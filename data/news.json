@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-09-19T04:39:28.800Z",
+  "updatedAt": "2026-09-19T04:51:25.159Z",
   "count": 250,
   "articles": [
+    {
+      "id": "8f964446c48410e7",
+      "title": "Kazakhstan Eyes Cross-Border QR Payments as India’s UPI Offers Blueprint",
+      "summary": "Kazakhstan Eyes Cross-Border QR Payments as India’s UPI Offers Blueprint. This update was reported by The Astana Times. Open the original report for full context and any developing updates.",
+      "category": "Technology",
+      "image": "http://astanatimes.com/wp-content/uploads/2026/09/qr-1_cr-768x432-1.jpg",
+      "source": "The Astana Times",
+      "sourceUrl": "https://astanatimes.com/2026/09/kazakhstan-eyes-cross-border-qr-payments-as-indias-upi-offers-blueprint/",
+      "publishedAt": "2026-09-19T04:45:33.000Z",
+      "fetchedAt": "2026-09-19T04:51:20.848Z"
+    },
+    {
+      "id": "99f904707a23e759",
+      "title": "Rachin Ravindra injured in promo shoot accident, India T20Is in doubts",
+      "summary": "Rachin Ravindra has been left doubtful for New Zealand's upcoming T20I series against India after dislocating his right shoulder during a promotional shoot. The all-rounder will undergo rehabilitation, with New Zealand opting for a cautious approach ahead of a busy Test schedule.",
+      "category": "Sports",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/rachin-ravindra-241811994-16x9.jpg?VersionId=ptIf1ikMovT6K_fQXgHSLegIuI9TJT1Z",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/sports/cricket/story/rachin-ravindra-shoulder-injury-new-zealand-india-t20i-series-doubt-2998124-2026-09-19",
+      "publishedAt": "2026-09-19T04:33:08.000Z",
+      "fetchedAt": "2026-09-19T04:51:15.386Z"
+    },
     {
       "id": "4d68649f0fbeaaea",
       "title": "Punjab’s Cyber crime crisis deepens; NCRP complaints jump over sixfold in four years, cross 29,000 in first half of 2025",
@@ -135,6 +157,17 @@
       "fetchedAt": "2026-09-19T04:08:08.774Z"
     },
     {
+      "id": "67303fea9eb20900",
+      "title": "India No. 1 Sumit Nagal falls as South Korea take 2-0 lead in historic Davis Cup tie",
+      "summary": "Sumit Nagal had just won a point with a lunging forehand retrieve to make it 5-5, 40-40 in the decider against South Korea’s former world No. 19 Hyeon Chung when a phone rang.",
+      "category": "Sports",
+      "image": "https://static.toiimg.com/thumb/msid-134347188,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/india-no-1-sumit-nagal-falls-as-south-korea-take-2-0-lead-in-historic-davis-cup-tie/articleshow/134347161.cms",
+      "publishedAt": "2026-09-19T03:22:00.000Z",
+      "fetchedAt": "2026-09-19T04:51:15.701Z"
+    },
+    {
       "id": "02bd1b28bf030e6b",
       "title": "Nadella Joins 40-Plus Indian-American Tech CEOs To Discuss India-US Tech Ties",
       "summary": "Satya Nadella emphasized Seattle-India tech collaboration at the Ideas4India forum, highlighting AI and innovation ties.",
@@ -144,6 +177,17 @@
       "sourceUrl": "https://thecsrjournal.in/nadella-joins-40-plus-indian-american-tech-ceos-to-discuss-india-us-tech-ties",
       "publishedAt": "2026-09-19T03:12:39.000Z",
       "fetchedAt": "2026-09-19T03:27:29.441Z"
+    },
+    {
+      "id": "1b86595732fcd3b3",
+      "title": "BPL And AIIMS Delhi Partner To Scale AI-Powered Mammography Across India",
+      "summary": "BPL And AIIMS Delhi Partner To Scale AI-Powered Mammography Across India. This update was reported by bwhealthcareworld.com. Open the original report for full context and any developing updates.",
+      "category": "Technology",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "bwhealthcareworld.com",
+      "sourceUrl": "https://www.bwhealthcareworld.com/article/bpl-and-aiims-delhi-partner-to-scale-ai-powered-mammography-across-india-624460",
+      "publishedAt": "2026-09-19T03:10:19.000Z",
+      "fetchedAt": "2026-09-19T04:51:20.385Z"
     },
     {
       "id": "e163554528289e74",
@@ -199,6 +243,17 @@
       "sourceUrl": "https://www.deccanherald.com/india/karnataka/vtu-offers-pg-courses-in-quantum-technology-electric-vehicle-technology-4151546",
       "publishedAt": "2026-09-19T02:51:19.000Z",
       "fetchedAt": "2026-09-19T03:11:39.428Z"
+    },
+    {
+      "id": "3a05a58f6989c02f",
+      "title": "DMK intensifies negotiations to form ‘third front’ | India News",
+      "summary": "The DMK has begun talks with regional parties, including the Trinamool Congress, Shiv Sena (UBT) and NCP (Sharadchandra Pawar), to put together a national front without the Congress, people aware of the development said Friday | India News",
+      "category": "National & Trending News",
+      "image": "https://www.hindustantimes.com/ht-img/img/2025/06/30/1600x900/ht-generic_india3_1751287297962_1751287304722.jpg",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/dmk-intensifies-negotiations-to-form-third-front-101789759498948.html",
+      "publishedAt": "2026-09-19T02:30:00.000Z",
+      "fetchedAt": "2026-09-19T04:51:25.159Z"
     },
     {
       "id": "b08c3db3782c3a64",
@@ -793,6 +848,17 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/city/aurangabad/delhi-murder-accused-arrested-in-sambhajinagar/articleshow/134341954.cms",
       "publishedAt": "2026-09-18T18:06:00.000Z",
       "fetchedAt": "2026-09-19T02:15:16.693Z"
+    },
+    {
+      "id": "a54f0a434da58f31",
+      "title": "GIS mapping, CCTVs to boost state’s wildlife crime crackdown",
+      "summary": "Bihar will step up its crackdown on wildlife crime by mapping sensitive trafficking routes and locations using Geographic Information System (GIS) technology and strengthening surveillance across railway, road and air networks. The state is also exploring the use of CCTV cameras at toll plazas to monitor vulnerable routes and suspicious…",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134336545,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/patna/gis-mapping-cctvs-to-boost-states-wildlife-crime-crackdown/articleshow/134336546.cms",
+      "publishedAt": "2026-09-18T18:02:00.000Z",
+      "fetchedAt": "2026-09-19T04:51:14.456Z"
     },
     {
       "id": "cecb612e1fb30db1",
@@ -2685,72 +2751,6 @@
       "sourceUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/india-must-shift-from-engineered-in-india-to-invent-in-india-for-semiconductor-market/134331180?utm_source=portal_category_widget&utm_medium=homepage",
       "publishedAt": "2026-09-18T10:30:00.000Z",
       "fetchedAt": "2026-09-18T13:55:55.143Z"
-    },
-    {
-      "id": "9d0750d4dac4d2c9",
-      "title": "Satya Nadella highlights India’s AI talent, sees massive developer community emerging by 2030",
-      "summary": "Microsoft’s CEO pointed to India’s talent pool as a key strength, while technology leaders discussed AI infrastructure, semiconductors, data centres, quantum technology and deeper India-US cooperation.",
-      "category": "Technology",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6aacffcaf2316-microsoft-ceo-satya-nadella-highlights-indias-technology-talent-and-ai-potential-at-seattle-forum-180929691-16x9.png",
-      "source": "Business Today",
-      "sourceUrl": "https://www.businesstoday.in/technology/news/story/satya-nadella-highlights-indias-ai-talent-sees-massive-developer-community-emerging-by-2030-556434-2026-09-18",
-      "publishedAt": "2026-09-18T10:26:42.000Z",
-      "fetchedAt": "2026-09-18T10:52:14.291Z"
-    },
-    {
-      "id": "8a24e1583913699a",
-      "title": "Cops Break Into BRS Leader's Home To Arrest Him, KTR Attacks Rahul Gandhi",
-      "summary": "\"Is questioning the Congress government a sin? Is criticising the ruling dispensation a crime?\" KTR asked Rahul Gandhi.",
-      "category": "Crime & Breaking News",
-      "image": "https://c.ndtvimg.com/2026-09/nijpario_telangana_625x300_18_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
-      "source": "NDTV",
-      "sourceUrl": "https://www.ndtv.com/india-news/telangana-cops-break-into-brs-leaders-home-to-arrest-him-ktr-attacks-rahul-gandhi-12064240",
-      "publishedAt": "2026-09-18T10:24:09.000Z",
-      "fetchedAt": "2026-09-18T11:05:29.156Z"
-    },
-    {
-      "id": "e27112ab5dec137f",
-      "title": "Hyderabad court sentences 9, including 8 Bangladeshis, to life in trafficking case | India News",
-      "summary": "The accused were charged with bringing Bangladeshi women into India on the promise of employment and subsequently forcing them into prostitution. | India News",
-      "category": "National & Trending News",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/18/1600x900/logo/The-court-also-imposed-a-cumulative-fine-of-Rs-1-3_1789726842516_BBC2.jpg",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/india-news/hyderabad-court-sentences-9-including-8-bangladeshis-to-life-in-trafficking-case-101789726849682.html",
-      "publishedAt": "2026-09-18T10:20:49.000Z",
-      "fetchedAt": "2026-09-18T12:56:07.275Z"
-    },
-    {
-      "id": "5aa49e2c44594149",
-      "title": "Expedia Group Appoints New Chief Financial Officer",
-      "summary": "Expedia Group Appoints New Chief Financial Officer. This update was reported by safariindia.com. Open the original report for full context and any developing updates.",
-      "category": "Business & Finance",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EBusiness%20%26amp%3B%20Finance%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "safariindia.com",
-      "sourceUrl": "https://safariindia.com/expedia-group-appoints-new-chief-financial-officer/",
-      "publishedAt": "2026-09-18T10:18:05.000Z",
-      "fetchedAt": "2026-09-18T23:19:14.335Z"
-    },
-    {
-      "id": "6c184059279af5d4",
-      "title": "Walgreens to set up Global Capability Centre in Chennai, create over 250 jobs in first year",
-      "summary": "Walgreens is establishing a Global Capability Centre in Chennai, creating over 250 jobs focused on technology and business services.",
-      "category": "National & Trending News",
-      "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/6w3ohe/article71480269.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-18%20at%2015.45.43.jpeg",
-      "source": "The Hindu",
-      "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/walgreens-to-set-up-global-capability-centre-in-chennai-create-over-250-jobs-in-first-year/article71480079.ece",
-      "publishedAt": "2026-09-18T10:18:00.000Z",
-      "fetchedAt": "2026-09-18T15:31:31.482Z"
-    },
-    {
-      "id": "898f6b7c585e4d8b",
-      "title": "Marathi film 'Gondhal' is India's pick for Oscars 2027",
-      "summary": "Marathi film 'Gondhal' is India's pick for Oscars 2027. This update was reported by awazthevoice.in. Open the original report for full context and any developing updates.",
-      "category": "Entertainment",
-      "image": "https://www.awazthevoice.in/upload/news/178972663860g4r8mu5bkk8kgvpt2mu5asazi1-aa-1_(1).webp",
-      "source": "awazthevoice.in",
-      "sourceUrl": "https://www.awazthevoice.in/entertainment-news/marathi-film-gondhal-is-india-s-pick-for-oscars-67909.html",
-      "publishedAt": "2026-09-18T10:17:18.000Z",
-      "fetchedAt": "2026-09-18T10:25:07.512Z"
     }
   ]
 }
