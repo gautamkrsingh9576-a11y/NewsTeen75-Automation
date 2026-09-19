@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-09-19T05:55:43.270Z",
+  "updatedAt": "2026-09-19T06:15:40.863Z",
   "count": 250,
   "articles": [
+    {
+      "id": "9718a49a67ac01a6",
+      "title": "Finance Minister Wagle calls for Indian investment in Nepal",
+      "summary": "Finance Minister Wagle calls for Indian investment in Nepal. This update was reported by Nepalnews.com. Open the original report for full context and any developing updates.",
+      "category": "Business & Finance",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EBusiness%20%26amp%3B%20Finance%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "Nepalnews.com",
+      "sourceUrl": "https://english.nepalnews.com/s/business/finance-minister-wagle-calls-for-indian-investment-in-nepal/",
+      "publishedAt": "2026-09-19T05:59:19.000Z",
+      "fetchedAt": "2026-09-19T06:15:38.316Z"
+    },
+    {
+      "id": "5754781f7be50374",
+      "title": "Asian Olympic chief calls for politicians to stay out of Games after Lee Yang row",
+      "summary": "Olympic Council of Asia President Sheikh Joaan bin Hamad Al Thani has urged politicians to stay out of sport after Taiwan minister Lee Yang faced an entry dispute at the Asian Games.",
+      "category": "Sports",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/sheikh-joaan-bin-hamad-al-thani-191037912-16x9_0.jpg?VersionId=CHucg9PSf6x4TxIscU3afi3muN3b_Qyj",
+      "source": "indiatoday.in",
+      "sourceUrl": "https://www.indiatoday.in/sports/asian-games/story/asian-games-taiwan-row-politics-sport-nagoya-2998157-2026-09-19",
+      "publishedAt": "2026-09-19T05:54:45.000Z",
+      "fetchedAt": "2026-09-19T06:15:32.357Z"
+    },
+    {
+      "id": "6f555d79af950c48",
+      "title": "Manu Bhaker named India’s flag-bearer for Asian Games 2026 opening",
+      "summary": "Manu Bhaker named India’s flag-bearer for Asian Games 2026 opening. This update was reported by The News Mill. Open the original report for full context and any developing updates.",
+      "category": "Sports",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "The News Mill",
+      "sourceUrl": "https://thenewsmill.com/2026/09/manu-bhaker-named-indias-flag-bearer-for-asian-games-2026-opening/",
+      "publishedAt": "2026-09-19T05:52:18.000Z",
+      "fetchedAt": "2026-09-19T06:15:32.112Z"
+    },
     {
       "id": "270130483ee40e6f",
       "title": "Saikat Mukhopadhyay joins boAt Lifestyle as chief financial officer",
@@ -23,6 +56,17 @@
       "sourceUrl": "https://www.thestatesman.com/sports/pawan-sehrawat-replaces-tajinderpal-toor-as-indias-flag-bearer-at-asian-games-opening-ceremony-1503640394.html",
       "publishedAt": "2026-09-19T05:24:00.000Z",
       "fetchedAt": "2026-09-19T05:55:36.988Z"
+    },
+    {
+      "id": "54ff0dad098931e1",
+      "title": "OPINION | When technology becomes a geopolitical weapon: What Indian businesses need to prepare for",
+      "summary": "The growing reliance on cloud infrastructure, with Indian public cloud spending projected to reach $17.5 billion in 2026, highlights the intricate web of dependencies modern enterprises navigate.",
+      "category": "Technology",
+      "image": "https://img.theweek.in/content/dam/week/week/news/sci-tech/images/2026/2/13/ai-cloud-shutterstock.jpg",
+      "source": "theweek.in",
+      "sourceUrl": "https://www.theweek.in/news/sci-tech/2026/09/19/indian-business-tech-risk.html",
+      "publishedAt": "2026-09-19T05:23:00.000Z",
+      "fetchedAt": "2026-09-19T06:15:36.552Z"
     },
     {
       "id": "358351c742e778eb",
@@ -67,6 +111,17 @@
       "sourceUrl": "https://www.indiatoday.in/sports/cricket/story/rachin-ravindra-shoulder-injury-new-zealand-india-t20i-series-doubt-2998124-2026-09-19",
       "publishedAt": "2026-09-19T04:33:08.000Z",
       "fetchedAt": "2026-09-19T04:51:15.386Z"
+    },
+    {
+      "id": "d77a3d44b1ba0c8c",
+      "title": "Gartex Texprocess India Concludes with Robust Business Engagement and Technology Showcase",
+      "summary": "India's Leading B2B Publication and Online Portal for Textile and Apparel Industry. Serving the Industry for more than 20 Years. %",
+      "category": "Technology",
+      "image": "https://www.apparelviews.com/wp-content/uploads/2026/09/Gartex-Texprocess-India-Concludes.jpg",
+      "source": "Apparel Views",
+      "sourceUrl": "https://www.apparelviews.com/gartex-texprocess-india-concludes-with-robust-business-engagement-and-technology-showcase",
+      "publishedAt": "2026-09-19T04:32:06.000Z",
+      "fetchedAt": "2026-09-19T06:15:37.735Z"
     },
     {
       "id": "5a8c825b5cd733bf",
@@ -221,6 +276,17 @@
       "sourceUrl": "https://indianexpress.com/article/technology/tech-reviews/plaud-note-pro-review-10884577/",
       "publishedAt": "2026-09-19T03:46:27.000Z",
       "fetchedAt": "2026-09-19T05:44:32.276Z"
+    },
+    {
+      "id": "38c1c682011c102a",
+      "title": "Daayra box office collection Day 1: Kareena Kapoor’s film records lowest opening of her career, falls below T",
+      "summary": "Daayra box office collection Day 1: Kareena Kapoor Khan and Prithviraj Sukumaran's crime thriller has started its theatrical run on a slow note. Here's a look at its opening-day collection.",
+      "category": "Crime & Breaking News",
+      "image": "https://s3.india.com/wp-content/uploads/2026/09/Daayra-box-office-collection-Day-1-.png",
+      "source": "India.com",
+      "sourceUrl": "https://www.india.com/entertainment/bollywood/daayra-box-office-collection-day-1-kareena-kapoor-film-records-lowest-opening-of-her-career-falls-below-the-buckingham-murders-8527424/amp/",
+      "publishedAt": "2026-09-19T03:42:06.000Z",
+      "fetchedAt": "2026-09-19T06:15:31.440Z"
     },
     {
       "id": "b83732e9b0b0f1e4",
@@ -2685,72 +2751,6 @@
       "sourceUrl": "https://www.brecorder.com/news/amp/40440138",
       "publishedAt": "2026-09-18T11:02:29.000Z",
       "fetchedAt": "2026-09-18T13:12:56.073Z"
-    },
-    {
-      "id": "38eb73a1ba5175e6",
-      "title": "BCCI yet to take call on Ajit Agarkar's future as chief selector",
-      "summary": "The BCCI's annual general meeting has authorised the Board's office-bearers to decide Ajit Agarkar's future as chairman of the men's senior selection committee, with his term set to end next month.",
-      "category": "Sports",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/ajit-agarkar-061806713-16x9_1.jpg?VersionId=UrvaMnyOuh9bX5xARw92k0VqY5maQSkr",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/sports/cricket/story/bcci-office-bearers-authorised-ajit-agarkar-future-chief-selector-2997700-2026-09-18",
-      "publishedAt": "2026-09-18T11:02:17.000Z",
-      "fetchedAt": "2026-09-18T11:48:12.116Z"
-    },
-    {
-      "id": "c33a6091ddb6cf98",
-      "title": "India-born cheetah gives birth to 4 cubs in MPs Kuno National Park",
-      "summary": "An India-born female cheetah has given birth to four cubs in the Kuno National Park (KNP) in Madhya Pradesh, Union Environment Minister Bhupender Yadav said on Friday, a day after the cheetah reintroduction programme completed four years.",
-      "category": "National & Trending News",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTU3ZGEzNWIwLWIzNTAtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
-      "source": "The Tribune",
-      "sourceUrl": "https://www.tribuneindia.com/news/madhya-pradesh/india-born-cheetah-gives-birth-to-4-cubs-in-mps-kuno-national-park/amp/",
-      "publishedAt": "2026-09-18T11:00:43.000Z",
-      "fetchedAt": "2026-09-18T12:41:09.831Z"
-    },
-    {
-      "id": "f2767968d6f082b2",
-      "title": "12 death sentences, 13 acquittals later, Nithari’s Surendra Koli found dead in Haridwar: Timeline | India News",
-      "summary": "Surendra Koli, acquitted in Nithari serial killings case, was found dead at a tea stall in Haridwar on Friday.",
-      "category": "Crime & Breaking News",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/18/1600x900/logo/Surendra-Koli--5_1762958590542_1762958608159_1789723121776_k4V9_12813c5e-a81c-4129-a8d6-cf9060e34f8b_Iqfb.jpg",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/india-news/12-death-sentences-13-acquittals-later-nithari-s-surendra-koli-found-dead-in-haridwar-timeline-101789720717083-amp.html",
-      "publishedAt": "2026-09-18T10:55:50.000Z",
-      "fetchedAt": "2026-09-18T11:21:57.205Z"
-    },
-    {
-      "id": "709b3501894e4794",
-      "title": "The future of India’s enterprises is driven by innovation and ambition. Zee Media and SAP bring together the visionaries shaping the future of an AI-driven, agile and Atmanirbhar India at ‘Architects of Viksit Bharat’. Watch ‘Architects of Viksit Bharat - Ludhiana",
-      "summary": "The future of India’s enterprises is driven by innovation and ambition. Zee Media and SAP bring together the visionaries shaping the future of an AI-driven, agile and Atmanirbhar India at...",
-      "category": "Technology",
-      "image": "https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/813939344_940418235790308_4805102628343905676_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=596eb7&_nc_ohc=_B-2IHpTA24Q7kNvwEcKI9o&_nc_oc=AdpQE0FK5aLei-3ut0J5wDKp-QTXwIlUr8UR8TV3b2AjqWfdg5wIHr7xWW2d5lwZ348&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=16SEUyuV0YyFQEcI3TPLYQ&_nc_ss=70289&oh=00_AQJOfdEhzvAfUXvhyEe-MjIY3g6HHHqPp-V3UYeXGQOsEQ&oe=6AB31048",
-      "source": "facebook.com",
-      "sourceUrl": "https://www.facebook.com/zeebusinessonline/videos/the-future-of-indias-enterprises-is-driven-by-innovation-and-ambitionzee-media-a/2010387159611300/",
-      "publishedAt": "2026-09-18T10:55:22.000Z",
-      "fetchedAt": "2026-09-18T11:59:27.713Z"
-    },
-    {
-      "id": "ed7ee3c493639e97",
-      "title": "School assembly news headlines today- September 19: Top national, sports and world news curated for you",
-      "summary": "Today’s school assembly news highlights top national, sports, and world events, covering important updates from politics, sports achievements, and global headlines for September 19.",
-      "category": "National & Trending News",
-      "image": "https://static-bestcolleges.tosshub.com/2026/News/Vp76F3jGUqjtS7tPWSI6R98akx2FkwzOp95B6e5A.png",
-      "source": "India Today",
-      "sourceUrl": "https://bestcolleges.indiatoday.in/latest-news/school-assembly-news-headlines-today-september-19-top-national-sports-and-world-news-curated-for-you-11632",
-      "publishedAt": "2026-09-18T10:52:16.000Z",
-      "fetchedAt": "2026-09-18T11:05:33.400Z"
-    },
-    {
-      "id": "7418d669fde4ff16",
-      "title": "It’s a wrap: News this week (Sep 13-18)",
-      "summary": "India&rsquo;s enterprise technology story this week is being shaped by two parallel shifts: a rapid build-out of the infrastructure behind AI and a sharper...",
-      "category": "Technology",
-      "image": "https://assets.techcircle.in/uploads/article-image/2026/09/images/38107-37831-download-3-fotor-202601230444.png",
-      "source": "Techcircle",
-      "sourceUrl": "https://www.techcircle.in/2026/09/18/it-s-a-wrap-news-this-week-sep-13-18",
-      "publishedAt": "2026-09-18T10:51:28.000Z",
-      "fetchedAt": "2026-09-18T13:28:32.527Z"
     }
   ]
 }
