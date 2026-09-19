@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T19:38:24.505Z",
+  "updatedAt": "2026-09-19T19:49:39.947Z",
   "count": 250,
   "articles": [
     {
@@ -100,6 +100,17 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/city/nagpur/mcoca-accused-flees-gmch-ward/articleshow/134359265.cms",
       "publishedAt": "2026-09-19T18:23:00.000Z",
       "fetchedAt": "2026-09-19T18:47:25.684Z"
+    },
+    {
+      "id": "d2ca28132f66d3fd",
+      "title": "Mandaviya, OCA chief Al-Musallam discuss strengthening sporting ties",
+      "summary": "Mandaviya, OCA chief Al-Musallam discuss strengthening sporting ties. This update was reported by The Statesman. Open the original report for full context and any developing updates.",
+      "category": "Sports",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "The Statesman",
+      "sourceUrl": "https://www.thestatesman.com/sports/mandaviya-oca-chief-al-musallam-discuss-strengthening-sporting-ties-1503640597.html/amp",
+      "publishedAt": "2026-09-19T18:09:20.000Z",
+      "fetchedAt": "2026-09-19T19:49:33.636Z"
     },
     {
       "id": "a03dac8b2fbe02f5",
@@ -958,6 +969,17 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/world/pakistan/khyber-pakhtunkhwa-bombing-pakistan-identifies-afghan-national-among-attackers/articleshow/134355095.cms",
       "publishedAt": "2026-09-19T13:36:00.000Z",
       "fetchedAt": "2026-09-19T14:32:14.799Z"
+    },
+    {
+      "id": "7c01c0010a96a103",
+      "title": "How Vande Bharat Express marked a tech leap for railways after Rajdhani & Shatabdi. Next stop: Bullet trains",
+      "summary": "In March 1969, Indian Railways flagged off its first Rajdhani Express train. In many ways the launch of Rajdhani Express trains heralded a new era for the national transporter - a fully air-conditioned train that technically broke the ‘speed barrier’ for Indian Railways.",
+      "category": "Technology",
+      "image": "https://static.toiimg.com/thumb/msid-134353951,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/how-vande-bharat-express-marked-a-tech-leap-for-railways-after-rajdhani-shatabdi-next-stop-bullet-trains/articleshow/134353324.cms",
+      "publishedAt": "2026-09-19T13:34:00.000Z",
+      "fetchedAt": "2026-09-19T19:49:35.988Z"
     },
     {
       "id": "7c01c0010a96a103",
@@ -2676,6 +2698,17 @@
       "fetchedAt": "2026-09-19T07:55:41.635Z"
     },
     {
+      "id": "270130483ee40e6f",
+      "title": "Saikat Mukhopadhyay joins boAt Lifestyle as chief financial officer",
+      "summary": "Saikat Mukhopadhyay joins boAt Lifestyle as chief financial officer. This update was reported by Indian Television Dot Com. Open the original report for full context and any developing updates.",
+      "category": "Business & Finance",
+      "image": "https://indiantelevision.com/wp-content/uploads/2026/09/Saikat-Mukhopadhyay-1000x600.jpg",
+      "source": "Indian Television Dot Com",
+      "sourceUrl": "https://indiantelevision.com/mam/saikat-mukhopadhyay-joins-boat-lifestyle-as-chief-financial-officer/",
+      "publishedAt": "2026-09-19T06:09:39.000Z",
+      "fetchedAt": "2026-09-19T19:49:38.683Z"
+    },
+    {
       "id": "f14d05450995c619",
       "title": "Following Toronto premiere, Karthik Subbaraj’s ‘Dorothy’ gets India release date",
       "summary": "The film stars Rishikanth, Sananth and Keerthy Suresh in key roles, with music composed by Ilaiyaraaja",
@@ -2718,39 +2751,6 @@
       "sourceUrl": "https://www.indiatoday.in/amp/india/story/milan-pradhan-arrest-bengal-bjp-rebuts-rahul-gandhi-nandigram-bypoll-2998153-2026-09-19",
       "publishedAt": "2026-09-19T06:01:05.000Z",
       "fetchedAt": "2026-09-19T08:29:35.238Z"
-    },
-    {
-      "id": "9718a49a67ac01a6",
-      "title": "Finance Minister Wagle calls for Indian investment in Nepal",
-      "summary": "Finance Minister Wagle calls for Indian investment in Nepal. This update was reported by Nepalnews.com. Open the original report for full context and any developing updates.",
-      "category": "Business & Finance",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EBusiness%20%26amp%3B%20Finance%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "Nepalnews.com",
-      "sourceUrl": "https://english.nepalnews.com/s/business/finance-minister-wagle-calls-for-indian-investment-in-nepal/",
-      "publishedAt": "2026-09-19T05:59:19.000Z",
-      "fetchedAt": "2026-09-19T06:15:38.316Z"
-    },
-    {
-      "id": "2b27ef6b4b33760c",
-      "title": "From ISR to electronic warfare: Drones reshape India’s military doctrine",
-      "summary": "As battlefields evolve, so do the systems that define victory and vulnerability. With just over a decade of their induction in...",
-      "category": "Technology",
-      "image": "https://mediaindia.eu/wp-content/uploads/2026/06/IO-Lead-5.jpg",
-      "source": "Media India Group",
-      "sourceUrl": "https://mediaindia.eu/defence-aerospace/from-isr-to-electronic-warfare-drones-reshape-indias-military-doctrine/",
-      "publishedAt": "2026-09-19T05:58:23.000Z",
-      "fetchedAt": "2026-09-19T07:32:14.568Z"
-    },
-    {
-      "id": "5754781f7be50374",
-      "title": "Asian Olympic chief calls for politicians to stay out of Games after Lee Yang row",
-      "summary": "Olympic Council of Asia President Sheikh Joaan bin Hamad Al Thani has urged politicians to stay out of sport after Taiwan minister Lee Yang faced an entry dispute at the Asian Games.",
-      "category": "Sports",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/sheikh-joaan-bin-hamad-al-thani-191037912-16x9_0.jpg?VersionId=CHucg9PSf6x4TxIscU3afi3muN3b_Qyj",
-      "source": "indiatoday.in",
-      "sourceUrl": "https://www.indiatoday.in/sports/asian-games/story/asian-games-taiwan-row-politics-sport-nagoya-2998157-2026-09-19",
-      "publishedAt": "2026-09-19T05:54:45.000Z",
-      "fetchedAt": "2026-09-19T06:15:32.357Z"
     }
   ]
 }
