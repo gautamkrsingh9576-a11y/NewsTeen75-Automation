@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T12:54:58.669Z",
+  "updatedAt": "2026-09-19T13:10:27.272Z",
   "count": 250,
   "articles": [
     {
@@ -102,6 +102,28 @@
       "fetchedAt": "2026-09-19T12:54:45.577Z"
     },
     {
+      "id": "38e0998bac59c85a",
+      "title": "Aga Ruhullah Mehdi: What His NC Exit Means",
+      "summary": "Six years after his first public break with the National Conference, the Srinagar MP’s decision to resign puts fresh pressure on Omar Abdullah’s government and could squeeze the space long held by the PDP.",
+      "category": "Politics & Government",
+      "image": "https://fl-i.thgim.com/public/incoming/ebvk1k/article71483947.ece/alternates/FREE_1200/Aga%20Syed%20Ruhullah%20Mehdi.JPG",
+      "source": "Frontline Magazine",
+      "sourceUrl": "https://frontline.thehindu.com/politics/aga-ruhullah-mehdi-nc-exit/article71483908.ece/amp/",
+      "publishedAt": "2026-09-19T11:36:18.000Z",
+      "fetchedAt": "2026-09-19T13:10:17.811Z"
+    },
+    {
+      "id": "493736656ffac9f1",
+      "title": "Next-Gen Mining: Inside IIT-ISM’s Tech-Forward Course To Study Critical Minerals",
+      "summary": "IIT-ISM Dhanbad has launched an interdisciplinary M.Tech program in critical minerals, combining AI and mining to secure a clean energy supply chain, reports Narendra Nishad",
+      "category": "Technology",
+      "image": "https://imgs.etvbharat.com/etvbharat/prod-images/19-09-2026/1200-675-27667829-thumbnail-16x9-crtical-minerals-aspera.jpg",
+      "source": "ETV Bharat",
+      "sourceUrl": "https://www.etvbharat.com/en/technology/iit-ism-launches-mtech-in-critical-minerals-to-train-next-generation-mining-specialists-enn26091902654",
+      "publishedAt": "2026-09-19T11:35:16.000Z",
+      "fetchedAt": "2026-09-19T13:10:22.769Z"
+    },
+    {
       "id": "c8702d147d4e776a",
       "title": "World Bank raises India’s growth forecast from 6.3 to 6.6 percent for current financial year",
       "summary": "World Bank raises India’s growth forecast from 6.3 to 6.6 percent for current financial year. This update was reported by News On AIR. Open the original report for full context and any developing updates.",
@@ -188,6 +210,17 @@
       "sourceUrl": "https://www.thehindu.com/news/national/indias-gdp-will-rise-to-38-trillion-in-20-years-ajit-doval/article71484354.ece",
       "publishedAt": "2026-09-19T11:14:07.000Z",
       "fetchedAt": "2026-09-19T12:54:56.944Z"
+    },
+    {
+      "id": "7668bd99b81cd1e5",
+      "title": "India should aspire to be among early leaders in emerging technologies: PM Modi",
+      "summary": "Prime Minister Narendra Modi chaired a Semiconductor Roundtable with leading global and Indian CEOs at Seva Teerth on Wednesday, calling for greater collaboration between the government and industry to strengthen India’s semiconductor ecosystem. During the meeting, the Prime Minister highlighted India’s strong foundation of talent, technology adoption and infrastructure and…",
+      "category": "Technology",
+      "image": "https://ddindia.co.in/wp-content/uploads/2026/09/pm-modi.jpeg",
+      "source": "DD India",
+      "sourceUrl": "https://ddindia.co.in/2026/09/india-should-aspire-to-be-among-early-leaders-in-emerging-technologies-pm-modi/",
+      "publishedAt": "2026-09-19T11:11:13.000Z",
+      "fetchedAt": "2026-09-19T13:10:22.540Z"
     },
     {
       "id": "b6c8c563ce70c922",
@@ -485,6 +518,17 @@
       "sourceUrl": "https://www.facebook.com/khelnow/posts/here-comes-team-india-led-by-pawan-sehrawat-and-manu-bhaker-the-indian-contingen/1682498783886405/",
       "publishedAt": "2026-09-19T09:45:10.000Z",
       "fetchedAt": "2026-09-19T09:51:36.280Z"
+    },
+    {
+      "id": "968078a1c937c744",
+      "title": "Home guard arrested, dismissed from service for assaulting woman in Hyderabad | India News",
+      "summary": "A Telangana police home guard was arrested, dismissed after a video allegedly showed him assaulting a woman and dragging her by her hair outside Hafeezpet Railway Station",
+      "category": "Crime & Breaking News",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/19/1600x900/logo/Telangana-home-guard-arrested-and-dismissed-after-_1789811038934_Dxnb.jpg",
+      "source": "hindustantimes.com",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/home-guard-arrested-dismissed-from-service-for-assaulting-woman-in-hyderabad-101789811045109-amp.html",
+      "publishedAt": "2026-09-19T09:44:04.000Z",
+      "fetchedAt": "2026-09-19T13:10:18.855Z"
     },
     {
       "id": "f861fad766b5a529",
@@ -2707,50 +2751,6 @@
       "sourceUrl": "https://ddnews.gov.in/en/cwg-2026-sharmila-strikes-gold-kushare-takes-silver-as-india-opens-athletics-campaign-with-three-medals/",
       "publishedAt": "2026-09-18T18:34:43.000Z",
       "fetchedAt": "2026-09-19T01:33:15.477Z"
-    },
-    {
-      "id": "877cbe19f0f1ca56",
-      "title": "Private sector financing critical to achieve Viksit Bharat by 2047: DEA Secretary",
-      "summary": "Private sector financing will have to play a critical role in funding India’s transformation towards becoming a developed nation by 2047, Department of Economic",
-      "category": "Business & Finance",
-      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-02-01%2Fzc2oqbd3%2FANI_20260201121612.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "source": "The New Indian Express",
-      "sourceUrl": "https://www.newindianexpress.com/amp/story/business/2026/Sep/18/private-sector-financing-critical-to-achieve-viksit-bharat-by-2047-dea-secretary",
-      "publishedAt": "2026-09-18T18:33:00.000Z",
-      "fetchedAt": "2026-09-18T20:36:21.371Z"
-    },
-    {
-      "id": "408a1de84189006c",
-      "title": "India-France defence cooperation deepens with technology transfer and joint production",
-      "summary": "India-France defence cooperation deepens with technology transfer and joint production. This update was reported by DD News. Open the original report for full context and any developing updates.",
-      "category": "Technology",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "DD News",
-      "sourceUrl": "https://ddnews.gov.in/en/india-france-defence-cooperation-deepens-with-technology-transfer-and-joint-production/",
-      "publishedAt": "2026-09-18T18:31:17.000Z",
-      "fetchedAt": "2026-09-19T11:50:37.798Z"
-    },
-    {
-      "id": "c827994bbf7c5983",
-      "title": "Asian Games 2026 India schedule today, September 19: Opening Ceremony, Quimcy Dsouza in teqball on agenda",
-      "summary": "India's Asian Games 2026 schedule for today, Saturday, September 19, features the Opening Ceremony and Quimcy Dsouza in teqball. Know schedule and match start times.",
-      "category": "Sports",
-      "image": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/xs1u97qld0tmcur0t2ux",
-      "source": "olympics.com",
-      "sourceUrl": "https://www.olympics.com/en/news/asian-games-2026-india-schedule-today-september-19-saturday",
-      "publishedAt": "2026-09-18T18:31:00.000Z",
-      "fetchedAt": "2026-09-19T02:30:32.426Z"
-    },
-    {
-      "id": "b3c15c2b3275381f",
-      "title": "Cops arrest Bangla youth for stealing mobiles on Kol streets",
-      "summary": "A 23-year-old Bangladeshi national, Imran Ahmed, was arrested by Kolkata Police’s detective department on Kyd Street on Thursday night, putting a halt to an organized cross-border mobile snatching spree tailored specifically to target shoppers during the festive rush.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134342448,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/kolkata/cops-arrest-bangla-youth-for-stealing-mobiles-on-kol-streets/articleshow/134342449.cms",
-      "publishedAt": "2026-09-18T18:28:00.000Z",
-      "fetchedAt": "2026-09-19T12:24:40.594Z"
     }
   ]
 }
