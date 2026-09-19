@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-19T21:10:33.218Z",
+  "updatedAt": "2026-09-19T21:25:05.979Z",
   "count": 250,
   "articles": [
+    {
+      "id": "8cc4738edaa28c49",
+      "title": "How to watch and live stream Carabao Cup football in India",
+      "summary": "Find out everything you need to know about the TV channels, live streaming services, and broadcast schedules to catch all the EFL Cup knockout action live.",
+      "category": "Sports",
+      "image": "https://assets.goal.com/images/v3/blt2fc0cc4f49d1f5f2/crop/MM5DINRQGY5DENJZGE5G433XMU5DAORSGQYA====/GettyImages-1648877066.jpg",
+      "source": "Goal.com",
+      "sourceUrl": "https://www.goal.com/en-in/news/watch-carabao-cup-football/bltfdfc260338a11ca3",
+      "publishedAt": "2026-09-19T20:19:36.000Z",
+      "fetchedAt": "2026-09-19T21:25:00.321Z"
+    },
     {
       "id": "9b9b7ee8f1f752fd",
       "title": "At 17, New York student Liam Anderson breaks national bench press record with 396 pounds, then breaks his",
@@ -34,6 +45,17 @@
       "sourceUrl": "https://www.imdb.com/news/ni66023859/?ref_=nmnw_art_perm",
       "publishedAt": "2026-09-19T19:37:14.000Z",
       "fetchedAt": "2026-09-19T20:17:53.259Z"
+    },
+    {
+      "id": "2386b271e1422e9a",
+      "title": "Vernon News",
+      "summary": "Vernon News. This update was reported by Castanet. Open the original report for full context and any developing updates.",
+      "category": "Crime & Breaking News",
+      "image": "https://www.castanet.net/",
+      "source": "Castanet",
+      "sourceUrl": "https://www.castanet.net/edition/news-story--2-.htm",
+      "publishedAt": "2026-09-19T19:35:00.000Z",
+      "fetchedAt": "2026-09-19T21:24:59.644Z"
     },
     {
       "id": "01c669dcd393802e",
@@ -2729,28 +2751,6 @@
       "sourceUrl": "https://www.rediff.com/news/column/why-ajit-doval-visited-dhaka-on-thursday/20260919.htm",
       "publishedAt": "2026-09-19T07:09:50.000Z",
       "fetchedAt": "2026-09-19T13:39:08.371Z"
-    },
-    {
-      "id": "7c432d591e74751b",
-      "title": "Asian Games 2026 Men's Cricket: Full Schedule, Date, IST Time, Squad And Where To Watch",
-      "summary": "With the 20th Asian Games opening in Aichi-Nagoya today, September 19, cricket fans have another date to circle on the calendar. The Asian Games 2026 men's cric",
-      "category": "Sports",
-      "image": "https://media.assettype.com/esquireindia%2F2026-09-19%2Fdjsf661e%2FAsian-Games-2026-Mens-Cricket-Full-Schedule.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "source": "esquireindia.co.in",
-      "sourceUrl": "https://www.esquireindia.co.in/culture/sports/asian-games-2026-india-mens-cricket-schedule-time-date-matches-squad-when-and-where-to-watch-sony-sports-sonyliv-september-28-10-am-ist-shreyas-iyer",
-      "publishedAt": "2026-09-19T07:06:26.000Z",
-      "fetchedAt": "2026-09-19T07:19:35.943Z"
-    },
-    {
-      "id": "13b25d6ecf4df6ce",
-      "title": "We were confident: Santosh Davakhar on 'Gondhal' being picked as India's Oscar entry",
-      "summary": "We were confident: Santosh Davakhar on 'Gondhal' being picked as India's Oscar entry. This update was reported by udayavani.com. Open the original report for full context and any developing updates.",
-      "category": "Entertainment",
-      "image": "https://d3jde0c4xcko0v.cloudfront.net/production/19-09-26/news/60g4r8mu80d666FotoJet%20-%202026-09-19T120013.659.webp",
-      "source": "udayavani.com",
-      "sourceUrl": "https://udayavani.com/entertainment/we-were-confident-santosh-davakhar-on-gondhal-being-picked-as-indias-oscar-entry-159957?lang=en",
-      "publishedAt": "2026-09-19T07:02:26.000Z",
-      "fetchedAt": "2026-09-19T07:19:37.354Z"
     }
   ]
 }
