@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-19T05:03:33.665Z",
+  "updatedAt": "2026-09-19T05:19:41.447Z",
   "count": 250,
   "articles": [
+    {
+      "id": "1283382e680544fe",
+      "title": "India AI shouldn't slow down",
+      "summary": "The argument in the US is about whether frontier AI is moving too quickly, but in India, that argument feels premature. Researchers and technology executives are still talking about access to compute, building domestic models, finding capital and creating the infrastructure needed to compete in the first place. The more…",
+      "category": "Technology",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260919040739_Global-India-AI-plans.png",
+      "source": "Moneycontrol.com",
+      "sourceUrl": "https://www.moneycontrol.com/news/technology-startup/ai-edge-newsletter/india-ai-shouldn-t-slow-down/",
+      "publishedAt": "2026-09-19T05:08:41.000Z",
+      "fetchedAt": "2026-09-19T05:19:37.236Z"
+    },
     {
       "id": "8f964446c48410e7",
       "title": "Kazakhstan Eyes Cross-Border QR Payments as India’s UPI Offers Blueprint",
@@ -232,6 +243,17 @@
       "sourceUrl": "https://www.indiatoday.in/amp/education-today/news/story/quote-of-the-day-by-vikram-sarabhai-we-must-be-second-to-none-in-the-application-of-advanced-2997942-2026-09-19",
       "publishedAt": "2026-09-19T03:00:00.000Z",
       "fetchedAt": "2026-09-19T04:08:11.173Z"
+    },
+    {
+      "id": "1ba5f17c93f2ed70",
+      "title": "Why Ranveer Singh’s Dhurandhar missed India’s Oscar entry; FFI jury member reveals what happened",
+      "summary": "Following the announcement of India’s official submission for the 99th Academy Awards, a member of the FFI jury has revealed why Ranveer Singh's Dhurandhar did not make it to the Oscars.",
+      "category": "Entertainment",
+      "image": "https://cdn1.wionews.com/prod/wion/images/2026/20260919/image-1789786740488.png?imwidth=1200&imheight=900",
+      "source": "WION",
+      "sourceUrl": "https://www.wionews.com/entertainment/bollywood/why-ranveer-singh-s-dhurandhar-missed-india-s-oscar-entry-ffi-jury-member-reveals-what-happened-1789786339528",
+      "publishedAt": "2026-09-19T02:59:00.000Z",
+      "fetchedAt": "2026-09-19T05:19:34.557Z"
     },
     {
       "id": "e08372d483624330",
@@ -2729,28 +2751,6 @@
       "sourceUrl": "https://indianexpress.com/article/entertainment/regional/marathi-film-gondhal-is-indias-official-entry-for-oscars-2027-10828289/",
       "publishedAt": "2026-09-18T10:35:57.000Z",
       "fetchedAt": "2026-09-18T11:21:58.832Z"
-    },
-    {
-      "id": "1fb264a0320ef6b2",
-      "title": "India's Self-Reliance: Partnerships, Not Isolation - Misri",
-      "summary": "India's Self-Reliance: Partnerships, Not Isolation. This update was reported by Rediff MoneyWiz. Open the original report for full context and any developing updates.",
-      "category": "Technology",
-      "image": "https://im.rediff.com/news/2025/may/12vikram-misri.jpg?fr=money",
-      "source": "Rediff MoneyWiz",
-      "sourceUrl": "https://money.rediff.com/news/market/india-s-self-reliance-partnerships-not-isolation-misri/54562620260918",
-      "publishedAt": "2026-09-18T10:34:24.000Z",
-      "fetchedAt": "2026-09-18T10:40:22.501Z"
-    },
-    {
-      "id": "040e9e0985140136",
-      "title": "Saikat Mukhopadhyay Appointed Group Chief Financial Officer at boAt Lifestyle",
-      "summary": "Saikat Mukhopadhyay Appointed Group Chief Financial Officer at boAt Lifestyle. This update was reported by hrtoday.in. Open the original report for full context and any developing updates.",
-      "category": "Business & Finance",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EBusiness%20%26amp%3B%20Finance%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "hrtoday.in",
-      "sourceUrl": "https://hrtoday.in/saikat-mukhopadhyay-appointed-group-chief-financial-officer-at-boat-lifestyle/",
-      "publishedAt": "2026-09-18T10:34:03.000Z",
-      "fetchedAt": "2026-09-18T11:05:32.025Z"
     }
   ]
 }
