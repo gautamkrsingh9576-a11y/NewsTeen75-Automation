@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-09-19T10:34:15.375Z",
+  "updatedAt": "2026-09-19T10:45:41.288Z",
   "count": 250,
   "articles": [
+    {
+      "id": "d0125d49150e7331",
+      "title": "Gujarat Shocker: Man kills 5-year-old daughter, stores body in refrigerator, dies by suicide, 3 notes recover",
+      "summary": "Gujarat Shocker: Man kills 5-year-old daughter, stores body in refrigerator, dies by suicide, 3 notes recovered crime news Amreli killing",
+      "category": "Crime & Breaking News",
+      "image": "https://static.india.com/wp-content/uploads/2026/09/gujarat-suicide-murder-crime-news.jpg",
+      "source": "india.com",
+      "sourceUrl": "https://www.india.com/news/india/gujarat-shocker-man-kills-5-year-old-daughter-stores-body-in-refrigerator-dies-by-suicide-3-notes-recovered-crime-news-amreli-killing-ipc-bns-murder-8527584/",
+      "publishedAt": "2026-09-19T10:30:11.000Z",
+      "fetchedAt": "2026-09-19T10:45:29.552Z"
+    },
+    {
+      "id": "a094b4fae94a1390",
+      "title": "Why Indian Railways is testing a ‘dehumidifier’ in an electric train engine",
+      "summary": "Why Indian Railways is testing a ‘dehumidifier’ in an electric train engine. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
+      "category": "Technology",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "The Indian Express",
+      "sourceUrl": "https://indianexpress.com/article/india/indian-railways-dehumidifier-electric-loco-moisture-monsoon-10885065/",
+      "publishedAt": "2026-09-19T10:17:36.000Z",
+      "fetchedAt": "2026-09-19T10:45:37.117Z"
+    },
     {
       "id": "b47deff0254a93eb",
       "title": "Apple’s expanded iCloud+ bundle goes live in India, subscribers receive notifications",
@@ -91,6 +113,17 @@
       "fetchedAt": "2026-09-19T10:04:25.780Z"
     },
     {
+      "id": "05596bfb0ccaf92f",
+      "title": "Grand Opening Ceremony Marks Start Of 20th Asian Games",
+      "summary": "The 20th Asian Games have officially commenced in Nagoya with a high-tech Opening Ceremony. India",
+      "category": "Sports",
+      "image": "https://im.rediff.com/1200-630/cricket/2023/sep/25women1.jpg",
+      "source": "Rediff",
+      "sourceUrl": "https://m.rediff.com/amp/sports/report/20th-asian-games-nagoya-kicks-off-with-opening-ceremony/20260919.htm",
+      "publishedAt": "2026-09-19T09:22:35.000Z",
+      "fetchedAt": "2026-09-19T10:45:31.671Z"
+    },
+    {
       "id": "932f7cccfe7da188",
       "title": "Asian Games 2026: 'India favourites to win men's hockey gold' | AB Subbaiah interview",
       "summary": "Former India goalkeeper AB Subbaiah says India are ahead of their Asian rivals and expects the men",
@@ -146,6 +179,17 @@
       "fetchedAt": "2026-09-19T09:10:40.082Z"
     },
     {
+      "id": "c9973fea30fb5afe",
+      "title": "Sigma - Official Telugu Trailer",
+      "summary": "Watch the Official trailer from telugu movie 'Sigma' starring Sundeep Kishan, Faria Abdullah, Raju Sundaram, Sampath Raj and Shiv Pandit. 'Sigma' movie is directed by Jason Sanjay. To know more about 'Sigma' trailer watch the video. Check out the latest telugu trailers, new movie trailers, trending telugu movie trailer, and…",
+      "category": "Entertainment",
+      "image": "https://static.toiimg.com/thumb/msid-134351115,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/videos/entertainment/regional/telugu/sigma-official-telugu-trailer/videoshow/134351115.cms",
+      "publishedAt": "2026-09-19T09:05:04.000Z",
+      "fetchedAt": "2026-09-19T10:45:33.960Z"
+    },
+    {
       "id": "5754efab3592e187",
       "title": "How India taught its shooters to slow their hearts",
       "summary": "How India taught its shooters to slow their hearts. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
@@ -177,6 +221,17 @@
       "sourceUrl": "https://www.moneycontrol.com/entertainment/bollywood/daayra-box-office-collection-day-1-kareena-kapoor-prithviraj-sukumaran-starrer-crime-drama-film-opens-at-rs-1-crore-in-india-article-14033447.html",
       "publishedAt": "2026-09-19T09:00:41.000Z",
       "fetchedAt": "2026-09-19T09:26:25.538Z"
+    },
+    {
+      "id": "d609b2df6d1470fb",
+      "title": "AI Is Changing the Economics of Entertainment, Says Sanket ‘Don’ Vanzara",
+      "summary": "AI Is Changing the Economics of Entertainment, Says Sanket ‘Don’ Vanzara. This update was reported by India CSR. Open the original report for full context and any developing updates.",
+      "category": "Entertainment",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EEntertainment%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "India CSR",
+      "sourceUrl": "https://indiacsr.in/ai-changing-economics-entertainment-says-sanket-don-vanzara/",
+      "publishedAt": "2026-09-19T08:59:47.000Z",
+      "fetchedAt": "2026-09-19T10:45:34.228Z"
     },
     {
       "id": "e2c5f8d8ae4c5c11",
@@ -298,6 +353,17 @@
       "sourceUrl": "https://www.tradingview.com/news/moodys:23e289d8e43bb:0-semicon-india-day-2-sees-25-partnerships-across-chip-manufacturing-supply-chains-packaging-and-skills/",
       "publishedAt": "2026-09-19T08:12:59.000Z",
       "fetchedAt": "2026-09-19T09:26:33.718Z"
+    },
+    {
+      "id": "3bc40913b2b4acdb",
+      "title": "Asian Games 2026 Opening Ceremony Live: Aichi-Nagoya welcomes India",
+      "summary": "Asian Games 2026 Opening Ceremony Live Updates: Japan's Emperor Naruhito has officially declared the Asian Games open. Earlier, the Parade of Nations took place, with India entering the Mizuho Park Athletic Stadium as Manu Bhaker and Pawan Sehrawat led the contingent during the opening ceremony.",
+      "category": "Sports",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/breaking_news/202609/manu-bhaker--pawan-sehrawat-19425986-16x9_0.jpeg?VersionId=Wx4d.OLLha4ch8PYJ.h0HpWp.2bRcFR6",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/amp/sports/asian-games/story/asian-games-opening-ceremony-2026-live-updates-nagoya-timing-india-flagbearers-manu-bhaker-pawan-sehrawat-2998213-2026-09-19",
+      "publishedAt": "2026-09-19T08:01:21.000Z",
+      "fetchedAt": "2026-09-19T10:45:32.888Z"
     },
     {
       "id": "6747e869297afe09",
@@ -837,6 +903,17 @@
       "sourceUrl": "https://www.moneycontrol.com/news/technology-startup/ai-edge-newsletter/india-ai-shouldn-t-slow-down/",
       "publishedAt": "2026-09-19T05:08:41.000Z",
       "fetchedAt": "2026-09-19T05:19:37.236Z"
+    },
+    {
+      "id": "a1c5abf540f1ac98",
+      "title": "Finance Minister Wagle to pitch Nepal investment opportunities to Indian industry",
+      "summary": "KATHMANDU: Finance Minister Dr Swarnim Wagle is set to call on Indian industrialists to increase investment in Nepal during his ongoing visit to India. Wagle will address a roundtable discussion organized by the Confederation of Indian Industry (CII) at its headquarters in New Delhi at 9:30 am on Saturday. CII…",
+      "category": "Business & Finance",
+      "image": "https://english.khabarhub.com/wp-content/uploads/2026/08/Swarnim-Wagle.jpg",
+      "source": "Khabarhub",
+      "sourceUrl": "https://english.khabarhub.com/2026/19/568338/",
+      "publishedAt": "2026-09-19T05:07:47.000Z",
+      "fetchedAt": "2026-09-19T10:45:39.643Z"
     },
     {
       "id": "241ef11724e4dce7",
@@ -2236,6 +2313,17 @@
       "fetchedAt": "2026-09-18T20:22:14.991Z"
     },
     {
+      "id": "e931b6e8f06270af",
+      "title": "Seems like democracy has ended, India has become a police state: Gehlot",
+      "summary": "Jaipur, Sep 18 (PTI) Former Rajasthan chief minister Ashok Gehlot on Friday accused the BJP of misusing police and government agencies against opposition parties, citing the arrest of Congress candidate Milan Pradhan ahead of the Nandigram assembly bypoll in West Bengal and the alleged police action during the recent civic…",
+      "category": "Politics & Government",
+      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
+      "source": "ThePrint",
+      "sourceUrl": "https://theprint.in/india/seems-like-democracy-has-ended-india-has-become-a-police-state-gehlot/3046990/",
+      "publishedAt": "2026-09-18T16:50:18.000Z",
+      "fetchedAt": "2026-09-19T10:45:28.913Z"
+    },
+    {
       "id": "5cfecccc0c1cd98b",
       "title": "Mamata moves Supreme Court against EC order freezing TMC name, symbol | India News",
       "summary": "The development comes after the Election Commission froze the original TMC name and its symbol amid a tussle between rival factions within the party. | India News",
@@ -2663,94 +2751,6 @@
       "sourceUrl": "https://yourstory.com/2026/09/sfal-seven-mous-semicon-india-2026",
       "publishedAt": "2026-09-18T14:14:14.000Z",
       "fetchedAt": "2026-09-18T16:15:39.142Z"
-    },
-    {
-      "id": "fac87bc65a091d1f",
-      "title": "Long-term future is in favour of India-US relationship: Ex-Trump NSA McMaster",
-      "summary": "Speaking with ANI, McMaster urged India to &ldquo;have faith in America&rdquo;, while saying the US should not pressure New Delhi to take sides against Russia or disengage from groupings such as BRICS.",
-      "category": "National & Trending News",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWY2YzNkMzEwLWIzNmEtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
-      "source": "The Tribune",
-      "sourceUrl": "https://www.tribuneindia.com/news/world/long-term-future-is-in-favour-of-india-us-relationship-ex-trump-nsa-mcmaster/amp/?utm=relatedarticles",
-      "publishedAt": "2026-09-18T14:12:14.000Z",
-      "fetchedAt": "2026-09-18T15:15:59.463Z"
-    },
-    {
-      "id": "839ceea8bccd720c",
-      "title": "Can India Turn the $300-Billion Data Centre Boom Into a Win for Tier-2 Youth?",
-      "summary": "Data centres are inevitable – the investment is coming, whether or not people oppose it. India could try to gain more from this eventuality than temporary construction jobs.",
-      "category": "Technology",
-      "image": "https://m.thewire.in/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhld2lyZS1pbi1wcm9kLXNvcnRkL21lZGlhYzEzNWE2NjAtYjM2YS0xMWYxLWI3YzQtZDkzNjNhNjU5MGM3LnBuZw==",
-      "source": "TheWire.in",
-      "sourceUrl": "https://m.thewire.in/article/tech/can-india-turn-the-300-billion-data-centre-boom-into-a-win-for-tier-2-youth",
-      "publishedAt": "2026-09-18T14:10:48.000Z",
-      "fetchedAt": "2026-09-18T14:30:05.845Z"
-    },
-    {
-      "id": "dbe3f788a6721d02",
-      "title": "Semicon India 2026: India's Sovereign AI Leap And Navigating Cost, Control, Security",
-      "summary": "Rakesh Ramesh Rao Pimplikar, representing IMD India Private Limited said hardware localization means little if entire software, cloud and AI stack remain dependent on entities.",
-      "category": "Technology",
-      "image": "https://imgs.etvbharat.com/etvbharat/prod-images/18-09-2026/1200-675-27663654-849-27663654-1789740212501.jpg",
-      "source": "ETV Bharat",
-      "sourceUrl": "https://www.etvbharat.com/en/technology/semicon-india-2026-indias-sovereign-ai-leap-and-navigating-cost-control-security-enn26091805879",
-      "publishedAt": "2026-09-18T14:09:55.000Z",
-      "fetchedAt": "2026-09-18T14:45:43.488Z"
-    },
-    {
-      "id": "afa9661d768765af",
-      "title": "Chasing a golden dream | India @ Asian Games 2026",
-      "summary": "Most Indian athletes headed for Aichi-Nagoya aspire to a glory night on the podium. Here are seven of India’s brightest medal prospects, going by their current form",
-      "category": "Sports",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/asian-games-185638891-16x9_0.jpg?VersionId=Si2TsBNxnHjCON6eSjSr9obbwXyPwpS3",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/magazine/sports/story/20260928-chasing-a-golden-dream-india-asian-games-2026-2997441-2026-09-18",
-      "publishedAt": "2026-09-18T14:09:53.000Z",
-      "fetchedAt": "2026-09-18T14:30:02.745Z"
-    },
-    {
-      "id": "701b66a0bb6e3fcb",
-      "title": "JCB India honors Nepali workers for heroic flood rescue efforts",
-      "summary": "JCB India honors Nepali workers for heroic flood rescue efforts. This update was reported by Deshsanchar. Open the original report for full context and any developing updates.",
-      "category": "National & Trending News",
-      "image": "https://englishassets.deshsanchar.com/wp-content/uploads/2026/09/18201027/IMG_1358.jpeg",
-      "source": "Deshsanchar",
-      "sourceUrl": "https://english.deshsanchar.com/jcb-india-honors-nepali-workers-for-heroic-flood-rescue-efforts/",
-      "publishedAt": "2026-09-18T14:07:19.000Z",
-      "fetchedAt": "2026-09-18T21:31:47.532Z"
-    },
-    {
-      "id": "9aa7802e85a372a1",
-      "title": "Invisible upgrades | Smart home technology",
-      "summary": "Shifting your design approach and using the right automation creates an intuitive, stress-free sanctuary",
-      "category": "Technology",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/invisible-upgradesinvisible-upgrades-184604989-16x9_0.jpg?VersionId=tyzXIcoR9jMvOBbuEpzRWKCz9qjKZDnd",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/amp/magazine/supplement/story/20260928-invisible-upgrades-smart-home-technology-2997604-2026-09-18",
-      "publishedAt": "2026-09-18T13:59:37.000Z",
-      "fetchedAt": "2026-09-18T15:15:51.716Z"
-    },
-    {
-      "id": "89e3eb628a5739e2",
-      "title": "\"India Must Build ‘Anti-Technology’ To Counter Larger Adversaries\"",
-      "summary": "\"India Must Build ‘Anti-Technology’ To Counter Larger Adversaries\". This update was reported by BW Businessworld. Open the original report for full context and any developing updates.",
-      "category": "Technology",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "BW Businessworld",
-      "sourceUrl": "https://www.businessworld.in/article/india-must-build-anti-technology-to-counter-larger-adversaries-624452",
-      "publishedAt": "2026-09-18T13:55:51.000Z",
-      "fetchedAt": "2026-09-18T20:05:58.598Z"
-    },
-    {
-      "id": "666f1f3f61900944",
-      "title": "India-born cheetah gives birth to four cubs at Kuno",
-      "summary": "An India-born cheetah gives birth to four cubs in Kuno National Park, boosting the population to 56 amid conservation efforts.",
-      "category": "National & Trending News",
-      "image": "https://th-i.thgim.com/public/incoming/xff7pt/article71480953.ece/alternates/LANDSCAPE_1200/20260918040L.jpg",
-      "source": "The Hindu",
-      "sourceUrl": "https://www.thehindu.com/news/national/madhya-pradesh/india-born-cheetah-gives-birth-to-four-cubs-at-kuno/article71480735.ece",
-      "publishedAt": "2026-09-18T13:53:16.000Z",
-      "fetchedAt": "2026-09-18T14:13:38.092Z"
     }
   ]
 }
