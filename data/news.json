@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T23:22:35.527Z",
+  "updatedAt": "2026-09-19T23:33:55.035Z",
   "count": 250,
   "articles": [
     {
@@ -595,6 +595,17 @@
       "sourceUrl": "https://www.indiatoday.in/sports/asian-games/story/asian-games-2026-shooting-preview-india-squad-manu-bhaker-medal-hopes-schedule-2998571-2026-09-19",
       "publishedAt": "2026-09-19T17:02:35.000Z",
       "fetchedAt": "2026-09-19T17:48:06.742Z"
+    },
+    {
+      "id": "c1c88365b26e9ffe",
+      "title": "IIT Bombay faculty member booked for caste abuse, suicide abetment",
+      "summary": "IIT Bombay faculty member charged with caste abuse and abetment to suicide after student’s tragic death.",
+      "category": "National & Trending News",
+      "image": "https://th-i.thgim.com/public/incoming/scnlau/article71485779.ece/alternates/LANDSCAPE_1200/PTI09_19_2026_000497B.jpg",
+      "source": "The Hindu",
+      "sourceUrl": "https://www.thehindu.com/news/national/maharashtra/iit-bombay-faculty-member-booked-for-caste-abuse-suicide-abetment/article71485392.ece",
+      "publishedAt": "2026-09-19T16:59:51.000Z",
+      "fetchedAt": "2026-09-19T23:33:55.035Z"
     },
     {
       "id": "3db04e70d6df2d99",
@@ -2740,17 +2751,6 @@
       "sourceUrl": "https://www.indiatoday.in/sports/tennis/story/davis-cup-qualifiers-india-vs-south-korea-sumit-nagal-sriram-balaji-2998205-2026-09-19",
       "publishedAt": "2026-09-19T07:40:26.000Z",
       "fetchedAt": "2026-09-19T08:29:36.776Z"
-    },
-    {
-      "id": "ef19394d6a0a4cb5",
-      "title": "Santosh Davakhar reacts to ‘Gondhal’ being chosen as India’s official entry for Oscar 2027 entry: ‘We wer",
-      "summary": "Director Santosh Davakhar has reacted to his Marathi thriller ‘Gondhal’ being selected as India’s official entry for the 2027 Academy Awards. The Film Federation of India (FFI) chose the film for the Best International Feature Film category from 33 submissions.",
-      "category": "Entertainment",
-      "image": "https://static.toiimg.com/thumb/msid-134350108,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/marathi/movies/news/santosh-davakhar-reacts-to-gondhal-being-chosen-as-indias-official-entry-for-oscar-2027-entry-we-were-confident-while-making-and-submitting-the-film/articleshow/134350086.cms",
-      "publishedAt": "2026-09-19T07:38:00.000Z",
-      "fetchedAt": "2026-09-19T07:44:46.931Z"
     }
   ]
 }
