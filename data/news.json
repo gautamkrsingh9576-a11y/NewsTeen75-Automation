@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T23:54:39.486Z",
+  "updatedAt": "2026-09-19T00:14:10.168Z",
   "count": 250,
   "articles": [
     {
@@ -12,6 +12,17 @@
       "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-18/wall-street-week-india-s-growth-test-video",
       "publishedAt": "2026-09-18T23:41:33.000Z",
       "fetchedAt": "2026-09-18T23:43:06.467Z"
+    },
+    {
+      "id": "cefb19d4e0b1de82",
+      "title": "503 athletes to represent India at Asian Games: 45 countries will compete in 469 medal events across 43 spo...",
+      "summary": "Asian Games 2026 Nagoya updates, India squad size, medal events. Follow Bhaskar English Latest Updates. The 20th edition of the Asian Games begins today in Nagoya, Japan. Athletes from 45 countries will compete in 469 medal events across 43 sports this time.",
+      "category": "Sports",
+      "image": "https://images.bhaskarassets.com/thumb/730x0/web2images/1884/2026/09/18/comp-33-2_1789749651.gif",
+      "source": "Bhaskar English",
+      "sourceUrl": "https://www.bhaskarenglish.in/sports/news/asian-games-2026-nagoya-japan-india-contingent-schedule-list-all-you-need-to-know-139072717.html",
+      "publishedAt": "2026-09-18T23:00:00.000Z",
+      "fetchedAt": "2026-09-19T00:14:00.956Z"
     },
     {
       "id": "ec4ab5fddb36a8f1",
@@ -2740,17 +2751,6 @@
       "sourceUrl": "https://indianexpress.com/article/sports/asian-games-2026-opening-ceremony-india-flagbearers-manu-bhaker-tajinderpal-singh-toor-10883456/",
       "publishedAt": "2026-09-18T08:27:40.000Z",
       "fetchedAt": "2026-09-18T08:41:04.644Z"
-    },
-    {
-      "id": "64e9e1c635dc8e12",
-      "title": "How to watch ETPL 2026 in India? Live stream, TV channel, teams, squads and schedule for European T20 Premier League",
-      "summary": "The inaugural ETPL season is here. Find out where to watch, plus the teams, squads and full 2026 schedule.",
-      "category": "Sports",
-      "image": "https://s.yimg.com/lo/mysterio/api/7612e6eb051634135b055236084f4d8a311cee67bf9ebecfdc611c9d75c8aba0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F5572702289c147f4221374e95512b0da",
-      "source": "Yahoo Sports",
-      "sourceUrl": "https://sports.yahoo.com/articles/watch-etpl-2026-india-live-114723495.html",
-      "publishedAt": "2026-09-18T08:25:25.000Z",
-      "fetchedAt": "2026-09-18T09:41:12.475Z"
     }
   ]
 }
