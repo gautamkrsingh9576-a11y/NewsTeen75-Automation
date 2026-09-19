@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-19T23:33:55.035Z",
+  "updatedAt": "2026-09-19T23:45:04.290Z",
   "count": 250,
   "articles": [
+    {
+      "id": "ed02448ea805d371",
+      "title": "India at Asian Games Live updates for September 20: Can India bag their first medal?",
+      "summary": "India at Asian Games live, September 20: India begins an action-packed day with medal events in shooting and teqball, while hockey, women’s cricket, table tennis, wushu, badminton and swimming keep the Indian contingent busy across Aichi-Nagoya.",
+      "category": "Sports",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/breaking_news/202609/india-at-asian-games-live-updates-191336778-16x9_0.jpeg?VersionId=bweHMCNas6BGFosvfBhFdbF2UPeRTE4t",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/amp/sports/asian-games/story/asian-games-live-updates-september-20-india-shooting-teqball-badminton-hockey-results-2998608-2026-09-20",
+      "publishedAt": "2026-09-19T23:30:03.000Z",
+      "fetchedAt": "2026-09-19T23:44:56.798Z"
+    },
     {
       "id": "7b40022c5f5b3e08",
       "title": "Ex-chief of finance panel calls for more capex, state-wise debt sustainability",
@@ -14,6 +25,17 @@
       "fetchedAt": "2026-09-19T22:54:32.156Z"
     },
     {
+      "id": "74a4c69fc192ae13",
+      "title": "India to host 11th Asian Senior Wushu C’ship in 2028",
+      "summary": "*Bajwa nominated to WFA Executive Committee Excelsior Sports Correspondent JAMMU, Sept 19: India will host the 11th Asian Senior Wushu Championship in 2028, marking the first time that the prestigious continental event will be held in the country. The decision...",
+      "category": "Sports",
+      "image": "https://www.dailyexcelsior.com/india-to-host-11th-asian-senior-wushu-cship-in-2028/amp/",
+      "source": "dailyexcelsior.com",
+      "sourceUrl": "https://www.dailyexcelsior.com/india-to-host-11th-asian-senior-wushu-cship-in-2028/amp",
+      "publishedAt": "2026-09-19T22:30:19.000Z",
+      "fetchedAt": "2026-09-19T23:44:57.345Z"
+    },
+    {
       "id": "6708e7f3e17564b5",
       "title": "Meet Anand Deverakonda, Vijay Deverakonda's brother starring in Epic - Mid-Day",
       "summary": "With Epic First Semester releasing, meet Anand Deverakonda, Vijay Deverakonda’s younger brother. From engineering backgorund to his acting career",
@@ -23,6 +45,17 @@
       "sourceUrl": "https://www.mid-day.com/entertainment/regional-indian-cinema-news/photo/meet-anand-deverakonda-vijay-deverakondas-brother-starring-in-epic-first-semester-113012/9",
       "publishedAt": "2026-09-19T22:02:49.000Z",
       "fetchedAt": "2026-09-19T23:22:31.084Z"
+    },
+    {
+      "id": "0a76dc6c33fea735",
+      "title": "Indian Army launches technology roadmap for Unmanned Aerial System",
+      "summary": "Indian Army launches technology roadmap for Unmanned Aerial System. This update was reported by News On AIR. Open the original report for full context and any developing updates.",
+      "category": "Technology",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "News On AIR",
+      "sourceUrl": "https://newsonair.gov.in/indian-army-launches-technology-roadmap-for-unmanned-aerial-system/",
+      "publishedAt": "2026-09-19T21:44:35.000Z",
+      "fetchedAt": "2026-09-19T23:45:00.590Z"
     },
     {
       "id": "845bc33787e13172",
@@ -2718,39 +2751,6 @@
       "sourceUrl": "https://udayavani.com/sports/india-mens-cricket-team-dealing-with-clothing-issue-ahead-of-departure-for-asian-games-857351?lang=en",
       "publishedAt": "2026-09-19T07:47:36.000Z",
       "fetchedAt": "2026-09-19T11:26:31.299Z"
-    },
-    {
-      "id": "28f7e90dee8204a8",
-      "title": "India Aims For Aquatic Excellence And Major Event Hosting",
-      "summary": "Sports Minister Mansukh Mandaviya met World Aquatics president Husain Al-Musallam to discuss strengthening cooperation, developing aquatic sports in India, and exploring India",
-      "category": "Sports",
-      "image": "https://im.rediff.com/1200-630/sports/2024/sep/08sports.jpg",
-      "source": "Rediff",
-      "sourceUrl": "https://www.rediff.com/sports/report/india-aims-for-aquatics-powerhouse-status-with-world-aquatics/20260919.htm",
-      "publishedAt": "2026-09-19T07:42:29.000Z",
-      "fetchedAt": "2026-09-19T07:55:44.352Z"
-    },
-    {
-      "id": "9aa81bd23c712d3e",
-      "title": "India Wins Third ICC Men’s T20 World Cup Title; President, Vice President and PM Congratulate Winning Team",
-      "summary": "India Wins Third ICC Men’s T20 World Cup Title; President, Vice President and PM Congratulate Winning Team. This update was reported by News On AIR. Open the original report for full context and any developing updates.",
-      "category": "Sports",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "News On AIR",
-      "sourceUrl": "https://newsonair.gov.in/india-wins-third-icc-mens-t20-world-cup-title-president-vice-president-and-pm-congratulate-winning-team/",
-      "publishedAt": "2026-09-19T07:40:55.000Z",
-      "fetchedAt": "2026-09-19T09:26:23.302Z"
-    },
-    {
-      "id": "524dd68ee252ce73",
-      "title": "Sumit Nagal falters again as India suffer 1-3 defeat to South Korea in Davis Cup",
-      "summary": "Dhakshineswar Suresh and N Sriram Balaji kept India alive with a gritty three-set doubles win after the team fell 0-2 behind. However, Sumit Nagal failed to complete the comeback, losing 1-6, 2-6 to Soonwoo Kwon as South Korea advanced to the Davis Cup Final 8.",
-      "category": "Sports",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/sumit-nagal-193632309-16x9_0.jpg?VersionId=Ed8Vlj7n8ApV1DUbtlFu.GGpU.3HLXbQ",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/sports/tennis/story/davis-cup-qualifiers-india-vs-south-korea-sumit-nagal-sriram-balaji-2998205-2026-09-19",
-      "publishedAt": "2026-09-19T07:40:26.000Z",
-      "fetchedAt": "2026-09-19T08:29:36.776Z"
     }
   ]
 }
