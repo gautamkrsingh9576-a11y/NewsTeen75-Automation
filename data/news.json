@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-09-19T11:50:44.000Z",
+  "updatedAt": "2026-09-19T12:03:03.376Z",
   "count": 250,
   "articles": [
+    {
+      "id": "3abec6d39e6e21e8",
+      "title": "Ilaiyaraaja completes 50 years in Indian cinema as ‘Gondhal’ becomes first film featuring his music to be",
+      "summary": "Legendary composer Ilaiyaraaja is marking 50 years in Indian cinema with a major international milestone. His music features in the Marathi psychological thriller Gondhal, which has been selected as India’s official entry for the Best International Feature Film category at the 99th Academy Awards, to be held in 2027.",
+      "category": "Entertainment",
+      "image": "https://static.toiimg.com/thumb/msid-134353663,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/ilaiyaraaja-completes-50-years-in-indian-cinema-as-gondhal-becomes-first-film-featuring-his-music-to-be-selected-as-indias-official-oscar-2027-entry/articleshow/134353523.cms",
+      "publishedAt": "2026-09-19T11:56:00.000Z",
+      "fetchedAt": "2026-09-19T12:02:54.867Z"
+    },
+    {
+      "id": "5463eb5dada0e34e",
+      "title": "18 years after the 2008 financial meltdown: How a crisis born in US reshaped India",
+      "summary": "18 years after the 2008 financial meltdown: How a crisis born in US reshaped India. This update was reported by The Times of India. Open the original report for full context and any developing updates.",
+      "category": "Business & Finance",
+      "image": "https://static.toiimg.com/thumb/msid-134353645,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/18-years-after-the-2008-financial-meltdown-how-a-crisis-born-in-us-reshaped-india/articleshow/134352862.cms",
+      "publishedAt": "2026-09-19T11:55:00.000Z",
+      "fetchedAt": "2026-09-19T12:03:00.360Z"
+    },
     {
       "id": "a8bce6c8da8b5853",
       "title": "Canada optimistic about concluding trade talks with India by year-end, minister says",
@@ -135,6 +157,17 @@
       "fetchedAt": "2026-09-19T10:56:23.040Z"
     },
     {
+      "id": "0914c1370a42cd9b",
+      "title": "Why 6-state Kishau pact gives bragging rights to CM Sukhu before Himachal polls",
+      "summary": "Why 6-state Kishau pact gives bragging rights to CM Sukhu before Himachal polls. This update was reported by indianexpress.com. Open the original report for full context and any developing updates.",
+      "category": "Politics & Government",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EPolitics%20%26amp%3B%20Government%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "indianexpress.com",
+      "sourceUrl": "https://indianexpress.com/article/political-pulse/himachal-pradesh-chief-minister-sukhvinder-singh-sukhu-kishau-multipurpose-dam-project-zero-cost-agreement-bjp-credit-war-10885121/",
+      "publishedAt": "2026-09-19T10:47:15.000Z",
+      "fetchedAt": "2026-09-19T12:02:51.720Z"
+    },
+    {
       "id": "b1df0552f5ccaae7",
       "title": "NCP (SP) asks Centre to spell out economic fallout of US tariff threat over Russian oil",
       "summary": "NCP (SP) asks Centre to spell out economic fallout of US tariff threat over Russian oil. This update was reported by The Economic Times. Open the original report for full context and any developing updates.",
@@ -201,6 +234,17 @@
       "fetchedAt": "2026-09-19T10:45:37.117Z"
     },
     {
+      "id": "8f29de68980daacb",
+      "title": "Neeraj Chopra extends best wishes to Team India for Asian Games 2026",
+      "summary": "Olympic champion javelin thrower Neeraj Chopra extended his best wishes to the Indian contingent participating in the Asian Games 2026, saying he was confident that the athletes would make the country proud.",
+      "category": "Sports",
+      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260919100016-thumbnail-320x180-70.jpg",
+      "source": "ANI News",
+      "sourceUrl": "https://www.aninews.in/news/sports/others/neeraj-chopra-extends-best-wishes-to-team-india-for-asian-games-202620260919154424/",
+      "publishedAt": "2026-09-19T10:14:00.000Z",
+      "fetchedAt": "2026-09-19T12:02:54.007Z"
+    },
+    {
       "id": "b47deff0254a93eb",
       "title": "Apple’s expanded iCloud+ bundle goes live in India, subscribers receive notifications",
       "summary": "Apple’s expanded iCloud+ subscription is now live in India, with customers beginning to receive notifications about the addition of Apple TV and Apple Arcade at no extra cost. The change brings cloud storage, video streaming and gaming into a single subscription.",
@@ -254,6 +298,17 @@
       "sourceUrl": "https://www.indiatoday.in/amp/technology/video/ai-ending-humanity-is-nonsense-tech-needs-regulation-dr-vishal-sikka-ytvd-2998256-2026-09-19",
       "publishedAt": "2026-09-19T09:51:50.000Z",
       "fetchedAt": "2026-09-19T10:04:28.799Z"
+    },
+    {
+      "id": "eefd5291c9172b9d",
+      "title": "History of DUSU: From a ₹150 grant proposal in 1947 to national spotlight",
+      "summary": "As vote counting for the DUSU polls is underway on Saturday, the story of how the Delhi University Students' Union came into being offers a glimpse into the humble beginnings of one of the country's most prominent student bodies.",
+      "category": "National & Trending News",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/18/thumb/fitandfill/1200X628/1789703457-7071.jpg",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/amp/india-news/history-of-dusu-from-a-150-grant-proposal-in-1947-to-national-spotlight-126091900394_1.html",
+      "publishedAt": "2026-09-19T09:49:43.000Z",
+      "fetchedAt": "2026-09-19T12:03:03.376Z"
     },
     {
       "id": "5513f8c1622ea6bd",
@@ -311,6 +366,17 @@
       "fetchedAt": "2026-09-19T09:51:49.080Z"
     },
     {
+      "id": "f8b7051139770608",
+      "title": "Odisha Researcher Explains Home-Grown Semiconductor Chip To PM Modi At SEMICON India 2026",
+      "summary": "Ganjam researcher Pradeep Kumar Mohanty presented NIT Rourkela’s indigenous security chip to PM Modi, marking a milestone for Odisha’s semiconductor ambitions, reports Samir Kumar Acharya.",
+      "category": "Technology",
+      "image": "https://imgs.etvbharat.com/etvbharat/prod-images/19-09-2026/1200-675-27667588-508-27667588-1789804569151.jpg",
+      "source": "ETV Bharat",
+      "sourceUrl": "https://www.etvbharat.com/en/offbeat/odisha-researcher-explains-home-grown-semiconductor-chip-to-pm-modi-at-semicon-india-2026-enn26091902413",
+      "publishedAt": "2026-09-19T09:41:36.000Z",
+      "fetchedAt": "2026-09-19T12:02:55.716Z"
+    },
+    {
       "id": "02d73b883d1391a8",
       "title": "'Mirzapur The Movie' box office collection Day 16 [LIVE]: Pankaj Tripathi, Ali Fazal and Ravi Kishan film",
       "summary": "‘Mirzapur The Movie’ is continuing its theatrical run into Day 16, with the Gurmmeet Singh directorial having already crossed the Rs. 205 crore India net milestone.",
@@ -320,6 +386,17 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/mirzapur-the-movie-box-office-collection-day-16-live-pankaj-tripathi-ali-fazal-rasika-dugal-ravi-kishan-eyes-rs-210-crore-india-net-and-rs-300-crore-worldwide-milestones-as-it-heads-into-third-weekend/articleshow/134351404.cms",
       "publishedAt": "2026-09-19T09:40:00.000Z",
       "fetchedAt": "2026-09-19T09:51:39.178Z"
+    },
+    {
+      "id": "0be1ffd2b9188bb8",
+      "title": "Microsoft CEO urges wider AI access across India",
+      "summary": "Microsoft CEO urges wider AI access across India. This update was reported by Ahmedabad Mirror. Open the original report for full context and any developing updates.",
+      "category": "Technology",
+      "image": "https://media.ahmedabadmirror.com/am/uploads/mediaGallery/image/1789758938775.jpg-org",
+      "source": "Ahmedabad Mirror",
+      "sourceUrl": "https://www.ahmedabadmirror.com/microsoft-ceo-urges-wider-ai-access-across-india/81922152.html",
+      "publishedAt": "2026-09-19T09:36:32.000Z",
+      "fetchedAt": "2026-09-19T12:02:59.399Z"
     },
     {
       "id": "e95573fed1a46087",
@@ -2522,6 +2599,17 @@
       "fetchedAt": "2026-09-18T18:19:45.636Z"
     },
     {
+      "id": "eb09d33e50c234e8",
+      "title": "Gurugram cops destroyed proof: Family of man allegedly killed by ex-colleague, her partner | India News",
+      "summary": "Manchanda’s relatives said they were unable to recover his ashes and belongings, while police maintained that the remains and personal items were preserved. | India News",
+      "category": "Crime & Breaking News",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/18/1600x900/logo/Manchanda-was-allegedly-killed-by-his-former-colle_1789754387838_ubgL.jpg",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/gurugram-cops-destroyed-proof-family-of-man-allegedly-killed-by-ex-colleague-her-partner-yuvraj-singh-manchanda-murder-101789754390819.html",
+      "publishedAt": "2026-09-18T17:59:50.000Z",
+      "fetchedAt": "2026-09-19T12:02:52.718Z"
+    },
+    {
       "id": "f1192e0ec4b63251",
       "title": "Korean stars Son Ye-jin, Ji Chang-wook and Nana's message to Indian fans: 'Would love to meet you all'",
       "summary": "Korean stars Son Ye-jin, Ji Chang-wook and Nana's message to Indian fans: 'Would love to meet you all'. This update was reported by MillenniumPost. Open the original report for full context and any developing updates.",
@@ -2663,94 +2751,6 @@
       "sourceUrl": "https://www.aninews.in/news/national/general-news/resilient-critical-mineral-value-chains-crucial-for-india8217s-manufacturing-energy-transition-prof-gobardhan-das20260918223136/",
       "publishedAt": "2026-09-18T17:01:00.000Z",
       "fetchedAt": "2026-09-18T21:31:43.823Z"
-    },
-    {
-      "id": "fec3235ea0751964",
-      "title": "From chocolate to paan: Google Search data unveils India’s top trending Modak variations",
-      "summary": "As festival preparations gather pace across the country, Indian kitchens turn to the web for culinary inspiration. The latest insights from Google Trends show that while classic preparations remain popular, home cooks are looking for new flavors, modern ingredients and healthier twists to celebrate the season.",
-      "category": "Technology",
-      "image": "https://static.toiimg.com/thumb/msid-134340053,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/from-chocolate-to-paan-google-search-data-unveils-indias-top-trending-modak-variations/articleshow/134340037.cms",
-      "publishedAt": "2026-09-18T17:01:00.000Z",
-      "fetchedAt": "2026-09-18T17:36:23.655Z"
-    },
-    {
-      "id": "62d9f27216b98306",
-      "title": "Indian sports wrap, September 18: F4 Indian Championship returns to Coimbatore for Round 2",
-      "summary": "Here are India’s major updates, scores, and results from the world of sports on Friday, September 18.",
-      "category": "Sports",
-      "image": "https://ss-i.thgim.com/public/incoming/dxmzo1/article71481263.ece/alternates/LANDSCAPE_1200/F4%20Indian%20Championship%20Returns%20to%20Kari%20Motor%20Speedway%20for%20Round%202%20as%20Championship%20Battle%20Intensifies%20-%20Image%201.jpeg",
-      "source": "Sportstar",
-      "sourceUrl": "https://sportstar.thehindu.com/other-sports/indian-sports-wrap-september-18-friday-news-results-highlights-updates-summary/article71481249.ece",
-      "publishedAt": "2026-09-18T16:57:02.000Z",
-      "fetchedAt": "2026-09-18T18:35:29.600Z"
-    },
-    {
-      "id": "7c8c43210fe855c0",
-      "title": "16th Finance Commission's 73.1% debt path by FY31 daunting: N K Singh",
-      "summary": "N K Singh says unfavourable geopolitics and exogenous circumstances could make debt adjustment harder, while urging states to prepare consolidation roadmaps",
-      "category": "Business & Finance",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2019-05/09/thumb/fitandfill/1200X628/1557416903-7419.jpg",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/amp/economy/news/16th-finance-commission-s-73-1-debt-path-by-fy31-daunting-n-k-singh-126091801431_1.html",
-      "publishedAt": "2026-09-18T16:56:49.000Z",
-      "fetchedAt": "2026-09-18T21:54:15.999Z"
-    },
-    {
-      "id": "7c8c43210fe855c0",
-      "title": "16th Finance Commission's 73.1% debt path by FY31 daunting: N K Singh - business-standard.com",
-      "summary": "N K Singh says unfavourable geopolitics and exogenous circumstances could make debt adjustment harder, while urging states to prepare consolidation roadmaps",
-      "category": "Business & Finance",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2019-05/09/thumb/fitandfill/1200X628/1557416903-7419.jpg",
-      "source": "business-standard.com",
-      "sourceUrl": "https://www.business-standard.com/amp/economy/news/16th-finance-commission-s-73-1-debt-path-by-fy31-daunting-n-k-singh-126091801431_1.html",
-      "publishedAt": "2026-09-18T16:56:49.000Z",
-      "fetchedAt": "2026-09-18T20:22:14.991Z"
-    },
-    {
-      "id": "e931b6e8f06270af",
-      "title": "Seems like democracy has ended, India has become a police state: Gehlot",
-      "summary": "Jaipur, Sep 18 (PTI) Former Rajasthan chief minister Ashok Gehlot on Friday accused the BJP of misusing police and government agencies against opposition parties, citing the arrest of Congress candidate Milan Pradhan ahead of the Nandigram assembly bypoll in West Bengal and the alleged police action during the recent civic…",
-      "category": "Politics & Government",
-      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
-      "source": "ThePrint",
-      "sourceUrl": "https://theprint.in/india/seems-like-democracy-has-ended-india-has-become-a-police-state-gehlot/3046990/",
-      "publishedAt": "2026-09-18T16:50:18.000Z",
-      "fetchedAt": "2026-09-19T10:45:28.913Z"
-    },
-    {
-      "id": "5cfecccc0c1cd98b",
-      "title": "Mamata moves Supreme Court against EC order freezing TMC name, symbol | India News",
-      "summary": "The development comes after the Election Commission froze the original TMC name and its symbol amid a tussle between rival factions within the party. | India News",
-      "category": "National & Trending News",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/18/1600x900/logo/A_1789749731614_cbyf_1789749731797_LHwm_a7359661-d39d-42b1-b513-75bbe4dd8056_4UxL.jpg",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/india-news/mamata-move-supreme-court-against-ec-order-freezing-tmc-name-symbol-101789749683047.html",
-      "publishedAt": "2026-09-18T16:43:21.000Z",
-      "fetchedAt": "2026-09-18T20:59:28.786Z"
-    },
-    {
-      "id": "f0e64c8cf570ad06",
-      "title": "SEMICON India 2026 Day 2 Highlights India’s Semiconductor Journey from Ambition to Execution at Scale",
-      "summary": "The second day of SEMICON India 2026 at Yashobhoomi, New Delhi, brought together policymakers, globa",
-      "category": "Technology",
-      "image": "https://www.pib.gov.in/pib.gov.in/images/indian-emblem.png",
-      "source": "PIB",
-      "sourceUrl": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2312288&reg=48&lang=2",
-      "publishedAt": "2026-09-18T16:42:00.000Z",
-      "fetchedAt": "2026-09-19T02:15:27.276Z"
-    },
-    {
-      "id": "a21afe8805b3464a",
-      "title": "Asian Games 2026: Sports Ministry reaches out to Indian diaspora amid accommodation crisis in Nagoya",
-      "summary": "Sports Ministry reaches out to Indian diaspora to help deal with lodging crisis at Asiad",
-      "category": "Sports",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/18/1600x900/logo/asian_games_1789749451000_1789749465645_TDrl_1789749465877_lMYT_6a47602b-2568-4287-8cdb-f30094ba2efa_behE.jpg",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/news/india/asian-games-2026-sports-ministry-reaches-out-to-indian-diaspora-amid-accommodation-crisis-in-nagoya-11789744884314.html",
-      "publishedAt": "2026-09-18T16:40:17.000Z",
-      "fetchedAt": "2026-09-18T16:55:19.504Z"
     }
   ]
 }
