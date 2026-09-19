@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-19T09:51:49.080Z",
+  "updatedAt": "2026-09-19T10:04:35.802Z",
   "count": 250,
   "articles": [
+    {
+      "id": "457c9d215f296909",
+      "title": "AI Ending Humanity Is 'Nonsense', Tech Needs Regulation: Dr Vishal Sikka - India Today",
+      "summary": "In an exclusive interview with India Today, Dr. Vishal Sikka, leading artificial intelligence expert, former CEO of Infosys, and founder of Hang Ten Systems, addressed the global debate surrounding artificial intelligence, safety, and governance. Dismissing apocalyptic narratives, Dr. Sikka stated, \"This talk about AI ending humanity and all this, this…",
+      "category": "Technology",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/video/202609/talkaboutaiendinghumanityisnonsensedrsikka-s0-original-sixteen-to-nine.jpg?VersionId=bS_8SPiplqlTibblPr.KAToUFBOiDoqU",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/amp/technology/video/ai-ending-humanity-is-nonsense-tech-needs-regulation-dr-vishal-sikka-ytvd-2998256-2026-09-19",
+      "publishedAt": "2026-09-19T09:51:50.000Z",
+      "fetchedAt": "2026-09-19T10:04:28.799Z"
+    },
     {
       "id": "32aa30461e990350",
       "title": "Here comes Team India! 🇮🇳🇮🇳 Led by Pawan Sehrawat and Manu Bhaker, the Indian contingent marches out in the opening ceremony at Asian Games 2026! The Games officially begins. 🥳🎉",
@@ -45,6 +56,17 @@
       "sourceUrl": "https://www.indiatoday.in/amp/india/story/uttar-pradesh-jobs-yogi-adityanath-1-lakh-appointment-letters-six-months-utrith-2998249-2026-09-19",
       "publishedAt": "2026-09-19T09:36:23.000Z",
       "fetchedAt": "2026-09-19T09:40:26.958Z"
+    },
+    {
+      "id": "3af1102ee1d6d7ca",
+      "title": "Asian Games Kick Off: India's Medal Hopes And Flag Bearers",
+      "summary": "The 20th Asian Games have officially commenced in Nagoya with a high-tech opening ceremony. India",
+      "category": "Sports",
+      "image": "https://im.rediff.com/1200-630/sports/2025/sep/03manu2.jpg",
+      "source": "Rediff",
+      "sourceUrl": "https://www.rediff.com/sports/report/asian-games-kick-off-in-nagoya-after-chaotic-build-up/20260919.htm",
+      "publishedAt": "2026-09-19T09:26:30.000Z",
+      "fetchedAt": "2026-09-19T10:04:25.780Z"
     },
     {
       "id": "932f7cccfe7da188",
@@ -133,6 +155,17 @@
       "sourceUrl": "https://www.newindianexpress.com/sport/sports-news/2026/Sep/19/asian-games-2026-she-watched-ronaldinho-play-a-new-sport-on-insta-meet-quimcy-carrying-teqballs-flag-in-india",
       "publishedAt": "2026-09-19T08:43:44.000Z",
       "fetchedAt": "2026-09-19T09:10:38.952Z"
+    },
+    {
+      "id": "f1bbb7c4b0ca0193",
+      "title": "India’s Davis Cup campaign ends with 1-3 loss to South Korea",
+      "summary": "India missed a historic chance to become the first Asian nation to reach the Davis Cup Final 8 under the new format, losing 1-3 to South Korea in the Qualifier Round 2 tie in Seoul on Saturday.",
+      "category": "Sports",
+      "image": "https://static.toiimg.com/thumb/msid-134350743,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/indias-davis-cup-campaign-ends-with-1-3-loss-to-south-korea/articleshow/134348833.cms",
+      "publishedAt": "2026-09-19T08:43:00.000Z",
+      "fetchedAt": "2026-09-19T10:04:26.039Z"
     },
     {
       "id": "8deaee9aa7957614",
@@ -2718,39 +2751,6 @@
       "sourceUrl": "https://www.storyboard18.com/amp/brand-marketing/fssai-sues-nestle-india-over-substandard-infant-nutrition-products-ws-l-110948.htm",
       "publishedAt": "2026-09-18T13:23:12.000Z",
       "fetchedAt": "2026-09-18T23:01:18.829Z"
-    },
-    {
-      "id": "25db15fd4d810eb0",
-      "title": "“Our products are fully compliant with all applicable regulations”: Nestlé India as FSSAI initiates legal action",
-      "summary": "Nestlé India faces FSSAI scrutiny over infant nutrition product claims and compliance. Company asserts full adherence to regulations.",
-      "category": "Entertainment",
-      "image": "https://images.storyboard18.com/storyboard18/2026/04/nestle-2026-04-44778c2c9fccdf6c0263b8c52ea74353-1019x573.jpg",
-      "source": "Storyboard18",
-      "sourceUrl": "https://www.storyboard18.com/amp/brand-marketing/fssai-sues-nestle-india-over-substandard-infant-nutrition-products-ws-l-110948.htm",
-      "publishedAt": "2026-09-18T13:23:12.000Z",
-      "fetchedAt": "2026-09-18T14:45:42.659Z"
-    },
-    {
-      "id": "b775a18d1c544678",
-      "title": "Delhi court grants default bail to US national in Myanmar drone training camp case",
-      "summary": "A Delhi court on Friday granted default bail to US national Matthew Aaron Van Dyke, arrested in connection with a case registered by the National Investigation Agency (NIA) related to a drone warfare training camp linked to ethnic armed groups in Myanmar.",
-      "category": "National & Trending News",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWJlYzM3MjEwLWIzNjMtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
-      "source": "The Tribune",
-      "sourceUrl": "https://www.tribuneindia.com/news/india/delhi-court-grants-default-bail-to-us-national-in-myanmar-drone-training-camp-case/amp/?utm=relatedarticles",
-      "publishedAt": "2026-09-18T13:20:35.000Z",
-      "fetchedAt": "2026-09-18T13:44:46.967Z"
-    },
-    {
-      "id": "fb42d1d27b37ab39",
-      "title": "Japan’s reputation for precision meets its own Asian Games",
-      "summary": "Japan’s reputation for precision meets its own Asian Games. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
-      "category": "Sports",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "The Indian Express",
-      "sourceUrl": "https://indianexpress.com/article/sports/asian-games-2026-japan-reputation-aichi-nagoya-problems-controversies-10884026/",
-      "publishedAt": "2026-09-18T13:17:33.000Z",
-      "fetchedAt": "2026-09-18T15:46:15.020Z"
     }
   ]
 }
