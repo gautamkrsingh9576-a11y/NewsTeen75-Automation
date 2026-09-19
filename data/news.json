@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-19T22:43:09.677Z",
+  "updatedAt": "2026-09-19T22:54:35.273Z",
   "count": 250,
   "articles": [
+    {
+      "id": "7b40022c5f5b3e08",
+      "title": "Ex-chief of finance panel calls for more capex, state-wise debt sustainability",
+      "summary": "N K Singh, chairperson of the 15th Finance Commission, has proposed a state-wise debt sustainability, while noting that they may find it \"daunting\" to lower the general govt debt level from 84% to 73%, as was proposed by the 16th Finance Commission.",
+      "category": "Business & Finance",
+      "image": "https://static.toiimg.com/thumb/msid-134362286,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/ex-chief-of-finance-panel-calls-for-more-capex-state-wise-debt-sustainability/articleshow/134362282.cms",
+      "publishedAt": "2026-09-19T22:42:00.000Z",
+      "fetchedAt": "2026-09-19T22:54:32.156Z"
+    },
     {
       "id": "845bc33787e13172",
       "title": "The Asian Games 2026 are officially underway!! 🥳 India will look to make history on Day 1, with medal chances in Teqball and 3 other events. 🇮🇳 Schedule for September 20. 👇",
@@ -23,6 +34,17 @@
       "sourceUrl": "https://southasianherald.com/exclusive-microsoft-cto-says-india-has-potential-to-lead-agricultural-ai-applications/",
       "publishedAt": "2026-09-19T20:44:15.000Z",
       "fetchedAt": "2026-09-19T22:43:06.280Z"
+    },
+    {
+      "id": "95aecef5a6ecf73e",
+      "title": "Govt promotes sports as important part of nation | Akashvani News",
+      "summary": "Govt promotes sports as important part of nation | Akashvani News. This update was reported by News On AIR. Open the original report for full context and any developing updates.",
+      "category": "Sports",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "News On AIR",
+      "sourceUrl": "https://newsonair.gov.in/govt-promotes-sports-as-important-part-of-nation-building-under-viksit-bharat-2047-initiative-sports-minister-raksha-khadse/",
+      "publishedAt": "2026-09-19T20:41:24.000Z",
+      "fetchedAt": "2026-09-19T22:54:28.096Z"
     },
     {
       "id": "8cc4738edaa28c49",
@@ -2729,28 +2751,6 @@
       "sourceUrl": "https://newsonair.gov.in/first-khelo-india-tribal-games-to-begin-today-in-chhattisgarh/",
       "publishedAt": "2026-09-19T07:30:58.000Z",
       "fetchedAt": "2026-09-19T09:26:22.690Z"
-    },
-    {
-      "id": "43252ae35d43fa9d",
-      "title": "Integris Medtech names Dev Tripathy as group CFO",
-      "summary": "Integris Medtech names Dev Tripathy as group CFO. This update was reported by Medical Buyer. Open the original report for full context and any developing updates.",
-      "category": "Business & Finance",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EBusiness%20%26amp%3B%20Finance%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "Medical Buyer",
-      "sourceUrl": "https://medicalbuyer.co.in/integris-medtech-names-dev-tripathy-as-group-cfo/",
-      "publishedAt": "2026-09-19T07:30:00.000Z",
-      "fetchedAt": "2026-09-19T10:56:27.321Z"
-    },
-    {
-      "id": "dc0fd5a22e02a4f8",
-      "title": "BRICS Bharat Innovates Exposition showcases 37 Indian deep-tech startups in New Delhi",
-      "summary": "BRICS Bharat Innovates Exposition showcases 37 Indian deep-tech startups in New Delhi. This update was reported by DD News. Open the original report for full context and any developing updates.",
-      "category": "Technology",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "DD News",
-      "sourceUrl": "https://ddnews.gov.in/en/brics-bharat-innovates-exposition-showcases-37-indian-deep-tech-startups-in-new-delhi/",
-      "publishedAt": "2026-09-19T07:27:49.000Z",
-      "fetchedAt": "2026-09-19T11:50:39.273Z"
     }
   ]
 }
