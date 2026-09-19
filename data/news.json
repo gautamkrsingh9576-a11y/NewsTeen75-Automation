@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-19T07:44:56.137Z",
+  "updatedAt": "2026-09-19T07:55:54.372Z",
   "count": 250,
   "articles": [
+    {
+      "id": "28f7e90dee8204a8",
+      "title": "India Aims For Aquatic Excellence And Major Event Hosting",
+      "summary": "Sports Minister Mansukh Mandaviya met World Aquatics president Husain Al-Musallam to discuss strengthening cooperation, developing aquatic sports in India, and exploring India",
+      "category": "Sports",
+      "image": "https://im.rediff.com/1200-630/sports/2024/sep/08sports.jpg",
+      "source": "Rediff",
+      "sourceUrl": "https://www.rediff.com/sports/report/india-aims-for-aquatics-powerhouse-status-with-world-aquatics/20260919.htm",
+      "publishedAt": "2026-09-19T07:42:29.000Z",
+      "fetchedAt": "2026-09-19T07:55:44.352Z"
+    },
     {
       "id": "ef19394d6a0a4cb5",
       "title": "Santosh Davakhar reacts to ‘Gondhal’ being chosen as India’s official entry for Oscar 2027 entry: ‘We wer",
@@ -67,6 +78,17 @@
       "sourceUrl": "https://www.nationalheraldindia.com/entertainment/we-were-confident-santosh-davakhar-on-gondhal-being-indias-oscar-entry",
       "publishedAt": "2026-09-19T07:02:24.000Z",
       "fetchedAt": "2026-09-19T07:19:37.722Z"
+    },
+    {
+      "id": "949e66d47f757fd3",
+      "title": "S&P Global Energy to Host Clean Energy Expansion India 2026",
+      "summary": "S&P Global Energy to Host Clean Energy Expansion India 2026. This update was reported by Energetica India Magazine. Open the original report for full context and any developing updates.",
+      "category": "Technology",
+      "image": "https://www.energetica-india.net/images/noticias/v77bdBVWdQRhTD8I526h1z8IUNHBgUHPI7TZ6fY0hSXlh59kBpOChx.jpg",
+      "source": "Energetica India Magazine",
+      "sourceUrl": "https://www.energetica-india.net/news/sp-global-energy-to-host-clean-energy-expansion-india-2026",
+      "publishedAt": "2026-09-19T06:48:52.000Z",
+      "fetchedAt": "2026-09-19T07:55:49.143Z"
     },
     {
       "id": "6ac3b92025e2e29c",
@@ -157,6 +179,17 @@
       "fetchedAt": "2026-09-19T06:35:33.694Z"
     },
     {
+      "id": "fc489cbe0a0c9257",
+      "title": "Govt moving towards deals with Israel, India on surveillance: Patwari",
+      "summary": "Referring to the Digital Security Act enacted by the previous government, he says the law had been used to justify checking the Facebook and WhatsApp messages of political figures and other people.",
+      "category": "Politics & Government",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/01/31/nasiruddin_patwary.png",
+      "source": "The Business Standard",
+      "sourceUrl": "https://www.tbsnews.net/bangladesh/politics/govt-moving-towards-deals-israel-india-surveillance-patwari-1545921",
+      "publishedAt": "2026-09-19T06:11:31.000Z",
+      "fetchedAt": "2026-09-19T07:55:41.635Z"
+    },
+    {
       "id": "f14d05450995c619",
       "title": "Following Toronto premiere, Karthik Subbaraj’s ‘Dorothy’ gets India release date",
       "summary": "The film stars Rishikanth, Sananth and Keerthy Suresh in key roles, with music composed by Ilaiyaraaja",
@@ -166,6 +199,17 @@
       "sourceUrl": "https://www.telegraphindia.com/entertainment/following-toronto-premiere-karthik-subbarajs-dorothy-gets-india-release-date/cid/2180659",
       "publishedAt": "2026-09-19T06:08:01.000Z",
       "fetchedAt": "2026-09-19T06:51:01.674Z"
+    },
+    {
+      "id": "a5dbf155278d0e0d",
+      "title": "India's Semiconductor Opportunity Report Unveiled at SEMICON India 2026",
+      "summary": "The report comes approximately one year after IDTA was launched at SEMICON India 2025 as an industry-led initiative to mobilise long-term private capital, technical expertise and ecosystem support for Indian deep-tech companies. Manufacturing | InFocus",
+      "category": "Technology",
+      "image": "https://img-cdn.publive.online/fit-in/1200x675/smstreet/media/media_files/6HD8zi7jZrG2qfMBGTe6.jpg",
+      "source": "SMEStreet",
+      "sourceUrl": "https://smestreet.in/infocus/indias-semiconductor-opportunity-report-unveiled-at-semicon-india-2026-12551327",
+      "publishedAt": "2026-09-19T06:05:37.000Z",
+      "fetchedAt": "2026-09-19T07:55:49.353Z"
     },
     {
       "id": "9718a49a67ac01a6",
@@ -2707,50 +2751,6 @@
       "sourceUrl": "https://www.pinkvilla.com/entertainment/box-office/avengers-endgame-encore-box-office-earths-mightiest-heroes-surpass-rs-5-cr-advance-in-india-selling-100k-tickets-1405487",
       "publishedAt": "2026-09-18T11:57:17.000Z",
       "fetchedAt": "2026-09-18T13:28:29.113Z"
-    },
-    {
-      "id": "49b5f550e7ba027e",
-      "title": "Olympic Medallist Manu Bhaker, Asian Games Champion Tajinderpal Toor To Lead India At Opening Ceremony",
-      "summary": "Double Olympic medallist Manu Bhaker and defending shot put champion Tajinderpal Singh Toor have been named India",
-      "category": "Sports",
-      "image": "https://im.rediff.com/1200-630/sports/2025/sep/03manu2.jpg",
-      "source": "Rediff",
-      "sourceUrl": "https://www.rediff.com/sports/report/bhaker-and-toor-named-indias-flag-bearers-for-asian-games/20260918.htm",
-      "publishedAt": "2026-09-18T11:55:31.000Z",
-      "fetchedAt": "2026-09-18T12:56:00.655Z"
-    },
-    {
-      "id": "b4ece94405a865c5",
-      "title": "Taboola to acquire Dianomi, bolstering its finance-focused premium ad network",
-      "summary": "Taboola Acquisition: Taboola announces its acquisition of Dianomi, aiming to strengthen its premium ad network targeted at finance and business sectors. This merger will leverage Taboola",
-      "category": "Business & Finance",
-      "image": "https://etimg.etb2bimg.com/thumb/msid-134334186,imgsize-15568,width-1200,height=627,overlay-etbrandequity,resizemode-75/digital/taboola-to-acquire-dianomi-bolstering-its-finance-focused-premium-ad-network.jpg",
-      "source": "brandequity.economictimes.indiatimes.com",
-      "sourceUrl": "https://brandequity.economictimes.indiatimes.com/amp/news/digital/taboola-to-acquire-dianomi-bolstering-its-finance-focused-premium-ad-network/134334186",
-      "publishedAt": "2026-09-18T11:54:41.000Z",
-      "fetchedAt": "2026-09-18T13:55:56.613Z"
-    },
-    {
-      "id": "2035297a1d17c591",
-      "title": "Shift to computer-based NEET-UG 2027 still under ‘active consideration’, Govt. tells SC",
-      "summary": "Government considers switching NEET-UG 2027 to computer-based format, as Supreme Court pushes for timely reforms and implementation.",
-      "category": "National & Trending News",
-      "image": "https://th-i.thgim.com/public/incoming/nhgs77/article71480583.ece/alternates/LANDSCAPE_1200/Centre-in-SC-reG5RGHT76V.4.jpg.jpg",
-      "source": "The Hindu",
-      "sourceUrl": "https://www.thehindu.com/news/national/shift-to-computer-based-neet-ug-2027-still-under-active-consideration-govt-tells-sc/article71480425.ece",
-      "publishedAt": "2026-09-18T11:54:09.000Z",
-      "fetchedAt": "2026-09-18T19:17:04.297Z"
-    },
-    {
-      "id": "d1b09ac3446cf323",
-      "title": "BJP chief Nitin Nabin donates 3 months' MP salary to Bihar CM relief fund | India News",
-      "summary": "Nabin stated that all possible assistance is being provided to the affected families through financial aid, relief camps, and assessment of crop damage. | India News",
-      "category": "National & Trending News",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/18/1600x900/logo/Nitin_Nabin_1789732161684_XV3p_1789732161852_M82g_cfae25e3-f60b-4774-bfe2-03f1d6604533_mJQU.jpg",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/india-news/bjp-chief-nitin-nabin-donates-3-months-mp-salary-to-bihar-cm-relief-fund-101789731692250.html",
-      "publishedAt": "2026-09-18T11:50:26.000Z",
-      "fetchedAt": "2026-09-18T18:59:21.585Z"
     }
   ]
 }
