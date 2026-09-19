@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-09-19T13:25:40.115Z",
+  "updatedAt": "2026-09-19T13:39:08.371Z",
   "count": 250,
   "articles": [
+    {
+      "id": "3424902d9a37e654",
+      "title": "India to wear BCCI jersey against Japan in friendly as Asian Games kit issue resolved",
+      "summary": "India to wear BCCI jersey against Japan in friendly as Asian Games kit issue resolved. This update was reported by The Statesman. Open the original report for full context and any developing updates.",
+      "category": "Sports",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "The Statesman",
+      "sourceUrl": "https://www.thestatesman.com/sports/india-to-wear-bcci-jersey-against-japan-in-friendly-as-asian-games-kit-issue-resolved-1503640507.html",
+      "publishedAt": "2026-09-19T13:14:00.000Z",
+      "fetchedAt": "2026-09-19T13:39:00.703Z"
+    },
+    {
+      "id": "b1ebc471ca3a13d8",
+      "title": "Japan’s semiconductor push in India: Why Japanese companies are betting on materials, equipment and technology",
+      "summary": "From Fujifilm and Sumitomo Chemical to Tokyo Electron and Hirata, Japanese companies are expanding across the semiconductor supply chain as India moves from announcing fabs to building a broader chip ecosystem.",
+      "category": "Technology",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6aae88127aec4-during-semicon-india-2026--several-japanese-companies-announced-plans-for-the-indian-market--spannin-190313306-16x9.jpg",
+      "source": "Business Today",
+      "sourceUrl": "https://www.businesstoday.in/technology/news/story/japans-semiconductor-push-in-india-why-japanese-companies-are-betting-on-materials-equipment-and-technology-556636-2026-09-19",
+      "publishedAt": "2026-09-19T13:04:05.000Z",
+      "fetchedAt": "2026-09-19T13:39:03.055Z"
+    },
     {
       "id": "72087a5101dda174",
       "title": "India's deep-tech alliance commits $3B, with $250M deployed in year one",
@@ -619,6 +641,17 @@
       "fetchedAt": "2026-09-19T09:40:26.958Z"
     },
     {
+      "id": "2f37ba8281d1e082",
+      "title": "PM Modi Distributes Over 51,000 Government Appointment Letters At 20th Rozgar Mela Across 45 Locations",
+      "summary": "PM Modi Distributes Over 51,000 Government Appointment Letters At 20th Rozgar Mela Across 45 Locations. This update was reported by Swarajyamag. Open the original report for full context and any developing updates.",
+      "category": "Politics & Government",
+      "image": "https://swarajya.gumlet.io/swarajya%2F2026-09-19%2F383r6ubu%2FPM-Modi-distributed-more-than-51000-appointment-letters-to-the-newly-appointed-youth-in-Government.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "Swarajyamag",
+      "sourceUrl": "https://swarajyamag.com/amp/story/politics%2Fpm-modi-distributes-over-51000-government-appointment-letters-at-20th-rozgar-mela-across-45-locations",
+      "publishedAt": "2026-09-19T09:35:06.000Z",
+      "fetchedAt": "2026-09-19T13:38:58.650Z"
+    },
+    {
       "id": "252202df89fc298f",
       "title": "ASI shot dead at Amritsar grain market; man gunned down in Islamabad",
       "summary": "Two unidentified men fatally shot an assistant sub-inspector of Punjab Police in Amritsar. ASI Harjit Singh was shot near the neck by a single bullet fired from a pistol. This incident occurred around 12:30 am on Friday while the ASI was on duty. Hours earlier, another man was gunned down…",
@@ -1167,6 +1200,17 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/city/bhubaneswar/wildlife-transit-hub/articleshow/134349597.cms",
       "publishedAt": "2026-09-19T07:11:00.000Z",
       "fetchedAt": "2026-09-19T11:12:35.572Z"
+    },
+    {
+      "id": "c18adbfa4561f027",
+      "title": "Why Ajit Doval Visited Dhaka On Thursday",
+      "summary": "Why Ajit Doval Visited Dhaka On Thursday. This update was reported by Rediff. Open the original report for full context and any developing updates.",
+      "category": "National & Trending News",
+      "image": "https://im.rediff.com/1200-630/news/2026/sep/13dinesh-trivedi-meets-bangladesh-pm.jpg",
+      "source": "Rediff",
+      "sourceUrl": "https://www.rediff.com/news/column/why-ajit-doval-visited-dhaka-on-thursday/20260919.htm",
+      "publishedAt": "2026-09-19T07:09:50.000Z",
+      "fetchedAt": "2026-09-19T13:39:08.371Z"
     },
     {
       "id": "7c432d591e74751b",
@@ -2707,50 +2751,6 @@
       "sourceUrl": "https://nationaljeweler.com/articles/15329-tariffs-retail-crime-top-of-mind-at-ja-s-annual-fly-in",
       "publishedAt": "2026-09-18T19:00:50.000Z",
       "fetchedAt": "2026-09-19T12:54:47.476Z"
-    },
-    {
-      "id": "afed73549c022075",
-      "title": "Uday Kotak calls for fiscal discipline, reforms to make India a developed nation by 2047",
-      "summary": "Uday Kotak calls for fiscal discipline, reforms to make India developed nation by 2047",
-      "category": "Business & Finance",
-      "image": "https://media.fortuneindia.com/fortune-india/2025-06-18/nm6xth12/Uday_Kotak_01458_copy.jpg?w=1200&ar=40:21&auto=format,compress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "source": "Fortune India",
-      "sourceUrl": "https://www.fortuneindia.com/amp/story/business-news/uday-kotak-calls-for-fiscal-discipline-reforms-to-make-india-developed-nation-by-2047/160099",
-      "publishedAt": "2026-09-18T19:00:25.000Z",
-      "fetchedAt": "2026-09-18T20:59:27.668Z"
-    },
-    {
-      "id": "4478e4658dde7612",
-      "title": "Karan Johar meets Prince William in London, discuss water crisis in India ahead of Earthshot Prize 2026 | Watch",
-      "summary": "Earthshot Prize Awards 2026 will be hosted by Karan Johar in Mumbai. It is set to take place on November 17 and Prince William alongside global leaders, innovators and funders are expected to attend.",
-      "category": "Entertainment",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/18/1600x900/logo/21540_1789757766920_I1sx_1789757771739_H0Br_5c33d1b0-e1af-4883-9f6e-58a473208707_zBaH.jpg",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/entertainment/karan-johar-meets-prince-william-in-london-discuss-water-crisis-in-india-ahead-of-earthshot-prize-2026-watch-11789755654513.html",
-      "publishedAt": "2026-09-18T18:56:29.000Z",
-      "fetchedAt": "2026-09-18T19:16:58.490Z"
-    },
-    {
-      "id": "5b5c85d2efb7b358",
-      "title": "Found with phone in exam hall, IIT Bombay student ends life, protests rock campus",
-      "summary": "Found with phone in exam hall, IIT Bombay student ends life, protests rock campus. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
-      "category": "Crime & Breaking News",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ECrime%20%26amp%3B%20Breaking%20News%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "The Indian Express",
-      "sourceUrl": "https://indianexpress.com/article/cities/mumbai/iit-b-student-dies-suicide-found-with-phone-exam-hall-students-protest-10884301/",
-      "publishedAt": "2026-09-18T18:51:33.000Z",
-      "fetchedAt": "2026-09-19T04:39:17.135Z"
-    },
-    {
-      "id": "65acf0bd259aea8a",
-      "title": "Preparations underway for return of F1 to India: Sports Minister Mandaviya",
-      "summary": "Preparations underway for return of F1 to India: Sports Minister Mandaviya. This update was reported by DD News. Open the original report for full context and any developing updates.",
-      "category": "Sports",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "DD News",
-      "sourceUrl": "https://ddnews.gov.in/en/preparations-underway-for-return-of-f1-to-india-sports-minister-mandaviya/",
-      "publishedAt": "2026-09-18T18:46:51.000Z",
-      "fetchedAt": "2026-09-18T23:42:53.793Z"
     }
   ]
 }
