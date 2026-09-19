@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-09-19T11:12:43.875Z",
+  "updatedAt": "2026-09-19T11:26:36.054Z",
   "count": 250,
   "articles": [
+    {
+      "id": "61b4d02ffe2b3f48",
+      "title": "Finance Minister Wagle calls on Indian businessmen to expand investment in Nepal",
+      "summary": "Finance Minister Wagle calls on Indian businessmen to expand investment in Nepal. This update was reported by Nepalnews.com. Open the original report for full context and any developing updates.",
+      "category": "Business & Finance",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EBusiness%20%26amp%3B%20Finance%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "Nepalnews.com",
+      "sourceUrl": "https://english.nepalnews.com/s/business/finance-minister-wagle-calls-on-indian-businessmen-to-expand-investment-in-nepal/",
+      "publishedAt": "2026-09-19T11:19:22.000Z",
+      "fetchedAt": "2026-09-19T11:26:34.398Z"
+    },
+    {
+      "id": "8855922a2f8cad62",
+      "title": "Pollution Ka Solution: Delhi government to deploy ultra-modern tech, purifying devices to help clean toxic air - India Today",
+      "summary": "The India Today Pollution Ka Solution special report examines four technological innovations aimed at tackling severe air pollution in Delhi's hotspots.",
+      "category": "Technology",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/video/202609/pollution-ka-solution-19000496-16x9_0.jpeg?VersionId=zThCWTZ8xsDSUosahR8SSQpQSHYOIXaU",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/amp/cities/delhi/video/pollution-ka-solution-delhi-government-deploy-ultra-modern-technology-purifying-devices-clean-toxic-air-crisis-2998274-2026-09-19",
+      "publishedAt": "2026-09-19T11:06:00.000Z",
+      "fetchedAt": "2026-09-19T11:26:33.721Z"
+    },
     {
       "id": "f6ed5b4b64d0e817",
       "title": "Microsoft CEO Satya Nadella hails Seattle’s tech growth, deepening India ties at 'IDEAS4INDIA' forum",
@@ -23,6 +45,17 @@
       "sourceUrl": "https://money.rediff.com/news/market/india-s-semiconductor-edge-demand-labour-tech-access/54620420260919",
       "publishedAt": "2026-09-19T10:58:11.000Z",
       "fetchedAt": "2026-09-19T11:12:40.111Z"
+    },
+    {
+      "id": "eae9d10914f318ef",
+      "title": "Union Minister Suresh Gopi says too early to criticise UDF govt over Keralam power crisis",
+      "summary": "Kerala power crisis: Union Minister Suresh Gopi defends the state government, dismisses allegations of any political deal with the Congress, and addresses recent investigative raids on a local Malayalam media channel office in Kochi.",
+      "category": "Politics & Government",
+      "image": "https://media.assettype.com/deccanherald%2F2026-09-19%2Fi8woctzi%2FImages-61.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
+      "source": "Deccan Herald",
+      "sourceUrl": "https://www.deccanherald.com/india/keralam/union-minister-suresh-gopi-says-too-early-to-criticise-udf-govt-over-keralam-power-crisis-4151969",
+      "publishedAt": "2026-09-19T10:57:35.000Z",
+      "fetchedAt": "2026-09-19T11:26:27.943Z"
     },
     {
       "id": "29f4e65e2ee3c1fc",
@@ -56,6 +89,17 @@
       "sourceUrl": "https://www.india.com/news/india/gujarat-shocker-man-kills-5-year-old-daughter-stores-body-in-refrigerator-dies-by-suicide-3-notes-recovered-crime-news-amreli-killing-ipc-bns-murder-8527584/",
       "publishedAt": "2026-09-19T10:30:11.000Z",
       "fetchedAt": "2026-09-19T10:45:29.552Z"
+    },
+    {
+      "id": "11f5f4e1117b8c10",
+      "title": "India’s Semiconductor Ecosystem Gains Global Interest",
+      "summary": "India’s Semiconductor Ecosystem Draws Strong Global Participation And Investment Interest Day 2 of SEMICON India 2026 recorded 25 key announcements and collaborations across India’s semiconductor value chain. The developments covered manufacturing, materials, logistics, chip design, advanced packagi",
+      "category": "Technology",
+      "image": "https://stratnewsglobal.com/wp-content/uploads/2026/09/sngtech-web-thumb-adi-2026-09-19T155905.759.png",
+      "source": "StratNews Global",
+      "sourceUrl": "https://stratnewsglobal.com/technology/india-semiconductor-ecosystem/",
+      "publishedAt": "2026-09-19T10:29:55.000Z",
+      "fetchedAt": "2026-09-19T11:26:33.433Z"
     },
     {
       "id": "a094b4fae94a1390",
@@ -100,6 +144,17 @@
       "sourceUrl": "https://www.etvbharat.com/en/sports/india-full-schedule-at-asian-games-2026-enn26091903380",
       "publishedAt": "2026-09-19T09:56:17.000Z",
       "fetchedAt": "2026-09-19T10:56:21.627Z"
+    },
+    {
+      "id": "bffaa5f7139e5f95",
+      "title": "Classplus Appoints Ankit Maheshwari as Chief Financial Officer",
+      "summary": "Classplus Appoints Ankit Maheshwari as Chief Financial Officer. This update was reported by hrtoday.in. Open the original report for full context and any developing updates.",
+      "category": "Business & Finance",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EBusiness%20%26amp%3B%20Finance%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "hrtoday.in",
+      "sourceUrl": "https://hrtoday.in/classplus-appoints-ankit-maheshwari-as-chief-financial-officer/",
+      "publishedAt": "2026-09-19T09:55:10.000Z",
+      "fetchedAt": "2026-09-19T11:26:34.629Z"
     },
     {
       "id": "457c9d215f296909",
@@ -256,6 +311,17 @@
       "fetchedAt": "2026-09-19T09:40:30.822Z"
     },
     {
+      "id": "23d3846048a7ebad",
+      "title": "Beej - Official Trailer​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "summary": "Watch the Official trailer​ from punjabi​​​​ movie 'Beej' starring Gurjot Mann, Rajdeep Singh, Balwinder Dhaliwal and Gill Malkit. 'Beej' movie is directed by Manshendra Singh. To know more about 'Beej' trailer​ watch the video. Check out the latest punjabi​​​​ trailer​s, new movie trailer​s, trending punjabi​​​​ movie trailer​, and more at…",
+      "category": "Entertainment",
+      "image": "https://static.toiimg.com/thumb/msid-134351159,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/videos/entertainment/regional/punjabi/beej-official-trailer/videoshow/134351159.cms",
+      "publishedAt": "2026-09-19T09:09:26.000Z",
+      "fetchedAt": "2026-09-19T11:26:32.149Z"
+    },
+    {
       "id": "4d766588c7f5ef29",
       "title": "Asian Games: Mandaviya meets OCA Director General, discusses strengthening sporting cooperation",
       "summary": "Asian Games: Mandaviya meets OCA Director General, discusses strengthening sporting cooperation. This update was reported by DD News. Open the original report for full context and any developing updates.",
@@ -388,6 +454,17 @@
       "fetchedAt": "2026-09-19T10:20:38.154Z"
     },
     {
+      "id": "431a6b7802f64724",
+      "title": "Delhi cops to seek adult trial for 3 juveniles in teen's gang-rape, murder; chargesheet in a week | India News",
+      "summary": "Delhi cops to seek adult trial for 3 juveniles in teen's gang-rape, murder; chargesheet in a week | India News. This update was reported by Hindustan Times. Open the original report for full context and any developing updates.",
+      "category": "Crime & Breaking News",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/19/1600x900/logo/The-four-allegedly-gang-raped-the-girl-in-the-earl_1789806297945_5ePT.jpg",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/delhi-gang-rape-chargesheet-in-a-week-3-juveniles-to-face-adult-trial-say-cops-101789806305209.html",
+      "publishedAt": "2026-09-19T08:25:04.000Z",
+      "fetchedAt": "2026-09-19T11:26:29.936Z"
+    },
+    {
       "id": "58578b66d392e287",
       "title": "One-third of largecaps trading near 52-wk lows",
       "summary": "Digital newsstand featuring 7000+ of the world’s most popular newspapers & magazines. Enjoy unlimited reading on up to 5 devices with 7-day free trial.",
@@ -485,6 +562,17 @@
       "sourceUrl": "https://www.thestatesman.com/business/indias-chip-push-gathers-pace-25-semicon-deals-target-gases-chemicals-packaging-and-power-electronics-1503640422.html",
       "publishedAt": "2026-09-19T07:51:00.000Z",
       "fetchedAt": "2026-09-19T10:34:11.357Z"
+    },
+    {
+      "id": "4b0566ac09b8e380",
+      "title": "India men's cricket team dealing with clothing issue ahead of departure for Asian Games",
+      "summary": "India men's cricket team dealing with clothing issue ahead of departure for Asian Games. This update was reported by Udayavani. Open the original report for full context and any developing updates.",
+      "category": "Sports",
+      "image": "https://d3jde0c4xcko0v.cloudfront.net/production/19-09-26/news/60g4r8mu8019l2FotoJet%20-%202026-09-19T115053.220.webp",
+      "source": "Udayavani",
+      "sourceUrl": "https://udayavani.com/sports/india-mens-cricket-team-dealing-with-clothing-issue-ahead-of-departure-for-asian-games-857351?lang=en",
+      "publishedAt": "2026-09-19T07:47:36.000Z",
+      "fetchedAt": "2026-09-19T11:26:31.299Z"
     },
     {
       "id": "28f7e90dee8204a8",
@@ -2663,94 +2751,6 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/karan-johar-meets-prince-william-in-london-ahead-of-earthshot-prize-2026-in-mumbai-duo-discuss-indias-rain-crisis-farmers-under-stress-environmental-solutions-15-finalists-and-1-million-prize-for-each-winner/articleshow/134338616.cms",
       "publishedAt": "2026-09-18T15:34:00.000Z",
       "fetchedAt": "2026-09-18T15:46:15.919Z"
-    },
-    {
-      "id": "e4217aae0a604631",
-      "title": "Mandaadi Box Office Collection Day 9: Soori-Suhas Starrer Inches Closer To Rs 60 Crore In India",
-      "summary": "Mandaadi, starring Soori and Suhas in key roles, continues its second-week run, reaching over Rs 59 crore in India net collections.",
-      "category": "Entertainment",
-      "image": "https://imgs.etvbharat.com/etvbharat/prod-images/18-09-2026/1200-675-27664300-1105-27664300-1789745236924.jpg",
-      "source": "ETV Bharat",
-      "sourceUrl": "https://www.etvbharat.com/en/entertainment/soori-suhas-film-mandaadi-box-office-collection-day-9-in-india-and-worldwide-enn26091806525",
-      "publishedAt": "2026-09-18T15:28:31.000Z",
-      "fetchedAt": "2026-09-18T15:57:35.189Z"
-    },
-    {
-      "id": "f216c50e84ea1812",
-      "title": "Sports ministry reaches out to Indian diaspora in Japan amid Asian Games lodging crisis",
-      "summary": "With the accommodation crisis at the Asian Games showing little sign of easing, the sports ministry has reached out to the Indian diaspora in Nagoya for help in housing athletes if the shortage of rooms persists during the continental showpiece.",
-      "category": "Sports",
-      "image": "https://static.toiimg.com/thumb/msid-134338748,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/sports-ministry-reaches-out-to-indian-diaspora-in-japan-amid-asian-games-lodging-crisis/articleshow/134338677.cms",
-      "publishedAt": "2026-09-18T15:27:00.000Z",
-      "fetchedAt": "2026-09-18T17:24:30.697Z"
-    },
-    {
-      "id": "845f7ad5c0a806c6",
-      "title": "Indian-born cheetah KGP12 gives birth to four cubs at Kuno National Park | HT India | Videos",
-      "summary": "Indian-born female cheetah KGP12 has given birth to four cubs at Kuno National Park in Madhya Pradesh. The development marks a major milestone for Project Cheetah and comes a day after the program completed four years, highlighting the continued success of India's cheetah conservation efforts. The Indian Express | Videos",
-      "category": "National & Trending News",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/18/1600x900/logo/maxresdefault_1789744829252_jlyR_1789744836616_sgki_b085894f-0b4e-4118-958a-00976756d3c7_l4Bg.jpg",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/videos/indianborn-cheetah-kgp12-gives-birth-to-four-cubs-at-kuno-national-park-ht-india-101789744838182.html",
-      "publishedAt": "2026-09-18T15:20:37.000Z",
-      "fetchedAt": "2026-09-18T15:31:31.010Z"
-    },
-    {
-      "id": "9e8815f10cd710fb",
-      "title": "‘Dhurandhar got 4 votes from 14-member jury’: Vivek Vaswani on why Ranveer Singh’s film wasn’t India’s Oscar entry | Bollywood",
-      "summary": "Marathi film Gondhal has been chosen as India's entry for the 99th Academy Awards, defeating Ranveer Singh's box-office hit Dhurandhar.",
-      "category": "Entertainment",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/18/1600x900/logo/Dhurandhar_2_1783583151657_1783583151809_387caa81-29a9-48a1-ba37-fe3275945ba9_1789744419989_3HZc_d62193d3-a3e6-4d49-bb31-fcebceb4dd94_n6IM.jpeg",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/entertainment/bollywood/dhurandhar-got-4-votes-from-14-member-jury-vivek-vaswani-on-why-ranveer-singh-s-film-wasn-t-india-s-oscar-entry-101789743402312-amp.html",
-      "publishedAt": "2026-09-18T15:17:49.000Z",
-      "fetchedAt": "2026-09-18T15:31:22.743Z"
-    },
-    {
-      "id": "a15942e542a05709",
-      "title": "Adidas reduces roles in India Technology organisation amid restructuring",
-      "summary": "Adidas says fewer than 20% of its India Technology workforce is affected, after reports initially suggested nearly half of the Gurugram tech hub could face cuts.",
-      "category": "Technology",
-      "image": "https://thebridge.in/h-upload/2026/09/18/66921-cwg-d10-12.jpg",
-      "source": "Indian Sports Home",
-      "sourceUrl": "https://thebridge.in/sports-market/adidas-reduces-roles-in-india-technology-organisation-amid-restructuring-57654",
-      "publishedAt": "2026-09-18T15:16:39.000Z",
-      "fetchedAt": "2026-09-18T15:31:24.868Z"
-    },
-    {
-      "id": "0f5515178be4b510",
-      "title": "Rajnath urges scientists, engineers to build tech that doesn’t exist today",
-      "summary": "Defence News: BENGALURU: Terming R&D as a crucial priority area, defence minister Rajnath Singh Friday urged young scientists, engineers, designers, test pilots.",
-      "category": "Technology",
-      "image": "https://static.toiimg.com/thumb/msid-134338541,width-1280,height-720,imgsize-32784,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/defence/rajnath-urges-scientists-engineers-to-build-tech-that-doesnt-exist-today/articleshow/134338480.cms",
-      "publishedAt": "2026-09-18T15:11:00.000Z",
-      "fetchedAt": "2026-09-18T15:46:17.233Z"
-    },
-    {
-      "id": "54d5cf035da976f3",
-      "title": "India establishes three-layer system in Nagoya as diaspora offers athlete accommodation",
-      "summary": "India establishes three-layer system in Nagoya as diaspora offers athlete accommodation. This update was reported by The News Mill. Open the original report for full context and any developing updates.",
-      "category": "Sports",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "The News Mill",
-      "sourceUrl": "https://thenewsmill.com/2026/09/india-establishes-three-layer-system-in-nagoya-as-diaspora-offers-athlete-accommodation/",
-      "publishedAt": "2026-09-18T15:04:15.000Z",
-      "fetchedAt": "2026-09-18T15:31:20.702Z"
-    },
-    {
-      "id": "0f1204e03a4e645e",
-      "title": "Indian Right Has Not Built The Power That Will Outlast The Government",
-      "summary": "Somewhere in a Delhi drawing room this evening, a professionally successful Indian in his forties will explain with real conviction why Narendra Modi",
-      "category": "Politics & Government",
-      "image": "https://swarajya.gumlet.io/swarajya/2026-09-18/iw7dd5so/download.jpg?w=600&h=315&format=jpg",
-      "source": "swarajyamag.com",
-      "sourceUrl": "https://swarajyamag.com/politics/why-indias-right-should-studythe-medicis-method-not-their-canon",
-      "publishedAt": "2026-09-18T15:03:50.000Z",
-      "fetchedAt": "2026-09-19T10:20:34.901Z"
     }
   ]
 }
