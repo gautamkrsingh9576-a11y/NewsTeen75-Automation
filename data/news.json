@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-19T10:04:35.802Z",
+  "updatedAt": "2026-09-19T10:20:45.850Z",
   "count": 250,
   "articles": [
+    {
+      "id": "b47deff0254a93eb",
+      "title": "Apple’s expanded iCloud+ bundle goes live in India, subscribers receive notifications",
+      "summary": "Apple’s expanded iCloud+ subscription is now live in India, with customers beginning to receive notifications about the addition of Apple TV and Apple Arcade at no extra cost. The change brings cloud storage, video streaming and gaming into a single subscription.",
+      "category": "Technology",
+      "image": "https://static.toiimg.com/thumb/msid-134351893,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/apples-expanded-icloud-bundle-goes-live-in-india-subscribers-receive-notifications/articleshow/134351884.cms",
+      "publishedAt": "2026-09-19T10:06:00.000Z",
+      "fetchedAt": "2026-09-19T10:20:40.076Z"
+    },
     {
       "id": "457c9d215f296909",
       "title": "AI Ending Humanity Is 'Nonsense', Tech Needs Regulation: Dr Vishal Sikka - India Today",
@@ -146,6 +157,17 @@
       "fetchedAt": "2026-09-19T09:26:25.538Z"
     },
     {
+      "id": "e2c5f8d8ae4c5c11",
+      "title": "‘Either a flagbearer or I watch it on television’: Manu Bhaker remembers Jaspal Rana ahead of Asian Games",
+      "summary": "For Manu Bhaker, leading the Indian contingent at the Asian Games opening ceremony is more than an honour. It is also a reminder of the coach who once set strict conditions for when she could attend such occasions.",
+      "category": "Sports",
+      "image": "https://static.toiimg.com/thumb/msid-134350872,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/either-a-flagbearer-or-i-watch-it-on-television-manu-bhaker-remembers-jaspal-rana-ahead-of-asian-games-opening-ceremony/articleshow/134350834.cms",
+      "publishedAt": "2026-09-19T08:48:00.000Z",
+      "fetchedAt": "2026-09-19T10:20:38.531Z"
+    },
+    {
       "id": "6597186aa4430579",
       "title": "Asian Games 2026: She watched Ronaldinho play a new sport on Insta. Meet Quimcy, carrying teqball's flag in India",
       "summary": "NAGOYA: From football, to distance running to teqball, Quimcy Dsouza of Bengaluru has finally found her path. At the sport's debut in the Asian Games, the India",
@@ -177,6 +199,17 @@
       "sourceUrl": "https://ua.news/en/sport/nduka-pereishov-do-sporting-club-delhi-v-indiyi-premium-times-nigeria",
       "publishedAt": "2026-09-19T08:31:48.000Z",
       "fetchedAt": "2026-09-19T08:44:04.243Z"
+    },
+    {
+      "id": "946d23cf3541e549",
+      "title": "Indian teams in action at FIDE Chess Olympiad; Quimcy Dsouza goes down in Asian Games Teqball semifinal: Indian Sports LIVE, September 19",
+      "summary": "Indian teams in action at FIDE Chess Olympiad; Quimcy Dsouza goes down in Asian Games Teqball semifinal: Indian Sports LIVE, September 19. This update was reported by ESPN India. Open the original report for full context and any developing updates.",
+      "category": "Sports",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "ESPN India",
+      "sourceUrl": "https://www.espn.in/espn/story/_/id/49974109/indian-teams-action-fide-chess-olympiad-quimcy-dsouza-asian-games-teqball-semifinal-indian-sports-live-september-19",
+      "publishedAt": "2026-09-19T08:30:47.000Z",
+      "fetchedAt": "2026-09-19T10:20:38.154Z"
     },
     {
       "id": "58578b66d392e287",
@@ -617,6 +650,17 @@
       "sourceUrl": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/us-bought-nearly-120-billion-of-india-s-software-services-in-fy26-share-rose-to-54-1-14033353.html",
       "publishedAt": "2026-09-19T05:46:42.000Z",
       "fetchedAt": "2026-09-19T07:19:39.283Z"
+    },
+    {
+      "id": "df0eee151ee2dd8d",
+      "title": "‘Moment of pride for Marathi cinema’: Devendra Fadnavis celebrates Santosh Davakhar’s ‘Gondhal’ as India’",
+      "summary": "मराठी चित्रपटसृष्टीसाठी अभिमानाचा क्षण! 🎬दिग्दर्शक संतोष डावखर यांच्या ‘गोंधळ’ या मराठी चित्रपटाची ऑस्कर 2027 साठी भारताची अधिकृत प्रवेशिका म्हणून निवड झाली आहे.",
+      "category": "Entertainment",
+      "image": "https://static.toiimg.com/thumb/msid-134348586,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/moment-of-pride-for-marathi-cinema-devendra-fadnavis-celebrates-santosh-davakhars-gondhal-as-indias-official-entry-from-33-films-for-oscars-2027/articleshow/134348577.cms",
+      "publishedAt": "2026-09-19T05:44:00.000Z",
+      "fetchedAt": "2026-09-19T10:20:39.133Z"
     },
     {
       "id": "56c0d8f129dd55ca",
@@ -1532,6 +1576,17 @@
       "fetchedAt": "2026-09-19T05:32:26.286Z"
     },
     {
+      "id": "4f8a73fbf40b67fe",
+      "title": "When dissent was a democratic duty: Remembering Jageshwar Mandal",
+      "summary": "When dissent was a democratic duty: Remembering Jageshwar Mandal. This update was reported by Counterview. Open the original report for full context and any developing updates.",
+      "category": "Politics & Government",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg53RT854EXLE0LRuKLO7YoSZa-pIq26ebtjp4ZZDkftT53USHzbKyVJ79nhCxluY_1ZGp5dYJVCDZDiW_kezOIwI-BxUO0kIVvfU0PM8JrmnWG7sEPTLUwXSXdIjjyzXDe0ibUuky0quP8dp62hW3hzmTLKPKc_ENSVIxmUiYfYXyElgZXnl5JX965lfb/w1200-h630-p-k-no-nu/1000458924.png",
+      "source": "Counterview",
+      "sourceUrl": "https://www.counterview.net/2026/09/when-dissent-was-democratic-duty.html",
+      "publishedAt": "2026-09-18T21:29:00.000Z",
+      "fetchedAt": "2026-09-19T10:20:35.542Z"
+    },
+    {
       "id": "ec4ab5fddb36a8f1",
       "title": "Asian Games 2026 | Organisational glitches mar run-up to opening ceremony",
       "summary": "Asian Games 2026: India's official welcome and flag-hoisting ceremony in Nagoya was delayed by over an hour after miscommunication between OCA and organisers. Airport registration and accommodation issues persisted, while South Korea raised complaint.",
@@ -2369,6 +2424,17 @@
     },
     {
       "id": "0f1204e03a4e645e",
+      "title": "Indian Right Has Not Built The Power That Will Outlast The Government",
+      "summary": "Somewhere in a Delhi drawing room this evening, a professionally successful Indian in his forties will explain with real conviction why Narendra Modi",
+      "category": "Politics & Government",
+      "image": "https://swarajya.gumlet.io/swarajya/2026-09-18/iw7dd5so/download.jpg?w=600&h=315&format=jpg",
+      "source": "swarajyamag.com",
+      "sourceUrl": "https://swarajyamag.com/politics/why-indias-right-should-studythe-medicis-method-not-their-canon",
+      "publishedAt": "2026-09-18T15:03:50.000Z",
+      "fetchedAt": "2026-09-19T10:20:34.901Z"
+    },
+    {
+      "id": "0f1204e03a4e645e",
       "title": "Why Indian Right Has Not Built The Power That Will Outlast The Government",
       "summary": "Somewhere in a Delhi drawing room this evening, a professionally successful Indian in his forties will explain with real conviction why Narendra Modi",
       "category": "Politics & Government",
@@ -2685,72 +2751,6 @@
       "sourceUrl": "https://www.rediff.com/sports/report/manu-bhaker-and-tajinderpal-singh-toor-named-indias-flag-bearers-for-asian-games/20260918.htm",
       "publishedAt": "2026-09-18T13:34:48.000Z",
       "fetchedAt": "2026-09-18T14:13:29.710Z"
-    },
-    {
-      "id": "27c0c0e5accac362",
-      "title": "Use of new-age technologies can transform mining and metals sector",
-      "summary": "The Times of India brings the Latest & Top Breaking News on Politics and Current Affairs in India & around the World, Cricket, Sports, Business, Bollywood News and Entertainment, Science, Technology, Health & Fitness news & opinions from leading columnists.",
-      "category": "Technology",
-      "image": "https://static.toiimg.com/thumb/msid-33486062,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/elon-musk-promises-jesus-level-miracles-from-neuralink-heres-the-beautiful-surprise-that-made-him-say-i-love-you/amp_articleshow/134337041.cms",
-      "publishedAt": "2026-09-18T13:34:00.000Z",
-      "fetchedAt": "2026-09-18T15:57:37.231Z"
-    },
-    {
-      "id": "ca7798aeda59015a",
-      "title": "Travis Kelce’s alleged $35 million loss drama deepens as scammer's public regulatory warning comes to lig",
-      "summary": "The Times of India brings the Latest & Top Breaking News on Politics and Current Affairs in India & around the World, Cricket, Sports, Business, Bollywood News and Entertainment, Science, Technology, Health & Fitness news & opinions from leading columnists.",
-      "category": "National & Trending News",
-      "image": "https://static.toiimg.com/thumb/msid-134336825,width-1280,height-720,imgsize-603854,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/nfl/news/travis-kelces-alleged-35-million-loss-drama-deepens-as-scammers-public-regulatory-warning-comes-to-light/amp_articleshow/134336805.cms",
-      "publishedAt": "2026-09-18T13:31:00.000Z",
-      "fetchedAt": "2026-09-18T14:45:46.638Z"
-    },
-    {
-      "id": "c289e14d1b76c643",
-      "title": "Kerala Crime Branch armed with legal opinion, PSC faces fresh test",
-      "summary": "Kerala Crime Branch armed with legal opinion, PSC faces fresh test. This update was reported by FM Bharat. Open the original report for full context and any developing updates.",
-      "category": "Crime & Breaking News",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ECrime%20%26amp%3B%20Breaking%20News%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "FM Bharat",
-      "sourceUrl": "https://www.fmbharat.com/en/india/kerala-crime-branch-armed-with-legal-opinion-psc-faces-fresh-test",
-      "publishedAt": "2026-09-18T13:30:00.000Z",
-      "fetchedAt": "2026-09-18T13:44:34.434Z"
-    },
-    {
-      "id": "ea37419355096095",
-      "title": "Manu Bhaker, Tajinderpal Toor Named India's Flag-Bearers For Asian Games 2026 Opening",
-      "summary": "The picking of Bhaker and Toor as flag bearers was on expected lines as shooting and athletics contribute a major share of the total number medals for the country in the Asian Games",
-      "category": "Sports",
-      "image": "https://www.deccanchronicle.com/h-upload/2026/09/18/2090444-la-3019627.jpg",
-      "source": "Deccan Chronicle",
-      "sourceUrl": "https://www.deccanchronicle.com/sports/manu-bhaker-tajinderpal-toor-named-indias-flag-bearers-for-asian-games-2026-opening-1988520",
-      "publishedAt": "2026-09-18T13:25:06.000Z",
-      "fetchedAt": "2026-09-18T14:13:28.379Z"
-    },
-    {
-      "id": "d66fc9ddb110b114",
-      "title": "Dhoomakethu - Official Trailer",
-      "summary": "Watch the Official Trailer from Malayalam movie 'Dhoomakethu' starring Sajin Gopu, Nikhila Vimal, Shine Tom Chacko, Sidharth Bharathan and Ganapathi. 'Dhoomakethu' movie is directed by Sudhi Maddison and produced by Sameer Thahir, Shyju Khalid, Sajin Ali and Abbas Thirunavaya. To know more about 'Dhoomakethu' trailer watch the video. Check out…",
-      "category": "Entertainment",
-      "image": "https://static.toiimg.com/thumb/msid-134336830,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/videos/entertainment/regional/malayalam/dhoomakethu-official-trailer/videoshow/134336830.cms",
-      "publishedAt": "2026-09-18T13:24:40.000Z",
-      "fetchedAt": "2026-09-18T13:44:39.493Z"
-    },
-    {
-      "id": "25db15fd4d810eb0",
-      "title": "‘Our products are fully compliant’: Nestlé India responds to FSSAI action over infant nutrition products",
-      "summary": "Nestlé India faces FSSAI scrutiny over infant nutrition product claims and compliance. Company asserts full adherence to regulations.",
-      "category": "Entertainment",
-      "image": "https://images.storyboard18.com/storyboard18/2026/04/nestle-2026-04-44778c2c9fccdf6c0263b8c52ea74353-1019x573.jpg",
-      "source": "Storyboard18",
-      "sourceUrl": "https://www.storyboard18.com/amp/brand-marketing/fssai-sues-nestle-india-over-substandard-infant-nutrition-products-ws-l-110948.htm",
-      "publishedAt": "2026-09-18T13:23:12.000Z",
-      "fetchedAt": "2026-09-18T23:01:18.829Z"
     }
   ]
 }
