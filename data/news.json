@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T04:51:25.159Z",
+  "updatedAt": "2026-09-19T05:03:33.665Z",
   "count": 250,
   "articles": [
     {
@@ -122,6 +122,17 @@
       "sourceUrl": "https://www.indiatoday.in/sports/cricket/story/yuvraj-singh-six-sixes-stuart-broad-19-years-t20-world-cup-2007-on-this-day-2998105-2026-09-19",
       "publishedAt": "2026-09-19T04:02:33.000Z",
       "fetchedAt": "2026-09-19T04:08:08.988Z"
+    },
+    {
+      "id": "1d6d6b2d9eaaa49c",
+      "title": "Asiad 2026: Indian women boxers eye first gold since Mary Kom's 2014 win",
+      "summary": "Indian boxers returned from the Glasgow Commonwealth Games last month with a record haul of 10 medals, including five golds and a silver won by the women boxers",
+      "category": "Sports",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/03/thumb/fitandfill/1200X628/1785730018-2291.jpg",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/sports/asian-games/asiad-2026-indian-women-boxers-eye-first-gold-since-mary-kom-s-2014-win-126091800986_1.html",
+      "publishedAt": "2026-09-19T03:51:24.000Z",
+      "fetchedAt": "2026-09-19T05:03:26.585Z"
     },
     {
       "id": "0dccad530267d083",
@@ -278,6 +289,17 @@
       "fetchedAt": "2026-09-19T02:44:32.908Z"
     },
     {
+      "id": "d08f515e4365e1a3",
+      "title": "India has a once-in-a-generation semiconductor demand window: Infosys SVP Vikram Meghal",
+      "summary": "India has a once-in-a-generation semiconductor demand window: Infosys SVP Vikram Meghal. This update was reported by ET Manufacturing. Open the original report for full context and any developing updates.",
+      "category": "Technology",
+      "image": "https://etimg.etb2bimg.com/thumb/msid-134346562,imgsize-54200,width-1200,height=627,overlay-etmanufacturing,resizemode-75/news/hi-tech/india-has-a-once-in-a-generation-semiconductor-demand-window-infosys-svp-vikram-meghal.jpg",
+      "source": "ET Manufacturing",
+      "sourceUrl": "https://manufacturing.economictimes.indiatimes.com/amp/news/hi-tech/india-has-a-once-in-a-generation-semiconductor-demand-window-infosys-svp-vikram-meghal/134346562",
+      "publishedAt": "2026-09-19T02:15:31.000Z",
+      "fetchedAt": "2026-09-19T05:03:30.084Z"
+    },
+    {
       "id": "f95f79f9d5a89b24",
       "title": "Family Full House Attracts Brands Ahead of Premiere",
       "summary": "Family Full House with Rohit Sharma attracts major brands ahead of its Sony Entertainment Television premiere, highlighting strong advertiser interest.",
@@ -309,6 +331,17 @@
       "sourceUrl": "https://www.greaterkashmir.com/sports/khyber-cement-kashmir-super-league-2026-athwas-india-xi-crowned-league-winners-12550776",
       "publishedAt": "2026-09-19T02:02:14.000Z",
       "fetchedAt": "2026-09-19T02:55:08.626Z"
+    },
+    {
+      "id": "12f78613fb489976",
+      "title": "India’s AI ambitions need a data centre boom, but power and water will be the test",
+      "summary": "India’s AI ambitions need a data centre boom, but power and water will be the test. This update was reported by ET Government. Open the original report for full context and any developing updates.",
+      "category": "Technology",
+      "image": "https://etimg.etb2bimg.com/thumb/msid-134346376,imgsize-92844,width-1200,height=627,overlay-etgovernment,resizemode-75/news/digital-india/indias-ai-ambitions-need-a-data-centre-boom-but-power-and-water-will-be-the-test.jpg",
+      "source": "ET Government",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/amp/news/digital-india/indias-ai-ambitions-need-a-data-centre-boom-but-power-and-water-will-be-the-test/134346376",
+      "publishedAt": "2026-09-19T01:59:25.000Z",
+      "fetchedAt": "2026-09-19T05:03:29.561Z"
     },
     {
       "id": "1b298265545bced1",
@@ -2346,6 +2379,17 @@
       "fetchedAt": "2026-09-18T17:36:22.671Z"
     },
     {
+      "id": "ff56468f70cbeff9",
+      "title": "Marathi film 'Gondhal' is India's pick for Oscars 2027",
+      "summary": "Written and directed by Santosh Davakhar, 'Gondhal' is set in rural Maharashtra and plays out over a night of a traditional ritual centred around a newly-wed couple.",
+      "category": "Entertainment",
+      "image": "https://th-i.thgim.com/public/newsletter/yuj3tb/article71480514.ece/alternates/LANDSCAPE_1200/A%20still%20from%20%E2%80%98Gondhal%E2%80%99",
+      "source": "The Hindu",
+      "sourceUrl": "https://www.thehindu.com/entertainment/movies/marathi-film-gondhal-is-indias-pick-for-oscars-2027/article71480468.ece",
+      "publishedAt": "2026-09-18T11:26:10.000Z",
+      "fetchedAt": "2026-09-19T05:03:27.426Z"
+    },
+    {
       "id": "aba1fd401eced503",
       "title": "Quimcy Dsouza On Brink Of India's First Teqball Medal At Asian Games",
       "summary": "Quimcy Dsouza On Brink Of India's First Teqball Medal At Asian Games. This update was reported by Rediff. Open the original report for full context and any developing updates.",
@@ -2707,50 +2751,6 @@
       "sourceUrl": "https://hrtoday.in/saikat-mukhopadhyay-appointed-group-chief-financial-officer-at-boat-lifestyle/",
       "publishedAt": "2026-09-18T10:34:03.000Z",
       "fetchedAt": "2026-09-18T11:05:32.025Z"
-    },
-    {
-      "id": "ebb0f6bda8ddc644",
-      "title": "Gondhal Is India's Official Entry For Oscars 2027, Marathi Film Chosen From 33 Titles",
-      "summary": "Marathi film Gondhal, directed by Santosh Davakhar, has been selected as India's official entry for the Oscars 2027 from 33 films.",
-      "category": "Entertainment",
-      "image": "https://imgs.etvbharat.com/etvbharat/prod-images/18-09-2026/1200-675-27661435-780-27661435-1789727563272.jpg",
-      "source": "ETV Bharat",
-      "sourceUrl": "https://www.etvbharat.com/amp/en/entertainment/marathi-film-gondhal-is-indias-official-entry-for-oscars-2027-enn26091803659",
-      "publishedAt": "2026-09-18T10:33:45.000Z",
-      "fetchedAt": "2026-09-18T15:31:22.401Z"
-    },
-    {
-      "id": "5a6fde8900b44a85",
-      "title": "US national VanDyke gets default bail in NIA terror conspiracy case",
-      "summary": "The Rouse Avenue Court in Delhi has granted default bail to US national Matthew Aaron VanDyke in a case registered by the National Investigation Agency (NIA).",
-      "category": "National & Trending News",
-      "image": "https://static.toiimg.com/thumb/msid-134332585,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "timesofindia.indiatimes.com",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/us-national-vandyke-gets-default-bail-in-nia-terror-conspiracy-case/articleshow/134332458.cms",
-      "publishedAt": "2026-09-18T10:32:00.000Z",
-      "fetchedAt": "2026-09-18T11:59:30.824Z"
-    },
-    {
-      "id": "94e3531fc171e584",
-      "title": "Manu Bhaker and Tajinderpal Singh Toor to carry India's flag, lead delegation at Asian Games 2026",
-      "summary": "Double Olympic medallist Manu Bhaker and defending shot put champion Tajinderpal Singh Toor will lead India’s 503‑member contingent as flag‑bearers at the 2026 Asian Games.",
-      "category": "Sports",
-      "image": "https://images.firstpost.com/uploads/2026/09/BeFunky-collage-2026-09-18T155216.851-2026-09-5530c8a3081804dec8d8ad2886a09d2b.jpg?im=FitAndFill,width=1200,height=675",
-      "source": "Firstpost",
-      "sourceUrl": "https://www.firstpost.com/sports/manu-bhaker-and-tajinderpal-singh-toor-to-carry-indias-flag-lead-delegation-at-asian-games-2026-14046855.html",
-      "publishedAt": "2026-09-18T10:30:09.000Z",
-      "fetchedAt": "2026-09-18T10:40:18.428Z"
-    },
-    {
-      "id": "688893b4aee00de4",
-      "title": "India must shift from 'Engineered in India' to 'Invent in India' for semiconductor market",
-      "summary": "India is poised for a major transformation in the semiconductor market, moving from simply engineering chips to innovating and inventing custom solutions, as highlighted by Infosys Senior VP Vikram Meghal at SEMICON India 2026. Discover how AI and global demands are reshaping the industry.",
-      "category": "Technology",
-      "image": "https://etimg.etb2bimg.com/thumb/msid-134331180,imgsize-2059735,width-1200,height=627,overlay-etcio,resizemode-75/next-gen-technologies/india-must-shift-from-engineered-in-india-to-invent-in-india-for-semiconductor-market.jpg",
-      "source": "ET CIO",
-      "sourceUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/india-must-shift-from-engineered-in-india-to-invent-in-india-for-semiconductor-market/134331180?utm_source=portal_category_widget&utm_medium=homepage",
-      "publishedAt": "2026-09-18T10:30:00.000Z",
-      "fetchedAt": "2026-09-18T13:55:55.143Z"
     }
   ]
 }
