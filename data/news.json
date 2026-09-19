@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-19T12:42:12.713Z",
+  "updatedAt": "2026-09-19T12:54:58.669Z",
   "count": 250,
   "articles": [
+    {
+      "id": "8f2a424377cc34f1",
+      "title": "Boney Kapoor hails Salman Khan as iconic Radhe in ‘Wanted’ as film clocks 17 years, calls it a ‘true game",
+      "summary": "Boney Kapoor hails Salman Khan as iconic Radhe in ‘Wanted’ as film clocks 17 years, calls it a ‘true game. This update was reported by The Times of India. Open the original report for full context and any developing updates.",
+      "category": "Entertainment",
+      "image": "https://static.toiimg.com/thumb/msid-134354339,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/boney-kapoor-hails-salman-khan-as-iconic-radhe-in-wanted-as-film-clocks-17-years-calls-it-a-true-game-changer-and-landmark-of-indian-cinema/articleshow/134354319.cms",
+      "publishedAt": "2026-09-19T12:32:00.000Z",
+      "fetchedAt": "2026-09-19T12:54:49.972Z"
+    },
     {
       "id": "889671e3bf573d60",
       "title": "India men’s cricket team to wear BCCI jersey for Japan T20I, Asian Games kit issue resolved: MYAS sources",
@@ -23,6 +34,17 @@
       "sourceUrl": "https://www.hindustantimes.com/sports/others/asian-games-2026-india-day-2-schedule-cricket-semifinal-hockey-and-shooting-headline-20th-september-for-contingent-101789819091722.html",
       "publishedAt": "2026-09-19T12:15:58.000Z",
       "fetchedAt": "2026-09-19T12:42:04.890Z"
+    },
+    {
+      "id": "a41272cec42f8449",
+      "title": "Asian Games officially open in Nagoya as India eye repeat of Hangzhou success",
+      "summary": "Asian Games officially open in Nagoya as India eye repeat of Hangzhou success. This update was reported by The Statesman. Open the original report for full context and any developing updates.",
+      "category": "Sports",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "The Statesman",
+      "sourceUrl": "https://www.thestatesman.com/sports/asian-games-officially-open-in-nagoya-as-india-eye-repeat-of-hangzhou-success-1503640482.html",
+      "publishedAt": "2026-09-19T12:10:00.000Z",
+      "fetchedAt": "2026-09-19T12:54:49.038Z"
     },
     {
       "id": "a4f08505e77cd902",
@@ -67,6 +89,17 @@
       "sourceUrl": "https://theprint.in/india/punjab-govt-helping-turn-youths-ideas-into-reality-mann/3047488/",
       "publishedAt": "2026-09-19T11:49:18.000Z",
       "fetchedAt": "2026-09-19T12:42:01.916Z"
+    },
+    {
+      "id": "e67ed14967bbb82d",
+      "title": "Behind official status for Tulu, Shivakumar govt’s bid to win over communal hotbed coastal Karnataka",
+      "summary": "The Karnataka govt’s official recognition meets decades-old demand of the Tulu-speaking community from coastal Karnataka which has sided with the BJP over the past few years.",
+      "category": "Politics & Government",
+      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/09/Untitled-design-2026-09-19T163048.369.png",
+      "source": "ThePrint",
+      "sourceUrl": "https://theprint.in/politics/behind-official-status-for-tulu-shivakumar-govts-bid-to-win-over-communal-hotbed-coastal-karnataka/3047386/",
+      "publishedAt": "2026-09-19T11:45:12.000Z",
+      "fetchedAt": "2026-09-19T12:54:45.577Z"
     },
     {
       "id": "c8702d147d4e776a",
@@ -144,6 +177,17 @@
       "sourceUrl": "https://www.hindustantimes.com/india-news/delhi-cop-wife-found-dead-in-narela-flat-locked-from-inside-police-101789816749172.html",
       "publishedAt": "2026-09-19T11:19:08.000Z",
       "fetchedAt": "2026-09-19T11:50:34.054Z"
+    },
+    {
+      "id": "c3631b1350bdc825",
+      "title": "India's GDP will rise to $38 trillion in 20 years: Ajit Doval",
+      "summary": "Ajit Doval projects India's GDP will soar to $38 trillion in 20 years during IIT Roorkee convocation address.",
+      "category": "National & Trending News",
+      "image": "https://th-i.thgim.com/public/incoming/z7qv2o/article71484358.ece/alternates/LANDSCAPE_1200/20260919100L.jpg",
+      "source": "The Hindu",
+      "sourceUrl": "https://www.thehindu.com/news/national/indias-gdp-will-rise-to-38-trillion-in-20-years-ajit-doval/article71484354.ece",
+      "publishedAt": "2026-09-19T11:14:07.000Z",
+      "fetchedAt": "2026-09-19T12:54:56.944Z"
     },
     {
       "id": "b6c8c563ce70c922",
@@ -848,6 +892,17 @@
       "sourceUrl": "https://economictimes.indiatimes.com/tech/technology/fujifilm-bets-on-semiconductors-to-drive-india-growth-inks-pact-with-tata-electronics/articleshow/134350286.cms?UTM_Source=Google_Newsstand&UTM_Campaign=RSS_Feed&UTM_Medium=Referral",
       "publishedAt": "2026-09-19T07:56:55.000Z",
       "fetchedAt": "2026-09-19T08:13:39.184Z"
+    },
+    {
+      "id": "f2ca7e0b07aef8df",
+      "title": "Asian Games chaos hits India cricket team: Report",
+      "summary": "Indian women’s cricket team however has been staying in the accommodation proved by the IOA",
+      "category": "Sports",
+      "image": "https://assets.telegraphindia.com/telegraph/2026/Sep/1789804418_asiangames.jpg",
+      "source": "Telegraph India",
+      "sourceUrl": "https://www.telegraphindia.com/sports/cricket/asian-games-chaos-hits-india-cricket-team/cid/2180677",
+      "publishedAt": "2026-09-19T07:56:37.000Z",
+      "fetchedAt": "2026-09-19T12:54:48.731Z"
     },
     {
       "id": "ff01e7fb8619e8c4",
@@ -2434,6 +2489,17 @@
       "fetchedAt": "2026-09-18T20:22:16.934Z"
     },
     {
+      "id": "977f0b552e50e5c9",
+      "title": "Caleb Flynn trial: Was ex-American Idol contestant having an affair? Texts in focus amid Ashley's death | Hindustan Times",
+      "summary": "Ex-American Idol contestant Caleb Flynn is on trial for his wife Ashley’s killing, with prosecutors pointing to his alleged affair and messages to a mistress.",
+      "category": "Crime & Breaking News",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/18/1600x900/logo/Caleb_Flynn_1771610617823_1771610617967_1789760494276_0zMo_d27ddd6e-68b5-4b5c-a7e2-16da8985b282_YrF1.jpg",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/world-news/us-news/caleb-flynn-trial-was-ex-american-idol-contestant-having-an-affair-texts-in-focus-amid-ashleys-death-101789759994256-amp.html",
+      "publishedAt": "2026-09-18T19:58:33.000Z",
+      "fetchedAt": "2026-09-19T12:54:46.321Z"
+    },
+    {
       "id": "8b122b75de2f94a9",
       "title": "AIFF and AMM Foundation sign MoU to boost grassroots football in India",
       "summary": "AIFF and AMM Foundation sign MoU to boost grassroots football in India. This update was reported by The News Mill. Open the original report for full context and any developing updates.",
@@ -2520,6 +2586,17 @@
       "sourceUrl": "https://thecsrjournal.in/manu-bhaker-selected-as-indias-flag-bearer-for-asian-games-2026",
       "publishedAt": "2026-09-18T19:05:11.000Z",
       "fetchedAt": "2026-09-18T19:52:23.974Z"
+    },
+    {
+      "id": "23898e85b69f4d75",
+      "title": "Tariffs, Retail Crime Top of Mind at JA’s Annual Fly-In",
+      "summary": "Retailers and manufacturers headed to the Capitol this week to discuss tariff exemptions for diamonds and gemstones, among other issues.",
+      "category": "Crime & Breaking News",
+      "image": "https://uploads.nationaljeweler.com/uploads/88b64df4befe92a283900386876a6229.jpg",
+      "source": "nationaljeweler.com",
+      "sourceUrl": "https://nationaljeweler.com/articles/15329-tariffs-retail-crime-top-of-mind-at-ja-s-annual-fly-in",
+      "publishedAt": "2026-09-18T19:00:50.000Z",
+      "fetchedAt": "2026-09-19T12:54:47.476Z"
     },
     {
       "id": "afed73549c022075",
@@ -2674,83 +2751,6 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/city/kolkata/cops-arrest-bangla-youth-for-stealing-mobiles-on-kol-streets/articleshow/134342449.cms",
       "publishedAt": "2026-09-18T18:28:00.000Z",
       "fetchedAt": "2026-09-19T12:24:40.594Z"
-    },
-    {
-      "id": "6a1754efb0925c08",
-      "title": "Mapping the surge: US powers record Indian smartphone exports - business-standard.com",
-      "summary": "Shipments to the US accounted for 70 per cent of India's total smartphone export value during this period, reaching a record $9.4 billion - a 26 per cent Y-o-Y increase.",
-      "category": "Technology",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-01/14/thumb/fitandfill/1200X628/1768413475-9071.jpg",
-      "source": "business-standard.com",
-      "sourceUrl": "https://www.business-standard.com/technology/tech-news/mapping-the-surge-us-powers-record-indian-smartphone-exports-126091801509_1.html",
-      "publishedAt": "2026-09-18T18:21:52.000Z",
-      "fetchedAt": "2026-09-18T20:22:13.835Z"
-    },
-    {
-      "id": "6a1754efb0925c08",
-      "title": "Mapping the surge: US powers record Indian smartphone exports",
-      "summary": "Shipments to the US accounted for 70 per cent of India's total smartphone export value during this period, reaching a record $9.4 billion - a 26 per cent Y-o-Y increase.",
-      "category": "Technology",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-01/14/thumb/fitandfill/1200X628/1768413475-9071.jpg",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/technology/tech-news/mapping-the-surge-us-powers-record-indian-smartphone-exports-126091801509_1.html",
-      "publishedAt": "2026-09-18T18:21:52.000Z",
-      "fetchedAt": "2026-09-18T20:05:57.807Z"
-    },
-    {
-      "id": "3f0039b41d6f1206",
-      "title": "Rajnath Singh Calls For Integrated Civil-Military Aerospace Ecosystem",
-      "summary": "Singh said there were instances where, by the time a particular technology or equipment was developed and produced, better technology had emerged elsewhere, making the earlier technology outdated.",
-      "category": "Technology",
-      "image": "https://c.ndtvimg.com/2024-04/vbjbotj8_rajnath-singh_625x300_13_April_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "source": "NDTV",
-      "sourceUrl": "https://www.ndtv.com/india-news/rajnath-singh-calls-for-integrated-civil-military-aerospace-ecosystem-12066536",
-      "publishedAt": "2026-09-18T18:13:15.000Z",
-      "fetchedAt": "2026-09-18T19:17:01.156Z"
-    },
-    {
-      "id": "e246157fecebe92d",
-      "title": "India's Defence Strength Powering National Security through Self-Reliance",
-      "summary": "Press Information Bureau (PIB) is the nodal agency of the Government of India to disseminate information to the print and electronic media on government policies, programmes, initiatives and achievements.",
-      "category": "Technology",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "PIB",
-      "sourceUrl": "https://www.pib.gov.in/FactsheetDetails.aspx?id=150909&NoteId=150909&ModuleId=16&reg=48&lang=2",
-      "publishedAt": "2026-09-18T18:11:50.000Z",
-      "fetchedAt": "2026-09-18T22:38:37.186Z"
-    },
-    {
-      "id": "f2b4aea3a750040d",
-      "title": "Delhi murder accused arrested in Sambhajinagar",
-      "summary": "A 20-year-old youth wanted in connection with the murder of his friend in New Delhi was arrested by the Chhatrapati Sambhajinagar crime branch at Karnpura ground in the Cantonment area on Wednesday, following a request from Delhi police.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134341951,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/aurangabad/delhi-murder-accused-arrested-in-sambhajinagar/articleshow/134341954.cms",
-      "publishedAt": "2026-09-18T18:06:00.000Z",
-      "fetchedAt": "2026-09-19T02:15:16.693Z"
-    },
-    {
-      "id": "a54f0a434da58f31",
-      "title": "GIS mapping, CCTVs to boost state’s wildlife crime crackdown",
-      "summary": "Bihar will step up its crackdown on wildlife crime by mapping sensitive trafficking routes and locations using Geographic Information System (GIS) technology and strengthening surveillance across railway, road and air networks. The state is also exploring the use of CCTV cameras at toll plazas to monitor vulnerable routes and suspicious…",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134336545,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/patna/gis-mapping-cctvs-to-boost-states-wildlife-crime-crackdown/articleshow/134336546.cms",
-      "publishedAt": "2026-09-18T18:02:00.000Z",
-      "fetchedAt": "2026-09-19T04:51:14.456Z"
-    },
-    {
-      "id": "cecb612e1fb30db1",
-      "title": "D Gukesh returns to form as India cruise past Italy at Chess Olympiad",
-      "summary": "D Gukesh returned to winning ways as India beat Italy 3-1 in Round 3 of the Chess Olympiad. Nihal Sarin also won, while India's women's team defeated Greece 3.5-0.5 to remain unbeaten at the tournament.",
-      "category": "Sports",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/gukesh-and-nihal-sarin-180025275-16x9_0.jpg?VersionId=GZkDncXyacd6vYJbK4on6v73zpN69eVq",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/sports/other-sports/story/d-gukesh-returns-to-winning-ways-as-india-beat-italy-at-chess-olympiad-2998029-2026-09-18",
-      "publishedAt": "2026-09-18T18:00:40.000Z",
-      "fetchedAt": "2026-09-18T18:19:45.636Z"
     }
   ]
 }
