@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T19:49:39.947Z",
+  "updatedAt": "2026-09-19T20:00:13.305Z",
   "count": 250,
   "articles": [
     {
@@ -25,6 +25,17 @@
       "fetchedAt": "2026-09-19T19:38:17.613Z"
     },
     {
+      "id": "a5777c59151a8e85",
+      "title": "Gauhati HC hears PIL challenging EVM technology in Assam Assembly polls",
+      "summary": "The Gauhati High Court heard arguments on a PIL challenging the credibility and legal acceptability of EVMs used in Assam Assembly polls. The petitioners raised concerns over semiconductor technology, source code disclosure and transparency, with the next hearing scheduled for November 4",
+      "category": "Technology",
+      "image": "https://media.telanganatoday.com/wp-content/uploads/2026/09/Assam-Court.jpg",
+      "source": "Telangana Today",
+      "sourceUrl": "https://telanganatoday.com/gauhati-hc-hears-pil-challenging-evm-technology-in-assam-assembly-polls",
+      "publishedAt": "2026-09-19T19:15:36.000Z",
+      "fetchedAt": "2026-09-19T20:00:07.932Z"
+    },
+    {
       "id": "30ad26e77290c20b",
       "title": "Kuwait-based bizman loses Rs 55L in digital arrest scam in Ratlam, Rs15 lakh frozen",
       "summary": "Kuwait-based NRI in Ratlam duped of Rs 55 lakh in digital arrest scam; fraudsters posed as police/ATS with fake Supreme Court papers; Rs 15 lakh frozen.",
@@ -45,6 +56,17 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/videos/entertainment/regional/bangla/-autobi-official-teaser-bengali-movie-september-2026-/videoshow/134358354.cms",
       "publishedAt": "2026-09-19T19:12:40.000Z",
       "fetchedAt": "2026-09-19T19:26:11.673Z"
+    },
+    {
+      "id": "8d6d35a307f75b08",
+      "title": "Autobi - Official Trailer​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "summary": "Watch the Official trailer​ from bengali​​​​ movie 'Autobi' starring Madhumita Sarcar, Sahebb Chattopadhyay and Inaaya Chowdhury. 'Autobi' movie is directed by Soumava Banerjee. To know more about 'Autobi' trailer​ watch the video. Check out the latest bengali​​​​ trailer​s, new movie trailer​s, trending bengali​​​​ movie trailer​, and more at ETimes -…",
+      "category": "Entertainment",
+      "image": "https://static.toiimg.com/thumb/msid-134358362,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/videos/entertainment/regional/bangla/autobi-official-trailer-madhumita-inaaya-aryann-sahebb-rahul-soumava/videoshow/134358362.cms",
+      "publishedAt": "2026-09-19T19:11:49.000Z",
+      "fetchedAt": "2026-09-19T20:00:06.365Z"
     },
     {
       "id": "8e3f8bf865afcc3c",
@@ -188,6 +210,17 @@
       "sourceUrl": "https://www.ndtvprofit.com/technology/ashwini-vaishnaw-warns-of-cyberattacks-disruptions-as-india-builds-semiconductor-ecosystem-12070076",
       "publishedAt": "2026-09-19T17:46:37.000Z",
       "fetchedAt": "2026-09-19T17:58:43.393Z"
+    },
+    {
+      "id": "248f86f53849c007",
+      "title": "India’s real GDP growth forecast to 7% for current financial year: Moody",
+      "summary": "India’s real GDP growth forecast to 7% for current financial year: Moody. This update was reported by News On AIR. Open the original report for full context and any developing updates.",
+      "category": "Business & Finance",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EBusiness%20%26amp%3B%20Finance%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "News On AIR",
+      "sourceUrl": "https://newsonair.gov.in/indias-real-gdp-growth-forecast-to-7-for-current-financial-year-moody/",
+      "publishedAt": "2026-09-19T17:37:04.000Z",
+      "fetchedAt": "2026-09-19T20:00:11.103Z"
     },
     {
       "id": "40603efa46e9c834",
@@ -399,6 +432,17 @@
       "fetchedAt": "2026-09-19T16:45:12.992Z"
     },
     {
+      "id": "41be034f1b164320",
+      "title": "Centre, States Discuss Financing Strategies For Viksit Bharat At First Finance Conference",
+      "summary": "The conference brought together state finance ministers and officials to discuss the macroeconomic outlook, agricultural transformation and financing the energy transition.",
+      "category": "Business & Finance",
+      "image": "https://c.ndtvimg.com/2026-09/9v9a1thk_nirmala-sitharaman_625x300_19_September_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "source": "NDTV Profit",
+      "sourceUrl": "https://www.ndtvprofit.com/economy/centre-states-discuss-financing-strategies-for-viksit-bharat-at-first-finance-conference-12069799/amp/1",
+      "publishedAt": "2026-09-19T16:31:47.000Z",
+      "fetchedAt": "2026-09-19T20:00:12.287Z"
+    },
+    {
       "id": "164852be76f605bf",
       "title": "Viksit Bharat: FM Sitharaman-Led Meet Concludes With Focus On Financing",
       "summary": "New Delhi: The first meeting -- led by Finance Minister Nirmala Sitharaman -- of the Conference of State Finance Ministers and Finance Secretaries of",
@@ -496,6 +540,17 @@
       "sourceUrl": "https://thenewsmill.com/2026/09/devank-dalal-commits-to-winning-gold-at-2026-asian-games-for-india/",
       "publishedAt": "2026-09-19T15:57:39.000Z",
       "fetchedAt": "2026-09-19T17:58:39.332Z"
+    },
+    {
+      "id": "82ada4342b2c39c4",
+      "title": "When China captured Indian agents: Ajit Doval recalls the moment he thought, 'this was the end of my caree",
+      "summary": "NSA Ajit Doval recalled a challenging episode from his early career when operatives sent across the border were captured and held in Chinese custody, saying he feared the incident would end his career. Speaking at IIT Roorkees convocation, Doval said an inquiry later found him not at fault and attributed…",
+      "category": "National & Trending News",
+      "image": "https://m.economictimes.com/thumb/width-1280,height-720,imgsize-135314,msid-134356692/ajit-doval-recalls-when-his-agents-were-captured-by-chinabr.jpg",
+      "source": "The Economic Times",
+      "sourceUrl": "https://m.economictimes.com/news/new-updates/when-china-captured-indian-agents-ajit-doval-recalls-the-moment-he-thought-this-was-the-end-of-my-career/amp_articleshow/134356637.cms",
+      "publishedAt": "2026-09-19T15:56:00.000Z",
+      "fetchedAt": "2026-09-19T20:00:13.305Z"
     },
     {
       "id": "c0cffb877b9d5a8a",
@@ -2696,61 +2751,6 @@
       "sourceUrl": "https://www.tbsnews.net/bangladesh/politics/govt-moving-towards-deals-israel-india-surveillance-patwari-1545921",
       "publishedAt": "2026-09-19T06:11:31.000Z",
       "fetchedAt": "2026-09-19T07:55:41.635Z"
-    },
-    {
-      "id": "270130483ee40e6f",
-      "title": "Saikat Mukhopadhyay joins boAt Lifestyle as chief financial officer",
-      "summary": "Saikat Mukhopadhyay joins boAt Lifestyle as chief financial officer. This update was reported by Indian Television Dot Com. Open the original report for full context and any developing updates.",
-      "category": "Business & Finance",
-      "image": "https://indiantelevision.com/wp-content/uploads/2026/09/Saikat-Mukhopadhyay-1000x600.jpg",
-      "source": "Indian Television Dot Com",
-      "sourceUrl": "https://indiantelevision.com/mam/saikat-mukhopadhyay-joins-boat-lifestyle-as-chief-financial-officer/",
-      "publishedAt": "2026-09-19T06:09:39.000Z",
-      "fetchedAt": "2026-09-19T19:49:38.683Z"
-    },
-    {
-      "id": "f14d05450995c619",
-      "title": "Following Toronto premiere, Karthik Subbaraj’s ‘Dorothy’ gets India release date",
-      "summary": "The film stars Rishikanth, Sananth and Keerthy Suresh in key roles, with music composed by Ilaiyaraaja",
-      "category": "Entertainment",
-      "image": "https://assets.telegraphindia.com/telegraph/2026/Aug/1785904388_dorothy-karthik-subbaraj.jpg",
-      "source": "telegraphindia.com",
-      "sourceUrl": "https://www.telegraphindia.com/entertainment/following-toronto-premiere-karthik-subbarajs-dorothy-gets-india-release-date/cid/2180659",
-      "publishedAt": "2026-09-19T06:08:01.000Z",
-      "fetchedAt": "2026-09-19T06:51:01.674Z"
-    },
-    {
-      "id": "8fc59492fd7c54d3",
-      "title": "Private financing critical for achieving Viksit Bharat goal: Economic Affairs Secy",
-      "summary": "Thakur said Centre-state coordination, innovative financing and stronger investor confidence will be crucial to funding India’s long-term development plans.",
-      "category": "Business & Finance",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260415121726_India-Indian-economy.png",
-      "source": "Moneycontrol.com",
-      "sourceUrl": "https://www.moneycontrol.com/news/business/private-financing-critical-for-achieving-viksit-bharat-goal-economic-affairs-secy-14033387.html/amp",
-      "publishedAt": "2026-09-19T06:07:20.000Z",
-      "fetchedAt": "2026-09-19T18:58:09.564Z"
-    },
-    {
-      "id": "a5dbf155278d0e0d",
-      "title": "India's Semiconductor Opportunity Report Unveiled at SEMICON India 2026",
-      "summary": "The report comes approximately one year after IDTA was launched at SEMICON India 2025 as an industry-led initiative to mobilise long-term private capital, technical expertise and ecosystem support for Indian deep-tech companies. Manufacturing | InFocus",
-      "category": "Technology",
-      "image": "https://img-cdn.publive.online/fit-in/1200x675/smstreet/media/media_files/6HD8zi7jZrG2qfMBGTe6.jpg",
-      "source": "SMEStreet",
-      "sourceUrl": "https://smestreet.in/infocus/indias-semiconductor-opportunity-report-unveiled-at-semicon-india-2026-12551327",
-      "publishedAt": "2026-09-19T06:05:37.000Z",
-      "fetchedAt": "2026-09-19T07:55:49.353Z"
-    },
-    {
-      "id": "7f5ecef3c7f638c0",
-      "title": "Rahul Gandhi calls Nandigram candidate's arrest revenge, BJP hits back",
-      "summary": "The Bengal BJP has rejected Rahul Gandhi's charge that Milan Pradhan's arrest in Nandigram was political revenge. The arrest has triggered a wider row, with Mamata Banerjee also questioning its timing before the bypoll.",
-      "category": "Politics & Government",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/the-arrest-of-congresss-nandigram-candidate-milan-pradhan-in-the-middle-has-sparked-a-major-polit-195608275-16x9_0.jpg?VersionId=qaOCGgWt_ds63wyO4QsGY8AlPrieTVWp",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/amp/india/story/milan-pradhan-arrest-bengal-bjp-rebuts-rahul-gandhi-nandigram-bypoll-2998153-2026-09-19",
-      "publishedAt": "2026-09-19T06:01:05.000Z",
-      "fetchedAt": "2026-09-19T08:29:35.238Z"
     }
   ]
 }
