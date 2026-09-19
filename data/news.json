@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-09-19T19:26:16.337Z",
+  "updatedAt": "2026-09-19T19:38:24.505Z",
   "count": 250,
   "articles": [
+    {
+      "id": "01c669dcd393802e",
+      "title": "Exclusive: Taraknath Woddi Calls India-US Tech Partnership an Enduring Alliance",
+      "summary": "Seattle, Washington: Taraknath Woddi, Ph.D., CEO and co-founder of Anicca Data Science Solutions, has described technology cooperation between India and the United States as a permanent “Indian ma…",
+      "category": "Technology",
+      "image": "https://southasianherald.com/wp-content/uploads/2026/09/Tarak-1200x1200.jpeg",
+      "source": "South Asian Herald",
+      "sourceUrl": "https://southasianherald.com/exclusive-taraknath-woddi-calls-india-us-tech-partnership-an-enduring-alliance/",
+      "publishedAt": "2026-09-19T19:26:02.000Z",
+      "fetchedAt": "2026-09-19T19:38:22.029Z"
+    },
+    {
+      "id": "1cd1e82e056d2722",
+      "title": "Asian Games 2026: India's Biggest Medal Hopes, From Shooting To Athletics",
+      "summary": "With 504 athletes in the Indian contingent, expectations are high at the Aichi-Nagoya Asian Games. NDTV analyses India's biggest medal prospects across shooting, athletics, cricket, hockey, badminton, archery, weightlifting, kabaddi and more, including potential surprise medal winners.&nbsp;",
+      "category": "Sports",
+      "image": "https://c.ndtvimg.com/dmx-images/video/images/vod/medium/2026-09/1160827_maxresdefault.jpg",
+      "source": "NDTV Sports",
+      "sourceUrl": "https://sports.ndtv.com/othersports/videos/asian-games-2026-india-s-biggest-medal-hopes-from-shooting-to-athletics-1160827",
+      "publishedAt": "2026-09-19T19:19:41.000Z",
+      "fetchedAt": "2026-09-19T19:38:17.613Z"
+    },
     {
       "id": "30ad26e77290c20b",
       "title": "Kuwait-based bizman loses Rs 55L in digital arrest scam in Ratlam, Rs15 lakh frozen",
@@ -111,6 +133,17 @@
       "sourceUrl": "https://www.indiatoday.in/sports/cricket/story/west-indies-odi-t20i-squad-for-india-tour-pooran-hetmyer-holder-2998592-2026-09-19",
       "publishedAt": "2026-09-19T17:55:57.000Z",
       "fetchedAt": "2026-09-19T18:19:23.532Z"
+    },
+    {
+      "id": "6bae477f775dba2f",
+      "title": "Dr. Vishal Sikka: 'This Is Not The Time To Slow Down' On AI - India Today",
+      "summary": "In an exclusive interview, Hang Ten Systems founder and former Infosys CEO Dr. Vishal Sikka discussed the rapid evolution of artificial intelligence and its profound impact on software engineering and entrepreneurship. Addressing concerns over AI safety and disruption, Dr. Sikka stated, \"This is not the time to slow down,\" arguing…",
+      "category": "Technology",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/video/202609/drvishalsikkaweneedtoaccelerateonaiadoption-s0-original-sixteen-to-nine.jpg?VersionId=PpElYpvu29.YVvG8C4Prs2xjtHB.PJPK",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/technology/video/dr-vishal-sikka-this-is-not-the-time-to-slow-down-on-ai-ytvd-2998601-2026-09-19",
+      "publishedAt": "2026-09-19T17:55:50.000Z",
+      "fetchedAt": "2026-09-19T19:38:22.407Z"
     },
     {
       "id": "ff8525e7ef2a4ff1",
@@ -496,6 +529,17 @@
       "sourceUrl": "https://www.thehindu.com/videos/upi-fees-will-new-charges-change-how-india-pays-insight-india/article71484860.ece",
       "publishedAt": "2026-09-19T15:30:00.000Z",
       "fetchedAt": "2026-09-19T16:56:22.847Z"
+    },
+    {
+      "id": "2ba4d72763c99fa7",
+      "title": "System fears students because they ask questions: Rahul Gandhi in Indore",
+      "summary": "Congress leader says institutions have been captured by the 'system', alleges government wants 'blind followers' and calls students the future of India",
+      "category": "Politics & Government",
+      "image": "https://cf-images.assettype.com/nationalherald%2F2026-09-19%2F3g5kpjrt%2FRahul-.jpg?rect=0%2C0%2C482%2C253&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "National Herald",
+      "sourceUrl": "https://www.nationalheraldindia.com/amp/story/politics/system-fears-students-because-they-ask-questions-rahul-gandhi-in-indore",
+      "publishedAt": "2026-09-19T15:25:41.000Z",
+      "fetchedAt": "2026-09-19T19:38:14.784Z"
     },
     {
       "id": "ffd80be28d4dd22c",
@@ -892,6 +936,17 @@
       "sourceUrl": "https://www.news18.com/videos/modi-s-25-year-journey-from-gujarat-govt-to-national-politics-and-three-terms-as-pm-homework-10341492.html",
       "publishedAt": "2026-09-19T13:38:00.000Z",
       "fetchedAt": "2026-09-19T14:00:55.916Z"
+    },
+    {
+      "id": "39764d2ce43cdfab",
+      "title": "India at Asian Games 2026 : Full Schedule for September 20",
+      "summary": "The 20th Asian Games officially got underway here on Saturday with a colourful, high-tech opening ceremony at the Mizuho Park Athletic Stadium Check out the Sunday schedule for the Indian Team.",
+      "category": "Sports",
+      "image": "https://www.deccanchronicle.com/h-upload/2026/09/19/2090821-india-sunday-schedule-day2-asian-games.jpg",
+      "source": "Deccan Chronicle",
+      "sourceUrl": "https://www.deccanchronicle.com/sports/sunday-schedule-for-asian-games-2026-for-indian-athletes-1988793",
+      "publishedAt": "2026-09-19T13:37:30.000Z",
+      "fetchedAt": "2026-09-19T19:38:18.109Z"
     },
     {
       "id": "ff1aac7585ce4831",
@@ -2696,61 +2751,6 @@
       "sourceUrl": "https://www.indiatoday.in/sports/asian-games/story/asian-games-taiwan-row-politics-sport-nagoya-2998157-2026-09-19",
       "publishedAt": "2026-09-19T05:54:45.000Z",
       "fetchedAt": "2026-09-19T06:15:32.357Z"
-    },
-    {
-      "id": "6f555d79af950c48",
-      "title": "Manu Bhaker named India’s flag-bearer for Asian Games 2026 opening",
-      "summary": "Manu Bhaker named India’s flag-bearer for Asian Games 2026 opening. This update was reported by The News Mill. Open the original report for full context and any developing updates.",
-      "category": "Sports",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "The News Mill",
-      "sourceUrl": "https://thenewsmill.com/2026/09/manu-bhaker-named-indias-flag-bearer-for-asian-games-2026-opening/",
-      "publishedAt": "2026-09-19T05:52:18.000Z",
-      "fetchedAt": "2026-09-19T06:15:32.112Z"
-    },
-    {
-      "id": "270130483ee40e6f",
-      "title": "Saikat Mukhopadhyay joins boAt Lifestyle as chief financial officer",
-      "summary": "Saikat Mukhopadhyay joins boAt Lifestyle as chief financial officer. This update was reported by Indian Television Dot Com. Open the original report for full context and any developing updates.",
-      "category": "Business & Finance",
-      "image": "https://indiantelevision.com/wp-content/uploads/2026/09/Saikat-Mukhopadhyay-1000x600.jpg",
-      "source": "Indian Television Dot Com",
-      "sourceUrl": "https://indiantelevision.com/mam/saikat-mukhopadhyay-joins-boat-lifestyle-as-chief-financial-officer/",
-      "publishedAt": "2026-09-19T05:52:12.000Z",
-      "fetchedAt": "2026-09-19T05:55:40.509Z"
-    },
-    {
-      "id": "44282273ff8919b6",
-      "title": "Bangladesh says review of 101 India pacts aimed at making agreements 'win-win'",
-      "summary": "Bangladesh is reviewing one hundred one agreements and MoUs with India. This review aims to identify and resolve inconsistencies in existing pacts. Provisions against Bangladesh",
-      "category": "National & Trending News",
-      "image": "https://img.etimg.com/thumb/msid-134348597,width-1200,height-630,imgsize-129170,overlay-economictimes/articleshow.jpg",
-      "source": "The Economic Times",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/india/bangladesh-reviews-101-agreements-with-india-to-ensure-mutual-benefits-and-resolve-inconsistencies/articleshow/134348598.cms?from=mdr",
-      "publishedAt": "2026-09-19T05:51:08.000Z",
-      "fetchedAt": "2026-09-19T17:58:47.654Z"
-    },
-    {
-      "id": "ff02c6aaa7076415",
-      "title": "'A heartwarming feeling': Manu Bhaker on being chosen as India's flag-bearer for Asian Games 2026 opening",
-      "summary": "Manu Bhaker said she feels honored to be a flag-bearer for the upcoming Asian Games. She recalled past experiences and her journey in sports. Bhaker encouraged athletes to embrace the opportunity and perform their best. She advised them to focus on giving their utmost effort. Athletes should enjoy this unique…",
-      "category": "Sports",
-      "image": "https://img.etimg.com/thumb/msid-134348673,width-1200,height-630,imgsize-60050,overlay-economictimes/articleshow.jpg",
-      "source": "economictimes.com",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/sports/other-sports/a-heartwarming-feeling-manu-bhaker-on-being-chosen-as-indias-flag-bearer-for-asian-games-2026-opening-ceremony/articleshow/134348634.cms?from=mdr",
-      "publishedAt": "2026-09-19T05:49:46.000Z",
-      "fetchedAt": "2026-09-19T06:35:34.353Z"
-    },
-    {
-      "id": "35e7598733b13046",
-      "title": "US bought nearly $120 billion of India’s software services in FY26, share rose to 54.1%",
-      "summary": "India&rsquo;s software services exports rose 8.2% to $221.4 billion in FY26, while US-bound exports grew 11% and on-site earnings declined.",
-      "category": "Technology",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260617124924_moditrump.png",
-      "source": "Moneycontrol.com",
-      "sourceUrl": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/us-bought-nearly-120-billion-of-india-s-software-services-in-fy26-share-rose-to-54-1-14033353.html",
-      "publishedAt": "2026-09-19T05:46:42.000Z",
-      "fetchedAt": "2026-09-19T07:19:39.283Z"
     }
   ]
 }
