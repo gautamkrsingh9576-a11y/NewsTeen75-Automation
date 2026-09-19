@@ -1,7 +1,73 @@
 {
-  "updatedAt": "2026-09-19T17:11:52.365Z",
+  "updatedAt": "2026-09-19T17:25:17.846Z",
   "count": 250,
   "articles": [
+    {
+      "id": "e022318877c766df",
+      "title": "Analysis: As Punjab Rehab Numbers Increase, Politics Intensifies Over Drug Problem",
+      "summary": "Dubbed a publicity failure by the opposition, the AAP government's \"Yudh Nasheyan Virudh\" campaign output focuses on the number of seizures, a higher conviction rate between 88-89 per cent and the jump in de-addiction centres.",
+      "category": "Politics & Government",
+      "image": "https://c.ndtvimg.com/d6pigfu4_drugs-generic-narcotics-generic-istock_625x300_01_September_18.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "source": "NDTV",
+      "sourceUrl": "https://www.ndtv.com/india-news/analysis-as-punjab-rehab-numbers-increase-politics-intensifies-over-drug-problem-12069998",
+      "publishedAt": "2026-09-19T17:18:07.000Z",
+      "fetchedAt": "2026-09-19T17:25:05.387Z"
+    },
+    {
+      "id": "1757af403bef0f1d",
+      "title": "'Caste-Based Slurs Hurled': IIT Bombay Suicide Case Takes New Turn, Crime Branch Takes Over Probe",
+      "summary": "According to Wakode’s father, teacher Suryanarayan Dulla allegedly subjected Sahil to caste-based slurs and threatened to frame him in a false case.",
+      "category": "Crime & Breaking News",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/09/1-2026-09-19T170222.126-2026-09-cc02c457c69c7ec018b270f2b34fb274-1200x675.png",
+      "source": "News18",
+      "sourceUrl": "https://www.news18.com/amp/india/caste-based-slurs-hurled-iit-bombay-student-suicide-case-takes-new-turn-crime-branch-takes-over-probe-10341726.html",
+      "publishedAt": "2026-09-19T17:16:30.000Z",
+      "fetchedAt": "2026-09-19T17:25:07.481Z"
+    },
+    {
+      "id": "6e53509d5e30f653",
+      "title": "'Trapped in dynastic politics': Mukesh Sahani slams Nishad Party chief",
+      "summary": "Mukesh Sahani: Vikassheel Insaan Party president Mukesh Sahani has accused Uttar Pradesh minister Sanjay Nishad of failing to secure reservation for the Nishad community and getting trapped in dynastic politics ahead of assembly polls.",
+      "category": "Politics & Government",
+      "image": "https://media.assettype.com/deccanherald%2F2026-09-19%2Fcwbnb3zm%2FImages-4.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
+      "source": "deccanherald.com",
+      "sourceUrl": "https://www.deccanherald.com/india/uttar-pradesh/trapped-in-dynastic-politics-mukesh-sahani-slams-nishad-party-chief-4152332",
+      "publishedAt": "2026-09-19T17:14:17.000Z",
+      "fetchedAt": "2026-09-19T17:25:05.950Z"
+    },
+    {
+      "id": "a38359f720343b07",
+      "title": "Chhaydo - Official Teaser​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "summary": "Watch the Official teaser​ from gujarati​​​​ movie 'Chhaydo' starring Aruna Irani, Akash Khurana and Nikhil Parmar. 'Chhaydo' movie is directed by Piyush Ranjitbhai. To know more about 'Chhaydo' teaser​ watch the video. Check out the latest gujarati​​​​ teaser​s, new movie teaser​s, trending gujarati​​​​ movie teaser​, and more at ETimes -…",
+      "category": "Entertainment",
+      "image": "https://static.toiimg.com/thumb/msid-134357800,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "timesofindia.indiatimes.com",
+      "sourceUrl": "https://timesofindia.indiatimes.com/videos/entertainment/regional/gujarati/chhaydo-official-teaser/videoshow/134357800.cms",
+      "publishedAt": "2026-09-19T17:10:19.000Z",
+      "fetchedAt": "2026-09-19T17:25:12.055Z"
+    },
+    {
+      "id": "4d844cb38d144fe2",
+      "title": "India At Asian Games 2026 Day 2: Full Schedule, Timings And Medal Events For September 20",
+      "summary": "India will be in action across multiple sports on Day 2 of the Aichi-Nagoya Asian Games, with cricket, hockey, shooting, badminton and other events lined up on September 20.",
+      "category": "Sports",
+      "image": "https://c.ndtvimg.com/2026-09/hb58nfgk_asian-games-2026_625x300_19_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "source": "NDTV Profit",
+      "sourceUrl": "https://www.ndtvprofit.com/sports/india-at-asian-games-2026-day-2-full-schedule-timings-and-medal-events-for-september-20-12069173",
+      "publishedAt": "2026-09-19T17:05:25.000Z",
+      "fetchedAt": "2026-09-19T17:25:09.807Z"
+    },
+    {
+      "id": "2ffaa551defd03d9",
+      "title": "GalaxEye secures US patent for OptoSAR technology, boosting India’s private space and deep-tech ambitions",
+      "summary": "GalaxEye secures US patent for OptoSAR technology, boosting India’s private space and deep-tech ambitions. This update was reported by organiser.org. Open the original report for full context and any developing updates.",
+      "category": "Technology",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "organiser.org",
+      "sourceUrl": "https://organiser.org/2026/09/19/379979/bharat/galaxeye-secures-us-patent-for-optosar-technology-boosting-indias-private-space-and-deep-tech-ambitions/",
+      "publishedAt": "2026-09-19T17:04:09.000Z",
+      "fetchedAt": "2026-09-19T17:25:13.055Z"
+    },
     {
       "id": "3db04e70d6df2d99",
       "title": "‘Trapped in dynastic politics, running his own shop’: Mukesh Sahani slams Sanjay Nishad",
@@ -2685,72 +2751,6 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/india-no-1-sumit-nagal-falls-as-south-korea-take-2-0-lead-in-historic-davis-cup-tie/articleshow/134347161.cms",
       "publishedAt": "2026-09-19T03:22:00.000Z",
       "fetchedAt": "2026-09-19T04:51:15.701Z"
-    },
-    {
-      "id": "02bd1b28bf030e6b",
-      "title": "Nadella Joins 40-Plus Indian-American Tech CEOs To Discuss India-US Tech Ties",
-      "summary": "Satya Nadella emphasized Seattle-India tech collaboration at the Ideas4India forum, highlighting AI and innovation ties.",
-      "category": "Technology",
-      "image": "https://thecsrjournal.in/wp-content/uploads/2026/09/Satya-Nadela.jpeg",
-      "source": "The CSR Journal",
-      "sourceUrl": "https://thecsrjournal.in/nadella-joins-40-plus-indian-american-tech-ceos-to-discuss-india-us-tech-ties",
-      "publishedAt": "2026-09-19T03:12:39.000Z",
-      "fetchedAt": "2026-09-19T03:27:29.441Z"
-    },
-    {
-      "id": "a4a51b7f484920dd",
-      "title": "With Hike For Government Staff, AAP Kickstarts Punjab Poll Campaign",
-      "summary": "The AAP is set to formally kick off its 2027 poll campaign a day after the Mann government announced an 8 per cent hike in DA for around eight lakh government employees",
-      "category": "Politics & Government",
-      "image": "https://c.ndtvimg.com/2026-09/k6pahq74_mann_625x300_19_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
-      "source": "NDTV",
-      "sourceUrl": "https://www.ndtv.com/india-news/punjab-election-bhagwant-mann-with-hike-for-government-staff-aap-kickstarts-punjab-poll-campaign-12067282",
-      "publishedAt": "2026-09-19T03:11:13.000Z",
-      "fetchedAt": "2026-09-19T11:39:47.860Z"
-    },
-    {
-      "id": "1b86595732fcd3b3",
-      "title": "BPL And AIIMS Delhi Partner To Scale AI-Powered Mammography Across India",
-      "summary": "BPL And AIIMS Delhi Partner To Scale AI-Powered Mammography Across India. This update was reported by bwhealthcareworld.com. Open the original report for full context and any developing updates.",
-      "category": "Technology",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "bwhealthcareworld.com",
-      "sourceUrl": "https://www.bwhealthcareworld.com/article/bpl-and-aiims-delhi-partner-to-scale-ai-powered-mammography-across-india-624460",
-      "publishedAt": "2026-09-19T03:10:19.000Z",
-      "fetchedAt": "2026-09-19T04:51:20.385Z"
-    },
-    {
-      "id": "e163554528289e74",
-      "title": "‘Govt. misread youth aspirations’",
-      "summary": "‘Govt. misread youth aspirations’. This update was reported by The Statesman. Open the original report for full context and any developing updates.",
-      "category": "Politics & Government",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EPolitics%20%26amp%3B%20Government%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "The Statesman",
-      "sourceUrl": "https://www.thestatesman.com/exclusive-interviews/govt-misread-youth-aspirations-1503640361.html",
-      "publishedAt": "2026-09-19T03:08:00.000Z",
-      "fetchedAt": "2026-09-19T03:41:58.628Z"
-    },
-    {
-      "id": "812d16430e295a2d",
-      "title": "India men defeat Italy 3-1, women beat Greece 3.5-0.5 at 46th Chess Olympiad",
-      "summary": "India men defeat Italy 3-1, women beat Greece 3.5-0.5 at 46th Chess Olympiad. This update was reported by The News Mill. Open the original report for full context and any developing updates.",
-      "category": "Sports",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "The News Mill",
-      "sourceUrl": "https://thenewsmill.com/2026/09/india-men-defeat-italy-3-1-women-beat-greece-3-5-0-5-at-46th-chess-olympiad/",
-      "publishedAt": "2026-09-19T03:02:22.000Z",
-      "fetchedAt": "2026-09-19T03:27:25.175Z"
-    },
-    {
-      "id": "db324698b0f7da76",
-      "title": "Quote of the Day by Vikram Sarabhai: We must be second to none in the application of advanced...",
-      "summary": "Vikram Sarabhai’s oft-cited quote set out his view that advanced technology must address real social needs. It continues to reflect the purpose behind India’s space programme and its development focus.",
-      "category": "Technology",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/from-the-india-today-archives-2008--vikram-sarabhai-master-mind-111712367-16x9.png?VersionId=qGeh7nWm955NLdWcqGCMUyjNcQTAQcjd",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/amp/education-today/news/story/quote-of-the-day-by-vikram-sarabhai-we-must-be-second-to-none-in-the-application-of-advanced-2997942-2026-09-19",
-      "publishedAt": "2026-09-19T03:00:00.000Z",
-      "fetchedAt": "2026-09-19T04:08:11.173Z"
     }
   ]
 }
