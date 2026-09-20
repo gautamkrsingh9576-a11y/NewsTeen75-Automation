@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-20T17:32:34.007Z",
-  "count": 27,
+  "updatedAt": "2026-09-20T17:44:07.571Z",
+  "count": 33,
   "articles": [
+    {
+      "id": "78e51ba91dfb51d9",
+      "title": "How one India T20I could become Japanese cricket's defining moment",
+      "summary": "Japan is set to host its first-ever men's senior international cricket match against India, marking a milestone for Japanese cricket. Growth has been steady, with rising participation and increased visibility. The match aims to win hearts, boost cricket's popularity, and showcase Japan's progress within the global cricket community.",
+      "category": "Sports",
+      "image": "https://s.yimg.com/lo/mysterio/api/56825f37935c04be0c3a68657ea11b4896d3970d9cc2682a463835acbbf23d01/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwillow_sports_articles_673%2Fb4bb7100d7b8ba30f91151f01ff400e9.jpg",
+      "source": "Yahoo Sports",
+      "sourceUrl": "https://sports.yahoo.com/articles/one-india-t20i-could-become-173100592.html",
+      "publishedAt": "2026-09-20T17:31:00.000Z",
+      "fetchedAt": "2026-09-20T17:43:38.133Z"
+    },
     {
       "id": "953acbee1f2e7d07",
       "title": "CJP questions closure of 826 Uttarakhand schools, gives government 10-day ultimatum",
@@ -12,6 +23,28 @@
       "sourceUrl": "https://www.newindianexpress.com/india/2026/Sep/20/cjp-questions-closure-of-826-uttarakhand-schools-gives-government-10-day-ultimatum",
       "publishedAt": "2026-09-20T17:04:23.000Z",
       "fetchedAt": "2026-09-20T17:32:03.975Z"
+    },
+    {
+      "id": "7a5f20ee3c6e5fbc",
+      "title": "Watch! Bhojpuri actress Kajal Raghwani mobbed, car attacked by crowd in Bihar - Mid-Day",
+      "summary": "Bhojpuri actress Kajal Raghwani was recently mobbed, and her car was attacked while visiting Bihar Sharif for an event. She later assured fans she is safe",
+      "category": "Entertainment",
+      "image": "https://images.mid-day.com/images/images/2026/sep/kajalbhojpuri-1789907684779_d.png",
+      "source": "Mid-Day",
+      "sourceUrl": "https://www.mid-day.com/amp/entertainment/regional-indian-cinema-news/article/bhojpuri-actress-kajal-raghwani-car-attacked-while-visiting-bihar-sharif-23650965",
+      "publishedAt": "2026-09-20T13:02:00.000Z",
+      "fetchedAt": "2026-09-20T16:50:35.549Z"
+    },
+    {
+      "id": "95835eb6cbf5ff33",
+      "title": "Police Warn Against Online Fraud After 'Rent Garba Partner' Posts Go Viral Ahead Of Navratri",
+      "summary": "The warning comes as Gujarat prepares for Navratri, when large-scale garba celebrations draw crowds across the state and social media activity around events and meet-ups increases.",
+      "category": "Crime & Breaking News",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/09/1-2026-09-20T222935.525-2026-09-ca64c9d91e7954f4acfcaf34debf69a2-1200x675.png",
+      "source": "News18",
+      "sourceUrl": "https://www.news18.com/amp/india/police-warn-against-online-fraud-after-rent-garba-partner-posts-go-viral-ahead-of-navratri-10342945.html",
+      "publishedAt": "2026-09-20T17:01:58.000Z",
+      "fetchedAt": "2026-09-20T17:43:35.058Z"
     },
     {
       "id": "4ca7e5f63ac4011f",
@@ -25,15 +58,15 @@
       "fetchedAt": "2026-09-20T16:52:11.037Z"
     },
     {
-      "id": "7a5f20ee3c6e5fbc",
-      "title": "Watch! Bhojpuri actress Kajal Raghwani mobbed, car attacked by crowd in Bihar - Mid-Day",
-      "summary": "Bhojpuri actress Kajal Raghwani was recently mobbed, and her car was attacked while visiting Bihar Sharif for an event. She later assured fans she is safe",
-      "category": "Entertainment",
-      "image": "https://images.mid-day.com/images/images/2026/sep/kajalbhojpuri-1789907684779_d.png",
-      "source": "Mid-Day",
-      "sourceUrl": "https://www.mid-day.com/amp/entertainment/regional-indian-cinema-news/article/bhojpuri-actress-kajal-raghwani-car-attacked-while-visiting-bihar-sharif-23650965",
-      "publishedAt": "2026-09-20T13:02:00.000Z",
-      "fetchedAt": "2026-09-20T16:50:35.549Z"
+      "id": "b0a7445d8fa7d0e5",
+      "title": "Bihar forms SIT to probe vehicle insurance fraud, tightens challan norms",
+      "summary": "The Bihar Police have taken a series of measures to curb insurance fraud and improve traffic enforcement, including the formation of a Special Investigation Team (SIT) under the Crime Investigation Department (CID) to probe suspected ‘vehicle implant’ scams, stricter norms for issuing traffic challans and a directive to release accident-hit…",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134368657,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/patna/bihar-forms-sit-to-probe-vehicle-insurance-fraud-tightens-challan-norms/articleshow/134368658.cms",
+      "publishedAt": "2026-09-20T12:47:00.000Z",
+      "fetchedAt": "2026-09-20T16:50:32.571Z"
     },
     {
       "id": "b13e4d492671894c",
@@ -58,17 +91,6 @@
       "fetchedAt": "2026-09-20T17:19:50.092Z"
     },
     {
-      "id": "b0a7445d8fa7d0e5",
-      "title": "Bihar forms SIT to probe vehicle insurance fraud, tightens challan norms",
-      "summary": "The Bihar Police have taken a series of measures to curb insurance fraud and improve traffic enforcement, including the formation of a Special Investigation Team (SIT) under the Crime Investigation Department (CID) to probe suspected ‘vehicle implant’ scams, stricter norms for issuing traffic challans and a directive to release accident-hit…",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134368657,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/patna/bihar-forms-sit-to-probe-vehicle-insurance-fraud-tightens-challan-norms/articleshow/134368658.cms",
-      "publishedAt": "2026-09-20T12:47:00.000Z",
-      "fetchedAt": "2026-09-20T16:50:32.571Z"
-    },
-    {
       "id": "b062304ce5392bf7",
       "title": "From Nepal to Jodhpur: 2 Lawrence gang shooters, carrying Rs 5 lakh reward each, arrested during hotel c",
       "summary": "Rajasthan Police's Anti-Gangster Task Force (AGTF) arrests two alleged sharpshooters linked to the Lawrence-Arzoo Bishnoi gang.AGTF Additional Director General of Police Dinesh M N says the two had allegedly come to Jodhpur to carry out a major crime.(Full… pic.twitter.com/JMANNzCnL9",
@@ -78,6 +100,17 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/city/jodhpur/from-nepal-to-jodhpur-2-lawrence-gang-shooters-carrying-rs-5-lakh-reward-each-arrested-during-hotel-check-in/articleshow/134371410.cms",
       "publishedAt": "2026-09-20T16:18:00.000Z",
       "fetchedAt": "2026-09-20T16:52:03.460Z"
+    },
+    {
+      "id": "a4bcee89cdfc8490",
+      "title": "Kangana Ranaut HITS BACK at people trolling Maithili Thakur for arriving in Rolls-Royce at Lalbaugcha Raj",
+      "summary": "Kangana Ranaut has come out in support of young singing talent and Bihar MLA Maithili Thakur, who was trolled for visiting Mumbai's Lalbaugcha Raja pandal in a luxury Rolls-Royce Cullinan. Kangana asked why critics feel hurt whenever politicians try to make their own lives better.",
+      "category": "Entertainment",
+      "image": "https://static.toiimg.com/thumb/msid-134367497,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-hits-back-at-people-trolling-maithili-thakur-for-arriving-in-rolls-royce-at-lalbaugcha-raja-some-people-a-start-to-burn/articleshow/134367439.cms",
+      "publishedAt": "2026-09-20T11:27:00.000Z",
+      "fetchedAt": "2026-09-20T11:39:40.819Z"
     },
     {
       "id": "5dc82b83d81ee720",
@@ -102,15 +135,15 @@
       "fetchedAt": "2026-09-20T17:04:56.625Z"
     },
     {
-      "id": "a4bcee89cdfc8490",
-      "title": "Kangana Ranaut HITS BACK at people trolling Maithili Thakur for arriving in Rolls-Royce at Lalbaugcha Raj",
-      "summary": "Kangana Ranaut has come out in support of young singing talent and Bihar MLA Maithili Thakur, who was trolled for visiting Mumbai's Lalbaugcha Raja pandal in a luxury Rolls-Royce Cullinan. Kangana asked why critics feel hurt whenever politicians try to make their own lives better.",
-      "category": "Entertainment",
-      "image": "https://static.toiimg.com/thumb/msid-134367497,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-hits-back-at-people-trolling-maithili-thakur-for-arriving-in-rolls-royce-at-lalbaugcha-raja-some-people-a-start-to-burn/articleshow/134367439.cms",
-      "publishedAt": "2026-09-20T11:27:00.000Z",
-      "fetchedAt": "2026-09-20T11:39:40.819Z"
+      "id": "f9be4fc84aef9acd",
+      "title": "Bihar govt's coffers empty, yet crores spent on PM Modi's birthday celebrations: Tejashwi Yadav",
+      "summary": "Tejashwi Yadav alleges state coffers are empty while crores are spent on Prime Minister Narendra Modi birthday celebrations, demanding immediate financial assistance for affected families.",
+      "category": "Politics & Government",
+      "image": "https://media.assettype.com/deccanherald%2F2026-09-20%2Feda931qt%2Fcollage-2026-09-20T161733.484.jpg?rect=0%2C0%2C1280%2C672&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
+      "source": "Deccan Herald",
+      "sourceUrl": "https://www.deccanherald.com/india/bihar/bihar-govts-coffers-empty-yet-crores-spent-on-pm-modis-birthday-celebrations-tejashwi-yadav-4152835",
+      "publishedAt": "2026-09-20T10:50:15.000Z",
+      "fetchedAt": "2026-09-20T11:26:08.570Z"
     },
     {
       "id": "cce0dae05b3c8b34",
@@ -135,15 +168,15 @@
       "fetchedAt": "2026-09-20T16:26:28.039Z"
     },
     {
-      "id": "f9be4fc84aef9acd",
-      "title": "Bihar govt's coffers empty, yet crores spent on PM Modi's birthday celebrations: Tejashwi Yadav",
-      "summary": "Tejashwi Yadav alleges state coffers are empty while crores are spent on Prime Minister Narendra Modi birthday celebrations, demanding immediate financial assistance for affected families.",
-      "category": "Politics & Government",
-      "image": "https://media.assettype.com/deccanherald%2F2026-09-20%2Feda931qt%2Fcollage-2026-09-20T161733.484.jpg?rect=0%2C0%2C1280%2C672&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
-      "source": "Deccan Herald",
-      "sourceUrl": "https://www.deccanherald.com/india/bihar/bihar-govts-coffers-empty-yet-crores-spent-on-pm-modis-birthday-celebrations-tejashwi-yadav-4152835",
-      "publishedAt": "2026-09-20T10:50:15.000Z",
-      "fetchedAt": "2026-09-20T11:26:08.570Z"
+      "id": "fd8bf5df45c97d56",
+      "title": "Bhojpuri actress Kajal Raghwani SAFE after fans chase her car, BREAK WINDOWS at Bihar Sharif showroom lau",
+      "summary": "View this post on Instagram A post shared by Kajal Sharda🦋 (@kajalraghwani)",
+      "category": "Entertainment",
+      "image": "https://static.toiimg.com/thumb/msid-134366552,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/bhojpuri/movies/news/bhojpuri-actress-kajal-raghwani-is-safe-after-fans-chase-her-car-break-windows-at-bihar-sharif-showroom-launch/articleshow/134366365.cms",
+      "publishedAt": "2026-09-20T10:14:00.000Z",
+      "fetchedAt": "2026-09-20T17:05:37.734Z"
     },
     {
       "id": "89c346c232d941c1",
@@ -168,17 +201,6 @@
       "fetchedAt": "2026-09-20T15:15:42.556Z"
     },
     {
-      "id": "fd8bf5df45c97d56",
-      "title": "Bhojpuri actress Kajal Raghwani SAFE after fans chase her car, BREAK WINDOWS at Bihar Sharif showroom lau",
-      "summary": "View this post on Instagram A post shared by Kajal Sharda🦋 (@kajalraghwani)",
-      "category": "Entertainment",
-      "image": "https://static.toiimg.com/thumb/msid-134366552,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/bhojpuri/movies/news/bhojpuri-actress-kajal-raghwani-is-safe-after-fans-chase-her-car-break-windows-at-bihar-sharif-showroom-launch/articleshow/134366365.cms",
-      "publishedAt": "2026-09-20T10:14:00.000Z",
-      "fetchedAt": "2026-09-20T17:05:37.734Z"
-    },
-    {
       "id": "2c5b23497ed0656d",
       "title": "Delhi Air Crisis, German Filter Cubes and Tech Innovations to Tackle Smog - India Today",
       "summary": "A special episode of 'Pollution Ka Solution' explores innovations designed to combat severe air pollution in Delhi's hotspots. The report highlights the German-engineered Filter Cube technology developed by Mann+Hummel and introduced in India through MRH Technologies Private Limited. According to MRH Technologies Director Rajan Handa, the solution uses forced air…",
@@ -188,6 +210,17 @@
       "sourceUrl": "https://www.indiatoday.in/technology/video/delhi-air-crisis-german-filter-cubes-and-tech-innovations-to-tackle-smog-ytvd-2999035-2026-09-20",
       "publishedAt": "2026-09-20T14:39:55.000Z",
       "fetchedAt": "2026-09-20T17:05:19.838Z"
+    },
+    {
+      "id": "5ff70aaff1a0df75",
+      "title": "From Digital Governance To AI Leadership Uttar Pradesh’s Next Growth Chapter",
+      "summary": "Uttar Pradesh is strengthening its journey towards becoming a leading digital and technology hub through progressive policies, robust infrastructure, and a strong focus on innovation, investment, and digital governance. Shri Alok Kumar, Principal Secretary, Department of IT & Electronics, Government of Uttar Pradesh, shares his insights on the State's technology…",
+      "category": "Technology",
+      "image": "https://egov.eletsonline.com/wp-content/uploads/2026/09/Shri-Alok-Kumar.jpg",
+      "source": "Elets eGov",
+      "sourceUrl": "https://egov.eletsonline.com/2026/09/from-digital-governance-to-ai-leadership-uttar-pradeshs-next-growth-chapter/",
+      "publishedAt": "2026-09-20T10:05:57.000Z",
+      "fetchedAt": "2026-09-20T17:44:06.701Z"
     },
     {
       "id": "0928b57567b164ca",
@@ -278,6 +311,17 @@
       "fetchedAt": "2026-09-20T14:34:59.148Z"
     },
     {
+      "id": "f4fe216c2872b8e8",
+      "title": "Hanuman Ansh Box Office Collection Day 45: Strong 7th Sunday Takes Film Closer To Rs 300 Cr India Net Milestone",
+      "summary": "Hanuman Ansh continues its impressive box office run on day 45, earning Rs 9.51 crore and taking its India net collection to Rs 267.64 crore.",
+      "category": "Entertainment",
+      "image": "https://imgs.etvbharat.com/etvbharat/prod-images/20-09-2026/1200-675-27674691-164-27674691-1789913586853.jpg",
+      "source": "ETV Bharat",
+      "sourceUrl": "https://www.etvbharat.com/en/entertainment/hanuman-ansh-box-office-collection-day-45-strong-7th-sunday-takes-film-closer-to-rs-300-cr-india-net-milestone-enn26092002782",
+      "publishedAt": "2026-09-20T14:25:53.000Z",
+      "fetchedAt": "2026-09-20T14:34:59.907Z"
+    },
+    {
       "id": "c8dee49868675da4",
       "title": "Jan Suraaj announces candidates for 5 Bihar Legislative Council seats",
       "summary": "Prashant Kishors Jan Suraaj is getting an early start on Bihars next electoral contest, naming candidates for five of the eight Legislative Council seats headed for polls. From backing a sitting MLC for another term to fielding a lawyer-turned-politician against a JD(U) heavyweight, Kishor is widening his partys footprint in…",
@@ -289,15 +333,37 @@
       "fetchedAt": "2026-09-20T16:50:31.296Z"
     },
     {
-      "id": "f4fe216c2872b8e8",
-      "title": "Hanuman Ansh Box Office Collection Day 45: Strong 7th Sunday Takes Film Closer To Rs 300 Cr India Net Milestone",
-      "summary": "Hanuman Ansh continues its impressive box office run on day 45, earning Rs 9.51 crore and taking its India net collection to Rs 267.64 crore.",
-      "category": "Entertainment",
-      "image": "https://imgs.etvbharat.com/etvbharat/prod-images/20-09-2026/1200-675-27674691-164-27674691-1789913586853.jpg",
-      "source": "ETV Bharat",
-      "sourceUrl": "https://www.etvbharat.com/en/entertainment/hanuman-ansh-box-office-collection-day-45-strong-7th-sunday-takes-film-closer-to-rs-300-cr-india-net-milestone-enn26092002782",
-      "publishedAt": "2026-09-20T14:25:53.000Z",
-      "fetchedAt": "2026-09-20T14:34:59.907Z"
+      "id": "fa6ff15bc6faaaf5",
+      "title": "NIA arrests two key accused in Rs 17.29 crore counterfeit currency racket via Saharanpur PNB chest",
+      "summary": "The National Investigation Agency has arrested two individuals in Saharanpur for their alleged involvement. These arrests are linked to the circulation of counterfeit currency notes through a Punjab National Bank chest. The agency previously apprehended two other key accused in this ongoing investigation. Authorities discovered counterfeit notes with a face…",
+      "category": "National & Trending News",
+      "image": "https://img.etimg.com/thumb/msid-134370172,width-1200,height-630,imgsize-48362,overlay-economictimes/articleshow.jpg",
+      "source": "The Economic Times",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/nia-arrests-two-key-accused-in-rs-17-29-crore-counterfeit-currency-racket-via-saharanpur-pnb-chest/articleshow/134370135.cms?from=mdr",
+      "publishedAt": "2026-09-20T14:22:10.000Z",
+      "fetchedAt": "2026-09-20T17:44:01.437Z"
+    },
+    {
+      "id": "7fc539d9c9a00ac0",
+      "title": "Indian Diaspora in SA: Partnering India's Tech Future",
+      "summary": "Rajya Sabha Deputy Chairman Harivansh Singh calls on Indian diaspora in South Africa to invest in India",
+      "category": "Technology",
+      "image": "https://im.rediff.com/news/2025/aug/11harivansh-singh.jpg?fr=money",
+      "source": "Rediff MoneyWiz",
+      "sourceUrl": "https://money.rediff.com/news/market/indian-diaspora-in-sa-partnering-india-s-tech-future/54682120260920",
+      "publishedAt": "2026-09-20T14:12:50.000Z",
+      "fetchedAt": "2026-09-20T17:43:50.686Z"
+    },
+    {
+      "id": "cfc13bb3c5844384",
+      "title": "Pakistan out of Asian Games after Sri Lanka cruise through to the final",
+      "summary": "Sri Lanka beat Pakistan by 8 wickets in the 2026 Asian Games women's semi-final. Athapaththu hit 83 not out to seal the win. Read more on CricTracker.",
+      "category": "Sports",
+      "image": "https://media.crictracker.com/media/attachments/1778926620139_Pakistan-Women's-Team.jpeg",
+      "source": "CricTracker",
+      "sourceUrl": "https://www.crictracker.com/cricket-news/pakistan-out-of-asian-games-after-sri-lanka-cruise-through-to-the-final/?amp=1",
+      "publishedAt": "2026-09-20T06:21:00.000Z",
+      "fetchedAt": "2026-09-20T17:44:05.824Z"
     }
   ]
 }
