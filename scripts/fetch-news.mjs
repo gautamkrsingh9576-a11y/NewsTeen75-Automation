@@ -381,7 +381,7 @@ function containsBiharLocation(article) {
     .toLowerCase();
 
   return BIHAR_TERMS.some((term) => {
-    const escaped = term.replace(/[-/\^$*+?.()|[\]{}]/g, "\\async function resolvePublisherUrl");
+    const escaped = term.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
     return new RegExp(`\\b${escaped}\\b`, "i").test(text);
   });
 }
