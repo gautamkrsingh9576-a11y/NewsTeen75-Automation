@@ -76,18 +76,25 @@ const CATEGORY_TRANSLATIONS = {
   },
 };
 
-async function translateToHindi(text = "") {
-  const cleanText = String(text || "").trim();
-  if (!cleanText) return "";
+async function translateArticleText(title = "", summary = "") {
+  const cleanTitle = String(title || "").trim();
+  const cleanSummary = String(summary || "").trim();
+
+  if (!cleanTitle && !cleanSummary) {
+    return { titleHi: "", summaryHi: "" };
+  }
+
+  const separator = "999999999";
+  const combined = [cleanTitle, separator, cleanSummary].join("\n");
 
   try {
     const controller = new AbortController();
-    const timeout = setTimeout(() => controller.abort(), 9000);
+    const timeout = setTimeout(() => controller.abort(), 12000);
 
     const url =
       "https://translate.googleapis.com/translate_a/single" +
       "?client=gtx&sl=en&tl=hi&dt=t&q=" +
-      encodeURIComponent(cleanText);
+      encodeURIComponent(combined);
 
     const response = await fetch(url, {
       signal: controller.signal,
@@ -99,18 +106,38 @@ async function translateToHindi(text = "") {
 
     clearTimeout(timeout);
 
-    if (!response.ok) return "";
+    if (!response.ok) {
+      return { titleHi: "", summaryHi: "" };
+    }
 
     const data = await response.json();
 
-    return Array.isArray(data?.[0])
+    const translated = Array.isArray(data?.[0])
       ? data[0]
           .map((segment) => (Array.isArray(segment) ? segment[0] || "" : ""))
           .join("")
           .trim()
       : "";
+
+    if (!translated) {
+      return { titleHi: "", summaryHi: "" };
+    }
+
+    const parts = translated.split(separator);
+
+    if (parts.length >= 2) {
+      return {
+        titleHi: parts[0].trim(),
+        summaryHi: parts.slice(1).join(separator).trim(),
+      };
+    }
+
+    return {
+      titleHi: translated,
+      summaryHi: "",
+    };
   } catch {
-    return "";
+    return { titleHi: "", summaryHi: "" };
   }
 }
 
@@ -133,8 +160,9 @@ function transliterateHindi(text = "") {
   };
 
   const matras = {
-    "ा": "aa", "ि": "i", "ी": "ee", "ु": "u", "ू": "oo",
+    "ा": "a", "ि": "i", "ी": "i", "ु": "u", "ू": "u",
     "ृ": "ri", "े": "e", "ै": "ai", "ो": "o", "ौ": "au",
+    "ॉ": "o", "ॅ": "e", "ॆ": "e", "ॊ": "o",
   };
 
   let result = "";
@@ -184,11 +212,8 @@ function transliterateHindi(text = "") {
   }
 
   return result
-    .replace(/aa/g, "a")
-    .replace(/ee/g, "i")
-    .replace(/oo/g, "u")
-    .replace(/a\b/g, "")
     .replace(/\s+/g, " ")
+    .replace(/a([,.;:!?])/g, "$1")
     .trim();
 }
 
@@ -197,12 +222,19 @@ async function ensureTranslations(article) {
 
   const next = { ...article };
 
-  if (!next.title_hi) {
-    next.title_hi = await translateToHindi(next.title || "");
-  }
+  if (!next.title_hi || !next.summary_hi) {
+    const translated = await translateArticleText(
+      next.title || "",
+      next.summary || ""
+    );
 
-  if (!next.summary_hi) {
-    next.summary_hi = await translateToHindi(next.summary || "");
+    if (!next.title_hi) {
+      next.title_hi = translated.titleHi || "";
+    }
+
+    if (!next.summary_hi) {
+      next.summary_hi = translated.summaryHi || "";
+    }
   }
 
   next.category_hi =
@@ -211,12 +243,14 @@ async function ensureTranslations(article) {
     next.category ||
     "";
 
-  if (!next.title_hinglish && next.title_hi) {
-    next.title_hinglish = transliterateHindi(next.title_hi);
-  }
+  if ((!next.title_hinglish || !next.summary_hinglish) && next.title_hi) {
+    if (!next.title_hinglish) {
+      next.title_hinglish = transliterateHindi(next.title_hi);
+    }
 
-  if (!next.summary_hinglish && next.summary_hi) {
-    next.summary_hinglish = transliterateHindi(next.summary_hi);
+    if (!next.summary_hinglish && next.summary_hi) {
+      next.summary_hinglish = transliterateHindi(next.summary_hi);
+    }
   }
 
   next.category_hinglish =
