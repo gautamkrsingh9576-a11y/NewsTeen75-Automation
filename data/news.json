@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-20T06:50:36.170Z",
+  "updatedAt": "2026-09-20T07:02:08.757Z",
   "count": 250,
   "articles": [
+    {
+      "id": "e4302298774470f8",
+      "title": "Asian Games: Suchika Tariyal assures India of historic maiden MMA medal, Rishabh Das reaches swimming final",
+      "summary": "Asian Games: Suchika Tariyal assures India of historic maiden MMA medal, Rishabh Das reaches swimming final. This update was reported by The Statesman. Open the original report for full context and any developing updates.",
+      "category": "Sports",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "The Statesman",
+      "sourceUrl": "https://www.thestatesman.com/sports/asian-games-suchika-tariyal-assures-india-of-historic-maiden-mma-medal-rishabh-das-reaches-swimming-final-1503640735.html",
+      "publishedAt": "2026-09-20T06:51:00.000Z",
+      "fetchedAt": "2026-09-20T07:02:02.815Z"
+    },
     {
       "id": "afb2ac96e43611a8",
       "title": "Eve-teased at 12, Asian Games history at 36: Suchika Tariyal's MMA fairytale",
@@ -45,6 +56,17 @@
       "sourceUrl": "https://www.india.com/business/india-japan-b35-bullet-train-indigenous-technology-mahsr-mumbai-ahmedabad-e10-series-indian-railways-bullet-train-irctc-bharat-train-control-system-8527849/",
       "publishedAt": "2026-09-20T06:19:38.000Z",
       "fetchedAt": "2026-09-20T06:34:29.569Z"
+    },
+    {
+      "id": "148197a431f99276",
+      "title": "India has the technology to end extreme hunger now. It’s a question of public will",
+      "summary": "India now has the technical capacity to actually eliminate mass poverty and extreme hunger within a generation. Does it want to?",
+      "category": "Technology",
+      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/10/Hunger-India.jpg",
+      "source": "ThePrint",
+      "sourceUrl": "https://theprint.in/opinion/india-technology-extreme-hunger-public-will/3047829/",
+      "publishedAt": "2026-09-20T06:15:07.000Z",
+      "fetchedAt": "2026-09-20T07:02:05.196Z"
     },
     {
       "id": "2851db92558533d2",
@@ -100,6 +122,17 @@
       "sourceUrl": "https://www.thehawk.in/news/sports/asian-games-suchika-tariyal-assures-india-of-historic-maiden-mma-medal",
       "publishedAt": "2026-09-20T05:30:44.000Z",
       "fetchedAt": "2026-09-20T05:54:49.574Z"
+    },
+    {
+      "id": "fc489cbe0a0c9257",
+      "title": "Govt moving towards deals with Israel, India on surveillance: Patwari",
+      "summary": "Referring to the Digital Security Act enacted by the previous government, he says the law had been used to justify checking the Facebook and WhatsApp messages of political figures and other people.",
+      "category": "Politics & Government",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/01/31/nasiruddin_patwary.png",
+      "source": "The Business Standard",
+      "sourceUrl": "https://www.tbsnews.net/bangladesh/politics/govt-moving-towards-deals-israel-india-surveillance-patwari-1545921",
+      "publishedAt": "2026-09-20T05:30:27.000Z",
+      "fetchedAt": "2026-09-20T07:02:00.352Z"
     },
     {
       "id": "4d5a93e3360318c5",
@@ -815,6 +848,17 @@
       "sourceUrl": "https://www.indiatoday.in/amp/sports/asian-games/story/asian-games-live-updates-september-20-india-shooting-teqball-badminton-hockey-results-2998608-2026-09-20",
       "publishedAt": "2026-09-19T23:30:03.000Z",
       "fetchedAt": "2026-09-19T23:44:56.798Z"
+    },
+    {
+      "id": "85d92e2977618425",
+      "title": "Why the global panic over AI is not a crisis over technology",
+      "summary": "Human beings are valuable because they are intelligent. That premise is quietly expiring.",
+      "category": "Technology",
+      "image": "https://static.toiimg.com/thumb/msid-134357204,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/home/sunday-times/all-that-matters/why-the-global-panic-over-ai-is-not-a-crisis-over-technology/articleshow/134357174.cms",
+      "publishedAt": "2026-09-19T23:30:00.000Z",
+      "fetchedAt": "2026-09-20T07:02:05.670Z"
     },
     {
       "id": "42374e1c6d61bf33",
@@ -2707,50 +2751,6 @@
       "sourceUrl": "https://newsonair.gov.in/deadlock-continues-in-tamil-nadu-over-govt-formation-as-mlas-of-vck-left-parties-meet-on-lending-support/",
       "publishedAt": "2026-09-19T11:25:09.000Z",
       "fetchedAt": "2026-09-19T12:24:39.157Z"
-    },
-    {
-      "id": "61786522851af01d",
-      "title": "‘Resident Evil’ registers Rs 3.02 crore Day 1 haul in India, biggest opening for franchise",
-      "summary": "‘Resident Evil’ registers Rs 3.02 crore Day 1 haul in India, biggest opening for franchise. This update was reported by telegraphindia.com. Open the original report for full context and any developing updates.",
-      "category": "Entertainment",
-      "image": "https://assets.telegraphindia.com/telegraph/2026/Sep/1789723120_resident-evil.jpg",
-      "source": "telegraphindia.com",
-      "sourceUrl": "https://www.telegraphindia.com/entertainment/resident-evil-registers-rs-3-02-crore-day-1-haul-in-india-biggest-opening-for-franchise/cid/2180705",
-      "publishedAt": "2026-09-19T11:22:13.000Z",
-      "fetchedAt": "2026-09-19T11:39:51.084Z"
-    },
-    {
-      "id": "61b4d02ffe2b3f48",
-      "title": "Finance Minister Wagle calls on Indian businessmen to expand investment in Nepal",
-      "summary": "Finance Minister Wagle calls on Indian businessmen to expand investment in Nepal. This update was reported by Nepalnews.com. Open the original report for full context and any developing updates.",
-      "category": "Business & Finance",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EBusiness%20%26amp%3B%20Finance%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "Nepalnews.com",
-      "sourceUrl": "https://english.nepalnews.com/s/business/finance-minister-wagle-calls-on-indian-businessmen-to-expand-investment-in-nepal/",
-      "publishedAt": "2026-09-19T11:19:22.000Z",
-      "fetchedAt": "2026-09-19T11:26:34.398Z"
-    },
-    {
-      "id": "19eee353c01c9992",
-      "title": "Delhi cop, wife found dead in Narela flat locked from inside: Police | India News",
-      "summary": "Police said that around 1pm, the Narela police station received a call regarding a house locked from inside | India News",
-      "category": "Crime & Breaking News",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/19/1600x900/logo/Deputy-commissioner-of-police--outer-north--Shobhi_1789816739985_H0hW.jpg",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/india-news/delhi-cop-wife-found-dead-in-narela-flat-locked-from-inside-police-101789816749172.html",
-      "publishedAt": "2026-09-19T11:19:08.000Z",
-      "fetchedAt": "2026-09-19T11:50:34.054Z"
-    },
-    {
-      "id": "5af266c1ef8a27bc",
-      "title": "Gemini hacked three companies in first known breakout by Google’s AI",
-      "summary": "Gemini hacked three companies in first known breakout by Google’s AI. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
-      "category": "Technology",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "The Indian Express",
-      "sourceUrl": "https://indianexpress.com/article/technology/artificial-intelligence/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-10885178/",
-      "publishedAt": "2026-09-19T11:18:40.000Z",
-      "fetchedAt": "2026-09-20T01:26:09.597Z"
     }
   ]
 }
