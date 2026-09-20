@@ -45,6 +45,189 @@ const BIHAR_TERMS = [
   "khagaria"
 ];
 
+const CATEGORY_TRANSLATIONS = {
+  "Politics & Government": {
+    hi: "राजनीति और सरकार",
+    hinglish: "Politics aur Government",
+  },
+  "Crime & Breaking News": {
+    hi: "अपराध और ब्रेकिंग न्यूज़",
+    hinglish: "Crime aur Breaking News",
+  },
+  Sports: {
+    hi: "खेल",
+    hinglish: "Sports",
+  },
+  Entertainment: {
+    hi: "मनोरंजन",
+    hinglish: "Entertainment",
+  },
+  Technology: {
+    hi: "टेक्नोलॉजी",
+    hinglish: "Technology",
+  },
+  "Business & Finance": {
+    hi: "बिज़नेस और फाइनेंस",
+    hinglish: "Business aur Finance",
+  },
+  "National & Trending News": {
+    hi: "राष्ट्रीय और ट्रेंडिंग न्यूज़",
+    hinglish: "National aur Trending News",
+  },
+};
+
+async function translateToHindi(text = "") {
+  const cleanText = String(text || "").trim();
+  if (!cleanText) return "";
+
+  try {
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), 9000);
+
+    const url =
+      "https://translate.googleapis.com/translate_a/single" +
+      "?client=gtx&sl=en&tl=hi&dt=t&q=" +
+      encodeURIComponent(cleanText);
+
+    const response = await fetch(url, {
+      signal: controller.signal,
+      headers: {
+        "user-agent": "Mozilla/5.0 NewsTeen75/1.0",
+        accept: "application/json,text/plain,*/*",
+      },
+    });
+
+    clearTimeout(timeout);
+
+    if (!response.ok) return "";
+
+    const data = await response.json();
+
+    return Array.isArray(data?.[0])
+      ? data[0]
+          .map((segment) => (Array.isArray(segment) ? segment[0] || "" : ""))
+          .join("")
+          .trim()
+      : "";
+  } catch {
+    return "";
+  }
+}
+
+function transliterateHindi(text = "") {
+  const vowels = {
+    "अ": "a", "आ": "aa", "इ": "i", "ई": "ee", "उ": "u", "ऊ": "oo",
+    "ऋ": "ri", "ए": "e", "ऐ": "ai", "ओ": "o", "औ": "au",
+  };
+
+  const consonants = {
+    "क": "k", "ख": "kh", "ग": "g", "घ": "gh", "ङ": "ng",
+    "च": "ch", "छ": "chh", "ज": "j", "झ": "jh", "ञ": "ny",
+    "ट": "t", "ठ": "th", "ड": "d", "ढ": "dh", "ण": "n",
+    "त": "t", "थ": "th", "द": "d", "ध": "dh", "न": "n",
+    "प": "p", "फ": "ph", "ब": "b", "भ": "bh", "म": "m",
+    "य": "y", "र": "r", "ल": "l", "व": "v", "श": "sh",
+    "ष": "sh", "स": "s", "ह": "h", "ळ": "l",
+    "क़": "q", "ख़": "kh", "ग़": "g", "ज़": "z", "ड़": "d",
+    "ढ़": "dh", "फ़": "f", "य़": "y",
+  };
+
+  const matras = {
+    "ा": "aa", "ि": "i", "ी": "ee", "ु": "u", "ू": "oo",
+    "ृ": "ri", "े": "e", "ै": "ai", "ो": "o", "ौ": "au",
+  };
+
+  let result = "";
+  const chars = Array.from(String(text || ""));
+
+  for (let i = 0; i < chars.length; i += 1) {
+    const char = chars[i];
+    const next = chars[i + 1];
+
+    if (vowels[char]) {
+      result += vowels[char];
+      continue;
+    }
+
+    if (consonants[char]) {
+      if (matras[next]) {
+        result += consonants[char] + matras[next];
+        i += 1;
+        continue;
+      }
+
+      if (next === "्") {
+        result += consonants[char];
+        i += 1;
+        continue;
+      }
+
+      result += consonants[char] + "a";
+      continue;
+    }
+
+    if (char === "ं" || char === "ँ") {
+      result += "n";
+      continue;
+    }
+
+    if (char === "ः") {
+      result += "h";
+      continue;
+    }
+
+    if (char === "़" || char === "्") {
+      continue;
+    }
+
+    result += char;
+  }
+
+  return result
+    .replace(/aa/g, "a")
+    .replace(/ee/g, "i")
+    .replace(/oo/g, "u")
+    .replace(/a\b/g, "")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+async function ensureTranslations(article) {
+  if (!article) return article;
+
+  const next = { ...article };
+
+  if (!next.title_hi) {
+    next.title_hi = await translateToHindi(next.title || "");
+  }
+
+  if (!next.summary_hi) {
+    next.summary_hi = await translateToHindi(next.summary || "");
+  }
+
+  next.category_hi =
+    next.category_hi ||
+    CATEGORY_TRANSLATIONS[next.category]?.hi ||
+    next.category ||
+    "";
+
+  if (!next.title_hinglish && next.title_hi) {
+    next.title_hinglish = transliterateHindi(next.title_hi);
+  }
+
+  if (!next.summary_hinglish && next.summary_hi) {
+    next.summary_hinglish = transliterateHindi(next.summary_hi);
+  }
+
+  next.category_hinglish =
+    next.category_hinglish ||
+    CATEGORY_TRANSLATIONS[next.category]?.hinglish ||
+    next.category ||
+    "";
+
+  return next;
+}
+
 function decodeEntities(value = "") {
   return value
     .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, "$1")
@@ -668,7 +851,13 @@ async function main() {
     MAX_ARTICLES
   );
 
-  const outputArticles = selected.map(stripInternalFields);
+  const translatedSelected = [];
+
+  for (const article of selected) {
+    translatedSelected.push(await ensureTranslations(article));
+  }
+
+  const outputArticles = translatedSelected.map(stripInternalFields);
 
   const previousComparable = previousArticles.map((article) => JSON.stringify(article));
   const nextComparable = outputArticles.map((article) => JSON.stringify(article));
