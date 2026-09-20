@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-20T07:44:56.523Z",
+  "updatedAt": "2026-09-20T07:56:35.696Z",
   "count": 250,
   "articles": [
+    {
+      "id": "2407fcb82fd43d98",
+      "title": "Digital Technology To Transform India’s Mining Sector.",
+      "summary": "Mumbai, Maharashtra, 20th of September, 2026 : Technology, artificial intelligence (AI), automation and reliable data are ushering in a new era of transformation in India’s mining and metals sector. At FICCI’s conference on “Digitalisation, AI, Automation and Technology Integration in Mining and Metals,” experts said that the adoption of technology…",
+      "category": "Technology",
+      "image": "https://www.tripurastarnews.com/wp-content/uploads/2026/09/IMG-20260920-WA0002.jpg",
+      "source": "TRIPURA STAR NEWS",
+      "sourceUrl": "https://www.tripurastarnews.com/digital-technology-to-transform-indias-mining-sector/",
+      "publishedAt": "2026-09-20T07:47:04.000Z",
+      "fetchedAt": "2026-09-20T07:56:33.173Z"
+    },
     {
       "id": "441f0bee719334d5",
       "title": "Indian Paddlers Secure Strong Start At Asian Games",
@@ -133,6 +144,17 @@
       "sourceUrl": "https://theprint.in/opinion/india-technology-extreme-hunger-public-will/3047829/",
       "publishedAt": "2026-09-20T06:15:07.000Z",
       "fetchedAt": "2026-09-20T07:02:05.196Z"
+    },
+    {
+      "id": "a18f1584150a6fd7",
+      "title": "Elavenil Valarivan narrowly misses out on gold, settles for women’s 10m air rifle silver at Asian Games 2",
+      "summary": "Elavenil Valarivan narrowly missed out on gold after producing a strong performance in the women’s 10m air rifle individual final at the Aichi-Nagoya Asian Games, settling for silver with a cumulative score of 252.4.",
+      "category": "Sports",
+      "image": "https://static.toiimg.com/thumb/msid-134364207,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/elavenil-valarivan-narrowly-misses-out-on-gold-settles-for-womens-10m-air-rifle-silver-at-asian-games-2026/articleshow/134364039.cms",
+      "publishedAt": "2026-09-20T06:15:00.000Z",
+      "fetchedAt": "2026-09-20T07:56:30.532Z"
     },
     {
       "id": "2851db92558533d2",
@@ -595,6 +617,17 @@
       "sourceUrl": "https://opengovasia.com/semicon-india-2026-highlights-indigenous-computing-and-skills-development/?c=us",
       "publishedAt": "2026-09-20T03:13:57.000Z",
       "fetchedAt": "2026-09-20T05:30:59.202Z"
+    },
+    {
+      "id": "fe00e70867eab30b",
+      "title": "Asian Games: Several Indian athletes await ceremonial kits, Tajinderpal Singh Toor episode raises questio",
+      "summary": "If the first controversy involving the Indian contingent at the Asian Games was expected to take time to surface, it did not. It came less than 24 hours before the opening ceremony.",
+      "category": "Sports",
+      "image": "https://static.toiimg.com/thumb/msid-134363066,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-several-indian-athletes-await-ceremonial-kits-tajinderpal-singh-toor-episode-raises-questions/articleshow/134362955.cms",
+      "publishedAt": "2026-09-20T03:13:00.000Z",
+      "fetchedAt": "2026-09-20T07:56:30.330Z"
     },
     {
       "id": "a4b3d3c70996e55a",
@@ -2718,39 +2751,6 @@
       "sourceUrl": "https://www.pib.gov.in/FactsheetDetails.aspx?Id=150907&reg=3&lang=3",
       "publishedAt": "2026-09-19T12:26:37.000Z",
       "fetchedAt": "2026-09-20T02:37:27.031Z"
-    },
-    {
-      "id": "5310b692ed205ffb",
-      "title": "Asian Games 2026 India Day 2 schedule: Cricket semifinal, hockey, and shooting headline 20th September for contingent | Hindustan Times",
-      "summary": "India face their first packed Asian Games 2026 day on September 20, with a cricket semifinal, hockey openers and&nbsp;",
-      "category": "Sports",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/19/1600x900/logo/PTI09-19-2026-000304A-0_1789819364785_hUet_1789819463597_4ciR_24746265-9c80-4040-bb3b-65d97c72edd9_sTfo.jpg",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/sports/others/asian-games-2026-india-day-2-schedule-cricket-semifinal-hockey-and-shooting-headline-20th-september-for-contingent-101789819091722.html",
-      "publishedAt": "2026-09-19T12:15:58.000Z",
-      "fetchedAt": "2026-09-19T12:42:04.890Z"
-    },
-    {
-      "id": "386b90ce32cd7eaa",
-      "title": "India wants to build chip companies, not just fabs. Here’s the funding challenge",
-      "summary": "India wants to build chip companies, not just fabs. Here’s the funding challenge. This update was reported by financialexpress.com. Open the original report for full context and any developing updates.",
-      "category": "Business & Finance",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EBusiness%20%26amp%3B%20Finance%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "financialexpress.com",
-      "sourceUrl": "https://www.financialexpress.com/business/industry/india-wants-to-build-chip-companies-not-just-fabrication-semiconductor-funding-challenge-private-startups-semicon-2-0-tape-out-srini-chinamilli-tessolve/4342847/",
-      "publishedAt": "2026-09-19T12:12:31.000Z",
-      "fetchedAt": "2026-09-19T17:36:57.410Z"
-    },
-    {
-      "id": "a41272cec42f8449",
-      "title": "Asian Games officially open in Nagoya as India eye repeat of Hangzhou success",
-      "summary": "Asian Games officially open in Nagoya as India eye repeat of Hangzhou success. This update was reported by The Statesman. Open the original report for full context and any developing updates.",
-      "category": "Sports",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "The Statesman",
-      "sourceUrl": "https://www.thestatesman.com/sports/asian-games-officially-open-in-nagoya-as-india-eye-repeat-of-hangzhou-success-1503640482.html",
-      "publishedAt": "2026-09-19T12:10:00.000Z",
-      "fetchedAt": "2026-09-19T12:54:49.038Z"
     }
   ]
 }
