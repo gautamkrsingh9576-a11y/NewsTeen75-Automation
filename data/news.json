@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T00:55:27.843Z",
+  "updatedAt": "2026-09-20T01:11:01.113Z",
   "count": 250,
   "articles": [
     {
@@ -2126,6 +2126,17 @@
       "fetchedAt": "2026-09-19T10:20:40.076Z"
     },
     {
+      "id": "daf88bbf37cf9c00",
+      "title": "Who is Karandeep Anand, Disney's newly-appointed chief technology officer",
+      "summary": "Karandeep Anand, who most recently served as CEO of Character.AI, is moving from the consumer AI industry to one of the world’s biggest entertainment companies after being appointed The Walt Disney Company’s new Chief Technology Officer.",
+      "category": "Technology",
+      "image": "https://static.toiimg.com/thumb/msid-134351723,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/who-is-karandeep-anand-disneys-newly-appointed-chief-technology-officer/articleshow/134351681.cms",
+      "publishedAt": "2026-09-19T10:01:00.000Z",
+      "fetchedAt": "2026-09-20T01:10:57.650Z"
+    },
+    {
       "id": "c277e02bd184e3d1",
       "title": "PM Modi inaugurates Micron Technology’s Semiconductor plant at Sanand in Gujarat",
       "summary": "PM Modi inaugurates Micron Technology’s Semiconductor plant at Sanand in Gujarat. This update was reported by News On AIR. Open the original report for full context and any developing updates.",
@@ -2740,17 +2751,6 @@
       "sourceUrl": "https://economictimes.indiatimes.com/tech/technology/fujifilm-bets-on-semiconductors-to-drive-india-growth-inks-pact-with-tata-electronics/articleshow/134350286.cms?UTM_Source=Google_Newsstand&UTM_Campaign=RSS_Feed&UTM_Medium=Referral",
       "publishedAt": "2026-09-19T07:56:55.000Z",
       "fetchedAt": "2026-09-19T08:13:39.184Z"
-    },
-    {
-      "id": "f2ca7e0b07aef8df",
-      "title": "Asian Games chaos hits India cricket team: Report",
-      "summary": "Indian women’s cricket team however has been staying in the accommodation proved by the IOA",
-      "category": "Sports",
-      "image": "https://assets.telegraphindia.com/telegraph/2026/Sep/1789804418_asiangames.jpg",
-      "source": "Telegraph India",
-      "sourceUrl": "https://www.telegraphindia.com/sports/cricket/asian-games-chaos-hits-india-cricket-team/cid/2180677",
-      "publishedAt": "2026-09-19T07:56:37.000Z",
-      "fetchedAt": "2026-09-19T12:54:48.731Z"
     }
   ]
 }
