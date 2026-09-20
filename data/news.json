@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-20T13:40:36.753Z",
+  "updatedAt": "2026-09-20T13:52:38.325Z",
   "count": 250,
   "articles": [
+    {
+      "id": "951823aa7fd47dce",
+      "title": "Asian Games Boxing: Tough draws await Lovlina, Narender and India's medal hopes",
+      "summary": "Indian boxers face challenging draws at the Asian Games, with Lovlina Borgohain and Narender Berwal beginning in the quarterfinals. Sakshi Chaudhary, Preeti Pawar and other medal hopefuls also face tough paths.",
+      "category": "Sports",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/indian-boxers-at-asian-games-2026-203249204-16x9_0.png?VersionId=PgMPCS6.xjfV9PSVOCSYLdoTv833FJ8o",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/amp/sports/asian-games/story/boxing-draw-asian-games-lovlina-borgohain-narender-full-schedule-2998998-2026-09-20",
+      "publishedAt": "2026-09-20T13:37:13.000Z",
+      "fetchedAt": "2026-09-20T13:52:32.785Z"
+    },
     {
       "id": "8d6217f4942017d7",
       "title": "Asian Games: Gold double in sight as India's kabaddi teams begin campaign",
@@ -56,6 +67,17 @@
       "sourceUrl": "https://money.rediff.com/news/market/asml-begins-india-ops-links-growth-to-tata-india-s-chip-ambition/54677120260920",
       "publishedAt": "2026-09-20T12:55:39.000Z",
       "fetchedAt": "2026-09-20T13:11:41.453Z"
+    },
+    {
+      "id": "52825086bbe8ebad",
+      "title": "'If you want to stop BJP, talk to us': Owaisi open to alliance ahead of UP polls, targets govt over govern",
+      "summary": "AIMIM chief Asaduddin Owaisi stated his party is ready to work with others to prevent a third BJP term. He invited like-minded parties for discussions, emphasizing no single party can stop the BJP alone. Owaisi highlighted AIMIM",
+      "category": "Politics & Government",
+      "image": "https://m.economictimes.com/thumb/width-1280,height-720,imgsize-24192,msid-134368917/if-you-want-to-stop-bjp-talk-to-us-owaisi-open-to-alliance-ahead-of-up-polls-targets-govt-over-governance-issues.jpg",
+      "source": "The Economic Times",
+      "sourceUrl": "https://m.economictimes.com/news/politics-and-nation/if-you-want-to-stop-bjp-talk-to-us-owaisi-open-to-alliance-ahead-of-up-polls-targets-govt-over-governance-issues/amp_articleshow/134368920.cms",
+      "publishedAt": "2026-09-20T12:55:00.000Z",
+      "fetchedAt": "2026-09-20T13:52:29.027Z"
     },
     {
       "id": "0ddd1908e74b3a55",
@@ -133,6 +155,17 @@
       "sourceUrl": "https://www.deccanchronicle.com/sports/indias-mma-fighter-sanyal-passes-out-due-to-exhaustion-withdraws-from-asian-games-1989027",
       "publishedAt": "2026-09-20T12:10:49.000Z",
       "fetchedAt": "2026-09-20T12:24:43.719Z"
+    },
+    {
+      "id": "c266cdb6822fdce5",
+      "title": "Epitome of badtameezi: Salman pulls up Aasif Khan for calling Bigg Boss 'biased'",
+      "summary": "Salman Khan rebuked Aasif Khan on Weekend Ka Vaar after he accused Bigg Boss 20 of bias and turned aggressive in the house. The confrontation widened to other contestants, ended with Aasif in tears, and underlined the show's stand that all housemates are treated equally.",
+      "category": "Entertainment",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/salman-khan--aasif-khan-200610186-16x9_0.jpg?VersionId=koFUdyWeWbW8Fg0s52d3GhIivB4qrIVf",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/entertainment/television/story/salman-khan-aasif-khan-bigg-boss-20-bias-claims-aggression-weekend-ka-vaar-2998931-2026-09-20",
+      "publishedAt": "2026-09-20T12:10:15.000Z",
+      "fetchedAt": "2026-09-20T13:52:33.335Z"
     },
     {
       "id": "d54a81c2e37d11a0",
@@ -2247,6 +2280,17 @@
       "fetchedAt": "2026-09-20T02:05:43.327Z"
     },
     {
+      "id": "24cb10d21bcffd16",
+      "title": "‘Gem Granite’ Veeramani — a stone cold perpetrator",
+      "summary": "‘Gem Granite’ Veeramani faces investigation for paedophilia amid shocking allegations and emerging evidence of a broader abuse network.",
+      "category": "National & Trending News",
+      "image": "https://th-i.thgim.com/public/incoming/ue0pj7/article71487301.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-09-20%20at%2012.37.15.jpeg",
+      "source": "The Hindu",
+      "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/a-stone-coldperpetrator-gem-granite-veeramani/article71485725.ece",
+      "publishedAt": "2026-09-20T00:00:00.000Z",
+      "fetchedAt": "2026-09-20T13:52:38.024Z"
+    },
+    {
       "id": "a547b1c6c3242b69",
       "title": "Bilibili, 'China's YouTube', draws Indian creators despite no India launch, as India-China ties thaw and Y",
       "summary": "Bilibili, 'China's YouTube', draws Indian creators despite no India launch, as India-China ties thaw and Y. This update was reported by The Economic Times. Open the original report for full context and any developing updates.",
@@ -2707,50 +2751,6 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/city/nagpur/uhpfrc-monopile-technology-used-in-indora-dighori-flyover-gadkari/articleshow/134359719.cms",
       "publishedAt": "2026-09-19T18:58:00.000Z",
       "fetchedAt": "2026-09-19T20:32:31.077Z"
-    },
-    {
-      "id": "eb38d2e17c8b6fdb",
-      "title": "India Lose No. 1 T20I Ranking Despite 3-0 Sweep Of Afghanistan. New Leader Revealed",
-      "summary": "England returned to the summit of the T20 world rankings, surpassing India, with another thumping of Sri Lanka to complete a 3-0 series whitewash in Manchester on Saturday.",
-      "category": "Sports",
-      "image": "https://c.ndtvimg.com/2026-07/ofgtnf04_team-india-bcci_625x300_24_July_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "source": "NDTV Sports",
-      "sourceUrl": "https://sports.ndtv.com/cricket/india-lose-no-1-t20i-ranking-despite-3-0-sweep-of-afghanistan-new-leader-revealed-12069988",
-      "publishedAt": "2026-09-19T18:49:01.000Z",
-      "fetchedAt": "2026-09-19T20:32:24.997Z"
-    },
-    {
-      "id": "6a186671fafd1c0f",
-      "title": "Kathmandu-Bound Air India Flight Returns To Delhi Over Suspected Tech Issue",
-      "summary": "Kathmandu-Bound Air India Flight Returns To Delhi Over Suspected Tech Issue. This update was reported by NDTV. Open the original report for full context and any developing updates.",
-      "category": "Technology",
-      "image": "https://c.ndtvimg.com/2025-07/10aofjvk_boeing-787-dreamliner_625x300_31_July_25.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "source": "NDTV",
-      "sourceUrl": "https://www.ndtv.com/india-news/kathmandu-bound-air-india-flight-returns-to-delhi-over-suspected-tech-issue-12070207",
-      "publishedAt": "2026-09-19T18:45:38.000Z",
-      "fetchedAt": "2026-09-19T22:17:22.976Z"
-    },
-    {
-      "id": "e97110ba75878c40",
-      "title": "Salman shreds trolls mocking Katrina's post-pregnancy weight, calls them parasites",
-      "summary": "Salman Khan confronted Scout and blasted trolling during Bigg Boss 20's Weekend Ka Vaar. His sharp reaction turned a contestant dressing-down into a wider swipe at online cruelty.",
-      "category": "Entertainment",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/salman-khan-193221477-16x9_0.jpeg?VersionId=kVkCuJ9_H5rj6Poop3yWF4LD2.YQxRFG",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/entertainment/television/story/salman-khan-shreds-trolls-bigg-boss-20-mocking-katrina-kaif-post-pregnancy-weight-calls-them-parasites-2998534-2026-09-20",
-      "publishedAt": "2026-09-19T18:42:07.000Z",
-      "fetchedAt": "2026-09-19T18:47:30.596Z"
-    },
-    {
-      "id": "2a5c69aaa5492332",
-      "title": "India's Asian Games 2026 schedule today, September 20: Cricket semi-final in focus; shooting, teqball and wushu medals on offer",
-      "summary": "India's Asian Games 2026 schedule for today, Sunday, September 20, features cricket and medal events in shooting, teqball and wushu. Know schedule and match start times.",
-      "category": "Sports",
-      "image": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/f8xx6uoxhl5zgrx6ukk5",
-      "source": "olympics.com",
-      "sourceUrl": "https://www.olympics.com/en/news/asian-games-2026-india-schedule-today-september-20-sunday",
-      "publishedAt": "2026-09-19T18:35:00.000Z",
-      "fetchedAt": "2026-09-20T08:29:15.379Z"
     }
   ]
 }
