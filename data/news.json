@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-20T01:52:16.063Z",
+  "updatedAt": "2026-09-20T02:05:48.513Z",
   "count": 250,
   "articles": [
+    {
+      "id": "6a11b61ee6a48154",
+      "title": "100-plus medals again? That's only half the game for India at Asian Games 2026",
+      "summary": "Asian Games 2026: India enters Aichi-Nagoya chasing another 100-plus medal haul, but with 310 debutants out of their 501-strong contingent, these Games are also about building the team that will carry the country towards 2028 and beyond.",
+      "category": "Sports",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/india-at-asian-games-2026-205335974-16x9_0.png?VersionId=YU8df_BTxhBx1AANz6QBf4.ivMexeBzW",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/sports/asian-games/story/india-asian-games-2026-medal-target-key-sports-gold-medal-contenders-2998626-2026-09-20",
+      "publishedAt": "2026-09-20T01:54:35.000Z",
+      "fetchedAt": "2026-09-20T02:05:39.144Z"
+    },
     {
       "id": "27e73bff561b958b",
       "title": "Odisha Sets Sights on Eastern India Tech Leadership with 870-Acre Silicon Valley at Naraj |",
@@ -78,6 +89,17 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/mirzapur-the-movie-box-office-collection-day-16-pankaj-tripathi-and-ali-fazal-starrer-records-63-6-growth-earns-rs-4-50-cr-on-saturday-india-gross-reaches-rs-250-94-cr/articleshow/134362509.cms",
       "publishedAt": "2026-09-20T00:38:00.000Z",
       "fetchedAt": "2026-09-20T00:55:23.310Z"
+    },
+    {
+      "id": "75a3e42c51a1473b",
+      "title": "Indian Buyers Put Picture Quality, Energy Efficiency At Top Of Tech Shopping List",
+      "summary": "Indian Buyers Put Picture Quality, Energy Efficiency At Top Of Tech Shopping List. This update was reported by BW Businessworld. Open the original report for full context and any developing updates.",
+      "category": "Technology",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "BW Businessworld",
+      "sourceUrl": "https://www.businessworld.in/article/indian-buyers-put-picture-quality-energy-efficiency-at-top-of-tech-shopping-list-623791",
+      "publishedAt": "2026-09-20T00:26:56.000Z",
+      "fetchedAt": "2026-09-20T02:05:43.327Z"
     },
     {
       "id": "a547b1c6c3242b69",
@@ -452,6 +474,17 @@
       "sourceUrl": "https://www.millenniumpost.in/nation/india-needs-a-tech-led-mining-sector-jitendra-676631",
       "publishedAt": "2026-09-19T18:32:56.000Z",
       "fetchedAt": "2026-09-19T20:17:58.181Z"
+    },
+    {
+      "id": "e76cd185a4b03655",
+      "title": "Tulu steps into the spotlight",
+      "summary": "For a language that has been spoken along Karnataka’s coast for centuries, Tulu’s latest milestone marks a significant new chapter. The Karnataka Cabinet has accorded Tulu the status of the state’s second additional official language in Dakshina Kannada and Udupi, fulfilling a long-standing demand for greater recognition of the language.",
+      "category": "Entertainment",
+      "image": "https://static.toiimg.com/thumb/msid-134352977,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/events/bangalore/tulu-steps-into-the-spotlight/articleshow/134352931.cms",
+      "publishedAt": "2026-09-19T18:30:00.000Z",
+      "fetchedAt": "2026-09-20T02:05:42.038Z"
     },
     {
       "id": "41f94695b0990598",
@@ -2718,39 +2751,6 @@
       "sourceUrl": "https://www.wionews.com/entertainment/bts-arirang-tickets-go-live-in-india-check-dates-for-buenos-aires-s-o-paulo-screenings-1789719642552",
       "publishedAt": "2026-09-19T08:39:25.000Z",
       "fetchedAt": "2026-09-19T10:34:08.396Z"
-    },
-    {
-      "id": "8deaee9aa7957614",
-      "title": "Nduka joins Sporting Club Delhi in India — Premium Times Nigeria",
-      "summary": "Former Remo Stars captain Junior Nduka has joined India’s Sporting Club Delhi after a season in the Iraqi league, Premium Times Nigeria reports.",
-      "category": "Sports",
-      "image": "https://cdn-cabinet.ua.news/uploads/images/junior_nduka_joined_sporting_club_delhi_1789806299868.webp",
-      "source": "UA.NEWS",
-      "sourceUrl": "https://ua.news/en/sport/nduka-pereishov-do-sporting-club-delhi-v-indiyi-premium-times-nigeria",
-      "publishedAt": "2026-09-19T08:31:48.000Z",
-      "fetchedAt": "2026-09-19T08:44:04.243Z"
-    },
-    {
-      "id": "946d23cf3541e549",
-      "title": "Indian teams in action at FIDE Chess Olympiad; Quimcy Dsouza goes down in Asian Games Teqball semifinal: Indian Sports LIVE, September 19",
-      "summary": "Indian teams in action at FIDE Chess Olympiad; Quimcy Dsouza goes down in Asian Games Teqball semifinal: Indian Sports LIVE, September 19. This update was reported by ESPN India. Open the original report for full context and any developing updates.",
-      "category": "Sports",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "ESPN India",
-      "sourceUrl": "https://www.espn.in/espn/story/_/id/49974109/indian-teams-action-fide-chess-olympiad-quimcy-dsouza-asian-games-teqball-semifinal-indian-sports-live-september-19",
-      "publishedAt": "2026-09-19T08:30:47.000Z",
-      "fetchedAt": "2026-09-19T10:20:38.154Z"
-    },
-    {
-      "id": "8362b2d7c9a74928",
-      "title": "Delhi gang-rape: Chargesheet in a week, 3 juveniles to face adult trial, say cops | India News",
-      "summary": "Delhi gang-rape: Chargesheet in a week, 3 juveniles to face adult trial, say cops | India News. This update was reported by Hindustan Times. Open the original report for full context and any developing updates.",
-      "category": "Crime & Breaking News",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/19/1600x900/logo/The-four-allegedly-gang-raped-the-girl-in-the-earl_1789806297945_5ePT.jpg",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/india-news/delhi-gang-rape-chargesheet-in-a-week-3-juveniles-to-face-adult-trial-say-cops-101789806305209-amp.html",
-      "publishedAt": "2026-09-19T08:25:04.000Z",
-      "fetchedAt": "2026-09-19T12:42:03.048Z"
     }
   ]
 }
