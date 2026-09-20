@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-20T08:54:52.518Z",
+  "updatedAt": "2026-09-20T09:10:40.663Z",
   "count": 250,
   "articles": [
+    {
+      "id": "1cde8ff5af65bce7",
+      "title": "Union Sports Minister Mandaviya leads Indian diaspora at Sundays on Cycle in Nagoya to Cheer for Bharat",
+      "summary": "The initiative reflected the Government of Indias continued efforts to strengthen people-to-people connect with the Indian diaspora through the universal language of sports, while reinforcing the message of fitness and healthy living under the Fit India Movement, as per a press release from the Union Sports Ministry.",
+      "category": "Sports",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYThmNzJlM2QwLWI0Y2UtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
+      "source": "The Tribune",
+      "sourceUrl": "https://www.tribuneindia.com/news/sports/union-sports-minister-mandaviya-leads-indian-diaspora-at-sundays-on-cycle-in-nagoya-to-cheer-for-bharat/",
+      "publishedAt": "2026-09-20T08:37:42.000Z",
+      "fetchedAt": "2026-09-20T09:10:31.981Z"
+    },
     {
       "id": "aad5e4a44cd869ad",
       "title": "Nora Fatehi reveals why she joined Bigg Boss 9 as wild card contestant after initially rejecting it: ‘I wante",
@@ -12,6 +23,17 @@
       "sourceUrl": "https://www.india.com/entertainment/bollywood/nora-fatehi-reveals-why-she-joined-bigg-boss-9-as-wild-card-contestant-after-initially-rejecting-it-8527950/amp/",
       "publishedAt": "2026-09-20T08:33:13.000Z",
       "fetchedAt": "2026-09-20T08:44:01.831Z"
+    },
+    {
+      "id": "dcce2209d86b1de9",
+      "title": "Asian Games: Shafali’s historic century helps India storm into gold medal match",
+      "summary": "Asian Games 2026: Shafali Verma smashed a record 49-ball century as India thrashed Bangladesh in the semi-final by 114 runs on Sunday. India will take on Sri Lanka in the gold medal match on Tuesday.",
+      "category": "Sports",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/shafali-verma-203132491-16x9_0.jpg?VersionId=16Jg4lJr2te3i2f8A__XmzYqdEOKl4TW",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/sports/asian-games/story/asian-games-india-vs-bangladesh-womens-cricket-semifinal-shafali-verma-2998773-2026-09-20",
+      "publishedAt": "2026-09-20T08:32:29.000Z",
+      "fetchedAt": "2026-09-20T09:10:30.173Z"
     },
     {
       "id": "18baec66e6822262",
@@ -91,6 +113,17 @@
       "fetchedAt": "2026-09-20T08:29:15.807Z"
     },
     {
+      "id": "b0326f130b24bf73",
+      "title": "JP Morgan appoints Ravi Reddi as India M&A Head",
+      "summary": "Reddi, an alumnus of The University of Chicago Booth School of Business and IIT Kanpur, joins the India team after a long stint in JP Morgan’s US M&A team",
+      "category": "Business & Finance",
+      "image": "https://images.moneycontrol.com/static-mcnews/2025/12/20251223034529_JPMorgan-Chase-_-Bloomberg.jpg",
+      "source": "Moneycontrol.com",
+      "sourceUrl": "https://www.moneycontrol.com/news/business/companies/jp-morgan-appoints-ravi-reddi-as-india-m-a-head-14033794.html/amp",
+      "publishedAt": "2026-09-20T08:03:37.000Z",
+      "fetchedAt": "2026-09-20T09:10:35.955Z"
+    },
+    {
       "id": "2407fcb82fd43d98",
       "title": "Digital Technology To Transform India’s Mining Sector.",
       "summary": "Mumbai, Maharashtra, 20th of September, 2026 : Technology, artificial intelligence (AI), automation and reliable data are ushering in a new era of transformation in India’s mining and metals sector. At FICCI’s conference on “Digitalisation, AI, Automation and Technology Integration in Mining and Metals,” experts said that the adoption of technology…",
@@ -146,6 +179,17 @@
       "fetchedAt": "2026-09-20T08:54:46.846Z"
     },
     {
+      "id": "6bda45443420f234",
+      "title": "‘Gondhal’ to represent India at Oscars 2027: Know all about Marathi film’s plot, cast, box office, rating",
+      "summary": "The Times of India brings the Latest & Top Breaking News on Politics and Current Affairs in India & around the World, Cricket, Sports, Business, Bollywood News and Entertainment, Science, Technology, Health & Fitness news & opinions from leading columnists.",
+      "category": "Entertainment",
+      "image": "https://static.toiimg.com/thumb/msid-134364995,width-1280,height-720,imgsize-464332,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/marathi/gondhal-to-represent-india-at-oscars-2027-know-all-about-marathi-films-plot-cast-box-office-ratings-and-crew/amp_articleshow/134364985.cms",
+      "publishedAt": "2026-09-20T07:24:00.000Z",
+      "fetchedAt": "2026-09-20T09:10:32.811Z"
+    },
+    {
       "id": "441f0bee719334d5",
       "title": "Indian Paddlers Secure Strong Start At Asian Games",
       "summary": "Indian Paddlers Secure Strong Start At Asian Games. This update was reported by Rediff. Open the original report for full context and any developing updates.",
@@ -177,6 +221,17 @@
       "sourceUrl": "https://www.alcircle.com/news/caterpillar-launches-cat-355-hydraulic-excavator-cat-d5-dozer-and-cat-120-gc-motor-grader-at-bauma-conexpo-india-2026-121216",
       "publishedAt": "2026-09-20T07:14:00.000Z",
       "fetchedAt": "2026-09-20T07:44:54.061Z"
+    },
+    {
+      "id": "7b95720168f81f8b",
+      "title": "India faces worst rain deficit in 17 years as monsoon begins withdrawal from Rajasthan",
+      "summary": "The southwest monsoon has begun withdrawing from West Rajasthan as India faces a ~15% national rainfall deficit, raising concerns over crop stress and the worst drought conditions in 17 years.",
+      "category": "National & Trending News",
+      "image": "https://cdn1.wionews.com/prod/wion/images/2026/20260920/image-1789887716260.png?imwidth=1200&imheight=900",
+      "source": "WION",
+      "sourceUrl": "https://www.wionews.com/india-news/india-faces-worst-rain-deficit-in-17-years-as-monsoon-begins-withdrawal-from-rajasthan-1789885306515",
+      "publishedAt": "2026-09-20T07:09:55.000Z",
+      "fetchedAt": "2026-09-20T09:10:36.823Z"
     },
     {
       "id": "efbdc2e3eeec139c",
@@ -342,6 +397,17 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/elavenil-valarivan-narrowly-misses-out-on-gold-settles-for-womens-10m-air-rifle-silver-at-asian-games-2026/articleshow/134364039.cms",
       "publishedAt": "2026-09-20T06:15:00.000Z",
       "fetchedAt": "2026-09-20T07:56:30.532Z"
+    },
+    {
+      "id": "e207f010bef38fda",
+      "title": "AU Small Finance Bank’s Wheels Business crosses ₹50,000 Crore AUM, Powering Three Decades of Mobility and Entrepreneurship",
+      "summary": "&nbsp;Mumbai | AU Small Finance Bank (AU SFB), India's largest Small Finance Bank and the first in over a decade to receive RBI's in-principle approval to trans",
+      "category": "Business & Finance",
+      "image": "https://cf-images.assettype.com/metrovaartha-en%2F2026-09-20%2Fbljlugmj%2Fau.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "Metro Vaartha",
+      "sourceUrl": "https://english.metrovaartha.com/amp/story/economy/au-small-finance-banks-wheels-business-crosses-50000-crore-aum-powering-three-decades-of-mobility-and-entrepreneurship",
+      "publishedAt": "2026-09-20T06:13:53.000Z",
+      "fetchedAt": "2026-09-20T09:10:34.770Z"
     },
     {
       "id": "2851db92558533d2",
@@ -1398,6 +1464,17 @@
       "sourceUrl": "https://www.goal.com/en-in/news/watch-carabao-cup-football/bltfdfc260338a11ca3",
       "publishedAt": "2026-09-19T20:19:36.000Z",
       "fetchedAt": "2026-09-19T21:25:00.321Z"
+    },
+    {
+      "id": "bf4c65f5c510d105",
+      "title": "Dark reality: Night-time violence surges in Kochi",
+      "summary": "Behind Kochi’s growing nightlife lies a darker reality: a sharp rise in assaults that authorities are struggling to control. The latest in a recent spree of night-time violence left a youngster in Aluva with fractured ribs and broken bones last Sunday.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134360229,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/kochi/dark-reality-night-time-violence-surges-in-kochi/articleshow/134360231.cms",
+      "publishedAt": "2026-09-19T20:09:00.000Z",
+      "fetchedAt": "2026-09-20T09:10:29.368Z"
     },
     {
       "id": "637e9ca4dc5e22dc",
@@ -2674,83 +2751,6 @@
       "sourceUrl": "https://www.expresscomputer.in/news/taped-out-on-republic-day-working-by-independence-day-india-unveils-its-first-home-designed-broadband-chip-vihaan-i/138906/",
       "publishedAt": "2026-09-19T14:18:06.000Z",
       "fetchedAt": "2026-09-19T15:38:46.125Z"
-    },
-    {
-      "id": "a8c2b329b299dd7b",
-      "title": "A different kind of politics?",
-      "summary": "As the Satheesan government completes four months in the saddle, the difference is palpable in Thiruvananthapuram",
-      "category": "Politics & Government",
-      "image": "https://cf-images.assettype.com/nationalherald%2F2026-09-19%2Fmtjf7341%2FSatheesan.jpg?rect=0%2C0%2C1280%2C672&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "source": "National Herald",
-      "sourceUrl": "https://www.nationalheraldindia.com/amp/story/opinion/a-different-kind-of-politics",
-      "publishedAt": "2026-09-19T14:14:01.000Z",
-      "fetchedAt": "2026-09-19T17:48:02.712Z"
-    },
-    {
-      "id": "3b030131ed6e498b",
-      "title": "Trump got appeasement, India suffered humiliation: Congress on H-1B visa-fee renewal",
-      "summary": "The Congress accused the Narendra Modi government of appeasing US President Donald Trump after the White House extended the USD 100,000 H-1B visa payment requirement for certain petitions by 12 months. The party said the move would affect Indian IT professionals, students and job opportunities. Trump has also ordered tighter…",
-      "category": "Politics & Government",
-      "image": "https://m.economictimes.com/thumb/width-1280,height-720,imgsize-63842,msid-134355696/congresss-pawan-khera-flags-impact-of-extended-h-1b-visa-fee-says-indian-it-professionals-may-face-challenges.jpg",
-      "source": "The Economic Times",
-      "sourceUrl": "https://m.economictimes.com/news/politics-and-nation/trump-got-appeasement-india-suffered-humiliation-congress-on-h-1b-visa-fee-renewal/amp_articleshow/134355629.cms",
-      "publishedAt": "2026-09-19T14:11:00.000Z",
-      "fetchedAt": "2026-09-19T16:32:48.526Z"
-    },
-    {
-      "id": "b8a194f99468ca7b",
-      "title": "A Leap Forward in Indigenous Breeding: ICAR–IVRI’s Breakthrough in Producing Sahiwal Calves through Advanced Reproductive Technologies",
-      "summary": "A Leap Forward in Indigenous Breeding: ICAR–IVRI’s Breakthrough in Producing Sahiwal Calves through Advanced Reproductive Technologies - In a significant stride for India’s livestock science, the ICAR–Indian Veterinary Research Institute, Izatnagar, Bareilly has achieved a landmark breakthrough successfully producing indigenous Sahiwal cattle calves using advanced Assisted Reproductive Technologies. This accomplishment…",
-      "category": "Technology",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "Indian Council Of Agricultural Research",
-      "sourceUrl": "https://icar.org.in/en/leap-forward-indigenous-breeding-icar-ivris-breakthrough-producing-sahiwal-calves-through-advanced",
-      "publishedAt": "2026-09-19T13:56:45.000Z",
-      "fetchedAt": "2026-09-20T06:34:28.999Z"
-    },
-    {
-      "id": "11a543fc36c1e4ee",
-      "title": "TVK govt gets a warning from ally CPI(M) over new Secretariat near Marina Beach, says it will 'stop work'",
-      "summary": "Tamil Nadu Secretariat: CPIM protests against the proposed government complex near Marina Beach, citing environmental concerns and livelihood threats for local fisherfolk in Chennai.",
-      "category": "Politics & Government",
-      "image": "https://media.assettype.com/deccanherald%2F2026-05-09%2F6zfe0kin%2Ffile85rce0i6t04k4nn0hxa.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
-      "source": "Deccan Herald",
-      "sourceUrl": "https://www.deccanherald.com/india/tamil-nadu/tvk-govt-gets-a-warning-from-ally-cpim-over-new-secretariat-near-marina-beach-says-it-will-stop-work-4152082",
-      "publishedAt": "2026-09-19T13:50:37.000Z",
-      "fetchedAt": "2026-09-19T14:32:05.094Z"
-    },
-    {
-      "id": "108144385bfbef64",
-      "title": "DAIS, NMAJS Host National ISSO Football, Judo And Taekwondo Championships",
-      "summary": "DAIS and NMAJS are hosting the ISSO Football, Judo and Taekwondo Championships, bringing together more than 1,000 student-athletes from 145 international schools across 31 cities.",
-      "category": "National & Trending News",
-      "image": "https://images.news18.com/ibnlive/uploads/2026/09/DAIS-NMAJS-Host-National-ISSO-Football-Judo-And-Taekwondo-Championships-2026-09-b7ee6658332144438071f6258c910963-1200x675.jpg",
-      "source": "News18",
-      "sourceUrl": "https://www.news18.com/amp/sports/other-sports/dais-nmajs-host-national-isso-football-judo-and-taekwondo-championships-ws-l-10341479.html",
-      "publishedAt": "2026-09-19T13:48:42.000Z",
-      "fetchedAt": "2026-09-19T14:18:22.347Z"
-    },
-    {
-      "id": "c217488783f1cb6e",
-      "title": "PM Modi Extends Best Wishes To Indian Athletes At Asian Games",
-      "summary": "Prime Minister Narendra Modi conveyed his best wishes to the Indian contingent participating in the Asian Games in Aichi-Nagoya.",
-      "category": "Sports",
-      "image": "https://im.rediff.com/1200-630/sports/2026/sep/19india-tt-asian-games.jpg",
-      "source": "rediff.com",
-      "sourceUrl": "https://m.rediff.com/amp/sports/report/pm-modi-extends-best-wishes-to-indian-contingent-at-asian-games/20260919.htm",
-      "publishedAt": "2026-09-19T13:47:26.000Z",
-      "fetchedAt": "2026-09-19T15:10:29.176Z"
-    },
-    {
-      "id": "86337bd5cc46c9c0",
-      "title": "Madhya Pradesh govt 'terrified' of 'Chhatron ki Goonj': Congress ahead of Rahul Gandhi's Indore event",
-      "summary": "MP student protest: Congress claims the Madhya Pradesh government is terrified of Rahul Gandhi attending the Chhatron ki Goonj event in Indore, citing education crisis and Vyapam scam.",
-      "category": "Politics & Government",
-      "image": "https://cf-images.assettype.com/deccanherald%2F2026-06-17%2Ffso6mfp9%2Ffile86bw8njd2id4fzru6pb.jpg?rect=0%2C0%2C600%2C315&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "source": "Deccan Herald",
-      "sourceUrl": "https://www.deccanherald.com/amp/story/india/madhya-pradesh/madhya-pradesh-govt-terrified-of-chhatron-ki-goonj-congress-ahead-of-rahul-gandhis-indore-event-4152093",
-      "publishedAt": "2026-09-19T13:47:00.000Z",
-      "fetchedAt": "2026-09-19T15:38:35.539Z"
     }
   ]
 }
