@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-20T18:29:34.919Z",
-  "count": 27,
+  "updatedAt": "2026-09-20T18:44:23.166Z",
+  "count": 33,
   "articles": [
     {
       "id": "4dcc6456316e53cc",
@@ -47,15 +47,15 @@
       "fetchedAt": "2026-09-20T17:43:38.133Z"
     },
     {
-      "id": "953acbee1f2e7d07",
-      "title": "CJP questions closure of 826 Uttarakhand schools, gives government 10-day ultimatum",
-      "summary": "DEHRADUN: The Cockroach Janata Party (CJP), which has recently sought to expand its footprint beyond student politics, has brought its “Fix the Schools” campaig",
-      "category": "Politics & Government",
-      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-09-20%2Fij7exkoi%2FIMG-20260920-WA0261.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "source": "newindianexpress.com",
-      "sourceUrl": "https://www.newindianexpress.com/india/2026/Sep/20/cjp-questions-closure-of-826-uttarakhand-schools-gives-government-10-day-ultimatum",
-      "publishedAt": "2026-09-20T17:04:23.000Z",
-      "fetchedAt": "2026-09-20T17:32:03.975Z"
+      "id": "88695329cd0ab97e",
+      "title": "Keralam Sports Minister proposes government job for Asian Games silver medallist Vidarsa K Vinod",
+      "summary": "Keralam sports minister OJ Janeesh has proposed the appointment of 2026 Asian Games silver medallist Vidarsa K Vinod to a suitable post in government service under the applicable sports quota provisions.",
+      "category": "Sports",
+      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260920172137-thumbnail-320x180-70.jpg",
+      "source": "ANI News",
+      "sourceUrl": "https://www.aninews.in/news/sports/others/keralam-sports-minister-proposes-government-job-for-asian-games-silver-medallist-vidarsa-k-vinod20260920225218/",
+      "publishedAt": "2026-09-20T17:22:00.000Z",
+      "fetchedAt": "2026-09-20T18:43:54.956Z"
     },
     {
       "id": "b0a7445d8fa7d0e5",
@@ -67,6 +67,17 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/city/patna/bihar-forms-sit-to-probe-vehicle-insurance-fraud-tightens-challan-norms/articleshow/134368658.cms",
       "publishedAt": "2026-09-20T12:47:00.000Z",
       "fetchedAt": "2026-09-20T16:50:32.571Z"
+    },
+    {
+      "id": "953acbee1f2e7d07",
+      "title": "CJP questions closure of 826 Uttarakhand schools, gives government 10-day ultimatum",
+      "summary": "DEHRADUN: The Cockroach Janata Party (CJP), which has recently sought to expand its footprint beyond student politics, has brought its “Fix the Schools” campaig",
+      "category": "Politics & Government",
+      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-09-20%2Fij7exkoi%2FIMG-20260920-WA0261.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "newindianexpress.com",
+      "sourceUrl": "https://www.newindianexpress.com/india/2026/Sep/20/cjp-questions-closure-of-826-uttarakhand-schools-gives-government-10-day-ultimatum",
+      "publishedAt": "2026-09-20T17:04:23.000Z",
+      "fetchedAt": "2026-09-20T17:32:03.975Z"
     },
     {
       "id": "95835eb6cbf5ff33",
@@ -91,17 +102,6 @@
       "fetchedAt": "2026-09-20T16:52:11.037Z"
     },
     {
-      "id": "b13e4d492671894c",
-      "title": "\"Not sparing the living or the dead”: Owaisi condemns Kanpur cemetery demolition",
-      "summary": "Referring to the demolition, which he said took place at 5 am on Saturday, Owaisi called the incident a matter of \"great misfortune and regret\" and questioned the manner in which the action was carried out.",
-      "category": "Politics & Government",
-      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260920163820-thumbnail-320x180-70.jpg",
-      "source": "ANI News",
-      "sourceUrl": "https://www.aninews.in/news/national/general-news/not-sparing-the-living-or-the-dead8221-owaisi-condemns-kanpur-cemetery-demolition20260920220842/",
-      "publishedAt": "2026-09-20T16:38:00.000Z",
-      "fetchedAt": "2026-09-20T16:49:50.319Z"
-    },
-    {
       "id": "a4bcee89cdfc8490",
       "title": "Kangana Ranaut HITS BACK at people trolling Maithili Thakur for arriving in Rolls-Royce at Lalbaugcha Raj",
       "summary": "Kangana Ranaut has come out in support of young singing talent and Bihar MLA Maithili Thakur, who was trolled for visiting Mumbai's Lalbaugcha Raja pandal in a luxury Rolls-Royce Cullinan. Kangana asked why critics feel hurt whenever politicians try to make their own lives better.",
@@ -111,6 +111,17 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-hits-back-at-people-trolling-maithili-thakur-for-arriving-in-rolls-royce-at-lalbaugcha-raja-some-people-a-start-to-burn/articleshow/134367439.cms",
       "publishedAt": "2026-09-20T11:27:00.000Z",
       "fetchedAt": "2026-09-20T11:39:40.819Z"
+    },
+    {
+      "id": "b13e4d492671894c",
+      "title": "\"Not sparing the living or the dead”: Owaisi condemns Kanpur cemetery demolition",
+      "summary": "Referring to the demolition, which he said took place at 5 am on Saturday, Owaisi called the incident a matter of \"great misfortune and regret\" and questioned the manner in which the action was carried out.",
+      "category": "Politics & Government",
+      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260920163820-thumbnail-320x180-70.jpg",
+      "source": "ANI News",
+      "sourceUrl": "https://www.aninews.in/news/national/general-news/not-sparing-the-living-or-the-dead8221-owaisi-condemns-kanpur-cemetery-demolition20260920220842/",
+      "publishedAt": "2026-09-20T16:38:00.000Z",
+      "fetchedAt": "2026-09-20T16:49:50.319Z"
     },
     {
       "id": "c827994bbf7c5983",
@@ -124,17 +135,6 @@
       "fetchedAt": "2026-09-20T17:19:50.092Z"
     },
     {
-      "id": "b062304ce5392bf7",
-      "title": "From Nepal to Jodhpur: 2 Lawrence gang shooters, carrying Rs 5 lakh reward each, arrested during hotel c",
-      "summary": "Rajasthan Police's Anti-Gangster Task Force (AGTF) arrests two alleged sharpshooters linked to the Lawrence-Arzoo Bishnoi gang.AGTF Additional Director General of Police Dinesh M N says the two had allegedly come to Jodhpur to carry out a major crime.(Full… pic.twitter.com/JMANNzCnL9",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134371511,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/jodhpur/from-nepal-to-jodhpur-2-lawrence-gang-shooters-carrying-rs-5-lakh-reward-each-arrested-during-hotel-check-in/articleshow/134371410.cms",
-      "publishedAt": "2026-09-20T16:18:00.000Z",
-      "fetchedAt": "2026-09-20T16:52:03.460Z"
-    },
-    {
       "id": "f9be4fc84aef9acd",
       "title": "Bihar govt's coffers empty, yet crores spent on PM Modi's birthday celebrations: Tejashwi Yadav",
       "summary": "Tejashwi Yadav alleges state coffers are empty while crores are spent on Prime Minister Narendra Modi birthday celebrations, demanding immediate financial assistance for affected families.",
@@ -144,6 +144,17 @@
       "sourceUrl": "https://www.deccanherald.com/india/bihar/bihar-govts-coffers-empty-yet-crores-spent-on-pm-modis-birthday-celebrations-tejashwi-yadav-4152835",
       "publishedAt": "2026-09-20T10:50:15.000Z",
       "fetchedAt": "2026-09-20T11:26:08.570Z"
+    },
+    {
+      "id": "b062304ce5392bf7",
+      "title": "From Nepal to Jodhpur: 2 Lawrence gang shooters, carrying Rs 5 lakh reward each, arrested during hotel c",
+      "summary": "Rajasthan Police's Anti-Gangster Task Force (AGTF) arrests two alleged sharpshooters linked to the Lawrence-Arzoo Bishnoi gang.AGTF Additional Director General of Police Dinesh M N says the two had allegedly come to Jodhpur to carry out a major crime.(Full… pic.twitter.com/JMANNzCnL9",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134371511,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/jodhpur/from-nepal-to-jodhpur-2-lawrence-gang-shooters-carrying-rs-5-lakh-reward-each-arrested-during-hotel-check-in/articleshow/134371410.cms",
+      "publishedAt": "2026-09-20T16:18:00.000Z",
+      "fetchedAt": "2026-09-20T16:52:03.460Z"
     },
     {
       "id": "5dc82b83d81ee720",
@@ -157,17 +168,6 @@
       "fetchedAt": "2026-09-20T17:04:43.870Z"
     },
     {
-      "id": "b22eb21bdbe07b7d",
-      "title": "School assembly news headlines today- September 21: Top national, sports and world news curated for you",
-      "summary": "Today’s school assembly news highlights top national, sports, and world events, covering important updates from politics, sports achievements, and global headlines for September 21.",
-      "category": "National & Trending News",
-      "image": "https://static-bestcolleges.tosshub.com/2026/News/RTuzZmAkYmrYBtJBvHvM7wc5U8Km32LqoKSinC1C.png",
-      "source": "India Today",
-      "sourceUrl": "https://bestcolleges.indiatoday.in/latest-news/school-assembly-news-headlines-today-september-21-top-national-sports-and-world-news-curated-for-you-11642",
-      "publishedAt": "2026-09-20T16:03:53.000Z",
-      "fetchedAt": "2026-09-20T18:11:57.584Z"
-    },
-    {
       "id": "fd8bf5df45c97d56",
       "title": "Bhojpuri actress Kajal Raghwani SAFE after fans chase her car, BREAK WINDOWS at Bihar Sharif showroom lau",
       "summary": "View this post on Instagram A post shared by Kajal Sharda🦋 (@kajalraghwani)",
@@ -177,6 +177,17 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/bhojpuri/movies/news/bhojpuri-actress-kajal-raghwani-is-safe-after-fans-chase-her-car-break-windows-at-bihar-sharif-showroom-launch/articleshow/134366365.cms",
       "publishedAt": "2026-09-20T10:14:00.000Z",
       "fetchedAt": "2026-09-20T17:05:37.734Z"
+    },
+    {
+      "id": "b22eb21bdbe07b7d",
+      "title": "School assembly news headlines today- September 21: Top national, sports and world news curated for you",
+      "summary": "Today’s school assembly news highlights top national, sports, and world events, covering important updates from politics, sports achievements, and global headlines for September 21.",
+      "category": "National & Trending News",
+      "image": "https://static-bestcolleges.tosshub.com/2026/News/RTuzZmAkYmrYBtJBvHvM7wc5U8Km32LqoKSinC1C.png",
+      "source": "India Today",
+      "sourceUrl": "https://bestcolleges.indiatoday.in/latest-news/school-assembly-news-headlines-today-september-21-top-national-sports-and-world-news-curated-for-you-11642",
+      "publishedAt": "2026-09-20T16:03:53.000Z",
+      "fetchedAt": "2026-09-20T18:11:57.584Z"
     },
     {
       "id": "54fa2a88107dfdf9",
@@ -201,6 +212,17 @@
       "fetchedAt": "2026-09-20T15:30:10.241Z"
     },
     {
+      "id": "5ff70aaff1a0df75",
+      "title": "From Digital Governance To AI Leadership Uttar Pradesh’s Next Growth Chapter",
+      "summary": "Uttar Pradesh is strengthening its journey towards becoming a leading digital and technology hub through progressive policies, robust infrastructure, and a strong focus on innovation, investment, and digital governance. Shri Alok Kumar, Principal Secretary, Department of IT & Electronics, Government of Uttar Pradesh, shares his insights on the State's technology…",
+      "category": "Technology",
+      "image": "https://egov.eletsonline.com/wp-content/uploads/2026/09/Shri-Alok-Kumar.jpg",
+      "source": "Elets eGov",
+      "sourceUrl": "https://egov.eletsonline.com/2026/09/from-digital-governance-to-ai-leadership-uttar-pradeshs-next-growth-chapter/",
+      "publishedAt": "2026-09-20T10:05:57.000Z",
+      "fetchedAt": "2026-09-20T18:44:22.342Z"
+    },
+    {
       "id": "984562ab372588b4",
       "title": "Vibe vs Daayra Box Office Collection Day 3: Kunal Kemmu's Film Widens Lead Over Kareena Kapoor Starrer In Opening Weekend",
       "summary": "Vibe leads Daayra at the box office after three days, collecting Rs 6.77 crore against Rs 3.92 crore for Kareena Kapoor's crime thriller.",
@@ -210,17 +232,6 @@
       "sourceUrl": "https://www.etvbharat.com/en/entertainment/vibe-vs-daayra-box-office-collection-day-3-kunal-kemmus-film-widens-lead-over-kareena-kapoor-starrer-in-opening-weekend-enn26092003539",
       "publishedAt": "2026-09-20T15:07:24.000Z",
       "fetchedAt": "2026-09-20T16:26:28.039Z"
-    },
-    {
-      "id": "3ab8af1ef7196e83",
-      "title": "The Vvaan: Sidharth Malhotra and Tamannaah Bhatia honour Bihar’s Chhath rituals",
-      "summary": "The team behind the movie The Vvaan visited Patna ahead of the film’s September 25 release. Tamannaah Bhatia and Sidharth Malhotra, along with their producers,",
-      "category": "Entertainment",
-      "image": "https://cf-images.assettype.com/indulgexpress%2F2026-09-20%2F2s2t2y47%2F818062303186160743400262932876852348868319870n.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "source": "IndulgExpress",
-      "sourceUrl": "https://www.indulgexpress.com/amp/story/entertainment/celebs/2026/Sep/20/the-vvaan-sidharth-malhotra-and-tamannaah-bhatia-honour-bihars-chhath-rituals",
-      "publishedAt": "2026-09-20T09:11:00.000Z",
-      "fetchedAt": "2026-09-20T16:52:51.875Z"
     },
     {
       "id": "89c346c232d941c1",
@@ -234,6 +245,17 @@
       "fetchedAt": "2026-09-20T15:15:31.019Z"
     },
     {
+      "id": "3ab8af1ef7196e83",
+      "title": "The Vvaan: Sidharth Malhotra and Tamannaah Bhatia honour Bihar’s Chhath rituals",
+      "summary": "The team behind the movie The Vvaan visited Patna ahead of the film’s September 25 release. Tamannaah Bhatia and Sidharth Malhotra, along with their producers,",
+      "category": "Entertainment",
+      "image": "https://cf-images.assettype.com/indulgexpress%2F2026-09-20%2F2s2t2y47%2F818062303186160743400262932876852348868319870n.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "IndulgExpress",
+      "sourceUrl": "https://www.indulgexpress.com/amp/story/entertainment/celebs/2026/Sep/20/the-vvaan-sidharth-malhotra-and-tamannaah-bhatia-honour-bihars-chhath-rituals",
+      "publishedAt": "2026-09-20T09:11:00.000Z",
+      "fetchedAt": "2026-09-20T16:52:51.875Z"
+    },
+    {
       "id": "229be255942451c3",
       "title": "School Assembly News Headlines (September 21): Top National, International, Sports News",
       "summary": "School Assembly News Headlines (September 21): Stay updated and be ready to share your thoughts in the morning with these News Headlines.",
@@ -243,17 +265,6 @@
       "sourceUrl": "https://www.ndtv.com/education/school-assembly-news-headlines-september-20-top-national-international-sports-news-12072902",
       "publishedAt": "2026-09-20T14:54:03.000Z",
       "fetchedAt": "2026-09-20T15:15:42.556Z"
-    },
-    {
-      "id": "3faf8d7918681ae3",
-      "title": "East Zone’s new cricketing core: How Bihar and Jharkhand talent powered Duleep Trophy win",
-      "summary": "East Zone’s Duleep Trophy triumph over favourites South Zone reflected a changing power centre in Indian domestic cricket, with players from Jharkhand and Bihar leading the charge. Ishan Kishan’s 270, alongside crucial contributions from Kumar Kushagra, Mohammed Kounain Quraishi and Shikhar Mohan, highlighted the region’s growing talent pool and its…",
-      "category": "Sports",
-      "image": "https://s.yimg.com/lo/mysterio/api/3dc928d45c233e20e7bedf13d3a6eb4eac39e48549b354b899a53a7c19ce237b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwillow_sports_articles_673%2F3b8ecd37f760fa5998ff90bbb15f2580.jpg",
-      "source": "Yahoo Sports",
-      "sourceUrl": "https://sports.yahoo.com/articles/east-zone-cricketing-core-bihar-080100670.html",
-      "publishedAt": "2026-09-20T08:01:00.000Z",
-      "fetchedAt": "2026-09-20T16:50:33.873Z"
     },
     {
       "id": "2c5b23497ed0656d",
@@ -267,6 +278,17 @@
       "fetchedAt": "2026-09-20T17:05:19.838Z"
     },
     {
+      "id": "3faf8d7918681ae3",
+      "title": "East Zone’s new cricketing core: How Bihar and Jharkhand talent powered Duleep Trophy win",
+      "summary": "East Zone’s Duleep Trophy triumph over favourites South Zone reflected a changing power centre in Indian domestic cricket, with players from Jharkhand and Bihar leading the charge. Ishan Kishan’s 270, alongside crucial contributions from Kumar Kushagra, Mohammed Kounain Quraishi and Shikhar Mohan, highlighted the region’s growing talent pool and its…",
+      "category": "Sports",
+      "image": "https://s.yimg.com/lo/mysterio/api/3dc928d45c233e20e7bedf13d3a6eb4eac39e48549b354b899a53a7c19ce237b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwillow_sports_articles_673%2F3b8ecd37f760fa5998ff90bbb15f2580.jpg",
+      "source": "Yahoo Sports",
+      "sourceUrl": "https://sports.yahoo.com/articles/east-zone-cricketing-core-bihar-080100670.html",
+      "publishedAt": "2026-09-20T08:01:00.000Z",
+      "fetchedAt": "2026-09-20T16:50:33.873Z"
+    },
+    {
       "id": "0928b57567b164ca",
       "title": "Jennifer Winget-William's Goa wedding is all things fun, Karan Wahi shares glimpses",
       "summary": "Jennifer Winget and William Ishmael celebrated their Goa wedding gathering with friends from television and films. Videos and posts from the evening linked their intimate UK ceremony to a larger, festive reunion.",
@@ -276,6 +298,28 @@
       "sourceUrl": "https://www.indiatoday.in/entertainment/television/story/jennifer-winget-william-ishmael-goa-wedding-celebration-karan-wahi-riteish-genelia-2999008-2026-09-20",
       "publishedAt": "2026-09-20T14:35:03.000Z",
       "fetchedAt": "2026-09-20T14:46:32.163Z"
+    },
+    {
+      "id": "10b1d0635eba7332",
+      "title": "How two elections reshaped the India–Bangladesh border",
+      "summary": "Since Bangladesh’s 2024 political transition, India-Bangladesh border “push-ins” have intensified, with thousands deported to Bangladesh outside agreed verification and repatriation procedures and ignoring disputed nationality claims.",
+      "category": "Politics & Government",
+      "image": "https://globalvoices.org/wp-content/uploads/2026/09/Indo-Bangladesh-Border-South-DInajpur-800x450.webp",
+      "source": "Global Voices",
+      "sourceUrl": "https://globalvoices.org/2026/09/20/how-two-elections-reshaped-the-india-bangladesh-border/",
+      "publishedAt": "2026-09-20T14:30:57.000Z",
+      "fetchedAt": "2026-09-20T14:34:57.081Z"
+    },
+    {
+      "id": "1c0f773d2da97dbd",
+      "title": "Hanuman Ansh Box Office Collection Day 45: Strong 7th Sunday Takes Film Closer To Rs 300 Cr India Net Milestone",
+      "summary": "Hanuman Ansh continues its impressive box office run on day 45, earning Rs 9.51 crore and taking its India net collection to Rs 267.64 crore.",
+      "category": "Entertainment",
+      "image": "https://imgs.etvbharat.com/etvbharat/prod-images/20-09-2026/1200-675-27674691-164-27674691-1789913586853.jpg",
+      "source": "ETV Bharat",
+      "sourceUrl": "https://www.etvbharat.com/amp/en/entertainment/hanuman-ansh-box-office-collection-day-45-strong-7th-sunday-takes-film-closer-to-rs-300-cr-india-net-milestone-enn26092002782",
+      "publishedAt": "2026-09-20T14:25:53.000Z",
+      "fetchedAt": "2026-09-20T18:44:01.261Z"
     },
     {
       "id": "c8dee49868675da4",
@@ -289,15 +333,37 @@
       "fetchedAt": "2026-09-20T16:50:31.296Z"
     },
     {
-      "id": "10b1d0635eba7332",
-      "title": "How two elections reshaped the India–Bangladesh border",
-      "summary": "Since Bangladesh’s 2024 political transition, India-Bangladesh border “push-ins” have intensified, with thousands deported to Bangladesh outside agreed verification and repatriation procedures and ignoring disputed nationality claims.",
-      "category": "Politics & Government",
-      "image": "https://globalvoices.org/wp-content/uploads/2026/09/Indo-Bangladesh-Border-South-DInajpur-800x450.webp",
-      "source": "Global Voices",
-      "sourceUrl": "https://globalvoices.org/2026/09/20/how-two-elections-reshaped-the-india-bangladesh-border/",
-      "publishedAt": "2026-09-20T14:30:57.000Z",
-      "fetchedAt": "2026-09-20T14:34:57.081Z"
+      "id": "fa6ff15bc6faaaf5",
+      "title": "NIA arrests two key accused in Rs 17.29 crore counterfeit currency racket via Saharanpur PNB chest",
+      "summary": "The National Investigation Agency has arrested two individuals in Saharanpur for their alleged involvement. These arrests are linked to the circulation of counterfeit currency notes through a Punjab National Bank chest. The agency previously apprehended two other key accused in this ongoing investigation. Authorities discovered counterfeit notes with a face…",
+      "category": "National & Trending News",
+      "image": "https://img.etimg.com/thumb/msid-134370172,width-1200,height-630,imgsize-48362,overlay-economictimes/articleshow.jpg",
+      "source": "The Economic Times",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/nia-arrests-two-key-accused-in-rs-17-29-crore-counterfeit-currency-racket-via-saharanpur-pnb-chest/articleshow/134370135.cms?from=mdr",
+      "publishedAt": "2026-09-20T14:22:10.000Z",
+      "fetchedAt": "2026-09-20T18:44:16.997Z"
+    },
+    {
+      "id": "7fc539d9c9a00ac0",
+      "title": "Indian Diaspora in SA: Partnering India's Tech Future",
+      "summary": "Rajya Sabha Deputy Chairman Harivansh Singh calls on Indian diaspora in South Africa to invest in India",
+      "category": "Technology",
+      "image": "https://im.rediff.com/news/2025/aug/11harivansh-singh.jpg?fr=money",
+      "source": "Rediff MoneyWiz",
+      "sourceUrl": "https://money.rediff.com/news/market/indian-diaspora-in-sa-partnering-india-s-tech-future/54682120260920",
+      "publishedAt": "2026-09-20T14:12:50.000Z",
+      "fetchedAt": "2026-09-20T18:44:08.109Z"
+    },
+    {
+      "id": "cfc13bb3c5844384",
+      "title": "Pakistan out of Asian Games after Sri Lanka cruise through to the final",
+      "summary": "Sri Lanka beat Pakistan by 8 wickets in the 2026 Asian Games women's semi-final. Athapaththu hit 83 not out to seal the win. Read more on CricTracker.",
+      "category": "Sports",
+      "image": "https://media.crictracker.com/media/attachments/1778926620139_Pakistan-Women's-Team.jpeg",
+      "source": "CricTracker",
+      "sourceUrl": "https://www.crictracker.com/cricket-news/pakistan-out-of-asian-games-after-sri-lanka-cruise-through-to-the-final/?amp=1",
+      "publishedAt": "2026-09-20T06:21:00.000Z",
+      "fetchedAt": "2026-09-20T18:44:21.121Z"
     }
   ]
 }
