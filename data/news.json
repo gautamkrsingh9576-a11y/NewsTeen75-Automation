@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-09-20T12:03:10.406Z",
+  "updatedAt": "2026-09-20T12:24:51.534Z",
   "count": 250,
   "articles": [
+    {
+      "id": "c6318ca99f7019e0",
+      "title": "India's MMA Fighter Sanyal Passes Out Due To Exhaustion; Withdraws From Asian Games",
+      "summary": "India's MMA Fighter Sanyal Passes Out Due To Exhaustion; Withdraws From Asian Games. This update was reported by Deccan Chronicle. Open the original report for full context and any developing updates.",
+      "category": "Sports",
+      "image": "https://www.deccanchronicle.com/h-upload/2026/09/20/2091126-screenshot-2026-09-20-at-174000.jpg",
+      "source": "Deccan Chronicle",
+      "sourceUrl": "https://www.deccanchronicle.com/sports/indias-mma-fighter-sanyal-passes-out-due-to-exhaustion-withdraws-from-asian-games-1989027",
+      "publishedAt": "2026-09-20T12:10:49.000Z",
+      "fetchedAt": "2026-09-20T12:24:43.719Z"
+    },
+    {
+      "id": "ac239948a5a0a387",
+      "title": "An expert explains the AI chip ‘supercycle’, and the opportunity it presents for India",
+      "summary": "An expert explains the AI chip ‘supercycle’, and the opportunity it presents for India. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
+      "category": "Technology",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "The Indian Express",
+      "sourceUrl": "https://indianexpress.com/article/explained/explained-sci-tech/expert-explains-ai-chip-boom-india-opportunity-10886212/",
+      "publishedAt": "2026-09-20T12:03:59.000Z",
+      "fetchedAt": "2026-09-20T12:24:46.382Z"
+    },
+    {
+      "id": "7df428a2dfdc5442",
+      "title": "How one India T20I could become Japanese cricket's defining moment",
+      "summary": "How one India T20I could become Japanese cricket's defining moment. This update was reported by timesofindia.indiatimes.com. Open the original report for full context and any developing updates.",
+      "category": "Sports",
+      "image": "https://static.toiimg.com/thumb/msid-134368032,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "timesofindia.indiatimes.com",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/how-one-india-t20i-could-become-japanese-crickets-defining-moment/articleshow/134367678.cms",
+      "publishedAt": "2026-09-20T12:01:00.000Z",
+      "fetchedAt": "2026-09-20T12:24:42.940Z"
+    },
     {
       "id": "205b80abcd727655",
       "title": "When the Protector of Wildlife Suddenly Becomes the Accused: What Really Happened in the Wildlife SOS Case?",
@@ -67,6 +100,17 @@
       "sourceUrl": "https://www.rediff.com/sports/report/quimcy-dsouzas-teqball-journey-to-popularize-sport-in-india/20260920.htm",
       "publishedAt": "2026-09-20T11:15:34.000Z",
       "fetchedAt": "2026-09-20T11:39:40.245Z"
+    },
+    {
+      "id": "8ec2b0e4d12e0f7b",
+      "title": "India's software services exports rise 8.2% to $221.4 bn in FY26: RBI data",
+      "summary": "India's software services exports rose 8.2 per cent in 2025-26, led by computer services, while the US remained the top destination with a 54.1 per cent share of exports",
+      "category": "Technology",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/17/thumb/fitandfill/1200X628/1789630564-0665.jpg",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/amp/economy/news/india-s-software-services-exports-rise-8-2-to-221-4-bn-in-fy26-rbi-data-126092000478_1.html",
+      "publishedAt": "2026-09-20T11:11:38.000Z",
+      "fetchedAt": "2026-09-20T12:24:46.776Z"
     },
     {
       "id": "35aef3e291ad2725",
@@ -188,6 +232,17 @@
       "sourceUrl": "https://sports.ndtv.com/othersports/indias-suchika-tariyal-books-mma-semifinal-spot-in-asian-games-12071490",
       "publishedAt": "2026-09-20T10:26:38.000Z",
       "fetchedAt": "2026-09-20T10:45:10.143Z"
+    },
+    {
+      "id": "8178bb830b0f488e",
+      "title": "Rohit Sharma powers Sony Pictures Networks India’s ‘Family Full House’ to a record-breaking launch",
+      "summary": "Rohit Sharma powers Sony Pictures Networks India’s ‘Family Full House’ to a record-breaking launch. This update was reported by Adgully.com. Open the original report for full context and any developing updates.",
+      "category": "Entertainment",
+      "image": "https://erp.adgully.com/artical_image/9ec1c4bfbd8d82af7fb9fe98d1bfedbc.jpeg",
+      "source": "Adgully.com",
+      "sourceUrl": "https://www.adgully.com/post/20887/rohit-sharma-powers-sony-pictures-networks-indias-family-full-house-to-a-record-breaking-launch",
+      "publishedAt": "2026-09-20T10:16:00.000Z",
+      "fetchedAt": "2026-09-20T12:24:45.605Z"
     },
     {
       "id": "0ffb11be5e72c45d",
@@ -1288,6 +1343,17 @@
       "sourceUrl": "https://thenewsmill.com/2026/09/india-wins-silver-in-womens-10m-air-rifle-team-at-asian-games-2026/",
       "publishedAt": "2026-09-20T04:57:11.000Z",
       "fetchedAt": "2026-09-20T05:16:15.197Z"
+    },
+    {
+      "id": "8bdc7a005229996b",
+      "title": "Mimicry of PM Modi at Rahul Gandhi event irks BJP: ‘Mother isn't subject of politics’ | India News",
+      "summary": "Several other BJP leaders such as Uttarakhand chief minister Pushkar Singh Dhami and newly-appointed education minister Prahlad Joshi also slammed Gandhi. | India News",
+      "category": "Politics & Government",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/20/1600x900/logo/PTI09-19-2026-000593A-0_1789879675761_kKmt_1789879685126_Yajf_75280573-da3a-478d-8391-cc52031d6959_eiuq.jpg",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/pm-modis-mimicry-at-rahul-gandhi-event-irks-bjp-mother-is-not-subject-of-politics-101789876578143.html",
+      "publishedAt": "2026-09-20T04:52:19.000Z",
+      "fetchedAt": "2026-09-20T12:24:40.793Z"
     },
     {
       "id": "96d437e7db0bfd5a",
@@ -2685,72 +2751,6 @@
       "sourceUrl": "https://www.tribuneindia.com/news/delhi/dusu-poll-results-a-message-to-anti-national-forces-amit-shah/amp/",
       "publishedAt": "2026-09-19T17:17:46.000Z",
       "fetchedAt": "2026-09-19T20:32:34.421Z"
-    },
-    {
-      "id": "1757af403bef0f1d",
-      "title": "'Caste-Based Slurs Hurled': IIT Bombay Suicide Case Takes New Turn, Crime Branch Takes Over Probe",
-      "summary": "According to Wakode’s father, teacher Suryanarayan Dulla allegedly subjected Sahil to caste-based slurs and threatened to frame him in a false case.",
-      "category": "Crime & Breaking News",
-      "image": "https://images.news18.com/ibnlive/uploads/2026/09/1-2026-09-19T170222.126-2026-09-cc02c457c69c7ec018b270f2b34fb274-1200x675.png",
-      "source": "News18",
-      "sourceUrl": "https://www.news18.com/amp/india/caste-based-slurs-hurled-iit-bombay-student-suicide-case-takes-new-turn-crime-branch-takes-over-probe-10341726.html",
-      "publishedAt": "2026-09-19T17:16:30.000Z",
-      "fetchedAt": "2026-09-19T17:25:07.481Z"
-    },
-    {
-      "id": "6e53509d5e30f653",
-      "title": "'Trapped in dynastic politics': Mukesh Sahani slams Nishad Party chief",
-      "summary": "Mukesh Sahani: Vikassheel Insaan Party president Mukesh Sahani has accused Uttar Pradesh minister Sanjay Nishad of failing to secure reservation for the Nishad community and getting trapped in dynastic politics ahead of assembly polls.",
-      "category": "Politics & Government",
-      "image": "https://media.assettype.com/deccanherald%2F2026-09-19%2Fcwbnb3zm%2FImages-4.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
-      "source": "deccanherald.com",
-      "sourceUrl": "https://www.deccanherald.com/india/uttar-pradesh/trapped-in-dynastic-politics-mukesh-sahani-slams-nishad-party-chief-4152332",
-      "publishedAt": "2026-09-19T17:14:17.000Z",
-      "fetchedAt": "2026-09-19T17:25:05.950Z"
-    },
-    {
-      "id": "f9206212d2d23084",
-      "title": "In 1914, Josie Bassett Morris started a new life on a remote Utah homestead; she stayed for 50 years, and",
-      "summary": "The Cub Creek area offers hiking trails and ancient rock art. Josie Bassett Morris lived independently on her homestead for fifty years. She was a self-reliant rancher who also brewed whiskey and helped neighbors. Her cabin and land are now part of Dinosaur National Monument. The area preserves her history…",
-      "category": "National & Trending News",
-      "image": "https://img.etimg.com/thumb/msid-134357877,width-1200,height-630,imgsize-1817238,overlay-economictimes/articleshow.jpg",
-      "source": "The Economic Times",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/us/in-1914-josie-bassett-morris-started-a-new-life-on-a-remote-utah-homestead-she-stayed-for-50-years-and-her-cabin-eventually-became-part-of-a-national-monument/articleshow/134357094.cms?from=mdr",
-      "publishedAt": "2026-09-19T17:12:45.000Z",
-      "fetchedAt": "2026-09-19T20:18:02.045Z"
-    },
-    {
-      "id": "096642a2ea78b188",
-      "title": "Chhaydo - Official Trailer​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "summary": "Watch the Official trailer​ from gujarati​​​​ movie 'Chhaydo' starring Aruna Irani, Akash Khurana and Nikhil Parmar. 'Chhaydo' movie is directed by Piyush Ranjitbhai. To know more about 'Chhaydo' trailer​ watch the video. Check out the latest gujarati​​​​ trailer​s, new movie trailer​s, trending gujarati​​​​ movie trailer​, and more at ETimes -…",
-      "category": "Entertainment",
-      "image": "https://static.toiimg.com/thumb/msid-134357824,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/videos/entertainment/regional/gujarati/chhaydo-official-trailer/videoshow/134357824.cms",
-      "publishedAt": "2026-09-19T17:11:32.000Z",
-      "fetchedAt": "2026-09-19T20:54:56.625Z"
-    },
-    {
-      "id": "a38359f720343b07",
-      "title": "Chhaydo - Official Teaser​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "summary": "Watch the Official teaser​ from gujarati​​​​ movie 'Chhaydo' starring Aruna Irani, Akash Khurana and Nikhil Parmar. 'Chhaydo' movie is directed by Piyush Ranjitbhai. To know more about 'Chhaydo' teaser​ watch the video. Check out the latest gujarati​​​​ teaser​s, new movie teaser​s, trending gujarati​​​​ movie teaser​, and more at ETimes -…",
-      "category": "Entertainment",
-      "image": "https://static.toiimg.com/thumb/msid-134357800,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "timesofindia.indiatimes.com",
-      "sourceUrl": "https://timesofindia.indiatimes.com/videos/entertainment/regional/gujarati/chhaydo-official-teaser/videoshow/134357800.cms",
-      "publishedAt": "2026-09-19T17:10:19.000Z",
-      "fetchedAt": "2026-09-19T17:25:12.055Z"
-    },
-    {
-      "id": "e7b72c3963204333",
-      "title": "‘Despite Jhooth ki Goonj’: BJP targets Rahul Gandhi after ABVP's big win in DUSU elections | India News",
-      "summary": "Slamming Rahul Gandhi, BJP's Sidharth Yadav said the ABVP victory reflected students' rejection of “politics of lies, deceit and propaganda,\" | India News",
-      "category": "National & Trending News",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/19/1600x900/logo/DUSU_1789837885195_w3VM_1789837902094_ZghU_47fc62f3-9cae-455e-94da-9b52eaee18ff_CkpR.jpg",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/india-news/tight-slap-on-his-face-bjp-rahul-gandhi-abvps-big-win-dusu-2026-election-results-nsui-congress-101789828782110.html",
-      "publishedAt": "2026-09-19T17:05:34.000Z",
-      "fetchedAt": "2026-09-20T02:50:22.483Z"
     }
   ]
 }
