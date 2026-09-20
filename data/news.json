@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-09-20T06:34:32.954Z",
+  "updatedAt": "2026-09-20T06:50:36.170Z",
   "count": 250,
   "articles": [
+    {
+      "id": "afb2ac96e43611a8",
+      "title": "Eve-teased at 12, Asian Games history at 36: Suchika Tariyal's MMA fairytale",
+      "summary": "Suchika Tariyal defeated Mongolia's Altanchimeg Baigalmaa 2-0 to enter the women's traditional -60kg semi-finals at the 2026 Asian Games. The win guaranteed India its first Asian Games MMA medal and capped a journey shaped by injury, bureaucracy and reinvention.",
+      "category": "Sports",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/suchika-tariyal-203814397-16x9_0.jpg?VersionId=Jsrf3mu.bHc1d72m1tnK27aNRz0D7j39",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/sports/asian-games/story/suchika-tariyal-india-first-asian-games-mma-medallist-aichi-nagoya-2026-2998722-2026-09-20",
+      "publishedAt": "2026-09-20T06:41:00.000Z",
+      "fetchedAt": "2026-09-20T06:50:31.384Z"
+    },
+    {
+      "id": "b51ced4de57c3db6",
+      "title": "The Mindhunters: How India’s New Wave of Reality TV Is Reshaping Pop Culture, Power and Public Imagination",
+      "summary": "New reality shows are hooking audiences with secrets and mind games over manufactured conflict",
+      "category": "Entertainment",
+      "image": "https://media.openthemagazine.com/openthemagazine/2026-09-20/kpf0d27u/0.jpg?w=1200&ar=40:21&auto=format,compress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "Open Magazine",
+      "sourceUrl": "https://openthemagazine.com/entertainment/the-mindhunters",
+      "publishedAt": "2026-09-20T06:40:09.000Z",
+      "fetchedAt": "2026-09-20T06:50:32.187Z"
+    },
+    {
+      "id": "0a66bbe13e1a3599",
+      "title": "Smriti Mandhana scripts history, becomes first Indian woman to smash 100 T20I sixes",
+      "summary": "Smriti Mandhana reached a historic milestone in the Asian Games 2026 women’s cricket semi-final against Bangladesh, becoming the first Indian woman to hit 100 sixes in T20 internationals.",
+      "category": "Sports",
+      "image": "https://static.toiimg.com/thumb/msid-134364663,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/asian-games-2026-womens-t20/smriti-mandhana-scripts-history-becomes-first-indian-woman-to-smash-100-t20i-sixes/articleshow/134364485.cms",
+      "publishedAt": "2026-09-20T06:39:00.000Z",
+      "fetchedAt": "2026-09-20T06:50:30.977Z"
+    },
     {
       "id": "b902c5a8f17dff36",
       "title": "India's B35 Bullet Train: 350 kmph speed, indigenous technology and a rival to Japan's E10 series | All you n",
@@ -12,6 +45,17 @@
       "sourceUrl": "https://www.india.com/business/india-japan-b35-bullet-train-indigenous-technology-mahsr-mumbai-ahmedabad-e10-series-indian-railways-bullet-train-irctc-bharat-train-control-system-8527849/",
       "publishedAt": "2026-09-20T06:19:38.000Z",
       "fetchedAt": "2026-09-20T06:34:29.569Z"
+    },
+    {
+      "id": "2851db92558533d2",
+      "title": "Corporate Actions This Week: Bajaj Holdings, Maharashtra Scooters, Dixon Tech, BEML, Titagarh Rail Systems | Full List",
+      "summary": "Bajaj Holdings & Investment has declared an interim dividend of Rs 65 per share, with Sept. 21 as the ex-date and record date.",
+      "category": "Technology",
+      "image": "https://c.ndtvimg.com/2026-03/st7krld_corporate-action_625x300_13_March_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "source": "NDTV Profit",
+      "sourceUrl": "https://www.ndtvprofit.com/markets/corporate-actions-this-week-bajaj-holdings-maharashtra-scooters-dixon-tech-beml-titagarh-rail-systems-full-list-12071305",
+      "publishedAt": "2026-09-20T06:13:14.000Z",
+      "fetchedAt": "2026-09-20T06:50:33.711Z"
     },
     {
       "id": "46a61e9d250f3d90",
@@ -2707,50 +2751,6 @@
       "sourceUrl": "https://indianexpress.com/article/technology/artificial-intelligence/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-10885178/",
       "publishedAt": "2026-09-19T11:18:40.000Z",
       "fetchedAt": "2026-09-20T01:26:09.597Z"
-    },
-    {
-      "id": "c3631b1350bdc825",
-      "title": "India's GDP will rise to $38 trillion in 20 years: Ajit Doval",
-      "summary": "Ajit Doval projects India's GDP will soar to $38 trillion in 20 years during IIT Roorkee convocation address.",
-      "category": "National & Trending News",
-      "image": "https://th-i.thgim.com/public/incoming/z7qv2o/article71484358.ece/alternates/LANDSCAPE_1200/20260919100L.jpg",
-      "source": "The Hindu",
-      "sourceUrl": "https://www.thehindu.com/news/national/indias-gdp-will-rise-to-38-trillion-in-20-years-ajit-doval/article71484354.ece",
-      "publishedAt": "2026-09-19T11:14:07.000Z",
-      "fetchedAt": "2026-09-19T12:54:56.944Z"
-    },
-    {
-      "id": "29529ce8a373f9e3",
-      "title": "PM Modi Becomes Longest-Serving Elected Head of Government in India",
-      "summary": "PM Modi Becomes Longest-Serving Elected Head of Government in India. This update was reported by News On AIR. Open the original report for full context and any developing updates.",
-      "category": "Politics & Government",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EPolitics%20%26amp%3B%20Government%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "News On AIR",
-      "sourceUrl": "https://newsonair.gov.in/pm-modi-becomes-longest-serving-elected-head-of-government-in-india/",
-      "publishedAt": "2026-09-19T11:11:57.000Z",
-      "fetchedAt": "2026-09-19T13:25:31.650Z"
-    },
-    {
-      "id": "7668bd99b81cd1e5",
-      "title": "India should aspire to be among early leaders in emerging technologies: PM Modi",
-      "summary": "Prime Minister Narendra Modi chaired a Semiconductor Roundtable with leading global and Indian CEOs at Seva Teerth on Wednesday, calling for greater collaboration between the government and industry to strengthen India’s semiconductor ecosystem. During the meeting, the Prime Minister highlighted India’s strong foundation of talent, technology adoption and infrastructure and…",
-      "category": "Technology",
-      "image": "https://ddindia.co.in/wp-content/uploads/2026/09/pm-modi.jpeg",
-      "source": "DD India",
-      "sourceUrl": "https://ddindia.co.in/2026/09/india-should-aspire-to-be-among-early-leaders-in-emerging-technologies-pm-modi/",
-      "publishedAt": "2026-09-19T11:11:13.000Z",
-      "fetchedAt": "2026-09-19T13:10:22.540Z"
-    },
-    {
-      "id": "b6c8c563ce70c922",
-      "title": "Asian Games: Bhaker, Sehrawat lead India contingent as Nagoya Games officially open",
-      "summary": "Asian Games: Bhaker, Sehrawat lead India contingent as Nagoya Games officially open. This update was reported by thestatesman.com. Open the original report for full context and any developing updates.",
-      "category": "Sports",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "thestatesman.com",
-      "sourceUrl": "https://www.thestatesman.com/sports/asian-games-bhaker-sehrawat-lead-india-contingent-as-nagoya-games-officially-open-1503640463.html",
-      "publishedAt": "2026-09-19T11:11:00.000Z",
-      "fetchedAt": "2026-09-19T11:50:34.841Z"
     }
   ]
 }
