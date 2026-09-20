@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-09-20T12:55:47.170Z",
+  "updatedAt": "2026-09-20T13:11:45.378Z",
   "count": 250,
   "articles": [
+    {
+      "id": "a3c8431d4d628cd0",
+      "title": "My Dear Kuttichathan: How India’s first 3D film, with rotating sets, was made for Rs 40 lakh",
+      "summary": "My Dear Kuttichathan: How India’s first 3D film, with rotating sets, was made for Rs 40 lakh. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
+      "category": "Entertainment",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EEntertainment%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "The Indian Express",
+      "sourceUrl": "https://indianexpress.com/article/entertainment/malayalam/my-dear-kuttichathan-how-indias-first-3d-film-with-rotating-sets-was-made-for-rs-40-lakh-10886191/",
+      "publishedAt": "2026-09-20T12:58:18.000Z",
+      "fetchedAt": "2026-09-20T13:11:37.344Z"
+    },
+    {
+      "id": "fda243a9a2dd2002",
+      "title": "ASML Begins India Ops, Links Growth to Tata & India's Chip Ambition",
+      "summary": "ASML launches operations in India, planning to hire engineers. Its expansion hinges on Tata Electronics",
+      "category": "Technology",
+      "image": "https://im.rediff.com/money/2023/jun/20semiconductor1.jpg?fr=money",
+      "source": "Rediff MoneyWiz",
+      "sourceUrl": "https://money.rediff.com/news/market/asml-begins-india-ops-links-growth-to-tata-india-s-chip-ambition/54677120260920",
+      "publishedAt": "2026-09-20T12:55:39.000Z",
+      "fetchedAt": "2026-09-20T13:11:41.453Z"
+    },
+    {
+      "id": "008bb5785398a359",
+      "title": "Asian Games, table tennis: Indian women stun Singapore 3-2, men lose 0-3 to Iran",
+      "summary": "The Indian women's table tennis team staged a spirited comeback to beat Singapore 3-2 in their Group F match at the Asian Games on Sunday, while the men's team suffered a 0-3 defeat to Iran.",
+      "category": "Sports",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/sreeja-akula-183010138-16x9_1.jpg?VersionId=xFedqpQS2jCvUiBe5kVMdQQMwsNZR8G4",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/sports/asian-games/story/asian-games-table-tennis-indian-women-beat-singapore-men-lose-iran-2998949-2026-09-20",
+      "publishedAt": "2026-09-20T12:33:33.000Z",
+      "fetchedAt": "2026-09-20T13:11:36.680Z"
+    },
     {
       "id": "29593aa6211270dd",
       "title": "Mizoram Governor Vijay Kumar Singh calls for greater engineering innovation to boost India's global tech standing",
@@ -12,6 +45,17 @@
       "sourceUrl": "https://www.indiatodayne.in/mizoram/story/mizoram-governor-vijay-kumar-singh-calls-for-greater-engineering-innovation-to-boost-indias-global-tech-standing-1453049-2026-09-20",
       "publishedAt": "2026-09-20T12:32:57.000Z",
       "fetchedAt": "2026-09-20T12:55:43.510Z"
+    },
+    {
+      "id": "65ea6de5e6963b9d",
+      "title": "FCRA Funding in India 2024 25: Full Report",
+      "summary": "INDIA CSR RESEARCH REPORT A data-led assessment of the changing FCRA landscape. Active registrations have halved since 2015, while annual",
+      "category": "National & Trending News",
+      "image": "https://indiacsr.in/wp-content/uploads/2026/09/FCRA-Registered-NGOs.jpg",
+      "source": "India CSR",
+      "sourceUrl": "https://indiacsr.in/fcra-funding-in-india-2024-25-full-report/",
+      "publishedAt": "2026-09-20T12:28:54.000Z",
+      "fetchedAt": "2026-09-20T13:11:44.988Z"
     },
     {
       "id": "c6318ca99f7019e0",
@@ -146,6 +190,17 @@
       "fetchedAt": "2026-09-20T11:39:48.304Z"
     },
     {
+      "id": "0d3f1aa81a53fc4b",
+      "title": "Why Indian hockey teams wore saffron despite assurance of blue kits at Asian Games",
+      "summary": "Indian hockey’s kit controversy resurfaced at the Asian Games as both the men’s and women’s teams wore saffron in their opening matches, despite Hockey India president Dilip Tirkey’s assurance that they would return to blue. The federation’s conflicting claims have added to the row.",
+      "category": "Sports",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/saffron-kit-hockey-201644607-16x9_0.jpg?VersionId=FU9OjqSoYMQvNwp4C86H1VjytZ4J4aaj",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/sports/asian-games/story/india-hockey-asian-games-saffron-jersey-blue-kit-dilip-tirkey-2998887-2026-09-20",
+      "publishedAt": "2026-09-20T11:17:52.000Z",
+      "fetchedAt": "2026-09-20T13:11:36.500Z"
+    },
+    {
       "id": "b06a6f0ddba52b3f",
       "title": "Quimcy D'Souza's Teqball Dream: A New Sport For India",
       "summary": "Quimcy D'Souza's Teqball Dream: A New Sport For India. This update was reported by rediff.com. Open the original report for full context and any developing updates.",
@@ -166,6 +221,17 @@
       "sourceUrl": "https://www.business-standard.com/amp/economy/news/india-s-software-services-exports-rise-8-2-to-221-4-bn-in-fy26-rbi-data-126092000478_1.html",
       "publishedAt": "2026-09-20T11:11:38.000Z",
       "fetchedAt": "2026-09-20T12:24:46.776Z"
+    },
+    {
+      "id": "7976ab9d5351fef9",
+      "title": "Vibe vs Daayra box office collection day 2: Kunal Kemmu’s directorial stays ahead of Kareena Kapoor's crime thriller",
+      "summary": "Vibe and Daayra continue their box office battle on Day 2. Both films witnessed a rise in collections. Read on to know which film is topping the charts and leading the race.",
+      "category": "Entertainment",
+      "image": "https://cdn1.wionews.com/prod/wion/images/2026/20260920/image-1789897405234.png?imwidth=1200&imheight=900",
+      "source": "WION",
+      "sourceUrl": "https://www.wionews.com/entertainment/bollywood/vibe-vs-daayra-box-office-collection-day-2-kunal-kemmu-s-directorial-stays-ahead-of-kareena-kapoor-s-crime-thriller-1789896533322",
+      "publishedAt": "2026-09-20T11:01:00.000Z",
+      "fetchedAt": "2026-09-20T13:11:37.551Z"
     },
     {
       "id": "35aef3e291ad2725",
@@ -2685,72 +2751,6 @@
       "sourceUrl": "https://economictimes.indiatimes.com/news/economy/infrastructure/west-asia-crisis-national-highways-builders-federation-seeks-3-month-extension-of-road-relief-measures/articleshow/134358873.cms?UTM_Source=Google_Newsstand&UTM_Campaign=RSS_Feed&UTM_Medium=Referral&from=mdr",
       "publishedAt": "2026-09-19T18:09:15.000Z",
       "fetchedAt": "2026-09-19T18:19:30.335Z"
-    },
-    {
-      "id": "33aff928bb344da8",
-      "title": "Could the Teesta redraw the map of India-Bangladesh diplomacy?",
-      "summary": "The Teesta dispute is evolving beyond water-sharing, bringing climate change, federal politics and India-Bangladesh relations into sharper focus.",
-      "category": "Politics & Government",
-      "image": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-09/Teesta%20dried%20%282%29_0.jpg",
-      "source": "The Daily Star",
-      "sourceUrl": "https://www.thedailystar.net/slow-reads/geopolitical-insights/news/could-the-teesta-redraw-the-map-india-bangladesh-diplomacy-4277111",
-      "publishedAt": "2026-09-19T18:06:32.000Z",
-      "fetchedAt": "2026-09-19T19:13:47.535Z"
-    },
-    {
-      "id": "5c6c56b33080d129",
-      "title": "West Indies name squads for India tour: Kamil earns maiden T20I call up, Hetmyer returns",
-      "summary": "West Indies have announced their ODI and T20I squads for the upcoming India tour, with Kamil Pooran earning his maiden T20I call-up and Shimron Hetmyer returning to the squad for the five-match series.",
-      "category": "Sports",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/shimron-hetmyer-30093815-16x9.jpg?VersionId=nNXrIDEH3wqli9Tu80xfrYTxWW8NxUzL",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/sports/cricket/story/west-indies-odi-t20i-squad-for-india-tour-pooran-hetmyer-holder-2998592-2026-09-19",
-      "publishedAt": "2026-09-19T17:55:57.000Z",
-      "fetchedAt": "2026-09-19T18:19:23.532Z"
-    },
-    {
-      "id": "6bae477f775dba2f",
-      "title": "Dr. Vishal Sikka: 'This Is Not The Time To Slow Down' On AI - India Today",
-      "summary": "In an exclusive interview, Hang Ten Systems founder and former Infosys CEO Dr. Vishal Sikka discussed the rapid evolution of artificial intelligence and its profound impact on software engineering and entrepreneurship. Addressing concerns over AI safety and disruption, Dr. Sikka stated, \"This is not the time to slow down,\" arguing…",
-      "category": "Technology",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/video/202609/drvishalsikkaweneedtoaccelerateonaiadoption-s0-original-sixteen-to-nine.jpg?VersionId=PpElYpvu29.YVvG8C4Prs2xjtHB.PJPK",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/technology/video/dr-vishal-sikka-this-is-not-the-time-to-slow-down-on-ai-ytvd-2998601-2026-09-19",
-      "publishedAt": "2026-09-19T17:55:50.000Z",
-      "fetchedAt": "2026-09-19T19:38:22.407Z"
-    },
-    {
-      "id": "ff8525e7ef2a4ff1",
-      "title": "India replaced by England at the top of ICC T20I rankings",
-      "summary": "India replaced by England at the top of ICC T20I rankings. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
-      "category": "Sports",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "The Indian Express",
-      "sourceUrl": "https://indianexpress.com/article/sports/cricket/india-replaced-by-england-at-the-top-of-icc-t20i-rankings-10885435/",
-      "publishedAt": "2026-09-19T17:53:11.000Z",
-      "fetchedAt": "2026-09-19T18:34:31.314Z"
-    },
-    {
-      "id": "c05c8689250f3ae1",
-      "title": "'AI Ending Humanity Is All Nonsense': Dr. Vishal Sikka to India Today - India Today",
-      "summary": "In an interview with India Today, Dr. Vishal Sikka, former CEO of Infosys and founder of Vianai Systems, addressed the global debate surrounding artificial intelligence, frontier models, and safety concerns. Dismissing doomsday predictions, Dr. Sikka stated, \"this talk about AI ending humanity and all this, this is all nonsense.\" He…",
-      "category": "Technology",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/video/202609/talkaboutdoomisoverblowndrvishalsikka-s0-original-sixteen-to-nine.jpg?VersionId=71obY1Ktav8OfWR1gKgihTYKHBk66_OM",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/technology/video/ai-ending-humanity-is-all-nonsense-dr-vishal-sikka-to-india-today-ytvd-2998598-2026-09-19",
-      "publishedAt": "2026-09-19T17:51:18.000Z",
-      "fetchedAt": "2026-09-19T17:58:43.677Z"
-    },
-    {
-      "id": "f486926ceb1d9738",
-      "title": "Vaishnaw Warns Of Cyberattacks, Disruptions As India Builds Semiconductor Ecosystem",
-      "summary": "India's semiconductor push is attracting billions in investment, but Ashwini Vaishnaw has urged chipmakers and deeptech startups to prepare for cyberattacks and disruptions.",
-      "category": "Technology",
-      "image": "https://c.ndtvimg.com/2026-09/r61m0kps_ashwini-vaishnaw_625x300_19_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "source": "NDTV Profit",
-      "sourceUrl": "https://www.ndtvprofit.com/technology/ashwini-vaishnaw-warns-of-cyberattacks-disruptions-as-india-builds-semiconductor-ecosystem-12070076",
-      "publishedAt": "2026-09-19T17:46:37.000Z",
-      "fetchedAt": "2026-09-19T17:58:43.393Z"
     }
   ]
 }
