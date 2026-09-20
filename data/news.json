@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-09-20T05:31:06.417Z",
+  "updatedAt": "2026-09-20T05:44:03.108Z",
   "count": 250,
   "articles": [
+    {
+      "id": "4d5a93e3360318c5",
+      "title": "Daayra box office collection Day 2: Kareena Kapoor-Prithviraj film sees 60% jump",
+      "summary": "Daayra box office collection Day 2: Kareena Kapoor-Prithviraj film sees 60% jump. This update was reported by indianexpress.com. Open the original report for full context and any developing updates.",
+      "category": "Entertainment",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EEntertainment%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "indianexpress.com",
+      "sourceUrl": "https://indianexpress.com/article/entertainment/bollywood/daayra-box-office-collection-day-2-kareena-kapoor-prithviraj-film-sees-60-jump-10885875/",
+      "publishedAt": "2026-09-20T05:25:52.000Z",
+      "fetchedAt": "2026-09-20T05:43:59.682Z"
+    },
+    {
+      "id": "a6c7dade50956b25",
+      "title": "Smriti Mandhana creates history, becomes highest run-getter in women's T20Is",
+      "summary": "Smriti Mandhana moved past Suzie Bates during India’s Asian Games semi-final against Bangladesh. The milestone underlined her consistency at the top and lifted her to the summit of the WT20I run charts.",
+      "category": "Sports",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/smriti-mandhana-035258721-16x9_1.jpg?VersionId=yHhpWLvUHdROH5IaQLYJzZ3sCJQ0lvCE",
+      "source": "indiatoday.in",
+      "sourceUrl": "https://www.indiatoday.in/sports/asian-games/story/smriti-mandhana-highest-run-getter-womens-t20is-asian-games-semi-final-2998693-2026-09-20",
+      "publishedAt": "2026-09-20T05:25:16.000Z",
+      "fetchedAt": "2026-09-20T05:43:59.046Z"
+    },
     {
       "id": "023fdca60106e332",
       "title": "Mandhana becomes highest run-scorer in Women’s T20Is during Asian Games semifinal",
@@ -25,6 +47,17 @@
       "fetchedAt": "2026-09-20T05:30:51.350Z"
     },
     {
+      "id": "78f4c9558dde5939",
+      "title": "At 12, she was eve-teased, it changed her life; 24 years later, Suchika Tariyal is India’s first Asian Ga",
+      "summary": "View this post on Instagram A post shared by Suchika Hooda 🚩 (@suchika_tariyal)",
+      "category": "Sports",
+      "image": "https://static.toiimg.com/thumb/msid-134363866,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/at-12-she-was-eve-teased-it-changed-her-life-24-years-later-suchika-tariyal-is-indias-first-asian-games-mma-medallist/articleshow/134363738.cms",
+      "publishedAt": "2026-09-20T05:11:00.000Z",
+      "fetchedAt": "2026-09-20T05:43:58.720Z"
+    },
+    {
       "id": "ce3c87e9531b196d",
       "title": "IIT Kanpur to train 900 UP school teachers in digital skills",
       "summary": "IIT Kanpur has expanded its DLCCAI programme to train 900 secondary school teachers across Uttar Pradesh. The initiative aims to help teachers bring digital and computational skills into classrooms in line with NEP 2020.",
@@ -34,6 +67,17 @@
       "sourceUrl": "https://www.indiatoday.in/amp/education-today/news/story/iit-kanpur-to-train-900-uttar-pradesh-secondary-school-teachers-2998684-2026-09-20",
       "publishedAt": "2026-09-20T05:03:03.000Z",
       "fetchedAt": "2026-09-20T05:16:18.502Z"
+    },
+    {
+      "id": "5c55ceb3d0aac1ec",
+      "title": "France’s Naval Group, Nibe Sign MoU To Strengthen India’s Naval Shipbuilding And Maritime Technology Capabilities",
+      "summary": "France's Naval Group has signed a strategic partnership with India's Nibe Ltd to collaborate on advanced naval technologies. The agreement was signed",
+      "category": "Technology",
+      "image": "https://swarajya.gumlet.io/swarajya/2026-09-20/rt75ka7p/A-sumbarine-Representative-Image.png?w=600&h=315&format=jpg",
+      "source": "Swarajya",
+      "sourceUrl": "https://swarajyamag.com/defence/frances-naval-group-nibe-sign-mou-to-strengthen-indias-naval-shipbuilding-and-maritime-technology-capabilities",
+      "publishedAt": "2026-09-20T05:02:47.000Z",
+      "fetchedAt": "2026-09-20T05:44:00.925Z"
     },
     {
       "id": "09e5a89d47b2934b",
@@ -210,6 +254,17 @@
       "sourceUrl": "https://univest.in/mutual-funds/franklin-india-technology-fund-g-direct-plan",
       "publishedAt": "2026-09-20T03:38:19.000Z",
       "fetchedAt": "2026-09-20T05:30:58.537Z"
+    },
+    {
+      "id": "05dbe5ab766a3102",
+      "title": "RazorpayX: Building a Banking Platform for Businesses",
+      "summary": "RazorpayX: Building a Banking Platform for Businesses. This update was reported by MarkHub24. Open the original report for full context and any developing updates.",
+      "category": "Business & Finance",
+      "image": "https://static.wixstatic.com/media/8a841b_0a37a7a8fcf649b6aa7dfa0df0b0135a~mv2.jpg/v1/fill/w_985,h_537,al_c/8a841b_0a37a7a8fcf649b6aa7dfa0df0b0135a~mv2.jpg",
+      "source": "MarkHub24",
+      "sourceUrl": "https://www.markhub24.com/post/razorpayx-building-a-banking-platform-for-businesses",
+      "publishedAt": "2026-09-20T03:30:18.000Z",
+      "fetchedAt": "2026-09-20T05:44:01.779Z"
     },
     {
       "id": "c7a6f33bb568e63a",
@@ -672,6 +727,17 @@
       "sourceUrl": "https://www.dailyexcelsior.com/india-to-host-11th-asian-senior-wushu-cship-in-2028/amp",
       "publishedAt": "2026-09-19T22:30:19.000Z",
       "fetchedAt": "2026-09-19T23:44:57.345Z"
+    },
+    {
+      "id": "287aa83fa35a8a9a",
+      "title": "4 People Arrested After Newlywed Bride Is Engulfed in Flames During Barbecue on Her Honeymoon",
+      "summary": "4 People Arrested After Newlywed Bride Is Engulfed in Flames During Barbecue on Her Honeymoon. This update was reported by People.com. Open the original report for full context and any developing updates.",
+      "category": "Crime & Breaking News",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ECrime%20%26amp%3B%20Breaking%20News%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "People.com",
+      "sourceUrl": "https://people.com/4-arrested-after-newlywed-bride-is-engulfed-in-flames-at-honeymoon-barbecue-india-12129457",
+      "publishedAt": "2026-09-19T22:18:07.000Z",
+      "fetchedAt": "2026-09-20T05:43:56.903Z"
     },
     {
       "id": "6708e7f3e17564b5",
@@ -2685,72 +2751,6 @@
       "sourceUrl": "https://www.indiatoday.in/entertainment/ott/story/choose-your-words-samay-raina-warns-nawazuddin-on-latent-recalls-ranveer-allahbadia-row-2998273-2026-09-19",
       "publishedAt": "2026-09-19T10:52:31.000Z",
       "fetchedAt": "2026-09-19T10:56:23.040Z"
-    },
-    {
-      "id": "0914c1370a42cd9b",
-      "title": "Why 6-state Kishau pact gives bragging rights to CM Sukhu before Himachal polls",
-      "summary": "Why 6-state Kishau pact gives bragging rights to CM Sukhu before Himachal polls. This update was reported by indianexpress.com. Open the original report for full context and any developing updates.",
-      "category": "Politics & Government",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EPolitics%20%26amp%3B%20Government%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "indianexpress.com",
-      "sourceUrl": "https://indianexpress.com/article/political-pulse/himachal-pradesh-chief-minister-sukhvinder-singh-sukhu-kishau-multipurpose-dam-project-zero-cost-agreement-bjp-credit-war-10885121/",
-      "publishedAt": "2026-09-19T10:47:15.000Z",
-      "fetchedAt": "2026-09-19T12:02:51.720Z"
-    },
-    {
-      "id": "666d94fa93667a09",
-      "title": "India’s wealth management market set to grow 2.5 times to $436 billion by 2034: Emkay Wealth",
-      "summary": "The market is estimated to grow at a compound annual growth rate of 10.6% over the period, with demand for wealth-management services expanding beyond traditional high-net-worth individuals (HNIs) to mass-affluent, affluent, HNI, ultra-HNI, family-office and institutional clients.",
-      "category": "Business & Finance",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260803094541_wealth.png",
-      "source": "Moneycontrol.com",
-      "sourceUrl": "https://www.moneycontrol.com/news/business/markets/india-s-wealth-management-market-set-to-grow-2-5-times-to-436-billion-by-2034-emkay-wealth-14033458.html/amp",
-      "publishedAt": "2026-09-19T10:38:30.000Z",
-      "fetchedAt": "2026-09-19T18:47:32.974Z"
-    },
-    {
-      "id": "b1df0552f5ccaae7",
-      "title": "NCP (SP) asks Centre to spell out economic fallout of US tariff threat over Russian oil",
-      "summary": "NCP (SP) asks Centre to spell out economic fallout of US tariff threat over Russian oil. This update was reported by The Economic Times. Open the original report for full context and any developing updates.",
-      "category": "Politics & Government",
-      "image": "https://m.economictimes.com/thumb/width-1280,height-720,imgsize-54098,msid-134352322/ncp-sp-asks-centre-to-spell-out-economic-fallout-of-us-tariff-threat-over-russian-oil.jpg",
-      "source": "The Economic Times",
-      "sourceUrl": "https://m.economictimes.com/news/politics-and-nation/ncp-sp-urges-government-to-reveal-economic-risks-of-us-tariffs-on-russian-oil-as-fuel-prices-loom/amp_articleshow/134352048.cms",
-      "publishedAt": "2026-09-19T10:36:00.000Z",
-      "fetchedAt": "2026-09-19T11:50:33.204Z"
-    },
-    {
-      "id": "cb4be08e1abb38c7",
-      "title": "Blackstone sees India nearing tipping point for foreign capital",
-      "summary": "India's human capital combined with American financial capital can conquer the entire world, Blackstone President Jon Gray says.",
-      "category": "Business & Finance",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/19/1600x900/logo/Jon_Gray_1789813637302_OrdF_1789813637501_xQek_7c757c7a-12b4-4182-947a-c91497f35fbf_AtA6.jpg",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/companies/people/blackstone-sees-india-nearing-tipping-point-for-foreign-capital-11789813536602.html",
-      "publishedAt": "2026-09-19T10:33:07.000Z",
-      "fetchedAt": "2026-09-19T18:19:29.409Z"
-    },
-    {
-      "id": "d0125d49150e7331",
-      "title": "Gujarat Shocker: Man kills 5-year-old daughter, stores body in refrigerator, dies by suicide, 3 notes recover",
-      "summary": "Gujarat Shocker: Man kills 5-year-old daughter, stores body in refrigerator, dies by suicide, 3 notes recovered crime news Amreli killing",
-      "category": "Crime & Breaking News",
-      "image": "https://static.india.com/wp-content/uploads/2026/09/gujarat-suicide-murder-crime-news.jpg",
-      "source": "india.com",
-      "sourceUrl": "https://www.india.com/news/india/gujarat-shocker-man-kills-5-year-old-daughter-stores-body-in-refrigerator-dies-by-suicide-3-notes-recovered-crime-news-amreli-killing-ipc-bns-murder-8527584/",
-      "publishedAt": "2026-09-19T10:30:11.000Z",
-      "fetchedAt": "2026-09-19T10:45:29.552Z"
-    },
-    {
-      "id": "11f5f4e1117b8c10",
-      "title": "India’s Semiconductor Ecosystem Gains Global Interest",
-      "summary": "India’s Semiconductor Ecosystem Draws Strong Global Participation And Investment Interest Day 2 of SEMICON India 2026 recorded 25 key announcements and collaborations across India’s semiconductor value chain. The developments covered manufacturing, materials, logistics, chip design, advanced packagi",
-      "category": "Technology",
-      "image": "https://stratnewsglobal.com/wp-content/uploads/2026/09/sngtech-web-thumb-adi-2026-09-19T155905.759.png",
-      "source": "StratNews Global",
-      "sourceUrl": "https://stratnewsglobal.com/technology/india-semiconductor-ecosystem/",
-      "publishedAt": "2026-09-19T10:29:55.000Z",
-      "fetchedAt": "2026-09-19T11:26:33.433Z"
     }
   ]
 }
