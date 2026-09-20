@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T14:46:38.258Z",
+  "updatedAt": "2026-09-20T14:57:50.213Z",
   "count": 250,
   "articles": [
     {
@@ -124,6 +124,17 @@
       "fetchedAt": "2026-09-20T13:40:30.802Z"
     },
     {
+      "id": "a639046e400e5f1c",
+      "title": "Neuromorphic Chip Developed At IIT (ISM) Dhanbad Gains Traction At SEMICON India 2026",
+      "summary": "This tiny chip will help develop futuristic technology with smart glasses for the visually impaired along with potential use in devices for detecting critical minerals.",
+      "category": "Technology",
+      "image": "https://imgs.etvbharat.com/etvbharat/prod-images/20-09-2026/1200-675-27674995-913-27674995-1789910581654.jpg",
+      "source": "ETV Bharat",
+      "sourceUrl": "https://www.etvbharat.com/en/state/neuromorphic-chip-developed-at-iit-ism-dhanbad-gains-traction-at-semicon-india-2026-enn26092003087",
+      "publishedAt": "2026-09-20T13:25:26.000Z",
+      "fetchedAt": "2026-09-20T14:57:45.128Z"
+    },
+    {
       "id": "efd4da70e1ebed02",
       "title": "'Quockerwodger, meaning a political puppet': Congress leader Tharoor takes dig at govt with 'word of our era'",
       "summary": "Congress leader Shashi Tharoor takes a sharp dig at the ruling party by sharing the unusual word quockerwodger on social media, adding another rare term to his political vocabulary today.",
@@ -177,6 +188,17 @@
       "sourceUrl": "https://m.economictimes.com/news/politics-and-nation/if-you-want-to-stop-bjp-talk-to-us-owaisi-open-to-alliance-ahead-of-up-polls-targets-govt-over-governance-issues/amp_articleshow/134368920.cms",
       "publishedAt": "2026-09-20T12:55:00.000Z",
       "fetchedAt": "2026-09-20T13:52:29.027Z"
+    },
+    {
+      "id": "199505e6b7adc998",
+      "title": "Asian Games: Indian Wushu Contingent Sees Early Exits And Near Misses",
+      "summary": "Indian wushu athletes Suraj Singh Mayanglambam, Aparna Dahiya, and Vikrant Baliyan faced mixed fortunes at the Aichi-Nagoya Asian Games.",
+      "category": "Sports",
+      "image": "https://im.rediff.com/1200-630/sports/2026/sep/20suraj-wushu.jpg",
+      "source": "Rediff",
+      "sourceUrl": "https://m.rediff.com/amp/sports/report/suraj-singh-11th-in-wushu-final-aparna-baliyan-out-at-asian-games/20260920.htm",
+      "publishedAt": "2026-09-20T12:49:30.000Z",
+      "fetchedAt": "2026-09-20T14:57:41.487Z"
     },
     {
       "id": "0ddd1908e74b3a55",
@@ -1024,6 +1046,17 @@
       "sourceUrl": "https://www.tribuneindia.com/news/india/icymithetribuneopinion-new-us-law-paves-the-way-for-a-tariff-onslaught/amp",
       "publishedAt": "2026-09-20T08:25:22.000Z",
       "fetchedAt": "2026-09-20T09:50:34.104Z"
+    },
+    {
+      "id": "cce36878056cf22d",
+      "title": "Vettuvam first glimpse: Pa. Ranjith unveils a striking world of warriors and clans - Mid-Day",
+      "summary": "Pa. Ranjith’s Vettuvam first glimpse introduces a striking world of powerful clans and intense rivalries, with Arya, Sobhita Dhulipala and the ensemble cast",
+      "category": "Entertainment",
+      "image": "https://images.mid-day.com/images/images/2026/sep/vettuflnch-1789892150629_d.png",
+      "source": "Mid-Day",
+      "sourceUrl": "https://www.mid-day.com/entertainment/regional-indian-cinema-news/article/vettuvam-first-look-out-arya-sobhita-dhulipala-lead-a-striking-ensemble-23650941",
+      "publishedAt": "2026-09-20T08:25:00.000Z",
+      "fetchedAt": "2026-09-20T14:57:43.870Z"
     },
     {
       "id": "cce36878056cf22d",
@@ -2718,39 +2751,6 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/city/kochi/dark-reality-night-time-violence-surges-in-kochi/articleshow/134360231.cms",
       "publishedAt": "2026-09-19T20:09:00.000Z",
       "fetchedAt": "2026-09-20T09:10:29.368Z"
-    },
-    {
-      "id": "637e9ca4dc5e22dc",
-      "title": "Nvidia CEO Jensen Huang Urges India to Move Faster on AI",
-      "summary": "Chapel Hill, N.C. — Nvidia CEO Jensen Huang said India should move quickly to capitalize on artificial intelligence, pointing to the country’s strength in information technology and urging Indian companies &hellip;",
-      "category": "Technology",
-      "image": "https://indianewengland.com/wp-content/uploads/2026/09/Jensen-Huang.png",
-      "source": "INDIA New England News",
-      "sourceUrl": "https://indianewengland.com/nvidia-ceo-jensen-huang-urges-india-to-move-faster-on-ai/",
-      "publishedAt": "2026-09-19T20:03:01.000Z",
-      "fetchedAt": "2026-09-19T21:59:54.064Z"
-    },
-    {
-      "id": "9b9b7ee8f1f752fd",
-      "title": "At 17, New York student Liam Anderson breaks national bench press record with 396 pounds, then breaks his",
-      "summary": "break the national bench press record in his age and weight class before turning 18 later this month. The Shenendehowa High School senior did more than that.",
-      "category": "National & Trending News",
-      "image": "https://static.toiimg.com/thumb/msid-134360016,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/international-sports/at-17-new-york-student-liam-anderson-breaks-national-bench-press-record-with-396-pounds-then-breaks-his-own-record-again-with-402-pounds/articleshow/134360016.cms",
-      "publishedAt": "2026-09-19T19:50:00.000Z",
-      "fetchedAt": "2026-09-19T20:32:34.681Z"
-    },
-    {
-      "id": "bc85a58b9fd1533d",
-      "title": "PM Modi Anchors India’s Resilient Semiconductor Ecosystem",
-      "summary": "PM Modi Anchors India’s Resilient Semiconductor Ecosystem. This update was reported by The Kashmir Horizon. Open the original report for full context and any developing updates.",
-      "category": "Technology",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "The Kashmir Horizon",
-      "sourceUrl": "https://thekashmirhorizon.com/2026/09/20/pm-modi-anchors-indias-resilient-semiconductor-ecosystem/",
-      "publishedAt": "2026-09-19T19:48:49.000Z",
-      "fetchedAt": "2026-09-19T21:59:54.291Z"
     }
   ]
 }
