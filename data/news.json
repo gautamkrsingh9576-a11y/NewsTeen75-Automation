@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-20T02:37:32.299Z",
+  "updatedAt": "2026-09-20T02:50:22.483Z",
   "count": 250,
   "articles": [
+    {
+      "id": "8310a8f983932ea3",
+      "title": "IND W Vs BAN W Live Streaming: When And Where To Watch India vs Bangladesh Women's Asian Games 2nd Semi-Final",
+      "summary": "India&rsquo;s quarter-final success was built on a dominant display with both bat and ball. Spinner Shree Charani ripped through Japan&rsquo;s middle and lower order to finish with 4 for 10.",
+      "category": "Sports",
+      "image": "https://c.ndtvimg.com/2026-09/4mlhsc9s_c_625x300_19_September_26.jpeg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "source": "NDTV Profit",
+      "sourceUrl": "https://www.ndtvprofit.com/sports/ind-w-vs-ban-w-live-streaming-when-and-where-to-watch-india-vs-bangladesh-womens-asian-games-2nd-semi-final-12067483",
+      "publishedAt": "2026-09-20T02:32:41.000Z",
+      "fetchedAt": "2026-09-20T02:50:14.863Z"
+    },
     {
       "id": "3ae49e62eecb9e2b",
       "title": "India secures fourth consecutive win at 2026 Chess Olympiad",
@@ -793,6 +804,17 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/videos/entertainment/regional/gujarati/chhaydo-official-teaser/videoshow/134357800.cms",
       "publishedAt": "2026-09-19T17:10:19.000Z",
       "fetchedAt": "2026-09-19T17:25:12.055Z"
+    },
+    {
+      "id": "e7b72c3963204333",
+      "title": "‘Despite Jhooth ki Goonj’: BJP targets Rahul Gandhi after ABVP's big win in DUSU elections | India News",
+      "summary": "Slamming Rahul Gandhi, BJP's Sidharth Yadav said the ABVP victory reflected students' rejection of “politics of lies, deceit and propaganda,\" | India News",
+      "category": "National & Trending News",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/19/1600x900/logo/DUSU_1789837885195_w3VM_1789837902094_ZghU_47fc62f3-9cae-455e-94da-9b52eaee18ff_CkpR.jpg",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/tight-slap-on-his-face-bjp-rahul-gandhi-abvps-big-win-dusu-2026-election-results-nsui-congress-101789828782110.html",
+      "publishedAt": "2026-09-19T17:05:34.000Z",
+      "fetchedAt": "2026-09-20T02:50:22.483Z"
     },
     {
       "id": "e7b72c3963204333",
@@ -2729,28 +2751,6 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/videos/entertainment/regional/telugu/sigma-official-telugu-trailer/videoshow/134351115.cms",
       "publishedAt": "2026-09-19T09:05:04.000Z",
       "fetchedAt": "2026-09-19T10:45:33.960Z"
-    },
-    {
-      "id": "5754efab3592e187",
-      "title": "How India taught its shooters to slow their hearts",
-      "summary": "How India taught its shooters to slow their hearts. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
-      "category": "Sports",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "The Indian Express",
-      "sourceUrl": "https://indianexpress.com/article/sports/india-shooters-slow-their-hearts-asian-games-2026-10884988/",
-      "publishedAt": "2026-09-19T09:05:03.000Z",
-      "fetchedAt": "2026-09-19T10:34:06.964Z"
-    },
-    {
-      "id": "e8c450d9e93e1b35",
-      "title": "Sigma - Official Tamil Trailer",
-      "summary": "Watch the Official trailer from Tamil movie 'Sigma' starring Sundeep Kishan, Faria Abdullah, Raju Sundaram, Sampath Raj and Shiv Pandit. 'Sigma' movie is directed by Jason Sanjay. To know more about 'Sigma' trailer watch the video. Check out the latest Tamil trailers, new movie trailers, trending Tamil movie trailer, and…",
-      "category": "Entertainment",
-      "image": "https://static.toiimg.com/thumb/msid-134351012,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/videos/entertainment/regional/telugu/sigma-official-tamil-trailer/videoshow/134351012.cms",
-      "publishedAt": "2026-09-19T09:01:23.000Z",
-      "fetchedAt": "2026-09-19T09:10:42.485Z"
     }
   ]
 }
