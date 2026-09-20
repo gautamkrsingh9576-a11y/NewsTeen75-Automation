@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-09-20T04:58:09.355Z",
+  "updatedAt": "2026-09-20T05:16:25.202Z",
   "count": 250,
   "articles": [
+    {
+      "id": "ce3c87e9531b196d",
+      "title": "IIT Kanpur to train 900 UP school teachers in digital skills",
+      "summary": "IIT Kanpur has expanded its DLCCAI programme to train 900 secondary school teachers across Uttar Pradesh. The initiative aims to help teachers bring digital and computational skills into classrooms in line with NEP 2020.",
+      "category": "Technology",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/iit-kanpur-launches-digital-skills-programme-for-900-secondary-teachers-in-uttar-pradesh-image-cou-200215310-16x9_0.png?VersionId=f7bwlKlBeUSh2xAqAA.VIUkbAQHkXPzM",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/amp/education-today/news/story/iit-kanpur-to-train-900-uttar-pradesh-secondary-school-teachers-2998684-2026-09-20",
+      "publishedAt": "2026-09-20T05:03:03.000Z",
+      "fetchedAt": "2026-09-20T05:16:18.502Z"
+    },
+    {
+      "id": "09e5a89d47b2934b",
+      "title": "Former India pacer Parvinder Awana urges youth to make fitness a daily habit through Fit India campaign",
+      "summary": "Former India pacer Parvinder Awana urges youth to make fitness a daily habit through Fit India campaign. This update was reported by The News Mill. Open the original report for full context and any developing updates.",
+      "category": "Sports",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "The News Mill",
+      "sourceUrl": "https://thenewsmill.com/2026/09/former-india-pacer-parvinder-awana-urges-youth-to-make-fitness-a-daily-habit-through-fit-india-campaign/",
+      "publishedAt": "2026-09-20T04:57:22.000Z",
+      "fetchedAt": "2026-09-20T05:16:14.973Z"
+    },
+    {
+      "id": "6b845ec16635a480",
+      "title": "India wins silver in women’s 10m air rifle team at Asian Games 2026",
+      "summary": "India wins silver in women’s 10m air rifle team at Asian Games 2026. This update was reported by The News Mill. Open the original report for full context and any developing updates.",
+      "category": "Sports",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "The News Mill",
+      "sourceUrl": "https://thenewsmill.com/2026/09/india-wins-silver-in-womens-10m-air-rifle-team-at-asian-games-2026/",
+      "publishedAt": "2026-09-20T04:57:11.000Z",
+      "fetchedAt": "2026-09-20T05:16:15.197Z"
+    },
     {
       "id": "96d437e7db0bfd5a",
       "title": "Three killed, one critically injured as speeding BMW crashes on Mumbai Coastal Road",
@@ -311,6 +344,17 @@
       "fetchedAt": "2026-09-20T04:58:07.970Z"
     },
     {
+      "id": "61f894b657b1621f",
+      "title": "PM Modi Tops Global Popularity Rankings with 68% Approval, Says Morning Consult Survey | Akashvani News",
+      "summary": "PM Modi Tops Global Popularity Rankings with 68% Approval, Says Morning Consult Survey | Akashvani News. This update was reported by News On AIR. Open the original report for full context and any developing updates.",
+      "category": "National & Trending News",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ENational%20%26amp%3B%20Trending%20News%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "News On AIR",
+      "sourceUrl": "https://newsonair.gov.in/pm-modi-tops-global-popularity-rankings-with-68-approval-says-morning-consult-survey/",
+      "publishedAt": "2026-09-20T02:19:25.000Z",
+      "fetchedAt": "2026-09-20T05:16:24.960Z"
+    },
+    {
       "id": "3ae49e62eecb9e2b",
       "title": "India secures fourth consecutive win at 2026 Chess Olympiad",
       "summary": "India secures fourth consecutive win at 2026 Chess Olympiad. This update was reported by The News Mill. Open the original report for full context and any developing updates.",
@@ -529,6 +573,17 @@
       "sourceUrl": "https://ipowatch.in/spectraa-technology-ipo-gmp-grey-market-premium/",
       "publishedAt": "2026-09-19T23:23:59.000Z",
       "fetchedAt": "2026-09-20T01:26:09.387Z"
+    },
+    {
+      "id": "c277e02bd184e3d1",
+      "title": "PM Modi inaugurates Micron Technology’s Semiconductor plant at Sanand in Gujarat",
+      "summary": "PM Modi inaugurates Micron Technology’s Semiconductor plant at Sanand in Gujarat. This update was reported by News On AIR. Open the original report for full context and any developing updates.",
+      "category": "Technology",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "News On AIR",
+      "sourceUrl": "https://newsonair.gov.in/pm-modi-to-inaugurate-micron-technologys-state-of-the-art-semiconductor-atmp-facility-in-gujarat/",
+      "publishedAt": "2026-09-19T23:15:34.000Z",
+      "fetchedAt": "2026-09-20T05:16:20.441Z"
     },
     {
       "id": "7b40022c5f5b3e08",
@@ -2696,61 +2751,6 @@
       "sourceUrl": "https://economictimes.indiatimes.com/news/economy/policy/a-costly-policy-error-by-china-should-be-a-cautionary-tale-for-india/articleshow/134351887.cms?from=mdr",
       "publishedAt": "2026-09-19T10:13:01.000Z",
       "fetchedAt": "2026-09-19T18:47:34.283Z"
-    },
-    {
-      "id": "25405c7b075af98e",
-      "title": "BJD protests UPI changes, says Centre should fund digital payments",
-      "summary": "The Biju Janata Dal (BJD) on Saturday rejected the Centre's decision to impose a 0.4 per cent merchant discount rate (MDR) on person-to-merchant UPI transactions above Rs 2,000, with Rajya Sabha MP Santrupt Misra saying the government should explore other ways to fund the digital-payment infrastructure.",
-      "category": "National & Trending News",
-      "image": "https://static.toiimg.com/thumb/msid-134351976,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/bjd-protests-upi-changes-says-centre-should-fund-digital-payments/articleshow/134351954.cms",
-      "publishedAt": "2026-09-19T10:11:00.000Z",
-      "fetchedAt": "2026-09-19T15:25:26.577Z"
-    },
-    {
-      "id": "8d3b9a674e7d277b",
-      "title": "SFAL signs seven MoUs to strengthen India’s semiconductor startup ecosystem",
-      "summary": "The Semiconductor Future Accelerator Lab (SFAL) strengthens India&rsquo;s semiconductor startup ecosystem by signing seven strategic Memoranda of Understanding (MoUs) with leading organizations, enhancing research, manufacturing, and innovation.",
-      "category": "Technology",
-      "image": "https://etimg.etb2bimg.com/thumb/msid-134351740,imgsize-166548,width-1200,height=627,overlay-etgovernment,resizemode-75/news/technology/sfal-signs-seven-mous-to-strengthen-indias-semiconductor-startup-ecosystem.jpg",
-      "source": "ET Government",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/news/technology/sfal-signs-seven-mous-to-strengthen-indias-semiconductor-startup-ecosystem/134351740",
-      "publishedAt": "2026-09-19T10:06:13.000Z",
-      "fetchedAt": "2026-09-19T13:49:53.141Z"
-    },
-    {
-      "id": "b47deff0254a93eb",
-      "title": "Apple’s expanded iCloud+ bundle goes live in India, subscribers receive notifications",
-      "summary": "Apple’s expanded iCloud+ subscription is now live in India, with customers beginning to receive notifications about the addition of Apple TV and Apple Arcade at no extra cost. The change brings cloud storage, video streaming and gaming into a single subscription.",
-      "category": "Technology",
-      "image": "https://static.toiimg.com/thumb/msid-134351893,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/apples-expanded-icloud-bundle-goes-live-in-india-subscribers-receive-notifications/articleshow/134351884.cms",
-      "publishedAt": "2026-09-19T10:06:00.000Z",
-      "fetchedAt": "2026-09-19T10:20:40.076Z"
-    },
-    {
-      "id": "b6952092e69d6f66",
-      "title": "DMK, Left take aim at Vijay for seeking handover of Chennai airport to private operator in letter to Modi",
-      "summary": "Request comes after TVK govt dropped proposed greenfield airport at Parandur and shifted focus to expanding existing Meenambakkam facility, with alternative sites for 2nd airport under consideration.",
-      "category": "Politics & Government",
-      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/08/Vijay.jpg",
-      "source": "ThePrint",
-      "sourceUrl": "https://theprint.in/politics/dmk-left-take-aim-at-vijay-for-seeking-handover-of-chennai-airport-to-private-operator-in-letter-to-modi/3047318/",
-      "publishedAt": "2026-09-19T10:05:32.000Z",
-      "fetchedAt": "2026-09-20T03:49:01.663Z"
-    },
-    {
-      "id": "a428092cbccbcb73",
-      "title": "India sends fresh tranche of relief material to Nepal",
-      "summary": "India dispatches 11 tonnes of relief supplies to Nepal as part of ongoing humanitarian assistance following devastating flash floods.",
-      "category": "National & Trending News",
-      "image": "https://th-i.thgim.com/public/incoming/inmagk/article71484328.ece/alternates/LANDSCAPE_1200/20260919095L.jpg",
-      "source": "The Hindu",
-      "sourceUrl": "https://www.thehindu.com/news/national/india-sends-fresh-tranche-of-relief-material-to-nepal/article71484283.ece",
-      "publishedAt": "2026-09-19T10:04:45.000Z",
-      "fetchedAt": "2026-09-20T03:35:42.435Z"
     }
   ]
 }
