@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-20T16:50:37.270Z",
-  "count": 153,
+  "updatedAt": "2026-09-20T16:52:53.144Z",
+  "count": 164,
   "articles": [
+    {
+      "id": "4ca7e5f63ac4011f",
+      "title": "Yashasvi Jaiswal needs more ODI chances as backup opener before 2027 World Cup: Pathan",
+      "summary": "Former India all-rounder Irfan Pathan wants Yashasvi Jaiswal to get a consistent run in the upcoming ODI series against the West Indies, saying the opener needs enough opportunities to establish himself as India's backup opener before the 2027 World Cup.",
+      "category": "Sports",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/yashasvi-jaiswal-204137658-16x9.jpg?VersionId=XC6DqpBoEhzhU8xkrEL8HBVAZXnT09Km",
+      "source": "indiatoday.in",
+      "sourceUrl": "https://www.indiatoday.in/sports/cricket/story/irfan-pathan-yashasvi-jaiswal-chances-west-indies-odi-series-world-cup-2999091-2026-09-20",
+      "publishedAt": "2026-09-20T16:38:40.000Z",
+      "fetchedAt": "2026-09-20T16:52:11.037Z"
+    },
     {
       "id": "b13e4d492671894c",
       "title": "\"Not sparing the living or the dead”: Owaisi condemns Kanpur cemetery demolition",
@@ -12,6 +23,28 @@
       "sourceUrl": "https://www.aninews.in/news/national/general-news/not-sparing-the-living-or-the-dead8221-owaisi-condemns-kanpur-cemetery-demolition20260920220842/",
       "publishedAt": "2026-09-20T16:38:00.000Z",
       "fetchedAt": "2026-09-20T16:49:50.319Z"
+    },
+    {
+      "id": "7a5f20ee3c6e5fbc",
+      "title": "Watch! Bhojpuri actress Kajal Raghwani mobbed, car attacked by crowd in Bihar - Mid-Day",
+      "summary": "Bhojpuri actress Kajal Raghwani was recently mobbed, and her car was attacked while visiting Bihar Sharif for an event. She later assured fans she is safe",
+      "category": "Entertainment",
+      "image": "https://images.mid-day.com/images/images/2026/sep/kajalbhojpuri-1789907684779_d.png",
+      "source": "Mid-Day",
+      "sourceUrl": "https://www.mid-day.com/amp/entertainment/regional-indian-cinema-news/article/bhojpuri-actress-kajal-raghwani-car-attacked-while-visiting-bihar-sharif-23650965",
+      "publishedAt": "2026-09-20T13:02:00.000Z",
+      "fetchedAt": "2026-09-20T16:50:35.549Z"
+    },
+    {
+      "id": "b062304ce5392bf7",
+      "title": "From Nepal to Jodhpur: 2 Lawrence gang shooters, carrying Rs 5 lakh reward each, arrested during hotel c",
+      "summary": "Rajasthan Police's Anti-Gangster Task Force (AGTF) arrests two alleged sharpshooters linked to the Lawrence-Arzoo Bishnoi gang.AGTF Additional Director General of Police Dinesh M N says the two had allegedly come to Jodhpur to carry out a major crime.(Full… pic.twitter.com/JMANNzCnL9",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134371511,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/jodhpur/from-nepal-to-jodhpur-2-lawrence-gang-shooters-carrying-rs-5-lakh-reward-each-arrested-during-hotel-check-in/articleshow/134371410.cms",
+      "publishedAt": "2026-09-20T16:18:00.000Z",
+      "fetchedAt": "2026-09-20T16:52:03.460Z"
     },
     {
       "id": "54fa2a88107dfdf9",
@@ -25,15 +58,15 @@
       "fetchedAt": "2026-09-20T15:43:12.190Z"
     },
     {
-      "id": "7a5f20ee3c6e5fbc",
-      "title": "Watch! Bhojpuri actress Kajal Raghwani mobbed, car attacked by crowd in Bihar - Mid-Day",
-      "summary": "Bhojpuri actress Kajal Raghwani was recently mobbed, and her car was attacked while visiting Bihar Sharif for an event. She later assured fans she is safe",
-      "category": "Entertainment",
-      "image": "https://images.mid-day.com/images/images/2026/sep/kajalbhojpuri-1789907684779_d.png",
-      "source": "Mid-Day",
-      "sourceUrl": "https://www.mid-day.com/amp/entertainment/regional-indian-cinema-news/article/bhojpuri-actress-kajal-raghwani-car-attacked-while-visiting-bihar-sharif-23650965",
-      "publishedAt": "2026-09-20T13:02:00.000Z",
-      "fetchedAt": "2026-09-20T16:50:35.549Z"
+      "id": "b0a7445d8fa7d0e5",
+      "title": "Bihar forms SIT to probe vehicle insurance fraud, tightens challan norms",
+      "summary": "The Bihar Police have taken a series of measures to curb insurance fraud and improve traffic enforcement, including the formation of a Special Investigation Team (SIT) under the Crime Investigation Department (CID) to probe suspected ‘vehicle implant’ scams, stricter norms for issuing traffic challans and a directive to release accident-hit…",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134368657,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/patna/bihar-forms-sit-to-probe-vehicle-insurance-fraud-tightens-challan-norms/articleshow/134368658.cms",
+      "publishedAt": "2026-09-20T12:47:00.000Z",
+      "fetchedAt": "2026-09-20T16:50:32.571Z"
     },
     {
       "id": "cce0dae05b3c8b34",
@@ -58,17 +91,6 @@
       "fetchedAt": "2026-09-20T16:26:28.039Z"
     },
     {
-      "id": "b0a7445d8fa7d0e5",
-      "title": "Bihar forms SIT to probe vehicle insurance fraud, tightens challan norms",
-      "summary": "The Bihar Police have taken a series of measures to curb insurance fraud and improve traffic enforcement, including the formation of a Special Investigation Team (SIT) under the Crime Investigation Department (CID) to probe suspected ‘vehicle implant’ scams, stricter norms for issuing traffic challans and a directive to release accident-hit…",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134368657,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/patna/bihar-forms-sit-to-probe-vehicle-insurance-fraud-tightens-challan-norms/articleshow/134368658.cms",
-      "publishedAt": "2026-09-20T12:47:00.000Z",
-      "fetchedAt": "2026-09-20T16:50:32.571Z"
-    },
-    {
       "id": "89c346c232d941c1",
       "title": "Vaibhav Sooryavanshi can be India's future but don't rush him: Sanath Jayasuriya",
       "summary": "Vaibhav Sooryavanshi can be India's future, but the teenager should not be rushed into the playing XI, former Sri Lanka captain Sanath Jayasuriya said on Sunday, backing the young batter to make the most of his opportunities when they come his way.",
@@ -78,6 +100,17 @@
       "sourceUrl": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-india-do-not-rush-sanath-jayasuriya-playing-xi-2999050-2026-09-20",
       "publishedAt": "2026-09-20T15:00:10.000Z",
       "fetchedAt": "2026-09-20T15:15:31.019Z"
+    },
+    {
+      "id": "a4bcee89cdfc8490",
+      "title": "Kangana Ranaut HITS BACK at people trolling Maithili Thakur for arriving in Rolls-Royce at Lalbaugcha Raj",
+      "summary": "Kangana Ranaut has come out in support of young singing talent and Bihar MLA Maithili Thakur, who was trolled for visiting Mumbai's Lalbaugcha Raja pandal in a luxury Rolls-Royce Cullinan. Kangana asked why critics feel hurt whenever politicians try to make their own lives better.",
+      "category": "Entertainment",
+      "image": "https://static.toiimg.com/thumb/msid-134367497,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-hits-back-at-people-trolling-maithili-thakur-for-arriving-in-rolls-royce-at-lalbaugcha-raja-some-people-a-start-to-burn/articleshow/134367439.cms",
+      "publishedAt": "2026-09-20T11:27:00.000Z",
+      "fetchedAt": "2026-09-20T11:39:40.819Z"
     },
     {
       "id": "229be255942451c3",
@@ -99,18 +132,18 @@
       "source": "indiatoday.in",
       "sourceUrl": "https://www.indiatoday.in/amp/technology/video/delhi-air-crisis-german-filter-cubes-and-tech-innovations-to-tackle-smog-ytvd-2999035-2026-09-20",
       "publishedAt": "2026-09-20T14:39:55.000Z",
-      "fetchedAt": "2026-09-20T16:50:14.885Z"
+      "fetchedAt": "2026-09-20T16:52:21.656Z"
     },
     {
-      "id": "a4bcee89cdfc8490",
-      "title": "Kangana Ranaut HITS BACK at people trolling Maithili Thakur for arriving in Rolls-Royce at Lalbaugcha Raj",
-      "summary": "Kangana Ranaut has come out in support of young singing talent and Bihar MLA Maithili Thakur, who was trolled for visiting Mumbai's Lalbaugcha Raja pandal in a luxury Rolls-Royce Cullinan. Kangana asked why critics feel hurt whenever politicians try to make their own lives better.",
-      "category": "Entertainment",
-      "image": "https://static.toiimg.com/thumb/msid-134367497,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-hits-back-at-people-trolling-maithili-thakur-for-arriving-in-rolls-royce-at-lalbaugcha-raja-some-people-a-start-to-burn/articleshow/134367439.cms",
-      "publishedAt": "2026-09-20T11:27:00.000Z",
-      "fetchedAt": "2026-09-20T11:39:40.819Z"
+      "id": "f9be4fc84aef9acd",
+      "title": "Bihar govt's coffers empty, yet crores spent on PM Modi's birthday celebrations: Tejashwi Yadav",
+      "summary": "Tejashwi Yadav alleges state coffers are empty while crores are spent on Prime Minister Narendra Modi birthday celebrations, demanding immediate financial assistance for affected families.",
+      "category": "Politics & Government",
+      "image": "https://media.assettype.com/deccanherald%2F2026-09-20%2Feda931qt%2Fcollage-2026-09-20T161733.484.jpg?rect=0%2C0%2C1280%2C672&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
+      "source": "Deccan Herald",
+      "sourceUrl": "https://www.deccanherald.com/india/bihar/bihar-govts-coffers-empty-yet-crores-spent-on-pm-modis-birthday-celebrations-tejashwi-yadav-4152835",
+      "publishedAt": "2026-09-20T10:50:15.000Z",
+      "fetchedAt": "2026-09-20T11:26:08.570Z"
     },
     {
       "id": "0928b57567b164ca",
@@ -135,15 +168,15 @@
       "fetchedAt": "2026-09-20T14:34:57.081Z"
     },
     {
-      "id": "f9be4fc84aef9acd",
-      "title": "Bihar govt's coffers empty, yet crores spent on PM Modi's birthday celebrations: Tejashwi Yadav",
-      "summary": "Tejashwi Yadav alleges state coffers are empty while crores are spent on Prime Minister Narendra Modi birthday celebrations, demanding immediate financial assistance for affected families.",
-      "category": "Politics & Government",
-      "image": "https://media.assettype.com/deccanherald%2F2026-09-20%2Feda931qt%2Fcollage-2026-09-20T161733.484.jpg?rect=0%2C0%2C1280%2C672&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
-      "source": "Deccan Herald",
-      "sourceUrl": "https://www.deccanherald.com/india/bihar/bihar-govts-coffers-empty-yet-crores-spent-on-pm-modis-birthday-celebrations-tejashwi-yadav-4152835",
-      "publishedAt": "2026-09-20T10:50:15.000Z",
-      "fetchedAt": "2026-09-20T11:26:08.570Z"
+      "id": "3ab8af1ef7196e83",
+      "title": "The Vvaan: Sidharth Malhotra and Tamannaah Bhatia honour Bihar’s Chhath rituals",
+      "summary": "The team behind the movie The Vvaan visited Patna ahead of the film’s September 25 release. Tamannaah Bhatia and Sidharth Malhotra, along with their producers,",
+      "category": "Entertainment",
+      "image": "https://cf-images.assettype.com/indulgexpress%2F2026-09-20%2F2s2t2y47%2F818062303186160743400262932876852348868319870n.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "IndulgExpress",
+      "sourceUrl": "https://www.indulgexpress.com/amp/story/entertainment/celebs/2026/Sep/20/the-vvaan-sidharth-malhotra-and-tamannaah-bhatia-honour-bihars-chhath-rituals",
+      "publishedAt": "2026-09-20T09:11:00.000Z",
+      "fetchedAt": "2026-09-20T16:52:51.875Z"
     },
     {
       "id": "ef3213ea14984199",
@@ -157,6 +190,17 @@
       "fetchedAt": "2026-09-20T16:10:00.429Z"
     },
     {
+      "id": "42374e1c6d61bf33",
+      "title": "SpectraA Technology IPO GMP, Grey Market Premium Today",
+      "summary": "SpectraA Technology IPO GMP today. Find out SpectraA Technology IPO grey market premium, kostak, subject to sauda rates with expected listing gain.",
+      "category": "Technology",
+      "image": "https://ipowatch.in/wp-content/uploads/2026/09/spectraa-technology-ipo.jpg",
+      "source": "IPO Watch",
+      "sourceUrl": "https://ipowatch.in/spectraa-technology-ipo-gmp-grey-market-premium/",
+      "publishedAt": "2026-09-20T14:28:21.000Z",
+      "fetchedAt": "2026-09-20T16:52:26.758Z"
+    },
+    {
       "id": "1d645e87ca3d32f5",
       "title": "Kerala Sports-Tech startup Dartle raises $100,000 to enter US market",
       "summary": "The youth-sports technology startup will use the funding to expand its B2B platform.",
@@ -168,15 +212,15 @@
       "fetchedAt": "2026-09-20T14:34:59.148Z"
     },
     {
-      "id": "5ff70aaff1a0df75",
-      "title": "From Digital Governance To AI Leadership Uttar Pradesh’s Next Growth Chapter",
-      "summary": "Uttar Pradesh is strengthening its journey towards becoming a leading digital and technology hub through progressive policies, robust infrastructure, and a strong focus on innovation, investment, and digital governance. Shri Alok Kumar, Principal Secretary, Department of IT & Electronics, Government of Uttar Pradesh, shares his insights on the State's technology…",
-      "category": "Technology",
-      "image": "https://egov.eletsonline.com/wp-content/uploads/2026/09/Shri-Alok-Kumar.jpg",
-      "source": "Elets eGov",
-      "sourceUrl": "https://egov.eletsonline.com/2026/09/from-digital-governance-to-ai-leadership-uttar-pradeshs-next-growth-chapter/",
-      "publishedAt": "2026-09-20T10:05:57.000Z",
-      "fetchedAt": "2026-09-20T16:50:36.360Z"
+      "id": "3faf8d7918681ae3",
+      "title": "East Zone’s new cricketing core: How Bihar and Jharkhand talent powered Duleep Trophy win",
+      "summary": "East Zone’s Duleep Trophy triumph over favourites South Zone reflected a changing power centre in Indian domestic cricket, with players from Jharkhand and Bihar leading the charge. Ishan Kishan’s 270, alongside crucial contributions from Kumar Kushagra, Mohammed Kounain Quraishi and Shikhar Mohan, highlighted the region’s growing talent pool and its…",
+      "category": "Sports",
+      "image": "https://s.yimg.com/lo/mysterio/api/3dc928d45c233e20e7bedf13d3a6eb4eac39e48549b354b899a53a7c19ce237b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwillow_sports_articles_673%2F3b8ecd37f760fa5998ff90bbb15f2580.jpg",
+      "source": "Yahoo Sports",
+      "sourceUrl": "https://sports.yahoo.com/articles/east-zone-cricketing-core-bihar-080100670.html",
+      "publishedAt": "2026-09-20T08:01:00.000Z",
+      "fetchedAt": "2026-09-20T16:50:33.873Z"
     },
     {
       "id": "f4fe216c2872b8e8",
@@ -201,6 +245,17 @@
       "fetchedAt": "2026-09-20T14:35:20.372Z"
     },
     {
+      "id": "c8dee49868675da4",
+      "title": "Jan Suraaj announces candidates for 5 Bihar Legislative Council seats",
+      "summary": "Prashant Kishors Jan Suraaj is getting an early start on Bihars next electoral contest, naming candidates for five of the eight Legislative Council seats headed for polls. From backing a sitting MLC for another term to fielding a lawyer-turned-politician against a JD(U) heavyweight, Kishor is widening his partys footprint in…",
+      "category": "Politics & Government",
+      "image": "https://img.etimg.com/thumb/msid-134364926,width-1200,height-630,imgsize-141656,overlay-economictimes/articleshow.jpg",
+      "source": "The Economic Times",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/politics-and-nation/jan-suraaj-announces-candidates-for-5-bihar-legislative-council-seats/articleshow/134364901.cms?from=mdr",
+      "publishedAt": "2026-09-20T07:12:48.000Z",
+      "fetchedAt": "2026-09-20T16:50:31.296Z"
+    },
+    {
       "id": "b9441ca788830e4b",
       "title": "Quockerwodger’: Tharoor takes dig at govt with ‘word of our era’",
       "summary": "Congress leader Shashi Tharoor on Sunday,September 20, shared the word of the era \" quockerwodger\" taking a dig at the government.",
@@ -210,17 +265,6 @@
       "sourceUrl": "https://www.siasat.com/quockerwodger-tharoor-takes-dig-at-govt-with-word-of-our-era-3545399/amp/",
       "publishedAt": "2026-09-20T14:21:00.000Z",
       "fetchedAt": "2026-09-20T15:43:09.941Z"
-    },
-    {
-      "id": "3faf8d7918681ae3",
-      "title": "East Zone’s new cricketing core: How Bihar and Jharkhand talent powered Duleep Trophy win",
-      "summary": "East Zone’s Duleep Trophy triumph over favourites South Zone reflected a changing power centre in Indian domestic cricket, with players from Jharkhand and Bihar leading the charge. Ishan Kishan’s 270, alongside crucial contributions from Kumar Kushagra, Mohammed Kounain Quraishi and Shikhar Mohan, highlighted the region’s growing talent pool and its…",
-      "category": "Sports",
-      "image": "https://s.yimg.com/lo/mysterio/api/3dc928d45c233e20e7bedf13d3a6eb4eac39e48549b354b899a53a7c19ce237b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwillow_sports_articles_673%2F3b8ecd37f760fa5998ff90bbb15f2580.jpg",
-      "source": "Yahoo Sports",
-      "sourceUrl": "https://sports.yahoo.com/articles/east-zone-cricketing-core-bihar-080100670.html",
-      "publishedAt": "2026-09-20T08:01:00.000Z",
-      "fetchedAt": "2026-09-20T16:50:33.873Z"
     },
     {
       "id": "e28248f5b907490e",
@@ -234,6 +278,17 @@
       "fetchedAt": "2026-09-20T16:26:27.319Z"
     },
     {
+      "id": "cfc13bb3c5844384",
+      "title": "Pakistan out of Asian Games after Sri Lanka cruise through to the final",
+      "summary": "Sri Lanka beat Pakistan by 8 wickets in the 2026 Asian Games women's semi-final. Athapaththu hit 83 not out to seal the win. Read more on CricTracker.",
+      "category": "Sports",
+      "image": "https://media.crictracker.com/media/attachments/1778926620139_Pakistan-Women's-Team.jpeg",
+      "source": "CricTracker",
+      "sourceUrl": "https://www.crictracker.com/cricket-news/pakistan-out-of-asian-games-after-sri-lanka-cruise-through-to-the-final/?amp=1",
+      "publishedAt": "2026-09-20T06:21:00.000Z",
+      "fetchedAt": "2026-09-20T16:52:50.964Z"
+    },
+    {
       "id": "7fc539d9c9a00ac0",
       "title": "Indian Diaspora in SA: Partnering India's Tech Future",
       "summary": "Rajya Sabha Deputy Chairman Harivansh Singh calls on Indian diaspora in South Africa to invest in India",
@@ -243,17 +298,6 @@
       "sourceUrl": "https://money.rediff.com/news/market/indian-diaspora-in-sa-partnering-india-s-tech-future/54682120260920",
       "publishedAt": "2026-09-20T14:12:50.000Z",
       "fetchedAt": "2026-09-20T14:21:49.510Z"
-    },
-    {
-      "id": "c8dee49868675da4",
-      "title": "Jan Suraaj announces candidates for 5 Bihar Legislative Council seats",
-      "summary": "Prashant Kishors Jan Suraaj is getting an early start on Bihars next electoral contest, naming candidates for five of the eight Legislative Council seats headed for polls. From backing a sitting MLC for another term to fielding a lawyer-turned-politician against a JD(U) heavyweight, Kishor is widening his partys footprint in…",
-      "category": "Politics & Government",
-      "image": "https://img.etimg.com/thumb/msid-134364926,width-1200,height-630,imgsize-141656,overlay-economictimes/articleshow.jpg",
-      "source": "The Economic Times",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/politics-and-nation/jan-suraaj-announces-candidates-for-5-bihar-legislative-council-seats/articleshow/134364901.cms?from=mdr",
-      "publishedAt": "2026-09-20T07:12:48.000Z",
-      "fetchedAt": "2026-09-20T16:50:31.296Z"
     },
     {
       "id": "89a373b3211166b1",
@@ -396,7 +440,7 @@
       "source": "olympics.com",
       "sourceUrl": "https://www.olympics.com/en/news/asian-games-2026-live-scores-updates-results-india-september-20",
       "publishedAt": "2026-09-20T12:44:00.000Z",
-      "fetchedAt": "2026-09-20T16:49:56.711Z"
+      "fetchedAt": "2026-09-20T16:52:07.124Z"
     },
     {
       "id": "0ddd1908e74b3a55",
@@ -528,7 +572,7 @@
       "source": "indiatoday.in",
       "sourceUrl": "https://www.indiatoday.in/india/video/political-row-erupts-in-indore-over-rahul-gandhis-remarks-at-student-event-as-mohan-yadav-hits-back-ytvd-2998920-2026-09-20",
       "publishedAt": "2026-09-20T11:38:17.000Z",
-      "fetchedAt": "2026-09-20T16:49:46.053Z"
+      "fetchedAt": "2026-09-20T16:51:57.474Z"
     },
     {
       "id": "999fb84652462f33",
@@ -573,6 +617,17 @@
       "sourceUrl": "https://www.business-standard.com/amp/economy/news/india-s-software-services-exports-rise-8-2-to-221-4-bn-in-fy26-rbi-data-126092000478_1.html",
       "publishedAt": "2026-09-20T11:11:38.000Z",
       "fetchedAt": "2026-09-20T12:24:46.776Z"
+    },
+    {
+      "id": "0de6f77763c486e6",
+      "title": "Bengal tea stall owner claims assault for serving minorities",
+      "summary": "A tea stall owner claimed that he was assaulted for serving Muslim customers on September 13, and that he has previously received threats.",
+      "category": "Crime & Breaking News",
+      "image": "https://cdn.siasat.com/wp-content/uploads/2026/09/Tea-stall-owner-assaulted.jpg",
+      "source": "siasat.com",
+      "sourceUrl": "https://www.siasat.com/bengal-tea-stall-owner-claims-assault-for-serving-minorities-3545309/amp/",
+      "publishedAt": "2026-09-20T11:05:00.000Z",
+      "fetchedAt": "2026-09-20T16:52:01.875Z"
     },
     {
       "id": "7976ab9d5351fef9",
@@ -674,6 +729,17 @@
       "fetchedAt": "2026-09-20T11:39:39.967Z"
     },
     {
+      "id": "5ff70aaff1a0df75",
+      "title": "From Digital Governance To AI Leadership Uttar Pradesh’s Next Growth Chapter",
+      "summary": "Uttar Pradesh is strengthening its journey towards becoming a leading digital and technology hub through progressive policies, robust infrastructure, and a strong focus on innovation, investment, and digital governance. Shri Alok Kumar, Principal Secretary, Department of IT & Electronics, Government of Uttar Pradesh, shares his insights on the State's technology…",
+      "category": "Technology",
+      "image": "https://egov.eletsonline.com/wp-content/uploads/2026/09/Shri-Alok-Kumar.jpg",
+      "source": "Elets eGov",
+      "sourceUrl": "https://egov.eletsonline.com/2026/09/from-digital-governance-to-ai-leadership-uttar-pradeshs-next-growth-chapter/",
+      "publishedAt": "2026-09-20T10:05:57.000Z",
+      "fetchedAt": "2026-09-20T16:50:36.360Z"
+    },
+    {
       "id": "6130fe98cc30a6e7",
       "title": "Defending Champions India Begin Asian Games Campaign With Resounding Victory Over Indonesia",
       "summary": "Defending champions India began their Asian Games campaign with a dominant 13-1 victory over Indonesia in their opening Pool A match. Striker Dilpreet Singh led the charge with four goals, supported by braces from Shilanand Lakra and Sukhjeet Singh. India",
@@ -727,6 +793,17 @@
       "sourceUrl": "https://opengovasia.com/coal-india-expands-technology-led-diversification-across-energy-and-minerals/?c=us",
       "publishedAt": "2026-09-20T09:32:58.000Z",
       "fetchedAt": "2026-09-20T14:46:34.386Z"
+    },
+    {
+      "id": "6d0572999bbd2db2",
+      "title": "Piyush Goyal to chair DPIIT workshop on FTAs, ease of doing business on September 22",
+      "summary": "Join Minister Piyush Goyal on September 22 for a comprehensive DPIIT workshop focused on Free Trade Agreements and enhancing the ease of doing business in India. Discover the latest reforms and participate in discussions with industry leaders.",
+      "category": "Business & Finance",
+      "image": "https://etimg.etb2bimg.com/thumb/msid-134365273,imgsize-62258,width-1200,height=627,overlay-etbfsi,resizemode-75/financial-services/piyush-goyal-to-chair-dpiit-workshop-on-ftas-ease-of-doing-business-on-september-22.jpg",
+      "source": "bfsi.economictimes.indiatimes.com",
+      "sourceUrl": "https://bfsi.economictimes.indiatimes.com/amp/news/financial-services/piyush-goyal-to-chair-dpiit-workshop-on-ftas-ease-of-doing-business-on-september-22/134365273",
+      "publishedAt": "2026-09-20T09:30:00.000Z",
+      "fetchedAt": "2026-09-20T16:52:39.664Z"
     },
     {
       "id": "905e51a03a926661",
@@ -1144,7 +1221,7 @@
       "source": "The Times of India",
       "sourceUrl": "https://timesofindia.indiatimes.com/videos/entertainment/regional/kannada/anireekshitha-atithigalu-official-trailer/videoshow/134364614.cms",
       "publishedAt": "2026-09-20T06:30:12.000Z",
-      "fetchedAt": "2026-09-20T16:50:06.857Z"
+      "fetchedAt": "2026-09-20T16:52:17.870Z"
     },
     {
       "id": "b902c5a8f17dff36",
@@ -1156,6 +1233,17 @@
       "sourceUrl": "https://www.india.com/business/india-japan-b35-bullet-train-indigenous-technology-mahsr-mumbai-ahmedabad-e10-series-indian-railways-bullet-train-irctc-bharat-train-control-system-8527849/",
       "publishedAt": "2026-09-20T06:19:38.000Z",
       "fetchedAt": "2026-09-20T06:34:29.569Z"
+    },
+    {
+      "id": "54a097db51e63062",
+      "title": "Keralam minister K.M. Shaji faces controversy over use of ‘loaned’ luxury car as official vehicle",
+      "summary": "Keralam minister K.M. Shaji faces backlash for using a loaned luxury vehicle as his official car, sparking political controversy.",
+      "category": "Politics & Government",
+      "image": "https://th-i.thgim.com/public/incoming/otquzc/article71487219.ece/alternates/FREE_1200/KRSKM_21-11-2020_19-6-25_1_UDFCONVENTION2.JPG",
+      "source": "The Hindu",
+      "sourceUrl": "https://www.thehindu.com/news/national/kerala/keralam-minister-km-shaji-faces-controversy-over-use-of-loaned-luxury-car-as-official-vehicle/article71487102.ece/amp/",
+      "publishedAt": "2026-09-20T06:16:15.000Z",
+      "fetchedAt": "2026-09-20T16:51:59.387Z"
     },
     {
       "id": "148197a431f99276",
@@ -1202,6 +1290,17 @@
       "fetchedAt": "2026-09-20T06:50:33.711Z"
     },
     {
+      "id": "f0b0314f873da8a4",
+      "title": "Supertech insolvency: NCLAT raises concern over delay in appointing IRP",
+      "summary": "The appellate tribunal also directed NCLT and IBBI to suggest names for appointing an interim resolution professional within a week",
+      "category": "National & Trending News",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-08/24/thumb/featurecrop/1200X628/1629824129-1999.jpg",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/amp/companies/news/supertech-insolvency-nclat-raises-concern-over-delay-in-appointing-irp-126092000167_1.html",
+      "publishedAt": "2026-09-20T06:08:46.000Z",
+      "fetchedAt": "2026-09-20T16:52:47.293Z"
+    },
+    {
       "id": "e385074bd2d44301",
       "title": "India needs to lift savings to 40% of GDP to sustain 7-8% growth: N K Singh",
       "summary": "India must lift its gross domestic savings rate to 38–40% of GDP from the current 34% to sustain 7–8% growth and achieve its Viksit Bharat vision, N K Singh said at a Finance Ministry conference, calling for stronger fiscal discipline, higher state capital spending and a bigger role for private-sector…",
@@ -1233,6 +1332,17 @@
       "sourceUrl": "https://www.business-standard.com/sports/asian-games/asiad-2026-india-hockey-teams-full-schedule-squads-match-timings-126091500448_1.html",
       "publishedAt": "2026-09-20T05:45:53.000Z",
       "fetchedAt": "2026-09-20T06:13:41.813Z"
+    },
+    {
+      "id": "587961031428385f",
+      "title": "FSSAI may ban analogue paneer nationwide: What consumers need to know",
+      "summary": "FSSAI chief Rajit Punhani said a nationwide restriction could follow if states reach consensus, as eight states have already prohibited analogue paneer.",
+      "category": "National & Trending News",
+      "image": "https://images.storyboard18.com/storyboard18/2026/08/Visuals-Page-2026-08-05T131630.401-2026-08-724e5d4787579d7461dca9f983f0eda5-1019x573.jpg",
+      "source": "Storyboard18",
+      "sourceUrl": "https://www.storyboard18.com/amp/trending/fssai-may-ban-analogue-paneer-nationwide-what-consumers-need-to-know-110997.htm",
+      "publishedAt": "2026-09-20T05:41:02.000Z",
+      "fetchedAt": "2026-09-20T16:52:45.801Z"
     },
     {
       "id": "c090e7aea3558295",
@@ -1629,6 +1739,17 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/bethlehem-kudumba-unit-box-office-collection-day-30-vs-im-game-nivin-paulys-film-records-84-5-growth-dulquer-salmaans-film-collects-rs-2-lakhs/articleshow/134362419.cms",
       "publishedAt": "2026-09-20T00:02:00.000Z",
       "fetchedAt": "2026-09-20T16:50:07.453Z"
+    },
+    {
+      "id": "358331a5db46aaba",
+      "title": "Need private investment for Viksit Bharat: CEA",
+      "summary": "The Centre has underlined the need for higher private investment, arguing that govt spending alone cannot help achieve the goal of Viksit Bharat.",
+      "category": "Business & Finance",
+      "image": "https://static.toiimg.com/thumb/msid-134362312,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/need-private-investment-for-viksit-bharat-cea/articleshow/134362313.cms",
+      "publishedAt": "2026-09-19T23:06:00.000Z",
+      "fetchedAt": "2026-09-20T16:52:37.733Z"
     },
     {
       "id": "7b40022c5f5b3e08",
