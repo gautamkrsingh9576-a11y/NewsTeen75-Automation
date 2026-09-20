@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-09-20T15:30:15.397Z",
+  "updatedAt": "2026-09-20T15:43:19.253Z",
   "count": 250,
   "articles": [
+    {
+      "id": "c91d323adc88066f",
+      "title": "Umar Khalid documentary screening cancelled at Bengaluru National Law School",
+      "summary": "Umar Khalid documentary screening cancelled at Bengaluru National Law School. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
+      "category": "National & Trending News",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ENational%20%26amp%3B%20Trending%20News%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "The Indian Express",
+      "sourceUrl": "https://indianexpress.com/article/cities/bangalore/nlsiu-bengaluru-cancels-umar-khalid-documentary-screening-abvp-protest-10886468/",
+      "publishedAt": "2026-09-20T15:29:53.000Z",
+      "fetchedAt": "2026-09-20T15:43:16.617Z"
+    },
+    {
+      "id": "54fa2a88107dfdf9",
+      "title": "Elavenil Valarivan to India Today: 'Taking Lessons Is Actually More Important' - India Today",
+      "summary": "Indian shooter Elavenil Valarivan reflected on opening India's medal account at the Asian Games with two silver medals in the team and individual ten-meter air rifle events in an interview with India Today. She described her journey since the 2018 Jakarta Asian Games as pleasant, emphasizing the value of continuous…",
+      "category": "Sports",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/video/202609/elavenilvalarivanitwasmoreaboutbeinginthepresentmoment-s0-original-sixteen-to-nine.jpg?VersionId=mEwxFJwTtlpsH_s9HsiO9NRougo4YU0R",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/sports/video/elavenil-valarivan-to-india-today-taking-lessons-is-actually-more-important-ytvd-2999060-2026-09-20",
+      "publishedAt": "2026-09-20T15:19:20.000Z",
+      "fetchedAt": "2026-09-20T15:43:12.190Z"
+    },
     {
       "id": "cce0dae05b3c8b34",
       "title": "India at Asian Games, September 21: IND vs PAK in spotlight, shooting medals at stake",
@@ -113,6 +135,17 @@
       "fetchedAt": "2026-09-20T14:35:20.372Z"
     },
     {
+      "id": "b9441ca788830e4b",
+      "title": "Quockerwodger’: Tharoor takes dig at govt with ‘word of our era’",
+      "summary": "Congress leader Shashi Tharoor on Sunday,September 20, shared the word of the era \" quockerwodger\" taking a dig at the government.",
+      "category": "Politics & Government",
+      "image": "https://cdn.siasat.com/wp-content/uploads/2026/02/Untitled-design-2026-02-13T083213.799.jpg",
+      "source": "The Siasat Daily",
+      "sourceUrl": "https://www.siasat.com/quockerwodger-tharoor-takes-dig-at-govt-with-word-of-our-era-3545399/amp/",
+      "publishedAt": "2026-09-20T14:21:00.000Z",
+      "fetchedAt": "2026-09-20T15:43:09.941Z"
+    },
+    {
       "id": "7fc539d9c9a00ac0",
       "title": "Indian Diaspora in SA: Partnering India's Tech Future",
       "summary": "Rajya Sabha Deputy Chairman Harivansh Singh calls on Indian diaspora in South Africa to invest in India",
@@ -122,6 +155,17 @@
       "sourceUrl": "https://money.rediff.com/news/market/indian-diaspora-in-sa-partnering-india-s-tech-future/54682120260920",
       "publishedAt": "2026-09-20T14:12:50.000Z",
       "fetchedAt": "2026-09-20T14:21:49.510Z"
+    },
+    {
+      "id": "89a373b3211166b1",
+      "title": "‘Prioritise people’s concerns’: Farooq Abdullah tells alliance MLAs ahead of J-K Assembly’s Autumn Session",
+      "summary": "National Conference president Farooq Abdullah on Sunday asked MLAs to highlight the issues and demands of people in their respective constituencies during the Autumn Session of Jammu and Kashmir Assembly.",
+      "category": "National & Trending News",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWVhOWNkMTIwLWI0ZmMtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
+      "source": "The Tribune",
+      "sourceUrl": "https://www.tribuneindia.com/news/j-k/prioritise-peoples-concerns-farooq-abdullah-tells-alliance-mlas-ahead-of-j-k-assemblys-autumn-session/amp",
+      "publishedAt": "2026-09-20T14:09:32.000Z",
+      "fetchedAt": "2026-09-20T15:43:19.253Z"
     },
     {
       "id": "74f8813547514a1e",
@@ -146,6 +190,17 @@
       "fetchedAt": "2026-09-20T14:46:34.816Z"
     },
     {
+      "id": "393b29ec1fc4ab4a",
+      "title": "RBI keeps repo rate unchanged; Projects India’s real GDP growth for current fiscal at 6.9% | Akashvani News",
+      "summary": "RBI keeps repo rate unchanged; Projects India’s real GDP growth for current fiscal at 6.9% | Akashvani News. This update was reported by News On AIR. Open the original report for full context and any developing updates.",
+      "category": "Business & Finance",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EBusiness%20%26amp%3B%20Finance%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "News On AIR",
+      "sourceUrl": "https://newsonair.gov.in/rbi-to-announce-its-first-bi-monthly-monetary-policy-statement-for-financial-year-2026-27-today/",
+      "publishedAt": "2026-09-20T13:41:13.000Z",
+      "fetchedAt": "2026-09-20T15:43:15.718Z"
+    },
+    {
       "id": "951823aa7fd47dce",
       "title": "Asian Games Boxing: Tough draws await Lovlina, Narender and India's medal hopes",
       "summary": "Indian boxers face challenging draws at the Asian Games, with Lovlina Borgohain and Narender Berwal beginning in the quarterfinals. Sakshi Chaudhary, Preeti Pawar and other medal hopefuls also face tough paths.",
@@ -155,6 +210,17 @@
       "sourceUrl": "https://www.indiatoday.in/amp/sports/asian-games/story/boxing-draw-asian-games-lovlina-borgohain-narender-full-schedule-2998998-2026-09-20",
       "publishedAt": "2026-09-20T13:37:13.000Z",
       "fetchedAt": "2026-09-20T13:52:32.785Z"
+    },
+    {
+      "id": "2cae4d532545f2a8",
+      "title": "Aravallis under 'gravest of threats' by Modi govt's moves: Jairam Ramesh",
+      "summary": "Senior Congress leader Jairam Ramesh stated the Aravallis face grave threats. He alleged the Modi government seeks to redefine the hills for development projects. Ramesh hopes the Supreme Court",
+      "category": "Politics & Government",
+      "image": "https://m.economictimes.com/thumb/width-1280,height-720,imgsize-82614,msid-134369413/aravallis-under-gravest-of-threats-by-modi-govts-moves-jairam-ramesh.jpg",
+      "source": "The Economic Times",
+      "sourceUrl": "https://m.economictimes.com/news/politics-and-nation/aravallis-in-danger-jairam-ramesh-slams-modi-governments-redefinition-plans/amp_articleshow/134369275.cms",
+      "publishedAt": "2026-09-20T13:27:00.000Z",
+      "fetchedAt": "2026-09-20T15:43:10.292Z"
     },
     {
       "id": "8d6217f4942017d7",
@@ -2685,72 +2751,6 @@
       "sourceUrl": "https://www.mid-day.com/entertainment/regional-indian-cinema-news/photo/meet-anand-deverakonda-vijay-deverakondas-brother-starring-in-epic-first-semester-113012/9",
       "publishedAt": "2026-09-19T22:02:49.000Z",
       "fetchedAt": "2026-09-19T23:22:31.084Z"
-    },
-    {
-      "id": "0a76dc6c33fea735",
-      "title": "Indian Army launches technology roadmap for Unmanned Aerial System",
-      "summary": "Indian Army launches technology roadmap for Unmanned Aerial System. This update was reported by News On AIR. Open the original report for full context and any developing updates.",
-      "category": "Technology",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "News On AIR",
-      "sourceUrl": "https://newsonair.gov.in/indian-army-launches-technology-roadmap-for-unmanned-aerial-system/",
-      "publishedAt": "2026-09-19T21:44:35.000Z",
-      "fetchedAt": "2026-09-19T23:45:00.590Z"
-    },
-    {
-      "id": "70716d6741f64fc6",
-      "title": "What is the India-Pakistan conflict at sea about? | Explained",
-      "summary": "Explore the India-Pakistan naval collision on September 15, 2026, its implications, and the contrasting accounts from both nations.",
-      "category": "National & Trending News",
-      "image": "https://th-i.thgim.com/public/incoming/9ohi2g/article71471568.ece/alternates/LANDSCAPE_1200/DEMOLITION%20PAKISTAN%20HIGH%20COMMISSION%20DELHI%20%202026_20_08_18.jpg",
-      "source": "The Hindu",
-      "sourceUrl": "https://www.thehindu.com/news/national/what-is-the-india-pakistan-conflict-at-sea-about-explained/article71485874.ece",
-      "publishedAt": "2026-09-19T21:40:00.000Z",
-      "fetchedAt": "2026-09-20T05:31:06.161Z"
-    },
-    {
-      "id": "845bc33787e13172",
-      "title": "The Asian Games 2026 are officially underway!! 🥳 India will look to make history on Day 1, with medal chances in Teqball and 3 other events. 🇮🇳 Schedule for September 20. 👇",
-      "summary": "The Asian Games 2026 are officially underway!! 🥳 India will look to make history on Day 1, with medal chances in Teqball and 3 other events. 🇮🇳 Schedule for September 20. 👇. This update was reported by facebook.com. Open the original report for full context and any developing updates.",
-      "category": "Sports",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "facebook.com",
-      "sourceUrl": "https://www.facebook.com/khelnow/posts/the-asian-games-2026-are-officially-underway-india-will-look-to-make-history-on-/1683023140500636/",
-      "publishedAt": "2026-09-19T21:30:25.000Z",
-      "fetchedAt": "2026-09-19T21:38:04.346Z"
-    },
-    {
-      "id": "1ca976b630cf219b",
-      "title": "Eastern frontier in focus at Bihar Lok Bhavan",
-      "summary": "Eastern frontier in focus at Bihar Lok Bhavan. This update was reported by Brighter Kashmir. Open the original report for full context and any developing updates.",
-      "category": "Politics & Government",
-      "image": "http://secure.brighterkashmir.com//images/news/e57bb53c-25d0-4c83-9da9-599604bcd06d.jpg",
-      "source": "Brighter Kashmir",
-      "sourceUrl": "https://brighterkashmir.com/eastern-frontier-in-focus-at-bihar-lok-bhavan",
-      "publishedAt": "2026-09-19T21:14:03.000Z",
-      "fetchedAt": "2026-09-20T03:20:23.006Z"
-    },
-    {
-      "id": "5bf4492a7432853a",
-      "title": "Samavarthi​ - Official Teaser​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "summary": "Watch the Official teaser​ from telugu​​​​​ movie '​Samavarthi​' starring Satyadev, Dileesh Pothan and Rajeev Kanakala. '​Samavarthi​' movie is directed by Ajay Nag V. To know more about '​Samavarthi​' teaser​ watch the video. Check out the latest telugu​​​​​ teaser​s, new movie teaser​s, trending telugu​​​​​ movie teaser​, and more at ETimes -…",
-      "category": "Entertainment",
-      "image": "https://static.toiimg.com/thumb/msid-134360336,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/videos/entertainment/regional/telugu/samavarthi-official-teaser/videoshow/134360336.cms",
-      "publishedAt": "2026-09-19T21:11:34.000Z",
-      "fetchedAt": "2026-09-20T09:25:27.598Z"
-    },
-    {
-      "id": "46ceca5d2f063736",
-      "title": "How will the U.S.’s Sanctioning Act affect India? | Explained",
-      "summary": "Explore the implications of the U.S. Lindsey O. Graham Sanctioning Act on India's economy and oil imports from Russia.",
-      "category": "National & Trending News",
-      "image": "https://th-i.thgim.com/public/incoming/py3l8e/article71485941.ece/alternates/FREE_1200/Trump__1953.jpg",
-      "source": "The Hindu",
-      "sourceUrl": "https://www.thehindu.com/news/national/how-will-the-uss-sanctioning-act-affect-india-explained/article71485870.ece/amp/",
-      "publishedAt": "2026-09-19T20:50:00.000Z",
-      "fetchedAt": "2026-09-20T10:45:16.833Z"
     }
   ]
 }
