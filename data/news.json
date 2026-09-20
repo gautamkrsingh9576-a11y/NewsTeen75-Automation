@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T12:24:51.534Z",
+  "updatedAt": "2026-09-20T12:42:40.376Z",
   "count": 250,
   "articles": [
     {
@@ -12,6 +12,17 @@
       "sourceUrl": "https://www.deccanchronicle.com/sports/indias-mma-fighter-sanyal-passes-out-due-to-exhaustion-withdraws-from-asian-games-1989027",
       "publishedAt": "2026-09-20T12:10:49.000Z",
       "fetchedAt": "2026-09-20T12:24:43.719Z"
+    },
+    {
+      "id": "d54a81c2e37d11a0",
+      "title": "How a T20I vs India is accelerating Japan’s cricketing ambitions | Cricket",
+      "summary": "Tuesday’s tie in Sano, amidst the Asian Games, is expected to boost the image of cricket in sports-crazy Japan | Cricket",
+      "category": "Sports",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/20/1600x900/logo/Fans-during-the-Quarter-Final-match-between-Japan-_1789906098378_wUP6.jpg",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/cricket/how-a-t20i-vs-india-is-accelerating-japan-s-cricketing-ambitions-101789906101361.html",
+      "publishedAt": "2026-09-20T12:08:20.000Z",
+      "fetchedAt": "2026-09-20T12:42:33.177Z"
     },
     {
       "id": "ac239948a5a0a387",
@@ -36,6 +47,28 @@
       "fetchedAt": "2026-09-20T12:24:42.940Z"
     },
     {
+      "id": "24e68db96b2734bb",
+      "title": "India’s Most Affordable Sports Car Now Cheaper By Rs 10 Lakh",
+      "summary": "India's most affordable sports car just got cheaper by Rs.10.01 lakh! Great news for the ones that people eyeing it.",
+      "category": "Sports",
+      "image": "https://motoroctane.com/wp-content/uploads/2026/09/MG-Cyberster-Gets-Cheaper.png",
+      "source": "MotorOctane",
+      "sourceUrl": "https://motoroctane.com/news/323894-indias-most-affordable-sports-car-now-cheaper-by-rs-10-lakh",
+      "publishedAt": "2026-09-20T12:00:00.000Z",
+      "fetchedAt": "2026-09-20T12:42:32.820Z"
+    },
+    {
+      "id": "809ae0c1c22c7bf5",
+      "title": "Mizoram Guv calls innovation in engineering to boost India’s global technological standing",
+      "summary": "Aizawl, Sep 20 (PTI) Mizoram Governor Vijay Kumar Singh has called for greater emphasis on innovation in engineering to strengthen the country’s global technological standing in its bid to realise the vision of Viksit Bharat. Addressing the Institution of Engineers (India) Industry and Education Excellence Summit and Award in New…",
+      "category": "Technology",
+      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
+      "source": "theprint.in",
+      "sourceUrl": "https://theprint.in/india/mizoram-guv-calls-innovation-in-engineering-to-boost-indias-global-technological-standing/3048061/",
+      "publishedAt": "2026-09-20T11:46:50.000Z",
+      "fetchedAt": "2026-09-20T12:42:35.993Z"
+    },
+    {
       "id": "205b80abcd727655",
       "title": "When the Protector of Wildlife Suddenly Becomes the Accused: What Really Happened in the Wildlife SOS Case?",
       "summary": "I have spent much of my professional life examining institutions, public systems and the spaces where policy, enforcement and accountability intersect. As a",
@@ -45,6 +78,17 @@
       "sourceUrl": "https://goachronicle.com/when-the-protector-of-wildlife-suddenly-becomes-the-accused-what-really-happened-in-the-wildlife-sos-case/",
       "publishedAt": "2026-09-20T11:41:24.000Z",
       "fetchedAt": "2026-09-20T11:50:49.376Z"
+    },
+    {
+      "id": "6916bcba596dcc11",
+      "title": "Political Row Erupts in Indore Over Rahul Gandhi's Remarks at Student Event as Mohan Yadav Hits Back - India Today",
+      "summary": "A major political row has erupted following Lok Sabha Leader of Opposition Rahul Gandhi's address at the 'Chhatro Ki Goonj' student interaction event in Indore. Criticising the central government and the education system, Rahul Gandhi alleged that the system prefers unquestioning followers over inquisitive students and claimed that funding for…",
+      "category": "Politics & Government",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/video/202609/indorestudenteventsparkspoliticalclash-s0-original-sixteen-to-nine.jpg?VersionId=PW9NPvAmkZ9XrnoNQ24PaWVhjBND6qnV",
+      "source": "indiatoday.in",
+      "sourceUrl": "https://www.indiatoday.in/india/video/political-row-erupts-in-indore-over-rahul-gandhis-remarks-at-student-event-as-mohan-yadav-hits-back-ytvd-2998920-2026-09-20",
+      "publishedAt": "2026-09-20T11:38:17.000Z",
+      "fetchedAt": "2026-09-20T12:42:29.629Z"
     },
     {
       "id": "f41d3ba4a278df1c",
@@ -2027,6 +2071,17 @@
       "fetchedAt": "2026-09-19T23:55:48.108Z"
     },
     {
+      "id": "660d11f2425d7c11",
+      "title": "A New Chapter in India's Nuclear Journey",
+      "summary": "Press Information Bureau (PIB) is the nodal agency of the Government of India to disseminate information to the print and electronic media on government policies, programmes, initiatives and achievements.",
+      "category": "Technology",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "PIB",
+      "sourceUrl": "https://www.pib.gov.in/FactsheetDetails.aspx?Id=150617&reg=48&lang=2",
+      "publishedAt": "2026-09-19T23:41:09.000Z",
+      "fetchedAt": "2026-09-20T12:42:35.754Z"
+    },
+    {
       "id": "ed02448ea805d371",
       "title": "India at Asian Games Live updates for September 20: Can India bag their first medal?",
       "summary": "India at Asian Games live, September 20: India begins an action-packed day with medal events in shooting and teqball, while hockey, women’s cricket, table tennis, wushu, badminton and swimming keep the Indian contingent busy across Aichi-Nagoya.",
@@ -2696,61 +2751,6 @@
       "sourceUrl": "https://www.dailynewsegypt.com/2026/09/19/egypt-india-discuss-cooperation-in-ai-digital-skills-innovation-and-investment/",
       "publishedAt": "2026-09-19T17:24:49.000Z",
       "fetchedAt": "2026-09-19T17:36:54.125Z"
-    },
-    {
-      "id": "40fe8794eb12814b",
-      "title": "Ashwini Vaishnaw: 'It's life-changing' as Students Tape Out Chips in 400 Universities - India Today",
-      "summary": "In an exclusive interview, Union Minister of Electronics and Information Technology Ashwini Vaishnaw detailed India's expanding semiconductor ecosystem and talent development initiatives. Vaishnaw highlighted that the Chips to Startup program now covers 400 universities across the country, giving students hands-on experience in chip design, tape-out, and testing. Speaking on the…",
-      "category": "Technology",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/video/202609/ashwinivaishnaw70globalchipdemandin28nm-90nmsegment-s0-original-sixteen-to-nine.jpg?VersionId=nAh18LsWnIsU.pfnFuqAe3GsBxo6QWbQ",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/amp/technology/video/ashwini-vaishnaw-its-life-changing-as-students-tape-out-chips-in-400-universities-ytvd-2998584-2026-09-19",
-      "publishedAt": "2026-09-19T17:24:48.000Z",
-      "fetchedAt": "2026-09-19T17:36:55.462Z"
-    },
-    {
-      "id": "6ae92fe13a69c202",
-      "title": "Canada optimistic about concluding trade talks with India by year-end, minister says",
-      "summary": "Canada optimistic about concluding trade talks with India by year-end, minister says. This update was reported by Reuters. Open the original report for full context and any developing updates.",
-      "category": "Business & Finance",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EBusiness%20%26amp%3B%20Finance%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/business/finance/canada-optimistic-about-concluding-trade-talks-with-india-by-year-end-minister-2026-09-19/",
-      "publishedAt": "2026-09-19T17:24:05.000Z",
-      "fetchedAt": "2026-09-20T07:32:50.228Z"
-    },
-    {
-      "id": "28282ec487eccf42",
-      "title": "3-day bank strike: Finance Ministry to meet PSB, RRB chiefs on Monday over service continuity",
-      "summary": "The Finance Ministry will meet public sector and regional rural bank chiefs on Monday to discuss contingency measures ahead of the UFBU&rsquo;s planned three-day nationwide strike from September 28.",
-      "category": "Business & Finance",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260919172030_bank-branch-ANI.png",
-      "source": "Moneycontrol.com",
-      "sourceUrl": "https://www.moneycontrol.com/news/business/banks/3-day-bank-strike-finance-ministry-to-meet-psb-rrb-chiefs-on-monday-over-service-continuity-14033639.html",
-      "publishedAt": "2026-09-19T17:21:07.000Z",
-      "fetchedAt": "2026-09-20T08:29:19.519Z"
-    },
-    {
-      "id": "e022318877c766df",
-      "title": "Analysis: As Punjab Rehab Numbers Increase, Politics Intensifies Over Drug Problem",
-      "summary": "Dubbed a publicity failure by the opposition, the AAP government's \"Yudh Nasheyan Virudh\" campaign output focuses on the number of seizures, a higher conviction rate between 88-89 per cent and the jump in de-addiction centres.",
-      "category": "Politics & Government",
-      "image": "https://c.ndtvimg.com/d6pigfu4_drugs-generic-narcotics-generic-istock_625x300_01_September_18.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "source": "NDTV",
-      "sourceUrl": "https://www.ndtv.com/india-news/analysis-as-punjab-rehab-numbers-increase-politics-intensifies-over-drug-problem-12069998",
-      "publishedAt": "2026-09-19T17:18:07.000Z",
-      "fetchedAt": "2026-09-19T17:25:05.387Z"
-    },
-    {
-      "id": "f3ed77c4ba28aa43",
-      "title": "DUSU poll results a message to anti-national forces: Amit Shah",
-      "summary": "Union Home Minister Amit Shah on Saturday said the ABVP’s victory in Delhi University Students’ Union (DUSU) elections is a message to “anti-national forces” who want to turn youth power into a “laboratory for their anti-national agenda”.",
-      "category": "National & Trending News",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTBhYjI5MzAwLWI0NGUtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
-      "source": "The Tribune",
-      "sourceUrl": "https://www.tribuneindia.com/news/delhi/dusu-poll-results-a-message-to-anti-national-forces-amit-shah/amp/",
-      "publishedAt": "2026-09-19T17:17:46.000Z",
-      "fetchedAt": "2026-09-19T20:32:34.421Z"
     }
   ]
 }
