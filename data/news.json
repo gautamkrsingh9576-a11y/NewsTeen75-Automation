@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-20T03:20:34.420Z",
+  "updatedAt": "2026-09-20T03:35:42.435Z",
   "count": 250,
   "articles": [
+    {
+      "id": "c7a6f33bb568e63a",
+      "title": "Asian Games: No medal but Quimcy Dsouza's fight puts teqball on the map for India",
+      "summary": "Quimcy Dsouza missed out on a historic Asian Games medal after India finished fourth in both teqball events on Sunday. But the 24-year-old's fighting performances, including playing through injury in the mixed doubles bronze-medal match, gave the sport a memorable introduction in Nagoya.",
+      "category": "Sports",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/quimcy-dsouza-202604908-16x9_0.jpg?VersionId=3hqp7wt6Q7A55MnEycjAkNl4t9AVBy31",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/sports/asian-games/story/asian-games-2026-teqball-quimcy-dsouza-india-2998654-2026-09-20",
+      "publishedAt": "2026-09-20T03:29:41.000Z",
+      "fetchedAt": "2026-09-20T03:35:35.323Z"
+    },
     {
       "id": "e29896992e52e152",
       "title": "Nothing is wrong: Salman Khan addresses health fears after BB 20 promo, apologises",
@@ -78,6 +89,17 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/bcci-to-comply-with-nsg-act-once-cricket-is-notified-as-designated-sport/articleshow/134362865.cms",
       "publishedAt": "2026-09-20T02:42:00.000Z",
       "fetchedAt": "2026-09-20T03:01:40.640Z"
+    },
+    {
+      "id": "7457f6b68dd85f6d",
+      "title": "Google cofounder Larry Page’s wife, a Stanford-trained scientist, has built an ocean-tech organisation; c",
+      "summary": "Around the world, ultra-wealthy individuals and institutions are pouring massive fortunes into projects designed to heal the planet. One of them is Lucinda Southworth, wife of Google co-founder Larry Page, a Stanford-trained scientist and one of the most prolific backers of high-tech ocean conservation.",
+      "category": "Technology",
+      "image": "https://static.toiimg.com/thumb/msid-134334361,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/google-cofounder-larry-pages-wife-a-stanford-trained-scientist-has-built-an-ocean-tech-organisation-company-has-donated-120-million-plus-in-science-projects/articleshow/134321012.cms",
+      "publishedAt": "2026-09-20T02:35:00.000Z",
+      "fetchedAt": "2026-09-20T03:35:38.235Z"
     },
     {
       "id": "8310a8f983932ea3",
@@ -2445,6 +2467,17 @@
       "fetchedAt": "2026-09-19T10:20:40.076Z"
     },
     {
+      "id": "a428092cbccbcb73",
+      "title": "India sends fresh tranche of relief material to Nepal",
+      "summary": "India dispatches 11 tonnes of relief supplies to Nepal as part of ongoing humanitarian assistance following devastating flash floods.",
+      "category": "National & Trending News",
+      "image": "https://th-i.thgim.com/public/incoming/inmagk/article71484328.ece/alternates/LANDSCAPE_1200/20260919095L.jpg",
+      "source": "The Hindu",
+      "sourceUrl": "https://www.thehindu.com/news/national/india-sends-fresh-tranche-of-relief-material-to-nepal/article71484283.ece",
+      "publishedAt": "2026-09-19T10:04:45.000Z",
+      "fetchedAt": "2026-09-20T03:35:42.435Z"
+    },
+    {
       "id": "daf88bbf37cf9c00",
       "title": "Who is Karandeep Anand, Disney's newly-appointed chief technology officer",
       "summary": "Karandeep Anand, who most recently served as CEO of Character.AI, is moving from the consumer AI industry to one of the world’s biggest entertainment companies after being appointed The Walt Disney Company’s new Chief Technology Officer.",
@@ -2718,39 +2751,6 @@
       "sourceUrl": "https://m.rediff.com/amp/sports/report/20th-asian-games-nagoya-kicks-off-with-opening-ceremony/20260919.htm",
       "publishedAt": "2026-09-19T09:22:35.000Z",
       "fetchedAt": "2026-09-19T10:45:31.671Z"
-    },
-    {
-      "id": "5dff1d05e15036df",
-      "title": "Asiad 2026: India men's cricket team faces kit delay before departure",
-      "summary": "India's campaign at the Games begins with the quarter-finals on September 28, giving the squad less than a week between the T20I and its opening Asian Games match",
-      "category": "Sports",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/19/thumb/resize/1200X628/1789809628-7561.jpg",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/sports/asian-games/asiad-2026-india-men-s-cricket-team-faces-kit-delay-before-departure-126091900454_1.html",
-      "publishedAt": "2026-09-19T09:21:36.000Z",
-      "fetchedAt": "2026-09-19T10:56:21.991Z"
-    },
-    {
-      "id": "932f7cccfe7da188",
-      "title": "Asian Games 2026: 'India favourites to win men's hockey gold' | AB Subbaiah interview",
-      "summary": "Former India goalkeeper AB Subbaiah says India are ahead of their Asian rivals and expects the men",
-      "category": "Sports",
-      "image": "https://thefederal.com/h-upload/2026/09/19/632219-cms-hockeyoptimized300.jpg",
-      "source": "The Federal",
-      "sourceUrl": "https://thefederal.com/category/sports/asian-games-2026-ab-subbaiah-interview-257062",
-      "publishedAt": "2026-09-19T09:21:32.000Z",
-      "fetchedAt": "2026-09-19T09:40:30.057Z"
-    },
-    {
-      "id": "f586b984d2c4fed4",
-      "title": "Asian Games 2026: Meet Teqball, the sport that could give India its first medal",
-      "summary": "Asian Games 2026: Meet Teqball, the sport that could give India its first medal. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
-      "category": "Sports",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "The Indian Express",
-      "sourceUrl": "https://indianexpress.com/article/sports/asian-games-2026-teqball-india-first-medal-chance-sport-origin-rules-10885020/",
-      "publishedAt": "2026-09-19T09:19:38.000Z",
-      "fetchedAt": "2026-09-19T09:40:29.722Z"
     }
   ]
 }
