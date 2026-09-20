@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-09-20T02:50:22.483Z",
+  "updatedAt": "2026-09-20T03:01:49.048Z",
   "count": 250,
   "articles": [
+    {
+      "id": "ae8800316f138b23",
+      "title": "Rahul Gandhi Criticises Modi Government's Attitude Towards Students",
+      "summary": "Rahul Gandhi claims the Modi administration prioritises followers over inquisitive students in Indian education.",
+      "category": "Politics & Government",
+      "image": "https://cdn.optcms.com/www.indianewsnetwork.com/assets/2026/202609/20260920-img-20260920-a30551a6e30f391e.jpg",
+      "source": "India News Network",
+      "sourceUrl": "https://www.indianewsnetwork.com/en/rahul-gandhi-criticises-modi-government-attitude-towards-students-20260920",
+      "publishedAt": "2026-09-20T02:55:40.000Z",
+      "fetchedAt": "2026-09-20T03:01:38.453Z"
+    },
+    {
+      "id": "598bd362f19c03c7",
+      "title": "BCCI to comply with NSG act once cricket is notified as designated sport",
+      "summary": "The BCCI’s position on the National Sports Governance Act dominated discussions at the board’s 95th annual general meeting on Friday, with secretary Devajit Saikia saying the body would comply with the law once cricket is officially notified as a designated sport.",
+      "category": "Sports",
+      "image": "https://static.toiimg.com/thumb/msid-134362914,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/bcci-to-comply-with-nsg-act-once-cricket-is-notified-as-designated-sport/articleshow/134362865.cms",
+      "publishedAt": "2026-09-20T02:42:00.000Z",
+      "fetchedAt": "2026-09-20T03:01:40.640Z"
+    },
     {
       "id": "8310a8f983932ea3",
       "title": "IND W Vs BAN W Live Streaming: When And Where To Watch India vs Bangladesh Women's Asian Games 2nd Semi-Final",
@@ -2729,28 +2751,6 @@
       "sourceUrl": "https://dailypioneer.com/news/private-financing-critical-for-viksit-bharat-goal-economic-affairs-secy",
       "publishedAt": "2026-09-19T09:06:18.000Z",
       "fetchedAt": "2026-09-19T18:34:36.648Z"
-    },
-    {
-      "id": "73ab695198a13636",
-      "title": "NSE Anchor Book Signals a New Balance in India's Capital Markets",
-      "summary": "New Delhi [India], September 19: The National Stock Exchange's ₹6,746 crore anchor book offers more than a snapshot of institutional demand for one of India's most closely watched IPOs. It also provides a telling indication of how the balance of power within India's investment banking ecosystem is evolving.",
-      "category": "National & Trending News",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/19/full/20260919133752.jpg",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/content/press-releases-ani/nse-anchor-book-signals-a-new-balance-in-india-s-capital-markets-126091900438_1.html",
-      "publishedAt": "2026-09-19T09:05:19.000Z",
-      "fetchedAt": "2026-09-19T17:58:46.848Z"
-    },
-    {
-      "id": "c9973fea30fb5afe",
-      "title": "Sigma - Official Telugu Trailer",
-      "summary": "Watch the Official trailer from telugu movie 'Sigma' starring Sundeep Kishan, Faria Abdullah, Raju Sundaram, Sampath Raj and Shiv Pandit. 'Sigma' movie is directed by Jason Sanjay. To know more about 'Sigma' trailer watch the video. Check out the latest telugu trailers, new movie trailers, trending telugu movie trailer, and…",
-      "category": "Entertainment",
-      "image": "https://static.toiimg.com/thumb/msid-134351115,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/videos/entertainment/regional/telugu/sigma-official-telugu-trailer/videoshow/134351115.cms",
-      "publishedAt": "2026-09-19T09:05:04.000Z",
-      "fetchedAt": "2026-09-19T10:45:33.960Z"
     }
   ]
 }
