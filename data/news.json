@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-09-20T14:06:30.488Z",
+  "updatedAt": "2026-09-20T14:21:52.658Z",
   "count": 250,
   "articles": [
+    {
+      "id": "7fc539d9c9a00ac0",
+      "title": "Indian Diaspora in SA: Partnering India's Tech Future",
+      "summary": "Rajya Sabha Deputy Chairman Harivansh Singh calls on Indian diaspora in South Africa to invest in India",
+      "category": "Technology",
+      "image": "https://im.rediff.com/news/2025/aug/11harivansh-singh.jpg?fr=money",
+      "source": "Rediff MoneyWiz",
+      "sourceUrl": "https://money.rediff.com/news/market/indian-diaspora-in-sa-partnering-india-s-tech-future/54682120260920",
+      "publishedAt": "2026-09-20T14:12:50.000Z",
+      "fetchedAt": "2026-09-20T14:21:49.510Z"
+    },
+    {
+      "id": "74f8813547514a1e",
+      "title": "Eye on second baby boom, Botswana Cheetah released in MP’s Gandhi Sagar sanctuary",
+      "summary": "Eye on second baby boom, Botswana Cheetah released in MP’s Gandhi Sagar sanctuary. This update was reported by indianexpress.com. Open the original report for full context and any developing updates.",
+      "category": "National & Trending News",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ENational%20%26amp%3B%20Trending%20News%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "indianexpress.com",
+      "sourceUrl": "https://indianexpress.com/article/india/gandhi-sagar-national-park-mp-cm-mohan-yadav-releases-female-cheetah-ccb2-project-cheetah-10886415/",
+      "publishedAt": "2026-09-20T14:08:34.000Z",
+      "fetchedAt": "2026-09-20T14:21:52.262Z"
+    },
     {
       "id": "951823aa7fd47dce",
       "title": "Asian Games Boxing: Tough draws await Lovlina, Narender and India's medal hopes",
@@ -155,6 +177,17 @@
       "sourceUrl": "https://www.thehindu.com/news/national/old-era-of-jingoism-equating-nepali-nationalism-with-anti-indianism-is-over-nepal-finance-minister/article71487515.ece",
       "publishedAt": "2026-09-20T12:26:27.000Z",
       "fetchedAt": "2026-09-20T13:26:50.464Z"
+    },
+    {
+      "id": "34ca9999228ed70e",
+      "title": "First Khelo India Tribal Games to begin today in Chhattisgarh",
+      "summary": "First Khelo India Tribal Games to begin today in Chhattisgarh. This update was reported by News On AIR. Open the original report for full context and any developing updates.",
+      "category": "Sports",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "News On AIR",
+      "sourceUrl": "https://newsonair.gov.in/first-khelo-india-tribal-games-to-begin-today-in-chhattisgarh/",
+      "publishedAt": "2026-09-20T12:22:18.000Z",
+      "fetchedAt": "2026-09-20T14:21:47.009Z"
     },
     {
       "id": "317c5b6cdfc1f3ad",
@@ -1343,6 +1376,17 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/videos/entertainment/regional/kannada/anireekshitha-atithigalu-official-trailer/videoshow/134364614.cms",
       "publishedAt": "2026-09-20T06:30:12.000Z",
       "fetchedAt": "2026-09-20T07:44:52.979Z"
+    },
+    {
+      "id": "368869c21fe1085f",
+      "title": "Billionaire Tata scion faces battle of his life to avert listing",
+      "summary": "Billionaire Tata scion faces battle of his life to avert listing. This update was reported by Financial Times. Open the original report for full context and any developing updates.",
+      "category": "Business & Finance",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EBusiness%20%26amp%3B%20Finance%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "Financial Times",
+      "sourceUrl": "https://www.ft.com/content/a0771c0f-71e6-4c0b-9ff6-9845624f4875?syn-25a6b1a6=1",
+      "publishedAt": "2026-09-20T06:28:01.000Z",
+      "fetchedAt": "2026-09-20T14:21:51.496Z"
     },
     {
       "id": "b902c5a8f17dff36",
@@ -2707,50 +2751,6 @@
       "sourceUrl": "https://telanganatoday.com/gauhati-hc-hears-pil-challenging-evm-technology-in-assam-assembly-polls",
       "publishedAt": "2026-09-19T19:15:36.000Z",
       "fetchedAt": "2026-09-19T20:00:07.932Z"
-    },
-    {
-      "id": "30ad26e77290c20b",
-      "title": "Kuwait-based bizman loses Rs 55L in digital arrest scam in Ratlam, Rs15 lakh frozen",
-      "summary": "Kuwait-based NRI in Ratlam duped of Rs 55 lakh in digital arrest scam; fraudsters posed as police/ATS with fake Supreme Court papers; Rs 15 lakh frozen.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/indore/kuwait-based-bizman-loses-rs-55l-in-digital-arrest-scam-in-ratlam-rs15-lakh-frozen/articleshow/134359898.cms",
-      "publishedAt": "2026-09-19T19:15:00.000Z",
-      "fetchedAt": "2026-09-19T19:26:07.959Z"
-    },
-    {
-      "id": "e0eb89808dd3b58b",
-      "title": "Autobi - Official Teaser​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "summary": "Watch the Official teaser​ from bengali​​​​ movie 'Autobi' starring Madhumita Sarcar, Sahebb Chattopadhyay and Inaaya Chowdhury. 'Autobi' movie is directed by Soumava Banerjee. To know more about 'Autobi' teaser​ watch the video. Check out the latest bengali​​​​ teaser​s, new movie teaser​s, trending bengali​​​​ movie teaser​, and more at ETimes -…",
-      "category": "Entertainment",
-      "image": "https://static.toiimg.com/thumb/msid-134358354,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/videos/entertainment/regional/bangla/-autobi-official-teaser-bengali-movie-september-2026-/videoshow/134358354.cms",
-      "publishedAt": "2026-09-19T19:12:40.000Z",
-      "fetchedAt": "2026-09-19T19:26:11.673Z"
-    },
-    {
-      "id": "8d6d35a307f75b08",
-      "title": "Autobi - Official Trailer​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
-      "summary": "Watch the Official trailer​ from bengali​​​​ movie 'Autobi' starring Madhumita Sarcar, Sahebb Chattopadhyay and Inaaya Chowdhury. 'Autobi' movie is directed by Soumava Banerjee. To know more about 'Autobi' trailer​ watch the video. Check out the latest bengali​​​​ trailer​s, new movie trailer​s, trending bengali​​​​ movie trailer​, and more at ETimes -…",
-      "category": "Entertainment",
-      "image": "https://static.toiimg.com/thumb/msid-134358362,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/videos/entertainment/regional/bangla/autobi-official-trailer-madhumita-inaaya-aryann-sahebb-rahul-soumava/videoshow/134358362.cms",
-      "publishedAt": "2026-09-19T19:11:49.000Z",
-      "fetchedAt": "2026-09-19T20:00:06.365Z"
-    },
-    {
-      "id": "8e3f8bf865afcc3c",
-      "title": "Court refuses drug case accused Iranian national permission to visit sick mother",
-      "summary": "A fast track court has dismissed an application of an Iranian national to travel to his country for 45 days to visit his sick mother.",
-      "category": "National & Trending News",
-      "image": "https://static.toiimg.com/thumb/msid-134356815,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/goa/court-refuses-drug-case-accused-iranian-national-permission-to-visit-sick-mother/articleshow/134359866.cms",
-      "publishedAt": "2026-09-19T19:11:00.000Z",
-      "fetchedAt": "2026-09-19T19:26:15.820Z"
     }
   ]
 }
