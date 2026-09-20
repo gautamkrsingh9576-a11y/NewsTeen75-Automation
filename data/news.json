@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-19T23:55:56.136Z",
+  "updatedAt": "2026-09-20T00:18:19.040Z",
   "count": 250,
   "articles": [
+    {
+      "id": "a547b1c6c3242b69",
+      "title": "Bilibili, 'China's YouTube', draws Indian creators despite no India launch, as India-China ties thaw and Y",
+      "summary": "Bilibili, 'China's YouTube', draws Indian creators despite no India launch, as India-China ties thaw and Y. This update was reported by The Economic Times. Open the original report for full context and any developing updates.",
+      "category": "Entertainment",
+      "image": "https://img.etimg.com/thumb/msid-134359312,width-1200,height-630,imgsize-96468,overlay-economictimes/articleshow.jpg",
+      "source": "The Economic Times",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/media/entertainment/bilibili-chinas-youtube-draws-indian-creators-despite-no-india-launch-as-india-china-ties-thaw-and-youtube-monetisation-set-to-tighten/articleshow/134359258.cms?from=mdr",
+      "publishedAt": "2026-09-20T00:00:00.000Z",
+      "fetchedAt": "2026-09-20T00:18:14.768Z"
+    },
     {
       "id": "c95228a814bb6cae",
       "title": "Asian Games 2026 LIVE UPDATES Day 1: Shooting event starts at 6:15 am; hockey starts at 7:30",
@@ -2740,17 +2751,6 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/we-should-not-waste-our-energy-manu-bhaker-urges-indian-athletes-to-look-beyond-asian-games-chaos/articleshow/134350217.cms",
       "publishedAt": "2026-09-19T07:52:00.000Z",
       "fetchedAt": "2026-09-19T08:54:50.627Z"
-    },
-    {
-      "id": "4c96f9372874e8cc",
-      "title": "India’s chip push gathers pace: 25 SEMICON deals target gases, chemicals, packaging and power electronics",
-      "summary": "India’s chip push gathers pace: 25 SEMICON deals target gases, chemicals, packaging and power electronics. This update was reported by The Statesman. Open the original report for full context and any developing updates.",
-      "category": "Technology",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "The Statesman",
-      "sourceUrl": "https://www.thestatesman.com/business/indias-chip-push-gathers-pace-25-semicon-deals-target-gases-chemicals-packaging-and-power-electronics-1503640422.html",
-      "publishedAt": "2026-09-19T07:51:00.000Z",
-      "fetchedAt": "2026-09-19T10:34:11.357Z"
     }
   ]
 }
