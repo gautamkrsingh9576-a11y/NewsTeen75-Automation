@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-09-20T03:59:46.722Z",
+  "updatedAt": "2026-09-20T04:19:12.752Z",
   "count": 250,
   "articles": [
+    {
+      "id": "ae7cda8c9ec86cc5",
+      "title": "Asian Games: India win first medal, clinch women’s 10m air rifle team silver",
+      "summary": "Asian Games: India win first medal, clinch women’s 10m air rifle team silver. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
+      "category": "Sports",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "The Indian Express",
+      "sourceUrl": "https://indianexpress.com/article/sports/asian-games-india-win-first-medal-silver-shooting-women-10m-air-rifle-10885772/",
+      "publishedAt": "2026-09-20T04:04:21.000Z",
+      "fetchedAt": "2026-09-20T04:19:06.107Z"
+    },
+    {
+      "id": "99f82185284993f5",
+      "title": "India gets hooked on ‘snackable’ micro-dramas",
+      "summary": "India gets hooked on ‘snackable’ micro-dramas. This update was reported by Financial Times. Open the original report for full context and any developing updates.",
+      "category": "Entertainment",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EEntertainment%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "Financial Times",
+      "sourceUrl": "https://www.ft.com/content/407e49d0-933d-4998-8a5a-b190c82dc45c?syn-25a6b1a6=1",
+      "publishedAt": "2026-09-20T04:00:04.000Z",
+      "fetchedAt": "2026-09-20T04:19:07.045Z"
+    },
+    {
+      "id": "beaef9fab293342e",
+      "title": "Suchika Tariyal scripts history, assures India of first Asian Games medal in MMA debut",
+      "summary": "India's Suchika Tariyal secured the country's first medal at the Aichi-Nagoya Asian Games after defeating Mongolia's Altanchimeg Baigalmaa 2-0 in the women's Traditional Mixed Martial Arts 60kg quarterfinal on Sunday.",
+      "category": "Sports",
+      "image": "https://static.toiimg.com/thumb/msid-134363243,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/suchika-tariyal-scripts-history-assures-india-of-first-asian-games-medal-in-mma-debut/articleshow/134363146.cms",
+      "publishedAt": "2026-09-20T03:48:00.000Z",
+      "fetchedAt": "2026-09-20T04:19:06.470Z"
+    },
     {
       "id": "3a4d3b64b56f6429",
       "title": "India's Suchika Tariyal Guarantees Historic MMA Medal At Aichi-Nagoya Asian Games",
@@ -12,6 +45,17 @@
       "sourceUrl": "https://www.rediff.com/sports/report/suchika-tariyal-secures-indias-first-asian-games-mma-medal/20260920.htm",
       "publishedAt": "2026-09-20T03:46:32.000Z",
       "fetchedAt": "2026-09-20T03:59:39.486Z"
+    },
+    {
+      "id": "6070de35a9f0f0c5",
+      "title": "Anatomy of outrage: What makes street politics succeed in India?",
+      "summary": "From freedom struggle to CJP protests, India’s street movements show the conversion of numbers into legitimacy, legitimacy into pressure and pressure into political consequence",
+      "category": "Politics & Government",
+      "image": "https://img.theweek.in/content/dam/week/en/archive/magazine/theweek/current/images/2026/9/18/18-A-Cockroach-Janta-Party-protest.jpg",
+      "source": "theweek.in",
+      "sourceUrl": "https://www.theweek.in/theweek/current/2026/09/18/anatomy-of-outrage-what-makes-street-politics-succeed-in-india.html",
+      "publishedAt": "2026-09-20T03:45:56.000Z",
+      "fetchedAt": "2026-09-20T04:19:04.081Z"
     },
     {
       "id": "c7a6f33bb568e63a",
@@ -133,6 +177,17 @@
       "sourceUrl": "https://www.indiatoday.in/india/video/abvp-victory-in-dusu-polls-reflects-national-youth-mood-after-nsui-defeat-ytvd-2998644-2026-09-20",
       "publishedAt": "2026-09-20T02:34:23.000Z",
       "fetchedAt": "2026-09-20T03:49:14.816Z"
+    },
+    {
+      "id": "0d84b889230f2726",
+      "title": "‘Luckiest generation in 1,000 years’: Ajit Doval on India’s economic rise, opportunities | India News",
+      "summary": "The NSA highlighted technology, engineering and innovation as major drivers of social progress while urging young people to remain guided by values.",
+      "category": "Technology",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/20/1600x900/logo/PTI09-19-2026-000079B-0_1789871208983_YOWc_1789871232081_LCID_7ab64aaa-387f-4543-977f-2462834b3d35_3baU.jpg",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/luckiest-generation-in-1-000-years-ajit-doval-on-india-s-economic-rise-opportunities-101789870805981-amp.html",
+      "publishedAt": "2026-09-20T02:33:04.000Z",
+      "fetchedAt": "2026-09-20T04:19:09.381Z"
     },
     {
       "id": "8310a8f983932ea3",
@@ -2093,6 +2148,17 @@
       "fetchedAt": "2026-09-19T12:54:45.577Z"
     },
     {
+      "id": "da454154a3b06f85",
+      "title": "Mamata’s Rejinagar bypoll candidate announces withdrawal from contest, retracts later",
+      "summary": "Rabiul Alam Chowdhury initially withdrew from Rejinagar bypoll, then reversed his decision under Mamata Banerjee's guidance amid political turmoil.",
+      "category": "National & Trending News",
+      "image": "https://th-i.thgim.com/public/incoming/sc449s/article71484514.ece/alternates/LANDSCAPE_1200/PTI09_18_2026_000241A.jpg",
+      "source": "The Hindu",
+      "sourceUrl": "https://www.thehindu.com/news/national/west-bengal/mamatas-rejinagar-bypoll-candidate-rabiul-alam-chowdhury/article71484466.ece",
+      "publishedAt": "2026-09-19T11:38:47.000Z",
+      "fetchedAt": "2026-09-20T04:19:12.751Z"
+    },
+    {
       "id": "38e0998bac59c85a",
       "title": "Aga Ruhullah Mehdi: What His NC Exit Means",
       "summary": "Six years after his first public break with the National Conference, the Srinagar MP’s decision to resign puts fresh pressure on Omar Abdullah’s government and could squeeze the space long held by the PDP.",
@@ -2685,72 +2751,6 @@
       "sourceUrl": "https://www.facebook.com/khelnow/posts/here-comes-team-india-led-by-pawan-sehrawat-and-manu-bhaker-the-indian-contingen/1682498783886405/",
       "publishedAt": "2026-09-19T09:45:10.000Z",
       "fetchedAt": "2026-09-19T09:51:36.280Z"
-    },
-    {
-      "id": "968078a1c937c744",
-      "title": "Home guard arrested, dismissed from service for assaulting woman in Hyderabad | India News",
-      "summary": "A Telangana police home guard was arrested, dismissed after a video allegedly showed him assaulting a woman and dragging her by her hair outside Hafeezpet Railway Station",
-      "category": "Crime & Breaking News",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/19/1600x900/logo/Telangana-home-guard-arrested-and-dismissed-after-_1789811038934_Dxnb.jpg",
-      "source": "hindustantimes.com",
-      "sourceUrl": "https://www.hindustantimes.com/india-news/home-guard-arrested-dismissed-from-service-for-assaulting-woman-in-hyderabad-101789811045109-amp.html",
-      "publishedAt": "2026-09-19T09:44:04.000Z",
-      "fetchedAt": "2026-09-19T13:10:18.855Z"
-    },
-    {
-      "id": "f861fad766b5a529",
-      "title": "Ramesh Powar tipped to chair BCCI’s junior national selection committee",
-      "summary": "Ramesh Powar tipped to chair BCCI’s junior national selection committee. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
-      "category": "National & Trending News",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ENational%20%26amp%3B%20Trending%20News%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "The Indian Express",
-      "sourceUrl": "https://indianexpress.com/article/sports/cricket/ramesh-powar-tipped-bcci-junior-national-selection-committee-chairman-10885054/",
-      "publishedAt": "2026-09-19T09:43:30.000Z",
-      "fetchedAt": "2026-09-19T09:51:49.080Z"
-    },
-    {
-      "id": "17123351839ab7dd",
-      "title": "FTAs, skilling incentives opening new employment avenues for youth: PM",
-      "summary": "PM Modi emphasizes India's FTAs are creating new career opportunities for youth, distributing over 51,000 appointment letters at a job fair.",
-      "category": "National & Trending News",
-      "image": "https://th-i.thgim.com/public/incoming/teiyew/article71484174.ece/alternates/LANDSCAPE_1200/PTI09_19_2026_000150B.jpg",
-      "source": "The Hindu",
-      "sourceUrl": "https://www.thehindu.com/news/national/indias-ftas-opening-new-career-opportunities-for-youth-pm-modi/article71484142.ece",
-      "publishedAt": "2026-09-19T09:42:42.000Z",
-      "fetchedAt": "2026-09-19T18:47:34.672Z"
-    },
-    {
-      "id": "f8b7051139770608",
-      "title": "Odisha Researcher Explains Home-Grown Semiconductor Chip To PM Modi At SEMICON India 2026",
-      "summary": "Ganjam researcher Pradeep Kumar Mohanty presented NIT Rourkela’s indigenous security chip to PM Modi, marking a milestone for Odisha’s semiconductor ambitions, reports Samir Kumar Acharya.",
-      "category": "Technology",
-      "image": "https://imgs.etvbharat.com/etvbharat/prod-images/19-09-2026/1200-675-27667588-508-27667588-1789804569151.jpg",
-      "source": "ETV Bharat",
-      "sourceUrl": "https://www.etvbharat.com/en/offbeat/odisha-researcher-explains-home-grown-semiconductor-chip-to-pm-modi-at-semicon-india-2026-enn26091902413",
-      "publishedAt": "2026-09-19T09:41:36.000Z",
-      "fetchedAt": "2026-09-19T12:02:55.716Z"
-    },
-    {
-      "id": "96bc7d1a1793b775",
-      "title": "India's Got Latent S2: Samay Brutally Roasts Nawazuddin",
-      "summary": "India's Got Latent S2: Samay Brutally Roasts Nawazuddin. This update was reported by Hindustan Herald. Open the original report for full context and any developing updates.",
-      "category": "Entertainment",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EEntertainment%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "Hindustan Herald",
-      "sourceUrl": "https://hindustanherald.in/indias-got-latent-season-2-episode-7-nawazuddin/",
-      "publishedAt": "2026-09-19T09:40:26.000Z",
-      "fetchedAt": "2026-09-19T17:58:40.521Z"
-    },
-    {
-      "id": "02d73b883d1391a8",
-      "title": "'Mirzapur The Movie' box office collection Day 16 [LIVE]: Pankaj Tripathi, Ali Fazal and Ravi Kishan film",
-      "summary": "‘Mirzapur The Movie’ is continuing its theatrical run into Day 16, with the Gurmmeet Singh directorial having already crossed the Rs. 205 crore India net milestone.",
-      "category": "Entertainment",
-      "image": "https://static.toiimg.com/thumb/msid-134351491,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/mirzapur-the-movie-box-office-collection-day-16-live-pankaj-tripathi-ali-fazal-rasika-dugal-ravi-kishan-eyes-rs-210-crore-india-net-and-rs-300-crore-worldwide-milestones-as-it-heads-into-third-weekend/articleshow/134351404.cms",
-      "publishedAt": "2026-09-19T09:40:00.000Z",
-      "fetchedAt": "2026-09-19T09:51:39.178Z"
     }
   ]
 }
