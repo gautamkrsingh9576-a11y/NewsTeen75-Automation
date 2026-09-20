@@ -233,11 +233,17 @@ function isHttpUrl(value = "") {
 function isUsableImageUrl(value = "") {
   if (!isHttpUrl(value)) return false;
 
-  const lower = value.toLowerCase();
-  if (
-    lower.startsWith("data:") ||
-    /(?:^|[\/_\-.])(logo|favicon|icon|sprite|avatar|placeholder|default)(?:[\/_\-.]|$)/i.test(lower)
-  ) {
+  try {
+    const url = new URL(value);
+    const lowerPath = url.pathname.toLowerCase();
+    const fileName = lowerPath.split("/").pop() || "";
+
+    if (
+      /(logo|favicon|icon|sprite|avatar|placeholder|default)/i.test(fileName)
+    ) {
+      return false;
+    }
+  } catch {
     return false;
   }
 
@@ -399,6 +405,45 @@ function selectWithSeventyThirtyRatio(articles, limit = MAX_ARTICLES) {
     .filter((article) => !isBiharArticle(article))
     .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
 
+  if (!bihar.length) {
+    return external.slice(0, limit);
+  }
+
+  if (!external.length) {
+    return bihar.slice(0, limit);
+  }
+
+  const maxByBihar = Math.max(1, Math.round(bihar.length / 0.3));
+  const maxByExternal = Math.max(1, Math.round(external.length / 0.7));
+  const total = Math.min(limit, maxByBihar, maxByExternal);
+
+  let biharTarget = Math.min(
+    bihar.length,
+    Math.max(1, Math.round(total * 0.3))
+  );
+
+  let externalTarget = Math.min(
+    external.length,
+    total - biharTarget
+  );
+
+  while (
+    biharTarget + externalTarget < total &&
+    externalTarget < external.length
+  ) {
+    externalTarget += 1;
+  }
+
+  while (
+    biharTarget + externalTarget < total &&
+    biharTarget < bihar.length
+  ) {
+    biharTarget += 1;
+  }
+
+  const selectedBihar = bihar.slice(0, biharTarget);
+  const selectedExternal = external.slice(0, externalTarget);
+
   const pattern = [
     "external", "external", "bihar", "external", "external",
     "bihar", "external", "external", "external", "bihar"
@@ -409,38 +454,34 @@ function selectWithSeventyThirtyRatio(articles, limit = MAX_ARTICLES) {
   let biharIndex = 0;
 
   while (
-    selected.length < limit &&
-    (externalIndex < external.length || biharIndex < bihar.length)
+    selected.length < total &&
+    (externalIndex < selectedExternal.length ||
+      biharIndex < selectedBihar.length)
   ) {
-    let addedThisRound = 0;
-
     for (const slot of pattern) {
-      if (selected.length >= limit) break;
+      if (selected.length >= total) break;
 
-      if (slot === "external" && externalIndex < external.length) {
-        selected.push(external[externalIndex++]);
-        addedThisRound += 1;
+      if (
+        slot === "external" &&
+        externalIndex < selectedExternal.length
+      ) {
+        selected.push(selectedExternal[externalIndex++]);
         continue;
       }
 
-      if (slot === "bihar" && biharIndex < bihar.length) {
-        selected.push(bihar[biharIndex++]);
-        addedThisRound += 1;
+      if (
+        slot === "bihar" &&
+        biharIndex < selectedBihar.length
+      ) {
+        selected.push(selectedBihar[biharIndex++]);
       }
     }
 
-    if (addedThisRound === 0) break;
-
-    if (externalIndex >= external.length && biharIndex < bihar.length) {
-      while (selected.length < limit && biharIndex < bihar.length) {
-        selected.push(bihar[biharIndex++]);
-      }
-    }
-
-    if (biharIndex >= bihar.length && externalIndex < external.length) {
-      while (selected.length < limit && externalIndex < external.length) {
-        selected.push(external[externalIndex++]);
-      }
+    if (
+      externalIndex >= selectedExternal.length &&
+      biharIndex >= selectedBihar.length
+    ) {
+      break;
     }
   }
 
