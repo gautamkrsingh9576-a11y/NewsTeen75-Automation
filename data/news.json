@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-09-20T10:02:27.218Z",
+  "updatedAt": "2026-09-20T10:19:39.907Z",
   "count": 250,
   "articles": [
+    {
+      "id": "0e9e0499e9f7c710",
+      "title": "Of old clock towers and Delhi's 900 'slaves': New book chronicles India's historic time-keepers",
+      "summary": "New Delhi, Sep 20 (PTI) From a clock adorning the turret of a Portuguese-era church in West Bengal to an over 160-year-old iconic clocktower in Mumbai, these",
+      "category": "National & Trending News",
+      "image": "https://themeghalayanexpress.com/wp-content/uploads/2026/09/Default-feature-image-TME.png",
+      "source": "The Meghalayan Express",
+      "sourceUrl": "https://themeghalayanexpress.com/of-old-clock-towers-and-delhis-900-slaves-new-book-chronicles-indias-historic-time-keepers/",
+      "publishedAt": "2026-09-20T10:11:29.000Z",
+      "fetchedAt": "2026-09-20T10:19:36.356Z"
+    },
+    {
+      "id": "bb57f3435a7e1998",
+      "title": "Smart Cities Spent Crores On Tech. Did Garbage Collection Actually Improve?",
+      "summary": "India has spent crores trying to make its cities smarter. The Smart Cities Mission has seen around Rs 1.64 lakh crore invested across 8,067 projects.",
+      "category": "Technology",
+      "image": "https://c.ndtvimg.com/2025-10/0jjnll5g_garbage-truck-dead-copy_625x300_23_October_25.jpg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+      "source": "NDTV",
+      "sourceUrl": "https://www.ndtv.com/business-news/smart-cities-india-garbage-disposal-technology-solid-waste-management-collection-12064127",
+      "publishedAt": "2026-09-20T09:54:59.000Z",
+      "fetchedAt": "2026-09-20T10:19:32.297Z"
+    },
     {
       "id": "2dab36a2ca7f9bf2",
       "title": "Who was TSPC commander Brajesh Ganjhu, on the run for 20 years with over 50 cases? | India News",
@@ -135,6 +157,17 @@
       "fetchedAt": "2026-09-20T09:10:30.173Z"
     },
     {
+      "id": "e98b31631279b901",
+      "title": "'Hanuman Ansh' box office collection Day 45 (LIVE): Shobhinaw Satya's film set to gross over Rs 315 crore",
+      "summary": "The Times of India brings the Latest & Top Breaking News on Politics and Current Affairs in India & around the World, Cricket, Sports, Business, Bollywood News and Entertainment, Science, Technology, Health & Fitness news & opinions from leading columnists.",
+      "category": "Entertainment",
+      "image": "https://static.toiimg.com/thumb/msid-134365586,width-1280,height-720,imgsize-629306,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/hanuman-ansh-box-office-collection-day-45-live-shobhinaw-satyas-film-set-to-gross-over-rs-315-crore-in-india-today-beats-mirzapur-and-vibe/amp_articleshow/134365453.cms",
+      "publishedAt": "2026-09-20T08:31:00.000Z",
+      "fetchedAt": "2026-09-20T10:19:30.508Z"
+    },
+    {
       "id": "18baec66e6822262",
       "title": "India’s Spacetech Dreams Enter The Commercialisation Phase",
       "summary": "Rising valuations, limited revenue and a crowded startup landscape are putting greater pressure on startups to prove demand and scalability.",
@@ -199,6 +232,17 @@
       "sourceUrl": "https://www.tribuneindia.com/news/india/icymithetribuneopinion-new-us-law-paves-the-way-for-a-tariff-onslaught/amp",
       "publishedAt": "2026-09-20T08:25:22.000Z",
       "fetchedAt": "2026-09-20T09:50:34.104Z"
+    },
+    {
+      "id": "044327eb4838bf8c",
+      "title": "5 new South Indian movies and OTT series releasing from September 14 to 20, 2026",
+      "summary": "5 new South Indian movies and OTT series releasing from September 14 to 20, 2026. This update was reported by Lifestyle Asia Hong Kong. Open the original report for full context and any developing updates.",
+      "category": "Entertainment",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EEntertainment%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "Lifestyle Asia Hong Kong",
+      "sourceUrl": "https://www.lifestyleasia.com/ind/entertainment/movies/new-upcoming-south-indian-movies-and-ott-series-releasing-from-14-to-20-september-2026-netflix-jiohotstar/",
+      "publishedAt": "2026-09-20T08:21:36.000Z",
+      "fetchedAt": "2026-09-20T10:19:30.707Z"
     },
     {
       "id": "cc35b10527572db3",
@@ -298,6 +342,17 @@
       "sourceUrl": "https://www.cnbctv18.com/photos/entertainment/mega-budgets-and-monumental-bets-the-most-expensive-indian-films-ever-mounted-19994231.htm/amp",
       "publishedAt": "2026-09-20T07:41:57.000Z",
       "fetchedAt": "2026-09-20T10:02:14.474Z"
+    },
+    {
+      "id": "c29b2452c6a9a257",
+      "title": "Suchika Tariyal Wins Stunning India MMA Medal at 36",
+      "summary": "Suchika Tariyal Wins Stunning India MMA Medal at 36. This update was reported by Hindustan Herald. Open the original report for full context and any developing updates.",
+      "category": "Sports",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "Hindustan Herald",
+      "sourceUrl": "https://hindustanherald.in/suchika-tariyal-mma-asian-games-medal/",
+      "publishedAt": "2026-09-20T07:36:41.000Z",
+      "fetchedAt": "2026-09-20T10:19:29.730Z"
     },
     {
       "id": "0e378f28492385b7",
@@ -628,6 +683,17 @@
       "sourceUrl": "https://www.olympics.com/en/news/asian-games-2026-live-scores-updates-results-india-september-20",
       "publishedAt": "2026-09-20T06:06:00.000Z",
       "fetchedAt": "2026-09-20T08:54:44.154Z"
+    },
+    {
+      "id": "46a61e9d250f3d90",
+      "title": "Varun Sanyal out of Asian Games after passing out during weight cut",
+      "summary": "Varun Sanyal out of Asian Games after passing out during weight cut. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
+      "category": "Sports",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "The Indian Express",
+      "sourceUrl": "https://indianexpress.com/article/sports/asian-games-indian-mma-fighter-varun-sanyal-dizziness-weightcut-10885879/",
+      "publishedAt": "2026-09-20T05:57:11.000Z",
+      "fetchedAt": "2026-09-20T10:19:29.536Z"
     },
     {
       "id": "46a61e9d250f3d90",
@@ -2685,72 +2751,6 @@
       "sourceUrl": "https://www.nationalheraldindia.com/amp/story/politics/system-fears-students-because-they-ask-questions-rahul-gandhi-in-indore",
       "publishedAt": "2026-09-19T15:25:41.000Z",
       "fetchedAt": "2026-09-19T19:38:14.784Z"
-    },
-    {
-      "id": "ffd80be28d4dd22c",
-      "title": "Sports Ministry eyes IPL owners to boost HIL and other league",
-      "summary": "There is already a connection between IPL ownership and the HIL. JSW, which co-owns IPL franchise Delhi Capitals, has teams competing in both the men&rsquo;s and women&rsquo;s editions of the hockey league.",
-      "category": "Sports",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260409094349_ibinbv.png",
-      "source": "Moneycontrol.com",
-      "sourceUrl": "https://www.moneycontrol.com/sports/cricket/ipl/sports-ministry-eyes-ipl-owners-to-boost-hil-and-other-league-article-14033609.html",
-      "publishedAt": "2026-09-19T15:21:01.000Z",
-      "fetchedAt": "2026-09-19T18:47:28.394Z"
-    },
-    {
-      "id": "d99850e259b2411e",
-      "title": "Ent Top Stories: Deepika-Ranveer’s second baby a girl; Alia-Ranbir’s Ganeshotsav - Mid-Day",
-      "summary": "Entertainment Top Stories: End your day with the most happening highlights. It`s time to relax and take a look at the latest news and events.",
-      "category": "Entertainment",
-      "image": "https://images.mid-day.com/images/images/2026/sep/dhhdhdhdhhd_1789831047146_d.jpg",
-      "source": "Mid-Day",
-      "sourceUrl": "https://www.mid-day.com/entertainment/bollywood-news/photo/ent-top-stories-deepika-ranveer-welcome-baby-girl-no-2-vibe-bo-day-1-113141/8",
-      "publishedAt": "2026-09-19T15:19:00.000Z",
-      "fetchedAt": "2026-09-19T18:47:30.175Z"
-    },
-    {
-      "id": "96440fbb0e24e4a4",
-      "title": "Mirabai Chanu wins India’s first gold at Commonwealth Games 2026 in weightlifting | Akashvani News",
-      "summary": "Mirabai Chanu wins India’s first gold at Commonwealth Games 2026 in weightlifting | Akashvani News. This update was reported by News On AIR. Open the original report for full context and any developing updates.",
-      "category": "Sports",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "News On AIR",
-      "sourceUrl": "https://newsonair.gov.in/mirabai-chanu-wins-indias-first-gold-at-commonwealth-games-2026-in-weightlifting/",
-      "publishedAt": "2026-09-19T15:02:25.000Z",
-      "fetchedAt": "2026-09-19T17:11:44.990Z"
-    },
-    {
-      "id": "85b2913c491a10c7",
-      "title": "Asian Games 2026 Day 2, September 20: India’s full schedule, venue, fixtures & time",
-      "summary": "Asian Games 2026 Day 2, September 20: India’s full schedule, venue, fixtures & time. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
-      "category": "Sports",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "The Indian Express",
-      "sourceUrl": "https://indianexpress.com/article/sports/asian-games-2026-day-2-india-full-schedule-fixtures-aichi-nagoya-10885257/",
-      "publishedAt": "2026-09-19T15:01:12.000Z",
-      "fetchedAt": "2026-09-19T15:10:29.422Z"
-    },
-    {
-      "id": "938ad1b9cd35901f",
-      "title": "'When plate is served, should you not eat?': Shiv Sena MP defends act of eating almonds & cashews at meeting to discuss drought",
-      "summary": "Maharashtra drought: Shiv Sena MP Sanjay Jadhav defends eating dry fruits during a high-level review meeting, dismissing opposition criticism as petty politics while farmers protest across Nanded district over crop failure.",
-      "category": "Politics & Government",
-      "image": "https://cf-images.assettype.com/deccanherald%2F2026-09-19%2Fyxmdmhcm%2FSWARNA-59.png?rect=0%2C0%2C1280%2C672&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "source": "deccanherald.com",
-      "sourceUrl": "https://www.deccanherald.com/amp/story/india/maharashtra/when-plate-is-served-should-you-not-eat-shiv-sena-mp-defends-act-of-eating-almonds-cashews-at-meeting-to-discuss-drought-4152102",
-      "publishedAt": "2026-09-19T14:58:00.000Z",
-      "fetchedAt": "2026-09-19T18:58:01.964Z"
-    },
-    {
-      "id": "bfd737b370b1ea9f",
-      "title": "Finance Minister Highlights India’s vast market size and long term investment potential at Chicago Business Roundtable",
-      "summary": "Finance Minister Highlights India’s vast market size and long term investment potential at Chicago Business Roundtable. This update was reported by News On AIR. Open the original report for full context and any developing updates.",
-      "category": "Business & Finance",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EBusiness%20%26amp%3B%20Finance%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "News On AIR",
-      "sourceUrl": "https://newsonair.gov.in/finance-minister-highlights-indias-investment-potential-at-chicago-business-roundtable/",
-      "publishedAt": "2026-09-19T14:55:34.000Z",
-      "fetchedAt": "2026-09-19T17:11:50.889Z"
     }
   ]
 }
