@@ -8,12 +8,13 @@ const decoder = new GoogleDecoder();
 
 const FEED_PATH = new URL("../data/news.json", import.meta.url);
 const MAX_ARTICLES = 250;
-const MAX_NEW_PER_CATEGORY = 2;
+const MAX_NEW_EXTERNAL_PER_CATEGORY = 2;
+const MAX_NEW_BIHAR_PER_CATEGORY = 1;
 const FRESH_WINDOW_MS = 24 * 60 * 60 * 1000;
 const RETENTION_WINDOW_MS = 72 * 60 * 60 * 1000;
-const MAX_IMAGE_BACKFILLS_PER_RUN = 12;
+const MIN_SUMMARY_CHARS = 60;
 
-const categories = [
+const externalCategories = [
   { name: "Politics & Government", query: "India politics government when:1d" },
   { name: "Crime & Breaking News", query: "India crime breaking news when:1d" },
   { name: "Sports", query: "India sports when:1d" },
@@ -21,6 +22,27 @@ const categories = [
   { name: "Technology", query: "India technology when:1d" },
   { name: "Business & Finance", query: "India business finance when:1d" },
   { name: "National & Trending News", query: "India latest national trending news when:1d" },
+];
+
+const biharCategories = [
+  { name: "Politics & Government", query: "Bihar politics government election policy when:1d" },
+  { name: "Crime & Breaking News", query: "Bihar crime police accident court breaking news when:1d" },
+  { name: "Sports", query: "Bihar sports cricket tournament when:1d" },
+  { name: "Entertainment", query: "Bihar entertainment cinema culture when:1d" },
+  { name: "Technology", query: "Bihar technology AI startup digital when:1d" },
+  { name: "Business & Finance", query: "Bihar business startup funding economy market when:1d" },
+  { name: "National & Trending News", query: "Bihar latest local development education infrastructure trending when:1d" },
+];
+
+const BIHAR_TERMS = [
+  "bihar", "patna", "gaya", "muzaffarpur", "bhagalpur", "darbhanga",
+  "nalanda", "bihar sharif", "purnia", "purnea", "begusarai",
+  "samastipur", "madhubani", "sitamarhi", "motihari", "bettiah",
+  "katihar", "kishanganj", "arrah", "ara", "buxar", "sasaram",
+  "rohtas", "kaimur", "nawada", "jamui", "munger", "lakhisarai",
+  "sheikhpura", "jehanabad", "arwal", "hajipur", "vaishali", "siwan",
+  "chapra", "chhapra", "saharsa", "supaul", "madhepura", "araria",
+  "khagaria"
 ];
 
 function decodeEntities(value = "") {
@@ -81,17 +103,22 @@ function isGenericGoogleDescription(text = "") {
   );
 }
 
-function buildSummary(title, description, source) {
+function isGeneratedFallbackSummary(text = "") {
+  return /this update was reported by .*open the original report/i.test(text);
+}
+
+function buildSummary(title, description) {
   const cleanTitle = normalizeTitle(title);
-  let text = stripHtml(description || "");
+  const text = stripHtml(description || "");
 
   if (
     !text ||
-    text.length < 80 ||
+    text.length < MIN_SUMMARY_CHARS ||
     isGenericGoogleDescription(text) ||
+    isGeneratedFallbackSummary(text) ||
     text.toLowerCase() === cleanTitle.toLowerCase()
   ) {
-    text = `${cleanTitle}. This update was reported by ${source || "the original publisher"}. Open the original report for full context and any developing updates.`;
+    return "";
   }
 
   return trimWords(text, 50);
@@ -180,21 +207,6 @@ function absoluteUrl(value, baseUrl) {
   }
 }
 
-function escapeXml(value = "") {
-  return String(value)
-    .replace(/&/g, "&amp;")
-    .replace(/</g, "&lt;")
-    .replace(/>/g, "&gt;")
-    .replace(/"/g, "&quot;")
-    .replace(/'/g, "&apos;");
-}
-
-function fallbackImage(category = "Latest News") {
-  const label = escapeXml(category);
-  const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675"><rect width="1200" height="675" fill="#0b0b10"/><circle cx="980" cy="150" r="180" fill="#ff3045" opacity="0.25"/><text x="80" y="270" fill="#ffffff" font-family="Arial,sans-serif" font-size="92" font-weight="700">NewsTeen75</text><text x="80" y="370" fill="#ff3045" font-family="Arial,sans-serif" font-size="46" font-weight="700">${label}</text><text x="80" y="455" fill="#b7b7c2" font-family="Arial,sans-serif" font-size="32">Latest news update</text></svg>`;
-  return `data:image/svg+xml;charset=UTF-8,${encodeURIComponent(svg)}`;
-}
-
 function isFresh(dateValue, windowMs = FRESH_WINDOW_MS) {
   const time = new Date(dateValue).getTime();
   if (!Number.isFinite(time)) return false;
@@ -207,6 +219,232 @@ function isRetained(dateValue) {
   if (!Number.isFinite(time)) return false;
   const age = Date.now() - time;
   return age >= -60 * 60 * 1000 && age <= RETENTION_WINDOW_MS;
+}
+
+function isHttpUrl(value = "") {
+  try {
+    const url = new URL(value);
+    return url.protocol === "http:" || url.protocol === "https:";
+  } catch {
+    return false;
+  }
+}
+
+function isUsableImageUrl(value = "") {
+  if (!isHttpUrl(value)) return false;
+
+  const lower = value.toLowerCase();
+  if (
+    lower.startsWith("data:") ||
+    /(?:^|[\/_\-.])(logo|favicon|icon|sprite|avatar|placeholder|default)(?:[\/_\-.]|$)/i.test(lower)
+  ) {
+    return false;
+  }
+
+  return true;
+}
+
+async function validateImageUrl(url) {
+  if (!isUsableImageUrl(url)) return false;
+
+  const checkResponse = (response) => {
+    if (!response.ok) return false;
+    const type = String(response.headers.get("content-type") || "").toLowerCase();
+    return type.startsWith("image/") && !type.includes("svg");
+  };
+
+  try {
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), 7000);
+    const response = await fetch(url, {
+      method: "HEAD",
+      redirect: "follow",
+      signal: controller.signal,
+      headers: { "user-agent": "NewsTeen75Bot/1.0" },
+    });
+    clearTimeout(timeout);
+    if (checkResponse(response)) return true;
+  } catch {
+    // Some CDNs block HEAD, so retry with a small ranged GET.
+  }
+
+  try {
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), 7000);
+    const response = await fetch(url, {
+      method: "GET",
+      redirect: "follow",
+      signal: controller.signal,
+      headers: {
+        "user-agent": "NewsTeen75Bot/1.0",
+        range: "bytes=0-2047",
+      },
+    });
+    clearTimeout(timeout);
+    return checkResponse(response);
+  } catch {
+    return false;
+  }
+}
+
+function articleHasRequiredQuality(article) {
+  const title = normalizeTitle(article?.title || "");
+  const summary = stripHtml(article?.summary || article?.description || "");
+  const source = String(article?.source || "").trim();
+  const sourceUrl = article?.sourceUrl || article?.url || article?.link || "";
+
+  return (
+    title.length >= 20 &&
+    summary.length >= MIN_SUMMARY_CHARS &&
+    !isGeneratedFallbackSummary(summary) &&
+    source.length >= 2 &&
+    isHttpUrl(sourceUrl) &&
+    isUsableImageUrl(article?.image || "") &&
+    isRetained(article?.publishedAt)
+  );
+}
+
+function canonicalUrl(value = "") {
+  try {
+    const url = new URL(value);
+    url.hash = "";
+    for (const key of [...url.searchParams.keys()]) {
+      if (/^(utm_|fbclid$|gclid$|ref$|source$)/i.test(key)) {
+        url.searchParams.delete(key);
+      }
+    }
+    return `${url.origin}${url.pathname}${url.search}`.replace(/\/$/, "").toLowerCase();
+  } catch {
+    return String(value || "").trim().toLowerCase();
+  }
+}
+
+function titleTokens(title = "") {
+  return new Set(
+    normalizeTitle(title)
+      .toLowerCase()
+      .replace(/[^a-z0-9\s]/g, " ")
+      .split(/\s+/)
+      .filter((word) => word.length > 2)
+  );
+}
+
+function isNearDuplicateTitle(a = "", b = "") {
+  const left = titleTokens(a);
+  const right = titleTokens(b);
+  if (left.size < 4 || right.size < 4) return false;
+
+  let common = 0;
+  for (const word of left) {
+    if (right.has(word)) common += 1;
+  }
+
+  const union = new Set([...left, ...right]).size;
+  return union > 0 && common / union >= 0.8;
+}
+
+function dedupeArticles(articles) {
+  const sorted = [...articles].sort(
+    (a, b) => new Date(b.publishedAt) - new Date(a.publishedAt)
+  );
+
+  const kept = [];
+  const seenUrls = new Set();
+  const seenTitles = new Set();
+
+  for (const article of sorted) {
+    const url = canonicalUrl(article.sourceUrl || article.url || article.link || "");
+    const title = normalizeTitle(article.title || "").toLowerCase();
+
+    if (!url || !title) continue;
+    if (seenUrls.has(url) || seenTitles.has(title)) continue;
+    if (kept.some((existing) => isNearDuplicateTitle(existing.title, article.title))) continue;
+
+    kept.push(article);
+    seenUrls.add(url);
+    seenTitles.add(title);
+  }
+
+  return kept;
+}
+
+function containsBiharLocation(article) {
+  const text = [
+    article?.title,
+    article?.summary,
+    article?.description,
+    article?.source,
+    article?.sourceUrl,
+  ]
+    .filter(Boolean)
+    .join(" ")
+    .toLowerCase();
+
+  return BIHAR_TERMS.some((term) => {
+    const escaped = term.replace(/[-/\^$*+?.()|[\]{}]/g, "\\async function resolvePublisherUrl");
+    return new RegExp(`\\b${escaped}\\b`, "i").test(text);
+  });
+}
+
+function isBiharArticle(article) {
+  return article?.__scope === "bihar" || containsBiharLocation(article);
+}
+
+function selectWithSeventyThirtyRatio(articles, limit = MAX_ARTICLES) {
+  const bihar = articles
+    .filter(isBiharArticle)
+    .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
+
+  const external = articles
+    .filter((article) => !isBiharArticle(article))
+    .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
+
+  const pattern = [
+    "external", "external", "bihar", "external", "external",
+    "bihar", "external", "external", "external", "bihar"
+  ];
+
+  const selected = [];
+  let externalIndex = 0;
+  let biharIndex = 0;
+
+  while (
+    selected.length < limit &&
+    (externalIndex < external.length || biharIndex < bihar.length)
+  ) {
+    let addedThisRound = 0;
+
+    for (const slot of pattern) {
+      if (selected.length >= limit) break;
+
+      if (slot === "external" && externalIndex < external.length) {
+        selected.push(external[externalIndex++]);
+        addedThisRound += 1;
+        continue;
+      }
+
+      if (slot === "bihar" && biharIndex < bihar.length) {
+        selected.push(bihar[biharIndex++]);
+        addedThisRound += 1;
+      }
+    }
+
+    if (addedThisRound === 0) break;
+
+    if (externalIndex >= external.length && biharIndex < bihar.length) {
+      while (selected.length < limit && biharIndex < bihar.length) {
+        selected.push(bihar[biharIndex++]);
+      }
+    }
+
+    if (biharIndex >= bihar.length && externalIndex < external.length) {
+      while (selected.length < limit && externalIndex < external.length) {
+        selected.push(external[externalIndex++]);
+      }
+    }
+  }
+
+  return selected;
 }
 
 async function resolvePublisherUrl(url) {
@@ -271,17 +509,17 @@ async function enrichArticle(url) {
   }
 }
 
-async function fetchCategory(category, knownLinks, knownTitles) {
+async function fetchCategory(category, knownLinks, knownTitles, maxNew, scope) {
   const url = `https://news.google.com/rss/search?q=${encodeURIComponent(category.query)}&hl=en-IN&gl=IN&ceid=IN:en`;
   const response = await fetch(url, { headers: { "user-agent": "NewsTeen75Bot/1.0" } });
   if (!response.ok) throw new Error(`RSS failed for ${category.name}: ${response.status}`);
 
   const xml = await response.text();
-  const items = parseItems(xml).slice(0, 25);
+  const items = parseItems(xml).slice(0, 30);
   const fresh = [];
 
   for (const item of items) {
-    if (fresh.length >= MAX_NEW_PER_CATEGORY) break;
+    if (fresh.length >= maxNew) break;
 
     const cleanTitle = normalizeTitle(item.title);
     if (!item.link || !cleanTitle || !isFresh(item.pubDate)) continue;
@@ -291,17 +529,25 @@ async function fetchCategory(category, knownLinks, knownTitles) {
     const enriched = await enrichArticle(publisherUrl);
     const publishedAt = new Date(item.pubDate).toISOString();
     const sourceUrl = enriched.finalUrl || publisherUrl || item.link;
+    const summary = buildSummary(cleanTitle, enriched.description);
+    const image = enriched.image || "";
+
+    if (!summary) continue;
+    if (!isUsableImageUrl(image)) continue;
+    if (!(await validateImageUrl(image))) continue;
+    if (!isHttpUrl(sourceUrl)) continue;
 
     fresh.push({
       id: idFor(sourceUrl, cleanTitle),
       title: cleanTitle,
-      summary: buildSummary(cleanTitle, enriched.description, item.source),
+      summary,
       category: category.name,
-      image: enriched.image || fallbackImage(category.name),
+      image,
       source: item.source || "Google News",
       sourceUrl,
       publishedAt,
       fetchedAt: new Date().toISOString(),
+      __scope: scope,
     });
 
     knownLinks.add(item.link);
@@ -312,72 +558,102 @@ async function fetchCategory(category, knownLinks, knownTitles) {
   return fresh;
 }
 
-async function backfillMissingImages(articles) {
-  let changed = false;
-  let processed = 0;
-
-  for (const article of articles) {
-    if (processed >= MAX_IMAGE_BACKFILLS_PER_RUN) break;
-    if (article.image) continue;
-
-    processed += 1;
-    const currentUrl = article.sourceUrl || article.link || "";
-    const publisherUrl = await resolvePublisherUrl(currentUrl);
-    const enriched = await enrichArticle(publisherUrl);
-
-    const nextImage = enriched.image || fallbackImage(article.category);
-    if (nextImage !== article.image) {
-      article.image = nextImage;
-      changed = true;
-    }
-
-    const nextSourceUrl = enriched.finalUrl || publisherUrl;
-    if (nextSourceUrl && nextSourceUrl !== article.sourceUrl) {
-      article.sourceUrl = nextSourceUrl;
-      changed = true;
-    }
-  }
-
-  return changed;
+function stripInternalFields(article) {
+  const { __scope, ...publicArticle } = article;
+  return publicArticle;
 }
 
 async function main() {
   const existing = JSON.parse(fs.readFileSync(FEED_PATH, "utf8"));
   const previousArticles = Array.isArray(existing.articles) ? existing.articles : [];
-  const articles = previousArticles.filter((article) => isRetained(article.publishedAt));
 
-  const changedByImageBackfill = await backfillMissingImages(articles);
+  const retainedArticles = previousArticles
+    .filter((article) => isRetained(article.publishedAt))
+    .filter(articleHasRequiredQuality);
 
-  const knownLinks = new Set(articles.flatMap((a) => [a.sourceUrl, a.link].filter(Boolean)));
-  const knownTitles = new Set(articles.map((a) => String(a.title || "").toLowerCase()));
+  const knownLinks = new Set(
+    retainedArticles.flatMap((article) => [
+      article.sourceUrl,
+      article.url,
+      article.link,
+    ].filter(Boolean))
+  );
+
+  const knownTitles = new Set(
+    retainedArticles.map((article) => normalizeTitle(article.title || "").toLowerCase())
+  );
+
   const newArticles = [];
 
-  for (const category of categories) {
+  for (const category of externalCategories) {
     try {
-      newArticles.push(...(await fetchCategory(category, knownLinks, knownTitles)));
+      newArticles.push(
+        ...(await fetchCategory(
+          category,
+          knownLinks,
+          knownTitles,
+          MAX_NEW_EXTERNAL_PER_CATEGORY,
+          "external"
+        ))
+      );
     } catch (error) {
       console.error(error.message);
     }
   }
 
-  const merged = [...newArticles, ...articles]
-    .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt))
-    .slice(0, MAX_ARTICLES);
+  for (const category of biharCategories) {
+    try {
+      newArticles.push(
+        ...(await fetchCategory(
+          category,
+          knownLinks,
+          knownTitles,
+          MAX_NEW_BIHAR_PER_CATEGORY,
+          "bihar"
+        ))
+      );
+    } catch (error) {
+      console.error(error.message);
+    }
+  }
 
-  const changedByRetention = articles.length !== previousArticles.length;
-  if (!newArticles.length && !changedByRetention && !changedByImageBackfill) {
-    console.log("No new articles or image updates found. Feed unchanged.");
+  const eligible = dedupeArticles([
+    ...newArticles,
+    ...retainedArticles,
+  ]).filter(articleHasRequiredQuality);
+
+  const selected = selectWithSeventyThirtyRatio(
+    eligible,
+    MAX_ARTICLES
+  );
+
+  const outputArticles = selected.map(stripInternalFields);
+
+  const previousComparable = previousArticles.map((article) => JSON.stringify(article));
+  const nextComparable = outputArticles.map((article) => JSON.stringify(article));
+  const feedChanged =
+    previousComparable.length !== nextComparable.length ||
+    previousComparable.some((value, index) => value !== nextComparable[index]);
+
+  if (!feedChanged) {
+    console.log("No eligible feed changes found. Feed unchanged.");
     return;
   }
 
+  const biharCount = selected.filter(isBiharArticle).length;
+  const externalCount = selected.length - biharCount;
+
   const output = {
     updatedAt: new Date().toISOString(),
-    count: merged.length,
-    articles: merged,
+    count: outputArticles.length,
+    articles: outputArticles,
   };
 
   fs.writeFileSync(FEED_PATH, `${JSON.stringify(output, null, 2)}\n`);
-  console.log(`Added ${newArticles.length} new article(s). Total: ${merged.length}`);
+  console.log(
+    `Added ${newArticles.length} new eligible article(s). ` +
+    `Final feed: ${externalCount} external / ${biharCount} Bihar / ${outputArticles.length} total.`
+  );
 }
 
 main().catch((error) => {
