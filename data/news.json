@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-09-20T09:10:40.663Z",
+  "updatedAt": "2026-09-20T09:25:39.066Z",
   "count": 250,
   "articles": [
+    {
+      "id": "eccdabcc14dffb77",
+      "title": "India sweep past Kazakhstan 3-0 to set up Asian Games badminton quarter-Final against Japan",
+      "summary": "India’s women’s badminton team swept past Kazakhstan 3-0 in the Round of 16 at the Asian Games 2026, setting up a quarter-final clash against Japan and moving a step closer to a team medal.",
+      "category": "Sports",
+      "image": "https://static.toiimg.com/thumb/msid-134365921,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/india-sweep-past-kazakhstan-3-0-to-set-up-asian-games-badminton-quarter-final-against-japan/articleshow/134365874.cms",
+      "publishedAt": "2026-09-20T09:05:00.000Z",
+      "fetchedAt": "2026-09-20T09:25:27.040Z"
+    },
+    {
+      "id": "eda47d0550c5ab1a",
+      "title": "Amazon announces its biggest festive sale of the year, Great Indian Festival 2026: Date, bank offers, dis",
+      "summary": "Amazon has announced the dates for its biggest festive shopping event in India. The Amazon Great Indian Festival 2026 will begin on October 8, bringing deals across smartphones, electronics, fashion, beauty, home appliances, groceries and other categories.",
+      "category": "Technology",
+      "image": "https://static.toiimg.com/thumb/msid-134365791,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/amazon-announces-its-biggest-festive-sale-of-the-year-great-indian-festival-2026-date-bank-offers-discounts-and-more/articleshow/134365784.cms",
+      "publishedAt": "2026-09-20T08:49:00.000Z",
+      "fetchedAt": "2026-09-20T09:25:32.557Z"
+    },
     {
       "id": "1cde8ff5af65bce7",
       "title": "Union Sports Minister Mandaviya leads Indian diaspora at Sundays on Cycle in Nagoya to Cheer for Bharat",
@@ -12,6 +34,17 @@
       "sourceUrl": "https://www.tribuneindia.com/news/sports/union-sports-minister-mandaviya-leads-indian-diaspora-at-sundays-on-cycle-in-nagoya-to-cheer-for-bharat/",
       "publishedAt": "2026-09-20T08:37:42.000Z",
       "fetchedAt": "2026-09-20T09:10:31.981Z"
+    },
+    {
+      "id": "c831e3ed2afe2109",
+      "title": "Indian shooters shine at Asian Games with 2 Silver medals in Nagoya, Japan",
+      "summary": "Indian shooters shine at Asian Games with 2 Silver medals in Nagoya, Japan. This update was reported by News On AIR. Open the original report for full context and any developing updates.",
+      "category": "Sports",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "News On AIR",
+      "sourceUrl": "https://newsonair.gov.in/indian-shooters-shine-at-asian-games-with-2-silver-medals-in-nagoya-japan/",
+      "publishedAt": "2026-09-20T08:37:30.000Z",
+      "fetchedAt": "2026-09-20T09:25:26.769Z"
     },
     {
       "id": "aad5e4a44cd869ad",
@@ -124,6 +157,17 @@
       "fetchedAt": "2026-09-20T09:10:35.955Z"
     },
     {
+      "id": "e26a8a03024bc5d0",
+      "title": "BMC acts against airport mosque following ‘land jihad’ claims",
+      "summary": "BMC notified Mumbai Airport to cut water to an adjoining mosque after BJP leader Kirit Somaiya alleged \"land jihad\" ad illegal use of water.",
+      "category": "Crime & Breaking News",
+      "image": "https://cdn.siasat.com/wp-content/uploads/2026/09/Kirit-Somaiya-Mumabi-airport-mosque.jpg",
+      "source": "The Siasat Daily",
+      "sourceUrl": "https://www.siasat.com/bmc-acts-against-airport-mosque-following-land-jihad-claims-3545136/amp/",
+      "publishedAt": "2026-09-20T07:58:00.000Z",
+      "fetchedAt": "2026-09-20T09:25:25.298Z"
+    },
+    {
       "id": "2407fcb82fd43d98",
       "title": "Digital Technology To Transform India’s Mining Sector.",
       "summary": "Mumbai, Maharashtra, 20th of September, 2026 : Technology, artificial intelligence (AI), automation and reliable data are ushering in a new era of transformation in India’s mining and metals sector. At FICCI’s conference on “Digitalisation, AI, Automation and Technology Integration in Mining and Metals,” experts said that the adoption of technology…",
@@ -232,6 +276,17 @@
       "sourceUrl": "https://www.wionews.com/india-news/india-faces-worst-rain-deficit-in-17-years-as-monsoon-begins-withdrawal-from-rajasthan-1789885306515",
       "publishedAt": "2026-09-20T07:09:55.000Z",
       "fetchedAt": "2026-09-20T09:10:36.823Z"
+    },
+    {
+      "id": "7157fc4e6efe3bf8",
+      "title": "101 India Deals Under Review: National Interest, Gains First - daily-sun.com",
+      "summary": "101 India Deals Under Review: National Interest, Gains First - daily-sun.com. This update was reported by daily-sun.com. Open the original report for full context and any developing updates.",
+      "category": "Politics & Government",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3EPolitics%20%26amp%3B%20Government%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "daily-sun.com",
+      "sourceUrl": "https://www.daily-sun.com/index.php/bangladesh/898845/101-india-deals-under-review-national-interest-gains-first",
+      "publishedAt": "2026-09-20T07:07:31.000Z",
+      "fetchedAt": "2026-09-20T09:25:24.444Z"
     },
     {
       "id": "efbdc2e3eeec139c",
@@ -1420,6 +1475,17 @@
       "sourceUrl": "https://brighterkashmir.com/eastern-frontier-in-focus-at-bihar-lok-bhavan",
       "publishedAt": "2026-09-19T21:14:03.000Z",
       "fetchedAt": "2026-09-20T03:20:23.006Z"
+    },
+    {
+      "id": "5bf4492a7432853a",
+      "title": "Samavarthi​ - Official Teaser​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+      "summary": "Watch the Official teaser​ from telugu​​​​​ movie '​Samavarthi​' starring Satyadev, Dileesh Pothan and Rajeev Kanakala. '​Samavarthi​' movie is directed by Ajay Nag V. To know more about '​Samavarthi​' teaser​ watch the video. Check out the latest telugu​​​​​ teaser​s, new movie teaser​s, trending telugu​​​​​ movie teaser​, and more at ETimes -…",
+      "category": "Entertainment",
+      "image": "https://static.toiimg.com/thumb/msid-134360336,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/videos/entertainment/regional/telugu/samavarthi-official-teaser/videoshow/134360336.cms",
+      "publishedAt": "2026-09-19T21:11:34.000Z",
+      "fetchedAt": "2026-09-20T09:25:27.598Z"
     },
     {
       "id": "a5bd6cbba586f715",
@@ -2685,72 +2751,6 @@
       "sourceUrl": "https://thebridge.in/amp/asian-games/bpcl-backs-team-india-as-principal-partner-at-asian-games-2026-57674",
       "publishedAt": "2026-09-19T14:33:01.000Z",
       "fetchedAt": "2026-09-19T15:38:40.755Z"
-    },
-    {
-      "id": "6bbb78dfaf7aa759",
-      "title": "India at Asian Games, September 20: Shooting, teqball medal events headline busy day",
-      "summary": "Asian Games 2026: India's schedule on Sunday, September 20, features several high-profile contests and medal opportunities, with the women's cricket semifinal against Bangladesh, hockey clashes against Uzbekistan and Indonesia, and two teqball bronze-medal matches among the key events.",
-      "category": "Sports",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/india-at-asian-games-2026-193116549-16x9_0.jpg?VersionId=VJbe8qpqQWgpZJqucIhA733NJVJhcoEk",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/sports/asian-games/story/asian-games-2026-schedule-sunday-september-20-medal-events-timings-2998456-2026-09-19",
-      "publishedAt": "2026-09-19T14:30:46.000Z",
-      "fetchedAt": "2026-09-19T15:49:46.441Z"
-    },
-    {
-      "id": "6bbb78dfaf7aa759",
-      "title": "Asian Games schedule for Sunday, September 20: Medal events, match timings and more",
-      "summary": "Asian Games 2026: India's schedule on Sunday, September 20, features several high-profile contests and medal opportunities, with the women's cricket semifinal against Bangladesh, hockey clashes against Uzbekistan and Indonesia, and two teqball bronze-medal matches among the key events.",
-      "category": "Sports",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/india-at-asian-games-2026-193116549-16x9_0.jpg?VersionId=VJbe8qpqQWgpZJqucIhA733NJVJhcoEk",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/sports/asian-games/story/asian-games-2026-schedule-sunday-september-20-medal-events-timings-2998456-2026-09-19",
-      "publishedAt": "2026-09-19T14:30:46.000Z",
-      "fetchedAt": "2026-09-19T15:25:16.340Z"
-    },
-    {
-      "id": "c04f7239f84b0719",
-      "title": "‘Parents may think twice about schools without smart classes’: BenQ’s Rajeev Singh",
-      "summary": "‘Parents may think twice about schools without smart classes’: BenQ’s Rajeev Singh. This update was reported by The Indian Express. Open the original report for full context and any developing updates.",
-      "category": "Technology",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "The Indian Express",
-      "sourceUrl": "https://indianexpress.com/article/technology/benq-india-smart-classrooms-education-technology-rajeev-singh-10885353/",
-      "publishedAt": "2026-09-19T14:25:29.000Z",
-      "fetchedAt": "2026-09-19T14:55:01.336Z"
-    },
-    {
-      "id": "c8a7ae3a667993b0",
-      "title": "India is proud of you: PM Modi extends best wishes to Indian contingent at Asian Games",
-      "summary": "Prime Minister Narendra Modi wished the Indian contingent well as the Asian Games officially opened in Aichi-Nagoya on Saturday. India begin their campaign with a 501-member team, hoping to build on their record medal haul at the 2023 Hangzhou Games.",
-      "category": "Sports",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/pm-narendra-modi-285850530-16x9.jpg?VersionId=.GzVjfJKfNUNdfhEcH9WE43ADZm.v1Vz",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/sports/asian-games/story/pm-modi-wishes-indian-contingent-asian-games-aichi-nagoya-2998483-2026-09-19",
-      "publishedAt": "2026-09-19T14:24:48.000Z",
-      "fetchedAt": "2026-09-19T14:32:08.022Z"
-    },
-    {
-      "id": "375da2c69460f96e",
-      "title": "In 1912, Jennie Butchart began filling an exhausted quarry with soil brought by horse and cart in British",
-      "summary": "In 1904, Jennie Butchart reimagined a former quarry, crafting an exquisite garden paradise that is still maintained by her family. Over the years, they have added to the gardens, which now hold the designation of a National Historic Site of Canada. Even today, the Butchart family ensures the original vision…",
-      "category": "National & Trending News",
-      "image": "https://img.etimg.com/thumb/msid-134355782,width-1200,height-630,imgsize-2245714,overlay-economictimes/articleshow.jpg",
-      "source": "The Economic Times",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/international/us/in-1912-jennie-butchart-began-filling-an-exhausted-quarry-with-soil-brought-by-horse-and-cart-in-british-columbia-the-project-grew-into-a-garden-recognised-as-a-national-historic-site/articleshow/134354494.cms?from=mdr",
-      "publishedAt": "2026-09-19T14:21:05.000Z",
-      "fetchedAt": "2026-09-19T18:58:10.889Z"
-    },
-    {
-      "id": "bedabc691fe3635c",
-      "title": "Taped out on Republic Day, working by Independence Day: India unveils its first home-designed broadband chip, Vihaan-I",
-      "summary": "Chennai startup Aheesa's Vihaan-I, built on RISC-V and C-DAC's VEGA processor, targets the imported silicon that runs most of India's internet equipment. Commercial rollout is planned for early 2027",
-      "category": "Technology",
-      "image": "https://cdn1.expresscomputer.in/wp-content/uploads/2026/09/19194642/Aheesa-unveils-its-Vihaan-I-semiconductor-chip-in-the-presence-of-Union-Minister-Shri-Ashwini-Vaishnaw-at-Semicon-India-2026-.jpg",
-      "source": "Express Computer",
-      "sourceUrl": "https://www.expresscomputer.in/news/taped-out-on-republic-day-working-by-independence-day-india-unveils-its-first-home-designed-broadband-chip-vihaan-i/138906/",
-      "publishedAt": "2026-09-19T14:18:06.000Z",
-      "fetchedAt": "2026-09-19T15:38:46.125Z"
     }
   ]
 }
