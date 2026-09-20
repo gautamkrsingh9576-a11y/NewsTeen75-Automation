@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-20T17:55:20.572Z",
-  "count": 27,
+  "updatedAt": "2026-09-20T18:12:02.235Z",
+  "count": 33,
   "articles": [
     {
       "id": "78e51ba91dfb51d9",
@@ -124,15 +124,15 @@
       "fetchedAt": "2026-09-20T17:04:43.870Z"
     },
     {
-      "id": "54fa2a88107dfdf9",
-      "title": "Elavenil Valarivan to India Today: 'Taking Lessons Is Actually More Important' - India Today",
-      "summary": "Indian shooter Elavenil Valarivan reflected on opening India's medal account at the Asian Games with two silver medals in the team and individual ten-meter air rifle events in an interview with India Today. She described her journey since the 2018 Jakarta Asian Games as pleasant, emphasizing the value of continuous…",
-      "category": "Sports",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/video/202609/elavenilvalarivanitwasmoreaboutbeinginthepresentmoment-s0-original-sixteen-to-nine.jpg?VersionId=mEwxFJwTtlpsH_s9HsiO9NRougo4YU0R",
+      "id": "b22eb21bdbe07b7d",
+      "title": "School assembly news headlines today- September 21: Top national, sports and world news curated for you",
+      "summary": "Today’s school assembly news highlights top national, sports, and world events, covering important updates from politics, sports achievements, and global headlines for September 21.",
+      "category": "National & Trending News",
+      "image": "https://static-bestcolleges.tosshub.com/2026/News/RTuzZmAkYmrYBtJBvHvM7wc5U8Km32LqoKSinC1C.png",
       "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/sports/video/elavenil-valarivan-to-india-today-taking-lessons-is-actually-more-important-ytvd-2999060-2026-09-20",
-      "publishedAt": "2026-09-20T15:19:20.000Z",
-      "fetchedAt": "2026-09-20T17:04:56.625Z"
+      "sourceUrl": "https://bestcolleges.indiatoday.in/latest-news/school-assembly-news-headlines-today-september-21-top-national-sports-and-world-news-curated-for-you-11642",
+      "publishedAt": "2026-09-20T16:03:53.000Z",
+      "fetchedAt": "2026-09-20T18:11:57.584Z"
     },
     {
       "id": "f9be4fc84aef9acd",
@@ -146,6 +146,17 @@
       "fetchedAt": "2026-09-20T11:26:08.570Z"
     },
     {
+      "id": "54fa2a88107dfdf9",
+      "title": "Elavenil Valarivan to India Today: 'Taking Lessons Is Actually More Important' - India Today",
+      "summary": "Indian shooter Elavenil Valarivan reflected on opening India's medal account at the Asian Games with two silver medals in the team and individual ten-meter air rifle events in an interview with India Today. She described her journey since the 2018 Jakarta Asian Games as pleasant, emphasizing the value of continuous…",
+      "category": "Sports",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/video/202609/elavenilvalarivanitwasmoreaboutbeinginthepresentmoment-s0-original-sixteen-to-nine.jpg?VersionId=mEwxFJwTtlpsH_s9HsiO9NRougo4YU0R",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/sports/video/elavenil-valarivan-to-india-today-taking-lessons-is-actually-more-important-ytvd-2999060-2026-09-20",
+      "publishedAt": "2026-09-20T15:19:20.000Z",
+      "fetchedAt": "2026-09-20T17:04:56.625Z"
+    },
+    {
       "id": "cce0dae05b3c8b34",
       "title": "India at Asian Games, September 21: IND vs PAK in spotlight, shooting medals at stake",
       "summary": "India at Asian Games, schedule for September 21: India face Pakistan in men's and women's table tennis, while the women's hockey team takes on Indonesia. Shooting and swimming offer medal chances, with Suchika Tariyal, Sumit, Roshibina Devi and Aryan also set for key contests.",
@@ -157,17 +168,6 @@
       "fetchedAt": "2026-09-20T15:30:10.241Z"
     },
     {
-      "id": "984562ab372588b4",
-      "title": "Vibe vs Daayra Box Office Collection Day 3: Kunal Kemmu's Film Widens Lead Over Kareena Kapoor Starrer In Opening Weekend",
-      "summary": "Vibe leads Daayra at the box office after three days, collecting Rs 6.77 crore against Rs 3.92 crore for Kareena Kapoor's crime thriller.",
-      "category": "Entertainment",
-      "image": "https://imgs.etvbharat.com/etvbharat/prod-images/20-09-2026/1200-675-27675447-796-27675447-1789916770637.jpg",
-      "source": "ETV Bharat",
-      "sourceUrl": "https://www.etvbharat.com/en/entertainment/vibe-vs-daayra-box-office-collection-day-3-kunal-kemmus-film-widens-lead-over-kareena-kapoor-starrer-in-opening-weekend-enn26092003539",
-      "publishedAt": "2026-09-20T15:07:24.000Z",
-      "fetchedAt": "2026-09-20T16:26:28.039Z"
-    },
-    {
       "id": "fd8bf5df45c97d56",
       "title": "Bhojpuri actress Kajal Raghwani SAFE after fans chase her car, BREAK WINDOWS at Bihar Sharif showroom lau",
       "summary": "View this post on Instagram A post shared by Kajal Sharda🦋 (@kajalraghwani)",
@@ -177,6 +177,17 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/bhojpuri/movies/news/bhojpuri-actress-kajal-raghwani-is-safe-after-fans-chase-her-car-break-windows-at-bihar-sharif-showroom-launch/articleshow/134366365.cms",
       "publishedAt": "2026-09-20T10:14:00.000Z",
       "fetchedAt": "2026-09-20T17:05:37.734Z"
+    },
+    {
+      "id": "984562ab372588b4",
+      "title": "Vibe vs Daayra Box Office Collection Day 3: Kunal Kemmu's Film Widens Lead Over Kareena Kapoor Starrer In Opening Weekend",
+      "summary": "Vibe leads Daayra at the box office after three days, collecting Rs 6.77 crore against Rs 3.92 crore for Kareena Kapoor's crime thriller.",
+      "category": "Entertainment",
+      "image": "https://imgs.etvbharat.com/etvbharat/prod-images/20-09-2026/1200-675-27675447-796-27675447-1789916770637.jpg",
+      "source": "ETV Bharat",
+      "sourceUrl": "https://www.etvbharat.com/en/entertainment/vibe-vs-daayra-box-office-collection-day-3-kunal-kemmus-film-widens-lead-over-kareena-kapoor-starrer-in-opening-weekend-enn26092003539",
+      "publishedAt": "2026-09-20T15:07:24.000Z",
+      "fetchedAt": "2026-09-20T16:26:28.039Z"
     },
     {
       "id": "89c346c232d941c1",
@@ -201,6 +212,17 @@
       "fetchedAt": "2026-09-20T15:15:42.556Z"
     },
     {
+      "id": "5ff70aaff1a0df75",
+      "title": "From Digital Governance To AI Leadership Uttar Pradesh’s Next Growth Chapter",
+      "summary": "Uttar Pradesh is strengthening its journey towards becoming a leading digital and technology hub through progressive policies, robust infrastructure, and a strong focus on innovation, investment, and digital governance. Shri Alok Kumar, Principal Secretary, Department of IT & Electronics, Government of Uttar Pradesh, shares his insights on the State's technology…",
+      "category": "Technology",
+      "image": "https://egov.eletsonline.com/wp-content/uploads/2026/09/Shri-Alok-Kumar.jpg",
+      "source": "Elets eGov",
+      "sourceUrl": "https://egov.eletsonline.com/2026/09/from-digital-governance-to-ai-leadership-uttar-pradeshs-next-growth-chapter/",
+      "publishedAt": "2026-09-20T10:05:57.000Z",
+      "fetchedAt": "2026-09-20T18:12:01.309Z"
+    },
+    {
       "id": "2c5b23497ed0656d",
       "title": "Delhi Air Crisis, German Filter Cubes and Tech Innovations to Tackle Smog - India Today",
       "summary": "A special episode of 'Pollution Ka Solution' explores innovations designed to combat severe air pollution in Delhi's hotspots. The report highlights the German-engineered Filter Cube technology developed by Mann+Hummel and introduced in India through MRH Technologies Private Limited. According to MRH Technologies Director Rajan Handa, the solution uses forced air…",
@@ -210,17 +232,6 @@
       "sourceUrl": "https://www.indiatoday.in/technology/video/delhi-air-crisis-german-filter-cubes-and-tech-innovations-to-tackle-smog-ytvd-2999035-2026-09-20",
       "publishedAt": "2026-09-20T14:39:55.000Z",
       "fetchedAt": "2026-09-20T17:05:19.838Z"
-    },
-    {
-      "id": "3ab8af1ef7196e83",
-      "title": "The Vvaan: Sidharth Malhotra and Tamannaah Bhatia honour Bihar’s Chhath rituals",
-      "summary": "The team behind the movie The Vvaan visited Patna ahead of the film’s September 25 release. Tamannaah Bhatia and Sidharth Malhotra, along with their producers,",
-      "category": "Entertainment",
-      "image": "https://cf-images.assettype.com/indulgexpress%2F2026-09-20%2F2s2t2y47%2F818062303186160743400262932876852348868319870n.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "source": "IndulgExpress",
-      "sourceUrl": "https://www.indulgexpress.com/amp/story/entertainment/celebs/2026/Sep/20/the-vvaan-sidharth-malhotra-and-tamannaah-bhatia-honour-bihars-chhath-rituals",
-      "publishedAt": "2026-09-20T09:11:00.000Z",
-      "fetchedAt": "2026-09-20T16:52:51.875Z"
     },
     {
       "id": "0928b57567b164ca",
@@ -234,6 +245,17 @@
       "fetchedAt": "2026-09-20T14:46:32.163Z"
     },
     {
+      "id": "3ab8af1ef7196e83",
+      "title": "The Vvaan: Sidharth Malhotra and Tamannaah Bhatia honour Bihar’s Chhath rituals",
+      "summary": "The team behind the movie The Vvaan visited Patna ahead of the film’s September 25 release. Tamannaah Bhatia and Sidharth Malhotra, along with their producers,",
+      "category": "Entertainment",
+      "image": "https://cf-images.assettype.com/indulgexpress%2F2026-09-20%2F2s2t2y47%2F818062303186160743400262932876852348868319870n.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "IndulgExpress",
+      "sourceUrl": "https://www.indulgexpress.com/amp/story/entertainment/celebs/2026/Sep/20/the-vvaan-sidharth-malhotra-and-tamannaah-bhatia-honour-bihars-chhath-rituals",
+      "publishedAt": "2026-09-20T09:11:00.000Z",
+      "fetchedAt": "2026-09-20T16:52:51.875Z"
+    },
+    {
       "id": "10b1d0635eba7332",
       "title": "How two elections reshaped the India–Bangladesh border",
       "summary": "Since Bangladesh’s 2024 political transition, India-Bangladesh border “push-ins” have intensified, with thousands deported to Bangladesh outside agreed verification and repatriation procedures and ignoring disputed nationality claims.",
@@ -243,17 +265,6 @@
       "sourceUrl": "https://globalvoices.org/2026/09/20/how-two-elections-reshaped-the-india-bangladesh-border/",
       "publishedAt": "2026-09-20T14:30:57.000Z",
       "fetchedAt": "2026-09-20T14:34:57.081Z"
-    },
-    {
-      "id": "3faf8d7918681ae3",
-      "title": "East Zone’s new cricketing core: How Bihar and Jharkhand talent powered Duleep Trophy win",
-      "summary": "East Zone’s Duleep Trophy triumph over favourites South Zone reflected a changing power centre in Indian domestic cricket, with players from Jharkhand and Bihar leading the charge. Ishan Kishan’s 270, alongside crucial contributions from Kumar Kushagra, Mohammed Kounain Quraishi and Shikhar Mohan, highlighted the region’s growing talent pool and its…",
-      "category": "Sports",
-      "image": "https://s.yimg.com/lo/mysterio/api/3dc928d45c233e20e7bedf13d3a6eb4eac39e48549b354b899a53a7c19ce237b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwillow_sports_articles_673%2F3b8ecd37f760fa5998ff90bbb15f2580.jpg",
-      "source": "Yahoo Sports",
-      "sourceUrl": "https://sports.yahoo.com/articles/east-zone-cricketing-core-bihar-080100670.html",
-      "publishedAt": "2026-09-20T08:01:00.000Z",
-      "fetchedAt": "2026-09-20T16:50:33.873Z"
     },
     {
       "id": "ef3213ea14984199",
@@ -267,6 +278,17 @@
       "fetchedAt": "2026-09-20T16:10:00.429Z"
     },
     {
+      "id": "3faf8d7918681ae3",
+      "title": "East Zone’s new cricketing core: How Bihar and Jharkhand talent powered Duleep Trophy win",
+      "summary": "East Zone’s Duleep Trophy triumph over favourites South Zone reflected a changing power centre in Indian domestic cricket, with players from Jharkhand and Bihar leading the charge. Ishan Kishan’s 270, alongside crucial contributions from Kumar Kushagra, Mohammed Kounain Quraishi and Shikhar Mohan, highlighted the region’s growing talent pool and its…",
+      "category": "Sports",
+      "image": "https://s.yimg.com/lo/mysterio/api/3dc928d45c233e20e7bedf13d3a6eb4eac39e48549b354b899a53a7c19ce237b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwillow_sports_articles_673%2F3b8ecd37f760fa5998ff90bbb15f2580.jpg",
+      "source": "Yahoo Sports",
+      "sourceUrl": "https://sports.yahoo.com/articles/east-zone-cricketing-core-bihar-080100670.html",
+      "publishedAt": "2026-09-20T08:01:00.000Z",
+      "fetchedAt": "2026-09-20T16:50:33.873Z"
+    },
+    {
       "id": "42374e1c6d61bf33",
       "title": "SpectraA Technology IPO GMP, Grey Market Premium Today",
       "summary": "SpectraA Technology IPO GMP today. Find out SpectraA Technology IPO grey market premium, kostak, subject to sauda rates with expected listing gain.",
@@ -276,6 +298,28 @@
       "sourceUrl": "https://ipowatch.in/spectraa-technology-ipo-gmp-grey-market-premium/",
       "publishedAt": "2026-09-20T14:28:21.000Z",
       "fetchedAt": "2026-09-20T16:52:26.758Z"
+    },
+    {
+      "id": "7976ab9d5351fef9",
+      "title": "Vibe vs Daayra box office collection day 2: Kunal Kemmu’s directorial stays ahead of Kareena Kapoor's crime thriller",
+      "summary": "Vibe and Daayra continue their box office battle on Day 2. Both films witnessed a rise in collections. Read on to know which film is topping the charts and leading the race.",
+      "category": "Entertainment",
+      "image": "https://cdn1.wionews.com/prod/wion/images/2026/20260920/image-1789897405234.png?imwidth=1200&imheight=900",
+      "source": "WION",
+      "sourceUrl": "https://www.wionews.com/entertainment/bollywood/vibe-vs-daayra-box-office-collection-day-2-kunal-kemmu-s-directorial-stays-ahead-of-kareena-kapoor-s-crime-thriller-1789896533322",
+      "publishedAt": "2026-09-20T14:26:15.000Z",
+      "fetchedAt": "2026-09-20T17:19:58.656Z"
+    },
+    {
+      "id": "7b1a34708f800938",
+      "title": "Kerala Sports-Tech startup Dartle raises $100,000 to enter US market",
+      "summary": "The youth-sports technology startup will use the funding to expand its B2B platform.",
+      "category": "Sports",
+      "image": "https://thebridge.in/h-upload/2026/09/20/67026-dartle.jpg",
+      "source": "Indian Sports Home",
+      "sourceUrl": "https://thebridge.in/amp/sports-market/kerala-sports-tech-startup-dartle-to-enter-us-market-57697",
+      "publishedAt": "2026-09-20T14:25:55.000Z",
+      "fetchedAt": "2026-09-20T18:11:24.942Z"
     },
     {
       "id": "c8dee49868675da4",
@@ -289,15 +333,37 @@
       "fetchedAt": "2026-09-20T16:50:31.296Z"
     },
     {
-      "id": "7976ab9d5351fef9",
-      "title": "Vibe vs Daayra box office collection day 2: Kunal Kemmu’s directorial stays ahead of Kareena Kapoor's crime thriller",
-      "summary": "Vibe and Daayra continue their box office battle on Day 2. Both films witnessed a rise in collections. Read on to know which film is topping the charts and leading the race.",
+      "id": "1c0f773d2da97dbd",
+      "title": "Hanuman Ansh Box Office Collection Day 45: Strong 7th Sunday Takes Film Closer To Rs 300 Cr India Net Milestone",
+      "summary": "Hanuman Ansh continues its impressive box office run on day 45, earning Rs 9.51 crore and taking its India net collection to Rs 267.64 crore.",
       "category": "Entertainment",
-      "image": "https://cdn1.wionews.com/prod/wion/images/2026/20260920/image-1789897405234.png?imwidth=1200&imheight=900",
-      "source": "WION",
-      "sourceUrl": "https://www.wionews.com/entertainment/bollywood/vibe-vs-daayra-box-office-collection-day-2-kunal-kemmu-s-directorial-stays-ahead-of-kareena-kapoor-s-crime-thriller-1789896533322",
-      "publishedAt": "2026-09-20T14:26:15.000Z",
-      "fetchedAt": "2026-09-20T17:19:58.656Z"
+      "image": "https://imgs.etvbharat.com/etvbharat/prod-images/20-09-2026/1200-675-27674691-164-27674691-1789913586853.jpg",
+      "source": "ETV Bharat",
+      "sourceUrl": "https://www.etvbharat.com/amp/en/entertainment/hanuman-ansh-box-office-collection-day-45-strong-7th-sunday-takes-film-closer-to-rs-300-cr-india-net-milestone-enn26092002782",
+      "publishedAt": "2026-09-20T14:25:53.000Z",
+      "fetchedAt": "2026-09-20T18:11:40.366Z"
+    },
+    {
+      "id": "7fc539d9c9a00ac0",
+      "title": "Indian Diaspora in SA: Partnering India's Tech Future",
+      "summary": "Rajya Sabha Deputy Chairman Harivansh Singh calls on Indian diaspora in South Africa to invest in India",
+      "category": "Technology",
+      "image": "https://im.rediff.com/news/2025/aug/11harivansh-singh.jpg?fr=money",
+      "source": "Rediff MoneyWiz",
+      "sourceUrl": "https://money.rediff.com/news/market/indian-diaspora-in-sa-partnering-india-s-tech-future/54682120260920",
+      "publishedAt": "2026-09-20T14:12:50.000Z",
+      "fetchedAt": "2026-09-20T18:11:47.596Z"
+    },
+    {
+      "id": "cfc13bb3c5844384",
+      "title": "Pakistan out of Asian Games after Sri Lanka cruise through to the final",
+      "summary": "Sri Lanka beat Pakistan by 8 wickets in the 2026 Asian Games women's semi-final. Athapaththu hit 83 not out to seal the win. Read more on CricTracker.",
+      "category": "Sports",
+      "image": "https://media.crictracker.com/media/attachments/1778926620139_Pakistan-Women's-Team.jpeg",
+      "source": "CricTracker",
+      "sourceUrl": "https://www.crictracker.com/cricket-news/pakistan-out-of-asian-games-after-sri-lanka-cruise-through-to-the-final/?amp=1",
+      "publishedAt": "2026-09-20T06:21:00.000Z",
+      "fetchedAt": "2026-09-20T18:12:00.403Z"
     }
   ]
 }
