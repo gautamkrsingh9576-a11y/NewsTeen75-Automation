@@ -542,20 +542,33 @@ function canonicalUrl(value = "") {
   }
 }
 
+function normalizedStoryTitle(title = "") {
+  return normalizeTitle(title)
+    .toLowerCase()
+    .replace(/[^a-z0-9\s]/g, " ")
+    .replace(/\b(the|a|an|and|or|but|to|of|in|on|at|for|from|with|by|as|is|are|was|were|be|been|being|this|that|these|those|after|before|over|under|into|amid|says|said|latest|live|update|updates|news)\b/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
 function titleTokens(title = "") {
   return new Set(
-    normalizeTitle(title)
-      .toLowerCase()
-      .replace(/[^a-z0-9\s]/g, " ")
+    normalizedStoryTitle(title)
       .split(/\s+/)
       .filter((word) => word.length > 2)
   );
 }
 
 function isNearDuplicateTitle(a = "", b = "") {
-  const left = titleTokens(a);
-  const right = titleTokens(b);
-  if (left.size < 4 || right.size < 4) return false;
+  const leftTitle = normalizedStoryTitle(a);
+  const rightTitle = normalizedStoryTitle(b);
+
+  if (!leftTitle || !rightTitle) return false;
+  if (leftTitle === rightTitle) return true;
+
+  const left = titleTokens(leftTitle);
+  const right = titleTokens(rightTitle);
+  if (left.size < 3 || right.size < 3) return false;
 
   let common = 0;
   for (const word of left) {
@@ -563,7 +576,12 @@ function isNearDuplicateTitle(a = "", b = "") {
   }
 
   const union = new Set([...left, ...right]).size;
-  return union > 0 && common / union >= 0.8;
+  const smaller = Math.min(left.size, right.size);
+
+  const jaccard = union > 0 ? common / union : 0;
+  const containment = smaller > 0 ? common / smaller : 0;
+
+  return common >= 4 && (jaccard >= 0.68 || containment >= 0.82);
 }
 
 function dedupeArticles(articles) {
@@ -572,18 +590,29 @@ function dedupeArticles(articles) {
   );
 
   const kept = [];
+  const seenIds = new Set();
   const seenUrls = new Set();
   const seenTitles = new Set();
 
   for (const article of sorted) {
+    const id = String(article?.id || "").trim();
     const url = canonicalUrl(article.sourceUrl || article.url || article.link || "");
-    const title = normalizeTitle(article.title || "").toLowerCase();
+    const title = normalizedStoryTitle(article.title || "");
 
     if (!url || !title) continue;
+    if (id && seenIds.has(id)) continue;
     if (seenUrls.has(url) || seenTitles.has(title)) continue;
-    if (kept.some((existing) => isNearDuplicateTitle(existing.title, article.title))) continue;
+    if (
+      kept.some((existing) =>
+        isNearDuplicateTitle(existing.title, article.title)
+      )
+    ) {
+      continue;
+    }
 
     kept.push(article);
+
+    if (id) seenIds.add(id);
     seenUrls.add(url);
     seenTitles.add(title);
   }
