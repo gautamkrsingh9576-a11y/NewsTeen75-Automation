@@ -1,7 +1,24 @@
 {
-  "updatedAt": "2026-09-20T22:10:57.676Z",
-  "count": 37,
+  "updatedAt": "2026-09-20T22:25:37.941Z",
+  "count": 30,
   "articles": [
+    {
+      "id": "cf444b6abe34c27f",
+      "title": "Aut-Luhri National Highway-305 in a shambles, needs urgent maintenance",
+      "summary": "The deteriorating condition of the Aut-Luhri National Highway-305, especially between Aut and Banjar in Kullu district, has triggered growing concern among residents, transporters and tourism stakeholders in Banjar, Tirthan, Jibhi and adjoining areas of Kullu district. Locals are urging the authorities to undertake urgent maintenance and upgradation of the road.",
+      "category": "National & Trending News",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTg4OWYxNTkwLWI1MzQtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
+      "source": "The Tribune",
+      "sourceUrl": "https://www.tribuneindia.com/news/himachal-calling/aut-luhri-national-highway-305-in-a-shambles-needs-urgent-maintenance/amp/?utm=relatedarticles",
+      "publishedAt": "2026-09-20T20:47:32.000Z",
+      "fetchedAt": "2026-09-20T22:25:31.316Z",
+      "title_hi": "औट-लुहरी राष्ट्रीय राजमार्ग-305 जर्जर हालत में, तत्काल रखरखाव की जरूरत",
+      "summary_hi": "औट-लुहरी राष्ट्रीय राजमार्ग-305 की बिगड़ती हालत, विशेष रूप से कुल्लू जिले में औट और बंजार के बीच, ने बंजार, तीर्थन, जिभी और कुल्लू जिले के आसपास के क्षेत्रों में निवासियों, ट्रांसपोर्टरों और पर्यटन हितधारकों के बीच बढ़ती चिंता पैदा कर दी है। स्थानीय लोग अधिकारियों से सड़क के तत्काल रखरखाव और उन्नयन का आग्रह कर रहे हैं।",
+      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
+      "title_hinglish": "auta-luhari rashtriya rajamarga-305 jarjara halata men, tatkala rakharakhava ki jarurata",
+      "summary_hinglish": "auta-luhari rashtriya rajamarga-305 ki bigadati halat, vishesha rupa se kullu jile men auta aura banjara ke bich, ne banjar, tirthan, jibhi aura kullu jile ke aasapasa ke kshetron men nivasiyon, transaportaron aura paryatana hitadharakon ke bicha badhati chinta paida kara di hai। sthaniya loga adhikariyon se sadaka ke tatkala rakharakhava aura unnayana ka aagraha kara rahe hain।",
+      "category_hinglish": "National aur Trending News"
+    },
     {
       "id": "fb920b248e9d97b1",
       "title": "Credible transition plans are key to financing India’s net zero transition",
@@ -18,23 +35,6 @@
       "title_hinglish": "vishvasaniya sankramana yojanaen bharata ke shuddha shunya sankramana ke vittaposhana ke lie mahatvapurna hain",
       "summary_hinglish": "bharata ke shuddha shunya sankramana ke lie vyapaka nivesha ki aavashyakata hogi। shantanu shrivastava aura tanya rana likhate hain, vishvasaniya korporeta sankramana yojanaen niveshakon ko jokhimon ka aakalana karane aura punji ko prabhavi dhanga se nirdeshita karane men madada kara sakati hain।",
       "category_hinglish": "Business aur Finance"
-    },
-    {
-      "id": "99ad89cee71caf78",
-      "title": "TIFF 2026: Theja Rio’s Angh wins Platform Prize, puts Nagaland story on global stage",
-      "summary": "Theja Rio’s debut film Angh has bagged the Platform Prize at the 2026 Toronto International Film Festival. The film is set in 1960s Nagaland.",
-      "category": "Entertainment",
-      "image": "https://cdn1.wionews.com/prod/wion/images/2026/20260921/image-1789932619546.jpg?imwidth=1200&imheight=900",
-      "source": "wionews.com",
-      "sourceUrl": "https://www.wionews.com/entertainment/tiff-2026-theja-rio-s-angh-wins-platform-prize-puts-nagaland-story-on-global-stage-1789930240215",
-      "publishedAt": "2026-09-20T19:41:00.000Z",
-      "fetchedAt": "2026-09-20T19:55:00.838Z",
-      "title_hi": "टीआईएफएफ 2026: थेजा रियो के एंग ने प्लेटफार्म पुरस्कार जीता, नागालैंड की कहानी को वैश्विक मंच पर रखा",
-      "summary_hi": "थेजा रियो की पहली फिल्म आंग ने 2026 टोरंटो इंटरनेशनल फिल्म फेस्टिवल में प्लेटफॉर्म पुरस्कार जीता है। यह फिल्म 1960 के दशक के नागालैंड पर आधारित है।",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "tiaaeeephaepha 2026: theja riyo ke enga ne pletapharma puraskara jit, nagalainda ki kahani ko vaishvika mancha para rakha",
-      "summary_hinglish": "theja riyo ki pahali philma aanga ne 2026 toranto intaraneshanala philma phestivala men pletaphorma puraskara jita hai। yaha philma 1960 ke dashaka ke nagalainda para aadharita hai।",
-      "category_hinglish": "Entertainment"
     },
     {
       "id": "7a5f20ee3c6e5fbc",
@@ -54,6 +54,23 @@
       "summary_hinglish": "bhojapuri abhinetri kajala raghavani ko hala hi men eka karyakrama ke lie biharasharipha jate samaya bhida ne ghera liya aura unaki kara para hamala kiya gaya। bada men unhonne prashansakon ko aashvasana diya ki vaha surakshita hain"
     },
     {
+      "id": "99ad89cee71caf78",
+      "title": "TIFF 2026: Theja Rio’s Angh wins Platform Prize, puts Nagaland story on global stage",
+      "summary": "Theja Rio’s debut film Angh has bagged the Platform Prize at the 2026 Toronto International Film Festival. The film is set in 1960s Nagaland.",
+      "category": "Entertainment",
+      "image": "https://cdn1.wionews.com/prod/wion/images/2026/20260921/image-1789932619546.jpg?imwidth=1200&imheight=900",
+      "source": "wionews.com",
+      "sourceUrl": "https://www.wionews.com/entertainment/tiff-2026-theja-rio-s-angh-wins-platform-prize-puts-nagaland-story-on-global-stage-1789930240215",
+      "publishedAt": "2026-09-20T19:41:00.000Z",
+      "fetchedAt": "2026-09-20T19:55:00.838Z",
+      "title_hi": "टीआईएफएफ 2026: थेजा रियो के एंग ने प्लेटफार्म पुरस्कार जीता, नागालैंड की कहानी को वैश्विक मंच पर रखा",
+      "summary_hi": "थेजा रियो की पहली फिल्म आंग ने 2026 टोरंटो इंटरनेशनल फिल्म फेस्टिवल में प्लेटफॉर्म पुरस्कार जीता है। यह फिल्म 1960 के दशक के नागालैंड पर आधारित है।",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "tiaaeeephaepha 2026: theja riyo ke enga ne pletapharma puraskara jit, nagalainda ki kahani ko vaishvika mancha para rakha",
+      "summary_hinglish": "theja riyo ki pahali philma aanga ne 2026 toranto intaraneshanala philma phestivala men pletaphorma puraskara jita hai। yaha philma 1960 ke dashaka ke nagalainda para aadharita hai।",
+      "category_hinglish": "Entertainment"
+    },
+    {
       "id": "f1ea065d73e24a34",
       "title": "India’s NGOs at a new funding crossroads",
       "summary": "If the government does decide to limit foreign funding, the future need not be bleak if Indian domestic philanthropy steps up to fill the gap",
@@ -67,23 +84,6 @@
       "summary_hi": "",
       "category_hi": "राजनीति और सरकार",
       "category_hinglish": "Politics aur Government"
-    },
-    {
-      "id": "b63872489804397f",
-      "title": "Accused in Rajasthan murder case held in Ahmedabad after 24 years on the run",
-      "summary": "After allegedly spending nearly a quarter of a century dodging the law, changing identities, shifting homes and blending into Ahmedabad’s urban sprawl, Dinesh Desai, a murder accused wanted in Rajasthan, was finally tracked down and arrested by Ahmedabad Crime Branch. Now 54, Desai was arrested from Vejalpur’s Sagar Samrat Apartments…",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134359281,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/ahmedabad/accused-in-rajasthan-murder-case-held-in-ahmedabad-after-24-years-on-the-run/articleshow/134374274.cms",
-      "publishedAt": "2026-09-20T18:40:00.000Z",
-      "fetchedAt": "2026-09-20T19:21:15.316Z",
-      "title_hi": "राजस्थान हत्याकांड का आरोपी 24 साल की फरारी के बाद अहमदाबाद में पकड़ा गया",
-      "summary_hi": "कथित तौर पर लगभग एक चौथाई सदी तक कानून को चकमा देने, पहचान बदलने, घर बदलने और अहमदाबाद के शहरी इलाके में घुलने-मिलने के बाद, राजस्थान में वांछित हत्या के आरोपी दिनेश देसाई को आखिरकार अहमदाबाद क्राइम ब्रांच ने ढूंढ लिया और गिरफ्तार कर लिया। अब 54 साल के हो चुके देसाई को वेजलपुर के सागर सम्राट अपार्टमेंट से गिरफ्तार किया गया...",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "rajasthana hatyakanda ka aaropi 24 sala ki pharari ke bada ahamadabada men pakadaा gaya",
-      "summary_hinglish": "kathita taura para lagabhaga eka chauthaee sadi taka kanuna ko chakama dene, pahachana badalane, ghara badalane aura ahamadabada ke shahari ilake men ghulane-milane ke bad, rajasthana men vanchhita hatya ke aaropi dinesha desaee ko aakhirakara ahamadabada kraima brancha ne dhundha liya aura giraphtara kara liya। aba 54 sala ke ho chuke desaee ko vejalapura ke sagara samrata apartamenta se giraphtara kiya gay...",
-      "category_hinglish": "Crime aur Breaking News"
     },
     {
       "id": "b0a7445d8fa7d0e5",
@@ -101,6 +101,23 @@
       "title_hinglish": "bihar ne vahan bim dhokhadhadी ki janch ke lie esaaiti gathit ki, chalan manadand sakht kie",
       "category_hinglish": "Crime aur Breaking News",
       "summary_hinglish": "bihara pulisa ne bima dhokhadhadaी ko rokane aura yatayata pravartana men sudhara ke lie kaee kadama uthae hain, jisamen sandigdha 'vahana pratyaropana' ghotalon ki jancha ke lie aparadha jancha vibhaga (siaaeedi) ke tahata eka vishesha jancha dala (esaaaeeti) ka gathan, yatayata chalana jari karane ke lie sakhta manadanda aura durghatana-prabhavita logon ko riha karane ka nirdesha shamila hai..."
+    },
+    {
+      "id": "b63872489804397f",
+      "title": "Accused in Rajasthan murder case held in Ahmedabad after 24 years on the run",
+      "summary": "After allegedly spending nearly a quarter of a century dodging the law, changing identities, shifting homes and blending into Ahmedabad’s urban sprawl, Dinesh Desai, a murder accused wanted in Rajasthan, was finally tracked down and arrested by Ahmedabad Crime Branch. Now 54, Desai was arrested from Vejalpur’s Sagar Samrat Apartments…",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134359281,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/ahmedabad/accused-in-rajasthan-murder-case-held-in-ahmedabad-after-24-years-on-the-run/articleshow/134374274.cms",
+      "publishedAt": "2026-09-20T18:40:00.000Z",
+      "fetchedAt": "2026-09-20T19:21:15.316Z",
+      "title_hi": "राजस्थान हत्याकांड का आरोपी 24 साल की फरारी के बाद अहमदाबाद में पकड़ा गया",
+      "summary_hi": "कथित तौर पर लगभग एक चौथाई सदी तक कानून को चकमा देने, पहचान बदलने, घर बदलने और अहमदाबाद के शहरी इलाके में घुलने-मिलने के बाद, राजस्थान में वांछित हत्या के आरोपी दिनेश देसाई को आखिरकार अहमदाबाद क्राइम ब्रांच ने ढूंढ लिया और गिरफ्तार कर लिया। अब 54 साल के हो चुके देसाई को वेजलपुर के सागर सम्राट अपार्टमेंट से गिरफ्तार किया गया...",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "rajasthana hatyakanda ka aaropi 24 sala ki pharari ke bada ahamadabada men pakadaा gaya",
+      "summary_hinglish": "kathita taura para lagabhaga eka chauthaee sadi taka kanuna ko chakama dene, pahachana badalane, ghara badalane aura ahamadabada ke shahari ilake men ghulane-milane ke bad, rajasthana men vanchhita hatya ke aaropi dinesha desaee ko aakhirakara ahamadabada kraima brancha ne dhundha liya aura giraphtara kara liya। aba 54 sala ke ho chuke desaee ko vejalapura ke sagara samrata apartamenta se giraphtara kiya gay...",
+      "category_hinglish": "Crime aur Breaking News"
     },
     {
       "id": "473fea2f244afd59",
@@ -137,23 +154,6 @@
       "summary_hinglish": "enti-gaingastara taska phorsa (ejitiepha) ne ravivara ko jodhapura men lorensa bishnoee-aarajaू bishnoee giroha ke do vanchhita sharpashutaron ko giraphtara kiya। panjaba pulisa ne donon aaropiyon para 5-5 lakha rupaye ka inama ghoshita kiya th."
     },
     {
-      "id": "4dcc6456316e53cc",
-      "title": "Crime Branch takes over IIT Bombay student death probe; family alleges caste harassment, institute denies",
-      "summary": "Mumbai Crime Branch is investigating the suicide of an IIT Bombay student. The student was found dead after being caught using a mobile phone during an exam. His family alleges mental torture and caste-based harassment by a faculty member. The institute stated no disciplinary action was initiated against the student.…",
-      "category": "Crime & Breaking News",
-      "image": "https://img.etimg.com/thumb/msid-134373772,width-1200,height-630,imgsize-327564,overlay-economictimes/articleshow.jpg",
-      "source": "The Economic Times",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/india/crime-branch-takes-over-iit-bombay-student-death-probe-family-alleges-caste-harassment-institute-denies/articleshow/134373742.cms?from=mdr",
-      "publishedAt": "2026-09-20T18:16:15.000Z",
-      "fetchedAt": "2026-09-20T18:28:53.582Z",
-      "title_hi": "क्राइम ब्रांच ने आईआईटी बॉम्बे छात्र की मौत की जांच अपने हाथ में ली; परिवार ने लगाया जातिगत उत्पीड़न का आरोप, संस्थान ने किया इनकार",
-      "summary_hi": "मुंबई क्राइम ब्रांच आईआईटी बॉम्बे के छात्र की आत्महत्या की जांच कर रही है. परीक्षा के दौरान मोबाइल फोन का उपयोग करते हुए पकड़े जाने के बाद छात्र को मृत पाया गया। उनके परिवार ने एक संकाय सदस्य पर मानसिक यातना और जाति-आधारित उत्पीड़न का आरोप लगाया है। संस्थान ने कहा कि छात्र के खिलाफ कोई अनुशासनात्मक कार्रवाई शुरू नहीं की गई।",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "kraim branch ne aiaiti bॉmbe chhatr ki maut ki janch apane hath men li; parivar ne lagay jatigat utpidan k arop, sansthan ne kiy inakar",
-      "category_hinglish": "Crime aur Breaking News",
-      "summary_hinglish": "munbaee kraima brancha aaeeaaeeti bombe ke chhatra ki aatmahatya ki jancha kara rahi hai. pariksha ke daurana mobaila phona ka upayoga karate hue pakadaे jane ke bada chhatra ko mrita paya gaya। unake parivara ne eka sankaya sadasya para manasika yatana aura jati-aadharita utpidana ka aaropa lagaya hai। sansthana ne kaha ki chhatra ke khilapha koee anushasanatmaka karravaee shuru nahin ki gaee।"
-    },
-    {
       "id": "a4bcee89cdfc8490",
       "title": "Kangana Ranaut HITS BACK at people trolling Maithili Thakur for arriving in Rolls-Royce at Lalbaugcha Raj",
       "summary": "Kangana Ranaut has come out in support of young singing talent and Bihar MLA Maithili Thakur, who was trolled for visiting Mumbai's Lalbaugcha Raja pandal in a luxury Rolls-Royce Cullinan. Kangana asked why critics feel hurt whenever politicians try to make their own lives better.",
@@ -169,6 +169,23 @@
       "title_hinglish": "kangan ranaut ne lalabagach raj men rols-rॉyas men pahunchane ke lie maithili thakur ko trol karane vale logon par palatavar kiy",
       "category_hinglish": "Entertainment",
       "summary_hinglish": "kangana ranauta yuva gayana pratibha aura bihara vidhayaka maithili thakura ke samarthana men samane aaee hain, jinhen lakjari rolsa-royasa kalinana men munbaee ke lalabagacha raja pandala men jane ke lie trola kiya gaya tha। kangana ne puchha ki jaba bhi rajaneta apane jivana ko behatara banane ki koshisha karate hain to aalochakon ko dukha kyon hota hai।"
+    },
+    {
+      "id": "4dcc6456316e53cc",
+      "title": "Crime Branch takes over IIT Bombay student death probe; family alleges caste harassment, institute denies",
+      "summary": "Mumbai Crime Branch is investigating the suicide of an IIT Bombay student. The student was found dead after being caught using a mobile phone during an exam. His family alleges mental torture and caste-based harassment by a faculty member. The institute stated no disciplinary action was initiated against the student.…",
+      "category": "Crime & Breaking News",
+      "image": "https://img.etimg.com/thumb/msid-134373772,width-1200,height-630,imgsize-327564,overlay-economictimes/articleshow.jpg",
+      "source": "The Economic Times",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/crime-branch-takes-over-iit-bombay-student-death-probe-family-alleges-caste-harassment-institute-denies/articleshow/134373742.cms?from=mdr",
+      "publishedAt": "2026-09-20T18:16:15.000Z",
+      "fetchedAt": "2026-09-20T18:28:53.582Z",
+      "title_hi": "क्राइम ब्रांच ने आईआईटी बॉम्बे छात्र की मौत की जांच अपने हाथ में ली; परिवार ने लगाया जातिगत उत्पीड़न का आरोप, संस्थान ने किया इनकार",
+      "summary_hi": "मुंबई क्राइम ब्रांच आईआईटी बॉम्बे के छात्र की आत्महत्या की जांच कर रही है. परीक्षा के दौरान मोबाइल फोन का उपयोग करते हुए पकड़े जाने के बाद छात्र को मृत पाया गया। उनके परिवार ने एक संकाय सदस्य पर मानसिक यातना और जाति-आधारित उत्पीड़न का आरोप लगाया है। संस्थान ने कहा कि छात्र के खिलाफ कोई अनुशासनात्मक कार्रवाई शुरू नहीं की गई।",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "kraim branch ne aiaiti bॉmbe chhatr ki maut ki janch apane hath men li; parivar ne lagay jatigat utpidan k arop, sansthan ne kiy inakar",
+      "category_hinglish": "Crime aur Breaking News",
+      "summary_hinglish": "munbaee kraima brancha aaeeaaeeti bombe ke chhatra ki aatmahatya ki jancha kara rahi hai. pariksha ke daurana mobaila phona ka upayoga karate hue pakadaे jane ke bada chhatra ko mrita paya gaya। unake parivara ne eka sankaya sadasya para manasika yatana aura jati-aadharita utpidana ka aaropa lagaya hai। sansthana ne kaha ki chhatra ke khilapha koee anushasanatmaka karravaee shuru nahin ki gaee।"
     },
     {
       "id": "528f0f23b8fec71d",
@@ -188,23 +205,6 @@
       "summary_hinglish": "pichhale haphte inglainda ke vesta midalaindsa kshetra ke telaphorda men eka britisha sikha basa chalaka para hamala karane, vahana men todaphoda karane, usaka apaharana karane aura basa ko kaee vahanon se takarane ke aaropa men eka 33 varshiya yamani nagarika ko giraphtara kiya gaya tha।"
     },
     {
-      "id": "cba7590b003d581e",
-      "title": "Mourinho tears into La Liga referees after Madrid's derby loss: Two clear red cards",
-      "summary": "Jose Mourinho launched a furious attack on La Liga's refereeing after Real Madrid suffered a 2-1 defeat to Atletico Madrid in the Madrid derby on Sunday. Mourinho needed only a sheet of paper to make his point.",
-      "category": "Sports",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/jose-mourinho-205858539-16x9_0.jpg?VersionId=hiCfy8q0WyFaVf6._p5GsvApEUVQqZX.",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/sports/football/story/atletico-beat-real-madrid-mourinho-blasts-la-liga-referees-missed-red-cards-2999128-2026-09-20",
-      "publishedAt": "2026-09-20T17:59:12.000Z",
-      "fetchedAt": "2026-09-20T20:09:03.266Z",
-      "title_hi": "मैड्रिड की डर्बी हार के बाद मोरिन्हो ने ला लीगा रेफरी पर हमला बोला: दो स्पष्ट लाल कार्ड",
-      "summary_hi": "रविवार को मैड्रिड डर्बी में रियल मैड्रिड को एटलेटिको मैड्रिड से 2-1 से हार का सामना करने के बाद जोस मोरिन्हो ने ला लीगा के रेफरी पर एक उग्र हमला किया। मोरिन्हो को अपनी बात कहने के लिए केवल एक कागज़ की ज़रूरत थी।",
-      "category_hi": "खेल",
-      "title_hinglish": "maidrida ki darbi hara ke bada morinho ne la liga rephari para hamala bol: do spashta lala karda",
-      "summary_hinglish": "ravivara ko maidrida darbi men riyala maidrida ko etaletiko maidrida se 2-1 se hara ka samana karane ke bada josa morinho ne la liga ke rephari para eka ugra hamala kiya। morinho ko apani bata kahane ke lie kevala eka kagaja ki jarurata thi।",
-      "category_hinglish": "Sports"
-    },
-    {
       "id": "f9be4fc84aef9acd",
       "title": "Bihar govt's coffers empty, yet crores spent on PM Modi's birthday celebrations: Tejashwi Yadav",
       "summary": "Tejashwi Yadav alleges state coffers are empty while crores are spent on Prime Minister Narendra Modi birthday celebrations, demanding immediate financial assistance for affected families.",
@@ -220,6 +220,23 @@
       "title_hinglish": "bihar sarakar k khajan khali, phir bhi piem modi ke janmadin samaroh par karodोn kharch: tejasvi yadav",
       "category_hinglish": "Politics aur Government",
       "summary_hinglish": "tejasvi yadava ne aaropa lagaya ki rajya ka khajana khali hai jabaki pradhanamantri narendra modi ke janmadina samaroha para karodaोn kharcha kie ja rahe hain, unhonne prabhavita parivaron ke lie tatkala vittiya sahayata ki manga ki।"
+    },
+    {
+      "id": "cba7590b003d581e",
+      "title": "Mourinho tears into La Liga referees after Madrid's derby loss: Two clear red cards",
+      "summary": "Jose Mourinho launched a furious attack on La Liga's refereeing after Real Madrid suffered a 2-1 defeat to Atletico Madrid in the Madrid derby on Sunday. Mourinho needed only a sheet of paper to make his point.",
+      "category": "Sports",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/jose-mourinho-205858539-16x9_0.jpg?VersionId=hiCfy8q0WyFaVf6._p5GsvApEUVQqZX.",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/sports/football/story/atletico-beat-real-madrid-mourinho-blasts-la-liga-referees-missed-red-cards-2999128-2026-09-20",
+      "publishedAt": "2026-09-20T17:59:12.000Z",
+      "fetchedAt": "2026-09-20T20:09:03.266Z",
+      "title_hi": "मैड्रिड की डर्बी हार के बाद मोरिन्हो ने ला लीगा रेफरी पर हमला बोला: दो स्पष्ट लाल कार्ड",
+      "summary_hi": "रविवार को मैड्रिड डर्बी में रियल मैड्रिड को एटलेटिको मैड्रिड से 2-1 से हार का सामना करने के बाद जोस मोरिन्हो ने ला लीगा के रेफरी पर एक उग्र हमला किया। मोरिन्हो को अपनी बात कहने के लिए केवल एक कागज़ की ज़रूरत थी।",
+      "category_hi": "खेल",
+      "title_hinglish": "maidrida ki darbi hara ke bada morinho ne la liga rephari para hamala bol: do spashta lala karda",
+      "summary_hinglish": "ravivara ko maidrida darbi men riyala maidrida ko etaletiko maidrida se 2-1 se hara ka samana karane ke bada josa morinho ne la liga ke rephari para eka ugra hamala kiya। morinho ko apani bata kahane ke lie kevala eka kagaja ki jarurata thi।",
+      "category_hinglish": "Sports"
     },
     {
       "id": "78e51ba91dfb51d9",
@@ -239,23 +256,6 @@
       "summary_hinglish": "japana bharata ke khilapha apane pahale purusha siniyara antararashtriya kriketa maicha ki mejabani karane ke lie taiyara hai, jo japani kriketa ke lie eka mila ka patthara hai। badhati bhagidari aura badhaी huee drishyata ke satha vikasa sthira raha hai। isa maicha ka lakshya dila jitan, kriketa ki lokapriyata badhaाna aura vaishvika kriketa samudaya men japana ki pragati ko pradarshita karana hai।"
     },
     {
-      "id": "0cfbf489f297e1f4",
-      "title": "Godrej Capital targets Rs 40,000 cr lending AUM this year, eyes Rs 1 lakh cr in 10 years",
-      "summary": "Godrej Capital expects its lending businesses to maintain strong growth and is targeting an AUM of around Rs 40,000 crore by the end of the current financial ye",
-      "category": "Business & Finance",
-      "image": "https://cf-images.assettype.com/newindianexpress%2F2025-03-08%2F42e1q7k3%2FANI_20250308052253.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "source": "The New Indian Express",
-      "sourceUrl": "https://www.newindianexpress.com/amp/story/business/2026/Sep/20/godrej-capital-targets-rs-40000-cr-lending-aum-this-year-eyes-rs-1-lakh-cr-in-10-years",
-      "publishedAt": "2026-09-20T17:22:00.000Z",
-      "fetchedAt": "2026-09-20T19:08:23.000Z",
-      "title_hi": "गोदरेज कैपिटल ने इस साल 40,000 करोड़ रुपये का एयूएम उधार देने का लक्ष्य रखा है, 10 साल में 1 लाख करोड़ रुपये जुटाने का लक्ष्य है",
-      "summary_hi": "गोदरेज कैपिटल को उम्मीद है कि उसके ऋण कारोबार में मजबूत वृद्धि बनी रहेगी और चालू वित्त वर्ष के अंत तक उसने लगभग 40,000 करोड़ रुपये के एयूएम का लक्ष्य रखा है।",
-      "category_hi": "बिज़नेस और फाइनेंस",
-      "category_hinglish": "Business aur Finance",
-      "title_hinglish": "godareja kaipitala ne isa sala 40,000 karoda rupaye ka eyuema udhara dene ka lakshya rakha hai, 10 sala men 1 lakha karoda rupaye jutane ka lakshya hai",
-      "summary_hinglish": "godareja kaipitala ko ummida hai ki usake rina karobara men majabuta vriddhi bani rahegi aura chalu vitta varsha ke anta taka usane lagabhaga 40,000 karoda rupaye ke eyuema ka lakshya rakha hai।"
-    },
-    {
       "id": "fd8bf5df45c97d56",
       "title": "Bhojpuri actress Kajal Raghwani SAFE after fans chase her car, BREAK WINDOWS at Bihar Sharif showroom lau",
       "summary": "View this post on Instagram A post shared by Kajal Sharda🦋 (@kajalraghwani)",
@@ -271,6 +271,23 @@
       "title_hinglish": "prashansakon dvar unaki kar k pichh karane ke bad bhojapuri abhinetri kajal raghavani surakshit rahin, biharashariph shorum men khidakiyan todीn",
       "category_hinglish": "Entertainment",
       "summary_hinglish": "isa posta ko instagrama para dekhen kajala sharada🦋 (@kajalraghvani) dvara sajha ki gaee eka posta"
+    },
+    {
+      "id": "0cfbf489f297e1f4",
+      "title": "Godrej Capital targets Rs 40,000 cr lending AUM this year, eyes Rs 1 lakh cr in 10 years",
+      "summary": "Godrej Capital expects its lending businesses to maintain strong growth and is targeting an AUM of around Rs 40,000 crore by the end of the current financial ye",
+      "category": "Business & Finance",
+      "image": "https://cf-images.assettype.com/newindianexpress%2F2025-03-08%2F42e1q7k3%2FANI_20250308052253.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "The New Indian Express",
+      "sourceUrl": "https://www.newindianexpress.com/amp/story/business/2026/Sep/20/godrej-capital-targets-rs-40000-cr-lending-aum-this-year-eyes-rs-1-lakh-cr-in-10-years",
+      "publishedAt": "2026-09-20T17:22:00.000Z",
+      "fetchedAt": "2026-09-20T19:08:23.000Z",
+      "title_hi": "गोदरेज कैपिटल ने इस साल 40,000 करोड़ रुपये का एयूएम उधार देने का लक्ष्य रखा है, 10 साल में 1 लाख करोड़ रुपये जुटाने का लक्ष्य है",
+      "summary_hi": "गोदरेज कैपिटल को उम्मीद है कि उसके ऋण कारोबार में मजबूत वृद्धि बनी रहेगी और चालू वित्त वर्ष के अंत तक उसने लगभग 40,000 करोड़ रुपये के एयूएम का लक्ष्य रखा है।",
+      "category_hi": "बिज़नेस और फाइनेंस",
+      "category_hinglish": "Business aur Finance",
+      "title_hinglish": "godareja kaipitala ne isa sala 40,000 karoda rupaye ka eyuema udhara dene ka lakshya rakha hai, 10 sala men 1 lakha karoda rupaye jutane ka lakshya hai",
+      "summary_hinglish": "godareja kaipitala ko ummida hai ki usake rina karobara men majabuta vriddhi bani rahegi aura chalu vitta varsha ke anta taka usane lagabhaga 40,000 karoda rupaye ke eyuema ka lakshya rakha hai।"
     },
     {
       "id": "88695329cd0ab97e",
@@ -307,6 +324,23 @@
       "summary_hinglish": "kanpani ke eka varishtha adhikari ne kaha ki semikandaktara upakarana nirmata eesaemaela ne bharata men parichalana shuru kara diya hai aura apani aavashyakata ko pura karane ke lie shuruaata men 20-30 yuva injiniyaringa snatakon ko niyukta karane ki yojana banaee hai।"
     },
     {
+      "id": "3ab8af1ef7196e83",
+      "title": "The Vvaan: Sidharth Malhotra and Tamannaah Bhatia honour Bihar’s Chhath rituals",
+      "summary": "The team behind the movie The Vvaan visited Patna ahead of the film’s September 25 release. Tamannaah Bhatia and Sidharth Malhotra, along with their producers,",
+      "category": "Entertainment",
+      "image": "https://cf-images.assettype.com/indulgexpress%2F2026-09-20%2F2s2t2y47%2F818062303186160743400262932876852348868319870n.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "IndulgExpress",
+      "sourceUrl": "https://www.indulgexpress.com/amp/story/entertainment/celebs/2026/Sep/20/the-vvaan-sidharth-malhotra-and-tamannaah-bhatia-honour-bihars-chhath-rituals",
+      "publishedAt": "2026-09-20T09:11:00.000Z",
+      "fetchedAt": "2026-09-20T16:52:51.875Z",
+      "title_hi": "द वावन: सिद्धार्थ मल्होत्रा ​​और तमन्ना भाटिया बिहार के छठ अनुष्ठानों का सम्मान करते हैं",
+      "summary_hi": "फिल्म द वावान की 25 सितंबर को रिलीज से पहले टीम ने पटना का दौरा किया। तमन्ना भाटिया और सिद्धार्थ मल्होत्रा, अपने निर्माताओं के साथ,",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "d vavan: siddharth malhotr ​​aur tamann bhatiy bihar ke chhath anushthanon k samman karate hain",
+      "category_hinglish": "Entertainment",
+      "summary_hinglish": "philma da vavana ki 25 sitanbara ko rilija se pahale tima ne patana ka daura kiya। tamanna bhatiya aura siddhartha malhotr, apane nirmataon ke sath,"
+    },
+    {
       "id": "3a36ee84291d772e",
       "title": "Central Himalayas to take centre stage at Balen Shah's first India visit",
       "summary": "Nepal PM likely to come in Nov, says finance minister Swarnim Wagle; reworking trade treaty also on table",
@@ -316,25 +350,12 @@
       "sourceUrl": "https://www.business-standard.com/amp/external-affairs-defence-security/news/central-himalayas-to-take-centre-stage-at-balen-shah-s-first-india-visit-126092000858_1.html",
       "publishedAt": "2026-09-20T17:16:28.000Z",
       "fetchedAt": "2026-09-20T21:55:35.032Z",
-      "title_hi": "",
-      "summary_hi": "",
+      "title_hi": "बालेन शाह की पहली भारत यात्रा के केंद्र में मध्य हिमालय होगा",
+      "summary_hi": "वित्त मंत्री स्वर्णिम वागले का कहना है कि नेपाल के प्रधानमंत्री के नवंबर में आने की संभावना है; व्यापार संधि पर दोबारा काम भी मेज पर",
       "category_hi": "बिज़नेस और फाइनेंस",
-      "category_hinglish": "Business aur Finance"
-    },
-    {
-      "id": "5ff70aaff1a0df75",
-      "title": "From Digital Governance To AI Leadership Uttar Pradesh’s Next Growth Chapter",
-      "summary": "Uttar Pradesh is strengthening its journey towards becoming a leading digital and technology hub through progressive policies, robust infrastructure, and a strong focus on innovation, investment, and digital governance. Shri Alok Kumar, Principal Secretary, Department of IT & Electronics, Government of Uttar Pradesh, shares his insights on the State's technology…",
-      "category": "Technology",
-      "image": "https://egov.eletsonline.com/wp-content/uploads/2026/09/Shri-Alok-Kumar.jpg",
-      "source": "Elets eGov",
-      "sourceUrl": "https://egov.eletsonline.com/2026/09/from-digital-governance-to-ai-leadership-uttar-pradeshs-next-growth-chapter/",
-      "publishedAt": "2026-09-20T10:05:57.000Z",
-      "fetchedAt": "2026-09-20T22:10:53.241Z",
-      "title_hi": "",
-      "summary_hi": "",
-      "category_hi": "टेक्नोलॉजी",
-      "category_hinglish": "Technology"
+      "category_hinglish": "Business aur Finance",
+      "title_hinglish": "balena shaha ki pahali bharata yatra ke kendra men madhya himalaya hoga",
+      "summary_hinglish": "vitta mantri svarnima vagale ka kahana hai ki nepala ke pradhanamantri ke navanbara men aane ki sanbhavana hai; vyapara sandhi para dobara kama bhi meja para"
     },
     {
       "id": "1cf4075bcfd2495d",
@@ -354,6 +375,23 @@
       "summary_hinglish": "kochchi mukhyalaya vali muthuta phainens, jo 2 triliyana rupaye se adhika ki prabandhanadhina sanpatti (eyuema) ke satha 19 triliyana ke bajara men marketa lidara hai, ne oonchaee hasila ki hai।"
     },
     {
+      "id": "3faf8d7918681ae3",
+      "title": "East Zone’s new cricketing core: How Bihar and Jharkhand talent powered Duleep Trophy win",
+      "summary": "East Zone’s Duleep Trophy triumph over favourites South Zone reflected a changing power centre in Indian domestic cricket, with players from Jharkhand and Bihar leading the charge. Ishan Kishan’s 270, alongside crucial contributions from Kumar Kushagra, Mohammed Kounain Quraishi and Shikhar Mohan, highlighted the region’s growing talent pool and its…",
+      "category": "Sports",
+      "image": "https://s.yimg.com/lo/mysterio/api/3dc928d45c233e20e7bedf13d3a6eb4eac39e48549b354b899a53a7c19ce237b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwillow_sports_articles_673%2F3b8ecd37f760fa5998ff90bbb15f2580.jpg",
+      "source": "Yahoo Sports",
+      "sourceUrl": "https://sports.yahoo.com/articles/east-zone-cricketing-core-bihar-080100670.html",
+      "publishedAt": "2026-09-20T08:01:00.000Z",
+      "fetchedAt": "2026-09-20T16:50:33.873Z",
+      "title_hi": "पूर्वी क्षेत्र का नया क्रिकेटिंग कोर: कैसे बिहार और झारखंड की प्रतिभा ने दलीप ट्रॉफी जीत हासिल की",
+      "summary_hi": "पूर्वी क्षेत्र की पसंदीदा दक्षिण क्षेत्र पर दलीप ट्रॉफी की जीत ने भारतीय घरेलू क्रिकेट में एक बदलते शक्ति केंद्र को दर्शाया, जिसमें झारखंड और बिहार के खिलाड़ी नेतृत्व कर रहे थे। ईशान किशन के 270, कुमार कुशाग्र, मोहम्मद कौनैन कुरैशी और शिखर मोहन के महत्वपूर्ण योगदान के साथ, इस क्षेत्र की बढ़ती प्रतिभा पूल और इसके…",
+      "category_hi": "खेल",
+      "title_hinglish": "purvi kshetr k nay kriketing kor: kaise bihar aur jharakhand ki pratibh ne dalip trॉphi jit hasil ki",
+      "category_hinglish": "Sports",
+      "summary_hinglish": "purvi kshetra ki pasandida dakshina kshetra para dalipa trophi ki jita ne bharatiya gharelu kriketa men eka badalate shakti kendra ko darshay, jisamen jharakhanda aura bihara ke khiladaी netritva kara rahe the। eeshana kishana ke 270, kumara kushagr, mohammada kaunaina kuraishi aura shikhara mohana ke mahatvapurna yogadana ke sath, isa kshetra ki badhati pratibha pula aura isake…"
+    },
+    {
       "id": "953acbee1f2e7d07",
       "title": "CJP questions closure of 826 Uttarakhand schools, gives government 10-day ultimatum",
       "summary": "DEHRADUN: The Cockroach Janata Party (CJP), which has recently sought to expand its footprint beyond student politics, has brought its “Fix the Schools” campaig",
@@ -369,23 +407,6 @@
       "title_hinglish": "sijepi ne uttarakhand ke 826 skulon ko band karane par saval uthay, sarakar ko 10 din k altimetam diy",
       "category_hinglish": "Politics aur Government",
       "summary_hinglish": "deharadun: kokarocha janata parti (sijepi), jisane hala hi men chhatra rajaniti se pare apane padachihna ka vistara karane ki manga ki hai, apana \"skula thika karo\" abhiyana lekara aaee hai।"
-    },
-    {
-      "id": "3ab8af1ef7196e83",
-      "title": "The Vvaan: Sidharth Malhotra and Tamannaah Bhatia honour Bihar’s Chhath rituals",
-      "summary": "The team behind the movie The Vvaan visited Patna ahead of the film’s September 25 release. Tamannaah Bhatia and Sidharth Malhotra, along with their producers,",
-      "category": "Entertainment",
-      "image": "https://cf-images.assettype.com/indulgexpress%2F2026-09-20%2F2s2t2y47%2F818062303186160743400262932876852348868319870n.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "source": "IndulgExpress",
-      "sourceUrl": "https://www.indulgexpress.com/amp/story/entertainment/celebs/2026/Sep/20/the-vvaan-sidharth-malhotra-and-tamannaah-bhatia-honour-bihars-chhath-rituals",
-      "publishedAt": "2026-09-20T09:11:00.000Z",
-      "fetchedAt": "2026-09-20T16:52:51.875Z",
-      "title_hi": "द वावन: सिद्धार्थ मल्होत्रा ​​और तमन्ना भाटिया बिहार के छठ अनुष्ठानों का सम्मान करते हैं",
-      "summary_hi": "फिल्म द वावान की 25 सितंबर को रिलीज से पहले टीम ने पटना का दौरा किया। तमन्ना भाटिया और सिद्धार्थ मल्होत्रा, अपने निर्माताओं के साथ,",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "d vavan: siddharth malhotr ​​aur tamann bhatiy bihar ke chhath anushthanon k samman karate hain",
-      "category_hinglish": "Entertainment",
-      "summary_hinglish": "philma da vavana ki 25 sitanbara ko rilija se pahale tima ne patana ka daura kiya। tamanna bhatiya aura siddhartha malhotr, apane nirmataon ke sath,"
     },
     {
       "id": "95835eb6cbf5ff33",
@@ -405,6 +426,23 @@
       "summary_hinglish": "yaha chetavani taba aaee hai jaba gujarata navaratri ki taiyari kara raha hai, jaba badaे paimane para garaba utsava pure rajya men bhida khinchate hain aura karyakramon aura mulakaton ke aasapasa soshala midiya gatividhi badha jati hai।"
     },
     {
+      "id": "df4ee11c80718c75",
+      "title": "Prashant Kishor's JSP announces 5 candidates for Bihar Legislative Council polls | India News",
+      "summary": "Elections are to be held for a total of eight constituencies -- four graduates' and teachers' seats each -- terms of which expire in November. | India News",
+      "category": "Politics & Government",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/20/1600x900/logo/ANI-20260817010-0_1789888983916_Wnjr_1789888994868_1BmE_71c08991-5f2a-46a2-82be-9b91283a90bb_N2z0.jpg",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/prashant-kishors-jsp-announces-5-candidates-for-bihar-legislative-council-poll-101789888783357.html",
+      "publishedAt": "2026-09-20T07:23:57.000Z",
+      "fetchedAt": "2026-09-20T19:08:25.327Z",
+      "title_hi": "प्रशांत किशोर की जेएसपी ने बिहार विधान परिषद चुनाव के लिए 5 उम्मीदवारों की घोषणा की | भारत समाचार",
+      "summary_hi": "कुल आठ निर्वाचन क्षेत्रों के लिए चुनाव होने हैं - चार स्नातक और शिक्षक सीटें - जिनकी शर्तें नवंबर में समाप्त हो रही हैं। | भारत समाचार",
+      "category_hi": "राजनीति और सरकार",
+      "category_hinglish": "Politics aur Government",
+      "title_hinglish": "prashanta kishora ki jeesapi ne bihara vidhana parishada chunava ke lie 5 ummidavaron ki ghoshana ki | bharata samachara",
+      "summary_hinglish": "kula aatha nirvachana kshetron ke lie chunava hone hain - chara snataka aura shikshaka siten - jinaki sharten navanbara men samapta ho rahi hain। | bharata samachara"
+    },
+    {
       "id": "4ca7e5f63ac4011f",
       "title": "Yashasvi Jaiswal needs more ODI chances as backup opener before 2027 World Cup: Pathan",
       "summary": "Former India all-rounder Irfan Pathan wants Yashasvi Jaiswal to get a consistent run in the upcoming ODI series against the West Indies, saying the opener needs enough opportunities to establish himself as India's backup opener before the 2027 World Cup.",
@@ -420,23 +458,6 @@
       "title_hinglish": "yashasvi jayasaval ko 2027 vishv kap se pahale baikap opanar ke rup men adhik vanade mauke ki jarurat hai: pathan",
       "category_hinglish": "Sports",
       "summary_hinglish": "bharata ke purva haraphanamaula khiladaी iraphana pathana chahate hain ki yashasvi jayasavala ko vestaindija ke khilapha aagami vanade sirija men lagatara achchha pradarshana karana chahie, unhonne kaha ki isa salami ballebaja ko 2027 vishva kapa se pahale khuda ko bharata ke baikaapa opanara ke rupa men sthapita karane ke lie paryapta avasaron ki jarurata hai।"
-    },
-    {
-      "id": "3faf8d7918681ae3",
-      "title": "East Zone’s new cricketing core: How Bihar and Jharkhand talent powered Duleep Trophy win",
-      "summary": "East Zone’s Duleep Trophy triumph over favourites South Zone reflected a changing power centre in Indian domestic cricket, with players from Jharkhand and Bihar leading the charge. Ishan Kishan’s 270, alongside crucial contributions from Kumar Kushagra, Mohammed Kounain Quraishi and Shikhar Mohan, highlighted the region’s growing talent pool and its…",
-      "category": "Sports",
-      "image": "https://s.yimg.com/lo/mysterio/api/3dc928d45c233e20e7bedf13d3a6eb4eac39e48549b354b899a53a7c19ce237b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwillow_sports_articles_673%2F3b8ecd37f760fa5998ff90bbb15f2580.jpg",
-      "source": "Yahoo Sports",
-      "sourceUrl": "https://sports.yahoo.com/articles/east-zone-cricketing-core-bihar-080100670.html",
-      "publishedAt": "2026-09-20T08:01:00.000Z",
-      "fetchedAt": "2026-09-20T16:50:33.873Z",
-      "title_hi": "पूर्वी क्षेत्र का नया क्रिकेटिंग कोर: कैसे बिहार और झारखंड की प्रतिभा ने दलीप ट्रॉफी जीत हासिल की",
-      "summary_hi": "पूर्वी क्षेत्र की पसंदीदा दक्षिण क्षेत्र पर दलीप ट्रॉफी की जीत ने भारतीय घरेलू क्रिकेट में एक बदलते शक्ति केंद्र को दर्शाया, जिसमें झारखंड और बिहार के खिलाड़ी नेतृत्व कर रहे थे। ईशान किशन के 270, कुमार कुशाग्र, मोहम्मद कौनैन कुरैशी और शिखर मोहन के महत्वपूर्ण योगदान के साथ, इस क्षेत्र की बढ़ती प्रतिभा पूल और इसके…",
-      "category_hi": "खेल",
-      "title_hinglish": "purvi kshetr k nay kriketing kor: kaise bihar aur jharakhand ki pratibh ne dalip trॉphi jit hasil ki",
-      "category_hinglish": "Sports",
-      "summary_hinglish": "purvi kshetra ki pasandida dakshina kshetra para dalipa trophi ki jita ne bharatiya gharelu kriketa men eka badalate shakti kendra ko darshay, jisamen jharakhanda aura bihara ke khiladaी netritva kara rahe the। eeshana kishana ke 270, kumara kushagr, mohammada kaunaina kuraishi aura shikhara mohana ke mahatvapurna yogadana ke sath, isa kshetra ki badhati pratibha pula aura isake…"
     },
     {
       "id": "b13e4d492671894c",
@@ -473,70 +494,6 @@
       "summary_hinglish": "aaj, shanivar, 19 sitanbara ke lie bharata ke eshiyaee khela 2026 karyakrama men udghatana samaroha aura tekabola men kvimsi disuja shamila hain। shedyula aura maicha shuru hone ka samaya janen।"
     },
     {
-      "id": "b062304ce5392bf7",
-      "title": "From Nepal to Jodhpur: 2 Lawrence gang shooters, carrying Rs 5 lakh reward each, arrested during hotel c",
-      "summary": "Rajasthan Police's Anti-Gangster Task Force (AGTF) arrests two alleged sharpshooters linked to the Lawrence-Arzoo Bishnoi gang.AGTF Additional Director General of Police Dinesh M N says the two had allegedly come to Jodhpur to carry out a major crime.(Full… pic.twitter.com/JMANNzCnL9",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134371511,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/jodhpur/from-nepal-to-jodhpur-2-lawrence-gang-shooters-carrying-rs-5-lakh-reward-each-arrested-during-hotel-check-in/articleshow/134371410.cms",
-      "publishedAt": "2026-09-20T16:18:00.000Z",
-      "fetchedAt": "2026-09-20T16:52:03.460Z",
-      "title_hi": "नेपाल से जोधपुर तक: लॉरेंस गैंग के 2 शूटर, प्रत्येक पर 5 लाख रुपये का इनाम, होटल सी के दौरान गिरफ्तार",
-      "summary_hi": "राजस्थान पुलिस की एंटी-गैंगस्टर टास्क फोर्स (एजीटीएफ) ने लॉरेंस-आरज़ू बिश्नोई गिरोह से जुड़े दो कथित शार्पशूटरों को गिरफ्तार किया है। एजीटीएफ के अतिरिक्त पुलिस महानिदेशक दिनेश एमएन का कहना है कि दोनों कथित तौर पर एक बड़े अपराध को अंजाम देने के लिए जोधपुर आए थे। (पूर्ण… pic.twitter.com/JMANNzCnL9",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "nepal se jodhapur tak: lॉrens gaing ke 2 shutar, pratyek par 5 lakh rupaye k inam, hotal si ke dauran giraphtar",
-      "category_hinglish": "Crime aur Breaking News",
-      "summary_hinglish": "rajasthana pulisa ki enti-gaingastara taska phorsa (ejitiepha) ne lorensa-aarajaू bishnoee giroha se judaे do kathita sharpashutaron ko giraphtara kiya hai। ejitiepha ke atirikta pulisa mahanideshaka dinesha emaena ka kahana hai ki donon kathita taura para eka badaे aparadha ko anjama dene ke lie jodhapura aae the। (purna… pic.twitter.com/JMANNzCnL9"
-    },
-    {
-      "id": "df4ee11c80718c75",
-      "title": "Prashant Kishor's JSP announces 5 candidates for Bihar Legislative Council polls | India News",
-      "summary": "Elections are to be held for a total of eight constituencies -- four graduates' and teachers' seats each -- terms of which expire in November. | India News",
-      "category": "Politics & Government",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/20/1600x900/logo/ANI-20260817010-0_1789888983916_Wnjr_1789888994868_1BmE_71c08991-5f2a-46a2-82be-9b91283a90bb_N2z0.jpg",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/india-news/prashant-kishors-jsp-announces-5-candidates-for-bihar-legislative-council-poll-101789888783357.html",
-      "publishedAt": "2026-09-20T07:23:57.000Z",
-      "fetchedAt": "2026-09-20T19:08:25.327Z",
-      "title_hi": "प्रशांत किशोर की जेएसपी ने बिहार विधान परिषद चुनाव के लिए 5 उम्मीदवारों की घोषणा की | भारत समाचार",
-      "summary_hi": "कुल आठ निर्वाचन क्षेत्रों के लिए चुनाव होने हैं - चार स्नातक और शिक्षक सीटें - जिनकी शर्तें नवंबर में समाप्त हो रही हैं। | भारत समाचार",
-      "category_hi": "राजनीति और सरकार",
-      "category_hinglish": "Politics aur Government",
-      "title_hinglish": "prashanta kishora ki jeesapi ne bihara vidhana parishada chunava ke lie 5 ummidavaron ki ghoshana ki | bharata samachara",
-      "summary_hinglish": "kula aatha nirvachana kshetron ke lie chunava hone hain - chara snataka aura shikshaka siten - jinaki sharten navanbara men samapta ho rahi hain। | bharata samachara"
-    },
-    {
-      "id": "b22eb21bdbe07b7d",
-      "title": "School assembly news headlines today- September 21: Top national, sports and world news curated for you",
-      "summary": "Today’s school assembly news highlights top national, sports, and world events, covering important updates from politics, sports achievements, and global headlines for September 21.",
-      "category": "National & Trending News",
-      "image": "https://static-bestcolleges.tosshub.com/2026/News/RTuzZmAkYmrYBtJBvHvM7wc5U8Km32LqoKSinC1C.png",
-      "source": "India Today",
-      "sourceUrl": "https://bestcolleges.indiatoday.in/latest-news/school-assembly-news-headlines-today-september-21-top-national-sports-and-world-news-curated-for-you-11642",
-      "publishedAt": "2026-09-20T16:03:53.000Z",
-      "fetchedAt": "2026-09-20T22:10:48.201Z",
-      "title_hi": "",
-      "summary_hi": "",
-      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
-      "category_hinglish": "National aur Trending News"
-    },
-    {
-      "id": "def5e47321999091",
-      "title": "Trump’s tariff decision can hurt energy security, trade, economy of India: Congress",
-      "summary": "Congress warns Trump's 100% tariffs on Russian oil threaten India's energy security, economy, and trade, criticizing Modi's government response.",
-      "category": "National & Trending News",
-      "image": "https://th-i.thgim.com/public/incoming/icc7v7/article71488757.ece/alternates/FREE_1200/CONGRESS%20PC%20SUGAR%20AICC_27_08_16.jpg",
-      "source": "The Hindu",
-      "sourceUrl": "https://www.thehindu.com/news/national/trumps-tariff-decision-can-hurt-energy-security-trade-economy-of-india-congress/article71488448.ece/amp/",
-      "publishedAt": "2026-09-20T15:48:56.000Z",
-      "fetchedAt": "2026-09-20T22:10:43.491Z",
-      "title_hi": "",
-      "summary_hi": "",
-      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
-      "category_hinglish": "National aur Trending News"
-    },
-    {
       "id": "c8dee49868675da4",
       "title": "Jan Suraaj announces candidates for 5 Bihar Legislative Council seats",
       "summary": "Prashant Kishors Jan Suraaj is getting an early start on Bihars next electoral contest, naming candidates for five of the eight Legislative Council seats headed for polls. From backing a sitting MLC for another term to fielding a lawyer-turned-politician against a JD(U) heavyweight, Kishor is widening his partys footprint in…",
@@ -552,66 +509,6 @@
       "title_hinglish": "jan suraj ne 5 bihar vidhan parishad siton ke lie ummidavaron ki ghoshan ki",
       "category_hinglish": "Politics aur Government",
       "summary_hinglish": "prashanta kishora ke jana suraja ne bihara ki agali chunavi ladaाee ki shuruaati shuruaata karate hue aatha vidhana parishada siton men se pancha ke lie ummidavaron ke nama ghoshita kara die hain। eka maujuda emaelasi ko dusare karyakala ke lie samarthana dene se lekara eka vakila se neta bane jadayu ke diggaja neta ke khilapha maidana men utarane tak, kishora apani parti ka dayara badhaा rahe hain…"
-    },
-    {
-      "id": "89c346c232d941c1",
-      "title": "Vaibhav Sooryavanshi can be India's future but don't rush him: Sanath Jayasuriya",
-      "summary": "Vaibhav Sooryavanshi can be India's future, but the teenager should not be rushed into the playing XI, former Sri Lanka captain Sanath Jayasuriya said on Sunday, backing the young batter to make the most of his opportunities when they come his way.",
-      "category": "Sports",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/vaibhav-sooryavanshi-171302407-16x9_1.jpg?VersionId=9e6ok9S17WUvZyccx0w5cQvgJ4RAdAAp",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-india-do-not-rush-sanath-jayasuriya-playing-xi-2999050-2026-09-20",
-      "publishedAt": "2026-09-20T15:00:10.000Z",
-      "fetchedAt": "2026-09-20T22:10:22.075Z",
-      "title_hi": "",
-      "summary_hi": "",
-      "category_hi": "खेल",
-      "category_hinglish": "Sports"
-    },
-    {
-      "id": "1c0f773d2da97dbd",
-      "title": "Hanuman Ansh Box Office Collection Day 45: Strong 7th Sunday Takes Film Closer To Rs 300 Cr India Net Milestone",
-      "summary": "Hanuman Ansh continues its impressive box office run on day 45, earning Rs 9.51 crore and taking its India net collection to Rs 267.64 crore.",
-      "category": "Entertainment",
-      "image": "https://imgs.etvbharat.com/etvbharat/prod-images/20-09-2026/1200-675-27674691-164-27674691-1789913586853.jpg",
-      "source": "ETV Bharat",
-      "sourceUrl": "https://www.etvbharat.com/amp/en/entertainment/hanuman-ansh-box-office-collection-day-45-strong-7th-sunday-takes-film-closer-to-rs-300-cr-india-net-milestone-enn26092002782",
-      "publishedAt": "2026-09-20T14:25:53.000Z",
-      "fetchedAt": "2026-09-20T22:10:26.010Z",
-      "title_hi": "",
-      "summary_hi": "",
-      "category_hi": "मनोरंजन",
-      "category_hinglish": "Entertainment"
-    },
-    {
-      "id": "cfc13bb3c5844384",
-      "title": "Pakistan out of Asian Games after Sri Lanka cruise through to the final",
-      "summary": "Sri Lanka beat Pakistan by 8 wickets in the 2026 Asian Games women's semi-final. Athapaththu hit 83 not out to seal the win. Read more on CricTracker.",
-      "category": "Sports",
-      "image": "https://media.crictracker.com/media/attachments/1778926620139_Pakistan-Women's-Team.jpeg",
-      "source": "CricTracker",
-      "sourceUrl": "https://www.crictracker.com/cricket-news/pakistan-out-of-asian-games-after-sri-lanka-cruise-through-to-the-final/?amp=1",
-      "publishedAt": "2026-09-20T06:21:00.000Z",
-      "fetchedAt": "2026-09-20T22:10:52.166Z",
-      "title_hi": "",
-      "summary_hi": "",
-      "category_hi": "खेल",
-      "category_hinglish": "Sports"
-    },
-    {
-      "id": "7fc539d9c9a00ac0",
-      "title": "Indian Diaspora in SA: Partnering India's Tech Future",
-      "summary": "Rajya Sabha Deputy Chairman Harivansh Singh calls on Indian diaspora in South Africa to invest in India",
-      "category": "Technology",
-      "image": "https://im.rediff.com/news/2025/aug/11harivansh-singh.jpg?fr=money",
-      "source": "Rediff MoneyWiz",
-      "sourceUrl": "https://money.rediff.com/news/market/indian-diaspora-in-sa-partnering-india-s-tech-future/54682120260920",
-      "publishedAt": "2026-09-20T14:12:50.000Z",
-      "fetchedAt": "2026-09-20T22:10:35.876Z",
-      "title_hi": "",
-      "summary_hi": "",
-      "category_hi": "टेक्नोलॉजी",
-      "category_hinglish": "Technology"
     }
   ]
 }
