@@ -1,0 +1,45 @@
+name: Update News Teen75 Feed
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/5 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: news-teen75-feed
+  cancel-in-progress: true
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Fetch and filter latest news
+        run: npm run fetch-news
+
+      - name: Commit updated feed
+        run: |
+          if git diff --quiet -- data/news.json; then
+            echo "No feed changes to commit."
+            exit 0
+          fi
+
+          git config user.name "NewsTeen75 Bot"
+          git config user.email "actions@github.com"
+          git add data/news.json
+          git commit -m "Update News Teen75 feed"
+          git push
