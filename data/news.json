@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-09-20T08:13:12.099Z",
+  "updatedAt": "2026-09-20T08:29:20.713Z",
   "count": 250,
   "articles": [
+    {
+      "id": "9d8d1f438d2e2a21",
+      "title": "India to establish first precision manufacturing institute under Semicon 2.0",
+      "summary": "India to establish first precision manufacturing institute under Semicon 2.0. This update was reported by Manufacturing Today India. Open the original report for full context and any developing updates.",
+      "category": "Technology",
+      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "source": "Manufacturing Today India",
+      "sourceUrl": "https://www.manufacturingtodayindia.com/india-to-establish-first-precision-manufacturing-institute-under-semicon-2-0",
+      "publishedAt": "2026-09-20T08:27:38.000Z",
+      "fetchedAt": "2026-09-20T08:29:17.965Z"
+    },
+    {
+      "id": "e76a79f26a9c7eaa",
+      "title": "Asian Games badminton: PV Sindhu stars as India hammer Kazakhstan, reach quarters",
+      "summary": "PV Sindhu, Unnati Hooda and Tanvi Sharma won their singles rubbers as India beat Kazakhstan 3-0 in the Asian Games women's team round of 16. The result sends India into a tougher quarter-final against Japan with a place in the medal rounds at stake.",
+      "category": "Sports",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/pv-sindhu-200337783-16x9_0.jpg?VersionId=HUBIon8L0WuThEpl1pfXmzT0zqkvJ7TJ",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/sports/asian-games/story/asian-games-badminton-pv-sindhu-india-beat-kazakhstan-reach-womens-team-quarter-finals-2998757-2026-09-20",
+      "publishedAt": "2026-09-20T08:04:46.000Z",
+      "fetchedAt": "2026-09-20T08:29:15.807Z"
+    },
     {
       "id": "2407fcb82fd43d98",
       "title": "Digital Technology To Transform India’s Mining Sector.",
@@ -1466,6 +1488,17 @@
       "fetchedAt": "2026-09-19T18:47:30.596Z"
     },
     {
+      "id": "2a5c69aaa5492332",
+      "title": "India's Asian Games 2026 schedule today, September 20: Cricket semi-final in focus; shooting, teqball and wushu medals on offer",
+      "summary": "India's Asian Games 2026 schedule for today, Sunday, September 20, features cricket and medal events in shooting, teqball and wushu. Know schedule and match start times.",
+      "category": "Sports",
+      "image": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/f8xx6uoxhl5zgrx6ukk5",
+      "source": "olympics.com",
+      "sourceUrl": "https://www.olympics.com/en/news/asian-games-2026-india-schedule-today-september-20-sunday",
+      "publishedAt": "2026-09-19T18:35:00.000Z",
+      "fetchedAt": "2026-09-20T08:29:15.379Z"
+    },
+    {
       "id": "551f819b4385d44e",
       "title": "India needs tech-led mining sector: Jitendra Singh",
       "summary": "Calls for moving beyond isolated pilots towards connected, scalable & trusted systems",
@@ -1695,6 +1728,17 @@
       "sourceUrl": "https://www.reuters.com/business/finance/canada-optimistic-about-concluding-trade-talks-with-india-by-year-end-minister-2026-09-19/",
       "publishedAt": "2026-09-19T17:24:05.000Z",
       "fetchedAt": "2026-09-20T07:32:50.228Z"
+    },
+    {
+      "id": "28282ec487eccf42",
+      "title": "3-day bank strike: Finance Ministry to meet PSB, RRB chiefs on Monday over service continuity",
+      "summary": "The Finance Ministry will meet public sector and regional rural bank chiefs on Monday to discuss contingency measures ahead of the UFBU&rsquo;s planned three-day nationwide strike from September 28.",
+      "category": "Business & Finance",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260919172030_bank-branch-ANI.png",
+      "source": "Moneycontrol.com",
+      "sourceUrl": "https://www.moneycontrol.com/news/business/banks/3-day-bank-strike-finance-ministry-to-meet-psb-rrb-chiefs-on-monday-over-service-continuity-14033639.html",
+      "publishedAt": "2026-09-19T17:21:07.000Z",
+      "fetchedAt": "2026-09-20T08:29:19.519Z"
     },
     {
       "id": "e022318877c766df",
@@ -2707,50 +2751,6 @@
       "sourceUrl": "https://udayavani.com/sports/20th-asian-games-kick-off-in-japan-manu-bhaker-and-pawan-sehrawat-lead-indias-contingent-585145?lang=en",
       "publishedAt": "2026-09-19T13:19:17.000Z",
       "fetchedAt": "2026-09-19T13:49:49.437Z"
-    },
-    {
-      "id": "3424902d9a37e654",
-      "title": "India to wear BCCI jersey against Japan in friendly as Asian Games kit issue resolved",
-      "summary": "India to wear BCCI jersey against Japan in friendly as Asian Games kit issue resolved. This update was reported by The Statesman. Open the original report for full context and any developing updates.",
-      "category": "Sports",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ESports%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "The Statesman",
-      "sourceUrl": "https://www.thestatesman.com/sports/india-to-wear-bcci-jersey-against-japan-in-friendly-as-asian-games-kit-issue-resolved-1503640507.html",
-      "publishedAt": "2026-09-19T13:14:00.000Z",
-      "fetchedAt": "2026-09-19T13:39:00.703Z"
-    },
-    {
-      "id": "86bedd90076597bb",
-      "title": "Delhi Education Minister launches 'Seva-First Innovation Challenge 2026' at DTU with Rs 2 crore prize pool",
-      "summary": "Delhi Higher Education Minister Ashish Sood has launched the Seva-First Innovation Challenge 2026 at DTU, featuring a ₹2 crore prize pool to stimulate technology-driven solutions for social challenges among youth in northern India.",
-      "category": "Technology",
-      "image": "https://etimg.etb2bimg.com/thumb/msid-134354893,imgsize-246268,width-1200,height=627,overlay-eteducation,resizemode-75/news/industry/delhi-education-minister-launches-seva-first-innovation-challenge-2026-at-dtu-with-rs-2-crore-prize-pool.jpg",
-      "source": "ET Education",
-      "sourceUrl": "https://education.economictimes.indiatimes.com/news/industry/delhi-education-minister-launches-seva-first-innovation-challenge-2026-at-dtu-with-rs-2-crore-prize-pool/134354893?utm_source=latest_news&utm_medium=homepage",
-      "publishedAt": "2026-09-19T13:12:23.000Z",
-      "fetchedAt": "2026-09-19T14:01:02.287Z"
-    },
-    {
-      "id": "b1ebc471ca3a13d8",
-      "title": "Japan’s semiconductor push in India: Why Japanese companies are betting on materials, equipment and technology",
-      "summary": "From Fujifilm and Sumitomo Chemical to Tokyo Electron and Hirata, Japanese companies are expanding across the semiconductor supply chain as India moves from announcing fabs to building a broader chip ecosystem.",
-      "category": "Technology",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6aae88127aec4-during-semicon-india-2026--several-japanese-companies-announced-plans-for-the-indian-market--spannin-190313306-16x9.jpg",
-      "source": "Business Today",
-      "sourceUrl": "https://www.businesstoday.in/technology/news/story/japans-semiconductor-push-in-india-why-japanese-companies-are-betting-on-materials-equipment-and-technology-556636-2026-09-19",
-      "publishedAt": "2026-09-19T13:04:05.000Z",
-      "fetchedAt": "2026-09-19T13:39:03.055Z"
-    },
-    {
-      "id": "72087a5101dda174",
-      "title": "India's deep-tech alliance commits $3B, with $250M deployed in year one",
-      "summary": "India's deep-tech alliance commits $3B, with $250M deployed in year one. This update was reported by Dealroom. Open the original report for full context and any developing updates.",
-      "category": "Technology",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "Dealroom",
-      "sourceUrl": "https://app.dealroom.co/news/note/india-s-deep-tech-alliance-commits-3b-with-250m-deployed-in-year-one",
-      "publishedAt": "2026-09-19T12:58:56.000Z",
-      "fetchedAt": "2026-09-19T13:25:37.443Z"
     }
   ]
 }
