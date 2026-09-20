@@ -1,7 +1,23 @@
 {
-  "updatedAt": "2026-09-20T18:44:23.166Z",
-  "count": 33,
+  "updatedAt": "2026-09-20T18:55:31.764Z",
+  "count": 27,
   "articles": [
+    {
+      "id": "c7636563f83b60ae",
+      "title": "AGTF arrests 2 Lawrence-Arzoo gang sharpshooters in Jodhpur",
+      "summary": "The Anti-Gangster Task Force (AGTF) Sunday arrested two wanted sharpshooters of Lawrence Bishnoi–Arzoo Bishnoi gang in Jodhpur. Punjab Police had announced a reward of Rs 5 lakh each on the two accused.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134374027,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/jaipur/agtf-arrests-2-lawrence-arzoo-gang-sharpshooters-in-jodhpur/articleshow/134374029.cms",
+      "publishedAt": "2026-09-20T18:24:00.000Z",
+      "fetchedAt": "2026-09-20T18:54:23.916Z",
+      "title_hi": "एजीटीएफ ने जोधपुर में लॉरेंस-आरज़ू गिरोह के दो शार्पशूटरों को गिरफ्तार किया",
+      "summary_hi": "",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "ejitieph ne jodhapur men lॉrens-arajू giroh ke do sharpashutaron ko giraphtar kiy",
+      "category_hinglish": "Crime aur Breaking News"
+    },
     {
       "id": "4dcc6456316e53cc",
       "title": "Crime Branch takes over IIT Bombay student death probe; family alleges caste harassment, institute denies",
@@ -11,18 +27,12 @@
       "source": "The Economic Times",
       "sourceUrl": "https://economictimes.indiatimes.com/news/india/crime-branch-takes-over-iit-bombay-student-death-probe-family-alleges-caste-harassment-institute-denies/articleshow/134373742.cms?from=mdr",
       "publishedAt": "2026-09-20T18:16:15.000Z",
-      "fetchedAt": "2026-09-20T18:28:53.582Z"
-    },
-    {
-      "id": "528f0f23b8fec71d",
-      "title": "Yemeni national attacks Sikh bus driver in Telford, smashes & hijacks vehicle",
-      "summary": "A 33-year-old Yemeni national was arrested for allegedly assaulting a British Sikh bus driver, vandalising the vehicle, hijacking it and crashing the bus into multiple vehicles in Telford, in England’s West Midlands region, last week.",
-      "category": "National & Trending News",
-      "image": "https://static.toiimg.com/thumb/msid-134373763,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/yemeni-national-attacks-sikh-bus-driver-in-telford-smashes-hijacks-vehicle/articleshow/134373692.cms",
-      "publishedAt": "2026-09-20T18:14:00.000Z",
-      "fetchedAt": "2026-09-20T18:29:30.407Z"
+      "fetchedAt": "2026-09-20T18:28:53.582Z",
+      "title_hi": "क्राइम ब्रांच ने आईआईटी बॉम्बे छात्र की मौत की जांच अपने हाथ में ली; परिवार ने लगाया जातिगत उत्पीड़न का आरोप, संस्थान ने किया इनकार",
+      "summary_hi": "",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "kraim branch ne aiaiti bॉmbe chhatr ki maut ki janch apane hath men li; parivar ne lagay jatigat utpidan k arop, sansthan ne kiy inakar",
+      "category_hinglish": "Crime aur Breaking News"
     },
     {
       "id": "7a5f20ee3c6e5fbc",
@@ -33,7 +43,28 @@
       "source": "Mid-Day",
       "sourceUrl": "https://www.mid-day.com/amp/entertainment/regional-indian-cinema-news/article/bhojpuri-actress-kajal-raghwani-car-attacked-while-visiting-bihar-sharif-23650965",
       "publishedAt": "2026-09-20T13:02:00.000Z",
-      "fetchedAt": "2026-09-20T16:50:35.549Z"
+      "fetchedAt": "2026-09-20T16:50:35.549Z",
+      "title_hi": "घड़ी! बिहार में भीड़ ने भोजपुरी अभिनेत्री काजल राघवानी की कार पर हमला किया - मिड-डे",
+      "summary_hi": "",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "ghadी! bihar men bhid ne bhojapuri abhinetri kajal raghavani ki kar par hamal kiy - mid-de",
+      "category_hinglish": "Entertainment"
+    },
+    {
+      "id": "528f0f23b8fec71d",
+      "title": "Yemeni national attacks Sikh bus driver in Telford, smashes & hijacks vehicle",
+      "summary": "A 33-year-old Yemeni national was arrested for allegedly assaulting a British Sikh bus driver, vandalising the vehicle, hijacking it and crashing the bus into multiple vehicles in Telford, in England’s West Midlands region, last week.",
+      "category": "National & Trending News",
+      "image": "https://static.toiimg.com/thumb/msid-134373763,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/yemeni-national-attacks-sikh-bus-driver-in-telford-smashes-hijacks-vehicle/articleshow/134373692.cms",
+      "publishedAt": "2026-09-20T18:14:00.000Z",
+      "fetchedAt": "2026-09-20T18:29:30.407Z",
+      "title_hi": "यमनी नागरिक ने टेलफ़ोर्ड में सिख बस चालक पर हमला किया, तोड़फोड़ की और वाहन का अपहरण कर लिया",
+      "summary_hi": "",
+      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
+      "title_hinglish": "yamani nagarik ne telaphोrd men sikh bas chalak par hamal kiy, todaphod ki aur vahan k apaharan kar liy",
+      "category_hinglish": "National aur Trending News"
     },
     {
       "id": "78e51ba91dfb51d9",
@@ -44,18 +75,12 @@
       "source": "Yahoo Sports",
       "sourceUrl": "https://sports.yahoo.com/articles/one-india-t20i-could-become-173100592.html",
       "publishedAt": "2026-09-20T17:31:00.000Z",
-      "fetchedAt": "2026-09-20T17:43:38.133Z"
-    },
-    {
-      "id": "88695329cd0ab97e",
-      "title": "Keralam Sports Minister proposes government job for Asian Games silver medallist Vidarsa K Vinod",
-      "summary": "Keralam sports minister OJ Janeesh has proposed the appointment of 2026 Asian Games silver medallist Vidarsa K Vinod to a suitable post in government service under the applicable sports quota provisions.",
-      "category": "Sports",
-      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260920172137-thumbnail-320x180-70.jpg",
-      "source": "ANI News",
-      "sourceUrl": "https://www.aninews.in/news/sports/others/keralam-sports-minister-proposes-government-job-for-asian-games-silver-medallist-vidarsa-k-vinod20260920225218/",
-      "publishedAt": "2026-09-20T17:22:00.000Z",
-      "fetchedAt": "2026-09-20T18:43:54.956Z"
+      "fetchedAt": "2026-09-20T17:43:38.133Z",
+      "title_hi": "कैसे एक भारत T20I जापानी क्रिकेट का निर्णायक क्षण बन सकता है",
+      "summary_hi": "",
+      "category_hi": "खेल",
+      "title_hinglish": "kaise ek bharat T20I japani kriket k nirnayak kshan ban sakat hai",
+      "category_hinglish": "Sports"
     },
     {
       "id": "b0a7445d8fa7d0e5",
@@ -66,7 +91,28 @@
       "source": "The Times of India",
       "sourceUrl": "https://timesofindia.indiatimes.com/city/patna/bihar-forms-sit-to-probe-vehicle-insurance-fraud-tightens-challan-norms/articleshow/134368658.cms",
       "publishedAt": "2026-09-20T12:47:00.000Z",
-      "fetchedAt": "2026-09-20T16:50:32.571Z"
+      "fetchedAt": "2026-09-20T16:50:32.571Z",
+      "title_hi": "बिहार ने वाहन बीमा धोखाधड़ी की जांच के लिए एसआईटी गठित की, चालान मानदंड सख्त किए",
+      "summary_hi": "",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "bihar ne vahan bim dhokhadhadी ki janch ke lie esaaiti gathit ki, chalan manadand sakht kie",
+      "category_hinglish": "Crime aur Breaking News"
+    },
+    {
+      "id": "88695329cd0ab97e",
+      "title": "Keralam Sports Minister proposes government job for Asian Games silver medallist Vidarsa K Vinod",
+      "summary": "Keralam sports minister OJ Janeesh has proposed the appointment of 2026 Asian Games silver medallist Vidarsa K Vinod to a suitable post in government service under the applicable sports quota provisions.",
+      "category": "Sports",
+      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260920172137-thumbnail-320x180-70.jpg",
+      "source": "ANI News",
+      "sourceUrl": "https://www.aninews.in/news/sports/others/keralam-sports-minister-proposes-government-job-for-asian-games-silver-medallist-vidarsa-k-vinod20260920225218/",
+      "publishedAt": "2026-09-20T17:22:00.000Z",
+      "fetchedAt": "2026-09-20T18:43:54.956Z",
+      "title_hi": "केरल के खेल मंत्री ने एशियाई खेलों के रजत पदक विजेता विदरसा के विनोद के लिए सरकारी नौकरी का प्रस्ताव रखा",
+      "summary_hi": "",
+      "category_hi": "खेल",
+      "title_hinglish": "keral ke khel mantri ne eshiyai khelon ke rajat padak vijet vidaras ke vinod ke lie sarakari naukari k prastav rakh",
+      "category_hinglish": "Sports"
     },
     {
       "id": "953acbee1f2e7d07",
@@ -77,7 +123,12 @@
       "source": "newindianexpress.com",
       "sourceUrl": "https://www.newindianexpress.com/india/2026/Sep/20/cjp-questions-closure-of-826-uttarakhand-schools-gives-government-10-day-ultimatum",
       "publishedAt": "2026-09-20T17:04:23.000Z",
-      "fetchedAt": "2026-09-20T17:32:03.975Z"
+      "fetchedAt": "2026-09-20T17:32:03.975Z",
+      "title_hi": "सीजेपी ने उत्तराखंड के 826 स्कूलों को बंद करने पर सवाल उठाया, सरकार को 10 दिन का अल्टीमेटम दिया",
+      "summary_hi": "",
+      "category_hi": "राजनीति और सरकार",
+      "title_hinglish": "sijepi ne uttarakhand ke 826 skulon ko band karane par saval uthay, sarakar ko 10 din k altimetam diy",
+      "category_hinglish": "Politics aur Government"
     },
     {
       "id": "95835eb6cbf5ff33",
@@ -88,18 +139,12 @@
       "source": "News18",
       "sourceUrl": "https://www.news18.com/amp/india/police-warn-against-online-fraud-after-rent-garba-partner-posts-go-viral-ahead-of-navratri-10342945.html",
       "publishedAt": "2026-09-20T17:01:58.000Z",
-      "fetchedAt": "2026-09-20T17:43:35.058Z"
-    },
-    {
-      "id": "4ca7e5f63ac4011f",
-      "title": "Yashasvi Jaiswal needs more ODI chances as backup opener before 2027 World Cup: Pathan",
-      "summary": "Former India all-rounder Irfan Pathan wants Yashasvi Jaiswal to get a consistent run in the upcoming ODI series against the West Indies, saying the opener needs enough opportunities to establish himself as India's backup opener before the 2027 World Cup.",
-      "category": "Sports",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/yashasvi-jaiswal-204137658-16x9.jpg?VersionId=XC6DqpBoEhzhU8xkrEL8HBVAZXnT09Km",
-      "source": "indiatoday.in",
-      "sourceUrl": "https://www.indiatoday.in/sports/cricket/story/irfan-pathan-yashasvi-jaiswal-chances-west-indies-odi-series-world-cup-2999091-2026-09-20",
-      "publishedAt": "2026-09-20T16:38:40.000Z",
-      "fetchedAt": "2026-09-20T16:52:11.037Z"
+      "fetchedAt": "2026-09-20T17:43:35.058Z",
+      "title_hi": "नवरात्रि से पहले 'रेंट गरबा पार्टनर' पोस्ट वायरल होने के बाद पुलिस ने ऑनलाइन धोखाधड़ी के खिलाफ चेतावनी दी है",
+      "summary_hi": "",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "navaratri se pahale 'rent garab partanar' post vayaral hone ke bad pulis ne ऑnalain dhokhadhadी ke khilaph chetavani di hai",
+      "category_hinglish": "Crime aur Breaking News"
     },
     {
       "id": "a4bcee89cdfc8490",
@@ -110,7 +155,28 @@
       "source": "The Times of India",
       "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-hits-back-at-people-trolling-maithili-thakur-for-arriving-in-rolls-royce-at-lalbaugcha-raja-some-people-a-start-to-burn/articleshow/134367439.cms",
       "publishedAt": "2026-09-20T11:27:00.000Z",
-      "fetchedAt": "2026-09-20T11:39:40.819Z"
+      "fetchedAt": "2026-09-20T11:39:40.819Z",
+      "title_hi": "कंगना रनौत ने लालबागचा राज में रोल्स-रॉयस में पहुंचने के लिए मैथिली ठाकुर को ट्रोल करने वाले लोगों पर पलटवार किया",
+      "summary_hi": "",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "kangan ranaut ne lalabagach raj men rols-rॉyas men pahunchane ke lie maithili thakur ko trol karane vale logon par palatavar kiy",
+      "category_hinglish": "Entertainment"
+    },
+    {
+      "id": "4ca7e5f63ac4011f",
+      "title": "Yashasvi Jaiswal needs more ODI chances as backup opener before 2027 World Cup: Pathan",
+      "summary": "Former India all-rounder Irfan Pathan wants Yashasvi Jaiswal to get a consistent run in the upcoming ODI series against the West Indies, saying the opener needs enough opportunities to establish himself as India's backup opener before the 2027 World Cup.",
+      "category": "Sports",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/yashasvi-jaiswal-204137658-16x9.jpg?VersionId=XC6DqpBoEhzhU8xkrEL8HBVAZXnT09Km",
+      "source": "indiatoday.in",
+      "sourceUrl": "https://www.indiatoday.in/sports/cricket/story/irfan-pathan-yashasvi-jaiswal-chances-west-indies-odi-series-world-cup-2999091-2026-09-20",
+      "publishedAt": "2026-09-20T16:38:40.000Z",
+      "fetchedAt": "2026-09-20T16:52:11.037Z",
+      "title_hi": "यशस्वी जयसवाल को 2027 विश्व कप से पहले बैकअप ओपनर के रूप में अधिक वनडे मौके की जरूरत है: पठान",
+      "summary_hi": "",
+      "category_hi": "खेल",
+      "title_hinglish": "yashasvi jayasaval ko 2027 vishv kap se pahale baikap opanar ke rup men adhik vanade mauke ki jarurat hai: pathan",
+      "category_hinglish": "Sports"
     },
     {
       "id": "b13e4d492671894c",
@@ -121,18 +187,12 @@
       "source": "ANI News",
       "sourceUrl": "https://www.aninews.in/news/national/general-news/not-sparing-the-living-or-the-dead8221-owaisi-condemns-kanpur-cemetery-demolition20260920220842/",
       "publishedAt": "2026-09-20T16:38:00.000Z",
-      "fetchedAt": "2026-09-20T16:49:50.319Z"
-    },
-    {
-      "id": "c827994bbf7c5983",
-      "title": "Asian Games 2026 India schedule today, September 19: Opening Ceremony, Quimcy Dsouza in teqball on agenda",
-      "summary": "India's Asian Games 2026 schedule for today, Saturday, September 19, features the Opening Ceremony and Quimcy Dsouza in teqball. Know schedule and match start times.",
-      "category": "Sports",
-      "image": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/xs1u97qld0tmcur0t2ux",
-      "source": "olympics.com",
-      "sourceUrl": "https://www.olympics.com/en/news/asian-games-2026-india-schedule-today-september-19-saturday",
-      "publishedAt": "2026-09-20T16:29:32.000Z",
-      "fetchedAt": "2026-09-20T17:19:50.092Z"
+      "fetchedAt": "2026-09-20T16:49:50.319Z",
+      "title_hi": "\"जीवित या मृत को नहीं बख्शा जा रहा\": ओवेसी ने कानपुर कब्रिस्तान विध्वंस की निंदा की",
+      "summary_hi": "",
+      "category_hi": "राजनीति और सरकार",
+      "title_hinglish": "\"jivit y mrit ko nahin bakhsh j rah\": ovesi ne kanapur kabristan vidhvans ki nind ki",
+      "category_hinglish": "Politics aur Government"
     },
     {
       "id": "f9be4fc84aef9acd",
@@ -143,7 +203,28 @@
       "source": "Deccan Herald",
       "sourceUrl": "https://www.deccanherald.com/india/bihar/bihar-govts-coffers-empty-yet-crores-spent-on-pm-modis-birthday-celebrations-tejashwi-yadav-4152835",
       "publishedAt": "2026-09-20T10:50:15.000Z",
-      "fetchedAt": "2026-09-20T11:26:08.570Z"
+      "fetchedAt": "2026-09-20T11:26:08.570Z",
+      "title_hi": "बिहार सरकार का खजाना खाली, फिर भी पीएम मोदी के जन्मदिन समारोह पर करोड़ों खर्च: तेजस्वी यादव",
+      "summary_hi": "",
+      "category_hi": "राजनीति और सरकार",
+      "title_hinglish": "bihar sarakar k khajan khali, phir bhi piem modi ke janmadin samaroh par karodोn kharch: tejasvi yadav",
+      "category_hinglish": "Politics aur Government"
+    },
+    {
+      "id": "c827994bbf7c5983",
+      "title": "Asian Games 2026 India schedule today, September 19: Opening Ceremony, Quimcy Dsouza in teqball on agenda",
+      "summary": "India's Asian Games 2026 schedule for today, Saturday, September 19, features the Opening Ceremony and Quimcy Dsouza in teqball. Know schedule and match start times.",
+      "category": "Sports",
+      "image": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/xs1u97qld0tmcur0t2ux",
+      "source": "olympics.com",
+      "sourceUrl": "https://www.olympics.com/en/news/asian-games-2026-india-schedule-today-september-19-saturday",
+      "publishedAt": "2026-09-20T16:29:32.000Z",
+      "fetchedAt": "2026-09-20T17:19:50.092Z",
+      "title_hi": "एशियाई खेल 2026 का भारत कार्यक्रम आज, 19 सितंबर: उद्घाटन समारोह, टेकबॉल में क्विम्सी डिसूजा एजेंडे में",
+      "summary_hi": "",
+      "category_hi": "खेल",
+      "title_hinglish": "eshiyai khel 2026 k bharat karyakram aj, 19 sitanbar: udghatan samaroh, tekabॉl men kvimsi disuj ejende men",
+      "category_hinglish": "Sports"
     },
     {
       "id": "b062304ce5392bf7",
@@ -154,18 +235,12 @@
       "source": "The Times of India",
       "sourceUrl": "https://timesofindia.indiatimes.com/city/jodhpur/from-nepal-to-jodhpur-2-lawrence-gang-shooters-carrying-rs-5-lakh-reward-each-arrested-during-hotel-check-in/articleshow/134371410.cms",
       "publishedAt": "2026-09-20T16:18:00.000Z",
-      "fetchedAt": "2026-09-20T16:52:03.460Z"
-    },
-    {
-      "id": "5dc82b83d81ee720",
-      "title": "16 criminals on police radar in Fatehpur",
-      "summary": "Fatehpur police on Sunday opened history sheets of 16 criminals at 11 police stations of district including Hathgav (2), Hussainganj (2), Khaga (4) and one each at Kalyanpur, Bakewar, Lalauli , Jahanabad , Radha Nagar, Kotwali, Khakhareru and Malwa police stations.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134320548,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/allahabad/16-criminals-on-police-radar-in-fatehpur/articleshow/134371432.cms",
-      "publishedAt": "2026-09-20T16:11:00.000Z",
-      "fetchedAt": "2026-09-20T17:04:43.870Z"
+      "fetchedAt": "2026-09-20T16:52:03.460Z",
+      "title_hi": "नेपाल से जोधपुर तक: लॉरेंस गैंग के 2 शूटर, प्रत्येक पर 5 लाख रुपये का इनाम, होटल सी के दौरान गिरफ्तार",
+      "summary_hi": "",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "nepal se jodhapur tak: lॉrens gaing ke 2 shutar, pratyek par 5 lakh rupaye k inam, hotal si ke dauran giraphtar",
+      "category_hinglish": "Crime aur Breaking News"
     },
     {
       "id": "fd8bf5df45c97d56",
@@ -176,7 +251,28 @@
       "source": "The Times of India",
       "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/bhojpuri/movies/news/bhojpuri-actress-kajal-raghwani-is-safe-after-fans-chase-her-car-break-windows-at-bihar-sharif-showroom-launch/articleshow/134366365.cms",
       "publishedAt": "2026-09-20T10:14:00.000Z",
-      "fetchedAt": "2026-09-20T17:05:37.734Z"
+      "fetchedAt": "2026-09-20T17:05:37.734Z",
+      "title_hi": "प्रशंसकों द्वारा उनकी कार का पीछा करने के बाद भोजपुरी अभिनेत्री काजल राघवानी सुरक्षित रहीं, बिहारशरीफ शोरूम में खिड़कियां तोड़ीं",
+      "summary_hi": "",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "prashansakon dvar unaki kar k pichh karane ke bad bhojapuri abhinetri kajal raghavani surakshit rahin, biharashariph shorum men khidakiyan todीn",
+      "category_hinglish": "Entertainment"
+    },
+    {
+      "id": "5dc82b83d81ee720",
+      "title": "16 criminals on police radar in Fatehpur",
+      "summary": "Fatehpur police on Sunday opened history sheets of 16 criminals at 11 police stations of district including Hathgav (2), Hussainganj (2), Khaga (4) and one each at Kalyanpur, Bakewar, Lalauli , Jahanabad , Radha Nagar, Kotwali, Khakhareru and Malwa police stations.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134320548,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/allahabad/16-criminals-on-police-radar-in-fatehpur/articleshow/134371432.cms",
+      "publishedAt": "2026-09-20T16:11:00.000Z",
+      "fetchedAt": "2026-09-20T17:04:43.870Z",
+      "title_hi": "पुलिस के रडार पर 16 अपराधीफतेहपुर",
+      "summary_hi": "",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "pulis ke radar par 16 aparadhiphatehapur",
+      "category_hinglish": "Crime aur Breaking News"
     },
     {
       "id": "b22eb21bdbe07b7d",
@@ -187,7 +283,12 @@
       "source": "India Today",
       "sourceUrl": "https://bestcolleges.indiatoday.in/latest-news/school-assembly-news-headlines-today-september-21-top-national-sports-and-world-news-curated-for-you-11642",
       "publishedAt": "2026-09-20T16:03:53.000Z",
-      "fetchedAt": "2026-09-20T18:11:57.584Z"
+      "fetchedAt": "2026-09-20T18:11:57.584Z",
+      "title_hi": "स्कूल असेंबली समाचार आज की सुर्खियाँ - 21 सितंबर: शीर्ष राष्ट्रीय, खेल और विश्व समाचार आपके लिए तैयार किए गए हैं",
+      "summary_hi": "",
+      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
+      "title_hinglish": "skul asenbali samachar aj ki surkhiyan - 21 sitanbar: shirsh rashtriy, khel aur vishv samachar apake lie taiyar kie gae hain",
+      "category_hinglish": "National aur Trending News"
     },
     {
       "id": "54fa2a88107dfdf9",
@@ -198,51 +299,12 @@
       "source": "India Today",
       "sourceUrl": "https://www.indiatoday.in/sports/video/elavenil-valarivan-to-india-today-taking-lessons-is-actually-more-important-ytvd-2999060-2026-09-20",
       "publishedAt": "2026-09-20T15:19:20.000Z",
-      "fetchedAt": "2026-09-20T17:04:56.625Z"
-    },
-    {
-      "id": "cce0dae05b3c8b34",
-      "title": "India at Asian Games, September 21: IND vs PAK in spotlight, shooting medals at stake",
-      "summary": "India at Asian Games, schedule for September 21: India face Pakistan in men's and women's table tennis, while the women's hockey team takes on Indonesia. Shooting and swimming offer medal chances, with Suchika Tariyal, Sumit, Roshibina Devi and Aryan also set for key contests.",
-      "category": "Sports",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/indias-schedule-for-the-asian-games-on-monday--september-21-201710614-16x9_0.jpg?VersionId=GrHoak2Axq0WT3egbmQSzslGFyKSjcMb",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/sports/asian-games/story/india-asian-games-schedule-september-21-medal-events-timings-full-list-2999057-2026-09-20",
-      "publishedAt": "2026-09-20T15:17:57.000Z",
-      "fetchedAt": "2026-09-20T15:30:10.241Z"
-    },
-    {
-      "id": "5ff70aaff1a0df75",
-      "title": "From Digital Governance To AI Leadership Uttar Pradesh’s Next Growth Chapter",
-      "summary": "Uttar Pradesh is strengthening its journey towards becoming a leading digital and technology hub through progressive policies, robust infrastructure, and a strong focus on innovation, investment, and digital governance. Shri Alok Kumar, Principal Secretary, Department of IT & Electronics, Government of Uttar Pradesh, shares his insights on the State's technology…",
-      "category": "Technology",
-      "image": "https://egov.eletsonline.com/wp-content/uploads/2026/09/Shri-Alok-Kumar.jpg",
-      "source": "Elets eGov",
-      "sourceUrl": "https://egov.eletsonline.com/2026/09/from-digital-governance-to-ai-leadership-uttar-pradeshs-next-growth-chapter/",
-      "publishedAt": "2026-09-20T10:05:57.000Z",
-      "fetchedAt": "2026-09-20T18:44:22.342Z"
-    },
-    {
-      "id": "984562ab372588b4",
-      "title": "Vibe vs Daayra Box Office Collection Day 3: Kunal Kemmu's Film Widens Lead Over Kareena Kapoor Starrer In Opening Weekend",
-      "summary": "Vibe leads Daayra at the box office after three days, collecting Rs 6.77 crore against Rs 3.92 crore for Kareena Kapoor's crime thriller.",
-      "category": "Entertainment",
-      "image": "https://imgs.etvbharat.com/etvbharat/prod-images/20-09-2026/1200-675-27675447-796-27675447-1789916770637.jpg",
-      "source": "ETV Bharat",
-      "sourceUrl": "https://www.etvbharat.com/en/entertainment/vibe-vs-daayra-box-office-collection-day-3-kunal-kemmus-film-widens-lead-over-kareena-kapoor-starrer-in-opening-weekend-enn26092003539",
-      "publishedAt": "2026-09-20T15:07:24.000Z",
-      "fetchedAt": "2026-09-20T16:26:28.039Z"
-    },
-    {
-      "id": "89c346c232d941c1",
-      "title": "Vaibhav Sooryavanshi can be India's future but don't rush him: Sanath Jayasuriya",
-      "summary": "Vaibhav Sooryavanshi can be India's future, but the teenager should not be rushed into the playing XI, former Sri Lanka captain Sanath Jayasuriya said on Sunday, backing the young batter to make the most of his opportunities when they come his way.",
-      "category": "Sports",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/vaibhav-sooryavanshi-171302407-16x9_1.jpg?VersionId=9e6ok9S17WUvZyccx0w5cQvgJ4RAdAAp",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-india-do-not-rush-sanath-jayasuriya-playing-xi-2999050-2026-09-20",
-      "publishedAt": "2026-09-20T15:00:10.000Z",
-      "fetchedAt": "2026-09-20T15:15:31.019Z"
+      "fetchedAt": "2026-09-20T17:04:56.625Z",
+      "title_hi": "एलावेनिल वलारिवान इंडिया टुडे से: 'सबक लेना वास्तव में अधिक महत्वपूर्ण है' - इंडिया टुडे",
+      "summary_hi": "",
+      "category_hi": "खेल",
+      "title_hinglish": "elavenil valarivan indiy tude se: 'sabak len vastav men adhik mahatvapurn hai' - indiy tude",
+      "category_hinglish": "Sports"
     },
     {
       "id": "3ab8af1ef7196e83",
@@ -253,29 +315,44 @@
       "source": "IndulgExpress",
       "sourceUrl": "https://www.indulgexpress.com/amp/story/entertainment/celebs/2026/Sep/20/the-vvaan-sidharth-malhotra-and-tamannaah-bhatia-honour-bihars-chhath-rituals",
       "publishedAt": "2026-09-20T09:11:00.000Z",
-      "fetchedAt": "2026-09-20T16:52:51.875Z"
+      "fetchedAt": "2026-09-20T16:52:51.875Z",
+      "title_hi": "द वावन: सिद्धार्थ मल्होत्रा ​​और तमन्ना भाटिया बिहार के छठ अनुष्ठानों का सम्मान करते हैं",
+      "summary_hi": "",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "d vavan: siddharth malhotr ​​aur tamann bhatiy bihar ke chhath anushthanon k samman karate hain",
+      "category_hinglish": "Entertainment"
     },
     {
-      "id": "229be255942451c3",
-      "title": "School Assembly News Headlines (September 21): Top National, International, Sports News",
-      "summary": "School Assembly News Headlines (September 21): Stay updated and be ready to share your thoughts in the morning with these News Headlines.",
-      "category": "National & Trending News",
-      "image": "https://c.ndtvimg.com/2026-06/t37pdjno_muharram-school-holiday-2026_625x300_16_June_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "source": "ndtv.com",
-      "sourceUrl": "https://www.ndtv.com/education/school-assembly-news-headlines-september-20-top-national-international-sports-news-12072902",
-      "publishedAt": "2026-09-20T14:54:03.000Z",
-      "fetchedAt": "2026-09-20T15:15:42.556Z"
-    },
-    {
-      "id": "2c5b23497ed0656d",
-      "title": "Delhi Air Crisis, German Filter Cubes and Tech Innovations to Tackle Smog - India Today",
-      "summary": "A special episode of 'Pollution Ka Solution' explores innovations designed to combat severe air pollution in Delhi's hotspots. The report highlights the German-engineered Filter Cube technology developed by Mann+Hummel and introduced in India through MRH Technologies Private Limited. According to MRH Technologies Director Rajan Handa, the solution uses forced air…",
-      "category": "Technology",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/video/202609/cangermanfiltercubescleandelhissmog-s0-original-sixteen-to-nine.jpg?VersionId=wAnw12unNX543d3RfRKX.QoLbUM4s6yr",
+      "id": "cce0dae05b3c8b34",
+      "title": "India at Asian Games, September 21: IND vs PAK in spotlight, shooting medals at stake",
+      "summary": "India at Asian Games, schedule for September 21: India face Pakistan in men's and women's table tennis, while the women's hockey team takes on Indonesia. Shooting and swimming offer medal chances, with Suchika Tariyal, Sumit, Roshibina Devi and Aryan also set for key contests.",
+      "category": "Sports",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/indias-schedule-for-the-asian-games-on-monday--september-21-201710614-16x9_0.jpg?VersionId=GrHoak2Axq0WT3egbmQSzslGFyKSjcMb",
       "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/technology/video/delhi-air-crisis-german-filter-cubes-and-tech-innovations-to-tackle-smog-ytvd-2999035-2026-09-20",
-      "publishedAt": "2026-09-20T14:39:55.000Z",
-      "fetchedAt": "2026-09-20T17:05:19.838Z"
+      "sourceUrl": "https://www.indiatoday.in/sports/asian-games/story/india-asian-games-schedule-september-21-medal-events-timings-full-list-2999057-2026-09-20",
+      "publishedAt": "2026-09-20T15:17:57.000Z",
+      "fetchedAt": "2026-09-20T15:30:10.241Z",
+      "title_hi": "एशियाई खेलों में भारत, 21 सितंबर: भारत बनाम पाकिस्तान सुर्खियों में, दांव पर पदक",
+      "summary_hi": "",
+      "category_hi": "खेल",
+      "title_hinglish": "eshiyai khelon men bharat, 21 sitanbar: bharat banam pakistan surkhiyon men, danv par padak",
+      "category_hinglish": "Sports"
+    },
+    {
+      "id": "984562ab372588b4",
+      "title": "Vibe vs Daayra Box Office Collection Day 3: Kunal Kemmu's Film Widens Lead Over Kareena Kapoor Starrer In Opening Weekend",
+      "summary": "Vibe leads Daayra at the box office after three days, collecting Rs 6.77 crore against Rs 3.92 crore for Kareena Kapoor's crime thriller.",
+      "category": "Entertainment",
+      "image": "https://imgs.etvbharat.com/etvbharat/prod-images/20-09-2026/1200-675-27675447-796-27675447-1789916770637.jpg",
+      "source": "ETV Bharat",
+      "sourceUrl": "https://www.etvbharat.com/en/entertainment/vibe-vs-daayra-box-office-collection-day-3-kunal-kemmus-film-widens-lead-over-kareena-kapoor-starrer-in-opening-weekend-enn26092003539",
+      "publishedAt": "2026-09-20T15:07:24.000Z",
+      "fetchedAt": "2026-09-20T16:26:28.039Z",
+      "title_hi": "वाइब बनाम दायरा बॉक्स ऑफिस कलेक्शन दिन 3: ओपनिंग वीकेंड में कुणाल खेमू की फिल्म ने करीना कपूर स्टारर पर बढ़त बना ली है",
+      "summary_hi": "",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "vaib banam dayar bॉks ऑphis kalekshan din 3: opaning vikend men kunal khemu ki philm ne karin kapur starar par badhat ban li hai",
+      "category_hinglish": "Entertainment"
     },
     {
       "id": "3faf8d7918681ae3",
@@ -286,40 +363,44 @@
       "source": "Yahoo Sports",
       "sourceUrl": "https://sports.yahoo.com/articles/east-zone-cricketing-core-bihar-080100670.html",
       "publishedAt": "2026-09-20T08:01:00.000Z",
-      "fetchedAt": "2026-09-20T16:50:33.873Z"
+      "fetchedAt": "2026-09-20T16:50:33.873Z",
+      "title_hi": "पूर्वी क्षेत्र का नया क्रिकेटिंग कोर: कैसे बिहार और झारखंड की प्रतिभा ने दलीप ट्रॉफी जीत हासिल की",
+      "summary_hi": "",
+      "category_hi": "खेल",
+      "title_hinglish": "purvi kshetr k nay kriketing kor: kaise bihar aur jharakhand ki pratibh ne dalip trॉphi jit hasil ki",
+      "category_hinglish": "Sports"
     },
     {
-      "id": "0928b57567b164ca",
-      "title": "Jennifer Winget-William's Goa wedding is all things fun, Karan Wahi shares glimpses",
-      "summary": "Jennifer Winget and William Ishmael celebrated their Goa wedding gathering with friends from television and films. Videos and posts from the evening linked their intimate UK ceremony to a larger, festive reunion.",
-      "category": "Entertainment",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/jennifer-winget--william-ishmaels-goa-celebrations-are-all-things-fun-201533544-16x9_0.jpg?VersionId=UHtJtITy8JZyPj5EIjeDCjHdeO6MQ6m_",
+      "id": "89c346c232d941c1",
+      "title": "Vaibhav Sooryavanshi can be India's future but don't rush him: Sanath Jayasuriya",
+      "summary": "Vaibhav Sooryavanshi can be India's future, but the teenager should not be rushed into the playing XI, former Sri Lanka captain Sanath Jayasuriya said on Sunday, backing the young batter to make the most of his opportunities when they come his way.",
+      "category": "Sports",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/vaibhav-sooryavanshi-171302407-16x9_1.jpg?VersionId=9e6ok9S17WUvZyccx0w5cQvgJ4RAdAAp",
       "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/entertainment/television/story/jennifer-winget-william-ishmael-goa-wedding-celebration-karan-wahi-riteish-genelia-2999008-2026-09-20",
-      "publishedAt": "2026-09-20T14:35:03.000Z",
-      "fetchedAt": "2026-09-20T14:46:32.163Z"
+      "sourceUrl": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-india-do-not-rush-sanath-jayasuriya-playing-xi-2999050-2026-09-20",
+      "publishedAt": "2026-09-20T15:00:10.000Z",
+      "fetchedAt": "2026-09-20T15:15:31.019Z",
+      "title_hi": "वैभव सूर्यवंशी भारत का भविष्य हो सकते हैं लेकिन उन्हें जल्दबाजी न करें: सनथ जयसूर्या",
+      "summary_hi": "",
+      "category_hi": "खेल",
+      "title_hinglish": "vaibhav suryavanshi bharat k bhavishy ho sakate hain lekin unhen jaldabaji n karen: sanath jayasury",
+      "category_hinglish": "Sports"
     },
     {
-      "id": "10b1d0635eba7332",
-      "title": "How two elections reshaped the India–Bangladesh border",
-      "summary": "Since Bangladesh’s 2024 political transition, India-Bangladesh border “push-ins” have intensified, with thousands deported to Bangladesh outside agreed verification and repatriation procedures and ignoring disputed nationality claims.",
-      "category": "Politics & Government",
-      "image": "https://globalvoices.org/wp-content/uploads/2026/09/Indo-Bangladesh-Border-South-DInajpur-800x450.webp",
-      "source": "Global Voices",
-      "sourceUrl": "https://globalvoices.org/2026/09/20/how-two-elections-reshaped-the-india-bangladesh-border/",
-      "publishedAt": "2026-09-20T14:30:57.000Z",
-      "fetchedAt": "2026-09-20T14:34:57.081Z"
-    },
-    {
-      "id": "1c0f773d2da97dbd",
-      "title": "Hanuman Ansh Box Office Collection Day 45: Strong 7th Sunday Takes Film Closer To Rs 300 Cr India Net Milestone",
-      "summary": "Hanuman Ansh continues its impressive box office run on day 45, earning Rs 9.51 crore and taking its India net collection to Rs 267.64 crore.",
-      "category": "Entertainment",
-      "image": "https://imgs.etvbharat.com/etvbharat/prod-images/20-09-2026/1200-675-27674691-164-27674691-1789913586853.jpg",
-      "source": "ETV Bharat",
-      "sourceUrl": "https://www.etvbharat.com/amp/en/entertainment/hanuman-ansh-box-office-collection-day-45-strong-7th-sunday-takes-film-closer-to-rs-300-cr-india-net-milestone-enn26092002782",
-      "publishedAt": "2026-09-20T14:25:53.000Z",
-      "fetchedAt": "2026-09-20T18:44:01.261Z"
+      "id": "229be255942451c3",
+      "title": "School Assembly News Headlines (September 21): Top National, International, Sports News",
+      "summary": "School Assembly News Headlines (September 21): Stay updated and be ready to share your thoughts in the morning with these News Headlines.",
+      "category": "National & Trending News",
+      "image": "https://c.ndtvimg.com/2026-06/t37pdjno_muharram-school-holiday-2026_625x300_16_June_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "source": "ndtv.com",
+      "sourceUrl": "https://www.ndtv.com/education/school-assembly-news-headlines-september-20-top-national-international-sports-news-12072902",
+      "publishedAt": "2026-09-20T14:54:03.000Z",
+      "fetchedAt": "2026-09-20T15:15:42.556Z",
+      "title_hi": "स्कूल असेंबली समाचार मुख्य समाचार (21 सितंबर): शीर्ष राष्ट्रीय, अंतर्राष्ट्रीय, खेल समाचार",
+      "summary_hi": "",
+      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
+      "title_hinglish": "skul asenbali samachar mukhy samachar (21 sitanbar): shirsh rashtriy, antarrashtriy, khel samachar",
+      "category_hinglish": "National aur Trending News"
     },
     {
       "id": "c8dee49868675da4",
@@ -330,40 +411,28 @@
       "source": "The Economic Times",
       "sourceUrl": "https://economictimes.indiatimes.com/news/politics-and-nation/jan-suraaj-announces-candidates-for-5-bihar-legislative-council-seats/articleshow/134364901.cms?from=mdr",
       "publishedAt": "2026-09-20T07:12:48.000Z",
-      "fetchedAt": "2026-09-20T16:50:31.296Z"
+      "fetchedAt": "2026-09-20T16:50:31.296Z",
+      "title_hi": "जन सुराज ने 5 बिहार विधान परिषद सीटों के लिए उम्मीदवारों की घोषणा की",
+      "summary_hi": "",
+      "category_hi": "राजनीति और सरकार",
+      "title_hinglish": "jan suraj ne 5 bihar vidhan parishad siton ke lie ummidavaron ki ghoshan ki",
+      "category_hinglish": "Politics aur Government"
     },
     {
-      "id": "fa6ff15bc6faaaf5",
-      "title": "NIA arrests two key accused in Rs 17.29 crore counterfeit currency racket via Saharanpur PNB chest",
-      "summary": "The National Investigation Agency has arrested two individuals in Saharanpur for their alleged involvement. These arrests are linked to the circulation of counterfeit currency notes through a Punjab National Bank chest. The agency previously apprehended two other key accused in this ongoing investigation. Authorities discovered counterfeit notes with a face…",
-      "category": "National & Trending News",
-      "image": "https://img.etimg.com/thumb/msid-134370172,width-1200,height-630,imgsize-48362,overlay-economictimes/articleshow.jpg",
-      "source": "The Economic Times",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/india/nia-arrests-two-key-accused-in-rs-17-29-crore-counterfeit-currency-racket-via-saharanpur-pnb-chest/articleshow/134370135.cms?from=mdr",
-      "publishedAt": "2026-09-20T14:22:10.000Z",
-      "fetchedAt": "2026-09-20T18:44:16.997Z"
-    },
-    {
-      "id": "7fc539d9c9a00ac0",
-      "title": "Indian Diaspora in SA: Partnering India's Tech Future",
-      "summary": "Rajya Sabha Deputy Chairman Harivansh Singh calls on Indian diaspora in South Africa to invest in India",
+      "id": "2c5b23497ed0656d",
+      "title": "Delhi Air Crisis, German Filter Cubes and Tech Innovations to Tackle Smog - India Today",
+      "summary": "A special episode of 'Pollution Ka Solution' explores innovations designed to combat severe air pollution in Delhi's hotspots. The report highlights the German-engineered Filter Cube technology developed by Mann+Hummel and introduced in India through MRH Technologies Private Limited. According to MRH Technologies Director Rajan Handa, the solution uses forced air…",
       "category": "Technology",
-      "image": "https://im.rediff.com/news/2025/aug/11harivansh-singh.jpg?fr=money",
-      "source": "Rediff MoneyWiz",
-      "sourceUrl": "https://money.rediff.com/news/market/indian-diaspora-in-sa-partnering-india-s-tech-future/54682120260920",
-      "publishedAt": "2026-09-20T14:12:50.000Z",
-      "fetchedAt": "2026-09-20T18:44:08.109Z"
-    },
-    {
-      "id": "cfc13bb3c5844384",
-      "title": "Pakistan out of Asian Games after Sri Lanka cruise through to the final",
-      "summary": "Sri Lanka beat Pakistan by 8 wickets in the 2026 Asian Games women's semi-final. Athapaththu hit 83 not out to seal the win. Read more on CricTracker.",
-      "category": "Sports",
-      "image": "https://media.crictracker.com/media/attachments/1778926620139_Pakistan-Women's-Team.jpeg",
-      "source": "CricTracker",
-      "sourceUrl": "https://www.crictracker.com/cricket-news/pakistan-out-of-asian-games-after-sri-lanka-cruise-through-to-the-final/?amp=1",
-      "publishedAt": "2026-09-20T06:21:00.000Z",
-      "fetchedAt": "2026-09-20T18:44:21.121Z"
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/video/202609/cangermanfiltercubescleandelhissmog-s0-original-sixteen-to-nine.jpg?VersionId=wAnw12unNX543d3RfRKX.QoLbUM4s6yr",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/technology/video/delhi-air-crisis-german-filter-cubes-and-tech-innovations-to-tackle-smog-ytvd-2999035-2026-09-20",
+      "publishedAt": "2026-09-20T14:39:55.000Z",
+      "fetchedAt": "2026-09-20T17:05:19.838Z",
+      "title_hi": "दिल्ली वायु संकट, जर्मन फ़िल्टर क्यूब्स और स्मॉग से निपटने के लिए तकनीकी नवाचार - इंडिया टुडे",
+      "summary_hi": "",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "dilli vayu sankat, jarman phिltar kyubs aur smॉg se nipatane ke lie takaniki navachar - indiy tude",
+      "category_hinglish": "Technology"
     }
   ]
 }
