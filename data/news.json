@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-20T00:39:55.066Z",
+  "updatedAt": "2026-09-20T00:55:27.843Z",
   "count": 250,
   "articles": [
+    {
+      "id": "5424c975a390f386",
+      "title": "'Mirzapur: The Movie' box office collection day 16: Pankaj Tripathi and Ali Fazal starrer records 63.6% g",
+      "summary": "The Movie' recorded an impressive increase in its box office earnings on Saturday, September 19. The movie collected Rs 4.50 cr in India net on Day 16, according to Sacnilk.",
+      "category": "Entertainment",
+      "image": "https://static.toiimg.com/thumb/msid-134362512,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/mirzapur-the-movie-box-office-collection-day-16-pankaj-tripathi-and-ali-fazal-starrer-records-63-6-growth-earns-rs-4-50-cr-on-saturday-india-gross-reaches-rs-250-94-cr/articleshow/134362509.cms",
+      "publishedAt": "2026-09-20T00:38:00.000Z",
+      "fetchedAt": "2026-09-20T00:55:23.310Z"
+    },
     {
       "id": "a547b1c6c3242b69",
       "title": "Bilibili, 'China's YouTube', draws Indian creators despite no India launch, as India-China ties thaw and Y",
@@ -2740,17 +2751,6 @@
       "sourceUrl": "https://www.telegraphindia.com/sports/cricket/asian-games-chaos-hits-india-cricket-team/cid/2180677",
       "publishedAt": "2026-09-19T07:56:37.000Z",
       "fetchedAt": "2026-09-19T12:54:48.731Z"
-    },
-    {
-      "id": "ff01e7fb8619e8c4",
-      "title": "‘We should not waste our energy’: Manu Bhaker urges Indian athletes to look beyond Asian Games chaos",
-      "summary": "Shooting ace Manu Bhaker has urged her fellow Indian athletes to put the organisational issues surrounding the Asian Games behind them and focus on competition, saying the continental showpiece represents a “once in a lifetime opportunity and experience”.",
-      "category": "Sports",
-      "image": "https://static.toiimg.com/thumb/msid-134350243,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/we-should-not-waste-our-energy-manu-bhaker-urges-indian-athletes-to-look-beyond-asian-games-chaos/articleshow/134350217.cms",
-      "publishedAt": "2026-09-19T07:52:00.000Z",
-      "fetchedAt": "2026-09-19T08:54:50.627Z"
     }
   ]
 }
