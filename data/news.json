@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-09-20T11:26:23.595Z",
+  "updatedAt": "2026-09-20T11:39:48.628Z",
   "count": 250,
   "articles": [
+    {
+      "id": "999fb84652462f33",
+      "title": "Row Over Student Event Mimicry Sparks Political War Of Words Ahead Of Mumbai Outreach - India Today",
+      "summary": "A major political controversy has emerged following a student outreach event held in Indore, where an interaction involving mimicry prompted sharp criticism from political leaders. The event is part of a nationwide series of student outreach programmes organised across several cities, including Pune, with another session scheduled to take place…",
+      "category": "Politics & Government",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/video/202609/politicalwarofwordsoverstudentevent-s0-original-sixteen-to-nine.jpg?VersionId=ZDUeLyra7Sw6K6V2VtG5o_mvIyYtMv2j",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/india/video/row-over-student-event-mimicry-sparks-political-war-of-words-ahead-of-mumbai-outreach-ytvd-2998906-2026-09-20",
+      "publishedAt": "2026-09-20T11:27:53.000Z",
+      "fetchedAt": "2026-09-20T11:39:34.478Z"
+    },
+    {
+      "id": "a4bcee89cdfc8490",
+      "title": "Kangana Ranaut HITS BACK at people trolling Maithili Thakur for arriving in Rolls-Royce at Lalbaugcha Raj",
+      "summary": "Kangana Ranaut has come out in support of young singing talent and Bihar MLA Maithili Thakur, who was trolled for visiting Mumbai's Lalbaugcha Raja pandal in a luxury Rolls-Royce Cullinan. Kangana asked why critics feel hurt whenever politicians try to make their own lives better.",
+      "category": "Entertainment",
+      "image": "https://static.toiimg.com/thumb/msid-134367497,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-hits-back-at-people-trolling-maithili-thakur-for-arriving-in-rolls-royce-at-lalbaugcha-raja-some-people-a-start-to-burn/articleshow/134367439.cms",
+      "publishedAt": "2026-09-20T11:27:00.000Z",
+      "fetchedAt": "2026-09-20T11:39:40.819Z"
+    },
+    {
+      "id": "6643190545090bf6",
+      "title": "Indian tech industry bodies call for joint work to achieve national goals at Semicon India 2026",
+      "summary": "This is the first time major industry bodies, semiconductor groupings Semi and Indian Electronics and Semiconductor Association (IESA), mobile device makers body Indian Electronics and Cellular Association, IT hardware body MAIT and electronics components grouping Elcina came together at the event to explore mechanisms to work together.",
+      "category": "National & Trending News",
+      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-177418,resizemode-75,msid-134367370/tech/technology/indian-tech-industry-bodies-call-for-joint-work-to-achieve-national-goals-at-semicon-india-2026.jpg",
+      "source": "The Economic Times",
+      "sourceUrl": "https://economictimes.indiatimes.com/tech/technology/indian-tech-industry-bodies-call-for-joint-work-to-achieve-national-goals-at-semicon-india-2026/articleshow/134367370.cms?from=mdr",
+      "publishedAt": "2026-09-20T11:20:34.000Z",
+      "fetchedAt": "2026-09-20T11:39:48.304Z"
+    },
+    {
+      "id": "b06a6f0ddba52b3f",
+      "title": "Quimcy D'Souza's Teqball Dream: A New Sport For India",
+      "summary": "Quimcy D'Souza's Teqball Dream: A New Sport For India. This update was reported by rediff.com. Open the original report for full context and any developing updates.",
+      "category": "Sports",
+      "image": "https://im.rediff.com/1200-630/sports/2026/sep/19quimcy1.jpg",
+      "source": "rediff.com",
+      "sourceUrl": "https://www.rediff.com/sports/report/quimcy-dsouzas-teqball-journey-to-popularize-sport-in-india/20260920.htm",
+      "publishedAt": "2026-09-20T11:15:34.000Z",
+      "fetchedAt": "2026-09-20T11:39:40.245Z"
+    },
     {
       "id": "35aef3e291ad2725",
       "title": "Shafali Verma’s 49-ball 100 takes India to gold medal clash in Asian Games",
@@ -69,6 +113,17 @@
       "fetchedAt": "2026-09-20T10:45:10.989Z"
     },
     {
+      "id": "6a19e9c2e6f76edd",
+      "title": "Indian Firms Moving AI From Pilots Towards Deployment: Salesforce",
+      "summary": "Salesforce says Indian enterprises are shifting from AI experimentation to production deployments, with demand rising for agentic AI, talent and stronger governance systems.",
+      "category": "Technology",
+      "image": "https://c.ndtvimg.com/2026-09/pem228ao_salesforce_625x300_20_September_26.jpeg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "source": "NDTV Profit",
+      "sourceUrl": "https://www.ndtvprofit.com/technology/indian-firms-moving-ai-from-pilots-towards-deployment-salesforce-12072002",
+      "publishedAt": "2026-09-20T10:34:22.000Z",
+      "fetchedAt": "2026-09-20T11:39:42.395Z"
+    },
+    {
       "id": "e0ab54a121c13bc3",
       "title": "4 new South Indian movies releasing from September 21 to 27, 2026",
       "summary": "4 new South Indian movies releasing from September 21 to 27, 2026. This update was reported by Lifestyle Asia Hong Kong. Open the original report for full context and any developing updates.",
@@ -78,6 +133,17 @@
       "sourceUrl": "https://www.lifestyleasia.com/ind/entertainment/movies/new-upcoming-south-indian-movies-in-theatres-and-on-ott-from-21-to-27-september-2026-jiohotstar/",
       "publishedAt": "2026-09-20T10:33:52.000Z",
       "fetchedAt": "2026-09-20T11:11:52.868Z"
+    },
+    {
+      "id": "a812b505e1325ed3",
+      "title": "Asian Games: Mandaviya meets OCA Director General, discusses strengthening sporting cooperation",
+      "summary": "Union Youth Affairs and Sports Minister Mansukh Mandaviya met Olympic Council of Asia (OCA) Director General and World Aquatics President Captain Husain Al-Musallam in Nagoya on the sidelines of the 20th Asian Games. The two sides discussed ways to strengthen sporting cooperation between India and the wider Asian sporting community.…",
+      "category": "Sports",
+      "image": "https://ddindia.co.in/wp-content/uploads/2026/09/202609193946944.jpg",
+      "source": "DD India",
+      "sourceUrl": "https://ddindia.co.in/2026/09/asian-games-mandaviya-meets-oca-director-general-discusses-strengthening-sporting-cooperation/",
+      "publishedAt": "2026-09-20T10:27:23.000Z",
+      "fetchedAt": "2026-09-20T11:39:39.967Z"
     },
     {
       "id": "1929cdfddfbac7d9",
@@ -133,6 +199,17 @@
       "sourceUrl": "https://www.manufacturingtodayindia.com/semi-and-idta-map-indias-semiconductor-talent-pipeline",
       "publishedAt": "2026-09-20T10:02:32.000Z",
       "fetchedAt": "2026-09-20T11:26:16.093Z"
+    },
+    {
+      "id": "bba1f1eccdeeef4f",
+      "title": "India's exports to core BRICS markets surge 34% in April-August; China leads",
+      "summary": "India's exports to core BRICS nations surged 34% to $19.9 billion, driven by strong demand from China and South Africa.",
+      "category": "National & Trending News",
+      "image": "https://th-i.thgim.com/public/news/national/r3k9h0/article71487459.ece/alternates/LANDSCAPE_1200/iStock-1663499181.jpg",
+      "source": "The Hindu",
+      "sourceUrl": "https://www.thehindu.com/news/national/indias-exports-to-core-brics-markets-surge-34-in-april-august-china-leads/article71487434.ece",
+      "publishedAt": "2026-09-20T10:00:54.000Z",
+      "fetchedAt": "2026-09-20T11:39:48.628Z"
     },
     {
       "id": "bb57f3435a7e1998",
@@ -2674,83 +2751,6 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/videos/entertainment/regional/kannada/warrior-official-trailer/videoshow/134357464.cms",
       "publishedAt": "2026-09-19T16:52:04.000Z",
       "fetchedAt": "2026-09-19T17:36:52.625Z"
-    },
-    {
-      "id": "f5d5ad1337645f3d",
-      "title": "Kasturirangan report: K’taka govt would take steps to protect farmers interest, says CM",
-      "summary": "Chikkamagaluru (Karnataka), Sept 19 (PTI) Karnataka Chief Minister D K Shivakumar on Saturday assured farmers in the Malnad region that his government would take steps to protect their interests amid concerns over the implementation of the Kasturirangan report on Western Ghats ecologically sensitive areas. He said the government would consider…",
-      "category": "Politics & Government",
-      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
-      "source": "ThePrint",
-      "sourceUrl": "https://theprint.in/india/kasturirangan-report-ktaka-govt-would-take-steps-to-protect-farmers-interest-says-cm/3047702/",
-      "publishedAt": "2026-09-19T16:47:00.000Z",
-      "fetchedAt": "2026-09-19T17:36:48.227Z"
-    },
-    {
-      "id": "2220505f12d2828b",
-      "title": "National education seminar stresses need for curriculum overhaul",
-      "summary": "Experts who attended the Sankalp 2047 National Education Seminar called for a complete overhaul of curriculum, teaching methods and assessment systems to keep pace with rapidly advancing technology. The two-day seminar was jointly organised in Kochi by National Council of CBSE Schools and Council of CBSE Schools Keralam.",
-      "category": "National & Trending News",
-      "image": "https://static.toiimg.com/thumb/msid-134357387,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/kochi/national-education-seminar-stresses-need-for-curriculum-overhaul/articleshow/134357388.cms",
-      "publishedAt": "2026-09-19T16:47:00.000Z",
-      "fetchedAt": "2026-09-19T17:36:58.275Z"
-    },
-    {
-      "id": "c457e50f0b39b5e5",
-      "title": "Pilot Body Seeks Broader Audit Of Boeing 787 Tech Records In AI-171 Probe",
-      "summary": "According to the pilots' body, the Boeing 787's highly integrated 'More Electric Aircraft' architecture makes electrical generation, distribution, monitoring and data-network systems central to safe operation.",
-      "category": "Technology",
-      "image": "https://c.ndtvimg.com/2026-06/2ll7uadk_image_160x120_11_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "source": "NDTV",
-      "sourceUrl": "https://www.ndtv.com/india-news/pilot-body-seeks-broader-audit-of-boeing-787-tech-records-in-ai-171-probe-12069895",
-      "publishedAt": "2026-09-19T16:45:02.000Z",
-      "fetchedAt": "2026-09-19T17:48:10.290Z"
-    },
-    {
-      "id": "791021f928b07b51",
-      "title": "Rahul Gandhi says ‘system has captured entire country’ at Indore event; MP CM calls him ‘careless politician’ | India News",
-      "summary": "The leader of opposition in Lok Sabha highlighted vacancy in teachers' posts in the country, while stating that students are the “future of India.” | India News",
-      "category": "Politics & Government",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/19/1600x900/logo/rahul_vs_mohan_yadav__1789836418062_tbRb_1789836426009_m5kV_2ebaecc6-37e8-4b89-9962-26249a466675_i3vU.png",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/india-news/rahul-gandhis-system-attack-in-indore-draws-madhya-pradesh-cm-mohan-yadav-careless-politician-retort-101789828572927.html",
-      "publishedAt": "2026-09-19T16:42:35.000Z",
-      "fetchedAt": "2026-09-19T16:56:03.256Z"
-    },
-    {
-      "id": "5d048650f15dc46f",
-      "title": "IIT-Bombay suicide case: Crime Branch takes over probe after parents refuse to take son’s body",
-      "summary": "The probe in the abetment of suicide case of an IIT-Bombay student was transferred to the Mumbai Police's crime branch late on Saturday.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134357220,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/mumbai/iit-bombay-suicide-case-crime-branch-takes-over-probe-after-parents-refuse-to-take-sons-body/articleshow/134357202.cms",
-      "publishedAt": "2026-09-19T16:37:00.000Z",
-      "fetchedAt": "2026-09-19T17:36:49.000Z"
-    },
-    {
-      "id": "01e1f8622a67efef",
-      "title": "Swedish industry leaders optimistic about stronger India-Europe business collaboration after India-EU FTA",
-      "summary": "Swedish industry leaders optimistic about stronger India-Europe business collaboration after India-EU FTA. This update was reported by News On AIR. Open the original report for full context and any developing updates.",
-      "category": "Technology",
-      "image": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%221200%22%20height%3D%22675%22%20viewBox%3D%220%200%201200%20675%22%3E%3Crect%20width%3D%221200%22%20height%3D%22675%22%20fill%3D%22%230b0b10%22%2F%3E%3Ccircle%20cx%3D%22980%22%20cy%3D%22150%22%20r%3D%22180%22%20fill%3D%22%23ff3045%22%20opacity%3D%220.25%22%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22270%22%20fill%3D%22%23ffffff%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2292%22%20font-weight%3D%22700%22%3ENewsTeen75%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22370%22%20fill%3D%22%23ff3045%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2246%22%20font-weight%3D%22700%22%3ETechnology%3C%2Ftext%3E%3Ctext%20x%3D%2280%22%20y%3D%22455%22%20fill%3D%22%23b7b7c2%22%20font-family%3D%22Arial%2Csans-serif%22%20font-size%3D%2232%22%3ELatest%20news%20update%3C%2Ftext%3E%3C%2Fsvg%3E",
-      "source": "News On AIR",
-      "sourceUrl": "https://newsonair.gov.in/india-eu-fta-to-boost-trade-technology-cooperation-and-investment-ties-with-sweden/",
-      "publishedAt": "2026-09-19T16:35:35.000Z",
-      "fetchedAt": "2026-09-19T20:17:58.720Z"
-    },
-    {
-      "id": "f78217f90cb5d6db",
-      "title": "Arsenal get pecked by the seagulls in Brighton rout, Spurs' losing streak continues",
-      "summary": "Arsenal's perfect start to the Premier League season came crashing down as Brighton stunned the champions 3-0. Tottenham also remained winless after a 3-2 home defeat to Aston Villa, while Everton and Newcastle picked up victories.",
-      "category": "Sports",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/arsenal-193214703-16x9_0.jpg?VersionId=ez6x5ME8E5S.__5uMZpqC1IEC9Ru15u5",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/sports/football/story/arsenal-brighton-tottenham-aston-villa-premier-league-wrap-2998557-2026-09-19",
-      "publishedAt": "2026-09-19T16:34:28.000Z",
-      "fetchedAt": "2026-09-19T17:36:50.327Z"
     }
   ]
 }
