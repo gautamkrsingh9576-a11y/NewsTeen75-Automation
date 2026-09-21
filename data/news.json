@@ -1,7 +1,24 @@
 {
-  "updatedAt": "2026-09-21T03:51:26.072Z",
+  "updatedAt": "2026-09-21T04:02:28.238Z",
   "count": 33,
   "articles": [
+    {
+      "id": "373cce117abc7275",
+      "title": "Suchika Tariyal creates history, wins India's maiden MMA medal at Asian Games 2026",
+      "summary": "Suchika Tariyal wins a historic bronze medal for India in women’s traditional 60kg MMA at the Asian Games 2026 after losing her semi-final to Singapore’s Teo Hui Hoon.",
+      "category": "Sports",
+      "image": "https://static.toiimg.com/thumb/msid-134379266,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/suchika-tariyal-creates-history-wins-indias-maiden-mma-medal-at-asian-games-2026/articleshow/134379210.cms",
+      "publishedAt": "2026-09-21T03:49:00.000Z",
+      "fetchedAt": "2026-09-21T04:02:05.198Z",
+      "title_hi": "सुचिका तरियाल ने इतिहास रचा, एशियाई खेल 2026 में भारत के लिए पहला एमएमए पदक जीता",
+      "summary_hi": "सुचिका तरियाल ने एशियाई खेलों 2026 में महिलाओं के पारंपरिक 60 किग्रा एमएमए में सिंगापुर की टेओ हुई हून से सेमीफाइनल में हारने के बाद भारत के लिए ऐतिहासिक कांस्य पदक जीता।",
+      "category_hi": "खेल",
+      "title_hinglish": "suchika tariyala ne itihasa rach, eshiyaee khela 2026 men bharata ke lie pahala emaemae padaka jita",
+      "summary_hinglish": "suchika tariyala ne eshiyaee khelon 2026 men mahilaon ke paranparika 60 kigra emaemae men singapura ki teo huee huna se semiphainala men harane ke bada bharata ke lie aitihasika kansya padaka jita।",
+      "category_hinglish": "Sports"
+    },
     {
       "id": "81ae4468676b4aa1",
       "title": "Indian equities have delivered muted returns. Where are rich investors putting their money now?",
@@ -20,23 +37,6 @@
       "category_hinglish": "Business aur Finance"
     },
     {
-      "id": "994b08238ab80443",
-      "title": "Taylor Swift points to wedding ring, says 'That's my husband' after Kelce's touchdown",
-      "summary": "Taylor Swift celebrated Travis Kelce's touchdown from the Chiefs' VIP box, pointing to her wedding ring and mouthing, \"That's my husband.\" The clip quickly went viral as another public show of support in their closely watched relationship.",
-      "category": "Entertainment",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/taylor-swift-210508991-16x9_0.jpg?VersionId=9Kp6lvmwwulRSlNsNua1ThvtNZm5zrSa",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/amp/entertainment/music/story/taylor-swift-points-to-wedding-ring-after-travis-kelce-touchdown-2999195-2026-09-21",
-      "publishedAt": "2026-09-21T03:15:52.000Z",
-      "fetchedAt": "2026-09-21T03:18:46.995Z",
-      "title_hi": "केल्स के टचडाउन के बाद टेलर स्विफ्ट ने शादी की अंगूठी की ओर इशारा करते हुए कहा, 'यह मेरे पति हैं।'",
-      "summary_hi": "टेलर स्विफ्ट ने चीफ्स वीआईपी बॉक्स से ट्रैविस केल्स के टचडाउन का जश्न मनाया, अपनी शादी की अंगूठी की ओर इशारा करते हुए कहा, \"वह मेरे पति हैं।\" यह क्लिप तेजी से वायरल हो गई और उनके नज़दीकी संबंधों के समर्थन में एक और सार्वजनिक प्रदर्शन बन गया।",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "kelsa ke tachadauna ke bada telara sviphta ne shadi ki anguthi ki ora ishara karate hue kah, 'yaha mere pati hain।'",
-      "summary_hinglish": "telara sviphta ne chiphsa viaaeepi boksa se traivisa kelsa ke tachadauna ka jashna manay, apani shadi ki anguthi ki ora ishara karate hue kah, \"vaha mere pati hain।\" yaha klipa teji se vayarala ho gaee aura unake najadiki sanbandhon ke samarthana men eka aura sarvajanika pradarshana bana gaya।",
-      "category_hinglish": "Entertainment"
-    },
-    {
       "id": "7a5f20ee3c6e5fbc",
       "title": "Watch! Bhojpuri actress Kajal Raghwani mobbed, car attacked by crowd in Bihar - Mid-Day",
       "summary": "Bhojpuri actress Kajal Raghwani was recently mobbed, and her car was attacked while visiting Bihar Sharif for an event. She later assured fans she is safe",
@@ -51,6 +51,23 @@
       "category_hi": "मनोरंजन",
       "title_hinglish": "ghadaी! bihara men bhida ne bhojapuri abhinetri kajala raghavani ki kara para hamala kiya - mida-de",
       "summary_hinglish": "bhojapuri abhinetri kajala raghavani ko hala hi men eka karyakrama ke lie biharasharipha jate samaya bhida ne ghera liya aura unaki kara para hamala kiya gaya। bada men unhonne prashansakon ko aashvasana diya ki vaha surakshita hain",
+      "category_hinglish": "Entertainment"
+    },
+    {
+      "id": "994b08238ab80443",
+      "title": "Taylor Swift points to wedding ring, says 'That's my husband' after Kelce's touchdown",
+      "summary": "Taylor Swift celebrated Travis Kelce's touchdown from the Chiefs' VIP box, pointing to her wedding ring and mouthing, \"That's my husband.\" The clip quickly went viral as another public show of support in their closely watched relationship.",
+      "category": "Entertainment",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/taylor-swift-210508991-16x9_0.jpg?VersionId=9Kp6lvmwwulRSlNsNua1ThvtNZm5zrSa",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/amp/entertainment/music/story/taylor-swift-points-to-wedding-ring-after-travis-kelce-touchdown-2999195-2026-09-21",
+      "publishedAt": "2026-09-21T03:15:52.000Z",
+      "fetchedAt": "2026-09-21T03:18:46.995Z",
+      "title_hi": "केल्स के टचडाउन के बाद टेलर स्विफ्ट ने शादी की अंगूठी की ओर इशारा करते हुए कहा, 'यह मेरे पति हैं।'",
+      "summary_hi": "टेलर स्विफ्ट ने चीफ्स वीआईपी बॉक्स से ट्रैविस केल्स के टचडाउन का जश्न मनाया, अपनी शादी की अंगूठी की ओर इशारा करते हुए कहा, \"वह मेरे पति हैं।\" यह क्लिप तेजी से वायरल हो गई और उनके नज़दीकी संबंधों के समर्थन में एक और सार्वजनिक प्रदर्शन बन गया।",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "kelsa ke tachadauna ke bada telara sviphta ne shadi ki anguthi ki ora ishara karate hue kah, 'yaha mere pati hain।'",
+      "summary_hinglish": "telara sviphta ne chiphsa viaaeepi boksa se traivisa kelsa ke tachadauna ka jashna manay, apani shadi ki anguthi ki ora ishara karate hue kah, \"vaha mere pati hain।\" yaha klipa teji se vayarala ho gaee aura unake najadiki sanbandhon ke samarthana men eka aura sarvajanika pradarshana bana gaya।",
       "category_hinglish": "Entertainment"
     },
     {
@@ -71,21 +88,6 @@
       "summary_hinglish": "isake bada haramita ne sangharsha karane ki koshisha ki lekina alamiyana ke hathon 10-12, 15-13, 3-11, 12-10, 2-11 se hara gae।"
     },
     {
-      "id": "742665a1a22334b0",
-      "title": "Prakash Raj on his college days: ‘I was involved in struggles even then’ - mid-day.com",
-      "summary": "Prakash Raj recalled his college days at an alumni meet in Tiruchirappalli, saying he participated in protests even then and eventually left college",
-      "category": "Entertainment",
-      "image": "https://images.mid-day.com/images/images/2026/sep/prakash-jh-1789957619710_d.png",
-      "source": "mid-day.com",
-      "sourceUrl": "https://www.mid-day.com/amp/entertainment/regional-indian-cinema-news/article/acting-is-my-profession-struggle-protest-is-my-life-prakash-raj-addresses-gathering-at-tiruchirappalli-23651033",
-      "publishedAt": "2026-09-21T02:45:00.000Z",
-      "fetchedAt": "2026-09-21T03:36:05.994Z",
-      "title_hi": "",
-      "summary_hi": "",
-      "category_hi": "मनोरंजन",
-      "category_hinglish": "Entertainment"
-    },
-    {
       "id": "b0a7445d8fa7d0e5",
       "title": "Bihar forms SIT to probe vehicle insurance fraud, tightens challan norms",
       "summary": "The Bihar Police have taken a series of measures to curb insurance fraud and improve traffic enforcement, including the formation of a Special Investigation Team (SIT) under the Crime Investigation Department (CID) to probe suspected ‘vehicle implant’ scams, stricter norms for issuing traffic challans and a directive to release accident-hit…",
@@ -101,6 +103,21 @@
       "title_hinglish": "bihar ne vahan bim dhokhadhadी ki janch ke lie esaaiti gathit ki, chalan manadand sakht kie",
       "category_hinglish": "Crime aur Breaking News",
       "summary_hinglish": "bihara pulisa ne bima dhokhadhadaी ko rokane aura yatayata pravartana men sudhara ke lie kaee kadama uthae hain, jisamen sandigdha 'vahana pratyaropana' ghotalon ki jancha ke lie aparadha jancha vibhaga (siaaeedi) ke tahata eka vishesha jancha dala (esaaaeeti) ka gathan, yatayata chalana jari karane ke lie sakhta manadanda aura durghatana-prabhavita logon ko riha karane ka nirdesha shamila hai..."
+    },
+    {
+      "id": "742665a1a22334b0",
+      "title": "Prakash Raj on his college days: ‘I was involved in struggles even then’ - mid-day.com",
+      "summary": "Prakash Raj recalled his college days at an alumni meet in Tiruchirappalli, saying he participated in protests even then and eventually left college",
+      "category": "Entertainment",
+      "image": "https://images.mid-day.com/images/images/2026/sep/prakash-jh-1789957619710_d.png",
+      "source": "mid-day.com",
+      "sourceUrl": "https://www.mid-day.com/amp/entertainment/regional-indian-cinema-news/article/acting-is-my-profession-struggle-protest-is-my-life-prakash-raj-addresses-gathering-at-tiruchirappalli-23651033",
+      "publishedAt": "2026-09-21T02:45:00.000Z",
+      "fetchedAt": "2026-09-21T03:36:05.994Z",
+      "title_hi": "",
+      "summary_hi": "",
+      "category_hi": "मनोरंजन",
+      "category_hinglish": "Entertainment"
     },
     {
       "id": "79dec3df954050ed",
@@ -137,23 +154,6 @@
       "summary_hinglish": "eshiyana gemsa tebala tenisa men bharata ki mahilaon ne pakistana ko 3-0 se hara diya aura hara maicha ke bada hatha milay. parinama ne bharata ko kvartara phainala men pahuncha diya aura yaha rekhankita kiya ki khela protokola kriketa se pare kaise bhinna hai।"
     },
     {
-      "id": "e84e061d6505ae1a",
-      "title": "27 years of watching technology change everything, and almost nothing",
-      "summary": "From bulky desktops and paper workflows to AI copilots and intelligent enterprises, this personal journey through nearly three decades of tech reveals how the internet and artificial intelligence reshaped business, work and everyday life without changing what people ultimately value.",
-      "category": "Technology",
-      "image": "https://media.fortuneindia.com/fortune-india/import/2025-02-09/5ltj1f78/sindhu.jpg?w=1200&ar=40:21&auto=format,compress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "source": "Fortune India",
-      "sourceUrl": "https://www.fortuneindia.com/opinion/27-years-of-watching-technology-change-everything-and-almost-nothing/160233",
-      "publishedAt": "2026-09-21T02:30:00.000Z",
-      "fetchedAt": "2026-09-21T02:47:13.479Z",
-      "title_hi": "प्रौद्योगिकी को सब कुछ बदलते हुए देखने के 27 साल, और लगभग कुछ भी नहीं",
-      "summary_hi": "भारी डेस्कटॉप और पेपर वर्कफ़्लो से लेकर एआई सह-पायलट और बुद्धिमान उद्यमों तक, लगभग तीन दशकों की तकनीक के माध्यम से यह व्यक्तिगत यात्रा बताती है कि कैसे इंटरनेट और कृत्रिम बुद्धिमत्ता ने लोगों के मूल्यों को बदले बिना व्यवसाय, कार्य और रोजमर्रा की जिंदगी को नया आकार दिया।",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "praudyogiki ko saba kuchha badalate hue dekhane ke 27 sal, aura lagabhaga kuchha bhi nahin",
-      "summary_hinglish": "bhari deskatopa aura pepara varkaphalo se lekara eaaee saha-payalata aura buddhimana udyamon tak, lagabhaga tina dashakon ki takanika ke madhyama se yaha vyaktigata yatra batati hai ki kaise intaraneta aura kritrima buddhimatta ne logon ke mulyon ko badale bina vyavasay, karya aura rojamarra ki jindagi ko naya aakara diya।",
-      "category_hinglish": "Technology"
-    },
-    {
       "id": "a4bcee89cdfc8490",
       "title": "Kangana Ranaut HITS BACK at people trolling Maithili Thakur for arriving in Rolls-Royce at Lalbaugcha Raj",
       "summary": "Kangana Ranaut has come out in support of young singing talent and Bihar MLA Maithili Thakur, who was trolled for visiting Mumbai's Lalbaugcha Raja pandal in a luxury Rolls-Royce Cullinan. Kangana asked why critics feel hurt whenever politicians try to make their own lives better.",
@@ -169,6 +169,23 @@
       "title_hinglish": "kangan ranaut ne lalabagach raj men rols-rॉyas men pahunchane ke lie maithili thakur ko trol karane vale logon par palatavar kiy",
       "category_hinglish": "Entertainment",
       "summary_hinglish": "kangana ranauta yuva gayana pratibha aura bihara vidhayaka maithili thakura ke samarthana men samane aaee hain, jinhen lakjari rolsa-royasa kalinana men munbaee ke lalabagacha raja pandala men jane ke lie trola kiya gaya tha। kangana ne puchha ki jaba bhi rajaneta apane jivana ko behatara banane ki koshisha karate hain to aalochakon ko dukha kyon hota hai।"
+    },
+    {
+      "id": "e84e061d6505ae1a",
+      "title": "27 years of watching technology change everything, and almost nothing",
+      "summary": "From bulky desktops and paper workflows to AI copilots and intelligent enterprises, this personal journey through nearly three decades of tech reveals how the internet and artificial intelligence reshaped business, work and everyday life without changing what people ultimately value.",
+      "category": "Technology",
+      "image": "https://media.fortuneindia.com/fortune-india/import/2025-02-09/5ltj1f78/sindhu.jpg?w=1200&ar=40:21&auto=format,compress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "Fortune India",
+      "sourceUrl": "https://www.fortuneindia.com/opinion/27-years-of-watching-technology-change-everything-and-almost-nothing/160233",
+      "publishedAt": "2026-09-21T02:30:00.000Z",
+      "fetchedAt": "2026-09-21T02:47:13.479Z",
+      "title_hi": "प्रौद्योगिकी को सब कुछ बदलते हुए देखने के 27 साल, और लगभग कुछ भी नहीं",
+      "summary_hi": "भारी डेस्कटॉप और पेपर वर्कफ़्लो से लेकर एआई सह-पायलट और बुद्धिमान उद्यमों तक, लगभग तीन दशकों की तकनीक के माध्यम से यह व्यक्तिगत यात्रा बताती है कि कैसे इंटरनेट और कृत्रिम बुद्धिमत्ता ने लोगों के मूल्यों को बदले बिना व्यवसाय, कार्य और रोजमर्रा की जिंदगी को नया आकार दिया।",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "praudyogiki ko saba kuchha badalate hue dekhane ke 27 sal, aura lagabhaga kuchha bhi nahin",
+      "summary_hinglish": "bhari deskatopa aura pepara varkaphalo se lekara eaaee saha-payalata aura buddhimana udyamon tak, lagabhaga tina dashakon ki takanika ke madhyama se yaha vyaktigata yatra batati hai ki kaise intaraneta aura kritrima buddhimatta ne logon ke mulyon ko badale bina vyavasay, karya aura rojamarra ki jindagi ko naya aakara diya।",
+      "category_hinglish": "Technology"
     },
     {
       "id": "547e0b46859442c6",
@@ -188,23 +205,6 @@
       "category_hinglish": "Politics aur Government"
     },
     {
-      "id": "a061f64dd4767058",
-      "title": "AI to Make India’s Mining Sector Smarter |",
-      "summary": "Desk,Odoshabarta Digital Technology to Transform India’s Mining Sector Mumbai/New Delhi (Anil Bedag): Technology, artificial intelligence...",
-      "category": "Technology",
-      "image": "http://odishabarta.com/wp-content/uploads/2026/09/minning-AI.jpg",
-      "source": "odishabarta.com",
-      "sourceUrl": "https://odishabarta.com/ai-to-make-indias-mining-sector-smarter/",
-      "publishedAt": "2026-09-21T02:22:23.000Z",
-      "fetchedAt": "2026-09-21T03:18:53.673Z",
-      "title_hi": "भारत के खनन क्षेत्र को स्मार्ट बनाने के लिए AI |",
-      "summary_hi": "डेस्क,ओडोशाबार्ता डिजिटल टेक्नोलॉजी भारत के खनन क्षेत्र में बदलाव लाएगी मुंबई/नई दिल्ली (अनिल बेदाग): प्रौद्योगिकी, कृत्रिम बुद्धिमत्ता...",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "bharata ke khanana kshetra ko smarta banane ke lie AI |",
-      "summary_hinglish": "desk,odoshabarta dijitala teknoloji bharata ke khanana kshetra men badalava laegi munbaee/naee dilli (anila bedaga): praudyogiki, kritrima buddhimatt...",
-      "category_hinglish": "Technology"
-    },
-    {
       "id": "f9be4fc84aef9acd",
       "title": "Bihar govt's coffers empty, yet crores spent on PM Modi's birthday celebrations: Tejashwi Yadav",
       "summary": "Tejashwi Yadav alleges state coffers are empty while crores are spent on Prime Minister Narendra Modi birthday celebrations, demanding immediate financial assistance for affected families.",
@@ -220,6 +220,23 @@
       "title_hinglish": "bihar sarakar k khajan khali, phir bhi piem modi ke janmadin samaroh par karodोn kharch: tejasvi yadav",
       "category_hinglish": "Politics aur Government",
       "summary_hinglish": "tejasvi yadava ne aaropa lagaya ki rajya ka khajana khali hai jabaki pradhanamantri narendra modi ke janmadina samaroha para karodaोn kharcha kie ja rahe hain, unhonne prabhavita parivaron ke lie tatkala vittiya sahayata ki manga ki।"
+    },
+    {
+      "id": "a061f64dd4767058",
+      "title": "AI to Make India’s Mining Sector Smarter |",
+      "summary": "Desk,Odoshabarta Digital Technology to Transform India’s Mining Sector Mumbai/New Delhi (Anil Bedag): Technology, artificial intelligence...",
+      "category": "Technology",
+      "image": "http://odishabarta.com/wp-content/uploads/2026/09/minning-AI.jpg",
+      "source": "odishabarta.com",
+      "sourceUrl": "https://odishabarta.com/ai-to-make-indias-mining-sector-smarter/",
+      "publishedAt": "2026-09-21T02:22:23.000Z",
+      "fetchedAt": "2026-09-21T03:18:53.673Z",
+      "title_hi": "भारत के खनन क्षेत्र को स्मार्ट बनाने के लिए AI |",
+      "summary_hi": "डेस्क,ओडोशाबार्ता डिजिटल टेक्नोलॉजी भारत के खनन क्षेत्र में बदलाव लाएगी मुंबई/नई दिल्ली (अनिल बेदाग): प्रौद्योगिकी, कृत्रिम बुद्धिमत्ता...",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "bharata ke khanana kshetra ko smarta banane ke lie AI |",
+      "summary_hinglish": "desk,odoshabarta dijitala teknoloji bharata ke khanana kshetra men badalava laegi munbaee/naee dilli (anila bedaga): praudyogiki, kritrima buddhimatt...",
+      "category_hinglish": "Technology"
     },
     {
       "id": "bd635e11c297f689",
@@ -239,23 +256,6 @@
       "summary_hinglish": "navanbara men rilija hone se pahale, gahana tijara men ekshan, andaravatara sikvensa aura eka andheri yatra ka pradarshana karate hue, rashmika mandana maisa men eka bhayankara gonda aadivasi yoddha men badala jati hai।"
     },
     {
-      "id": "e0274e01dc1dd288",
-      "title": "Asian Games 2026: India clinch silver in men’s 10m air rifle team event",
-      "summary": "India opened their medal account on the second day of the shooting competition at the Aichi-Nagoya 2026 Asian Games with a silver medal in the men’s 10m air rifle team event, as Rudrankksh Patil, Himanshu Dhillon and Parth Mane combined to finish second in the qualification round.",
-      "category": "Sports",
-      "image": "https://static.toiimg.com/thumb/msid-134378150,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-india-clinch-silver-in-mens-10m-air-rifle-team-event/articleshow/134378041.cms",
-      "publishedAt": "2026-09-21T02:15:00.000Z",
-      "fetchedAt": "2026-09-21T02:30:56.200Z",
-      "title_hi": "एशियाई खेल 2026: भारत ने पुरुषों की 10 मीटर एयर राइफल टीम स्पर्धा में रजत पदक जीता",
-      "summary_hi": "भारत ने आइची-नागोया 2026 एशियाई खेलों में शूटिंग प्रतियोगिता के दूसरे दिन पुरुषों की 10 मीटर एयर राइफल टीम स्पर्धा में रजत पदक के साथ अपना पदक खाता खोला, क्योंकि रुद्राक्ष पाटिल, हिमांशु ढिल्लन और पार्थ माने संयुक्त रूप से क्वालिफिकेशन राउंड में दूसरे स्थान पर रहे।",
-      "category_hi": "खेल",
-      "category_hinglish": "Sports",
-      "title_hinglish": "eshiyaee khela 2026: bharata ne purushon ki 10 mitara eyara raiphala tima spardha men rajata padaka jita",
-      "summary_hinglish": "bharata ne aaichi-nagoya 2026 eshiyaee khelon men shutinga pratiyogita ke dusare dina purushon ki 10 mitara eyara raiphala tima spardha men rajata padaka ke satha apana padaka khata khol, kyonki rudraksha patil, himanshu dhillana aura partha mane sanyukta rupa se kvaliphikeshana raunda men dusare sthana para rahe।"
-    },
-    {
       "id": "fd8bf5df45c97d56",
       "title": "Bhojpuri actress Kajal Raghwani SAFE after fans chase her car, BREAK WINDOWS at Bihar Sharif showroom lau",
       "summary": "View this post on Instagram A post shared by Kajal Sharda🦋 (@kajalraghwani)",
@@ -271,6 +271,23 @@
       "title_hinglish": "prashansakon dvar unaki kar k pichh karane ke bad bhojapuri abhinetri kajal raghavani surakshit rahin, biharashariph shorum men khidakiyan todीn",
       "category_hinglish": "Entertainment",
       "summary_hinglish": "isa posta ko instagrama para dekhen kajala sharada🦋 (@kajalraghvani) dvara sajha ki gaee eka posta"
+    },
+    {
+      "id": "e0274e01dc1dd288",
+      "title": "Asian Games 2026: India clinch silver in men’s 10m air rifle team event",
+      "summary": "India opened their medal account on the second day of the shooting competition at the Aichi-Nagoya 2026 Asian Games with a silver medal in the men’s 10m air rifle team event, as Rudrankksh Patil, Himanshu Dhillon and Parth Mane combined to finish second in the qualification round.",
+      "category": "Sports",
+      "image": "https://static.toiimg.com/thumb/msid-134378150,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-india-clinch-silver-in-mens-10m-air-rifle-team-event/articleshow/134378041.cms",
+      "publishedAt": "2026-09-21T02:15:00.000Z",
+      "fetchedAt": "2026-09-21T02:30:56.200Z",
+      "title_hi": "एशियाई खेल 2026: भारत ने पुरुषों की 10 मीटर एयर राइफल टीम स्पर्धा में रजत पदक जीता",
+      "summary_hi": "भारत ने आइची-नागोया 2026 एशियाई खेलों में शूटिंग प्रतियोगिता के दूसरे दिन पुरुषों की 10 मीटर एयर राइफल टीम स्पर्धा में रजत पदक के साथ अपना पदक खाता खोला, क्योंकि रुद्राक्ष पाटिल, हिमांशु ढिल्लन और पार्थ माने संयुक्त रूप से क्वालिफिकेशन राउंड में दूसरे स्थान पर रहे।",
+      "category_hi": "खेल",
+      "category_hinglish": "Sports",
+      "title_hinglish": "eshiyaee khela 2026: bharata ne purushon ki 10 mitara eyara raiphala tima spardha men rajata padaka jita",
+      "summary_hinglish": "bharata ne aaichi-nagoya 2026 eshiyaee khelon men shutinga pratiyogita ke dusare dina purushon ki 10 mitara eyara raiphala tima spardha men rajata padaka ke satha apana padaka khata khol, kyonki rudraksha patil, himanshu dhillana aura partha mane sanyukta rupa se kvaliphikeshana raunda men dusare sthana para rahe।"
     },
     {
       "id": "64272a294ec4e506",
@@ -307,6 +324,23 @@
       "category_hinglish": "Business aur Finance"
     },
     {
+      "id": "3ab8af1ef7196e83",
+      "title": "The Vvaan: Sidharth Malhotra and Tamannaah Bhatia honour Bihar’s Chhath rituals",
+      "summary": "The team behind the movie The Vvaan visited Patna ahead of the film’s September 25 release. Tamannaah Bhatia and Sidharth Malhotra, along with their producers,",
+      "category": "Entertainment",
+      "image": "https://cf-images.assettype.com/indulgexpress%2F2026-09-20%2F2s2t2y47%2F818062303186160743400262932876852348868319870n.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "IndulgExpress",
+      "sourceUrl": "https://www.indulgexpress.com/amp/story/entertainment/celebs/2026/Sep/20/the-vvaan-sidharth-malhotra-and-tamannaah-bhatia-honour-bihars-chhath-rituals",
+      "publishedAt": "2026-09-20T09:11:00.000Z",
+      "fetchedAt": "2026-09-20T16:52:51.875Z",
+      "title_hi": "द वावन: सिद्धार्थ मल्होत्रा ​​और तमन्ना भाटिया बिहार के छठ अनुष्ठानों का सम्मान करते हैं",
+      "summary_hi": "फिल्म द वावान की 25 सितंबर को रिलीज से पहले टीम ने पटना का दौरा किया। तमन्ना भाटिया और सिद्धार्थ मल्होत्रा, अपने निर्माताओं के साथ,",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "d vavan: siddharth malhotr ​​aur tamann bhatiy bihar ke chhath anushthanon k samman karate hain",
+      "category_hinglish": "Entertainment",
+      "summary_hinglish": "philma da vavana ki 25 sitanbara ko rilija se pahale tima ne patana ka daura kiya। tamanna bhatiya aura siddhartha malhotr, apane nirmataon ke sath,"
+    },
+    {
       "id": "b16335b5dbc5d726",
       "title": "'Mirzapur The Movie' box office collection day 17: Pankaj Tripathi film earns Rs 5 cr; records 11.1% grow",
       "summary": "'Mirzapur The Movie' continued its theatrical run with a rise in collections on its 17th day. The Pankaj Tripathi-led film recorded Rs 5.00 cr net in India on its third Sunday.",
@@ -322,21 +356,6 @@
       "title_hinglish": "'mirjapura da muvi' ka boksa ऑphisa kalekshana dina 17: pankaja tripathi ki philma ne kamae 5 karoda rupaye; rikorda 11.1% ki vriddhi",
       "summary_hinglish": "'mirjapura da muvi' ne 17ven dina bhi kalekshana men badhaोtari ke satha apana pradarshana jari rakha। pankaja tripathi ke netritva vali philma ne apane tisare ravivara ko bharata men 5.00 karoda rupaye ki kamaee darja ki।",
       "category_hinglish": "Entertainment"
-    },
-    {
-      "id": "5ff70aaff1a0df75",
-      "title": "From Digital Governance To AI Leadership Uttar Pradesh’s Next Growth Chapter",
-      "summary": "Uttar Pradesh is strengthening its journey towards becoming a leading digital and technology hub through progressive policies, robust infrastructure, and a strong focus on innovation, investment, and digital governance. Shri Alok Kumar, Principal Secretary, Department of IT & Electronics, Government of Uttar Pradesh, shares his insights on the State's technology…",
-      "category": "Technology",
-      "image": "https://egov.eletsonline.com/wp-content/uploads/2026/09/Shri-Alok-Kumar.jpg",
-      "source": "Elets eGov",
-      "sourceUrl": "https://egov.eletsonline.com/2026/09/from-digital-governance-to-ai-leadership-uttar-pradeshs-next-growth-chapter/",
-      "publishedAt": "2026-09-20T10:05:57.000Z",
-      "fetchedAt": "2026-09-21T03:51:22.067Z",
-      "title_hi": "",
-      "summary_hi": "",
-      "category_hi": "टेक्नोलॉजी",
-      "category_hinglish": "Technology"
     },
     {
       "id": "ff11b9a86286a5d6",
@@ -356,6 +375,23 @@
       "category_hinglish": "Sports"
     },
     {
+      "id": "3faf8d7918681ae3",
+      "title": "East Zone’s new cricketing core: How Bihar and Jharkhand talent powered Duleep Trophy win",
+      "summary": "East Zone’s Duleep Trophy triumph over favourites South Zone reflected a changing power centre in Indian domestic cricket, with players from Jharkhand and Bihar leading the charge. Ishan Kishan’s 270, alongside crucial contributions from Kumar Kushagra, Mohammed Kounain Quraishi and Shikhar Mohan, highlighted the region’s growing talent pool and its…",
+      "category": "Sports",
+      "image": "https://s.yimg.com/lo/mysterio/api/3dc928d45c233e20e7bedf13d3a6eb4eac39e48549b354b899a53a7c19ce237b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwillow_sports_articles_673%2F3b8ecd37f760fa5998ff90bbb15f2580.jpg",
+      "source": "Yahoo Sports",
+      "sourceUrl": "https://sports.yahoo.com/articles/east-zone-cricketing-core-bihar-080100670.html",
+      "publishedAt": "2026-09-20T08:01:00.000Z",
+      "fetchedAt": "2026-09-20T16:50:33.873Z",
+      "title_hi": "पूर्वी क्षेत्र का नया क्रिकेटिंग कोर: कैसे बिहार और झारखंड की प्रतिभा ने दलीप ट्रॉफी जीत हासिल की",
+      "summary_hi": "पूर्वी क्षेत्र की पसंदीदा दक्षिण क्षेत्र पर दलीप ट्रॉफी की जीत ने भारतीय घरेलू क्रिकेट में एक बदलते शक्ति केंद्र को दर्शाया, जिसमें झारखंड और बिहार के खिलाड़ी नेतृत्व कर रहे थे। ईशान किशन के 270, कुमार कुशाग्र, मोहम्मद कौनैन कुरैशी और शिखर मोहन के महत्वपूर्ण योगदान के साथ, इस क्षेत्र की बढ़ती प्रतिभा पूल और इसके…",
+      "category_hi": "खेल",
+      "title_hinglish": "purvi kshetr k nay kriketing kor: kaise bihar aur jharakhand ki pratibh ne dalip trॉphi jit hasil ki",
+      "category_hinglish": "Sports",
+      "summary_hinglish": "purvi kshetra ki pasandida dakshina kshetra para dalipa trophi ki jita ne bharatiya gharelu kriketa men eka badalate shakti kendra ko darshay, jisamen jharakhanda aura bihara ke khiladaी netritva kara rahe the। eeshana kishana ke 270, kumara kushagr, mohammada kaunaina kuraishi aura shikhara mohana ke mahatvapurna yogadana ke sath, isa kshetra ki badhati pratibha pula aura isake…"
+    },
+    {
       "id": "d94384ed2c5abc59",
       "title": "India’s FY26 IT export growth driven by core tech, engineering services",
       "summary": "India's FY26 IT export growth is fueled by rising engineering and product design services, despite a slowdown in software development.",
@@ -371,23 +407,6 @@
       "title_hinglish": "bharata ki FY26 aaeeti niryata vriddhi mukhya takanik, injiniyaringa sevaon dvara sanchalita hai",
       "summary_hinglish": "sophtaveyara vikasa men mandi ke bavajud, bharata ki FY26 aaeeti niryata vriddhi badhati injiniyaringa aura utpada dijaina sevaon se prerita hai।",
       "category_hinglish": "Technology"
-    },
-    {
-      "id": "3ab8af1ef7196e83",
-      "title": "The Vvaan: Sidharth Malhotra and Tamannaah Bhatia honour Bihar’s Chhath rituals",
-      "summary": "The team behind the movie The Vvaan visited Patna ahead of the film’s September 25 release. Tamannaah Bhatia and Sidharth Malhotra, along with their producers,",
-      "category": "Entertainment",
-      "image": "https://cf-images.assettype.com/indulgexpress%2F2026-09-20%2F2s2t2y47%2F818062303186160743400262932876852348868319870n.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "source": "IndulgExpress",
-      "sourceUrl": "https://www.indulgexpress.com/amp/story/entertainment/celebs/2026/Sep/20/the-vvaan-sidharth-malhotra-and-tamannaah-bhatia-honour-bihars-chhath-rituals",
-      "publishedAt": "2026-09-20T09:11:00.000Z",
-      "fetchedAt": "2026-09-20T16:52:51.875Z",
-      "title_hi": "द वावन: सिद्धार्थ मल्होत्रा ​​और तमन्ना भाटिया बिहार के छठ अनुष्ठानों का सम्मान करते हैं",
-      "summary_hi": "फिल्म द वावान की 25 सितंबर को रिलीज से पहले टीम ने पटना का दौरा किया। तमन्ना भाटिया और सिद्धार्थ मल्होत्रा, अपने निर्माताओं के साथ,",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "d vavan: siddharth malhotr ​​aur tamann bhatiy bihar ke chhath anushthanon k samman karate hain",
-      "category_hinglish": "Entertainment",
-      "summary_hinglish": "philma da vavana ki 25 sitanbara ko rilija se pahale tima ne patana ka daura kiya। tamanna bhatiya aura siddhartha malhotr, apane nirmataon ke sath,"
     },
     {
       "id": "e1410183029b816e",
@@ -407,6 +426,23 @@
       "category_hinglish": "Sports"
     },
     {
+      "id": "df4ee11c80718c75",
+      "title": "Prashant Kishor's JSP announces 5 candidates for Bihar Legislative Council polls | India News",
+      "summary": "Elections are to be held for a total of eight constituencies -- four graduates' and teachers' seats each -- terms of which expire in November. | India News",
+      "category": "Politics & Government",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/20/1600x900/logo/ANI-20260817010-0_1789888983916_Wnjr_1789888994868_1BmE_71c08991-5f2a-46a2-82be-9b91283a90bb_N2z0.jpg",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/prashant-kishors-jsp-announces-5-candidates-for-bihar-legislative-council-poll-101789888783357.html",
+      "publishedAt": "2026-09-20T07:23:57.000Z",
+      "fetchedAt": "2026-09-20T19:08:25.327Z",
+      "title_hi": "प्रशांत किशोर की जेएसपी ने बिहार विधान परिषद चुनाव के लिए 5 उम्मीदवारों की घोषणा की | भारत समाचार",
+      "summary_hi": "कुल आठ निर्वाचन क्षेत्रों के लिए चुनाव होने हैं - चार स्नातक और शिक्षक सीटें - जिनकी शर्तें नवंबर में समाप्त हो रही हैं। | भारत समाचार",
+      "category_hi": "राजनीति और सरकार",
+      "category_hinglish": "Politics aur Government",
+      "title_hinglish": "prashanta kishora ki jeesapi ne bihara vidhana parishada chunava ke lie 5 ummidavaron ki ghoshana ki | bharata samachara",
+      "summary_hinglish": "kula aatha nirvachana kshetron ke lie chunava hone hain - chara snataka aura shikshaka siten - jinaki sharten navanbara men samapta ho rahi hain। | bharata samachara"
+    },
+    {
       "id": "4d962ef56b3cb30b",
       "title": "'Gondhal' becomes India’s 2027 Oscar entry: How regional cinema is changing the Indian film industry and wi...",
       "summary": "Bollywood vs South Cinema Box Office Collection Analysis: The Indian box office reached a record ₹13,395 crore in 2025, while Hindi cinema itself reached an all-time high of ₹5,504 crore, accounting for 41% of the market.",
@@ -422,23 +458,6 @@
       "title_hinglish": "'gondhala' bani bharata ki 2027 ऑskara pravishti: kaise kshetriya sinema bharatiya philma udyoga ko badala raha hai aur...",
       "summary_hinglish": "bolivuda banama sautha sinema boksa ऑphisa kalekshana vishleshan: bharatiya boksa ऑphisa 2025 men rikorda ₹13,395 karoda taka pahuncha gay, jabaki hindi sinema ₹5,504 karoda ke sarvakalika uchcha stara para pahuncha gay, jo bajara ka 41% hissa tha।",
       "category_hinglish": "Entertainment"
-    },
-    {
-      "id": "3faf8d7918681ae3",
-      "title": "East Zone’s new cricketing core: How Bihar and Jharkhand talent powered Duleep Trophy win",
-      "summary": "East Zone’s Duleep Trophy triumph over favourites South Zone reflected a changing power centre in Indian domestic cricket, with players from Jharkhand and Bihar leading the charge. Ishan Kishan’s 270, alongside crucial contributions from Kumar Kushagra, Mohammed Kounain Quraishi and Shikhar Mohan, highlighted the region’s growing talent pool and its…",
-      "category": "Sports",
-      "image": "https://s.yimg.com/lo/mysterio/api/3dc928d45c233e20e7bedf13d3a6eb4eac39e48549b354b899a53a7c19ce237b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwillow_sports_articles_673%2F3b8ecd37f760fa5998ff90bbb15f2580.jpg",
-      "source": "Yahoo Sports",
-      "sourceUrl": "https://sports.yahoo.com/articles/east-zone-cricketing-core-bihar-080100670.html",
-      "publishedAt": "2026-09-20T08:01:00.000Z",
-      "fetchedAt": "2026-09-20T16:50:33.873Z",
-      "title_hi": "पूर्वी क्षेत्र का नया क्रिकेटिंग कोर: कैसे बिहार और झारखंड की प्रतिभा ने दलीप ट्रॉफी जीत हासिल की",
-      "summary_hi": "पूर्वी क्षेत्र की पसंदीदा दक्षिण क्षेत्र पर दलीप ट्रॉफी की जीत ने भारतीय घरेलू क्रिकेट में एक बदलते शक्ति केंद्र को दर्शाया, जिसमें झारखंड और बिहार के खिलाड़ी नेतृत्व कर रहे थे। ईशान किशन के 270, कुमार कुशाग्र, मोहम्मद कौनैन कुरैशी और शिखर मोहन के महत्वपूर्ण योगदान के साथ, इस क्षेत्र की बढ़ती प्रतिभा पूल और इसके…",
-      "category_hi": "खेल",
-      "title_hinglish": "purvi kshetr k nay kriketing kor: kaise bihar aur jharakhand ki pratibh ne dalip trॉphi jit hasil ki",
-      "category_hinglish": "Sports",
-      "summary_hinglish": "purvi kshetra ki pasandida dakshina kshetra para dalipa trophi ki jita ne bharatiya gharelu kriketa men eka badalate shakti kendra ko darshay, jisamen jharakhanda aura bihara ke khiladaी netritva kara rahe the। eeshana kishana ke 270, kumara kushagr, mohammada kaunaina kuraishi aura shikhara mohana ke mahatvapurna yogadana ke sath, isa kshetra ki badhati pratibha pula aura isake…"
     },
     {
       "id": "604baafbd4aa4e57",
@@ -475,6 +494,23 @@
       "summary_hinglish": "shiksh: diesapi shivananda katagi ne dharavada men chhatron ko sanbodhita kiy, praudyogiki, sakaratmaka socha aura jimmedara soshala midiya ke upayoga ke madhyama se rashtra nirmana men jena jeda ki mahatvapurna bhumika para prakasha dala aura unase aagraha kiya।"
     },
     {
+      "id": "c8dee49868675da4",
+      "title": "Jan Suraaj announces candidates for 5 Bihar Legislative Council seats",
+      "summary": "Prashant Kishors Jan Suraaj is getting an early start on Bihars next electoral contest, naming candidates for five of the eight Legislative Council seats headed for polls. From backing a sitting MLC for another term to fielding a lawyer-turned-politician against a JD(U) heavyweight, Kishor is widening his partys footprint in…",
+      "category": "Politics & Government",
+      "image": "https://img.etimg.com/thumb/msid-134364926,width-1200,height-630,imgsize-141656,overlay-economictimes/articleshow.jpg",
+      "source": "The Economic Times",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/politics-and-nation/jan-suraaj-announces-candidates-for-5-bihar-legislative-council-seats/articleshow/134364901.cms?from=mdr",
+      "publishedAt": "2026-09-20T07:12:48.000Z",
+      "fetchedAt": "2026-09-20T16:50:31.296Z",
+      "title_hi": "जन सुराज ने 5 बिहार विधान परिषद सीटों के लिए उम्मीदवारों की घोषणा की",
+      "summary_hi": "प्रशांत किशोर के जन सुराज ने बिहार की अगली चुनावी लड़ाई की शुरुआती शुरुआत करते हुए आठ विधान परिषद सीटों में से पांच के लिए उम्मीदवारों के नाम घोषित कर दिए हैं। एक मौजूदा एमएलसी को दूसरे कार्यकाल के लिए समर्थन देने से लेकर एक वकील से नेता बने जदयू के दिग्गज नेता के खिलाफ मैदान में उतारने तक, किशोर अपनी पार्टी का दायरा बढ़ा रहे हैं…",
+      "category_hi": "राजनीति और सरकार",
+      "title_hinglish": "jan suraj ne 5 bihar vidhan parishad siton ke lie ummidavaron ki ghoshan ki",
+      "category_hinglish": "Politics aur Government",
+      "summary_hinglish": "prashanta kishora ke jana suraja ne bihara ki agali chunavi ladaाee ki shuruaati shuruaata karate hue aatha vidhana parishada siton men se pancha ke lie ummidavaron ke nama ghoshita kara die hain। eka maujuda emaelasi ko dusare karyakala ke lie samarthana dene se lekara eka vakila se neta bane jadayu ke diggaja neta ke khilapha maidana men utarane tak, kishora apani parti ka dayara badhaा rahe hain…"
+    },
+    {
       "id": "cfa504169539d17d",
       "title": "Asiad 2026 Sept 21 schedule, India medal events timings, live streaming",
       "summary": "Suchika Tariyal resumes MMA campaign after assuring India a medal, while shooters, hockey teams, kabaddi sides, paddlers and shuttlers will be in action on September 21",
@@ -490,23 +526,6 @@
       "category_hinglish": "Sports",
       "title_hinglish": "eshiyada 2026 sitanbara 21 shedyul, bharata medala iventa ka samay, laiva striminga",
       "summary_hinglish": "suchika tariyala ne bharata ko padaka sunishchita karane ke bada emaemae abhiyana phira se shuru kiy, jabaki nishanebaj, hoki timen, kabaddi timen, paidalara aura shatalara 21 sitanbara ko ekshana men honge।"
-    },
-    {
-      "id": "df4ee11c80718c75",
-      "title": "Prashant Kishor's JSP announces 5 candidates for Bihar Legislative Council polls | India News",
-      "summary": "Elections are to be held for a total of eight constituencies -- four graduates' and teachers' seats each -- terms of which expire in November. | India News",
-      "category": "Politics & Government",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/20/1600x900/logo/ANI-20260817010-0_1789888983916_Wnjr_1789888994868_1BmE_71c08991-5f2a-46a2-82be-9b91283a90bb_N2z0.jpg",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/india-news/prashant-kishors-jsp-announces-5-candidates-for-bihar-legislative-council-poll-101789888783357.html",
-      "publishedAt": "2026-09-20T07:23:57.000Z",
-      "fetchedAt": "2026-09-20T19:08:25.327Z",
-      "title_hi": "प्रशांत किशोर की जेएसपी ने बिहार विधान परिषद चुनाव के लिए 5 उम्मीदवारों की घोषणा की | भारत समाचार",
-      "summary_hi": "कुल आठ निर्वाचन क्षेत्रों के लिए चुनाव होने हैं - चार स्नातक और शिक्षक सीटें - जिनकी शर्तें नवंबर में समाप्त हो रही हैं। | भारत समाचार",
-      "category_hi": "राजनीति और सरकार",
-      "category_hinglish": "Politics aur Government",
-      "title_hinglish": "prashanta kishora ki jeesapi ne bihara vidhana parishada chunava ke lie 5 ummidavaron ki ghoshana ki | bharata samachara",
-      "summary_hinglish": "kula aatha nirvachana kshetron ke lie chunava hone hain - chara snataka aura shikshaka siten - jinaki sharten navanbara men samapta ho rahi hain। | bharata samachara"
     },
     {
       "id": "b2a426d4b0ec8b87",
@@ -526,38 +545,21 @@
       "summary_hinglish": "bharat, 5G rolaaauta men agrani, 6G vikasa ke lie vaishvika gathabandhana men shamila ho gaya hai। sioeaaee ke mahanideshaka esapi kochara ne desha ki 6ji taiyariyon para charcha ki aura upayoga-aadharita navachara ki aavashyakata para jora diya।"
     },
     {
-      "id": "f5cfabf8d1f57b37",
-      "title": "Youth Sports Club honours India junior hockey team players",
-      "summary": "The Youth Sports Club Mithapur honoured three players hailing from Jalandhar—members of the Indian junior men’s hockey team that won the Asia Cup in China—at the Darshan Singh KP Hockey Stadium in Mithapur.",
+      "id": "cfc13bb3c5844384",
+      "title": "Pakistan out of Asian Games after Sri Lanka cruise through to the final",
+      "summary": "Sri Lanka beat Pakistan by 8 wickets in the 2026 Asian Games women's semi-final. Athapaththu hit 83 not out to seal the win. Read more on CricTracker.",
       "category": "Sports",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTY1NGFjYWMwLWI1NDQtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
-      "source": "The Tribune",
-      "sourceUrl": "https://www.tribuneindia.com/news/jalandhar/youth-sports-club-honours-india-junior-hockey-team-players/",
-      "publishedAt": "2026-09-20T22:41:16.000Z",
-      "fetchedAt": "2026-09-20T23:19:02.795Z",
-      "title_hi": "यूथ स्पोर्ट्स क्लब ने भारत की जूनियर हॉकी टीम के खिलाड़ियों का सम्मान किया",
-      "summary_hi": "यूथ स्पोर्ट्स क्लब मीठापुर ने मीठापुर के दर्शन सिंह केपी हॉकी स्टेडियम में जालंधर के तीन खिलाड़ियों को सम्मानित किया - जो चीन में एशिया कप जीतने वाली भारतीय जूनियर पुरुष हॉकी टीम के सदस्य थे।",
+      "image": "https://media.crictracker.com/media/attachments/1778926620139_Pakistan-Women's-Team.jpeg",
+      "source": "CricTracker",
+      "sourceUrl": "https://www.crictracker.com/cricket-news/pakistan-out-of-asian-games-after-sri-lanka-cruise-through-to-the-final/?amp=1",
+      "publishedAt": "2026-09-20T06:21:00.000Z",
+      "fetchedAt": "2026-09-21T04:02:25.209Z",
+      "title_hi": "श्रीलंका के फाइनल में पहुंचने के बाद पाकिस्तान एशियाई खेलों से बाहर हो गया",
+      "summary_hi": "2026 एशियाई खेलों के महिला सेमीफाइनल में श्रीलंका ने पाकिस्तान को 8 विकेट से हराया। अथापत्थु ने नाबाद 83 रन बनाकर जीत पक्की कर दी। क्रिकट्रैकर पर और पढ़ें।",
       "category_hi": "खेल",
-      "title_hinglish": "yutha sportsa klaba ne bharata ki juniyara hoki tima ke khiladaिyon ka sammana kiya",
-      "summary_hinglish": "yutha sportsa klaba mithapura ne mithapura ke darshana sinha kepi hoki stediyama men jalandhara ke tina khiladaिyon ko sammanita kiya - jo china men eshiya kapa jitane vali bharatiya juniyara purusha hoki tima ke sadasya the।",
+      "title_hinglish": "shrilanka ke phainala men pahunchane ke bada pakistana eshiyaee khelon se bahara ho gaya",
+      "summary_hinglish": "2026 eshiyaee khelon ke mahila semiphainala men shrilanka ne pakistana ko 8 viketa se haraya। athapatthu ne nabada 83 rana banakara jita pakki kara di। krikatraikara para aura padhaेn।",
       "category_hinglish": "Sports"
-    },
-    {
-      "id": "c8dee49868675da4",
-      "title": "Jan Suraaj announces candidates for 5 Bihar Legislative Council seats",
-      "summary": "Prashant Kishors Jan Suraaj is getting an early start on Bihars next electoral contest, naming candidates for five of the eight Legislative Council seats headed for polls. From backing a sitting MLC for another term to fielding a lawyer-turned-politician against a JD(U) heavyweight, Kishor is widening his partys footprint in…",
-      "category": "Politics & Government",
-      "image": "https://img.etimg.com/thumb/msid-134364926,width-1200,height-630,imgsize-141656,overlay-economictimes/articleshow.jpg",
-      "source": "The Economic Times",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/politics-and-nation/jan-suraaj-announces-candidates-for-5-bihar-legislative-council-seats/articleshow/134364901.cms?from=mdr",
-      "publishedAt": "2026-09-20T07:12:48.000Z",
-      "fetchedAt": "2026-09-20T16:50:31.296Z",
-      "title_hi": "जन सुराज ने 5 बिहार विधान परिषद सीटों के लिए उम्मीदवारों की घोषणा की",
-      "summary_hi": "प्रशांत किशोर के जन सुराज ने बिहार की अगली चुनावी लड़ाई की शुरुआती शुरुआत करते हुए आठ विधान परिषद सीटों में से पांच के लिए उम्मीदवारों के नाम घोषित कर दिए हैं। एक मौजूदा एमएलसी को दूसरे कार्यकाल के लिए समर्थन देने से लेकर एक वकील से नेता बने जदयू के दिग्गज नेता के खिलाफ मैदान में उतारने तक, किशोर अपनी पार्टी का दायरा बढ़ा रहे हैं…",
-      "category_hi": "राजनीति और सरकार",
-      "title_hinglish": "jan suraj ne 5 bihar vidhan parishad siton ke lie ummidavaron ki ghoshan ki",
-      "category_hinglish": "Politics aur Government",
-      "summary_hinglish": "prashanta kishora ke jana suraja ne bihara ki agali chunavi ladaाee ki shuruaati shuruaata karate hue aatha vidhana parishada siton men se pancha ke lie ummidavaron ke nama ghoshita kara die hain। eka maujuda emaelasi ko dusare karyakala ke lie samarthana dene se lekara eka vakila se neta bane jadayu ke diggaja neta ke khilapha maidana men utarane tak, kishora apani parti ka dayara badhaा rahe hain…"
     }
   ]
 }
