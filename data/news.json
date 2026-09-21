@@ -1,7 +1,24 @@
 {
-  "updatedAt": "2026-09-21T09:55:35.970Z",
-  "count": 43,
+  "updatedAt": "2026-09-21T10:12:03.614Z",
+  "count": 40,
   "articles": [
+    {
+      "id": "210d489535e04f09",
+      "title": "Is AI moving too fast? Alexa+ India launch exclusive & iPhone 18 Pro sale rush | Tech Today - India Today",
+      "summary": "As artificial intelligence advances into autonomous execution and critical capability thresholds, the debate over whether big tech needs to hit the brakes has reached the global political stage. In this edition of Tech Today, we explore the growing calls to slow down frontier AI development, sit down exclusively with Amazon…",
+      "category": "Technology",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/video/202609/is-ai-moving-too-fast-alexa-india-launch-exclusive--iphone-18-pro-sale-rush--tech-today-215631211-16x9_0.jpg?VersionId=8W8btEENWsm0iR9d22_qQnKRDXmYwFIy",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/amp/technology/tech-today/video/is-ai-moving-too-fast-alexa-india-launch-exclusive-iphone-18-pro-sale-rush-tech-today-2999396-2026-09-21",
+      "publishedAt": "2026-09-21T10:04:59.000Z",
+      "fetchedAt": "2026-09-21T10:11:45.862Z",
+      "title_hi": "क्या AI बहुत तेजी से आगे बढ़ रहा है? एलेक्सा+ इंडिया लॉन्च एक्सक्लूसिव और आईफोन 18 प्रो की बिक्री में तेजी | टेक टुडे - इंडिया टुडे",
+      "summary_hi": "जैसे-जैसे कृत्रिम बुद्धिमत्ता स्वायत्त निष्पादन और महत्वपूर्ण क्षमता सीमा में आगे बढ़ती है, इस बात पर बहस कि क्या बड़ी तकनीक को ब्रेक लगाने की जरूरत है, वैश्विक राजनीतिक स्तर पर पहुंच गई है। टेक टुडे के इस संस्करण में, हम सीमांत एआई विकास को धीमा करने के लिए बढ़ती कॉलों का पता लगाते हैं, विशेष रूप से अमेज़न के साथ बैठते हैं...",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "kya AI bahuta teji se aage badha raha hai? eleksa+ indiya loncha eksaklusiva aura aaeephona 18 pro ki bikri men teji | teka tude - indiya tude",
+      "summary_hinglish": "jaise-jaise kritrima buddhimatta svayatta nishpadana aura mahatvapurna kshamata sima men aage badhati hai, isa bata para bahasa ki kya badaी takanika ko breka lagane ki jarurata hai, vaishvika rajanitika stara para pahuncha gaee hai। teka tude ke isa sanskarana men, hama simanta eaaee vikasa ko dhima karane ke lie badhati kolon ka pata lagate hain, vishesha rupa se amejana ke satha baithate hain...",
+      "category_hinglish": "Technology"
+    },
     {
       "id": "7ace175ad42820cd",
       "title": "Samay Raina reacts to claim he upset Mukesh Chhabra with girlfriend joke on Latent",
@@ -18,23 +35,6 @@
       "title_hinglish": "samaya raina ne laitenta para garlaphrenda ke majaka se mukesha chhabadaा ko pareshana karane ke dave para pratikriya vyakta ki",
       "summary_hinglish": "indiyaja gota letenta men mukesha chhabadaा ki garlaphrenda ke bare men eka chutakule ne taja ऑnalaina charcha ko janma de diya। thodaी dera ke lie shutinga rukane ke asatyapita dave ke bada charcha badha gaee, jisaka samaya raina ne hasya ke satha javaba diya।",
       "category_hinglish": "Entertainment"
-    },
-    {
-      "id": "031f6f0b485c2203",
-      "title": "'Bihari kahan nahi hai bhai': He studied chemistry at IIT Kanpur, now plays cricket for Japan",
-      "summary": "India vs Japan T20 Cricket Match 2026: Meet Abhishek Anand, an accomplished IIT Kanpur alumnus who has taken his talent to Japan",
-      "category": "National & Trending News",
-      "image": "https://img.etimg.com/thumb/msid-134385856,width-1200,height-630,imgsize-87360,overlay-economictimes/articleshow.jpg",
-      "source": "The Economic Times",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/new-updates/bihari-kahan-nahi-hai-bhai-he-studied-chemistry-at-iit-kanpur-now-plays-cricket-for-japan/articleshow/134384991.cms",
-      "publishedAt": "2026-09-21T09:32:35.000Z",
-      "fetchedAt": "2026-09-21T09:43:08.836Z",
-      "title_hi": "'बिहारी कहां नहीं है भाई': उन्होंने आईआईटी कानपुर से केमिस्ट्री की पढ़ाई की, अब जापान के लिए क्रिकेट खेलते हैं",
-      "summary_hi": "भारत बनाम जापान टी20 क्रिकेट मैच 2026: मिलिए आईआईटी कानपुर के एक कुशल पूर्व छात्र अभिषेक आनंद से, जिन्होंने अपनी प्रतिभा को जापान तक पहुंचाया है",
-      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
-      "title_hinglish": "'bihari kahan nahin hai bhaee': unhonne aaeeaaeeti kanapura se kemistri ki padhaाee ki, aba japana ke lie kriketa khelate hain",
-      "summary_hinglish": "bharata banama japana ti20 kriketa maicha 2026: milie aaeeaaeeti kanapura ke eka kushala purva chhatra abhisheka aananda se, jinhonne apani pratibha ko japana taka pahunchaya hai",
-      "category_hinglish": "National aur Trending News"
     },
     {
       "id": "d86231a50c64f2f1",
@@ -54,6 +54,23 @@
       "category_hinglish": "Sports"
     },
     {
+      "id": "031f6f0b485c2203",
+      "title": "'Bihari kahan nahi hai bhai': He studied chemistry at IIT Kanpur, now plays cricket for Japan",
+      "summary": "India vs Japan T20 Cricket Match 2026: Meet Abhishek Anand, an accomplished IIT Kanpur alumnus who has taken his talent to Japan",
+      "category": "National & Trending News",
+      "image": "https://img.etimg.com/thumb/msid-134385856,width-1200,height-630,imgsize-87360,overlay-economictimes/articleshow.jpg",
+      "source": "The Economic Times",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/new-updates/bihari-kahan-nahi-hai-bhai-he-studied-chemistry-at-iit-kanpur-now-plays-cricket-for-japan/articleshow/134384991.cms",
+      "publishedAt": "2026-09-21T09:32:35.000Z",
+      "fetchedAt": "2026-09-21T09:43:08.836Z",
+      "title_hi": "'बिहारी कहां नहीं है भाई': उन्होंने आईआईटी कानपुर से केमिस्ट्री की पढ़ाई की, अब जापान के लिए क्रिकेट खेलते हैं",
+      "summary_hi": "भारत बनाम जापान टी20 क्रिकेट मैच 2026: मिलिए आईआईटी कानपुर के एक कुशल पूर्व छात्र अभिषेक आनंद से, जिन्होंने अपनी प्रतिभा को जापान तक पहुंचाया है",
+      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
+      "title_hinglish": "'bihari kahan nahin hai bhaee': unhonne aaeeaaeeti kanapura se kemistri ki padhaाee ki, aba japana ke lie kriketa khelate hain",
+      "summary_hinglish": "bharata banama japana ti20 kriketa maicha 2026: milie aaeeaaeeti kanapura ke eka kushala purva chhatra abhisheka aananda se, jinhonne apani pratibha ko japana taka pahunchaya hai",
+      "category_hinglish": "National aur Trending News"
+    },
+    {
       "id": "a41f0cd851e4ba6f",
       "title": "IBDF AGM: Broadcasters call for BARC ratings to return ahead of festive season",
       "summary": "IBDF members urged immediate restoration of BARC TV ratings, citing revenue concerns. They welcomed the government's removal of the 10+2 ad-duration cap.",
@@ -71,23 +88,6 @@
       "category_hinglish": "Entertainment"
     },
     {
-      "id": "dcfadbedcd5a8315",
-      "title": "ISL Appoints Karan Yadav As CEO To Lead League’s Strategic & Commercial Growth Under New Club-Led Model",
-      "summary": "The Indian Super League has appointed Karan Yadav as its new CEO under a club-led model. Yadav, formerly JSW Sports’ Chief Commercial Officer, will lead the League Office and oversee ISL’s strategic, commercial and organisational direction while working with clubs and AIFF.",
-      "category": "Sports",
-      "image": "https://media.assettype.com/freepressjournal/2026-09-21/99l6dblw/Untitled-design-2026-09-21T140520.599.jpg",
-      "source": "Free Press Journal",
-      "sourceUrl": "https://www.freepressjournal.in/sports/isl-appoints-karan-yadav-as-ceo-to-lead-leagues-strategic-commercial-growth-under-new-club-led-model",
-      "publishedAt": "2026-09-21T08:35:55.000Z",
-      "fetchedAt": "2026-09-21T09:09:13.900Z",
-      "title_hi": "आईएसएल ने नए क्लब-एलईडी मॉडल के तहत लीग के रणनीतिक और वाणिज्यिक विकास का नेतृत्व करने के लिए करण यादव को सीईओ नियुक्त किया",
-      "summary_hi": "इंडियन सुपर लीग ने क्लब-आधारित मॉडल के तहत करण यादव को अपना नया सीईओ नियुक्त किया है। यादव, पूर्व में जेएसडब्ल्यू स्पोर्ट्स के मुख्य वाणिज्यिक अधिकारी, लीग कार्यालय का नेतृत्व करेंगे और क्लबों और एआईएफएफ के साथ काम करते हुए आईएसएल की रणनीतिक, वाणिज्यिक और संगठनात्मक दिशा की देखरेख करेंगे।",
-      "category_hi": "खेल",
-      "category_hinglish": "Sports",
-      "title_hinglish": "aaeeesaela ne nae klaba-elaeedi modala ke tahata liga ke rananitika aura vanijyika vikasa ka netritva karane ke lie karana yadava ko sieeo niyukta kiya",
-      "summary_hinglish": "indiyana supara liga ne klaba-aadharita modala ke tahata karana yadava ko apana naya sieeo niyukta kiya hai। yadav, purva men jeesadablyu sportsa ke mukhya vanijyika adhikari, liga karyalaya ka netritva karenge aura klabon aura eaaeeephaepha ke satha kama karate hue aaeeesaela ki rananitik, vanijyika aura sangathanatmaka disha ki dekharekha karenge।"
-    },
-    {
       "id": "6202c7509b0cc898",
       "title": "Born in Bihar, a master’s degree from IIT Kanpur, but with cricket still in his heart, Abhishek Anand has",
       "summary": "View this post on Instagram A post shared by Utsav Singh | Japan Wala Bihari (@japan_wala_bihari)",
@@ -103,6 +103,23 @@
       "title_hinglish": "bihara men janme abhisheka aananda ne aaeeaaeeti kanapura se mastara digri hasila ki, lekina unake dila men abhi bhi kriketa hai",
       "summary_hinglish": "isa posta ko instagrama para dekhen utsava sinha dvara sajha ki gaee eka posta | japana vala bihari (@japan_walla_bihari)",
       "category_hinglish": "Sports"
+    },
+    {
+      "id": "dcfadbedcd5a8315",
+      "title": "ISL Appoints Karan Yadav As CEO To Lead League’s Strategic & Commercial Growth Under New Club-Led Model",
+      "summary": "The Indian Super League has appointed Karan Yadav as its new CEO under a club-led model. Yadav, formerly JSW Sports’ Chief Commercial Officer, will lead the League Office and oversee ISL’s strategic, commercial and organisational direction while working with clubs and AIFF.",
+      "category": "Sports",
+      "image": "https://media.assettype.com/freepressjournal/2026-09-21/99l6dblw/Untitled-design-2026-09-21T140520.599.jpg",
+      "source": "Free Press Journal",
+      "sourceUrl": "https://www.freepressjournal.in/sports/isl-appoints-karan-yadav-as-ceo-to-lead-leagues-strategic-commercial-growth-under-new-club-led-model",
+      "publishedAt": "2026-09-21T08:35:55.000Z",
+      "fetchedAt": "2026-09-21T09:09:13.900Z",
+      "title_hi": "आईएसएल ने नए क्लब-एलईडी मॉडल के तहत लीग के रणनीतिक और वाणिज्यिक विकास का नेतृत्व करने के लिए करण यादव को सीईओ नियुक्त किया",
+      "summary_hi": "इंडियन सुपर लीग ने क्लब-आधारित मॉडल के तहत करण यादव को अपना नया सीईओ नियुक्त किया है। यादव, पूर्व में जेएसडब्ल्यू स्पोर्ट्स के मुख्य वाणिज्यिक अधिकारी, लीग कार्यालय का नेतृत्व करेंगे और क्लबों और एआईएफएफ के साथ काम करते हुए आईएसएल की रणनीतिक, वाणिज्यिक और संगठनात्मक दिशा की देखरेख करेंगे।",
+      "category_hi": "खेल",
+      "category_hinglish": "Sports",
+      "title_hinglish": "aaeeesaela ne nae klaba-elaeedi modala ke tahata liga ke rananitika aura vanijyika vikasa ka netritva karane ke lie karana yadava ko sieeo niyukta kiya",
+      "summary_hinglish": "indiyana supara liga ne klaba-aadharita modala ke tahata karana yadava ko apana naya sieeo niyukta kiya hai। yadav, purva men jeesadablyu sportsa ke mukhya vanijyika adhikari, liga karyalaya ka netritva karenge aura klabon aura eaaeeephaepha ke satha kama karate hue aaeeesaela ki rananitik, vanijyika aura sangathanatmaka disha ki dekharekha karenge।"
     },
     {
       "id": "7b00abd39c438255",
@@ -137,23 +154,6 @@
       "summary_hinglish": "jentalamaina spaeemastar, abhi taka bina shirshaka vali philma ko aba 11 agast, 2028 ki natakiya rilija ki tarikha ke satha aupacharika rupa se punarjivita kiya gaya hai। dharma prodakshansa aura liyo midiya kalektiva dvara saha-nirmita yaha pariyojan, bharata ke risarcha enda enalisisa vinga (ro) ke sansthapaka pramukh, rameshvara natha kao ke jivana aura karya ka pata lagaegi।"
     },
     {
-      "id": "970d75965572d98a",
-      "title": "ISL gets a CEO now. Meet the man in Indian football's biggest new role",
-      "summary": "The Indian Super League has appointed Karan Yadav as chief executive officer under its club-led structure. His arrival gives the league its first CEO while placing him in charge of strategy, commercial ties and coordination with clubs and the AIFF.",
-      "category": "Sports",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/karan-yadav-211005963-16x9_0.jpeg?VersionId=2vrEPoAS0rIGWaaveCGiMUyjnOmjBq7U",
-      "source": "indiatoday.in",
-      "sourceUrl": "https://www.indiatoday.in/sports/football/story/indian-super-league-karan-yadav-first-ceo-club-led-model-2999406-2026-09-21",
-      "publishedAt": "2026-09-21T08:22:00.000Z",
-      "fetchedAt": "2026-09-21T08:40:17.306Z",
-      "title_hi": "आईएसएल को अब एक सीईओ मिल गया है। भारतीय फ़ुटबॉल की सबसे बड़ी नई भूमिका में उस व्यक्ति से मिलें",
-      "summary_hi": "इंडियन सुपर लीग ने अपने क्लब के नेतृत्व वाले ढांचे के तहत करण यादव को मुख्य कार्यकारी अधिकारी नियुक्त किया है। उनके आगमन से लीग को अपना पहला सीईओ मिल गया, जबकि उन्हें रणनीति, वाणिज्यिक संबंधों और क्लबों और एआईएफएफ के साथ समन्वय का प्रभारी बना दिया गया।",
-      "category_hi": "खेल",
-      "title_hinglish": "aaeeesaela ko aba eka sieeo mila gaya hai। bharatiya phaुtabola ki sabase badaी naee bhumika men usa vyakti se milen",
-      "summary_hinglish": "indiyana supara liga ne apane klaba ke netritva vale dhanche ke tahata karana yadava ko mukhya karyakari adhikari niyukta kiya hai। unake aagamana se liga ko apana pahala sieeo mila gay, jabaki unhen rananiti, vanijyika sanbandhon aura klabon aura eaaeeephaepha ke satha samanvaya ka prabhari bana diya gaya।",
-      "category_hinglish": "Sports"
-    },
-    {
       "id": "714d069a9c3515ab",
       "title": "Chess Olympiad Round 5: Praggnanandhaa outwits Dutch No. 1 Anish Giri for first win; Vaishali’s defeat ca",
       "summary": "When it was finally revealed that Rameshbabu Praggnanandhaa would play Board 1, meaning he would face the toughest oppositions — like his oppoennet in Anish Giri in India's match against the Netherlands on Sunday — at the 46th Chess Olympiad in Samarkand, Uzbekistan, many raised eyebrows at world champion Dommaraju…",
@@ -168,6 +168,23 @@
       "category_hi": "खेल",
       "title_hinglish": "shataranja olanpiyada raunda 5: praganananda ne dacha nanbara 1 anisha giri ko harakara pahali jita hasila ki; vaishali ki hara kai",
       "summary_hinglish": "jaba antatah yaha pata chala ki rameshababu praganananda borda 1 khelenge, jisaka artha hai ki unhen sabase kathina virodhiyon ka samana karana padaेga - jaise ravivara ko nidaralainda ke khilapha bharata ke maicha men anisha giri ke rupa men unake pratidvandvi - samarakand, ujbekistana men 46ven shataranja olanpiyada men, kaee logon ne vishva chainpiyana dommaraju para bhaunhen chadhaा din...",
+      "category_hinglish": "Sports"
+    },
+    {
+      "id": "970d75965572d98a",
+      "title": "ISL gets a CEO now. Meet the man in Indian football's biggest new role",
+      "summary": "The Indian Super League has appointed Karan Yadav as chief executive officer under its club-led structure. His arrival gives the league its first CEO while placing him in charge of strategy, commercial ties and coordination with clubs and the AIFF.",
+      "category": "Sports",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/karan-yadav-211005963-16x9_0.jpeg?VersionId=2vrEPoAS0rIGWaaveCGiMUyjnOmjBq7U",
+      "source": "indiatoday.in",
+      "sourceUrl": "https://www.indiatoday.in/sports/football/story/indian-super-league-karan-yadav-first-ceo-club-led-model-2999406-2026-09-21",
+      "publishedAt": "2026-09-21T08:22:00.000Z",
+      "fetchedAt": "2026-09-21T08:40:17.306Z",
+      "title_hi": "आईएसएल को अब एक सीईओ मिल गया है। भारतीय फ़ुटबॉल की सबसे बड़ी नई भूमिका में उस व्यक्ति से मिलें",
+      "summary_hi": "इंडियन सुपर लीग ने अपने क्लब के नेतृत्व वाले ढांचे के तहत करण यादव को मुख्य कार्यकारी अधिकारी नियुक्त किया है। उनके आगमन से लीग को अपना पहला सीईओ मिल गया, जबकि उन्हें रणनीति, वाणिज्यिक संबंधों और क्लबों और एआईएफएफ के साथ समन्वय का प्रभारी बना दिया गया।",
+      "category_hi": "खेल",
+      "title_hinglish": "aaeeesaela ko aba eka sieeo mila gaya hai। bharatiya phaुtabola ki sabase badaी naee bhumika men usa vyakti se milen",
+      "summary_hinglish": "indiyana supara liga ne apane klaba ke netritva vale dhanche ke tahata karana yadava ko mukhya karyakari adhikari niyukta kiya hai। unake aagamana se liga ko apana pahala sieeo mila gay, jabaki unhen rananiti, vanijyika sanbandhon aura klabon aura eaaeeephaepha ke satha samanvaya ka prabhari bana diya gaya।",
       "category_hinglish": "Sports"
     },
     {
@@ -188,23 +205,6 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "b83145d8d7826ba3",
-      "title": "Buy Sun Pharmaceutical Industries; target of Rs 2070: Geojit Financial Services",
-      "summary": "Geojit Financial Services is bullish on Sun Pharmaceutical Industries has recommended buy rating on the stock with a target price of Rs 2070 in its research report dated September 21, 2026.",
-      "category": "Business & Finance",
-      "image": "https://images.moneycontrol.com/static-mcnews/2025/11/20251118070809_Buy_1280x720_3.png",
-      "source": "Moneycontrol.com",
-      "sourceUrl": "https://www.moneycontrol.com/news/business/stocks/buy-sun-pharmaceutical-industries-target-of-rs-2070-geojit-financial-services-14034494.html/amp",
-      "publishedAt": "2026-09-21T08:01:41.000Z",
-      "fetchedAt": "2026-09-21T09:43:02.099Z",
-      "title_hi": "सन फार्मास्युटिकल इंडस्ट्रीज खरीदें; 2070 रुपये का लक्ष्य: जियोजित फाइनेंशियल सर्विसेज",
-      "summary_hi": "जियोजित फाइनेंशियल सर्विसेज सन फार्मास्युटिकल इंडस्ट्रीज को लेकर उत्साहित है, जिसने 21 सितंबर, 2026 की अपनी शोध रिपोर्ट में 2070 रुपये के लक्ष्य मूल्य के साथ स्टॉक पर खरीद रेटिंग की सिफारिश की है।",
-      "category_hi": "बिज़नेस और फाइनेंस",
-      "title_hinglish": "sana pharmasyutikala indastrija khariden; 2070 rupaye ka lakshy: jiyojita phainenshiyala sarviseja",
-      "summary_hinglish": "jiyojita phainenshiyala sarviseja sana pharmasyutikala indastrija ko lekara utsahita hai, jisane 21 sitanbar, 2026 ki apani shodha riporta men 2070 rupaye ke lakshya mulya ke satha stoka para kharida retinga ki sipharisha ki hai।",
-      "category_hinglish": "Business aur Finance"
-    },
-    {
       "id": "7a5f20ee3c6e5fbc",
       "title": "Watch! Bhojpuri actress Kajal Raghwani mobbed, car attacked by crowd in Bihar - Mid-Day",
       "summary": "Bhojpuri actress Kajal Raghwani was recently mobbed, and her car was attacked while visiting Bihar Sharif for an event. She later assured fans she is safe",
@@ -220,6 +220,23 @@
       "category_hinglish": "Entertainment",
       "title_hinglish": "ghadaी! bihara men bhida ne bhojapuri abhinetri kajala raghavani ki kara para hamala kiya - mida-de",
       "summary_hinglish": "bhojapuri abhinetri kajala raghavani ko hala hi men eka karyakrama ke lie biharasharipha jate samaya bhida ne ghera liya aura unaki kara para hamala kiya gaya। bada men unhonne prashansakon ko aashvasana diya ki vaha surakshita hain"
+    },
+    {
+      "id": "b83145d8d7826ba3",
+      "title": "Buy Sun Pharmaceutical Industries; target of Rs 2070: Geojit Financial Services",
+      "summary": "Geojit Financial Services is bullish on Sun Pharmaceutical Industries has recommended buy rating on the stock with a target price of Rs 2070 in its research report dated September 21, 2026.",
+      "category": "Business & Finance",
+      "image": "https://images.moneycontrol.com/static-mcnews/2025/11/20251118070809_Buy_1280x720_3.png",
+      "source": "Moneycontrol.com",
+      "sourceUrl": "https://www.moneycontrol.com/news/business/stocks/buy-sun-pharmaceutical-industries-target-of-rs-2070-geojit-financial-services-14034494.html/amp",
+      "publishedAt": "2026-09-21T08:01:41.000Z",
+      "fetchedAt": "2026-09-21T09:43:02.099Z",
+      "title_hi": "सन फार्मास्युटिकल इंडस्ट्रीज खरीदें; 2070 रुपये का लक्ष्य: जियोजित फाइनेंशियल सर्विसेज",
+      "summary_hi": "जियोजित फाइनेंशियल सर्विसेज सन फार्मास्युटिकल इंडस्ट्रीज को लेकर उत्साहित है, जिसने 21 सितंबर, 2026 की अपनी शोध रिपोर्ट में 2070 रुपये के लक्ष्य मूल्य के साथ स्टॉक पर खरीद रेटिंग की सिफारिश की है।",
+      "category_hi": "बिज़नेस और फाइनेंस",
+      "title_hinglish": "sana pharmasyutikala indastrija khariden; 2070 rupaye ka lakshy: jiyojita phainenshiyala sarviseja",
+      "summary_hinglish": "jiyojita phainenshiyala sarviseja sana pharmasyutikala indastrija ko lekara utsahita hai, jisane 21 sitanbar, 2026 ki apani shodha riporta men 2070 rupaye ke lakshya mulya ke satha stoka para kharida retinga ki sipharisha ki hai।",
+      "category_hinglish": "Business aur Finance"
     },
     {
       "id": "9ab23b45a9fbc5a1",
@@ -239,23 +256,6 @@
       "category_hinglish": "Sports"
     },
     {
-      "id": "132c97aeb475e396",
-      "title": "Starbucks bets on Chennai for global tech operations, plans 800 jobs",
-      "summary": "The US coffee giant is expanding its technology footprint in India as global companies increasingly use capability centres for software, finance and other high-value functions.",
-      "category": "Technology",
-      "image": "https://images.firstpost.com/uploads/2026/08/image-2026-08-9dd113922b0b2310017299d07698eedd-1200x675.jpg?im=FitAndFill,width=1200,height=675",
-      "source": "Firstpost",
-      "sourceUrl": "https://www.firstpost.com/business/starbucks-bets-on-chennai-for-global-tech-operations-plans-800-jobs-14047282.html",
-      "publishedAt": "2026-09-21T07:57:16.000Z",
-      "fetchedAt": "2026-09-21T08:03:27.085Z",
-      "title_hi": "स्टारबक्स ने वैश्विक तकनीकी संचालन के लिए चेन्नई पर दांव लगाया, 800 नौकरियों की योजना बनाई",
-      "summary_hi": "अमेरिकी कॉफी दिग्गज भारत में अपने प्रौद्योगिकी पदचिह्न का विस्तार कर रही है क्योंकि वैश्विक कंपनियां सॉफ्टवेयर, वित्त और अन्य उच्च-मूल्य वाले कार्यों के लिए क्षमता केंद्रों का तेजी से उपयोग कर रही हैं।",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "starabaksa ne vaishvika takaniki sanchalana ke lie chennaee para danva lagay, 800 naukariyon ki yojana banaee",
-      "summary_hinglish": "ameriki kophi diggaja bharata men apane praudyogiki padachihna ka vistara kara rahi hai kyonki vaishvika kanpaniyan sophtaveyar, vitta aura anya uchcha-mulya vale karyon ke lie kshamata kendron ka teji se upayoga kara rahi hain।",
-      "category_hinglish": "Technology"
-    },
-    {
       "id": "b0a7445d8fa7d0e5",
       "title": "Bihar forms SIT to probe vehicle insurance fraud, tightens challan norms",
       "summary": "The Bihar Police have taken a series of measures to curb insurance fraud and improve traffic enforcement, including the formation of a Special Investigation Team (SIT) under the Crime Investigation Department (CID) to probe suspected ‘vehicle implant’ scams, stricter norms for issuing traffic challans and a directive to release accident-hit…",
@@ -271,6 +271,23 @@
       "title_hinglish": "bihar ne vahan bim dhokhadhadी ki janch ke lie esaaiti gathit ki, chalan manadand sakht kie",
       "category_hinglish": "Crime aur Breaking News",
       "summary_hinglish": "bihara pulisa ne bima dhokhadhadaी ko rokane aura yatayata pravartana men sudhara ke lie kaee kadama uthae hain, jisamen sandigdha 'vahana pratyaropana' ghotalon ki jancha ke lie aparadha jancha vibhaga (siaaeedi) ke tahata eka vishesha jancha dala (esaaaeeti) ka gathan, yatayata chalana jari karane ke lie sakhta manadanda aura durghatana-prabhavita logon ko riha karane ka nirdesha shamila hai..."
+    },
+    {
+      "id": "132c97aeb475e396",
+      "title": "Starbucks bets on Chennai for global tech operations, plans 800 jobs",
+      "summary": "The US coffee giant is expanding its technology footprint in India as global companies increasingly use capability centres for software, finance and other high-value functions.",
+      "category": "Technology",
+      "image": "https://images.firstpost.com/uploads/2026/08/image-2026-08-9dd113922b0b2310017299d07698eedd-1200x675.jpg?im=FitAndFill,width=1200,height=675",
+      "source": "Firstpost",
+      "sourceUrl": "https://www.firstpost.com/business/starbucks-bets-on-chennai-for-global-tech-operations-plans-800-jobs-14047282.html",
+      "publishedAt": "2026-09-21T07:57:16.000Z",
+      "fetchedAt": "2026-09-21T08:03:27.085Z",
+      "title_hi": "स्टारबक्स ने वैश्विक तकनीकी संचालन के लिए चेन्नई पर दांव लगाया, 800 नौकरियों की योजना बनाई",
+      "summary_hi": "अमेरिकी कॉफी दिग्गज भारत में अपने प्रौद्योगिकी पदचिह्न का विस्तार कर रही है क्योंकि वैश्विक कंपनियां सॉफ्टवेयर, वित्त और अन्य उच्च-मूल्य वाले कार्यों के लिए क्षमता केंद्रों का तेजी से उपयोग कर रही हैं।",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "starabaksa ne vaishvika takaniki sanchalana ke lie chennaee para danva lagay, 800 naukariyon ki yojana banaee",
+      "summary_hinglish": "ameriki kophi diggaja bharata men apane praudyogiki padachihna ka vistara kara rahi hai kyonki vaishvika kanpaniyan sophtaveyar, vitta aura anya uchcha-mulya vale karyon ke lie kshamata kendron ka teji se upayoga kara rahi hain।",
+      "category_hinglish": "Technology"
     },
     {
       "id": "3353c4783bc6cd3f",
@@ -307,23 +324,6 @@
       "summary_hinglish": "prasada ne kaha ki sarakara chahati hai ki deta kendron ke vikasa ke satha-satha unake paryavaraniya padachihna ko sanbodhita karane ke upaya bhi hon।"
     },
     {
-      "id": "0dc6a570f3bc7e07",
-      "title": "72nd National Film Awards: Key highlights",
-      "summary": "The 72nd National Film Awards have recognised outstanding achievements across India’s diverse film industry, honouring feature films, non-feature films and writing on cinema for films certified during 2024. The winners were announced on July 18, 2026, by the chairpersons of the three award juries. President of India will present the…",
-      "category": "National & Trending News",
-      "image": "https://ddindia.co.in/wp-content/uploads/2026/09/National-Film-Awards-highli.jpg",
-      "source": "DD India",
-      "sourceUrl": "https://ddindia.co.in/2026/09/72nd-national-film-awards-key-highlights/",
-      "publishedAt": "2026-09-21T07:52:30.000Z",
-      "fetchedAt": "2026-09-21T09:09:10.447Z",
-      "title_hi": "72वें राष्ट्रीय फिल्म पुरस्कार: मुख्य विशेषताएं",
-      "summary_hi": "72वें राष्ट्रीय फिल्म पुरस्कारों ने भारत के विविध फिल्म उद्योग में उत्कृष्ट उपलब्धियों को मान्यता दी है, फीचर फिल्मों, गैर-फीचर फिल्मों और 2024 के दौरान प्रमाणित फिल्मों के लिए सिनेमा पर लेखन का सम्मान किया है। विजेताओं की घोषणा 18 जुलाई, 2026 को तीन पुरस्कार जूरी के अध्यक्षों द्वारा की गई थी। भारत के राष्ट्रपति प्रस्तुत करेंगे...",
-      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
-      "title_hinglish": "72ven rashtriya philma puraskar: mukhya visheshataen",
-      "summary_hinglish": "72ven rashtriya philma puraskaron ne bharata ke vividha philma udyoga men utkrishta upalabdhiyon ko manyata di hai, phichara philmon, gaira-phichara philmon aura 2024 ke daurana pramanita philmon ke lie sinema para lekhana ka sammana kiya hai। vijetaon ki ghoshana 18 julaee, 2026 ko tina puraskara juri ke adhyakshon dvara ki gaee thi। bharata ke rashtrapati prastuta karenge...",
-      "category_hinglish": "National aur Trending News"
-    },
-    {
       "id": "a4bcee89cdfc8490",
       "title": "Kangana Ranaut HITS BACK at people trolling Maithili Thakur for arriving in Rolls-Royce at Lalbaugcha Raj",
       "summary": "Kangana Ranaut has come out in support of young singing talent and Bihar MLA Maithili Thakur, who was trolled for visiting Mumbai's Lalbaugcha Raja pandal in a luxury Rolls-Royce Cullinan. Kangana asked why critics feel hurt whenever politicians try to make their own lives better.",
@@ -339,6 +339,23 @@
       "title_hinglish": "kangan ranaut ne lalabagach raj men rols-rॉyas men pahunchane ke lie maithili thakur ko trol karane vale logon par palatavar kiy",
       "category_hinglish": "Entertainment",
       "summary_hinglish": "kangana ranauta yuva gayana pratibha aura bihara vidhayaka maithili thakura ke samarthana men samane aaee hain, jinhen lakjari rolsa-royasa kalinana men munbaee ke lalabagacha raja pandala men jane ke lie trola kiya gaya tha। kangana ne puchha ki jaba bhi rajaneta apane jivana ko behatara banane ki koshisha karate hain to aalochakon ko dukha kyon hota hai।"
+    },
+    {
+      "id": "0dc6a570f3bc7e07",
+      "title": "72nd National Film Awards: Key highlights",
+      "summary": "The 72nd National Film Awards have recognised outstanding achievements across India’s diverse film industry, honouring feature films, non-feature films and writing on cinema for films certified during 2024. The winners were announced on July 18, 2026, by the chairpersons of the three award juries. President of India will present the…",
+      "category": "National & Trending News",
+      "image": "https://ddindia.co.in/wp-content/uploads/2026/09/National-Film-Awards-highli.jpg",
+      "source": "DD India",
+      "sourceUrl": "https://ddindia.co.in/2026/09/72nd-national-film-awards-key-highlights/",
+      "publishedAt": "2026-09-21T07:52:30.000Z",
+      "fetchedAt": "2026-09-21T09:09:10.447Z",
+      "title_hi": "72वें राष्ट्रीय फिल्म पुरस्कार: मुख्य विशेषताएं",
+      "summary_hi": "72वें राष्ट्रीय फिल्म पुरस्कारों ने भारत के विविध फिल्म उद्योग में उत्कृष्ट उपलब्धियों को मान्यता दी है, फीचर फिल्मों, गैर-फीचर फिल्मों और 2024 के दौरान प्रमाणित फिल्मों के लिए सिनेमा पर लेखन का सम्मान किया है। विजेताओं की घोषणा 18 जुलाई, 2026 को तीन पुरस्कार जूरी के अध्यक्षों द्वारा की गई थी। भारत के राष्ट्रपति प्रस्तुत करेंगे...",
+      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
+      "title_hinglish": "72ven rashtriya philma puraskar: mukhya visheshataen",
+      "summary_hinglish": "72ven rashtriya philma puraskaron ne bharata ke vividha philma udyoga men utkrishta upalabdhiyon ko manyata di hai, phichara philmon, gaira-phichara philmon aura 2024 ke daurana pramanita philmon ke lie sinema para lekhana ka sammana kiya hai। vijetaon ki ghoshana 18 julaee, 2026 ko tina puraskara juri ke adhyakshon dvara ki gaee thi। bharata ke rashtrapati prastuta karenge...",
+      "category_hinglish": "National aur Trending News"
     },
     {
       "id": "6d052ea9b6c190c3",
@@ -358,23 +375,6 @@
       "category_hinglish": "Sports"
     },
     {
-      "id": "ebfa6392846964b7",
-      "title": "India wants Microsoft to deepen AI infra localisation, take data centres closer to power sources: MeitY...",
-      "summary": "S Krishnan said India needs to balance access to advanced global technology with building domestic and sovereign capabilities as demand for AI infrastructure grows.",
-      "category": "Technology",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260720131433_S-Krishnan.png",
-      "source": "Moneycontrol.com",
-      "sourceUrl": "https://www.moneycontrol.com/technology/india-wants-microsoft-to-deepen-ai-infra-localisation-take-data-centres-closer-to-power-sources-meity-secretary-article-14034450.html",
-      "publishedAt": "2026-09-21T07:24:27.000Z",
-      "fetchedAt": "2026-09-21T08:40:41.869Z",
-      "title_hi": "भारत चाहता है कि माइक्रोसॉफ्ट एआई इन्फ्रा स्थानीयकरण को गहरा करे, डेटा केंद्रों को बिजली स्रोतों के करीब ले जाए: MeitY...",
-      "summary_hi": "एस कृष्णन ने कहा कि एआई बुनियादी ढांचे की मांग बढ़ने के कारण भारत को घरेलू और संप्रभु क्षमताओं के निर्माण के साथ उन्नत वैश्विक प्रौद्योगिकी तक पहुंच को संतुलित करने की जरूरत है।",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "bharata chahata hai ki maikrosophta eaaee inphra sthaniyakarana ko gahara kare, deta kendron ko bijali sroton ke kariba le jae: MeitY...",
-      "summary_hinglish": "esa krishnana ne kaha ki eaaee buniyadi dhanche ki manga badhane ke karana bharata ko gharelu aura sanprabhu kshamataon ke nirmana ke satha unnata vaishvika praudyogiki taka pahuncha ko santulita karane ki jarurata hai।",
-      "category_hinglish": "Technology"
-    },
-    {
       "id": "f9be4fc84aef9acd",
       "title": "Bihar govt's coffers empty, yet crores spent on PM Modi's birthday celebrations: Tejashwi Yadav",
       "summary": "Tejashwi Yadav alleges state coffers are empty while crores are spent on Prime Minister Narendra Modi birthday celebrations, demanding immediate financial assistance for affected families.",
@@ -390,6 +390,23 @@
       "title_hinglish": "bihar sarakar k khajan khali, phir bhi piem modi ke janmadin samaroh par karodोn kharch: tejasvi yadav",
       "category_hinglish": "Politics aur Government",
       "summary_hinglish": "tejasvi yadava ne aaropa lagaya ki rajya ka khajana khali hai jabaki pradhanamantri narendra modi ke janmadina samaroha para karodaोn kharcha kie ja rahe hain, unhonne prabhavita parivaron ke lie tatkala vittiya sahayata ki manga ki।"
+    },
+    {
+      "id": "ebfa6392846964b7",
+      "title": "India wants Microsoft to deepen AI infra localisation, take data centres closer to power sources: MeitY...",
+      "summary": "S Krishnan said India needs to balance access to advanced global technology with building domestic and sovereign capabilities as demand for AI infrastructure grows.",
+      "category": "Technology",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260720131433_S-Krishnan.png",
+      "source": "Moneycontrol.com",
+      "sourceUrl": "https://www.moneycontrol.com/technology/india-wants-microsoft-to-deepen-ai-infra-localisation-take-data-centres-closer-to-power-sources-meity-secretary-article-14034450.html",
+      "publishedAt": "2026-09-21T07:24:27.000Z",
+      "fetchedAt": "2026-09-21T08:40:41.869Z",
+      "title_hi": "भारत चाहता है कि माइक्रोसॉफ्ट एआई इन्फ्रा स्थानीयकरण को गहरा करे, डेटा केंद्रों को बिजली स्रोतों के करीब ले जाए: MeitY...",
+      "summary_hi": "एस कृष्णन ने कहा कि एआई बुनियादी ढांचे की मांग बढ़ने के कारण भारत को घरेलू और संप्रभु क्षमताओं के निर्माण के साथ उन्नत वैश्विक प्रौद्योगिकी तक पहुंच को संतुलित करने की जरूरत है।",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "bharata chahata hai ki maikrosophta eaaee inphra sthaniyakarana ko gahara kare, deta kendron ko bijali sroton ke kariba le jae: MeitY...",
+      "summary_hinglish": "esa krishnana ne kaha ki eaaee buniyadi dhanche ki manga badhane ke karana bharata ko gharelu aura sanprabhu kshamataon ke nirmana ke satha unnata vaishvika praudyogiki taka pahuncha ko santulita karane ki jarurata hai।",
+      "category_hinglish": "Technology"
     },
     {
       "id": "94eb67fa70cd6928",
@@ -409,21 +426,6 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "b67fbc9d1db257a0",
-      "title": "AI adoption in India’s financial services set to leap from 26% to 65% within a year",
-      "summary": "Adoption of artificial intelligence across India’s financial services industry is expected to rise from 26% to 65% within 12 months, according to a new report from KPMG in India and Mastercard.",
-      "category": "Technology",
-      "image": "https://www.consultancy.in/illustrations/news/spotlight/2026-09-18-121833805-AI_adoption_in_India_s_financial_services_set_to_leap_from_26__to_65__within_a_year.jpg?webp",
-      "source": "Consultancy.in",
-      "sourceUrl": "https://www.consultancy.in/news/4600/ai-adoption-in-indias-financial-services-set-to-leap-from-26-to-65-within-a-year",
-      "publishedAt": "2026-09-21T07:07:30.000Z",
-      "fetchedAt": "2026-09-21T09:55:20.321Z",
-      "title_hi": "",
-      "summary_hi": "",
-      "category_hi": "टेक्नोलॉजी",
-      "category_hinglish": "Technology"
-    },
-    {
       "id": "d340ef50077a9df3",
       "title": "Bhojpuri actress Kajal Raghwani is safe after fans CHASE her car, BREAK WINDOWS at Bihar Sharif showroom",
       "summary": "The Times of India brings the Latest & Top Breaking News on Politics and Current Affairs in India & around the World, Cricket, Sports, Business, Bollywood News and Entertainment, Science, Technology, Health & Fitness news & opinions from leading columnists.",
@@ -439,6 +441,23 @@
       "title_hinglish": "biharasharipha shoruma men prashansakon dvara unaki kara ka pichha karane, khidakiyan todane ke bada bhojapuri abhinetri kajala raghavani surakshita hain",
       "summary_hinglish": "taimsa ऑpha indiya bharata aura duniya bhara men rajaniti aura samasamayika mamalon, kriket, khel, vyapar, bolivuda samachara aura manoranjan, vijnyan, praudyogiki, svasthya aura phitanesa samachara aura pramukha stanbhakaron ki raya para navinatama aura shirsha brekinga samachara lata hai।",
       "category_hinglish": "Entertainment"
+    },
+    {
+      "id": "b67fbc9d1db257a0",
+      "title": "AI adoption in India’s financial services set to leap from 26% to 65% within a year",
+      "summary": "Adoption of artificial intelligence across India’s financial services industry is expected to rise from 26% to 65% within 12 months, according to a new report from KPMG in India and Mastercard.",
+      "category": "Technology",
+      "image": "https://www.consultancy.in/illustrations/news/spotlight/2026-09-18-121833805-AI_adoption_in_India_s_financial_services_set_to_leap_from_26__to_65__within_a_year.jpg?webp",
+      "source": "Consultancy.in",
+      "sourceUrl": "https://www.consultancy.in/news/4600/ai-adoption-in-indias-financial-services-set-to-leap-from-26-to-65-within-a-year",
+      "publishedAt": "2026-09-21T07:07:30.000Z",
+      "fetchedAt": "2026-09-21T09:55:20.321Z",
+      "title_hi": "भारत की वित्तीय सेवाओं में AI को अपनाना एक वर्ष के भीतर 26% से बढ़कर 65% हो जाएगा",
+      "summary_hi": "केपीएमजी इन इंडिया और मास्टरकार्ड की एक नई रिपोर्ट के अनुसार, भारत के वित्तीय सेवा उद्योग में कृत्रिम बुद्धिमत्ता को अपनाने से 12 महीनों के भीतर 26% से 65% तक बढ़ने की उम्मीद है।",
+      "category_hi": "टेक्नोलॉजी",
+      "category_hinglish": "Technology",
+      "title_hinglish": "bharata ki vittiya sevaon men AI ko apanana eka varsha ke bhitara 26% se badhakara 65% ho jaega",
+      "summary_hinglish": "kepiemaji ina indiya aura mastarakarda ki eka naee riporta ke anusar, bharata ke vittiya seva udyoga men kritrima buddhimatta ko apanane se 12 mahinon ke bhitara 26% se 65% taka badhane ki ummida hai।"
     },
     {
       "id": "b40a2d8f98e52cc5",
@@ -475,6 +494,23 @@
       "summary_hinglish": "stapha raitaraaraba phainensa dvar: misra ke sanchara aura suchana praudyogiki mantri raphata hindi aura misra men bharata ke rajaduta suresha ke. reddi ne kritrima buddhimatta (eaaee), saibara suraksh, dijitala kaushal, navachara aura udyamita men dvipakshiya sahayoga badhaाne para bhi charcha ki..."
     },
     {
+      "id": "3ab8af1ef7196e83",
+      "title": "The Vvaan: Sidharth Malhotra and Tamannaah Bhatia honour Bihar’s Chhath rituals",
+      "summary": "The team behind the movie The Vvaan visited Patna ahead of the film’s September 25 release. Tamannaah Bhatia and Sidharth Malhotra, along with their producers,",
+      "category": "Entertainment",
+      "image": "https://cf-images.assettype.com/indulgexpress%2F2026-09-20%2F2s2t2y47%2F818062303186160743400262932876852348868319870n.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "IndulgExpress",
+      "sourceUrl": "https://www.indulgexpress.com/amp/story/entertainment/celebs/2026/Sep/20/the-vvaan-sidharth-malhotra-and-tamannaah-bhatia-honour-bihars-chhath-rituals",
+      "publishedAt": "2026-09-20T09:11:00.000Z",
+      "fetchedAt": "2026-09-20T16:52:51.875Z",
+      "title_hi": "द वावन: सिद्धार्थ मल्होत्रा ​​और तमन्ना भाटिया बिहार के छठ अनुष्ठानों का सम्मान करते हैं",
+      "summary_hi": "फिल्म द वावान की 25 सितंबर को रिलीज से पहले टीम ने पटना का दौरा किया। तमन्ना भाटिया और सिद्धार्थ मल्होत्रा, अपने निर्माताओं के साथ,",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "d vavan: siddharth malhotr ​​aur tamann bhatiy bihar ke chhath anushthanon k samman karate hain",
+      "category_hinglish": "Entertainment",
+      "summary_hinglish": "philma da vavana ki 25 sitanbara ko rilija se pahale tima ne patana ka daura kiya। tamanna bhatiya aura siddhartha malhotr, apane nirmataon ke sath,"
+    },
+    {
       "id": "32535c840e3c8062",
       "title": "Enduring 'Stoneman' mystery: 13 skulls crushed in the dead of night",
       "summary": "Long before true-crime documentaries turned unsolved murders into national conversations, a series of killings on the streets of Mumbai and Kolkata created one of country's enduring crime mysteries.",
@@ -490,23 +526,6 @@
       "title_hinglish": "sthayi 'stonamaina' rahasy: rata ke andhere men kuchala di gaeen 13 khopadaिyan",
       "summary_hinglish": "sachche-aparadha vrittachitron dvara anasulajhi hatyaon ko rashtriya batachita men badalane se bahuta pahale, munbaee aura kolakata ki sadakon para hatyaon ki eka shrrinkhala ne desha ke sthayi aparadha rahasyon men se eka ka nirmana kiya।",
       "category_hinglish": "Crime aur Breaking News"
-    },
-    {
-      "id": "5ff70aaff1a0df75",
-      "title": "From Digital Governance To AI Leadership Uttar Pradesh’s Next Growth Chapter",
-      "summary": "Uttar Pradesh is strengthening its journey towards becoming a leading digital and technology hub through progressive policies, robust infrastructure, and a strong focus on innovation, investment, and digital governance. Shri Alok Kumar, Principal Secretary, Department of IT & Electronics, Government of Uttar Pradesh, shares his insights on the State's technology…",
-      "category": "Technology",
-      "image": "https://egov.eletsonline.com/wp-content/uploads/2026/09/Shri-Alok-Kumar.jpg",
-      "source": "Elets eGov",
-      "sourceUrl": "https://egov.eletsonline.com/2026/09/from-digital-governance-to-ai-leadership-uttar-pradeshs-next-growth-chapter/",
-      "publishedAt": "2026-09-20T10:05:57.000Z",
-      "fetchedAt": "2026-09-21T09:55:32.514Z",
-      "title_hi": "डिजिटल गवर्नेंस से एआई नेतृत्व तक उत्तर प्रदेश का अगला विकास अध्याय",
-      "summary_hi": "उत्तर प्रदेश प्रगतिशील नीतियों, मजबूत बुनियादी ढांचे और नवाचार, निवेश और डिजिटल शासन पर मजबूत फोकस के माध्यम से एक अग्रणी डिजिटल और प्रौद्योगिकी केंद्र बनने की दिशा में अपनी यात्रा को मजबूत कर रहा है। उत्तर प्रदेश सरकार के आईटी और इलेक्ट्रॉनिक्स विभाग के प्रमुख सचिव श्री आलोक कुमार ने राज्य की प्रौद्योगिकी पर अपनी अंतर्दृष्टि साझा की...",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "dijitala gavarnensa se eaaee netritva taka uttara pradesha ka agala vikasa adhyaya",
-      "summary_hinglish": "uttara pradesha pragatishila nitiyon, majabuta buniyadi dhanche aura navachar, nivesha aura dijitala shasana para majabuta phokasa ke madhyama se eka agrani dijitala aura praudyogiki kendra banane ki disha men apani yatra ko majabuta kara raha hai। uttara pradesha sarakara ke aaeeti aura ilektroniksa vibhaga ke pramukha sachiva shri aaloka kumara ne rajya ki praudyogiki para apani antardrishti sajha ki...",
-      "category_hinglish": "Technology"
     },
     {
       "id": "d2387bf6d51c952e",
@@ -526,6 +545,23 @@
       "category_hinglish": "Crime aur Breaking News"
     },
     {
+      "id": "3faf8d7918681ae3",
+      "title": "East Zone’s new cricketing core: How Bihar and Jharkhand talent powered Duleep Trophy win",
+      "summary": "East Zone’s Duleep Trophy triumph over favourites South Zone reflected a changing power centre in Indian domestic cricket, with players from Jharkhand and Bihar leading the charge. Ishan Kishan’s 270, alongside crucial contributions from Kumar Kushagra, Mohammed Kounain Quraishi and Shikhar Mohan, highlighted the region’s growing talent pool and its…",
+      "category": "Sports",
+      "image": "https://s.yimg.com/lo/mysterio/api/3dc928d45c233e20e7bedf13d3a6eb4eac39e48549b354b899a53a7c19ce237b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwillow_sports_articles_673%2F3b8ecd37f760fa5998ff90bbb15f2580.jpg",
+      "source": "Yahoo Sports",
+      "sourceUrl": "https://sports.yahoo.com/articles/east-zone-cricketing-core-bihar-080100670.html",
+      "publishedAt": "2026-09-20T08:01:00.000Z",
+      "fetchedAt": "2026-09-20T16:50:33.873Z",
+      "title_hi": "पूर्वी क्षेत्र का नया क्रिकेटिंग कोर: कैसे बिहार और झारखंड की प्रतिभा ने दलीप ट्रॉफी जीत हासिल की",
+      "summary_hi": "पूर्वी क्षेत्र की पसंदीदा दक्षिण क्षेत्र पर दलीप ट्रॉफी की जीत ने भारतीय घरेलू क्रिकेट में एक बदलते शक्ति केंद्र को दर्शाया, जिसमें झारखंड और बिहार के खिलाड़ी नेतृत्व कर रहे थे। ईशान किशन के 270, कुमार कुशाग्र, मोहम्मद कौनैन कुरैशी और शिखर मोहन के महत्वपूर्ण योगदान के साथ, इस क्षेत्र की बढ़ती प्रतिभा पूल और इसके…",
+      "category_hi": "खेल",
+      "title_hinglish": "purvi kshetr k nay kriketing kor: kaise bihar aur jharakhand ki pratibh ne dalip trॉphi jit hasil ki",
+      "category_hinglish": "Sports",
+      "summary_hinglish": "purvi kshetra ki pasandida dakshina kshetra para dalipa trophi ki jita ne bharatiya gharelu kriketa men eka badalate shakti kendra ko darshay, jisamen jharakhanda aura bihara ke khiladaी netritva kara rahe the। eeshana kishana ke 270, kumara kushagr, mohammada kaunaina kuraishi aura shikhara mohana ke mahatvapurna yogadana ke sath, isa kshetra ki badhati pratibha pula aura isake…"
+    },
+    {
       "id": "c63f3fd662b31735",
       "title": "Indian firms moving AI from pilots towards deployment: Salesforce - People Matters",
       "summary": "Salesforce says Indian enterprises are moving from AI pilots to production deployments, with agentic AI, infrastructure investment and workforce reskilling set to drive the next phase of growth.",
@@ -541,23 +577,6 @@
       "title_hinglish": "bharatiya kanpaniyan eaaee ko payalata se tainati ki ora le ja rahi hain: selsaphorsa - pipala maitarsa",
       "summary_hinglish": "selsaphorsa ka kahana hai ki bharatiya udyama vikasa ke agale charana ko aage badhaाne ke lie ejentika eaaee, buniyadi dhanche ke nivesha aura karyabala riskilinga ke satha eaaee payalata se utpadana tainati ki ora badha rahe hain।",
       "category_hinglish": "Technology"
-    },
-    {
-      "id": "3ab8af1ef7196e83",
-      "title": "The Vvaan: Sidharth Malhotra and Tamannaah Bhatia honour Bihar’s Chhath rituals",
-      "summary": "The team behind the movie The Vvaan visited Patna ahead of the film’s September 25 release. Tamannaah Bhatia and Sidharth Malhotra, along with their producers,",
-      "category": "Entertainment",
-      "image": "https://cf-images.assettype.com/indulgexpress%2F2026-09-20%2F2s2t2y47%2F818062303186160743400262932876852348868319870n.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "source": "IndulgExpress",
-      "sourceUrl": "https://www.indulgexpress.com/amp/story/entertainment/celebs/2026/Sep/20/the-vvaan-sidharth-malhotra-and-tamannaah-bhatia-honour-bihars-chhath-rituals",
-      "publishedAt": "2026-09-20T09:11:00.000Z",
-      "fetchedAt": "2026-09-20T16:52:51.875Z",
-      "title_hi": "द वावन: सिद्धार्थ मल्होत्रा ​​और तमन्ना भाटिया बिहार के छठ अनुष्ठानों का सम्मान करते हैं",
-      "summary_hi": "फिल्म द वावान की 25 सितंबर को रिलीज से पहले टीम ने पटना का दौरा किया। तमन्ना भाटिया और सिद्धार्थ मल्होत्रा, अपने निर्माताओं के साथ,",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "d vavan: siddharth malhotr ​​aur tamann bhatiy bihar ke chhath anushthanon k samman karate hain",
-      "category_hinglish": "Entertainment",
-      "summary_hinglish": "philma da vavana ki 25 sitanbara ko rilija se pahale tima ne patana ka daura kiya। tamanna bhatiya aura siddhartha malhotr, apane nirmataon ke sath,"
     },
     {
       "id": "fb3eb8bf43a18857",
@@ -577,6 +596,23 @@
       "category_hinglish": "Sports"
     },
     {
+      "id": "df4ee11c80718c75",
+      "title": "Prashant Kishor's JSP announces 5 candidates for Bihar Legislative Council polls | India News",
+      "summary": "Elections are to be held for a total of eight constituencies -- four graduates' and teachers' seats each -- terms of which expire in November. | India News",
+      "category": "Politics & Government",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/20/1600x900/logo/ANI-20260817010-0_1789888983916_Wnjr_1789888994868_1BmE_71c08991-5f2a-46a2-82be-9b91283a90bb_N2z0.jpg",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/prashant-kishors-jsp-announces-5-candidates-for-bihar-legislative-council-poll-101789888783357.html",
+      "publishedAt": "2026-09-20T07:23:57.000Z",
+      "fetchedAt": "2026-09-20T19:08:25.327Z",
+      "title_hi": "प्रशांत किशोर की जेएसपी ने बिहार विधान परिषद चुनाव के लिए 5 उम्मीदवारों की घोषणा की | भारत समाचार",
+      "summary_hi": "कुल आठ निर्वाचन क्षेत्रों के लिए चुनाव होने हैं - चार स्नातक और शिक्षक सीटें - जिनकी शर्तें नवंबर में समाप्त हो रही हैं। | भारत समाचार",
+      "category_hi": "राजनीति और सरकार",
+      "category_hinglish": "Politics aur Government",
+      "title_hinglish": "prashanta kishora ki jeesapi ne bihara vidhana parishada chunava ke lie 5 ummidavaron ki ghoshana ki | bharata samachara",
+      "summary_hinglish": "kula aatha nirvachana kshetron ke lie chunava hone hain - chara snataka aura shikshaka siten - jinaki sharten navanbara men samapta ho rahi hain। | bharata samachara"
+    },
+    {
       "id": "0972779e57fadeae",
       "title": "India set to add a record 125-130 new GCCs this year, Hyderabad takes the lead",
       "summary": "Hyderabad has beaten Bengaluru with 40 new centres this year, so far, while India",
@@ -592,23 +628,6 @@
       "category_hinglish": "Technology",
       "title_hinglish": "bharata isa sala rikorda 125-130 nae jisisi jodane ki taiyari men hai, haidarabada agrani hai",
       "summary_hinglish": "isa sala aba taka 40 nae sentaron ke satha haidarabada ne bengaluru ko pachhada diya hai, jabaki bharata"
-    },
-    {
-      "id": "3faf8d7918681ae3",
-      "title": "East Zone’s new cricketing core: How Bihar and Jharkhand talent powered Duleep Trophy win",
-      "summary": "East Zone’s Duleep Trophy triumph over favourites South Zone reflected a changing power centre in Indian domestic cricket, with players from Jharkhand and Bihar leading the charge. Ishan Kishan’s 270, alongside crucial contributions from Kumar Kushagra, Mohammed Kounain Quraishi and Shikhar Mohan, highlighted the region’s growing talent pool and its…",
-      "category": "Sports",
-      "image": "https://s.yimg.com/lo/mysterio/api/3dc928d45c233e20e7bedf13d3a6eb4eac39e48549b354b899a53a7c19ce237b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwillow_sports_articles_673%2F3b8ecd37f760fa5998ff90bbb15f2580.jpg",
-      "source": "Yahoo Sports",
-      "sourceUrl": "https://sports.yahoo.com/articles/east-zone-cricketing-core-bihar-080100670.html",
-      "publishedAt": "2026-09-20T08:01:00.000Z",
-      "fetchedAt": "2026-09-20T16:50:33.873Z",
-      "title_hi": "पूर्वी क्षेत्र का नया क्रिकेटिंग कोर: कैसे बिहार और झारखंड की प्रतिभा ने दलीप ट्रॉफी जीत हासिल की",
-      "summary_hi": "पूर्वी क्षेत्र की पसंदीदा दक्षिण क्षेत्र पर दलीप ट्रॉफी की जीत ने भारतीय घरेलू क्रिकेट में एक बदलते शक्ति केंद्र को दर्शाया, जिसमें झारखंड और बिहार के खिलाड़ी नेतृत्व कर रहे थे। ईशान किशन के 270, कुमार कुशाग्र, मोहम्मद कौनैन कुरैशी और शिखर मोहन के महत्वपूर्ण योगदान के साथ, इस क्षेत्र की बढ़ती प्रतिभा पूल और इसके…",
-      "category_hi": "खेल",
-      "title_hinglish": "purvi kshetr k nay kriketing kor: kaise bihar aur jharakhand ki pratibh ne dalip trॉphi jit hasil ki",
-      "category_hinglish": "Sports",
-      "summary_hinglish": "purvi kshetra ki pasandida dakshina kshetra para dalipa trophi ki jita ne bharatiya gharelu kriketa men eka badalate shakti kendra ko darshay, jisamen jharakhanda aura bihara ke khiladaी netritva kara rahe the। eeshana kishana ke 270, kumara kushagr, mohammada kaunaina kuraishi aura shikhara mohana ke mahatvapurna yogadana ke sath, isa kshetra ki badhati pratibha pula aura isake…"
     },
     {
       "id": "8be230a97241d375",
@@ -643,74 +662,6 @@
       "category_hinglish": "Crime aur Breaking News",
       "title_hinglish": "riportinga se tamasha tak: aparadha samachara men jenaretiva eaaee ki pareshana karane vali bhumika",
       "summary_hinglish": "janaretiva eaaee ke upayoga ne nyuja ruma men eka naya rupa le liya hai, jo aparadha manoranjana men dikhaee de raha hai। hama isake prabhav, haniyon aura yaha pata lagate hain ki yaha adhiniyama eka aama pratha kyon nahin banani chahie।"
-    },
-    {
-      "id": "735f066b0635e412",
-      "title": "Asian Games 2026, Aichi-Nagoya, India’s Campaign, Medal Tally",
-      "summary": "Asian Games 2026 are being held in Aichi-Nagoya, Japan, from 19 September to 4 October, featuring 43 sports and 469 medal events, with India fielding 503 athletes.",
-      "category": "Sports",
-      "image": "https://vajiramias.sgp1.cdn.digitaloceanspaces.com/wp/current-affairs/2026/09/21115614/Asian-Games-2026-1.webp?v=1789971977",
-      "source": "Vajiram & Ravi",
-      "sourceUrl": "https://vajiramandravi.com/current-affairs/asian-games-2026/",
-      "publishedAt": "2026-09-21T06:28:07.000Z",
-      "fetchedAt": "2026-09-21T06:40:37.067Z",
-      "title_hi": "एशियाई खेल 2026, आइची-नागोया, भारत का अभियान, पदक तालिका",
-      "summary_hi": "एशियाई खेल 2026 जापान के आइची-नागोया में 19 सितंबर से 4 अक्टूबर तक आयोजित किए जा रहे हैं, जिसमें 43 खेल और 469 पदक स्पर्धाएं होंगी, जिसमें भारत 503 एथलीटों को मैदान में उतारेगा।",
-      "category_hi": "खेल",
-      "title_hinglish": "eshiyaee khela 2026, aaichi-nagoy, bharata ka abhiyan, padaka talika",
-      "summary_hinglish": "eshiyaee khela 2026 japana ke aaichi-nagoya men 19 sitanbara se 4 aktubara taka aayojita kie ja rahe hain, jisamen 43 khela aura 469 padaka spardhaen hongi, jisamen bharata 503 ethaliton ko maidana men utarega।",
-      "category_hinglish": "Sports"
-    },
-    {
-      "id": "df4ee11c80718c75",
-      "title": "Prashant Kishor's JSP announces 5 candidates for Bihar Legislative Council polls | India News",
-      "summary": "Elections are to be held for a total of eight constituencies -- four graduates' and teachers' seats each -- terms of which expire in November. | India News",
-      "category": "Politics & Government",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/20/1600x900/logo/ANI-20260817010-0_1789888983916_Wnjr_1789888994868_1BmE_71c08991-5f2a-46a2-82be-9b91283a90bb_N2z0.jpg",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/india-news/prashant-kishors-jsp-announces-5-candidates-for-bihar-legislative-council-poll-101789888783357.html",
-      "publishedAt": "2026-09-20T07:23:57.000Z",
-      "fetchedAt": "2026-09-20T19:08:25.327Z",
-      "title_hi": "प्रशांत किशोर की जेएसपी ने बिहार विधान परिषद चुनाव के लिए 5 उम्मीदवारों की घोषणा की | भारत समाचार",
-      "summary_hi": "कुल आठ निर्वाचन क्षेत्रों के लिए चुनाव होने हैं - चार स्नातक और शिक्षक सीटें - जिनकी शर्तें नवंबर में समाप्त हो रही हैं। | भारत समाचार",
-      "category_hi": "राजनीति और सरकार",
-      "category_hinglish": "Politics aur Government",
-      "title_hinglish": "prashanta kishora ki jeesapi ne bihara vidhana parishada chunava ke lie 5 ummidavaron ki ghoshana ki | bharata samachara",
-      "summary_hinglish": "kula aatha nirvachana kshetron ke lie chunava hone hain - chara snataka aura shikshaka siten - jinaki sharten navanbara men samapta ho rahi hain। | bharata samachara"
-    },
-    {
-      "id": "3680e85c6caabee7",
-      "title": "India vs Japan: When and where to watch historic T20I - Live streaming, telecast and match timings",
-      "summary": "India are set to take on Japan in a historic T20I on Tuesday, with the one-off Suzuki Cup offering both teams an opportunity to fine-tune their preparations ahead of the men’s cricket tournament at the 2026 Asian Games.",
-      "category": "Sports",
-      "image": "https://static.toiimg.com/thumb/msid-134381866,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/india-take-on-japan-in-historic-t20i-ahead-of-asian-games-when-and-where-to-watch-the-match-live/articleshow/134381763.cms",
-      "publishedAt": "2026-09-21T06:28:00.000Z",
-      "fetchedAt": "2026-09-21T07:19:18.379Z",
-      "title_hi": "भारत बनाम जापान: ऐतिहासिक टी20 मैच कब और कहाँ देखें - लाइव स्ट्रीमिंग, प्रसारण और मैच का समय",
-      "summary_hi": "भारत मंगलवार को एक ऐतिहासिक T20I में जापान से भिड़ने के लिए तैयार है, जिसमें एकमात्र सुजुकी कप दोनों टीमों को 2026 एशियाई खेलों में पुरुष क्रिकेट टूर्नामेंट से पहले अपनी तैयारियों को बेहतर बनाने का मौका देगा।",
-      "category_hi": "खेल",
-      "title_hinglish": "bharata banama japan: aitihasika ti20 maicha kaba aura kahan dekhen - laiva striming, prasarana aura maicha ka samaya",
-      "summary_hinglish": "bharata mangalavara ko eka aitihasika T20I men japana se bhidane ke lie taiyara hai, jisamen ekamatra sujuki kapa donon timon ko 2026 eshiyaee khelon men purusha kriketa turnamenta se pahale apani taiyariyon ko behatara banane ka mauka dega।",
-      "category_hinglish": "Sports"
-    },
-    {
-      "id": "726a74f1283bf4ef",
-      "title": "Indian Super League appoints Karan Yadav as CEO",
-      "summary": "The Indian Super League (ISL) on Monday announced Karan Yadav as its Chief Executive Officer (CEO), marking a new leadership chapter for India’s premier football league, as it operates under a new club-led model.",
-      "category": "Sports",
-      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260921062626-thumbnail-320x180-70.jpg",
-      "source": "ANI News",
-      "sourceUrl": "https://aninews.in/news/sports/football/indian-super-league-appoints-karan-yadav-as-ceo20260921115642/",
-      "publishedAt": "2026-09-21T06:26:00.000Z",
-      "fetchedAt": "2026-09-21T08:03:09.520Z",
-      "title_hi": "इंडियन सुपर लीग ने करण यादव को सीईओ नियुक्त किया",
-      "summary_hi": "इंडियन सुपर लीग (आईएसएल) ने सोमवार को करण यादव को अपने मुख्य कार्यकारी अधिकारी (सीईओ) के रूप में घोषित किया, जो भारत की प्रमुख फुटबॉल लीग के लिए एक नए नेतृत्व अध्याय को चिह्नित करता है, क्योंकि यह एक नए क्लब के नेतृत्व वाले मॉडल के तहत संचालित होता है।",
-      "category_hi": "खेल",
-      "category_hinglish": "Sports",
-      "title_hinglish": "indiyana supara liga ne karana yadava ko sieeo niyukta kiya",
-      "summary_hinglish": "indiyana supara liga (aaeeesaela) ne somavara ko karana yadava ko apane mukhya karyakari adhikari (sieeo) ke rupa men ghoshita kiy, jo bharata ki pramukha phutabola liga ke lie eka nae netritva adhyaya ko chihnita karata hai, kyonki yaha eka nae klaba ke netritva vale modala ke tahata sanchalita hota hai।"
     },
     {
       "id": "c8dee49868675da4",
