@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-21T18:31:59.397Z",
-  "count": 73,
+  "updatedAt": "2026-09-21T18:49:32.237Z",
+  "count": 77,
   "articles": [
     {
       "id": "b0878ccd63683873",
@@ -16,6 +16,55 @@
       "summary_hi": "",
       "category_hi": "अपराध और ब्रेकिंग न्यूज़",
       "category_hinglish": "Crime aur Breaking News"
+    },
+    {
+      "id": "df1438468e605a32",
+      "title": "Fraudsters cite Naresh Goyal case, fleece Kanpur senior citizen of Rs 48.2L",
+      "summary": "In yet another digital arrest fraud targeting a senior citizen, a 72-year-old Kanpur resident was allegedly duped of Rs 48.2 lakh by cybercriminals posing as officials of the Telecom Regulatory Authority of India (TRAI), CBI, Mumbai Crime Branch and Interpol. The fraudsters allegedly threatened him with imprisonment in serious criminal…",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134395954,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/kanpur/fraudsters-cite-naresh-goyal-case-fleece-kanpur-senior-citizen-of-rs-48-2l/articleshow/134395957.cms",
+      "publishedAt": "2026-09-21T18:05:00.000Z",
+      "fetchedAt": "2026-09-21T18:48:52.627Z",
+      "title_hi": "जालसाजों ने नरेश गोयल मामले का हवाला देकर कानपुर के वरिष्ठ नागरिक से 48.2 लाख रुपये ठग लिए",
+      "summary_hi": "एक वरिष्ठ नागरिक को निशाना बनाते हुए एक और डिजिटल गिरफ्तारी धोखाधड़ी में, 72 वर्षीय कानपुर निवासी को कथित तौर पर भारतीय दूरसंचार नियामक प्राधिकरण (ट्राई), सीबीआई, मुंबई अपराध शाखा और इंटरपोल के अधिकारियों के रूप में प्रस्तुत करने वाले साइबर अपराधियों द्वारा 48.2 लाख रुपये की धोखाधड़ी की गई थी। जालसाजों ने कथित तौर पर उसे गंभीर आपराधिक मामले में जेल भेजने की धमकी दी...",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "jalasajon ne naresha goyala mamale ka havala dekara kanapura ke varishtha nagarika se 48.2 lakha rupaye thaga lie",
+      "summary_hinglish": "eka varishtha nagarika ko nishana banate hue eka aura dijitala giraphtari dhokhadhadaी men, 72 varshiya kanapura nivasi ko kathita taura para bharatiya durasanchara niyamaka pradhikarana (traee), sibiaaee, munbaee aparadha shakha aura intarapola ke adhikariyon ke rupa men prastuta karane vale saibara aparadhiyon dvara 48.2 lakha rupaye ki dhokhadhadaी ki gaee thi। jalasajon ne kathita taura para use ganbhira aaparadhika mamale men jela bhejane ki dhamaki di...",
+      "category_hinglish": "Crime aur Breaking News"
+    },
+    {
+      "id": "0b1680d7a3a3331f",
+      "title": "'I never imagined…': Bihar-born Japan cricketer Abhishek Anand on historic India clash",
+      "summary": "Bihar-born cricketer Abhishek Anand will represent Japan against India in a historic T20I, capping his journey from playing cricket in Bihar to earning a place in Japan’s national team.",
+      "category": "Sports",
+      "image": "https://cdn1.wionews.com/prod/wion/images/2026/20260921/image-1790010124927.webp?imwidth=1200&imheight=900",
+      "source": "WION",
+      "sourceUrl": "https://www.wionews.com/sports/i-never-imagined-bihar-born-japan-cricketer-abhishek-anand-on-historic-india-clash-1790009752410",
+      "publishedAt": "2026-09-21T17:52:00.000Z",
+      "fetchedAt": "2026-09-21T18:49:23.696Z",
+      "title_hi": "",
+      "summary_hi": "",
+      "category_hi": "खेल",
+      "category_hinglish": "Sports"
+    },
+    {
+      "id": "72a6047f8d10cabc",
+      "title": "Minocha murder: Court to hear remand pleas of ‘killer bahu’, 2 others",
+      "summary": "A Kanpur court will on Tuesday hear police pleas seeking custody of daughter-in-law Shalu, former servant Vishal Gautam and his associate Raj Kishor in pharmaceutical trader Vineet Minocha’s murder case, along with Shalu’s application opposing police remand.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134395951,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/kanpur/minocha-murder-court-to-hear-remand-pleas-of-killer-bahu-2-others/articleshow/134395952.cms",
+      "publishedAt": "2026-09-21T18:05:00.000Z",
+      "fetchedAt": "2026-09-21T18:31:52.159Z",
+      "title_hi": "मिनोचा हत्याकांड: अदालत 'हत्यारी बहू', 2 अन्य की रिमांड याचिका पर सुनवाई करेगी",
+      "summary_hi": "कानपुर की एक अदालत मंगलवार को दवा व्यापारी विनीत मिनोचा की हत्या के मामले में बहू शालू, पूर्व नौकर विशाल गौतम और उसके सहयोगी राज किशोर की हिरासत की मांग करने वाली पुलिस याचिका पर सुनवाई करेगी, साथ ही पुलिस रिमांड का विरोध करने वाली शालू की अर्जी पर भी सुनवाई करेगी।",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "category_hinglish": "Crime aur Breaking News",
+      "title_hinglish": "minocha hatyakand: adalata 'hatyari bahu', 2 anya ki rimanda yachika para sunavaee karegi",
+      "summary_hinglish": "kanapura ki eka adalata mangalavara ko dava vyapari vinita minocha ki hatya ke mamale men bahu shalu, purva naukara vishala gautama aura usake sahayogi raja kishora ki hirasata ki manga karane vali pulisa yachika para sunavaee karegi, satha hi pulisa rimanda ka virodha karane vali shalu ki arji para bhi sunavaee karegi।"
     },
     {
       "id": "9e870d1a2d448c7f",
@@ -35,19 +84,19 @@
       "category_hinglish": "National aur Trending News"
     },
     {
-      "id": "72a6047f8d10cabc",
-      "title": "Minocha murder: Court to hear remand pleas of ‘killer bahu’, 2 others",
-      "summary": "A Kanpur court will on Tuesday hear police pleas seeking custody of daughter-in-law Shalu, former servant Vishal Gautam and his associate Raj Kishor in pharmaceutical trader Vineet Minocha’s murder case, along with Shalu’s application opposing police remand.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134395951,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/kanpur/minocha-murder-court-to-hear-remand-pleas-of-killer-bahu-2-others/articleshow/134395952.cms",
-      "publishedAt": "2026-09-21T18:05:00.000Z",
-      "fetchedAt": "2026-09-21T18:31:52.159Z",
+      "id": "6d658e8a4146ec59",
+      "title": "Bihar: Jamui molestation case sparks political row; three arrested (Round up)",
+      "summary": "Patna, Sep 21 (IANS) A viral video showing the alleged harassment of two minor students, including a girl, in Bihar’s Jamui district has triggered a political confrontation, with Opposition leaders questioning the state’s law-and-order situation and the ruling alliance defending the administration’s response.",
+      "category": "Politics & Government",
+      "image": "https://d2lnbwhcsmj8tp.cloudfront.net/ianslive_watermark/202609213949611.jpg",
+      "source": "IANS LIVE",
+      "sourceUrl": "https://ianslive.in/jamui-student-molestation-case-triggers-political-row-three-arrested-round-up--20260921230711",
+      "publishedAt": "2026-09-21T17:43:00.000Z",
+      "fetchedAt": "2026-09-21T18:49:22.098Z",
       "title_hi": "",
       "summary_hi": "",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "category_hinglish": "Crime aur Breaking News"
+      "category_hi": "राजनीति और सरकार",
+      "category_hinglish": "Politics aur Government"
     },
     {
       "id": "908ae67443aa32ae",
@@ -65,6 +114,23 @@
       "title_hinglish": "yuva shakti karegi nae bharata ka nirman: bijepi adhyaksha nitina nabina",
       "summary_hinglish": "bhajapa pramukha nitina nabina ne meratha men yuva sanvada ke daurana yuvaon se 2047 taka vikasita bharata ke lie rashtra nirmana para dhyana kendrita karane ka aagraha kiya।",
       "category_hinglish": "National aur Trending News"
+    },
+    {
+      "id": "8749ad571b4f2cb9",
+      "title": "Asian Games: India's full schedule on September 22, events and timings; women's cricket final headlines",
+      "summary": "Indian women's cricket team will be in focus on September 22 as it takes on Sri Lanka in the Asian Games final, with a gold medal at stake.",
+      "category": "Sports",
+      "image": "https://static.toiimg.com/thumb/msid-134394192,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-indias-full-schedule-on-september-22-events-and-timings-womens-cricket-final-headlines-medal-hopes/articleshow/134393994.cms",
+      "publishedAt": "2026-09-21T16:58:00.000Z",
+      "fetchedAt": "2026-09-21T18:48:56.921Z",
+      "title_hi": "एशियाई खेल: 22 सितंबर को भारत का पूरा कार्यक्रम, कार्यक्रम और समय; महिला क्रिकेट फाइनल सुर्खियाँ",
+      "summary_hi": "भारतीय महिला क्रिकेट टीम 22 सितंबर को एशियाई खेलों के फाइनल में श्रीलंका से भिड़ेगी, जिसमें स्वर्ण पदक दांव पर होगा।",
+      "category_hi": "खेल",
+      "title_hinglish": "eshiyaee khel: 22 sitanbara ko bharata ka pura karyakram, karyakrama aura samay; mahila kriketa phainala surkhiyan",
+      "summary_hinglish": "bharatiya mahila kriketa tima 22 sitanbara ko eshiyaee khelon ke phainala men shrilanka se bhidaेgi, jisamen svarna padaka danva para hoga।",
+      "category_hinglish": "Sports"
     },
     {
       "id": "113ceca9c343fc23",
@@ -135,23 +201,6 @@
       "category_hinglish": "Sports"
     },
     {
-      "id": "4d711dbca65faedb",
-      "title": "‘Resolve issues through dialogue’: Government urges bank employees to call off September 28-30 strike",
-      "summary": "The finance ministry on Monday urged bank employees to refrain from resorting to strikes and resolve their remaining demands through dialogue, saying most concerns raised by unions had been substantially addressed.",
-      "category": "Business & Finance",
-      "image": "https://static.toiimg.com/thumb/msid-134393600,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/resolve-issues-through-dialogue-government-urges-bank-employees-to-call-off-september-28-30-strike/articleshow/134392791.cms",
-      "publishedAt": "2026-09-21T16:23:00.000Z",
-      "fetchedAt": "2026-09-21T17:15:48.749Z",
-      "title_hi": "'बातचीत के जरिए मुद्दे सुलझाएं': सरकार ने बैंक कर्मचारियों से 28-30 सितंबर की हड़ताल वापस लेने का आग्रह किया",
-      "summary_hi": "वित्त मंत्रालय ने सोमवार को बैंक कर्मचारियों से हड़ताल का सहारा लेने से बचने और बातचीत के माध्यम से अपनी शेष मांगों को हल करने का आग्रह किया, यह कहते हुए कि यूनियनों द्वारा उठाई गई अधिकांश चिंताओं को काफी हद तक संबोधित किया गया है।",
-      "category_hi": "बिज़नेस और फाइनेंस",
-      "title_hinglish": "'batachita ke jarie mudde sulajhaen': sarakara ne bainka karmachariyon se 28-30 sitanbara ki hadatala vapasa lene ka aagraha kiya",
-      "summary_hinglish": "vitta mantralaya ne somavara ko bainka karmachariyon se hadatala ka sahara lene se bachane aura batachita ke madhyama se apani shesha mangon ko hala karane ka aagraha kiy, yaha kahate hue ki yuniyanon dvara uthaee gaee adhikansha chintaon ko kaphi hada taka sanbodhita kiya gaya hai।",
-      "category_hinglish": "Business aur Finance"
-    },
-    {
       "id": "c107348ca216c765",
       "title": "968 police stations in Bihar now linked to CCTNS",
       "summary": "Bihar Police has brought 968 police stations and outposts under the Crime and Criminal Tracking Network and Systems (CCTNS), with efforts under way to extend the system to the remaining units, ADG (law and order) K S Anupam said on Monday.",
@@ -167,6 +216,23 @@
       "title_hinglish": "bihara ke 968 thane aba sisitienaesa se juda gaye hain",
       "summary_hinglish": "ediji (kanuna evan vyavastha) keesa anupama ne somavara ko kaha ki bihara pulisa ne 968 pulisa steshanon aura chaukiyon ko aparadha aura aaparadhika traikinga netavarka aura sistama (sisitienaesa) ke tahata laya hai, isa pranali ko shesha ikaiyon taka vistarita karane ke prayasa chala rahe hain।",
       "category_hinglish": "Crime aur Breaking News"
+    },
+    {
+      "id": "4d711dbca65faedb",
+      "title": "‘Resolve issues through dialogue’: Government urges bank employees to call off September 28-30 strike",
+      "summary": "The finance ministry on Monday urged bank employees to refrain from resorting to strikes and resolve their remaining demands through dialogue, saying most concerns raised by unions had been substantially addressed.",
+      "category": "Business & Finance",
+      "image": "https://static.toiimg.com/thumb/msid-134393600,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/resolve-issues-through-dialogue-government-urges-bank-employees-to-call-off-september-28-30-strike/articleshow/134392791.cms",
+      "publishedAt": "2026-09-21T16:23:00.000Z",
+      "fetchedAt": "2026-09-21T17:15:48.749Z",
+      "title_hi": "'बातचीत के जरिए मुद्दे सुलझाएं': सरकार ने बैंक कर्मचारियों से 28-30 सितंबर की हड़ताल वापस लेने का आग्रह किया",
+      "summary_hi": "वित्त मंत्रालय ने सोमवार को बैंक कर्मचारियों से हड़ताल का सहारा लेने से बचने और बातचीत के माध्यम से अपनी शेष मांगों को हल करने का आग्रह किया, यह कहते हुए कि यूनियनों द्वारा उठाई गई अधिकांश चिंताओं को काफी हद तक संबोधित किया गया है।",
+      "category_hi": "बिज़नेस और फाइनेंस",
+      "title_hinglish": "'batachita ke jarie mudde sulajhaen': sarakara ne bainka karmachariyon se 28-30 sitanbara ki hadatala vapasa lene ka aagraha kiya",
+      "summary_hinglish": "vitta mantralaya ne somavara ko bainka karmachariyon se hadatala ka sahara lene se bachane aura batachita ke madhyama se apani shesha mangon ko hala karane ka aagraha kiy, yaha kahate hue ki yuniyanon dvara uthaee gaee adhikansha chintaon ko kaphi hada taka sanbodhita kiya gaya hai।",
+      "category_hinglish": "Business aur Finance"
     },
     {
       "id": "b148927a66721f28",
@@ -186,6 +252,23 @@
       "category_hinglish": "Technology"
     },
     {
+      "id": "7fedff3004ecf69e",
+      "title": "Bihar-born cricketer now making his mark for Japan",
+      "summary": "IIT graduate Abhishek Anand’s inspiring journey from Patna’s cricket grounds to representing Japan in T20Is and chasing his international dream.",
+      "category": "Sports",
+      "image": "https://media.assettype.com/gulfnews%2F2026-09-21%2Fa0n0nd8i%2FAnand-japan.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "gulfnews.com",
+      "sourceUrl": "https://gulfnews.com/amp/story/sport%2Fcricket%2Fbihar-born-cricketer-now-making-his-mark-for-japan-1.500682456",
+      "publishedAt": "2026-09-21T11:49:01.000Z",
+      "fetchedAt": "2026-09-21T14:00:32.790Z",
+      "title_hi": "बिहार में जन्मे क्रिकेटर अब जापान के लिए अपनी पहचान बना रहे हैं",
+      "summary_hi": "आईआईटी स्नातक अभिषेक आनंद की पटना के क्रिकेट मैदान से टी20ई में जापान का प्रतिनिधित्व करने और अपने अंतरराष्ट्रीय सपने का पीछा करने तक की प्रेरक यात्रा।",
+      "category_hi": "खेल",
+      "title_hinglish": "bihara men janme kriketara aba japana ke lie apani pahachana bana rahe hain",
+      "summary_hinglish": "aaeeaaeeti snataka abhisheka aananda ki patana ke kriketa maidana se ti20ee men japana ka pratinidhitva karane aura apane antararashtriya sapane ka pichha karane taka ki preraka yatra।",
+      "category_hinglish": "Sports"
+    },
+    {
       "id": "9e70e29d2bd2d227",
       "title": "KCT student’s Trike 2π electric patrol vehicle is national runner-up at James Dyson Award -India",
       "summary": "Trike 2π, a compact electric patrol vehicle developed by S Shakeel Akthar, 24, an ME (industrial automation and robotics) student at Kumaraguru College of Technology (KCT), has been named a national runner-up at the James Dyson Award 2026 – India.",
@@ -201,23 +284,6 @@
       "title_hinglish": "kesiti chhatra ka traika 2π ilektrika gashti vahana jemsa dayasana avarda-bharata men rashtriya upavijeta raha",
       "summary_hinglish": "traika 2π, kumaraguru koleja ऑpha teknoloji (kesiti) men emaee (audyogika svachalana aura robotiksa) ke 24 varshiya chhatra esa shakila akhtara dvara vikasita eka kompaikta ilektrika gashti vahan, ko jemsa dayasana avarda 2026 - bharata men rashtriya upavijeta namita kiya gaya hai।",
       "category_hinglish": "National aur Trending News"
-    },
-    {
-      "id": "13ae24ac9f007a41",
-      "title": "India vs Japan: When and where to watch historic T20I - Live streaming, telecast and match timings",
-      "summary": "In an exciting development, India and Japan will engage in their first-ever T20I match on Tuesday, as part of the Suzuki Cup. This pivotal fixture is a precursor to the 2026 Asian Games cricket tournament and commemorates 75 years of diplomatic relations between the two nations, aptly themed 'Sport 75.'…",
-      "category": "Sports",
-      "image": "https://s.yimg.com/lo/mysterio/api/95a2e8299741bf47012114139fba9766d2720a3a1bee5da3658330afed7f1a9b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwillow_sports_articles_673%2F02b4cb3d9a81e747572a421d29832c29.jpg",
-      "source": "Yahoo Sports",
-      "sourceUrl": "https://sports.yahoo.com/articles/india-vs-japan-where-watch-115800606.html",
-      "publishedAt": "2026-09-21T11:58:00.000Z",
-      "fetchedAt": "2026-09-21T18:31:53.840Z",
-      "title_hi": "भारत बनाम जापान: ऐतिहासिक टी20 मैच कब और कहाँ देखें - लाइव स्ट्रीमिंग, प्रसारण और मैच का समय",
-      "summary_hi": "एक रोमांचक घटनाक्रम में, भारत और जापान सुजुकी कप के हिस्से के रूप में मंगलवार को अपना पहला टी20ई मैच खेलेंगे। यह महत्वपूर्ण आयोजन 2026 एशियाई खेलों के क्रिकेट टूर्नामेंट का अग्रदूत है और दोनों देशों के बीच 75 साल के राजनयिक संबंधों का जश्न मनाता है, जिसे उपयुक्त थीम 'स्पोर्ट 75' दिया गया है...",
-      "category_hi": "खेल",
-      "title_hinglish": "bharata banama japan: aitihasika ti20 maicha kaba aura kahan dekhen - laiva striming, prasarana aura maicha ka samaya",
-      "summary_hinglish": "eka romanchaka ghatanakrama men, bharata aura japana sujuki kapa ke hisse ke rupa men mangalavara ko apana pahala ti20ee maicha khelenge। yaha mahatvapurna aayojana 2026 eshiyaee khelon ke kriketa turnamenta ka agraduta hai aura donon deshon ke bicha 75 sala ke rajanayika sanbandhon ka jashna manata hai, jise upayukta thima 'sporta 75' diya gaya hai...",
-      "category_hinglish": "Sports"
     },
     {
       "id": "dcacc1281f7ad564",
@@ -254,21 +320,21 @@
       "category_hinglish": "Crime aur Breaking News"
     },
     {
-      "id": "7fedff3004ecf69e",
-      "title": "Bihar-born cricketer now making his mark for Japan",
-      "summary": "IIT graduate Abhishek Anand’s inspiring journey from Patna’s cricket grounds to representing Japan in T20Is and chasing his international dream.",
-      "category": "Sports",
-      "image": "https://media.assettype.com/gulfnews%2F2026-09-21%2Fa0n0nd8i%2FAnand-japan.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "source": "gulfnews.com",
-      "sourceUrl": "https://gulfnews.com/amp/story/sport%2Fcricket%2Fbihar-born-cricketer-now-making-his-mark-for-japan-1.500682456",
-      "publishedAt": "2026-09-21T11:49:01.000Z",
-      "fetchedAt": "2026-09-21T14:00:32.790Z",
-      "title_hi": "बिहार में जन्मे क्रिकेटर अब जापान के लिए अपनी पहचान बना रहे हैं",
-      "summary_hi": "आईआईटी स्नातक अभिषेक आनंद की पटना के क्रिकेट मैदान से टी20ई में जापान का प्रतिनिधित्व करने और अपने अंतरराष्ट्रीय सपने का पीछा करने तक की प्रेरक यात्रा।",
-      "category_hi": "खेल",
-      "title_hinglish": "bihara men janme kriketara aba japana ke lie apani pahachana bana rahe hain",
-      "summary_hinglish": "aaeeaaeeti snataka abhisheka aananda ki patana ke kriketa maidana se ti20ee men japana ka pratinidhitva karane aura apane antararashtriya sapane ka pichha karane taka ki preraka yatra।",
-      "category_hinglish": "Sports"
+      "id": "7afde13baf724224",
+      "title": "Shop owner held for selling stolen phones in Bhojpur",
+      "summary": "Police on Monday busted a racket involving the sale of stolen and looted phones and spare parts being operated under the guise of a phone shop at Darshan Chhapra under Udwantnagar police station area of Bhojpur district.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134388472,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/patna/shop-owner-held-for-selling-stolen-phones-in-bhojpur/articleshow/134388473.cms",
+      "publishedAt": "2026-09-21T11:29:00.000Z",
+      "fetchedAt": "2026-09-21T11:56:13.781Z",
+      "title_hi": "भोजपुर में चोरी के फोन बेचने के आरोप में दुकान मालिक गिरफ्तार",
+      "summary_hi": "भोजपुर जिले के उदवंतनगर थाना क्षेत्र के दर्शन छपरा में एक फोन दुकान की आड़ में संचालित चोरी और लूट के फोन और स्पेयर पार्ट्स की बिक्री करने वाले एक गिरोह का पुलिस ने सोमवार को भंडाफोड़ किया।",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "bhojapura men chori ke phona bechane ke aaropa men dukana malika giraphtara",
+      "summary_hinglish": "bhojapura jile ke udavantanagara thana kshetra ke darshana chhapara men eka phona dukana ki aada men sanchalita chori aura luta ke phona aura speyara partsa ki bikri karane vale eka giroha ka pulisa ne somavara ko bhandaphoda kiya।",
+      "category_hinglish": "Crime aur Breaking News"
     },
     {
       "id": "96b39c3d8e9a1133",
@@ -305,6 +371,21 @@
       "category_hinglish": "Technology"
     },
     {
+      "id": "bb884dbe9f47db86",
+      "title": "Delhi riots UAPA case: High court to hear Umar Khalid, Sharjeel Imam bail pleas on September 30",
+      "summary": "The Delhi high court on Monday listed for hearing on September 30 the bail pleas of activists Umar Khalid and Sharjeel Imam in a case under the anti-terror law UAPA over the \"larger conspiracy\" behind the February 2020 riots in northeast Delhi.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134388128,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/delhi/delhi-riots-uapa-case-high-court-to-hear-umar-khalid-sharjeel-imam-bail-pleas-on-september-30/articleshow/134388058.cms",
+      "publishedAt": "2026-09-21T11:15:00.000Z",
+      "fetchedAt": "2026-09-21T18:49:22.954Z",
+      "title_hi": "",
+      "summary_hi": "",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "category_hinglish": "Crime aur Breaking News"
+    },
+    {
       "id": "62ce6a648249da17",
       "title": "Ghana’s interior minister studies crime data tech of TN police",
       "summary": "A high-level delegation, led by Ghana’s interior minister Mohammed Mubarak Muntaka, visited the State Crime Records Bureau (SCRB) in Chennai on Monday to study Tamil Nadu police’s crime-record management and use of technology in policing, from administative processes to day-to-day work.",
@@ -319,23 +400,6 @@
       "category_hi": "अपराध और ब्रेकिंग न्यूज़",
       "title_hinglish": "ghana ke aantarika mantri ne tiena pulisa ki aparadha deta takanika ka adhyayana kiya",
       "summary_hinglish": "ghana ke aantarika mantri mohammada mubaraka muntaka ke netritva men eka uchcha stariya pratinidhimandala ne tamilanadu pulisa ke aparadha-rikorda prabandhana aura prashasanika prakriyaon se lekara dina-pratidina ke kama taka pulisinga men praudyogiki ke upayoga ka adhyayana karane ke lie somavara ko chennaee men rajya aparadha rikorda byuro (esasiaarabi) ka daura kiya।",
-      "category_hinglish": "Crime aur Breaking News"
-    },
-    {
-      "id": "7afde13baf724224",
-      "title": "Shop owner held for selling stolen phones in Bhojpur",
-      "summary": "Police on Monday busted a racket involving the sale of stolen and looted phones and spare parts being operated under the guise of a phone shop at Darshan Chhapra under Udwantnagar police station area of Bhojpur district.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134388472,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/patna/shop-owner-held-for-selling-stolen-phones-in-bhojpur/articleshow/134388473.cms",
-      "publishedAt": "2026-09-21T11:29:00.000Z",
-      "fetchedAt": "2026-09-21T11:56:13.781Z",
-      "title_hi": "भोजपुर में चोरी के फोन बेचने के आरोप में दुकान मालिक गिरफ्तार",
-      "summary_hi": "भोजपुर जिले के उदवंतनगर थाना क्षेत्र के दर्शन छपरा में एक फोन दुकान की आड़ में संचालित चोरी और लूट के फोन और स्पेयर पार्ट्स की बिक्री करने वाले एक गिरोह का पुलिस ने सोमवार को भंडाफोड़ किया।",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "bhojapura men chori ke phona bechane ke aaropa men dukana malika giraphtara",
-      "summary_hinglish": "bhojapura jile ke udavantanagara thana kshetra ke darshana chhapara men eka phona dukana ki aada men sanchalita chori aura luta ke phona aura speyara partsa ki bikri karane vale eka giroha ka pulisa ne somavara ko bhandaphoda kiya।",
       "category_hinglish": "Crime aur Breaking News"
     },
     {
@@ -356,23 +420,6 @@
       "category_hinglish": "Politics aur Government"
     },
     {
-      "id": "49c91ddb7ce6c968",
-      "title": "Mumbai Court Rejects Bail Plea of Accused in Baba Siddiqui Murder Case",
-      "summary": "A special court on Monday rejected the bail plea of Aakash Sriwastav, accused of being associated with the alleged organised crime syndicate behind the murder of NCP leader and former state minister Baba Siddiqui. Special Judge under the MCOC Act Satyanarayan R Navander said the material against Sriwastav could not…",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134392757,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/mumbai/mumbai-court-rejects-bail-plea-of-accused-in-baba-siddiqui-murder-case/articleshow/134392758.cms",
-      "publishedAt": "2026-09-21T15:19:00.000Z",
-      "fetchedAt": "2026-09-21T16:49:04.409Z",
-      "title_hi": "मुंबई कोर्ट ने बाबा सिद्दीकी मर्डर केस में आरोपी की जमानत याचिका खारिज कर दी",
-      "summary_hi": "एक विशेष अदालत ने राकांपा नेता और पूर्व राज्य मंत्री बाबा सिद्दीकी की हत्या के पीछे कथित संगठित अपराध सिंडिकेट से जुड़े होने के आरोपी आकाश श्रीवास्तव की जमानत याचिका सोमवार को खारिज कर दी। एमसीओसी अधिनियम के तहत विशेष न्यायाधीश सत्यनारायण आर नवांदर ने कहा कि श्रीवास्तव के खिलाफ सामग्री...",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "munbaee korta ne baba siddiki mardara kesa men aaropi ki jamanata yachika kharija kara di",
-      "summary_hinglish": "eka vishesha adalata ne rakanpa neta aura purva rajya mantri baba siddiki ki hatya ke pichhe kathita sangathita aparadha sindiketa se judaे hone ke aaropi aakasha shrivastava ki jamanata yachika somavara ko kharija kara di। emasiosi adhiniyama ke tahata vishesha nyayadhisha satyanarayana aara navandara ne kaha ki shrivastava ke khilapha samagri...",
-      "category_hinglish": "Crime aur Breaking News"
-    },
-    {
       "id": "c6e1280f0a8636db",
       "title": "Bihar harassment horror: Police arrest three, launch manhunt for four others",
       "summary": "On a viral video from Jamui showing a boy being assaulted and a girl being groped, SP Vishwajeet Dayal says, \"An FIR has been registered regarding the incident of molestation and indecent behavior by anti-social elements shown in the video, and a SIT has… pic.twitter.com/1JGCjWji5M",
@@ -390,6 +437,23 @@
       "summary_hinglish": "jamuee ke eka vayarala vidiyo para jisamen eka ladake ke satha marapita aura eka ladaki ke satha chhedachhada ki gaee hai, esapi vishvajita dayala kahate hain, \"vidiyo men dikhae gae asamajika tatvon dvara chhedachhada aura abhadra vyavahara ki ghatana ke sanbandha men eka prathamiki darja ki gaee hai, aura eka esaaaeeti ne… pic.twitter.com/1JGCjWji5M"
     },
     {
+      "id": "49c91ddb7ce6c968",
+      "title": "Mumbai Court Rejects Bail Plea of Accused in Baba Siddiqui Murder Case",
+      "summary": "A special court on Monday rejected the bail plea of Aakash Sriwastav, accused of being associated with the alleged organised crime syndicate behind the murder of NCP leader and former state minister Baba Siddiqui. Special Judge under the MCOC Act Satyanarayan R Navander said the material against Sriwastav could not…",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134392757,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/mumbai/mumbai-court-rejects-bail-plea-of-accused-in-baba-siddiqui-murder-case/articleshow/134392758.cms",
+      "publishedAt": "2026-09-21T15:19:00.000Z",
+      "fetchedAt": "2026-09-21T16:49:04.409Z",
+      "title_hi": "मुंबई कोर्ट ने बाबा सिद्दीकी मर्डर केस में आरोपी की जमानत याचिका खारिज कर दी",
+      "summary_hi": "एक विशेष अदालत ने राकांपा नेता और पूर्व राज्य मंत्री बाबा सिद्दीकी की हत्या के पीछे कथित संगठित अपराध सिंडिकेट से जुड़े होने के आरोपी आकाश श्रीवास्तव की जमानत याचिका सोमवार को खारिज कर दी। एमसीओसी अधिनियम के तहत विशेष न्यायाधीश सत्यनारायण आर नवांदर ने कहा कि श्रीवास्तव के खिलाफ सामग्री...",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "munbaee korta ne baba siddiki mardara kesa men aaropi ki jamanata yachika kharija kara di",
+      "summary_hinglish": "eka vishesha adalata ne rakanpa neta aura purva rajya mantri baba siddiki ki hatya ke pichhe kathita sangathita aparadha sindiketa se judaे hone ke aaropi aakasha shrivastava ki jamanata yachika somavara ko kharija kara di। emasiosi adhiniyama ke tahata vishesha nyayadhisha satyanarayana aara navandara ne kaha ki shrivastava ke khilapha samagri...",
+      "category_hinglish": "Crime aur Breaking News"
+    },
+    {
       "id": "096f7e2798550f80",
       "title": "Row Over Mimicry Skit In Indore, Politics Of Satire & Hamid Ansari's Statement Trigger Fresh Faceoff - India Today",
       "summary": "A major political controversy has erupted following a skit performed at an event in Indore. The performance, which involved a mimicry of the Prime Minister and an incident involving an elderly lady, drew sharp criticism from the Bharatiya Janata Party, which accused the organisers of insulting women and misleading the…",
@@ -398,10 +462,12 @@
       "source": "India Today",
       "sourceUrl": "https://www.indiatoday.in/india/video/row-over-mimicry-skit-in-indore-politics-of-satire-hamid-ansaris-statement-trigger-fresh-faceoff-ytvd-2999792-2026-09-21",
       "publishedAt": "2026-09-21T15:17:56.000Z",
-      "fetchedAt": "2026-09-21T18:31:12.749Z",
-      "title_hi": "",
-      "summary_hi": "",
+      "fetchedAt": "2026-09-21T18:48:49.844Z",
+      "title_hi": "इंदौर में मिमिक्री स्किट को लेकर विवाद, व्यंग्य की राजनीति और हामिद अंसारी के बयान से फिर शुरू हुआ टकराव - इंडिया टुडे",
+      "summary_hi": "इंदौर में एक कार्यक्रम में प्रस्तुत एक नाटक के बाद बड़ा राजनीतिक विवाद खड़ा हो गया है। प्रदर्शन, जिसमें प्रधान मंत्री की नकल और एक बुजुर्ग महिला से जुड़ी घटना शामिल थी, की भारतीय जनता पार्टी ने तीखी आलोचना की, जिसने आयोजकों पर महिलाओं का अपमान करने और लोगों को गुमराह करने का आरोप लगाया...",
       "category_hi": "राजनीति और सरकार",
+      "title_hinglish": "indaura men mimikri skita ko lekara vivad, vyangya ki rajaniti aura hamida ansari ke bayana se phira shuru huaa takarava - indiya tude",
+      "summary_hinglish": "indaura men eka karyakrama men prastuta eka nataka ke bada badaा rajanitika vivada khadaा ho gaya hai। pradarshan, jisamen pradhana mantri ki nakala aura eka bujurga mahila se judaी ghatana shamila thi, ki bharatiya janata parti ne tikhi aalochana ki, jisane aayojakon para mahilaon ka apamana karane aura logon ko gumaraha karane ka aaropa lagay...",
       "category_hinglish": "Politics aur Government"
     },
     {
@@ -473,23 +539,6 @@
       "category_hinglish": "Politics aur Government"
     },
     {
-      "id": "dcbf8e6bbe90d13a",
-      "title": "Starbucks to open global tech hub in India",
-      "summary": "Chennai site will bring more third-party work in-house, according to Chief Technology Officer Anand Varadarajan",
-      "category": "Technology",
-      "image": "https://storage.ghost.io/c/f7/2c/f72c3701-6a2d-4fef-ba1f-262a5397fe3f/content/images/size/w1200/2026/09/photos-by-rugeen-YuM6OaRQQ5w-unsplash-1.jpg",
-      "source": "worldcoffeeportal.com",
-      "sourceUrl": "https://www.worldcoffeeportal.com/news/starbucks-to-open-global-tech-hub-in-india/",
-      "publishedAt": "2026-09-21T14:19:39.000Z",
-      "fetchedAt": "2026-09-21T14:35:08.698Z",
-      "title_hi": "स्टारबक्स भारत में ग्लोबल टेक हब खोलेगा",
-      "summary_hi": "मुख्य प्रौद्योगिकी अधिकारी आनंद वरदराजन के अनुसार, चेन्नई साइट अधिक तृतीय-पक्ष कार्य लाएगी",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "starabaksa bharata men globala teka haba kholega",
-      "summary_hinglish": "mukhya praudyogiki adhikari aananda varadarajana ke anusar, chennaee saita adhika tritiya-paksha karya laegi",
-      "category_hinglish": "Technology"
-    },
-    {
       "id": "0db8396a3e9701d8",
       "title": "‘Patriarchy, not culture’: Rahul Gandhi demands POCSO action over mob harassment in Bihar's Jamui | India News",
       "summary": "A video, circulated widely online, showed a boy and a girl being surrounded by a group of men and harassed at an undisclosed location in Jamui.",
@@ -505,6 +554,23 @@
       "title_hinglish": "'pitrisatt, sanskriti nahin': rahula gandhi ne bihara ke jamuee men bhida utpidana para POCSO karravaee ki manga ki | bharata samachara",
       "summary_hinglish": "eka vidiyo, jo vyapaka rupa se ऑnalaina prasarita hua, jamuee men eka ajnyata sthana para eka ladake aura eka ladaki ko purushon ke eka samuha dvara ghera liya gaya aura pareshana kiya gaya।",
       "category_hinglish": "Politics aur Government"
+    },
+    {
+      "id": "dcbf8e6bbe90d13a",
+      "title": "Starbucks to open global tech hub in India",
+      "summary": "Chennai site will bring more third-party work in-house, according to Chief Technology Officer Anand Varadarajan",
+      "category": "Technology",
+      "image": "https://storage.ghost.io/c/f7/2c/f72c3701-6a2d-4fef-ba1f-262a5397fe3f/content/images/size/w1200/2026/09/photos-by-rugeen-YuM6OaRQQ5w-unsplash-1.jpg",
+      "source": "worldcoffeeportal.com",
+      "sourceUrl": "https://www.worldcoffeeportal.com/news/starbucks-to-open-global-tech-hub-in-india/",
+      "publishedAt": "2026-09-21T14:19:39.000Z",
+      "fetchedAt": "2026-09-21T14:35:08.698Z",
+      "title_hi": "स्टारबक्स भारत में ग्लोबल टेक हब खोलेगा",
+      "summary_hi": "मुख्य प्रौद्योगिकी अधिकारी आनंद वरदराजन के अनुसार, चेन्नई साइट अधिक तृतीय-पक्ष कार्य लाएगी",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "starabaksa bharata men globala teka haba kholega",
+      "summary_hinglish": "mukhya praudyogiki adhikari aananda varadarajana ke anusar, chennaee saita adhika tritiya-paksha karya laegi",
+      "category_hinglish": "Technology"
     },
     {
       "id": "6d5d6a7da3bd4d9c",
@@ -524,23 +590,6 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "344aea753cdeedc0",
-      "title": "Starbucks picks Chennai for first India tech hub, brings 800 tech jobs paying up to ₹35 lakh",
-      "summary": "The move marks Starbucks' first Global Capability Centre in India and brings its global technology and financial operations under one centre in Chennai.",
-      "category": "Technology",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6ab139795f5f0-the-chennai-centre-will-handle-starbucks-global-technology-and-financial-operations-210440330-16x9.png",
-      "source": "Business Today",
-      "sourceUrl": "https://www.businesstoday.in/jobs/story/starbucks-picks-chennai-for-first-india-tech-hub-brings-800-tech-jobs-paying-up-to-rs35-lakh-556884-2026-09-21",
-      "publishedAt": "2026-09-21T14:05:27.000Z",
-      "fetchedAt": "2026-09-21T14:49:49.947Z",
-      "title_hi": "स्टारबक्स ने भारत के पहले तकनीकी केंद्र के लिए चेन्नई को चुना, ₹35 लाख तक वेतन वाली 800 तकनीकी नौकरियां निकालीं",
-      "summary_hi": "यह कदम भारत में स्टारबक्स के पहले वैश्विक क्षमता केंद्र को चिह्नित करता है और इसकी वैश्विक प्रौद्योगिकी और वित्तीय संचालन को चेन्नई में एक केंद्र के तहत लाता है।",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "starabaksa ne bharata ke pahale takaniki kendra ke lie chennaee ko chun, ₹35 lakha taka vetana vali 800 takaniki naukariyan nikalin",
-      "summary_hinglish": "yaha kadama bharata men starabaksa ke pahale vaishvika kshamata kendra ko chihnita karata hai aura isaki vaishvika praudyogiki aura vittiya sanchalana ko chennaee men eka kendra ke tahata lata hai।",
-      "category_hinglish": "Technology"
-    },
-    {
       "id": "7d483739e60778d8",
       "title": "Girl groped, boy hit as mob harasses teens in Bihar's Jamui, shocking video surfaces | India News",
       "summary": "The Jamui police confirmed that the boy and the girl seen in the video were both minors who had gone to take pictures at the site. | India News",
@@ -556,6 +605,23 @@
       "category_hinglish": "Politics aur Government",
       "title_hinglish": "bihara ke jamuee men bhida dvara kishoron ko pareshana karane para ladaki ko chhedaा gay, ladake ko mara gay, chaunkane vala vidiyo samane aaya | bharata samachara",
       "summary_hinglish": "jamuee pulisa ne pushti ki ki vidiyo men dikha raha ladaka aura ladaki donon nabaliga the jo saita para tasviren lene gae the। | bharata samachara"
+    },
+    {
+      "id": "344aea753cdeedc0",
+      "title": "Starbucks picks Chennai for first India tech hub, brings 800 tech jobs paying up to ₹35 lakh",
+      "summary": "The move marks Starbucks' first Global Capability Centre in India and brings its global technology and financial operations under one centre in Chennai.",
+      "category": "Technology",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6ab139795f5f0-the-chennai-centre-will-handle-starbucks-global-technology-and-financial-operations-210440330-16x9.png",
+      "source": "Business Today",
+      "sourceUrl": "https://www.businesstoday.in/jobs/story/starbucks-picks-chennai-for-first-india-tech-hub-brings-800-tech-jobs-paying-up-to-rs35-lakh-556884-2026-09-21",
+      "publishedAt": "2026-09-21T14:05:27.000Z",
+      "fetchedAt": "2026-09-21T14:49:49.947Z",
+      "title_hi": "स्टारबक्स ने भारत के पहले तकनीकी केंद्र के लिए चेन्नई को चुना, ₹35 लाख तक वेतन वाली 800 तकनीकी नौकरियां निकालीं",
+      "summary_hi": "यह कदम भारत में स्टारबक्स के पहले वैश्विक क्षमता केंद्र को चिह्नित करता है और इसकी वैश्विक प्रौद्योगिकी और वित्तीय संचालन को चेन्नई में एक केंद्र के तहत लाता है।",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "starabaksa ne bharata ke pahale takaniki kendra ke lie chennaee ko chun, ₹35 lakha taka vetana vali 800 takaniki naukariyan nikalin",
+      "summary_hinglish": "yaha kadama bharata men starabaksa ke pahale vaishvika kshamata kendra ko chihnita karata hai aura isaki vaishvika praudyogiki aura vittiya sanchalana ko chennaee men eka kendra ke tahata lata hai।",
+      "category_hinglish": "Technology"
     },
     {
       "id": "6de4deacae3a77ac",
@@ -643,23 +709,6 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "80a6c91b1ff6f1e5",
-      "title": "Microsoft India President On AI's Future And Investment In The Nation",
-      "summary": "Microsoft India and South Asia President, Puneet Chandok, discusses the company",
-      "category": "Technology",
-      "image": "https://im.rediff.com/1200-630/news/2022/dec/12ai.jpg",
-      "source": "Rediff",
-      "sourceUrl": "https://m.rediff.com/amp/business/report/microsoft-india-chief-ai-must-serve-humanity-humans-in-control/20260921.htm",
-      "publishedAt": "2026-09-21T13:54:59.000Z",
-      "fetchedAt": "2026-09-21T15:00:23.797Z",
-      "title_hi": "देश में एआई के भविष्य और निवेश पर माइक्रोसॉफ्ट इंडिया के अध्यक्ष",
-      "summary_hi": "माइक्रोसॉफ्ट के भारत और दक्षिण एशिया के अध्यक्ष, पुनीत चंडोक ने कंपनी पर चर्चा की",
-      "category_hi": "टेक्नोलॉजी",
-      "category_hinglish": "Technology",
-      "title_hinglish": "desha men eaaee ke bhavishya aura nivesha para maikrosophta indiya ke adhyaksha",
-      "summary_hinglish": "maikrosophta ke bharata aura dakshina eshiya ke adhyaksh, punita chandoka ne kanpani para charcha ki"
-    },
-    {
       "id": "6202c7509b0cc898",
       "title": "Born in Bihar, a master’s degree from IIT Kanpur, but with cricket still in his heart, Abhishek Anand has",
       "summary": "View this post on Instagram A post shared by Utsav Singh | Japan Wala Bihari (@japan_wala_bihari)",
@@ -675,6 +724,23 @@
       "title_hinglish": "bihara men janme abhisheka aananda ne aaeeaaeeti kanapura se mastara digri hasila ki, lekina unake dila men abhi bhi kriketa hai",
       "summary_hinglish": "isa posta ko instagrama para dekhen utsava sinha dvara sajha ki gaee eka posta | japana vala bihari (@japan_walla_bihari)",
       "category_hinglish": "Sports"
+    },
+    {
+      "id": "80a6c91b1ff6f1e5",
+      "title": "Microsoft India President On AI's Future And Investment In The Nation",
+      "summary": "Microsoft India and South Asia President, Puneet Chandok, discusses the company",
+      "category": "Technology",
+      "image": "https://im.rediff.com/1200-630/news/2022/dec/12ai.jpg",
+      "source": "Rediff",
+      "sourceUrl": "https://m.rediff.com/amp/business/report/microsoft-india-chief-ai-must-serve-humanity-humans-in-control/20260921.htm",
+      "publishedAt": "2026-09-21T13:54:59.000Z",
+      "fetchedAt": "2026-09-21T15:00:23.797Z",
+      "title_hi": "देश में एआई के भविष्य और निवेश पर माइक्रोसॉफ्ट इंडिया के अध्यक्ष",
+      "summary_hi": "माइक्रोसॉफ्ट के भारत और दक्षिण एशिया के अध्यक्ष, पुनीत चंडोक ने कंपनी पर चर्चा की",
+      "category_hi": "टेक्नोलॉजी",
+      "category_hinglish": "Technology",
+      "title_hinglish": "desha men eaaee ke bhavishya aura nivesha para maikrosophta indiya ke adhyaksha",
+      "summary_hinglish": "maikrosophta ke bharata aura dakshina eshiya ke adhyaksh, punita chandoka ne kanpani para charcha ki"
     },
     {
       "id": "6957c6b60619e2de",
@@ -694,23 +760,6 @@
       "category_hinglish": "Crime aur Breaking News"
     },
     {
-      "id": "bc51b8c754531134",
-      "title": "Rise and Fall 2 confirmed list of contestants: Karan Patel to Gautam Gulati - Mid-Day",
-      "summary": "Rise and Fall season 2 is set go on floors on September 26. After a successful first season, they are back with a new one with an interesting bunch of celebs",
-      "category": "Entertainment",
-      "image": "https://images.mid-day.com/images/images/2026/sep/djwrwre_1789995269728_d.jpg",
-      "source": "Mid-Day",
-      "sourceUrl": "https://www.mid-day.com/entertainment/web-series/photo/rise-and-fall-2-confirmed-list-of-contestants-karan-patel-to-gautam-gulati-113185/7",
-      "publishedAt": "2026-09-21T13:48:00.000Z",
-      "fetchedAt": "2026-09-21T15:47:11.345Z",
-      "title_hi": "उत्थान और पतन 2 के प्रतियोगियों की पुष्टि की गई सूची: करण पटेल से गौतम गुलाटी तक - मिड-डे",
-      "summary_hi": "राइज एंड फ़ॉल सीज़न 2 की शूटिंग 26 सितंबर को शुरू होने वाली है। पहले सफल सीज़न के बाद, वे मशहूर हस्तियों के एक दिलचस्प समूह के साथ एक नए सीज़न के साथ वापस आ गए हैं।",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "utthana aura patana 2 ke pratiyogiyon ki pushti ki gaee suchi: karana patela se gautama gulati taka - mida-de",
-      "summary_hinglish": "raija enda phaॉla sijana 2 ki shutinga 26 sitanbara ko shuru hone vali hai। pahale saphala sijana ke bad, ve mashahura hastiyon ke eka dilachaspa samuha ke satha eka nae sijana ke satha vapasa aa gae hain।",
-      "category_hinglish": "Entertainment"
-    },
-    {
       "id": "714d069a9c3515ab",
       "title": "Chess Olympiad Round 5: Praggnanandhaa outwits Dutch No. 1 Anish Giri for first win; Vaishali’s defeat ca",
       "summary": "When it was finally revealed that Rameshbabu Praggnanandhaa would play Board 1, meaning he would face the toughest oppositions — like his oppoennet in Anish Giri in India's match against the Netherlands on Sunday — at the 46th Chess Olympiad in Samarkand, Uzbekistan, many raised eyebrows at world champion Dommaraju…",
@@ -726,6 +775,23 @@
       "title_hinglish": "shataranja olanpiyada raunda 5: praganananda ne dacha nanbara 1 anisha giri ko harakara pahali jita hasila ki; vaishali ki hara kai",
       "summary_hinglish": "jaba antatah yaha pata chala ki rameshababu praganananda borda 1 khelenge, jisaka artha hai ki unhen sabase kathina virodhiyon ka samana karana padaेga - jaise ravivara ko nidaralainda ke khilapha bharata ke maicha men anisha giri ke rupa men unake pratidvandvi - samarakand, ujbekistana men 46ven shataranja olanpiyada men, kaee logon ne vishva chainpiyana dommaraju para bhaunhen chadhaा din...",
       "category_hinglish": "Sports"
+    },
+    {
+      "id": "bc51b8c754531134",
+      "title": "Rise and Fall 2 confirmed list of contestants: Karan Patel to Gautam Gulati - Mid-Day",
+      "summary": "Rise and Fall season 2 is set go on floors on September 26. After a successful first season, they are back with a new one with an interesting bunch of celebs",
+      "category": "Entertainment",
+      "image": "https://images.mid-day.com/images/images/2026/sep/djwrwre_1789995269728_d.jpg",
+      "source": "Mid-Day",
+      "sourceUrl": "https://www.mid-day.com/entertainment/web-series/photo/rise-and-fall-2-confirmed-list-of-contestants-karan-patel-to-gautam-gulati-113185/7",
+      "publishedAt": "2026-09-21T13:48:00.000Z",
+      "fetchedAt": "2026-09-21T15:47:11.345Z",
+      "title_hi": "उत्थान और पतन 2 के प्रतियोगियों की पुष्टि की गई सूची: करण पटेल से गौतम गुलाटी तक - मिड-डे",
+      "summary_hi": "राइज एंड फ़ॉल सीज़न 2 की शूटिंग 26 सितंबर को शुरू होने वाली है। पहले सफल सीज़न के बाद, वे मशहूर हस्तियों के एक दिलचस्प समूह के साथ एक नए सीज़न के साथ वापस आ गए हैं।",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "utthana aura patana 2 ke pratiyogiyon ki pushti ki gaee suchi: karana patela se gautama gulati taka - mida-de",
+      "summary_hinglish": "raija enda phaॉla sijana 2 ki shutinga 26 sitanbara ko shuru hone vali hai। pahale saphala sijana ke bad, ve mashahura hastiyon ke eka dilachaspa samuha ke satha eka nae sijana ke satha vapasa aa gae hain।",
+      "category_hinglish": "Entertainment"
     },
     {
       "id": "b5c80e088912bbc7",
@@ -813,23 +879,6 @@
       "category_hinglish": "Crime aur Breaking News"
     },
     {
-      "id": "97161fa05a823e63",
-      "title": "Starbucks to build India technology hub in Chennai, target 800 hires",
-      "summary": "Starbucks NASDAQ:SBUX is expanding its technology operations in India, with plans to create a global capability center in Chennai and employ about 800 technology workers, according to the Tamil Nadu government.The company has entered into an agreement with the southern Indian state for the center…",
-      "category": "Technology",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "source": "TradingView",
-      "sourceUrl": "https://www.tradingview.com/news/seekingalpha:97b939258094b:0-starbucks-to-build-india-technology-hub-in-chennai-target-800-hires/",
-      "publishedAt": "2026-09-21T13:17:23.000Z",
-      "fetchedAt": "2026-09-21T13:34:49.371Z",
-      "title_hi": "स्टारबक्स चेन्नई में भारत प्रौद्योगिकी केंद्र का निर्माण करेगा, 800 नियुक्तियों का लक्ष्य",
-      "summary_hi": "स्टारबक्स NASDAQ: तमिलनाडु सरकार के अनुसार, SBUX चेन्नई में एक वैश्विक क्षमता केंद्र बनाने और लगभग 800 प्रौद्योगिकी कर्मचारियों को रोजगार देने की योजना के साथ, भारत में अपने प्रौद्योगिकी संचालन का विस्तार कर रहा है। कंपनी ने केंद्र के लिए दक्षिणी भारतीय राज्य के साथ एक समझौता किया है…",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "starabaksa chennaee men bharata praudyogiki kendra ka nirmana kareg, 800 niyuktiyon ka lakshya",
-      "summary_hinglish": "starabaksa NASDAQ: tamilanadu sarakara ke anusar, SBUX chennaee men eka vaishvika kshamata kendra banane aura lagabhaga 800 praudyogiki karmachariyon ko rojagara dene ki yojana ke sath, bharata men apane praudyogiki sanchalana ka vistara kara raha hai। kanpani ne kendra ke lie dakshini bharatiya rajya ke satha eka samajhauta kiya hai…",
-      "category_hinglish": "Technology"
-    },
-    {
       "id": "b0a7445d8fa7d0e5",
       "title": "Bihar forms SIT to probe vehicle insurance fraud, tightens challan norms",
       "summary": "The Bihar Police have taken a series of measures to curb insurance fraud and improve traffic enforcement, including the formation of a Special Investigation Team (SIT) under the Crime Investigation Department (CID) to probe suspected ‘vehicle implant’ scams, stricter norms for issuing traffic challans and a directive to release accident-hit…",
@@ -845,6 +894,23 @@
       "title_hinglish": "bihar ne vahan bim dhokhadhadी ki janch ke lie esaaiti gathit ki, chalan manadand sakht kie",
       "category_hinglish": "Crime aur Breaking News",
       "summary_hinglish": "bihara pulisa ne bima dhokhadhadaी ko rokane aura yatayata pravartana men sudhara ke lie kaee kadama uthae hain, jisamen sandigdha 'vahana pratyaropana' ghotalon ki jancha ke lie aparadha jancha vibhaga (siaaeedi) ke tahata eka vishesha jancha dala (esaaaeeti) ka gathan, yatayata chalana jari karane ke lie sakhta manadanda aura durghatana-prabhavita logon ko riha karane ka nirdesha shamila hai..."
+    },
+    {
+      "id": "97161fa05a823e63",
+      "title": "Starbucks to build India technology hub in Chennai, target 800 hires",
+      "summary": "Starbucks NASDAQ:SBUX is expanding its technology operations in India, with plans to create a global capability center in Chennai and employ about 800 technology workers, according to the Tamil Nadu government.The company has entered into an agreement with the southern Indian state for the center…",
+      "category": "Technology",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "source": "TradingView",
+      "sourceUrl": "https://www.tradingview.com/news/seekingalpha:97b939258094b:0-starbucks-to-build-india-technology-hub-in-chennai-target-800-hires/",
+      "publishedAt": "2026-09-21T13:17:23.000Z",
+      "fetchedAt": "2026-09-21T13:34:49.371Z",
+      "title_hi": "स्टारबक्स चेन्नई में भारत प्रौद्योगिकी केंद्र का निर्माण करेगा, 800 नियुक्तियों का लक्ष्य",
+      "summary_hi": "स्टारबक्स NASDAQ: तमिलनाडु सरकार के अनुसार, SBUX चेन्नई में एक वैश्विक क्षमता केंद्र बनाने और लगभग 800 प्रौद्योगिकी कर्मचारियों को रोजगार देने की योजना के साथ, भारत में अपने प्रौद्योगिकी संचालन का विस्तार कर रहा है। कंपनी ने केंद्र के लिए दक्षिणी भारतीय राज्य के साथ एक समझौता किया है…",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "starabaksa chennaee men bharata praudyogiki kendra ka nirmana kareg, 800 niyuktiyon ka lakshya",
+      "summary_hinglish": "starabaksa NASDAQ: tamilanadu sarakara ke anusar, SBUX chennaee men eka vaishvika kshamata kendra banane aura lagabhaga 800 praudyogiki karmachariyon ko rojagara dene ki yojana ke sath, bharata men apane praudyogiki sanchalana ka vistara kara raha hai। kanpani ne kendra ke lie dakshini bharatiya rajya ke satha eka samajhauta kiya hai…",
+      "category_hinglish": "Technology"
     },
     {
       "id": "ba4ecd26951d211f",
@@ -864,23 +930,6 @@
       "category_hinglish": "Sports"
     },
     {
-      "id": "8a38224260aaece8",
-      "title": "Microsoft adds 4th cloud region in India, expands AI infrastructure footprint",
-      "summary": "Microsoft has made its fourth cloud region in India operational in Hyderabad, expanding its local infrastructure as demand for cloud and AI workloads...",
-      "category": "Technology",
-      "image": "https://assets.techcircle.in/uploads/article-image/2026/09/images/38110-23911-22614-22243-ms-xllarge2x1559902489.jpg",
-      "source": "Techcircle",
-      "sourceUrl": "https://www.techcircle.in/2026/09/21/microsoft-adds-4th-cloud-region-in-india-expands-ai-infrastructure-footprint",
-      "publishedAt": "2026-09-21T13:13:20.000Z",
-      "fetchedAt": "2026-09-21T13:20:17.236Z",
-      "title_hi": "माइक्रोसॉफ्ट ने भारत में चौथा क्लाउड क्षेत्र जोड़ा, एआई इंफ्रास्ट्रक्चर पदचिह्न का विस्तार किया",
-      "summary_hi": "माइक्रोसॉफ्ट ने भारत में अपना चौथा क्लाउड क्षेत्र हैदराबाद में चालू कर दिया है, क्लाउड और एआई वर्कलोड की मांग के अनुसार अपने स्थानीय बुनियादी ढांचे का विस्तार किया है...",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "maikrosophta ne bharata men chautha klauda kshetra jodaा, eaaee inphrastrakchara padachihna ka vistara kiya",
-      "summary_hinglish": "maikrosophta ne bharata men apana chautha klauda kshetra haidarabada men chalu kara diya hai, klauda aura eaaee varkaloda ki manga ke anusara apane sthaniya buniyadi dhanche ka vistara kiya hai...",
-      "category_hinglish": "Technology"
-    },
-    {
       "id": "a4bcee89cdfc8490",
       "title": "Kangana Ranaut HITS BACK at people trolling Maithili Thakur for arriving in Rolls-Royce at Lalbaugcha Raj",
       "summary": "Kangana Ranaut has come out in support of young singing talent and Bihar MLA Maithili Thakur, who was trolled for visiting Mumbai's Lalbaugcha Raja pandal in a luxury Rolls-Royce Cullinan. Kangana asked why critics feel hurt whenever politicians try to make their own lives better.",
@@ -896,6 +945,23 @@
       "title_hinglish": "kangan ranaut ne lalabagach raj men rols-rॉyas men pahunchane ke lie maithili thakur ko trol karane vale logon par palatavar kiy",
       "category_hinglish": "Entertainment",
       "summary_hinglish": "kangana ranauta yuva gayana pratibha aura bihara vidhayaka maithili thakura ke samarthana men samane aaee hain, jinhen lakjari rolsa-royasa kalinana men munbaee ke lalabagacha raja pandala men jane ke lie trola kiya gaya tha। kangana ne puchha ki jaba bhi rajaneta apane jivana ko behatara banane ki koshisha karate hain to aalochakon ko dukha kyon hota hai।"
+    },
+    {
+      "id": "8a38224260aaece8",
+      "title": "Microsoft adds 4th cloud region in India, expands AI infrastructure footprint",
+      "summary": "Microsoft has made its fourth cloud region in India operational in Hyderabad, expanding its local infrastructure as demand for cloud and AI workloads...",
+      "category": "Technology",
+      "image": "https://assets.techcircle.in/uploads/article-image/2026/09/images/38110-23911-22614-22243-ms-xllarge2x1559902489.jpg",
+      "source": "Techcircle",
+      "sourceUrl": "https://www.techcircle.in/2026/09/21/microsoft-adds-4th-cloud-region-in-india-expands-ai-infrastructure-footprint",
+      "publishedAt": "2026-09-21T13:13:20.000Z",
+      "fetchedAt": "2026-09-21T13:20:17.236Z",
+      "title_hi": "माइक्रोसॉफ्ट ने भारत में चौथा क्लाउड क्षेत्र जोड़ा, एआई इंफ्रास्ट्रक्चर पदचिह्न का विस्तार किया",
+      "summary_hi": "माइक्रोसॉफ्ट ने भारत में अपना चौथा क्लाउड क्षेत्र हैदराबाद में चालू कर दिया है, क्लाउड और एआई वर्कलोड की मांग के अनुसार अपने स्थानीय बुनियादी ढांचे का विस्तार किया है...",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "maikrosophta ne bharata men chautha klauda kshetra jodaा, eaaee inphrastrakchara padachihna ka vistara kiya",
+      "summary_hinglish": "maikrosophta ne bharata men apana chautha klauda kshetra haidarabada men chalu kara diya hai, klauda aura eaaee varkaloda ki manga ke anusara apane sthaniya buniyadi dhanche ka vistara kiya hai...",
+      "category_hinglish": "Technology"
     },
     {
       "id": "aa555a08e1aa8131",
@@ -983,23 +1049,6 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "779d8b046de23a7b",
-      "title": "Malawi and India Explore Technology Partnerships at TechBridge Workshop",
-      "summary": "The TechBridge platform is intended to help turn the connections between Malawian and Indian stakeholders into practical partnerships that can contribute to Malawi’s digital transformation.",
-      "category": "Technology",
-      "image": "https://techafricanews.com/wp-content/uploads/2026/09/mhub-.png",
-      "source": "TechAfrica News",
-      "sourceUrl": "https://techafricanews.com/2026/09/21/malawi-india-explore-technology-partnerships-at-techbridge-workshop/",
-      "publishedAt": "2026-09-21T13:02:11.000Z",
-      "fetchedAt": "2026-09-21T13:48:55.661Z",
-      "title_hi": "मलावी और भारत टेकब्रिज कार्यशाला में प्रौद्योगिकी साझेदारी का पता लगाते हैं",
-      "summary_hi": "टेकब्रिज प्लेटफॉर्म का उद्देश्य मलावी और भारतीय हितधारकों के बीच संबंधों को व्यावहारिक साझेदारी में बदलने में मदद करना है जो मलावी के डिजिटल परिवर्तन में योगदान दे सकता है।",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "malavi aura bharata tekabrija karyashala men praudyogiki sajhedari ka pata lagate hain",
-      "summary_hinglish": "tekabrija pletaphorma ka uddeshya malavi aura bharatiya hitadharakon ke bicha sanbandhon ko vyavaharika sajhedari men badalane men madada karana hai jo malavi ke dijitala parivartana men yogadana de sakata hai।",
-      "category_hinglish": "Technology"
-    },
-    {
       "id": "d340ef50077a9df3",
       "title": "Bhojpuri actress Kajal Raghwani is safe after fans CHASE her car, BREAK WINDOWS at Bihar Sharif showroom",
       "summary": "The Times of India brings the Latest & Top Breaking News on Politics and Current Affairs in India & around the World, Cricket, Sports, Business, Bollywood News and Entertainment, Science, Technology, Health & Fitness news & opinions from leading columnists.",
@@ -1015,6 +1064,23 @@
       "title_hinglish": "biharasharipha shoruma men prashansakon dvara unaki kara ka pichha karane, khidakiyan todane ke bada bhojapuri abhinetri kajala raghavani surakshita hain",
       "summary_hinglish": "taimsa ऑpha indiya bharata aura duniya bhara men rajaniti aura samasamayika mamalon, kriket, khel, vyapar, bolivuda samachara aura manoranjan, vijnyan, praudyogiki, svasthya aura phitanesa samachara aura pramukha stanbhakaron ki raya para navinatama aura shirsha brekinga samachara lata hai।",
       "category_hinglish": "Entertainment"
+    },
+    {
+      "id": "779d8b046de23a7b",
+      "title": "Malawi and India Explore Technology Partnerships at TechBridge Workshop",
+      "summary": "The TechBridge platform is intended to help turn the connections between Malawian and Indian stakeholders into practical partnerships that can contribute to Malawi’s digital transformation.",
+      "category": "Technology",
+      "image": "https://techafricanews.com/wp-content/uploads/2026/09/mhub-.png",
+      "source": "TechAfrica News",
+      "sourceUrl": "https://techafricanews.com/2026/09/21/malawi-india-explore-technology-partnerships-at-techbridge-workshop/",
+      "publishedAt": "2026-09-21T13:02:11.000Z",
+      "fetchedAt": "2026-09-21T13:48:55.661Z",
+      "title_hi": "मलावी और भारत टेकब्रिज कार्यशाला में प्रौद्योगिकी साझेदारी का पता लगाते हैं",
+      "summary_hi": "टेकब्रिज प्लेटफॉर्म का उद्देश्य मलावी और भारतीय हितधारकों के बीच संबंधों को व्यावहारिक साझेदारी में बदलने में मदद करना है जो मलावी के डिजिटल परिवर्तन में योगदान दे सकता है।",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "malavi aura bharata tekabrija karyashala men praudyogiki sajhedari ka pata lagate hain",
+      "summary_hinglish": "tekabrija pletaphorma ka uddeshya malavi aura bharatiya hitadharakon ke bicha sanbandhon ko vyavaharika sajhedari men badalane men madada karana hai jo malavi ke dijitala parivartana men yogadana de sakata hai।",
+      "category_hinglish": "Technology"
     },
     {
       "id": "f0a8e399f94b8f2b",
@@ -1034,23 +1100,6 @@
       "category_hinglish": "Sports"
     },
     {
-      "id": "ca2c7791ea91ccb7",
-      "title": "IPL: CSK appoint Zaheer Khan as head coach, replacing Stephen Fleming",
-      "summary": "World Cup-winning former India fast bowler Zaheer Khan takes over as the head coach of Chennai Super Kings, ending weeks of speculation after Stephen Fleming stepped down from the role. Zaheer is expected to work closely with MS Dhoni at CSK, who will look to bounce back in IPL 2027.",
-      "category": "Sports",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/zaheer-khan-and-ms-dhoni-212433194-16x9_0.jpg?VersionId=.2C4dHeg9qL.Z6kVeo3V4aOBKu0JRlE1",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/sports/cricket/story/csk-zaheer-khan-new-head-coach-ipl-2999660-2026-09-21",
-      "publishedAt": "2026-09-21T12:55:18.000Z",
-      "fetchedAt": "2026-09-21T15:47:03.534Z",
-      "title_hi": "आईपीएल: सीएसके ने स्टीफन फ्लेमिंग की जगह जहीर खान को मुख्य कोच नियुक्त किया",
-      "summary_hi": "विश्व कप विजेता भारत के पूर्व तेज गेंदबाज जहीर खान ने चेन्नई सुपर किंग्स के मुख्य कोच का पदभार संभाला, जिससे स्टीफन फ्लेमिंग के इस पद से हटने के बाद कई सप्ताह से चल रही अटकलें खत्म हो गईं। उम्मीद है कि जहीर सीएसके में एमएस धोनी के साथ मिलकर काम करेंगे, जो आईपीएल 2027 में वापसी करना चाहेंगे।",
-      "category_hi": "खेल",
-      "title_hinglish": "aaeepiel: siesake ne stiphana phleminga ki jagaha jahira khana ko mukhya kocha niyukta kiya",
-      "summary_hinglish": "vishva kapa vijeta bharata ke purva teja gendabaja jahira khana ne chennaee supara kingsa ke mukhya kocha ka padabhara sanbhal, jisase stiphana phleminga ke isa pada se hatane ke bada kaee saptaha se chala rahi atakalen khatma ho gaeen। ummida hai ki jahira siesake men emaesa dhoni ke satha milakara kama karenge, jo aaeepiela 2027 men vapasi karana chahenge।",
-      "category_hinglish": "Sports"
-    },
-    {
       "id": "3ab8af1ef7196e83",
       "title": "The Vvaan: Sidharth Malhotra and Tamannaah Bhatia honour Bihar’s Chhath rituals",
       "summary": "The team behind the movie The Vvaan visited Patna ahead of the film’s September 25 release. Tamannaah Bhatia and Sidharth Malhotra, along with their producers,",
@@ -1066,6 +1115,23 @@
       "title_hinglish": "d vavan: siddharth malhotr ​​aur tamann bhatiy bihar ke chhath anushthanon k samman karate hain",
       "category_hinglish": "Entertainment",
       "summary_hinglish": "philma da vavana ki 25 sitanbara ko rilija se pahale tima ne patana ka daura kiya। tamanna bhatiya aura siddhartha malhotr, apane nirmataon ke sath,"
+    },
+    {
+      "id": "ca2c7791ea91ccb7",
+      "title": "IPL: CSK appoint Zaheer Khan as head coach, replacing Stephen Fleming",
+      "summary": "World Cup-winning former India fast bowler Zaheer Khan takes over as the head coach of Chennai Super Kings, ending weeks of speculation after Stephen Fleming stepped down from the role. Zaheer is expected to work closely with MS Dhoni at CSK, who will look to bounce back in IPL 2027.",
+      "category": "Sports",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/zaheer-khan-and-ms-dhoni-212433194-16x9_0.jpg?VersionId=.2C4dHeg9qL.Z6kVeo3V4aOBKu0JRlE1",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/sports/cricket/story/csk-zaheer-khan-new-head-coach-ipl-2999660-2026-09-21",
+      "publishedAt": "2026-09-21T12:55:18.000Z",
+      "fetchedAt": "2026-09-21T15:47:03.534Z",
+      "title_hi": "आईपीएल: सीएसके ने स्टीफन फ्लेमिंग की जगह जहीर खान को मुख्य कोच नियुक्त किया",
+      "summary_hi": "विश्व कप विजेता भारत के पूर्व तेज गेंदबाज जहीर खान ने चेन्नई सुपर किंग्स के मुख्य कोच का पदभार संभाला, जिससे स्टीफन फ्लेमिंग के इस पद से हटने के बाद कई सप्ताह से चल रही अटकलें खत्म हो गईं। उम्मीद है कि जहीर सीएसके में एमएस धोनी के साथ मिलकर काम करेंगे, जो आईपीएल 2027 में वापसी करना चाहेंगे।",
+      "category_hi": "खेल",
+      "title_hinglish": "aaeepiel: siesake ne stiphana phleminga ki jagaha jahira khana ko mukhya kocha niyukta kiya",
+      "summary_hinglish": "vishva kapa vijeta bharata ke purva teja gendabaja jahira khana ne chennaee supara kingsa ke mukhya kocha ka padabhara sanbhal, jisase stiphana phleminga ke isa pada se hatane ke bada kaee saptaha se chala rahi atakalen khatma ho gaeen। ummida hai ki jahira siesake men emaesa dhoni ke satha milakara kama karenge, jo aaeepiela 2027 men vapasi karana chahenge।",
+      "category_hinglish": "Sports"
     },
     {
       "id": "d74360bcf86ad8fe",
@@ -1153,23 +1219,6 @@
       "category_hinglish": "Business aur Finance"
     },
     {
-      "id": "7f18b5ba868e3725",
-      "title": "School Assembly News Headlines September 22: Top national, international, sports and business news",
-      "summary": "School Assembly News Headlines for September 22 bring students a roundup of major national, international, business and sports developments. Key updates include court proceedings, security alerts, railway checks, energy concerns, diplomatic developments, trade ties, corporate expansion, global airline rankings and India",
-      "category": "National & Trending News",
-      "image": "https://img.etimg.com/thumb/msid-134389577,width-1200,height-630,imgsize-100648,overlay-economictimes/articleshow.jpg",
-      "source": "The Economic Times",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/new-updates/school-assembly-news-headlines-september-22-top-national-international-sports-and-business-news/articleshow/134388917.cms?from=mdr",
-      "publishedAt": "2026-09-21T12:20:26.000Z",
-      "fetchedAt": "2026-09-21T12:35:13.606Z",
-      "title_hi": "स्कूल असेंबली समाचार मुख्य समाचार 22 सितंबर: शीर्ष राष्ट्रीय, अंतर्राष्ट्रीय, खेल और व्यावसायिक समाचार",
-      "summary_hi": "22 सितंबर के लिए स्कूल असेंबली समाचार सुर्खियाँ छात्रों को प्रमुख राष्ट्रीय, अंतर्राष्ट्रीय, व्यावसायिक और खेल विकास की जानकारी देती हैं। मुख्य अपडेट में अदालती कार्यवाही, सुरक्षा अलर्ट, रेलवे जांच, ऊर्जा संबंधी चिंताएं, राजनयिक विकास, व्यापार संबंध, कॉर्पोरेट विस्तार, वैश्विक एयरलाइन रैंकिंग और भारत शामिल हैं।",
-      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
-      "title_hinglish": "skula asenbali samachara mukhya samachara 22 sitanbar: shirsha rashtriy, antarrashtriy, khela aura vyavasayika samachara",
-      "summary_hinglish": "22 sitanbara ke lie skula asenbali samachara surkhiyan chhatron ko pramukha rashtriy, antarrashtriy, vyavasayika aura khela vikasa ki janakari deti hain। mukhya apadeta men adalati karyavahi, suraksha alart, relave janch, oorja sanbandhi chintaen, rajanayika vikas, vyapara sanbandh, korporeta vistar, vaishvika eyaralaina rainkinga aura bharata shamila hain।",
-      "category_hinglish": "National aur Trending News"
-    },
-    {
       "id": "df4ee11c80718c75",
       "title": "Prashant Kishor's JSP announces 5 candidates for Bihar Legislative Council polls | India News",
       "summary": "Elections are to be held for a total of eight constituencies -- four graduates' and teachers' seats each -- terms of which expire in November. | India News",
@@ -1185,6 +1234,23 @@
       "category_hinglish": "Politics aur Government",
       "title_hinglish": "prashanta kishora ki jeesapi ne bihara vidhana parishada chunava ke lie 5 ummidavaron ki ghoshana ki | bharata samachara",
       "summary_hinglish": "kula aatha nirvachana kshetron ke lie chunava hone hain - chara snataka aura shikshaka siten - jinaki sharten navanbara men samapta ho rahi hain। | bharata samachara"
+    },
+    {
+      "id": "7f18b5ba868e3725",
+      "title": "School Assembly News Headlines September 22: Top national, international, sports and business news",
+      "summary": "School Assembly News Headlines for September 22 bring students a roundup of major national, international, business and sports developments. Key updates include court proceedings, security alerts, railway checks, energy concerns, diplomatic developments, trade ties, corporate expansion, global airline rankings and India",
+      "category": "National & Trending News",
+      "image": "https://img.etimg.com/thumb/msid-134389577,width-1200,height-630,imgsize-100648,overlay-economictimes/articleshow.jpg",
+      "source": "The Economic Times",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/new-updates/school-assembly-news-headlines-september-22-top-national-international-sports-and-business-news/articleshow/134388917.cms?from=mdr",
+      "publishedAt": "2026-09-21T12:20:26.000Z",
+      "fetchedAt": "2026-09-21T12:35:13.606Z",
+      "title_hi": "स्कूल असेंबली समाचार मुख्य समाचार 22 सितंबर: शीर्ष राष्ट्रीय, अंतर्राष्ट्रीय, खेल और व्यावसायिक समाचार",
+      "summary_hi": "22 सितंबर के लिए स्कूल असेंबली समाचार सुर्खियाँ छात्रों को प्रमुख राष्ट्रीय, अंतर्राष्ट्रीय, व्यावसायिक और खेल विकास की जानकारी देती हैं। मुख्य अपडेट में अदालती कार्यवाही, सुरक्षा अलर्ट, रेलवे जांच, ऊर्जा संबंधी चिंताएं, राजनयिक विकास, व्यापार संबंध, कॉर्पोरेट विस्तार, वैश्विक एयरलाइन रैंकिंग और भारत शामिल हैं।",
+      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
+      "title_hinglish": "skula asenbali samachara mukhya samachara 22 sitanbar: shirsha rashtriy, antarrashtriy, khela aura vyavasayika samachara",
+      "summary_hinglish": "22 sitanbara ke lie skula asenbali samachara surkhiyan chhatron ko pramukha rashtriy, antarrashtriy, vyavasayika aura khela vikasa ki janakari deti hain। mukhya apadeta men adalati karyavahi, suraksha alart, relave janch, oorja sanbandhi chintaen, rajanayika vikas, vyapara sanbandh, korporeta vistar, vaishvika eyaralaina rainkinga aura bharata shamila hain।",
+      "category_hinglish": "National aur Trending News"
     },
     {
       "id": "2c666da704c3c5aa",
@@ -1204,23 +1270,6 @@
       "category_hinglish": "Entertainment"
     },
     {
-      "id": "7ed77ea0d814ed1e",
-      "title": "One Nation One Election: Pros And Cons",
-      "summary": "One Nation, One Election promises policy continuity, lower costs and stronger governance, but poses challenges to federalism, State mandates and political stability.",
-      "category": "Politics & Government",
-      "image": "https://media.assettype.com/freepressjournal/2026-09-21/il0e06qd/ram-gandhi.jpg",
-      "source": "freepressjournal.in",
-      "sourceUrl": "https://www.freepressjournal.in/india/one-nation-one-election-pros-and-cons",
-      "publishedAt": "2026-09-21T12:02:54.000Z",
-      "fetchedAt": "2026-09-21T12:35:18.203Z",
-      "title_hi": "एक राष्ट्र एक चुनाव: पक्ष और विपक्ष",
-      "summary_hi": "एक राष्ट्र, एक चुनाव नीति की निरंतरता, कम लागत और मजबूत शासन का वादा करता है, लेकिन संघवाद, राज्य के जनादेश और राजनीतिक स्थिरता के लिए चुनौतियां पेश करता है।",
-      "category_hi": "राजनीति और सरकार",
-      "title_hinglish": "eka rashtra eka chunav: paksha aura vipaksha",
-      "summary_hinglish": "eka rashtr, eka chunava niti ki nirantarat, kama lagata aura majabuta shasana ka vada karata hai, lekina sanghavad, rajya ke janadesha aura rajanitika sthirata ke lie chunautiyan pesha karata hai।",
-      "category_hinglish": "Politics aur Government"
-    },
-    {
       "id": "c8dee49868675da4",
       "title": "Jan Suraaj announces candidates for 5 Bihar Legislative Council seats",
       "summary": "Prashant Kishors Jan Suraaj is getting an early start on Bihars next electoral contest, naming candidates for five of the eight Legislative Council seats headed for polls. From backing a sitting MLC for another term to fielding a lawyer-turned-politician against a JD(U) heavyweight, Kishor is widening his partys footprint in…",
@@ -1236,6 +1285,23 @@
       "title_hinglish": "jan suraj ne 5 bihar vidhan parishad siton ke lie ummidavaron ki ghoshan ki",
       "category_hinglish": "Politics aur Government",
       "summary_hinglish": "prashanta kishora ke jana suraja ne bihara ki agali chunavi ladaाee ki shuruaati shuruaata karate hue aatha vidhana parishada siton men se pancha ke lie ummidavaron ke nama ghoshita kara die hain। eka maujuda emaelasi ko dusare karyakala ke lie samarthana dene se lekara eka vakila se neta bane jadayu ke diggaja neta ke khilapha maidana men utarane tak, kishora apani parti ka dayara badhaा rahe hain…"
+    },
+    {
+      "id": "7ed77ea0d814ed1e",
+      "title": "One Nation One Election: Pros And Cons",
+      "summary": "One Nation, One Election promises policy continuity, lower costs and stronger governance, but poses challenges to federalism, State mandates and political stability.",
+      "category": "Politics & Government",
+      "image": "https://media.assettype.com/freepressjournal/2026-09-21/il0e06qd/ram-gandhi.jpg",
+      "source": "freepressjournal.in",
+      "sourceUrl": "https://www.freepressjournal.in/india/one-nation-one-election-pros-and-cons",
+      "publishedAt": "2026-09-21T12:02:54.000Z",
+      "fetchedAt": "2026-09-21T12:35:18.203Z",
+      "title_hi": "एक राष्ट्र एक चुनाव: पक्ष और विपक्ष",
+      "summary_hi": "एक राष्ट्र, एक चुनाव नीति की निरंतरता, कम लागत और मजबूत शासन का वादा करता है, लेकिन संघवाद, राज्य के जनादेश और राजनीतिक स्थिरता के लिए चुनौतियां पेश करता है।",
+      "category_hi": "राजनीति और सरकार",
+      "title_hinglish": "eka rashtra eka chunav: paksha aura vipaksha",
+      "summary_hinglish": "eka rashtr, eka chunava niti ki nirantarat, kama lagata aura majabuta shasana ka vada karata hai, lekina sanghavad, rajya ke janadesha aura rajanitika sthirata ke lie chunautiyan pesha karata hai।",
+      "category_hinglish": "Politics aur Government"
     }
   ]
 }
