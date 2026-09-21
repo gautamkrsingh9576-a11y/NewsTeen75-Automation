@@ -1,7 +1,24 @@
 {
-  "updatedAt": "2026-09-21T09:43:20.544Z",
-  "count": 40,
+  "updatedAt": "2026-09-21T09:55:35.970Z",
+  "count": 43,
   "articles": [
+    {
+      "id": "7ace175ad42820cd",
+      "title": "Samay Raina reacts to claim he upset Mukesh Chhabra with girlfriend joke on Latent",
+      "summary": "A joke about Mukesh Chhabra’s girlfriend in India’s Got Latent sparked fresh online chatter. The buzz grew after an unverified claim of a brief shoot halt, which Samay Raina answered with humour.",
+      "category": "Entertainment",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/mukesh-chhabra-213241361-16x9_0.jpg?VersionId=0Urfai7eAliqDoZJ8amGAaOZD6ALbdDg",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/amp/entertainment/ott/story/samay-raina-reacts-to-claim-he-upset-mukesh-chhabra-with-girlfriend-joke-on-indias-got-latent-2999434-2026-09-21",
+      "publishedAt": "2026-09-21T09:47:06.000Z",
+      "fetchedAt": "2026-09-21T09:55:09.587Z",
+      "title_hi": "समय रैना ने लैटेंट पर गर्लफ्रेंड के मजाक से मुकेश छाबड़ा को परेशान करने के दावे पर प्रतिक्रिया व्यक्त की",
+      "summary_hi": "इंडियाज गॉट लेटेंट में मुकेश छाबड़ा की गर्लफ्रेंड के बारे में एक चुटकुले ने ताजा ऑनलाइन चर्चा को जन्म दे दिया। थोड़ी देर के लिए शूटिंग रुकने के असत्यापित दावे के बाद चर्चा बढ़ गई, जिसका समय रैना ने हास्य के साथ जवाब दिया।",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "samaya raina ne laitenta para garlaphrenda ke majaka se mukesha chhabadaा ko pareshana karane ke dave para pratikriya vyakta ki",
+      "summary_hinglish": "indiyaja gota letenta men mukesha chhabadaा ki garlaphrenda ke bare men eka chutakule ne taja ऑnalaina charcha ko janma de diya। thodaी dera ke lie shutinga rukane ke asatyapita dave ke bada charcha badha gaee, jisaka samaya raina ne hasya ke satha javaba diya।",
+      "category_hinglish": "Entertainment"
+    },
     {
       "id": "031f6f0b485c2203",
       "title": "'Bihari kahan nahi hai bhai': He studied chemistry at IIT Kanpur, now plays cricket for Japan",
@@ -18,23 +35,6 @@
       "title_hinglish": "'bihari kahan nahin hai bhaee': unhonne aaeeaaeeti kanapura se kemistri ki padhaाee ki, aba japana ke lie kriketa khelate hain",
       "summary_hinglish": "bharata banama japana ti20 kriketa maicha 2026: milie aaeeaaeeti kanapura ke eka kushala purva chhatra abhisheka aananda se, jinhonne apani pratibha ko japana taka pahunchaya hai",
       "category_hinglish": "National aur Trending News"
-    },
-    {
-      "id": "a41f0cd851e4ba6f",
-      "title": "IBDF AGM: Broadcasters call for BARC ratings to return ahead of festive season",
-      "summary": "IBDF members urged immediate restoration of BARC TV ratings, citing revenue concerns. They welcomed the government's removal of the 10+2 ad-duration cap.",
-      "category": "Entertainment",
-      "image": "https://images.storyboard18.com/storyboard18/2026/09/Copy-of-THEN-1600-x-900-px-13-2026-09-dc1beb3ed61d3047b29c046b0d369e76-1019x573.png",
-      "source": "Storyboard18",
-      "sourceUrl": "https://www.storyboard18.com/media-and-entertainment/ibdf-agm-broadcasters-seek-immediate-restoration-of-barc-ratings-ws-l-111090.htm",
-      "publishedAt": "2026-09-21T08:42:45.000Z",
-      "fetchedAt": "2026-09-21T08:53:29.663Z",
-      "title_hi": "आईबीडीएफ एजीएम: ब्रॉडकास्टर्स ने त्योहारी सीजन से पहले BARC रेटिंग वापस लाने का आह्वान किया है",
-      "summary_hi": "आईबीडीएफ सदस्यों ने राजस्व चिंताओं का हवाला देते हुए BARC टीवी रेटिंग को तत्काल बहाल करने का आग्रह किया। उन्होंने सरकार द्वारा 10+2 विज्ञापन-अवधि की सीमा हटाने का स्वागत किया।",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "aaeebidiepha ejiem: brodakastarsa ne tyohari sijana se pahale BARC retinga vapasa lane ka aahvana kiya hai",
-      "summary_hinglish": "aaeebidiepha sadasyon ne rajasva chintaon ka havala dete hue BARC tivi retinga ko tatkala bahala karane ka aagraha kiya। unhonne sarakara dvara 10+2 vijnyapana-avadhi ki sima hatane ka svagata kiya।",
-      "category_hinglish": "Entertainment"
     },
     {
       "id": "d86231a50c64f2f1",
@@ -54,6 +54,23 @@
       "category_hinglish": "Sports"
     },
     {
+      "id": "a41f0cd851e4ba6f",
+      "title": "IBDF AGM: Broadcasters call for BARC ratings to return ahead of festive season",
+      "summary": "IBDF members urged immediate restoration of BARC TV ratings, citing revenue concerns. They welcomed the government's removal of the 10+2 ad-duration cap.",
+      "category": "Entertainment",
+      "image": "https://images.storyboard18.com/storyboard18/2026/09/Copy-of-THEN-1600-x-900-px-13-2026-09-dc1beb3ed61d3047b29c046b0d369e76-1019x573.png",
+      "source": "Storyboard18",
+      "sourceUrl": "https://www.storyboard18.com/media-and-entertainment/ibdf-agm-broadcasters-seek-immediate-restoration-of-barc-ratings-ws-l-111090.htm",
+      "publishedAt": "2026-09-21T08:42:45.000Z",
+      "fetchedAt": "2026-09-21T08:53:29.663Z",
+      "title_hi": "आईबीडीएफ एजीएम: ब्रॉडकास्टर्स ने त्योहारी सीजन से पहले BARC रेटिंग वापस लाने का आह्वान किया है",
+      "summary_hi": "आईबीडीएफ सदस्यों ने राजस्व चिंताओं का हवाला देते हुए BARC टीवी रेटिंग को तत्काल बहाल करने का आग्रह किया। उन्होंने सरकार द्वारा 10+2 विज्ञापन-अवधि की सीमा हटाने का स्वागत किया।",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "aaeebidiepha ejiem: brodakastarsa ne tyohari sijana se pahale BARC retinga vapasa lane ka aahvana kiya hai",
+      "summary_hinglish": "aaeebidiepha sadasyon ne rajasva chintaon ka havala dete hue BARC tivi retinga ko tatkala bahala karane ka aagraha kiya। unhonne sarakara dvara 10+2 vijnyapana-avadhi ki sima hatane ka svagata kiya।",
+      "category_hinglish": "Entertainment"
+    },
+    {
       "id": "dcfadbedcd5a8315",
       "title": "ISL Appoints Karan Yadav As CEO To Lead League’s Strategic & Commercial Growth Under New Club-Led Model",
       "summary": "The Indian Super League has appointed Karan Yadav as its new CEO under a club-led model. Yadav, formerly JSW Sports’ Chief Commercial Officer, will lead the League Office and oversee ISL’s strategic, commercial and organisational direction while working with clubs and AIFF.",
@@ -71,21 +88,6 @@
       "summary_hinglish": "indiyana supara liga ne klaba-aadharita modala ke tahata karana yadava ko apana naya sieeo niyukta kiya hai। yadav, purva men jeesadablyu sportsa ke mukhya vanijyika adhikari, liga karyalaya ka netritva karenge aura klabon aura eaaeeephaepha ke satha kama karate hue aaeeesaela ki rananitik, vanijyika aura sangathanatmaka disha ki dekharekha karenge।"
     },
     {
-      "id": "7b00abd39c438255",
-      "title": "India's next ₹100-lakh-cr investment boom? 3 sectors may drive capex cycle",
-      "summary": "AI infrastructure, the renewable energy transition, and defense indigenisation are three concurrent, manufacturing-intensive investment themes underpinning India's capex cycle",
-      "category": "Business & Finance",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/18/thumb/featurecrop/1200X628/1789728375-4617.png",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/amp/finance/personal-finance/india-s-next-100-lakh-cr-investment-boom-3-sectors-may-drive-capex-cycle-126092100487_1.html",
-      "publishedAt": "2026-09-21T08:27:14.000Z",
-      "fetchedAt": "2026-09-21T09:28:48.398Z",
-      "title_hi": "",
-      "summary_hi": "",
-      "category_hi": "बिज़नेस और फाइनेंस",
-      "category_hinglish": "Business aur Finance"
-    },
-    {
       "id": "6202c7509b0cc898",
       "title": "Born in Bihar, a master’s degree from IIT Kanpur, but with cricket still in his heart, Abhishek Anand has",
       "summary": "View this post on Instagram A post shared by Utsav Singh | Japan Wala Bihari (@japan_wala_bihari)",
@@ -101,6 +103,21 @@
       "title_hinglish": "bihara men janme abhisheka aananda ne aaeeaaeeti kanapura se mastara digri hasila ki, lekina unake dila men abhi bhi kriketa hai",
       "summary_hinglish": "isa posta ko instagrama para dekhen utsava sinha dvara sajha ki gaee eka posta | japana vala bihari (@japan_walla_bihari)",
       "category_hinglish": "Sports"
+    },
+    {
+      "id": "7b00abd39c438255",
+      "title": "India's next ₹100-lakh-cr investment boom? 3 sectors may drive capex cycle",
+      "summary": "AI infrastructure, the renewable energy transition, and defense indigenisation are three concurrent, manufacturing-intensive investment themes underpinning India's capex cycle",
+      "category": "Business & Finance",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/18/thumb/featurecrop/1200X628/1789728375-4617.png",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/amp/finance/personal-finance/india-s-next-100-lakh-cr-investment-boom-3-sectors-may-drive-capex-cycle-126092100487_1.html",
+      "publishedAt": "2026-09-21T08:27:14.000Z",
+      "fetchedAt": "2026-09-21T09:28:48.398Z",
+      "title_hi": "",
+      "summary_hi": "",
+      "category_hi": "बिज़नेस और फाइनेंस",
+      "category_hinglish": "Business aur Finance"
     },
     {
       "id": "5d49395a93903874",
@@ -137,23 +154,6 @@
       "category_hinglish": "Sports"
     },
     {
-      "id": "98902aee0c3c0669",
-      "title": "Microsoft launches India South Central cloud region in Hyderabad",
-      "summary": "Microsoft on Monday launched its India South Central cloud region in Hyderabad, adding a major new piece to India’s AI and cloud infrastructure. The move gives Microsoft four cloud regions in India including Pune, Chennai and Mumbai and strengthens its position as the country’s largest hyperscale cloud provider by footprint.",
-      "category": "Technology",
-      "image": "https://th-i.thgim.com/public/sci-tech/technology/9ezpne/article71490648.ece/alternates/LANDSCAPE_1200/20260921_101510.jpg",
-      "source": "The Hindu",
-      "sourceUrl": "https://www.thehindu.com/sci-tech/technology/microsoft-launches-india-south-central-cloud-region-in-hyderabad/article71490647.ece",
-      "publishedAt": "2026-09-21T08:04:11.000Z",
-      "fetchedAt": "2026-09-21T08:26:26.160Z",
-      "title_hi": "माइक्रोसॉफ्ट ने हैदराबाद में भारत दक्षिण मध्य क्लाउड क्षेत्र लॉन्च किया",
-      "summary_hi": "माइक्रोसॉफ्ट ने सोमवार को हैदराबाद में अपना भारत दक्षिण मध्य क्लाउड क्षेत्र लॉन्च किया, जिसमें भारत के एआई और क्लाउड इंफ्रास्ट्रक्चर में एक बड़ा नया हिस्सा जोड़ा गया। यह कदम माइक्रोसॉफ्ट को भारत में पुणे, चेन्नई और मुंबई सहित चार क्लाउड क्षेत्र देता है और पदचिह्न के हिसाब से देश के सबसे बड़े हाइपरस्केल क्लाउड प्रदाता के रूप में इसकी स्थिति को मजबूत करता है।",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "maikrosophta ne haidarabada men bharata dakshina madhya klauda kshetra loncha kiya",
-      "summary_hinglish": "maikrosophta ne somavara ko haidarabada men apana bharata dakshina madhya klauda kshetra loncha kiy, jisamen bharata ke eaaee aura klauda inphrastrakchara men eka badaा naya hissa jodaा gaya। yaha kadama maikrosophta ko bharata men pune, chennaee aura munbaee sahita chara klauda kshetra deta hai aura padachihna ke hisaba se desha ke sabase badaे haiparaskela klauda pradata ke rupa men isaki sthiti ko majabuta karata hai।",
-      "category_hinglish": "Technology"
-    },
-    {
       "id": "714d069a9c3515ab",
       "title": "Chess Olympiad Round 5: Praggnanandhaa outwits Dutch No. 1 Anish Giri for first win; Vaishali’s defeat ca",
       "summary": "When it was finally revealed that Rameshbabu Praggnanandhaa would play Board 1, meaning he would face the toughest oppositions — like his oppoennet in Anish Giri in India's match against the Netherlands on Sunday — at the 46th Chess Olympiad in Samarkand, Uzbekistan, many raised eyebrows at world champion Dommaraju…",
@@ -169,6 +169,23 @@
       "title_hinglish": "shataranja olanpiyada raunda 5: praganananda ne dacha nanbara 1 anisha giri ko harakara pahali jita hasila ki; vaishali ki hara kai",
       "summary_hinglish": "jaba antatah yaha pata chala ki rameshababu praganananda borda 1 khelenge, jisaka artha hai ki unhen sabase kathina virodhiyon ka samana karana padaेga - jaise ravivara ko nidaralainda ke khilapha bharata ke maicha men anisha giri ke rupa men unake pratidvandvi - samarakand, ujbekistana men 46ven shataranja olanpiyada men, kaee logon ne vishva chainpiyana dommaraju para bhaunhen chadhaा din...",
       "category_hinglish": "Sports"
+    },
+    {
+      "id": "98902aee0c3c0669",
+      "title": "Microsoft launches India South Central cloud region in Hyderabad",
+      "summary": "Microsoft on Monday launched its India South Central cloud region in Hyderabad, adding a major new piece to India’s AI and cloud infrastructure. The move gives Microsoft four cloud regions in India including Pune, Chennai and Mumbai and strengthens its position as the country’s largest hyperscale cloud provider by footprint.",
+      "category": "Technology",
+      "image": "https://th-i.thgim.com/public/sci-tech/technology/9ezpne/article71490648.ece/alternates/LANDSCAPE_1200/20260921_101510.jpg",
+      "source": "The Hindu",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/technology/microsoft-launches-india-south-central-cloud-region-in-hyderabad/article71490647.ece",
+      "publishedAt": "2026-09-21T08:04:11.000Z",
+      "fetchedAt": "2026-09-21T08:26:26.160Z",
+      "title_hi": "माइक्रोसॉफ्ट ने हैदराबाद में भारत दक्षिण मध्य क्लाउड क्षेत्र लॉन्च किया",
+      "summary_hi": "माइक्रोसॉफ्ट ने सोमवार को हैदराबाद में अपना भारत दक्षिण मध्य क्लाउड क्षेत्र लॉन्च किया, जिसमें भारत के एआई और क्लाउड इंफ्रास्ट्रक्चर में एक बड़ा नया हिस्सा जोड़ा गया। यह कदम माइक्रोसॉफ्ट को भारत में पुणे, चेन्नई और मुंबई सहित चार क्लाउड क्षेत्र देता है और पदचिह्न के हिसाब से देश के सबसे बड़े हाइपरस्केल क्लाउड प्रदाता के रूप में इसकी स्थिति को मजबूत करता है।",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "maikrosophta ne haidarabada men bharata dakshina madhya klauda kshetra loncha kiya",
+      "summary_hinglish": "maikrosophta ne somavara ko haidarabada men apana bharata dakshina madhya klauda kshetra loncha kiy, jisamen bharata ke eaaee aura klauda inphrastrakchara men eka badaा naya hissa jodaा gaya। yaha kadama maikrosophta ko bharata men pune, chennaee aura munbaee sahita chara klauda kshetra deta hai aura padachihna ke hisaba se desha ke sabase badaे haiparaskela klauda pradata ke rupa men isaki sthiti ko majabuta karata hai।",
+      "category_hinglish": "Technology"
     },
     {
       "id": "b83145d8d7826ba3",
@@ -188,23 +205,6 @@
       "category_hinglish": "Business aur Finance"
     },
     {
-      "id": "9ab23b45a9fbc5a1",
-      "title": "Asian Games Gold Clash: India’s Trio Bring Strong Records",
-      "summary": "Asian Games 2026: A look at the knockout records of Smriti Mandhana, Shafali Verma and Harmanpreet Kaur ahead of the gold-medal clash.",
-      "category": "Sports",
-      "image": "https://images.newsarenaindia.com/chatgpt-image-sep-21-2026-01_25_57-pm200kbjpeg_1789977451469.jpeg",
-      "source": "News Arena India",
-      "sourceUrl": "https://newsarenaindia.com/sports/knockout-records-in-focus-as-india-chase-asian-games-gold/85070",
-      "publishedAt": "2026-09-21T08:00:45.000Z",
-      "fetchedAt": "2026-09-21T08:03:43.573Z",
-      "title_hi": "एशियन गेम्स गोल्ड क्लैश: भारत की तिकड़ी ने बनाए मजबूत रिकॉर्ड",
-      "summary_hi": "एशियाई खेल 2026: स्वर्ण पदक मुकाबले से पहले स्मृति मंधाना, शैफाली वर्मा और हरमनप्रीत कौर के नॉकआउट रिकॉर्ड पर एक नजर।",
-      "category_hi": "खेल",
-      "title_hinglish": "eshiyana gemsa golda klaish: bharata ki tikadaी ne banae majabuta rikorda",
-      "summary_hinglish": "eshiyaee khela 2026: svarna padaka mukabale se pahale smriti mandhan, shaiphali varma aura haramanaprita kaura ke nokaaauta rikorda para eka najara।",
-      "category_hinglish": "Sports"
-    },
-    {
       "id": "7a5f20ee3c6e5fbc",
       "title": "Watch! Bhojpuri actress Kajal Raghwani mobbed, car attacked by crowd in Bihar - Mid-Day",
       "summary": "Bhojpuri actress Kajal Raghwani was recently mobbed, and her car was attacked while visiting Bihar Sharif for an event. She later assured fans she is safe",
@@ -220,6 +220,23 @@
       "category_hinglish": "Entertainment",
       "title_hinglish": "ghadaी! bihara men bhida ne bhojapuri abhinetri kajala raghavani ki kara para hamala kiya - mida-de",
       "summary_hinglish": "bhojapuri abhinetri kajala raghavani ko hala hi men eka karyakrama ke lie biharasharipha jate samaya bhida ne ghera liya aura unaki kara para hamala kiya gaya। bada men unhonne prashansakon ko aashvasana diya ki vaha surakshita hain"
+    },
+    {
+      "id": "9ab23b45a9fbc5a1",
+      "title": "Asian Games Gold Clash: India’s Trio Bring Strong Records",
+      "summary": "Asian Games 2026: A look at the knockout records of Smriti Mandhana, Shafali Verma and Harmanpreet Kaur ahead of the gold-medal clash.",
+      "category": "Sports",
+      "image": "https://images.newsarenaindia.com/chatgpt-image-sep-21-2026-01_25_57-pm200kbjpeg_1789977451469.jpeg",
+      "source": "News Arena India",
+      "sourceUrl": "https://newsarenaindia.com/sports/knockout-records-in-focus-as-india-chase-asian-games-gold/85070",
+      "publishedAt": "2026-09-21T08:00:45.000Z",
+      "fetchedAt": "2026-09-21T08:03:43.573Z",
+      "title_hi": "एशियन गेम्स गोल्ड क्लैश: भारत की तिकड़ी ने बनाए मजबूत रिकॉर्ड",
+      "summary_hi": "एशियाई खेल 2026: स्वर्ण पदक मुकाबले से पहले स्मृति मंधाना, शैफाली वर्मा और हरमनप्रीत कौर के नॉकआउट रिकॉर्ड पर एक नजर।",
+      "category_hi": "खेल",
+      "title_hinglish": "eshiyana gemsa golda klaish: bharata ki tikadaी ne banae majabuta rikorda",
+      "summary_hinglish": "eshiyaee khela 2026: svarna padaka mukabale se pahale smriti mandhan, shaiphali varma aura haramanaprita kaura ke nokaaauta rikorda para eka najara।",
+      "category_hinglish": "Sports"
     },
     {
       "id": "132c97aeb475e396",
@@ -239,21 +256,6 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "3353c4783bc6cd3f",
-      "title": "Oscars 2027: Nagaland's Angh gives India a second contender alongside Gondhal",
-      "summary": "Nagaland’s Angh joins Gondhal in reshaped race for Best International Feature",
-      "category": "Entertainment",
-      "image": "https://media.assettype.com/gulfnews%2F2026-09-21%2Fhptc2ww3%2Fangh.avif?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "source": "Gulf News",
-      "sourceUrl": "https://gulfnews.com/amp/story/entertainment%2Foscars-2027-nagalands-angh-gives-india-a-second-contender-alongside-gondhal-1.500682124",
-      "publishedAt": "2026-09-21T07:56:54.000Z",
-      "fetchedAt": "2026-09-21T09:42:44.627Z",
-      "title_hi": "",
-      "summary_hi": "",
-      "category_hi": "मनोरंजन",
-      "category_hinglish": "Entertainment"
-    },
-    {
       "id": "b0a7445d8fa7d0e5",
       "title": "Bihar forms SIT to probe vehicle insurance fraud, tightens challan norms",
       "summary": "The Bihar Police have taken a series of measures to curb insurance fraud and improve traffic enforcement, including the formation of a Special Investigation Team (SIT) under the Crime Investigation Department (CID) to probe suspected ‘vehicle implant’ scams, stricter norms for issuing traffic challans and a directive to release accident-hit…",
@@ -269,6 +271,23 @@
       "title_hinglish": "bihar ne vahan bim dhokhadhadी ki janch ke lie esaaiti gathit ki, chalan manadand sakht kie",
       "category_hinglish": "Crime aur Breaking News",
       "summary_hinglish": "bihara pulisa ne bima dhokhadhadaी ko rokane aura yatayata pravartana men sudhara ke lie kaee kadama uthae hain, jisamen sandigdha 'vahana pratyaropana' ghotalon ki jancha ke lie aparadha jancha vibhaga (siaaeedi) ke tahata eka vishesha jancha dala (esaaaeeti) ka gathan, yatayata chalana jari karane ke lie sakhta manadanda aura durghatana-prabhavita logon ko riha karane ka nirdesha shamila hai..."
+    },
+    {
+      "id": "3353c4783bc6cd3f",
+      "title": "Oscars 2027: Nagaland's Angh gives India a second contender alongside Gondhal",
+      "summary": "Nagaland’s Angh joins Gondhal in reshaped race for Best International Feature",
+      "category": "Entertainment",
+      "image": "https://media.assettype.com/gulfnews%2F2026-09-21%2Fhptc2ww3%2Fangh.avif?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "Gulf News",
+      "sourceUrl": "https://gulfnews.com/amp/story/entertainment%2Foscars-2027-nagalands-angh-gives-india-a-second-contender-alongside-gondhal-1.500682124",
+      "publishedAt": "2026-09-21T07:56:54.000Z",
+      "fetchedAt": "2026-09-21T09:42:44.627Z",
+      "title_hi": "ऑस्कर 2027: नागालैंड के अंग ने भारत को गोंधल के साथ दूसरा दावेदार दिया",
+      "summary_hi": "सर्वश्रेष्ठ अंतर्राष्ट्रीय फीचर की दौड़ में नागालैंड का अंग गोंधल के साथ शामिल हुआ",
+      "category_hi": "मनोरंजन",
+      "category_hinglish": "Entertainment",
+      "title_hinglish": "ऑskara 2027: nagalainda ke anga ne bharata ko gondhala ke satha dusara davedara diya",
+      "summary_hinglish": "sarvashreshtha antarrashtriya phichara ki dauda men nagalainda ka anga gondhala ke satha shamila huaa"
     },
     {
       "id": "f9531dba42f97b49",
@@ -305,23 +324,6 @@
       "category_hinglish": "National aur Trending News"
     },
     {
-      "id": "6d052ea9b6c190c3",
-      "title": "Asian Games: India women rout Indonesia in hockey, men's Kabaddi team beat Japan",
-      "summary": "India's women's hockey team thrashed Indonesia 17-1 and the men's kabaddi side beat Japan 49-24 at the Asian Games. The results extended a dominant start to India's medal push and kept both title ambitions firmly on track.",
-      "category": "Sports",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/india-womens-hockey-team-211343287-16x9_0.png?VersionId=JTve6LVBHnt7rHgUCm5RcIEfP.p8xBiz",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/sports/asian-games/story/asian-games-hockey-india-beat-indonesia-kabaddi-japan-2999353-2026-09-21",
-      "publishedAt": "2026-09-21T07:27:21.000Z",
-      "fetchedAt": "2026-09-21T07:35:39.987Z",
-      "title_hi": "एशियाई खेल: हॉकी में भारत की महिलाओं ने इंडोनेशिया को हराया, पुरुष कबड्डी टीम ने जापान को हराया",
-      "summary_hi": "एशियाई खेलों में भारत की महिला हॉकी टीम ने इंडोनेशिया को 17-1 से हराया और पुरुष कबड्डी टीम ने जापान को 49-24 से हराया। परिणामों ने भारत की पदक की प्रबल शुरुआत की और दोनों खिताब की महत्वाकांक्षाओं को मजबूती से ट्रैक पर रखा।",
-      "category_hi": "खेल",
-      "title_hinglish": "eshiyaee khel: hoki men bharata ki mahilaon ne indoneshiya ko haray, purusha kabaddi tima ne japana ko haraya",
-      "summary_hinglish": "eshiyaee khelon men bharata ki mahila hoki tima ne indoneshiya ko 17-1 se haraya aura purusha kabaddi tima ne japana ko 49-24 se haraya। parinamon ne bharata ki padaka ki prabala shuruaata ki aura donon khitaba ki mahatvakankshaon ko majabuti se traika para rakha।",
-      "category_hinglish": "Sports"
-    },
-    {
       "id": "a4bcee89cdfc8490",
       "title": "Kangana Ranaut HITS BACK at people trolling Maithili Thakur for arriving in Rolls-Royce at Lalbaugcha Raj",
       "summary": "Kangana Ranaut has come out in support of young singing talent and Bihar MLA Maithili Thakur, who was trolled for visiting Mumbai's Lalbaugcha Raja pandal in a luxury Rolls-Royce Cullinan. Kangana asked why critics feel hurt whenever politicians try to make their own lives better.",
@@ -337,6 +339,23 @@
       "title_hinglish": "kangan ranaut ne lalabagach raj men rols-rॉyas men pahunchane ke lie maithili thakur ko trol karane vale logon par palatavar kiy",
       "category_hinglish": "Entertainment",
       "summary_hinglish": "kangana ranauta yuva gayana pratibha aura bihara vidhayaka maithili thakura ke samarthana men samane aaee hain, jinhen lakjari rolsa-royasa kalinana men munbaee ke lalabagacha raja pandala men jane ke lie trola kiya gaya tha। kangana ne puchha ki jaba bhi rajaneta apane jivana ko behatara banane ki koshisha karate hain to aalochakon ko dukha kyon hota hai।"
+    },
+    {
+      "id": "6d052ea9b6c190c3",
+      "title": "Asian Games: India women rout Indonesia in hockey, men's Kabaddi team beat Japan",
+      "summary": "India's women's hockey team thrashed Indonesia 17-1 and the men's kabaddi side beat Japan 49-24 at the Asian Games. The results extended a dominant start to India's medal push and kept both title ambitions firmly on track.",
+      "category": "Sports",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/india-womens-hockey-team-211343287-16x9_0.png?VersionId=JTve6LVBHnt7rHgUCm5RcIEfP.p8xBiz",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/sports/asian-games/story/asian-games-hockey-india-beat-indonesia-kabaddi-japan-2999353-2026-09-21",
+      "publishedAt": "2026-09-21T07:27:21.000Z",
+      "fetchedAt": "2026-09-21T07:35:39.987Z",
+      "title_hi": "एशियाई खेल: हॉकी में भारत की महिलाओं ने इंडोनेशिया को हराया, पुरुष कबड्डी टीम ने जापान को हराया",
+      "summary_hi": "एशियाई खेलों में भारत की महिला हॉकी टीम ने इंडोनेशिया को 17-1 से हराया और पुरुष कबड्डी टीम ने जापान को 49-24 से हराया। परिणामों ने भारत की पदक की प्रबल शुरुआत की और दोनों खिताब की महत्वाकांक्षाओं को मजबूती से ट्रैक पर रखा।",
+      "category_hi": "खेल",
+      "title_hinglish": "eshiyaee khel: hoki men bharata ki mahilaon ne indoneshiya ko haray, purusha kabaddi tima ne japana ko haraya",
+      "summary_hinglish": "eshiyaee khelon men bharata ki mahila hoki tima ne indoneshiya ko 17-1 se haraya aura purusha kabaddi tima ne japana ko 49-24 se haraya। parinamon ne bharata ki padaka ki prabala shuruaata ki aura donon khitaba ki mahatvakankshaon ko majabuti se traika para rakha।",
+      "category_hinglish": "Sports"
     },
     {
       "id": "ebfa6392846964b7",
@@ -356,6 +375,23 @@
       "category_hinglish": "Technology"
     },
     {
+      "id": "f9be4fc84aef9acd",
+      "title": "Bihar govt's coffers empty, yet crores spent on PM Modi's birthday celebrations: Tejashwi Yadav",
+      "summary": "Tejashwi Yadav alleges state coffers are empty while crores are spent on Prime Minister Narendra Modi birthday celebrations, demanding immediate financial assistance for affected families.",
+      "category": "Politics & Government",
+      "image": "https://media.assettype.com/deccanherald%2F2026-09-20%2Feda931qt%2Fcollage-2026-09-20T161733.484.jpg?rect=0%2C0%2C1280%2C672&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
+      "source": "Deccan Herald",
+      "sourceUrl": "https://www.deccanherald.com/india/bihar/bihar-govts-coffers-empty-yet-crores-spent-on-pm-modis-birthday-celebrations-tejashwi-yadav-4152835",
+      "publishedAt": "2026-09-20T10:50:15.000Z",
+      "fetchedAt": "2026-09-20T11:26:08.570Z",
+      "title_hi": "बिहार सरकार का खजाना खाली, फिर भी पीएम मोदी के जन्मदिन समारोह पर करोड़ों खर्च: तेजस्वी यादव",
+      "summary_hi": "तेजस्वी यादव ने आरोप लगाया कि राज्य का खजाना खाली है जबकि प्रधानमंत्री नरेंद्र मोदी के जन्मदिन समारोह पर करोड़ों खर्च किए जा रहे हैं, उन्होंने प्रभावित परिवारों के लिए तत्काल वित्तीय सहायता की मांग की।",
+      "category_hi": "राजनीति और सरकार",
+      "title_hinglish": "bihar sarakar k khajan khali, phir bhi piem modi ke janmadin samaroh par karodोn kharch: tejasvi yadav",
+      "category_hinglish": "Politics aur Government",
+      "summary_hinglish": "tejasvi yadava ne aaropa lagaya ki rajya ka khajana khali hai jabaki pradhanamantri narendra modi ke janmadina samaroha para karodaोn kharcha kie ja rahe hain, unhonne prabhavita parivaron ke lie tatkala vittiya sahayata ki manga ki।"
+    },
+    {
       "id": "94eb67fa70cd6928",
       "title": "Starbucks plans up global tech centre in Chennai, 800 jobs expected",
       "summary": "Starbucks plans to set up a global capability centre in Chennai, a government source said. The move underscores Chennai's growing pull for global firms building higher-value tech and support operations.",
@@ -373,21 +409,36 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "f9be4fc84aef9acd",
-      "title": "Bihar govt's coffers empty, yet crores spent on PM Modi's birthday celebrations: Tejashwi Yadav",
-      "summary": "Tejashwi Yadav alleges state coffers are empty while crores are spent on Prime Minister Narendra Modi birthday celebrations, demanding immediate financial assistance for affected families.",
-      "category": "Politics & Government",
-      "image": "https://media.assettype.com/deccanherald%2F2026-09-20%2Feda931qt%2Fcollage-2026-09-20T161733.484.jpg?rect=0%2C0%2C1280%2C672&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
-      "source": "Deccan Herald",
-      "sourceUrl": "https://www.deccanherald.com/india/bihar/bihar-govts-coffers-empty-yet-crores-spent-on-pm-modis-birthday-celebrations-tejashwi-yadav-4152835",
-      "publishedAt": "2026-09-20T10:50:15.000Z",
-      "fetchedAt": "2026-09-20T11:26:08.570Z",
-      "title_hi": "बिहार सरकार का खजाना खाली, फिर भी पीएम मोदी के जन्मदिन समारोह पर करोड़ों खर्च: तेजस्वी यादव",
-      "summary_hi": "तेजस्वी यादव ने आरोप लगाया कि राज्य का खजाना खाली है जबकि प्रधानमंत्री नरेंद्र मोदी के जन्मदिन समारोह पर करोड़ों खर्च किए जा रहे हैं, उन्होंने प्रभावित परिवारों के लिए तत्काल वित्तीय सहायता की मांग की।",
-      "category_hi": "राजनीति और सरकार",
-      "title_hinglish": "bihar sarakar k khajan khali, phir bhi piem modi ke janmadin samaroh par karodोn kharch: tejasvi yadav",
-      "category_hinglish": "Politics aur Government",
-      "summary_hinglish": "tejasvi yadava ne aaropa lagaya ki rajya ka khajana khali hai jabaki pradhanamantri narendra modi ke janmadina samaroha para karodaोn kharcha kie ja rahe hain, unhonne prabhavita parivaron ke lie tatkala vittiya sahayata ki manga ki।"
+      "id": "b67fbc9d1db257a0",
+      "title": "AI adoption in India’s financial services set to leap from 26% to 65% within a year",
+      "summary": "Adoption of artificial intelligence across India’s financial services industry is expected to rise from 26% to 65% within 12 months, according to a new report from KPMG in India and Mastercard.",
+      "category": "Technology",
+      "image": "https://www.consultancy.in/illustrations/news/spotlight/2026-09-18-121833805-AI_adoption_in_India_s_financial_services_set_to_leap_from_26__to_65__within_a_year.jpg?webp",
+      "source": "Consultancy.in",
+      "sourceUrl": "https://www.consultancy.in/news/4600/ai-adoption-in-indias-financial-services-set-to-leap-from-26-to-65-within-a-year",
+      "publishedAt": "2026-09-21T07:07:30.000Z",
+      "fetchedAt": "2026-09-21T09:55:20.321Z",
+      "title_hi": "",
+      "summary_hi": "",
+      "category_hi": "टेक्नोलॉजी",
+      "category_hinglish": "Technology"
+    },
+    {
+      "id": "d340ef50077a9df3",
+      "title": "Bhojpuri actress Kajal Raghwani is safe after fans CHASE her car, BREAK WINDOWS at Bihar Sharif showroom",
+      "summary": "The Times of India brings the Latest & Top Breaking News on Politics and Current Affairs in India & around the World, Cricket, Sports, Business, Bollywood News and Entertainment, Science, Technology, Health & Fitness news & opinions from leading columnists.",
+      "category": "Entertainment",
+      "image": "https://static.toiimg.com/thumb/msid-134366552,width-1280,height-720,imgsize-512586,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/bhojpuri/movies/news/bhojpuri-actress-kajal-raghwani-is-safe-after-fans-chase-her-car-break-windows-at-bihar-sharif-showroom-launch/amp_articleshow/134366365.cms",
+      "publishedAt": "2026-09-20T10:14:00.000Z",
+      "fetchedAt": "2026-09-21T06:16:00.819Z",
+      "title_hi": "बिहारशरीफ शोरूम में प्रशंसकों द्वारा उनकी कार का पीछा करने, खिड़कियां तोड़ने के बाद भोजपुरी अभिनेत्री काजल राघवानी सुरक्षित हैं",
+      "summary_hi": "टाइम्स ऑफ इंडिया भारत और दुनिया भर में राजनीति और समसामयिक मामलों, क्रिकेट, खेल, व्यापार, बॉलीवुड समाचार और मनोरंजन, विज्ञान, प्रौद्योगिकी, स्वास्थ्य और फिटनेस समाचार और प्रमुख स्तंभकारों की राय पर नवीनतम और शीर्ष ब्रेकिंग समाचार लाता है।",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "biharasharipha shoruma men prashansakon dvara unaki kara ka pichha karane, khidakiyan todane ke bada bhojapuri abhinetri kajala raghavani surakshita hain",
+      "summary_hinglish": "taimsa ऑpha indiya bharata aura duniya bhara men rajaniti aura samasamayika mamalon, kriket, khel, vyapar, bolivuda samachara aura manoranjan, vijnyan, praudyogiki, svasthya aura phitanesa samachara aura pramukha stanbhakaron ki raya para navinatama aura shirsha brekinga samachara lata hai।",
+      "category_hinglish": "Entertainment"
     },
     {
       "id": "b40a2d8f98e52cc5",
@@ -424,23 +475,6 @@
       "summary_hinglish": "stapha raitaraaraba phainensa dvar: misra ke sanchara aura suchana praudyogiki mantri raphata hindi aura misra men bharata ke rajaduta suresha ke. reddi ne kritrima buddhimatta (eaaee), saibara suraksh, dijitala kaushal, navachara aura udyamita men dvipakshiya sahayoga badhaाne para bhi charcha ki..."
     },
     {
-      "id": "d340ef50077a9df3",
-      "title": "Bhojpuri actress Kajal Raghwani is safe after fans CHASE her car, BREAK WINDOWS at Bihar Sharif showroom",
-      "summary": "The Times of India brings the Latest & Top Breaking News on Politics and Current Affairs in India & around the World, Cricket, Sports, Business, Bollywood News and Entertainment, Science, Technology, Health & Fitness news & opinions from leading columnists.",
-      "category": "Entertainment",
-      "image": "https://static.toiimg.com/thumb/msid-134366552,width-1280,height-720,imgsize-512586,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/bhojpuri/movies/news/bhojpuri-actress-kajal-raghwani-is-safe-after-fans-chase-her-car-break-windows-at-bihar-sharif-showroom-launch/amp_articleshow/134366365.cms",
-      "publishedAt": "2026-09-20T10:14:00.000Z",
-      "fetchedAt": "2026-09-21T06:16:00.819Z",
-      "title_hi": "बिहारशरीफ शोरूम में प्रशंसकों द्वारा उनकी कार का पीछा करने, खिड़कियां तोड़ने के बाद भोजपुरी अभिनेत्री काजल राघवानी सुरक्षित हैं",
-      "summary_hi": "टाइम्स ऑफ इंडिया भारत और दुनिया भर में राजनीति और समसामयिक मामलों, क्रिकेट, खेल, व्यापार, बॉलीवुड समाचार और मनोरंजन, विज्ञान, प्रौद्योगिकी, स्वास्थ्य और फिटनेस समाचार और प्रमुख स्तंभकारों की राय पर नवीनतम और शीर्ष ब्रेकिंग समाचार लाता है।",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "biharasharipha shoruma men prashansakon dvara unaki kara ka pichha karane, khidakiyan todane ke bada bhojapuri abhinetri kajala raghavani surakshita hain",
-      "summary_hinglish": "taimsa ऑpha indiya bharata aura duniya bhara men rajaniti aura samasamayika mamalon, kriket, khel, vyapar, bolivuda samachara aura manoranjan, vijnyan, praudyogiki, svasthya aura phitanesa samachara aura pramukha stanbhakaron ki raya para navinatama aura shirsha brekinga samachara lata hai।",
-      "category_hinglish": "Entertainment"
-    },
-    {
       "id": "32535c840e3c8062",
       "title": "Enduring 'Stoneman' mystery: 13 skulls crushed in the dead of night",
       "summary": "Long before true-crime documentaries turned unsolved murders into national conversations, a series of killings on the streets of Mumbai and Kolkata created one of country's enduring crime mysteries.",
@@ -456,6 +490,23 @@
       "title_hinglish": "sthayi 'stonamaina' rahasy: rata ke andhere men kuchala di gaeen 13 khopadaिyan",
       "summary_hinglish": "sachche-aparadha vrittachitron dvara anasulajhi hatyaon ko rashtriya batachita men badalane se bahuta pahale, munbaee aura kolakata ki sadakon para hatyaon ki eka shrrinkhala ne desha ke sthayi aparadha rahasyon men se eka ka nirmana kiya।",
       "category_hinglish": "Crime aur Breaking News"
+    },
+    {
+      "id": "5ff70aaff1a0df75",
+      "title": "From Digital Governance To AI Leadership Uttar Pradesh’s Next Growth Chapter",
+      "summary": "Uttar Pradesh is strengthening its journey towards becoming a leading digital and technology hub through progressive policies, robust infrastructure, and a strong focus on innovation, investment, and digital governance. Shri Alok Kumar, Principal Secretary, Department of IT & Electronics, Government of Uttar Pradesh, shares his insights on the State's technology…",
+      "category": "Technology",
+      "image": "https://egov.eletsonline.com/wp-content/uploads/2026/09/Shri-Alok-Kumar.jpg",
+      "source": "Elets eGov",
+      "sourceUrl": "https://egov.eletsonline.com/2026/09/from-digital-governance-to-ai-leadership-uttar-pradeshs-next-growth-chapter/",
+      "publishedAt": "2026-09-20T10:05:57.000Z",
+      "fetchedAt": "2026-09-21T09:55:32.514Z",
+      "title_hi": "डिजिटल गवर्नेंस से एआई नेतृत्व तक उत्तर प्रदेश का अगला विकास अध्याय",
+      "summary_hi": "उत्तर प्रदेश प्रगतिशील नीतियों, मजबूत बुनियादी ढांचे और नवाचार, निवेश और डिजिटल शासन पर मजबूत फोकस के माध्यम से एक अग्रणी डिजिटल और प्रौद्योगिकी केंद्र बनने की दिशा में अपनी यात्रा को मजबूत कर रहा है। उत्तर प्रदेश सरकार के आईटी और इलेक्ट्रॉनिक्स विभाग के प्रमुख सचिव श्री आलोक कुमार ने राज्य की प्रौद्योगिकी पर अपनी अंतर्दृष्टि साझा की...",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "dijitala gavarnensa se eaaee netritva taka uttara pradesha ka agala vikasa adhyaya",
+      "summary_hinglish": "uttara pradesha pragatishila nitiyon, majabuta buniyadi dhanche aura navachar, nivesha aura dijitala shasana para majabuta phokasa ke madhyama se eka agrani dijitala aura praudyogiki kendra banane ki disha men apani yatra ko majabuta kara raha hai। uttara pradesha sarakara ke aaeeti aura ilektroniksa vibhaga ke pramukha sachiva shri aaloka kumara ne rajya ki praudyogiki para apani antardrishti sajha ki...",
+      "category_hinglish": "Technology"
     },
     {
       "id": "d2387bf6d51c952e",
@@ -594,23 +645,6 @@
       "summary_hinglish": "janaretiva eaaee ke upayoga ne nyuja ruma men eka naya rupa le liya hai, jo aparadha manoranjana men dikhaee de raha hai। hama isake prabhav, haniyon aura yaha pata lagate hain ki yaha adhiniyama eka aama pratha kyon nahin banani chahie।"
     },
     {
-      "id": "df4ee11c80718c75",
-      "title": "Prashant Kishor's JSP announces 5 candidates for Bihar Legislative Council polls | India News",
-      "summary": "Elections are to be held for a total of eight constituencies -- four graduates' and teachers' seats each -- terms of which expire in November. | India News",
-      "category": "Politics & Government",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/20/1600x900/logo/ANI-20260817010-0_1789888983916_Wnjr_1789888994868_1BmE_71c08991-5f2a-46a2-82be-9b91283a90bb_N2z0.jpg",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/india-news/prashant-kishors-jsp-announces-5-candidates-for-bihar-legislative-council-poll-101789888783357.html",
-      "publishedAt": "2026-09-20T07:23:57.000Z",
-      "fetchedAt": "2026-09-20T19:08:25.327Z",
-      "title_hi": "प्रशांत किशोर की जेएसपी ने बिहार विधान परिषद चुनाव के लिए 5 उम्मीदवारों की घोषणा की | भारत समाचार",
-      "summary_hi": "कुल आठ निर्वाचन क्षेत्रों के लिए चुनाव होने हैं - चार स्नातक और शिक्षक सीटें - जिनकी शर्तें नवंबर में समाप्त हो रही हैं। | भारत समाचार",
-      "category_hi": "राजनीति और सरकार",
-      "category_hinglish": "Politics aur Government",
-      "title_hinglish": "prashanta kishora ki jeesapi ne bihara vidhana parishada chunava ke lie 5 ummidavaron ki ghoshana ki | bharata samachara",
-      "summary_hinglish": "kula aatha nirvachana kshetron ke lie chunava hone hain - chara snataka aura shikshaka siten - jinaki sharten navanbara men samapta ho rahi hain। | bharata samachara"
-    },
-    {
       "id": "735f066b0635e412",
       "title": "Asian Games 2026, Aichi-Nagoya, India’s Campaign, Medal Tally",
       "summary": "Asian Games 2026 are being held in Aichi-Nagoya, Japan, from 19 September to 4 October, featuring 43 sports and 469 medal events, with India fielding 503 athletes.",
@@ -626,6 +660,23 @@
       "title_hinglish": "eshiyaee khela 2026, aaichi-nagoy, bharata ka abhiyan, padaka talika",
       "summary_hinglish": "eshiyaee khela 2026 japana ke aaichi-nagoya men 19 sitanbara se 4 aktubara taka aayojita kie ja rahe hain, jisamen 43 khela aura 469 padaka spardhaen hongi, jisamen bharata 503 ethaliton ko maidana men utarega।",
       "category_hinglish": "Sports"
+    },
+    {
+      "id": "df4ee11c80718c75",
+      "title": "Prashant Kishor's JSP announces 5 candidates for Bihar Legislative Council polls | India News",
+      "summary": "Elections are to be held for a total of eight constituencies -- four graduates' and teachers' seats each -- terms of which expire in November. | India News",
+      "category": "Politics & Government",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/20/1600x900/logo/ANI-20260817010-0_1789888983916_Wnjr_1789888994868_1BmE_71c08991-5f2a-46a2-82be-9b91283a90bb_N2z0.jpg",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/prashant-kishors-jsp-announces-5-candidates-for-bihar-legislative-council-poll-101789888783357.html",
+      "publishedAt": "2026-09-20T07:23:57.000Z",
+      "fetchedAt": "2026-09-20T19:08:25.327Z",
+      "title_hi": "प्रशांत किशोर की जेएसपी ने बिहार विधान परिषद चुनाव के लिए 5 उम्मीदवारों की घोषणा की | भारत समाचार",
+      "summary_hi": "कुल आठ निर्वाचन क्षेत्रों के लिए चुनाव होने हैं - चार स्नातक और शिक्षक सीटें - जिनकी शर्तें नवंबर में समाप्त हो रही हैं। | भारत समाचार",
+      "category_hi": "राजनीति और सरकार",
+      "category_hinglish": "Politics aur Government",
+      "title_hinglish": "prashanta kishora ki jeesapi ne bihara vidhana parishada chunava ke lie 5 ummidavaron ki ghoshana ki | bharata samachara",
+      "summary_hinglish": "kula aatha nirvachana kshetron ke lie chunava hone hain - chara snataka aura shikshaka siten - jinaki sharten navanbara men samapta ho rahi hain। | bharata samachara"
     },
     {
       "id": "3680e85c6caabee7",
