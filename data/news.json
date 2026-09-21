@@ -1,7 +1,24 @@
 {
-  "updatedAt": "2026-09-21T11:56:25.279Z",
-  "count": 47,
+  "updatedAt": "2026-09-21T12:16:00.028Z",
+  "count": 50,
   "articles": [
+    {
+      "id": "7921b24e7a4852c1",
+      "title": "School assembly news headlines today- September 22: Top national, sports and world news curated for you",
+      "summary": "Today’s school assembly news highlights top national, sports, and world events, covering important updates from politics, sports achievements, and global headlines for September 22.",
+      "category": "National & Trending News",
+      "image": "https://static-bestcolleges.tosshub.com/2026/News/SxVHrkIN87iGq4pqHvLrx3HXKaMF3xkfSLsRiGa7.png",
+      "source": "India Today",
+      "sourceUrl": "https://bestcolleges.indiatoday.in/latest-news/school-assembly-news-headlines-today-september-22-top-national-sports-and-world-news-curated-for-you-11662",
+      "publishedAt": "2026-09-21T11:54:08.000Z",
+      "fetchedAt": "2026-09-21T12:15:40.501Z",
+      "title_hi": "स्कूल असेंबली समाचार की सुर्खियाँ आज- 22 सितंबर: शीर्ष राष्ट्रीय, खेल और विश्व समाचार आपके लिए तैयार किए गए हैं",
+      "summary_hi": "आज की स्कूल असेंबली समाचार में शीर्ष राष्ट्रीय, खेल और विश्व घटनाओं पर प्रकाश डाला गया है, जिसमें 22 सितंबर के लिए राजनीति, खेल उपलब्धियों और वैश्विक सुर्खियों से महत्वपूर्ण अपडेट शामिल हैं।",
+      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
+      "title_hinglish": "skula asenbali samachara ki surkhiyan aaja- 22 sitanbar: shirsha rashtriy, khela aura vishva samachara aapake lie taiyara kie gae hain",
+      "summary_hinglish": "aaja ki skula asenbali samachara men shirsha rashtriy, khela aura vishva ghatanaon para prakasha dala gaya hai, jisamen 22 sitanbara ke lie rajaniti, khela upalabdhiyon aura vaishvika surkhiyon se mahatvapurna apadeta shamila hain।",
+      "category_hinglish": "National aur Trending News"
+    },
     {
       "id": "d7323349fddcd4b2",
       "title": "Asian Games 2026 Sports List, Disciplines and Medal Events",
@@ -20,21 +37,6 @@
       "category_hinglish": "Sports"
     },
     {
-      "id": "b005c3ad6365c9fa",
-      "title": "The CFO Code: Decoding How India’s Top CFOs Think, Build And Scale",
-      "summary": "Inc42, in collaboration with Avalara, is launching The CFO Code, a series exploring how India’s finance leaders are rebuilding financial functions for scale",
-      "category": "Business & Finance",
-      "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/CFO-Code-_-Launch-Article-social.jpg",
-      "source": "Inc42",
-      "sourceUrl": "https://inc42.com/features/the-cfo-code-decoding-how-indias-top-cfos-think-build-and-scale/",
-      "publishedAt": "2026-09-21T11:30:54.000Z",
-      "fetchedAt": "2026-09-21T11:56:01.501Z",
-      "title_hi": "",
-      "summary_hi": "",
-      "category_hi": "बिज़नेस और फाइनेंस",
-      "category_hinglish": "Business aur Finance"
-    },
-    {
       "id": "7afde13baf724224",
       "title": "Shop owner held for selling stolen phones in Bhojpur",
       "summary": "Police on Monday busted a racket involving the sale of stolen and looted phones and spare parts being operated under the guise of a phone shop at Darshan Chhapra under Udwantnagar police station area of Bhojpur district.",
@@ -49,6 +51,57 @@
       "category_hi": "अपराध और ब्रेकिंग न्यूज़",
       "title_hinglish": "bhojapura men chori ke phona bechane ke aaropa men dukana malika giraphtara",
       "summary_hinglish": "bhojapura jile ke udavantanagara thana kshetra ke darshana chhapara men eka phona dukana ki aada men sanchalita chori aura luta ke phona aura speyara partsa ki bikri karane vale eka giroha ka pulisa ne somavara ko bhandaphoda kiya।",
+      "category_hinglish": "Crime aur Breaking News"
+    },
+    {
+      "id": "90c3f4d58e1f0a49",
+      "title": "Quote of the day by Sundar Pichai: No technology has me dreaming bigger than AI",
+      "summary": "Google CEO Sundar Pichai said AI is giving him a reason to dream bigger about what technology can achieve. Speaking at the AI Impact Summit in New Delhi earlier this year, Sundar Pichai described AI as the biggest technology shift of his lifetime and said it could help countries solve…",
+      "category": "Technology",
+      "image": "https://static.toiimg.com/thumb/msid-134388631,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/quote-of-the-day-by-sundar-pichai-no-technology-has-me-dreaming-bigger-than-ai/articleshow/134388618.cms",
+      "publishedAt": "2026-09-21T11:37:00.000Z",
+      "fetchedAt": "2026-09-21T12:15:27.471Z",
+      "title_hi": "सुंदर पिचाई द्वारा आज का उद्धरण: कोई भी तकनीक मुझे एआई से बड़ा सपना देखने को नहीं देती",
+      "summary_hi": "गूगल के सीईओ सुंदर पिचाई ने कहा कि एआई उन्हें बड़े सपने देखने का कारण दे रहा है कि प्रौद्योगिकी क्या हासिल कर सकती है। इस साल की शुरुआत में नई दिल्ली में एआई इम्पैक्ट समिट में बोलते हुए, सुंदर पिचाई ने एआई को अपने जीवनकाल का सबसे बड़ा प्रौद्योगिकी बदलाव बताया और कहा कि यह देशों को समाधान निकालने में मदद कर सकता है...",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "sundara pichaee dvara aaja ka uddharan: koee bhi takanika mujhe eaaee se badaा sapana dekhane ko nahin deti",
+      "summary_hinglish": "gugala ke sieeo sundara pichaee ne kaha ki eaaee unhen badaे sapane dekhane ka karana de raha hai ki praudyogiki kya hasila kara sakati hai। isa sala ki shuruaata men naee dilli men eaaee impaikta samita men bolate hue, sundara pichaee ne eaaee ko apane jivanakala ka sabase badaा praudyogiki badalava bataya aura kaha ki yaha deshon ko samadhana nikalane men madada kara sakata hai...",
+      "category_hinglish": "Technology"
+    },
+    {
+      "id": "b005c3ad6365c9fa",
+      "title": "The CFO Code: Decoding How India’s Top CFOs Think, Build And Scale",
+      "summary": "Inc42, in collaboration with Avalara, is launching The CFO Code, a series exploring how India’s finance leaders are rebuilding financial functions for scale",
+      "category": "Business & Finance",
+      "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/CFO-Code-_-Launch-Article-social.jpg",
+      "source": "Inc42",
+      "sourceUrl": "https://inc42.com/features/the-cfo-code-decoding-how-indias-top-cfos-think-build-and-scale/",
+      "publishedAt": "2026-09-21T11:30:54.000Z",
+      "fetchedAt": "2026-09-21T11:56:01.501Z",
+      "title_hi": "सीएफओ कोड: भारत के शीर्ष सीएफओ कैसे सोचते हैं, निर्माण करते हैं और कैसे बढ़ते हैं, इसका डिकोडिंग",
+      "summary_hi": "Inc42, अवलारा के सहयोग से, द सीएफओ कोड लॉन्च कर रहा है, जो एक श्रृंखला है जो यह खोजती है कि कैसे भारत के वित्त नेता पैमाने के लिए वित्तीय कार्यों का पुनर्निर्माण कर रहे हैं",
+      "category_hi": "बिज़नेस और फाइनेंस",
+      "category_hinglish": "Business aur Finance",
+      "title_hinglish": "siephao kod: bharata ke shirsha siephao kaise sochate hain, nirmana karate hain aura kaise badhate hain, isaka dikodinga",
+      "summary_hinglish": "Inc42, avalara ke sahayoga se, da siephao koda loncha kara raha hai, jo eka shrrinkhala hai jo yaha khojati hai ki kaise bharata ke vitta neta paimane ke lie vittiya karyon ka punarnirmana kara rahe hain"
+    },
+    {
+      "id": "1a3dda985cbe725f",
+      "title": "Slain TSPC chief Brajesh Ganjhu’s Family Questions Varanasi Encounter, Demands Probe",
+      "summary": "Family members of slain Tritiya Sammelan Prastuti Committee (TSPC) chief Brajesh Ganjhu alleged his death was a planned killing and sought an independent probe into the incident.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134388219,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/ranchi/slain-tspc-chief-brajesh-ganjhus-family-questions-varanasi-encounter-demands-probe/articleshow/134388223.cms",
+      "publishedAt": "2026-09-21T11:17:00.000Z",
+      "fetchedAt": "2026-09-21T12:15:45.118Z",
+      "title_hi": "मारे गए टीएसपीसी प्रमुख ब्रजेश गंझू के परिवार ने वाराणसी मुठभेड़ पर सवाल उठाए, जांच की मांग की",
+      "summary_hi": "मारे गए तृतीया सम्मेलन प्रस्तुति समिति (टीएसपीसी) के प्रमुख ब्रजेश गंझू के परिवार के सदस्यों ने आरोप लगाया कि उनकी मौत एक सुनियोजित हत्या थी और घटना की स्वतंत्र जांच की मांग की।",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "mare gae tiesapisi pramukha brajesha ganjhu ke parivara ne varanasi muthabheda para savala uthae, jancha ki manga ki",
+      "summary_hinglish": "mare gae tritiya sammelana prastuti samiti (tiesapisi) ke pramukha brajesha ganjhu ke parivara ke sadasyon ne aaropa lagaya ki unaki mauta eka suniyojita hatya thi aura ghatana ki svatantra jancha ki manga ki।",
       "category_hinglish": "Crime aur Breaking News"
     },
     {
@@ -86,21 +139,6 @@
       "category_hinglish": "Crime aur Breaking News"
     },
     {
-      "id": "c6e1280f0a8636db",
-      "title": "Bihar harassment horror: Police arrest three, launch manhunt for four others",
-      "summary": "On a viral video from Jamui showing a boy being assaulted and a girl being groped, SP Vishwajeet Dayal says, \"An FIR has been registered regarding the incident of molestation and indecent behavior by anti-social elements shown in the video, and a SIT has… pic.twitter.com/1JGCjWji5M",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134388108,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/bihar-harassment-horror-police-arrest-three-launch-manhunt-for-four-others/articleshow/134387784.cms",
-      "publishedAt": "2026-09-21T11:13:00.000Z",
-      "fetchedAt": "2026-09-21T11:44:23.773Z",
-      "title_hi": "",
-      "summary_hi": "",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "category_hinglish": "Crime aur Breaking News"
-    },
-    {
       "id": "8a9ae549b91a9314",
       "title": "5 Indian Tech Startups Building The Next Wave Of Technology",
       "summary": "India’s startup ecosystem is expanding beyond consumer apps, with five Indian tech startups building solutions in satellites, quantum security, AI, financial services and water management.",
@@ -116,6 +154,40 @@
       "title_hinglish": "5 bharatiya teka startaapa praudyogiki ki agali lahara ka nirmana kara rahe hain",
       "summary_hinglish": "bharata ka startaapa ikosistama upabhokta aipsa se aage badha raha hai, jisamen pancha bharatiya takaniki startaapa upagrah, kvantama suraksh, eaaee, vittiya sevaon aura jala prabandhana men samadhana taiyara kara rahe hain।",
       "category_hinglish": "Technology"
+    },
+    {
+      "id": "c6e1280f0a8636db",
+      "title": "Bihar harassment horror: Police arrest three, launch manhunt for four others",
+      "summary": "On a viral video from Jamui showing a boy being assaulted and a girl being groped, SP Vishwajeet Dayal says, \"An FIR has been registered regarding the incident of molestation and indecent behavior by anti-social elements shown in the video, and a SIT has… pic.twitter.com/1JGCjWji5M",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134388108,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/bihar-harassment-horror-police-arrest-three-launch-manhunt-for-four-others/articleshow/134387784.cms",
+      "publishedAt": "2026-09-21T11:13:00.000Z",
+      "fetchedAt": "2026-09-21T11:44:23.773Z",
+      "title_hi": "बिहार उत्पीड़न का आतंक: पुलिस ने तीन को गिरफ्तार किया, चार अन्य की तलाश जारी",
+      "summary_hi": "जमुई के एक वायरल वीडियो पर जिसमें एक लड़के के साथ मारपीट और एक लड़की के साथ छेड़छाड़ की गई है, एसपी विश्वजीत दयाल कहते हैं, \"वीडियो में दिखाए गए असामाजिक तत्वों द्वारा छेड़छाड़ और अभद्र व्यवहार की घटना के संबंध में एक प्राथमिकी दर्ज की गई है, और एक एसआईटी ने… pic.twitter.com/1JGCjWji5M",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "category_hinglish": "Crime aur Breaking News",
+      "title_hinglish": "bihara utpidana ka aatank: pulisa ne tina ko giraphtara kiy, chara anya ki talasha jari",
+      "summary_hinglish": "jamuee ke eka vayarala vidiyo para jisamen eka ladake ke satha marapita aura eka ladaki ke satha chhedachhada ki gaee hai, esapi vishvajita dayala kahate hain, \"vidiyo men dikhae gae asamajika tatvon dvara chhedachhada aura abhadra vyavahara ki ghatana ke sanbandha men eka prathamiki darja ki gaee hai, aura eka esaaaeeti ne… pic.twitter.com/1JGCjWji5M"
+    },
+    {
+      "id": "070aa1edc2765792",
+      "title": "The Scandal star Son Ye-jin wants to visit India for Ayurvedic massage: ‘Very therapeutic and healing for the soul’ - Mid-Day",
+      "summary": "Son Ye-jin expressed her desire to visit India for an Ayurvedic oil massage while promoting The Scandal. Ji Chang-wook also shared his wish to meet Indian fans",
+      "category": "Entertainment",
+      "image": "https://images.mid-day.com/images/images/2026/sep/sonyejin-1789988030439_d.png",
+      "source": "Mid-Day",
+      "sourceUrl": "https://www.mid-day.com/amp/entertainment/korean-entertainment/article/the-scandal-fame-son-ye-jin-expresses-desire-to-visit-india-for-ayurveda-23651117",
+      "publishedAt": "2026-09-21T10:57:00.000Z",
+      "fetchedAt": "2026-09-21T12:15:23.473Z",
+      "title_hi": "स्कैंडल स्टार सन ये-जिन आयुर्वेदिक मालिश के लिए भारत आना चाहता है: 'आत्मा के लिए बहुत चिकित्सीय और उपचारकारी' - मिड-डे",
+      "summary_hi": "द स्कैंडल के प्रचार के दौरान सोन ये-जिन ने आयुर्वेदिक तेल मालिश के लिए भारत आने की इच्छा व्यक्त की। जी चांग-वूक ने भारतीय प्रशंसकों से मिलने की अपनी इच्छा भी साझा की",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "skaindala stara sana ye-jina aayurvedika malisha ke lie bharata aana chahata hai: 'aatma ke lie bahuta chikitsiya aura upacharakari' - mida-de",
+      "summary_hinglish": "da skaindala ke prachara ke daurana sona ye-jina ne aayurvedika tela malisha ke lie bharata aane ki ichchha vyakta ki। ji changa-vuka ne bharatiya prashansakon se milane ki apani ichchha bhi sajha ki",
+      "category_hinglish": "Entertainment"
     },
     {
       "id": "ccebdff83669c0e4",
@@ -135,6 +207,23 @@
       "summary_hinglish": "dvaipayana banarji ki haliya kitaba batati hai ki kaise vaishvika rajaniti aura punjivada ki takaton ne bharata ki takaniki kranti ko aakara diya।"
     },
     {
+      "id": "d86231a50c64f2f1",
+      "title": "Meet Bihar-Born IITian Abhishek Anand, Whose Love For Cricket Took Him To Japan",
+      "summary": "Sano (Japan): Love for cricket and hope for the sport's future in Japan took a Bihar-born IITian, Abhishek Anand, to the Land of the Rising Sun. He was",
+      "category": "Sports",
+      "image": "https://ommcomnews.com/wp-content/uploads/2026/09/New-Project-2026-09-21T110654.381.jpg",
+      "source": "Ommcom News",
+      "sourceUrl": "https://ommcomnews.com/sports-news/meet-bihar-born-iitian-abhishek-anand-whose-love-for-cricket-took-him-to-japan/",
+      "publishedAt": "2026-09-21T05:53:21.000Z",
+      "fetchedAt": "2026-09-21T12:15:46.732Z",
+      "title_hi": "मिलिए बिहार में जन्मे आईआईटियन अभिषेक आनंद से, जिनका क्रिकेट के प्रति प्यार उन्हें जापान ले गया",
+      "summary_hi": "सानो (जापान): क्रिकेट के प्रति प्रेम और जापान में इस खेल के भविष्य की आशा बिहार में जन्मे आईआईटियन अभिषेक आनंद को उगते सूरज की भूमि पर ले गई। वह था",
+      "category_hi": "खेल",
+      "title_hinglish": "milie bihara men janme aaeeaaeetiyana abhisheka aananda se, jinaka kriketa ke prati pyara unhen japana le gaya",
+      "summary_hinglish": "sano (japana): kriketa ke prati prema aura japana men isa khela ke bhavishya ki aasha bihara men janme aaeeaaeetiyana abhisheka aananda ko ugate suraja ki bhumi para le gaee। vaha tha",
+      "category_hinglish": "Sports"
+    },
+    {
       "id": "3e1619b05db1e0a0",
       "title": "Kareena Kapoor Khan Birthday: Karisma Kapoor’s childhood photo with sister wins hearts, fans spot Taimur-Jeh",
       "summary": "Kareena Kapoor Khan’s birthday celebrations got a nostalgic touch as sister Karisma Kapoor shared a rare childhood picture of the two. Check the post here.",
@@ -152,23 +241,6 @@
       "category_hinglish": "Entertainment"
     },
     {
-      "id": "d86231a50c64f2f1",
-      "title": "Meet Bihar-Born IITian Abhishek Anand, Whose Love For Cricket Took Him To Japan | Sports",
-      "summary": "Sano (Japan): Love for cricket and hope for the sport's future in Japan took a Bihar-born IITian, Abhishek Anand, to the Land of the Rising Sun. He was",
-      "category": "Sports",
-      "image": "https://ommcomnews.com/wp-content/uploads/2026/09/New-Project-2026-09-21T110654.381.jpg",
-      "source": "Ommcom News",
-      "sourceUrl": "https://ommcomnews.com/sports-news/meet-bihar-born-iitian-abhishek-anand-whose-love-for-cricket-took-him-to-japan/",
-      "publishedAt": "2026-09-21T05:53:21.000Z",
-      "fetchedAt": "2026-09-21T11:44:25.366Z",
-      "title_hi": "मिलिए बिहार में जन्मे आईआईटियन अभिषेक आनंद से, जिनका क्रिकेट के प्रति प्यार उन्हें जापान ले गया | खेल",
-      "summary_hi": "सानो (जापान): क्रिकेट के प्रति प्रेम और जापान में इस खेल के भविष्य की आशा बिहार में जन्मे आईआईटियन अभिषेक आनंद को उगते सूरज की भूमि पर ले गई। वह था",
-      "category_hi": "खेल",
-      "category_hinglish": "Sports",
-      "title_hinglish": "milie bihara men janme aaeeaaeetiyana abhisheka aananda se, jinaka kriketa ke prati pyara unhen japana le gaya | khela",
-      "summary_hinglish": "sano (japana): kriketa ke prati prema aura japana men isa khela ke bhavishya ki aasha bihara men janme aaeeaaeetiyana abhisheka aananda ko ugate suraja ki bhumi para le gaee। vaha tha"
-    },
-    {
       "id": "27882e630b509f55",
       "title": "‘MasterChef Asia’ to premier on television and OTT in India",
       "summary": "The show premiers on TLC on September 22 and on Discovery+ on October 2",
@@ -178,27 +250,12 @@
       "sourceUrl": "https://www.telegraphindia.com/entertainment/masterchef-asia-to-premier-on-television-and-ott-in-india/cid/2180982",
       "publishedAt": "2026-09-21T10:33:49.000Z",
       "fetchedAt": "2026-09-21T11:10:17.184Z",
-      "title_hi": "",
-      "summary_hi": "",
+      "title_hi": "'मास्टरशेफ एशिया' का भारत में टेलीविजन और ओटीटी पर प्रीमियर होगा",
+      "summary_hi": "शो का प्रीमियर 22 सितंबर को टीएलसी पर और 2 अक्टूबर को डिस्कवरी+ पर होगा",
       "category_hi": "मनोरंजन",
-      "category_hinglish": "Entertainment"
-    },
-    {
-      "id": "d0680ac154bba19b",
-      "title": "Pen drive video, an untraced girl and a court that refused to close the case: What led to granite baron V",
-      "summary": "A case that police tried to close because they could not identify or locate the victim has now taken a dramatic turn, with at least seven more minor girls testifying that granite baron R Veeramani, 84, exploited and sexually abused them over the years.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134386706,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/chennai/pen-drive-video-an-untraced-girl-and-a-court-that-refused-to-close-the-case-what-led-to-granite-baron-veeramanis-arrest/articleshow/134386290.cms",
-      "publishedAt": "2026-09-21T10:10:00.000Z",
-      "fetchedAt": "2026-09-21T10:28:20.660Z",
-      "title_hi": "पेन ड्राइव वीडियो, एक अज्ञात लड़की और एक अदालत जिसने मामले को बंद करने से इनकार कर दिया: किस कारण से ग्रेनाइट व्यापारी वी को गिरफ्तार किया गया",
-      "summary_hi": "जिस मामले को पुलिस ने बंद करने की कोशिश की थी क्योंकि वे पीड़िता की पहचान नहीं कर सके या उसका पता नहीं लगा सके, अब एक नाटकीय मोड़ आ गया है, कम से कम सात और नाबालिग लड़कियों ने गवाही दी है कि 84 वर्षीय ग्रेनाइट व्यापारी आर वीरमणि ने वर्षों तक उनका शोषण और यौन शोषण किया।",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "category_hinglish": "Crime aur Breaking News",
-      "title_hinglish": "pena draiva vidiyo, eka ajnyata ladaki aura eka adalata jisane mamale ko banda karane se inakara kara diy: kisa karana se grenaita vyapari vi ko giraphtara kiya gaya",
-      "summary_hinglish": "jisa mamale ko pulisa ne banda karane ki koshisha ki thi kyonki ve pidaिta ki pahachana nahin kara sake ya usaka pata nahin laga sake, aba eka natakiya moda aa gaya hai, kama se kama sata aura nabaliga ladakiyon ne gavahi di hai ki 84 varshiya grenaita vyapari aara viramani ne varshon taka unaka shoshana aura yauna shoshana kiya।"
+      "category_hinglish": "Entertainment",
+      "title_hinglish": "'mastarashepha eshiya' ka bharata men telivijana aura otiti para primiyara hoga",
+      "summary_hinglish": "sho ka primiyara 22 sitanbara ko tielasi para aura 2 aktubara ko diskavari+ para hoga"
     },
     {
       "id": "6202c7509b0cc898",
@@ -216,6 +273,23 @@
       "title_hinglish": "bihara men janme abhisheka aananda ne aaeeaaeeti kanapura se mastara digri hasila ki, lekina unake dila men abhi bhi kriketa hai",
       "summary_hinglish": "isa posta ko instagrama para dekhen utsava sinha dvara sajha ki gaee eka posta | japana vala bihari (@japan_walla_bihari)",
       "category_hinglish": "Sports"
+    },
+    {
+      "id": "d0680ac154bba19b",
+      "title": "Pen drive video, an untraced girl and a court that refused to close the case: What led to granite baron V",
+      "summary": "A case that police tried to close because they could not identify or locate the victim has now taken a dramatic turn, with at least seven more minor girls testifying that granite baron R Veeramani, 84, exploited and sexually abused them over the years.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134386706,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/chennai/pen-drive-video-an-untraced-girl-and-a-court-that-refused-to-close-the-case-what-led-to-granite-baron-veeramanis-arrest/articleshow/134386290.cms",
+      "publishedAt": "2026-09-21T10:10:00.000Z",
+      "fetchedAt": "2026-09-21T10:28:20.660Z",
+      "title_hi": "पेन ड्राइव वीडियो, एक अज्ञात लड़की और एक अदालत जिसने मामले को बंद करने से इनकार कर दिया: किस कारण से ग्रेनाइट व्यापारी वी को गिरफ्तार किया गया",
+      "summary_hi": "जिस मामले को पुलिस ने बंद करने की कोशिश की थी क्योंकि वे पीड़िता की पहचान नहीं कर सके या उसका पता नहीं लगा सके, अब एक नाटकीय मोड़ आ गया है, कम से कम सात और नाबालिग लड़कियों ने गवाही दी है कि 84 वर्षीय ग्रेनाइट व्यापारी आर वीरमणि ने वर्षों तक उनका शोषण और यौन शोषण किया।",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "category_hinglish": "Crime aur Breaking News",
+      "title_hinglish": "pena draiva vidiyo, eka ajnyata ladaki aura eka adalata jisane mamale ko banda karane se inakara kara diy: kisa karana se grenaita vyapari vi ko giraphtara kiya gaya",
+      "summary_hinglish": "jisa mamale ko pulisa ne banda karane ki koshisha ki thi kyonki ve pidaिta ki pahachana nahin kara sake ya usaka pata nahin laga sake, aba eka natakiya moda aa gaya hai, kama se kama sata aura nabaliga ladakiyon ne gavahi di hai ki 84 varshiya grenaita vyapari aara viramani ne varshon taka unaka shoshana aura yauna shoshana kiya।"
     },
     {
       "id": "09fca9b0242abc6a",
@@ -277,10 +351,12 @@
       "source": "India Today",
       "sourceUrl": "https://www.indiatoday.in/amp/technology/tech-today/video/is-ai-moving-too-fast-alexa-india-launch-exclusive-iphone-18-pro-sale-rush-tech-today-2999396-2026-09-21",
       "publishedAt": "2026-09-21T10:04:59.000Z",
-      "fetchedAt": "2026-09-21T11:55:56.648Z",
-      "title_hi": "",
-      "summary_hi": "",
+      "fetchedAt": "2026-09-21T12:15:32.639Z",
+      "title_hi": "क्या AI बहुत तेजी से आगे बढ़ रहा है? एलेक्सा+ इंडिया लॉन्च एक्सक्लूसिव और आईफोन 18 प्रो की बिक्री में तेजी | टेक टुडे - इंडिया टुडे",
+      "summary_hi": "जैसे-जैसे कृत्रिम बुद्धिमत्ता स्वायत्त निष्पादन और महत्वपूर्ण क्षमता सीमा में आगे बढ़ती है, इस बात पर बहस कि क्या बड़ी तकनीक को ब्रेक लगाने की जरूरत है, वैश्विक राजनीतिक स्तर पर पहुंच गई है। टेक टुडे के इस संस्करण में, हम सीमांत एआई विकास को धीमा करने के लिए बढ़ती कॉलों का पता लगाते हैं, विशेष रूप से अमेज़न के साथ बैठते हैं...",
       "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "kya AI bahuta teji se aage badha raha hai? eleksa+ indiya loncha eksaklusiva aura aaeephona 18 pro ki bikri men teji | teka tude - indiya tude",
+      "summary_hinglish": "jaise-jaise kritrima buddhimatta svayatta nishpadana aura mahatvapurna kshamata sima men aage badhati hai, isa bata para bahasa ki kya badaी takanika ko breka lagane ki jarurata hai, vaishvika rajanitika stara para pahuncha gaee hai। teka tude ke isa sanskarana men, hama simanta eaaee vikasa ko dhima karane ke lie badhati kolon ka pata lagate hain, vishesha rupa se amejana ke satha baithate hain...",
       "category_hinglish": "Technology"
     },
     {
@@ -301,23 +377,6 @@
       "summary_hinglish": "rejidenta eevila boksa ऑphisa para achchha pradarshana kara rahi hai। philma ne bharata men apane shuruaati saptahanta men 11.30 karoda rupaye ki kamaee ki।"
     },
     {
-      "id": "7ace175ad42820cd",
-      "title": "Samay Raina reacts to claim he upset Mukesh Chhabra with girlfriend joke on Latent",
-      "summary": "A joke about Mukesh Chhabra’s girlfriend in India’s Got Latent sparked fresh online chatter. The buzz grew after an unverified claim of a brief shoot halt, which Samay Raina answered with humour.",
-      "category": "Entertainment",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/mukesh-chhabra-213241361-16x9_0.jpg?VersionId=0Urfai7eAliqDoZJ8amGAaOZD6ALbdDg",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/amp/entertainment/ott/story/samay-raina-reacts-to-claim-he-upset-mukesh-chhabra-with-girlfriend-joke-on-indias-got-latent-2999434-2026-09-21",
-      "publishedAt": "2026-09-21T09:47:06.000Z",
-      "fetchedAt": "2026-09-21T09:55:09.587Z",
-      "title_hi": "समय रैना ने लैटेंट पर गर्लफ्रेंड के मजाक से मुकेश छाबड़ा को परेशान करने के दावे पर प्रतिक्रिया व्यक्त की",
-      "summary_hi": "इंडियाज गॉट लेटेंट में मुकेश छाबड़ा की गर्लफ्रेंड के बारे में एक चुटकुले ने ताजा ऑनलाइन चर्चा को जन्म दे दिया। थोड़ी देर के लिए शूटिंग रुकने के असत्यापित दावे के बाद चर्चा बढ़ गई, जिसका समय रैना ने हास्य के साथ जवाब दिया।",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "samaya raina ne laitenta para garlaphrenda ke majaka se mukesha chhabadaा ko pareshana karane ke dave para pratikriya vyakta ki",
-      "summary_hinglish": "indiyaja gota letenta men mukesha chhabadaा ki garlaphrenda ke bare men eka chutakule ne taja ऑnalaina charcha ko janma de diya। thodaी dera ke lie shutinga rukane ke asatyapita dave ke bada charcha badha gaee, jisaka samaya raina ne hasya ke satha javaba diya।",
-      "category_hinglish": "Entertainment"
-    },
-    {
       "id": "7a5f20ee3c6e5fbc",
       "title": "Watch! Bhojpuri actress Kajal Raghwani mobbed, car attacked by crowd in Bihar - Mid-Day",
       "summary": "Bhojpuri actress Kajal Raghwani was recently mobbed, and her car was attacked while visiting Bihar Sharif for an event. She later assured fans she is safe",
@@ -333,6 +392,23 @@
       "category_hinglish": "Entertainment",
       "title_hinglish": "ghadaी! bihara men bhida ne bhojapuri abhinetri kajala raghavani ki kara para hamala kiya - mida-de",
       "summary_hinglish": "bhojapuri abhinetri kajala raghavani ko hala hi men eka karyakrama ke lie biharasharipha jate samaya bhida ne ghera liya aura unaki kara para hamala kiya gaya। bada men unhonne prashansakon ko aashvasana diya ki vaha surakshita hain"
+    },
+    {
+      "id": "7ace175ad42820cd",
+      "title": "Samay Raina reacts to claim he upset Mukesh Chhabra with girlfriend joke on Latent",
+      "summary": "A joke about Mukesh Chhabra’s girlfriend in India’s Got Latent sparked fresh online chatter. The buzz grew after an unverified claim of a brief shoot halt, which Samay Raina answered with humour.",
+      "category": "Entertainment",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/mukesh-chhabra-213241361-16x9_0.jpg?VersionId=0Urfai7eAliqDoZJ8amGAaOZD6ALbdDg",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/amp/entertainment/ott/story/samay-raina-reacts-to-claim-he-upset-mukesh-chhabra-with-girlfriend-joke-on-indias-got-latent-2999434-2026-09-21",
+      "publishedAt": "2026-09-21T09:47:06.000Z",
+      "fetchedAt": "2026-09-21T09:55:09.587Z",
+      "title_hi": "समय रैना ने लैटेंट पर गर्लफ्रेंड के मजाक से मुकेश छाबड़ा को परेशान करने के दावे पर प्रतिक्रिया व्यक्त की",
+      "summary_hi": "इंडियाज गॉट लेटेंट में मुकेश छाबड़ा की गर्लफ्रेंड के बारे में एक चुटकुले ने ताजा ऑनलाइन चर्चा को जन्म दे दिया। थोड़ी देर के लिए शूटिंग रुकने के असत्यापित दावे के बाद चर्चा बढ़ गई, जिसका समय रैना ने हास्य के साथ जवाब दिया।",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "samaya raina ne laitenta para garlaphrenda ke majaka se mukesha chhabadaा ko pareshana karane ke dave para pratikriya vyakta ki",
+      "summary_hinglish": "indiyaja gota letenta men mukesha chhabadaा ki garlaphrenda ke bare men eka chutakule ne taja ऑnalaina charcha ko janma de diya। thodaी dera ke lie shutinga rukane ke asatyapita dave ke bada charcha badha gaee, jisaka samaya raina ne hasya ke satha javaba diya।",
+      "category_hinglish": "Entertainment"
     },
     {
       "id": "e7c232054408f997",
@@ -352,23 +428,6 @@
       "summary_hinglish": "japana ke khilapha aitihasika ti20 antararashtriya maicha ke lie bharata ki taiyariyan somavara ko barisha aura tuphani paristhitiyon ke karana badhita ho gaeen, tuphana dujuaana purvi japana ke kariba pahuncha gaya aura shreyasa ayyara ki aguvaee vali tima ko isa aitihasika maicha ki purva sandhya para prashikshana lene se roka diya gaya।"
     },
     {
-      "id": "dfd171cef669a3ce",
-      "title": "India Fortifies Patient Safety Net with Launch of 7th National Formulary and Biovigilance Program",
-      "summary": "Smt. Anupriya Patel launches NFI 2026 and the Biovigilance Programme to strengthen medicine safety and medical device monitoring nationwide.",
-      "category": "National & Trending News",
-      "image": "https://pragativadi.com/wp-content/uploads/2026/09/n-1.jpg",
-      "source": "Pragativadi",
-      "sourceUrl": "https://pragativadi.com/india-fortifies-patient-safety-net-with-launch-of-7th-national-formulary-and-biovigilance-program/",
-      "publishedAt": "2026-09-21T09:35:09.000Z",
-      "fetchedAt": "2026-09-21T11:44:21.320Z",
-      "title_hi": "भारत ने 7वें राष्ट्रीय फॉर्मूलरी और बायोविजिलेंस कार्यक्रम के शुभारंभ के साथ रोगी सुरक्षा तंत्र को मजबूत किया",
-      "summary_hi": "श्रीमती अनुप्रिया पटेल ने देश भर में दवा सुरक्षा और चिकित्सा उपकरण निगरानी को मजबूत करने के लिए एनएफआई 2026 और बायोविजिलेंस प्रोग्राम लॉन्च किया।",
-      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
-      "category_hinglish": "National aur Trending News",
-      "title_hinglish": "bharata ne 7ven rashtriya phormulari aura bayovijilensa karyakrama ke shubharanbha ke satha rogi suraksha tantra ko majabuta kiya",
-      "summary_hinglish": "shrimati anupriya patela ne desha bhara men dava suraksha aura chikitsa upakarana nigarani ko majabuta karane ke lie enaephaaaee 2026 aura bayovijilensa programa loncha kiya।"
-    },
-    {
       "id": "b0a7445d8fa7d0e5",
       "title": "Bihar forms SIT to probe vehicle insurance fraud, tightens challan norms",
       "summary": "The Bihar Police have taken a series of measures to curb insurance fraud and improve traffic enforcement, including the formation of a Special Investigation Team (SIT) under the Crime Investigation Department (CID) to probe suspected ‘vehicle implant’ scams, stricter norms for issuing traffic challans and a directive to release accident-hit…",
@@ -384,6 +443,23 @@
       "title_hinglish": "bihar ne vahan bim dhokhadhadी ki janch ke lie esaaiti gathit ki, chalan manadand sakht kie",
       "category_hinglish": "Crime aur Breaking News",
       "summary_hinglish": "bihara pulisa ne bima dhokhadhadaी ko rokane aura yatayata pravartana men sudhara ke lie kaee kadama uthae hain, jisamen sandigdha 'vahana pratyaropana' ghotalon ki jancha ke lie aparadha jancha vibhaga (siaaeedi) ke tahata eka vishesha jancha dala (esaaaeeti) ka gathan, yatayata chalana jari karane ke lie sakhta manadanda aura durghatana-prabhavita logon ko riha karane ka nirdesha shamila hai..."
+    },
+    {
+      "id": "dfd171cef669a3ce",
+      "title": "India Fortifies Patient Safety Net with Launch of 7th National Formulary and Biovigilance Program",
+      "summary": "Smt. Anupriya Patel launches NFI 2026 and the Biovigilance Programme to strengthen medicine safety and medical device monitoring nationwide.",
+      "category": "National & Trending News",
+      "image": "https://pragativadi.com/wp-content/uploads/2026/09/n-1.jpg",
+      "source": "Pragativadi",
+      "sourceUrl": "https://pragativadi.com/india-fortifies-patient-safety-net-with-launch-of-7th-national-formulary-and-biovigilance-program/",
+      "publishedAt": "2026-09-21T09:35:09.000Z",
+      "fetchedAt": "2026-09-21T11:44:21.320Z",
+      "title_hi": "भारत ने 7वें राष्ट्रीय फॉर्मूलरी और बायोविजिलेंस कार्यक्रम के शुभारंभ के साथ रोगी सुरक्षा तंत्र को मजबूत किया",
+      "summary_hi": "श्रीमती अनुप्रिया पटेल ने देश भर में दवा सुरक्षा और चिकित्सा उपकरण निगरानी को मजबूत करने के लिए एनएफआई 2026 और बायोविजिलेंस प्रोग्राम लॉन्च किया।",
+      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
+      "category_hinglish": "National aur Trending News",
+      "title_hinglish": "bharata ne 7ven rashtriya phormulari aura bayovijilensa karyakrama ke shubharanbha ke satha rogi suraksha tantra ko majabuta kiya",
+      "summary_hinglish": "shrimati anupriya patela ne desha bhara men dava suraksha aura chikitsa upakarana nigarani ko majabuta karane ke lie enaephaaaee 2026 aura bayovijilensa programa loncha kiya।"
     },
     {
       "id": "031f6f0b485c2203",
@@ -471,23 +547,6 @@
       "category_hinglish": "Entertainment"
     },
     {
-      "id": "dcfadbedcd5a8315",
-      "title": "ISL Appoints Karan Yadav As CEO To Lead League’s Strategic & Commercial Growth Under New Club-Led Model",
-      "summary": "The Indian Super League has appointed Karan Yadav as its new CEO under a club-led model. Yadav, formerly JSW Sports’ Chief Commercial Officer, will lead the League Office and oversee ISL’s strategic, commercial and organisational direction while working with clubs and AIFF.",
-      "category": "Sports",
-      "image": "https://media.assettype.com/freepressjournal/2026-09-21/99l6dblw/Untitled-design-2026-09-21T140520.599.jpg",
-      "source": "Free Press Journal",
-      "sourceUrl": "https://www.freepressjournal.in/sports/isl-appoints-karan-yadav-as-ceo-to-lead-leagues-strategic-commercial-growth-under-new-club-led-model",
-      "publishedAt": "2026-09-21T08:35:55.000Z",
-      "fetchedAt": "2026-09-21T09:09:13.900Z",
-      "title_hi": "आईएसएल ने नए क्लब-एलईडी मॉडल के तहत लीग के रणनीतिक और वाणिज्यिक विकास का नेतृत्व करने के लिए करण यादव को सीईओ नियुक्त किया",
-      "summary_hi": "इंडियन सुपर लीग ने क्लब-आधारित मॉडल के तहत करण यादव को अपना नया सीईओ नियुक्त किया है। यादव, पूर्व में जेएसडब्ल्यू स्पोर्ट्स के मुख्य वाणिज्यिक अधिकारी, लीग कार्यालय का नेतृत्व करेंगे और क्लबों और एआईएफएफ के साथ काम करते हुए आईएसएल की रणनीतिक, वाणिज्यिक और संगठनात्मक दिशा की देखरेख करेंगे।",
-      "category_hi": "खेल",
-      "category_hinglish": "Sports",
-      "title_hinglish": "aaeeesaela ne nae klaba-elaeedi modala ke tahata liga ke rananitika aura vanijyika vikasa ka netritva karane ke lie karana yadava ko sieeo niyukta kiya",
-      "summary_hinglish": "indiyana supara liga ne klaba-aadharita modala ke tahata karana yadava ko apana naya sieeo niyukta kiya hai। yadav, purva men jeesadablyu sportsa ke mukhya vanijyika adhikari, liga karyalaya ka netritva karenge aura klabon aura eaaeeephaepha ke satha kama karate hue aaeeesaela ki rananitik, vanijyika aura sangathanatmaka disha ki dekharekha karenge।"
-    },
-    {
       "id": "f9be4fc84aef9acd",
       "title": "Bihar govt's coffers empty, yet crores spent on PM Modi's birthday celebrations: Tejashwi Yadav",
       "summary": "Tejashwi Yadav alleges state coffers are empty while crores are spent on Prime Minister Narendra Modi birthday celebrations, demanding immediate financial assistance for affected families.",
@@ -503,6 +562,23 @@
       "title_hinglish": "bihar sarakar k khajan khali, phir bhi piem modi ke janmadin samaroh par karodोn kharch: tejasvi yadav",
       "category_hinglish": "Politics aur Government",
       "summary_hinglish": "tejasvi yadava ne aaropa lagaya ki rajya ka khajana khali hai jabaki pradhanamantri narendra modi ke janmadina samaroha para karodaोn kharcha kie ja rahe hain, unhonne prabhavita parivaron ke lie tatkala vittiya sahayata ki manga ki।"
+    },
+    {
+      "id": "dcfadbedcd5a8315",
+      "title": "ISL Appoints Karan Yadav As CEO To Lead League’s Strategic & Commercial Growth Under New Club-Led Model",
+      "summary": "The Indian Super League has appointed Karan Yadav as its new CEO under a club-led model. Yadav, formerly JSW Sports’ Chief Commercial Officer, will lead the League Office and oversee ISL’s strategic, commercial and organisational direction while working with clubs and AIFF.",
+      "category": "Sports",
+      "image": "https://media.assettype.com/freepressjournal/2026-09-21/99l6dblw/Untitled-design-2026-09-21T140520.599.jpg",
+      "source": "Free Press Journal",
+      "sourceUrl": "https://www.freepressjournal.in/sports/isl-appoints-karan-yadav-as-ceo-to-lead-leagues-strategic-commercial-growth-under-new-club-led-model",
+      "publishedAt": "2026-09-21T08:35:55.000Z",
+      "fetchedAt": "2026-09-21T09:09:13.900Z",
+      "title_hi": "आईएसएल ने नए क्लब-एलईडी मॉडल के तहत लीग के रणनीतिक और वाणिज्यिक विकास का नेतृत्व करने के लिए करण यादव को सीईओ नियुक्त किया",
+      "summary_hi": "इंडियन सुपर लीग ने क्लब-आधारित मॉडल के तहत करण यादव को अपना नया सीईओ नियुक्त किया है। यादव, पूर्व में जेएसडब्ल्यू स्पोर्ट्स के मुख्य वाणिज्यिक अधिकारी, लीग कार्यालय का नेतृत्व करेंगे और क्लबों और एआईएफएफ के साथ काम करते हुए आईएसएल की रणनीतिक, वाणिज्यिक और संगठनात्मक दिशा की देखरेख करेंगे।",
+      "category_hi": "खेल",
+      "category_hinglish": "Sports",
+      "title_hinglish": "aaeeesaela ne nae klaba-elaeedi modala ke tahata liga ke rananitika aura vanijyika vikasa ka netritva karane ke lie karana yadava ko sieeo niyukta kiya",
+      "summary_hinglish": "indiyana supara liga ne klaba-aadharita modala ke tahata karana yadava ko apana naya sieeo niyukta kiya hai। yadav, purva men jeesadablyu sportsa ke mukhya vanijyika adhikari, liga karyalaya ka netritva karenge aura klabon aura eaaeeephaepha ke satha kama karate hue aaeeesaela ki rananitik, vanijyika aura sangathanatmaka disha ki dekharekha karenge।"
     },
     {
       "id": "d9f48a4ae946c6b6",
@@ -522,21 +598,6 @@
       "category_hinglish": "Entertainment"
     },
     {
-      "id": "7b00abd39c438255",
-      "title": "India's next ₹100-lakh-cr investment boom? 3 sectors may drive capex cycle",
-      "summary": "AI infrastructure, the renewable energy transition, and defense indigenisation are three concurrent, manufacturing-intensive investment themes underpinning India's capex cycle",
-      "category": "Business & Finance",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/18/thumb/featurecrop/1200X628/1789728375-4617.png",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/amp/finance/personal-finance/india-s-next-100-lakh-cr-investment-boom-3-sectors-may-drive-capex-cycle-126092100487_1.html",
-      "publishedAt": "2026-09-21T08:27:14.000Z",
-      "fetchedAt": "2026-09-21T09:28:48.398Z",
-      "title_hi": "",
-      "summary_hi": "",
-      "category_hi": "बिज़नेस और फाइनेंस",
-      "category_hinglish": "Business aur Finance"
-    },
-    {
       "id": "d340ef50077a9df3",
       "title": "Bhojpuri actress Kajal Raghwani is safe after fans CHASE her car, BREAK WINDOWS at Bihar Sharif showroom",
       "summary": "The Times of India brings the Latest & Top Breaking News on Politics and Current Affairs in India & around the World, Cricket, Sports, Business, Bollywood News and Entertainment, Science, Technology, Health & Fitness news & opinions from leading columnists.",
@@ -552,6 +613,23 @@
       "title_hinglish": "biharasharipha shoruma men prashansakon dvara unaki kara ka pichha karane, khidakiyan todane ke bada bhojapuri abhinetri kajala raghavani surakshita hain",
       "summary_hinglish": "taimsa ऑpha indiya bharata aura duniya bhara men rajaniti aura samasamayika mamalon, kriket, khel, vyapar, bolivuda samachara aura manoranjan, vijnyan, praudyogiki, svasthya aura phitanesa samachara aura pramukha stanbhakaron ki raya para navinatama aura shirsha brekinga samachara lata hai।",
       "category_hinglish": "Entertainment"
+    },
+    {
+      "id": "7b00abd39c438255",
+      "title": "India's next ₹100-lakh-cr investment boom? 3 sectors may drive capex cycle",
+      "summary": "AI infrastructure, the renewable energy transition, and defense indigenisation are three concurrent, manufacturing-intensive investment themes underpinning India's capex cycle",
+      "category": "Business & Finance",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/18/thumb/featurecrop/1200X628/1789728375-4617.png",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/amp/finance/personal-finance/india-s-next-100-lakh-cr-investment-boom-3-sectors-may-drive-capex-cycle-126092100487_1.html",
+      "publishedAt": "2026-09-21T08:27:14.000Z",
+      "fetchedAt": "2026-09-21T09:28:48.398Z",
+      "title_hi": "भारत में अगला ₹100 लाख करोड़ का निवेश उछाल? 3 क्षेत्र पूंजीगत व्यय चक्र को चला सकते हैं",
+      "summary_hi": "एआई बुनियादी ढांचा, नवीकरणीय ऊर्जा संक्रमण और रक्षा स्वदेशीकरण तीन समवर्ती, विनिर्माण-गहन निवेश विषय हैं जो भारत के पूंजीगत व्यय चक्र को रेखांकित करते हैं।",
+      "category_hi": "बिज़नेस और फाइनेंस",
+      "category_hinglish": "Business aur Finance",
+      "title_hinglish": "bharata men agala ₹100 lakha karoda ka nivesha uchhal? 3 kshetra punjigata vyaya chakra ko chala sakate hain",
+      "summary_hinglish": "eaaee buniyadi dhanch, navikaraniya oorja sankramana aura raksha svadeshikarana tina samavarti, vinirmana-gahana nivesha vishaya hain jo bharata ke punjigata vyaya chakra ko rekhankita karate hain।"
     },
     {
       "id": "5d49395a93903874",
@@ -639,23 +717,6 @@
       "category_hinglish": "Business aur Finance"
     },
     {
-      "id": "9ab23b45a9fbc5a1",
-      "title": "Asian Games Gold Clash: India’s Trio Bring Strong Records",
-      "summary": "Asian Games 2026: A look at the knockout records of Smriti Mandhana, Shafali Verma and Harmanpreet Kaur ahead of the gold-medal clash.",
-      "category": "Sports",
-      "image": "https://images.newsarenaindia.com/chatgpt-image-sep-21-2026-01_25_57-pm200kbjpeg_1789977451469.jpeg",
-      "source": "News Arena India",
-      "sourceUrl": "https://newsarenaindia.com/sports/knockout-records-in-focus-as-india-chase-asian-games-gold/85070",
-      "publishedAt": "2026-09-21T08:00:45.000Z",
-      "fetchedAt": "2026-09-21T08:03:43.573Z",
-      "title_hi": "एशियन गेम्स गोल्ड क्लैश: भारत की तिकड़ी ने बनाए मजबूत रिकॉर्ड",
-      "summary_hi": "एशियाई खेल 2026: स्वर्ण पदक मुकाबले से पहले स्मृति मंधाना, शैफाली वर्मा और हरमनप्रीत कौर के नॉकआउट रिकॉर्ड पर एक नजर।",
-      "category_hi": "खेल",
-      "title_hinglish": "eshiyana gemsa golda klaish: bharata ki tikadaी ne banae majabuta rikorda",
-      "summary_hinglish": "eshiyaee khela 2026: svarna padaka mukabale se pahale smriti mandhan, shaiphali varma aura haramanaprita kaura ke nokaaauta rikorda para eka najara।",
-      "category_hinglish": "Sports"
-    },
-    {
       "id": "3faf8d7918681ae3",
       "title": "East Zone’s new cricketing core: How Bihar and Jharkhand talent powered Duleep Trophy win",
       "summary": "East Zone’s Duleep Trophy triumph over favourites South Zone reflected a changing power centre in Indian domestic cricket, with players from Jharkhand and Bihar leading the charge. Ishan Kishan’s 270, alongside crucial contributions from Kumar Kushagra, Mohammed Kounain Quraishi and Shikhar Mohan, highlighted the region’s growing talent pool and its…",
@@ -671,6 +732,23 @@
       "title_hinglish": "purvi kshetr k nay kriketing kor: kaise bihar aur jharakhand ki pratibh ne dalip trॉphi jit hasil ki",
       "category_hinglish": "Sports",
       "summary_hinglish": "purvi kshetra ki pasandida dakshina kshetra para dalipa trophi ki jita ne bharatiya gharelu kriketa men eka badalate shakti kendra ko darshay, jisamen jharakhanda aura bihara ke khiladaी netritva kara rahe the। eeshana kishana ke 270, kumara kushagr, mohammada kaunaina kuraishi aura shikhara mohana ke mahatvapurna yogadana ke sath, isa kshetra ki badhati pratibha pula aura isake…"
+    },
+    {
+      "id": "9ab23b45a9fbc5a1",
+      "title": "Asian Games Gold Clash: India’s Trio Bring Strong Records",
+      "summary": "Asian Games 2026: A look at the knockout records of Smriti Mandhana, Shafali Verma and Harmanpreet Kaur ahead of the gold-medal clash.",
+      "category": "Sports",
+      "image": "https://images.newsarenaindia.com/chatgpt-image-sep-21-2026-01_25_57-pm200kbjpeg_1789977451469.jpeg",
+      "source": "News Arena India",
+      "sourceUrl": "https://newsarenaindia.com/sports/knockout-records-in-focus-as-india-chase-asian-games-gold/85070",
+      "publishedAt": "2026-09-21T08:00:45.000Z",
+      "fetchedAt": "2026-09-21T08:03:43.573Z",
+      "title_hi": "एशियन गेम्स गोल्ड क्लैश: भारत की तिकड़ी ने बनाए मजबूत रिकॉर्ड",
+      "summary_hi": "एशियाई खेल 2026: स्वर्ण पदक मुकाबले से पहले स्मृति मंधाना, शैफाली वर्मा और हरमनप्रीत कौर के नॉकआउट रिकॉर्ड पर एक नजर।",
+      "category_hi": "खेल",
+      "title_hinglish": "eshiyana gemsa golda klaish: bharata ki tikadaी ne banae majabuta rikorda",
+      "summary_hinglish": "eshiyaee khela 2026: svarna padaka mukabale se pahale smriti mandhan, shaiphali varma aura haramanaprita kaura ke nokaaauta rikorda para eka najara।",
+      "category_hinglish": "Sports"
     },
     {
       "id": "132c97aeb475e396",
@@ -690,23 +768,6 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "3353c4783bc6cd3f",
-      "title": "Oscars 2027: Nagaland's Angh gives India a second contender alongside Gondhal",
-      "summary": "Nagaland’s Angh joins Gondhal in reshaped race for Best International Feature",
-      "category": "Entertainment",
-      "image": "https://media.assettype.com/gulfnews%2F2026-09-21%2Fhptc2ww3%2Fangh.avif?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "source": "Gulf News",
-      "sourceUrl": "https://gulfnews.com/amp/story/entertainment%2Foscars-2027-nagalands-angh-gives-india-a-second-contender-alongside-gondhal-1.500682124",
-      "publishedAt": "2026-09-21T07:56:54.000Z",
-      "fetchedAt": "2026-09-21T09:42:44.627Z",
-      "title_hi": "ऑस्कर 2027: नागालैंड के अंग ने भारत को गोंधल के साथ दूसरा दावेदार दिया",
-      "summary_hi": "सर्वश्रेष्ठ अंतर्राष्ट्रीय फीचर की दौड़ में नागालैंड का अंग गोंधल के साथ शामिल हुआ",
-      "category_hi": "मनोरंजन",
-      "category_hinglish": "Entertainment",
-      "title_hinglish": "ऑskara 2027: nagalainda ke anga ne bharata ko gondhala ke satha dusara davedara diya",
-      "summary_hinglish": "sarvashreshtha antarrashtriya phichara ki dauda men nagalainda ka anga gondhala ke satha shamila huaa"
-    },
-    {
       "id": "df4ee11c80718c75",
       "title": "Prashant Kishor's JSP announces 5 candidates for Bihar Legislative Council polls | India News",
       "summary": "Elections are to be held for a total of eight constituencies -- four graduates' and teachers' seats each -- terms of which expire in November. | India News",
@@ -722,6 +783,23 @@
       "category_hinglish": "Politics aur Government",
       "title_hinglish": "prashanta kishora ki jeesapi ne bihara vidhana parishada chunava ke lie 5 ummidavaron ki ghoshana ki | bharata samachara",
       "summary_hinglish": "kula aatha nirvachana kshetron ke lie chunava hone hain - chara snataka aura shikshaka siten - jinaki sharten navanbara men samapta ho rahi hain। | bharata samachara"
+    },
+    {
+      "id": "3353c4783bc6cd3f",
+      "title": "Oscars 2027: Nagaland's Angh gives India a second contender alongside Gondhal",
+      "summary": "Nagaland’s Angh joins Gondhal in reshaped race for Best International Feature",
+      "category": "Entertainment",
+      "image": "https://media.assettype.com/gulfnews%2F2026-09-21%2Fhptc2ww3%2Fangh.avif?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "Gulf News",
+      "sourceUrl": "https://gulfnews.com/amp/story/entertainment%2Foscars-2027-nagalands-angh-gives-india-a-second-contender-alongside-gondhal-1.500682124",
+      "publishedAt": "2026-09-21T07:56:54.000Z",
+      "fetchedAt": "2026-09-21T09:42:44.627Z",
+      "title_hi": "ऑस्कर 2027: नागालैंड के अंग ने भारत को गोंधल के साथ दूसरा दावेदार दिया",
+      "summary_hi": "सर्वश्रेष्ठ अंतर्राष्ट्रीय फीचर की दौड़ में नागालैंड का अंग गोंधल के साथ शामिल हुआ",
+      "category_hi": "मनोरंजन",
+      "category_hinglish": "Entertainment",
+      "title_hinglish": "ऑskara 2027: nagalainda ke anga ne bharata ko gondhala ke satha dusara davedara diya",
+      "summary_hinglish": "sarvashreshtha antarrashtriya phichara ki dauda men nagalainda ka anga gondhala ke satha shamila huaa"
     },
     {
       "id": "f9531dba42f97b49",
@@ -773,23 +851,6 @@
       "title_hinglish": "jan suraj ne 5 bihar vidhan parishad siton ke lie ummidavaron ki ghoshan ki",
       "category_hinglish": "Politics aur Government",
       "summary_hinglish": "prashanta kishora ke jana suraja ne bihara ki agali chunavi ladaाee ki shuruaati shuruaata karate hue aatha vidhana parishada siton men se pancha ke lie ummidavaron ke nama ghoshita kara die hain। eka maujuda emaelasi ko dusare karyakala ke lie samarthana dene se lekara eka vakila se neta bane jadayu ke diggaja neta ke khilapha maidana men utarane tak, kishora apani parti ka dayara badhaा rahe hain…"
-    },
-    {
-      "id": "32535c840e3c8062",
-      "title": "Enduring 'Stoneman' mystery: 13 skulls crushed in the dead of night",
-      "summary": "Long before true-crime documentaries turned unsolved murders into national conversations, a series of killings on the streets of Mumbai and Kolkata created one of country's enduring crime mysteries.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134382037,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/kolkata/enduring-stoneman-mystery-13-skulls-crushed-in-the-dead-of-night/articleshow/134381086.cms",
-      "publishedAt": "2026-09-21T06:50:00.000Z",
-      "fetchedAt": "2026-09-21T11:55:39.761Z",
-      "title_hi": "स्थायी 'स्टोनमैन' रहस्य: रात के अंधेरे में कुचल दी गईं 13 खोपड़ियाँ",
-      "summary_hi": "सच्चे-अपराध वृत्तचित्रों द्वारा अनसुलझी हत्याओं को राष्ट्रीय बातचीत में बदलने से बहुत पहले, मुंबई और कोलकाता की सड़कों पर हत्याओं की एक श्रृंखला ने देश के स्थायी अपराध रहस्यों में से एक का निर्माण किया।",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "sthayi 'stonamaina' rahasy: rata ke andhere men kuchala di gaeen 13 khopadaिyan",
-      "summary_hinglish": "sachche-aparadha vrittachitron dvara anasulajhi hatyaon ko rashtriya batachita men badalane se bahuta pahale, munbaee aura kolakata ki sadakon para hatyaon ki eka shrrinkhala ne desha ke sthayi aparadha rahasyon men se eka ka nirmana kiya।",
-      "category_hinglish": "Crime aur Breaking News"
     }
   ]
 }
