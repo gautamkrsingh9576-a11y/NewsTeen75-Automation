@@ -1,7 +1,58 @@
 {
-  "updatedAt": "2026-09-22T04:48:21.646Z",
-  "count": 93,
+  "updatedAt": "2026-09-22T04:58:43.710Z",
+  "count": 97,
   "articles": [
+    {
+      "id": "fe15e0f18485d60e",
+      "title": "Starbucks to build first India GCC in Chennai with 800 tech jobs",
+      "summary": "Starbucks has announced that it will set up its first India GCC in Chennai, creating around 800 tech jobs as it brings more global technology work in-house.",
+      "category": "Technology",
+      "image": "https://img-cdn.publive.online/fit-in/1200x675/dq/media/media_files/2026/09/22/starbucks-to-set-up-gcc-in-chennai-2026-09-22-10-22-00.jpeg",
+      "source": "dqindia.com",
+      "sourceUrl": "https://www.dqindia.com/news/starbucks-to-build-first-india-gcc-in-chennai-with-800-tech-jobs-12562790",
+      "publishedAt": "2026-09-22T04:53:29.000Z",
+      "fetchedAt": "2026-09-22T04:58:22.911Z",
+      "title_hi": "स्टारबक्स 800 तकनीकी नौकरियों के साथ चेन्नई में पहला भारत जीसीसी बनाएगा",
+      "summary_hi": "स्टारबक्स ने घोषणा की है कि वह चेन्नई में अपना पहला भारत जीसीसी स्थापित करेगा, जिससे लगभग 800 तकनीकी नौकरियां पैदा होंगी क्योंकि यह घर में अधिक वैश्विक प्रौद्योगिकी कार्य लाएगा।",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "starabaksa 800 takaniki naukariyon ke satha chennaee men pahala bharata jisisi banaega",
+      "summary_hinglish": "starabaksa ne ghoshana ki hai ki vaha chennaee men apana pahala bharata jisisi sthapita kareg, jisase lagabhaga 800 takaniki naukariyan paida hongi kyonki yaha ghara men adhika vaishvika praudyogiki karya laega।",
+      "category_hinglish": "Technology"
+    },
+    {
+      "id": "623fda8ebee701fd",
+      "title": "Infrastructure Challenges for Startups Expanding Across India",
+      "summary": "India’s startup ecosystem is expanding beyond traditional technology hubs as businesses increasing...",
+      "category": "Technology",
+      "image": "https://community.nasscom.in/sites/default/files/media/images/Your%20paragraph%20text%20%287%29_15.png",
+      "source": "Nasscom",
+      "sourceUrl": "https://community.nasscom.in/communities/it-services/infrastructure-challenges-startups-expanding-across-india",
+      "publishedAt": "2026-09-22T04:46:58.000Z",
+      "fetchedAt": "2026-09-22T04:58:25.493Z",
+      "title_hi": "पूरे भारत में विस्तार कर रहे स्टार्टअप्स के लिए बुनियादी ढांचे की चुनौतियाँ",
+      "summary_hi": "जैसे-जैसे कारोबार बढ़ रहा है, भारत का स्टार्टअप इकोसिस्टम पारंपरिक प्रौद्योगिकी केंद्रों से आगे बढ़ रहा है...",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "pure bharata men vistara kara rahe startaapsa ke lie buniyadi dhanche ki chunautiyan",
+      "summary_hinglish": "jaise-jaise karobara badha raha hai, bharata ka startaapa ikosistama paranparika praudyogiki kendron se aage badha raha hai...",
+      "category_hinglish": "Technology"
+    },
+    {
+      "id": "bd27a711f58cacad",
+      "title": "Next panchayat election only after the delimitation: Samrat Choudhary",
+      "summary": "Bihar CM Samrat Choudhary announces Panchayat elections post-delimitation, urging representatives to enhance village infrastructure and self-reliance.",
+      "category": "National & Trending News",
+      "image": "https://th-i.thgim.com/public/incoming/e12h5o/article71493257.ece/alternates/FREE_1200/20260921152L.jpg",
+      "source": "The Hindu",
+      "sourceUrl": "https://www.thehindu.com/news/national/bihar/next-panchayat-election-only-after-the-delimitation-samrat-choudhary/article71491749.ece/amp/",
+      "publishedAt": "2026-09-22T00:30:00.000Z",
+      "fetchedAt": "2026-09-22T02:31:16.998Z",
+      "title_hi": "परिसीमन के बाद ही अगला पंचायत चुनाव : सम्राट चौधरी",
+      "summary_hi": "बिहार के मुख्यमंत्री सम्राट चौधरी ने परिसीमन के बाद पंचायत चुनाव की घोषणा की, प्रतिनिधियों से गांव के बुनियादी ढांचे और आत्मनिर्भरता को बढ़ाने का आग्रह किया।",
+      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
+      "title_hinglish": "parisimana ke bada hi agala panchayata chunava : samrata chaudhari",
+      "summary_hinglish": "bihara ke mukhyamantri samrata chaudhari ne parisimana ke bada panchayata chunava ki ghoshana ki, pratinidhiyon se ganva ke buniyadi dhanche aura aatmanirbharata ko badhaाne ka aagraha kiya।",
+      "category_hinglish": "National aur Trending News"
+    },
     {
       "id": "30d7499a4b1440d9",
       "title": "IIT Madras hosts Global Hyperloop Summit to advance high-speed, sustainable transport",
@@ -37,21 +88,21 @@
       "category_hinglish": "Sports"
     },
     {
-      "id": "bd27a711f58cacad",
-      "title": "Next panchayat election only after the delimitation: Samrat Choudhary",
-      "summary": "Bihar CM Samrat Choudhary announces Panchayat elections post-delimitation, urging representatives to enhance village infrastructure and self-reliance.",
-      "category": "National & Trending News",
-      "image": "https://th-i.thgim.com/public/incoming/e12h5o/article71493257.ece/alternates/FREE_1200/20260921152L.jpg",
-      "source": "The Hindu",
-      "sourceUrl": "https://www.thehindu.com/news/national/bihar/next-panchayat-election-only-after-the-delimitation-samrat-choudhary/article71491749.ece/amp/",
-      "publishedAt": "2026-09-22T00:30:00.000Z",
-      "fetchedAt": "2026-09-22T02:31:16.998Z",
-      "title_hi": "परिसीमन के बाद ही अगला पंचायत चुनाव : सम्राट चौधरी",
-      "summary_hi": "बिहार के मुख्यमंत्री सम्राट चौधरी ने परिसीमन के बाद पंचायत चुनाव की घोषणा की, प्रतिनिधियों से गांव के बुनियादी ढांचे और आत्मनिर्भरता को बढ़ाने का आग्रह किया।",
-      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
-      "title_hinglish": "parisimana ke bada hi agala panchayata chunava : samrata chaudhari",
-      "summary_hinglish": "bihara ke mukhyamantri samrata chaudhari ne parisimana ke bada panchayata chunava ki ghoshana ki, pratinidhiyon se ganva ke buniyadi dhanche aura aatmanirbharata ko badhaाne ka aagraha kiya।",
-      "category_hinglish": "National aur Trending News"
+      "id": "100b3302a5c4ec7f",
+      "title": "IMFL worth Rs 1.2cr being smuggled to dry Bihar seized, 5 held",
+      "summary": "Chandauli police busted an interstate liquor smuggling gang, arrested five members and seized 775 cartons of Indian-made foreign liquor worth Rs 1.2 crore during a joint operation by Alinagar police, SWAT and the surveillance team. The liquor, measuring 6,935 litres, was being transported to Bihar for sale at higher rates.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134396759,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/varanasi/imfl-worth-rs-1-2cr-being-smuggled-to-dry-bihar-seized-5-held/articleshow/134396760.cms",
+      "publishedAt": "2026-09-21T18:46:00.000Z",
+      "fetchedAt": "2026-09-21T21:36:27.393Z",
+      "title_hi": "बिहार में तस्करी के लिए ले जाई जा रही 1.2 करोड़ रुपये की आईएमएफएल जब्त, 5 गिरफ्तार",
+      "summary_hi": "चंदौली पुलिस ने अलीनगर पुलिस, स्वाट और निगरानी टीम के संयुक्त अभियान के दौरान एक अंतरराज्यीय शराब तस्करी गिरोह का भंडाफोड़ किया, पांच सदस्यों को गिरफ्तार किया और 1.2 करोड़ रुपये मूल्य की 775 कार्टन भारत निर्मित विदेशी शराब जब्त की। 6,935 लीटर की शराब को उच्च दरों पर बिक्री के लिए बिहार ले जाया जा रहा था।",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "bihara men taskari ke lie le jaee ja rahi 1.2 karoda rupaye ki aaeeemaephaela jabt, 5 giraphtara",
+      "summary_hinglish": "chandauli pulisa ne alinagara pulis, svata aura nigarani tima ke sanyukta abhiyana ke daurana eka antararajyiya sharaba taskari giroha ka bhandaphoda kiy, pancha sadasyon ko giraphtara kiya aura 1.2 karoda rupaye mulya ki 775 kartana bharata nirmita videshi sharaba jabta ki। 6,935 litara ki sharaba ko uchcha daron para bikri ke lie bihara le jaya ja raha tha।",
+      "category_hinglish": "Crime aur Breaking News"
     },
     {
       "id": "2b5ea6ff79b11e72",
@@ -71,6 +122,23 @@
       "category_hinglish": "Sports"
     },
     {
+      "id": "3864db31e5840862",
+      "title": "Rs 10,000 Tickets, 5,000-Seat Venues, 15% Growth: Industry Insiders Decode India’s Stand-Up Boom | Exclusiv",
+      "summary": "From 200-seat clubs to 5,000-seater venues and Rs 10,000 tickets, Indian stand-up comedy is now big business. Here’s how the industry grew and what drives its economics.",
+      "category": "Entertainment",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/09/standup-2026-09-30bc98852f4eb7538dc13c59373bd4f7-1200x675.jpg",
+      "source": "News18",
+      "sourceUrl": "https://www.news18.com/amp/movies/bollywood/rs-10000-tickets-5000-seat-venues-15-growth-industry-insiders-decode-indias-stand-up-boom-exclusive-10344728.html",
+      "publishedAt": "2026-09-22T03:15:34.000Z",
+      "fetchedAt": "2026-09-22T04:58:21.045Z",
+      "title_hi": "10,000 रुपये के टिकट, 5,000 सीटों वाले स्थान, 15% की वृद्धि: उद्योग के अंदरूनी सूत्रों ने भारत के स्टैंड-अप बूम को समझा | एक्सक्लूसिव",
+      "summary_hi": "200 सीटों वाले क्लबों से लेकर 5,000 सीटों वाले स्थानों और 10,000 रुपये के टिकटों तक, भारतीय स्टैंड-अप कॉमेडी अब बड़ा व्यवसाय है। यहां बताया गया है कि उद्योग कैसे विकसित हुआ और इसके अर्थशास्त्र को क्या संचालित करता है।",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "10,000 rupaye ke tikat, 5,000 siton vale sthan, 15% ki vriddhi: udyoga ke andaruni sutron ne bharata ke stainda-apa buma ko samajha | eksaklusiva",
+      "summary_hinglish": "200 siton vale klabon se lekara 5,000 siton vale sthanon aura 10,000 rupaye ke tikaton tak, bharatiya stainda-apa komedi aba badaा vyavasaya hai। yahan bataya gaya hai ki udyoga kaise vikasita huaa aura isake arthashastra ko kya sanchalita karata hai।",
+      "category_hinglish": "Entertainment"
+    },
+    {
       "id": "0a0f57163f57c5fa",
       "title": "Starbucks to establish its first GCC in India at Chennai - People Matters",
       "summary": "Starbucks will establish its first Global Capability Centre in India in Chennai, creating 800 technology jobs and strengthening Tamil Nadu’s position as a fast-growing GCC destination.",
@@ -88,20 +156,20 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "100b3302a5c4ec7f",
-      "title": "IMFL worth Rs 1.2cr being smuggled to dry Bihar seized, 5 held",
-      "summary": "Chandauli police busted an interstate liquor smuggling gang, arrested five members and seized 775 cartons of Indian-made foreign liquor worth Rs 1.2 crore during a joint operation by Alinagar police, SWAT and the surveillance team. The liquor, measuring 6,935 litres, was being transported to Bihar for sale at higher rates.",
+      "id": "591919cb3dc464af",
+      "title": "Disha Salian probe rekindles hope in Bihar for fresh look at Sushant death",
+      "summary": "The Bombay High Court’s order directing a fresh CBI probe into the death of actor Sushant Singh Rajput’s former manager Disha Salian has rekindled hopes in Bihar that the circumstances surrounding the two deaths could be examined afresh.",
       "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134396759,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "image": "https://static.toiimg.com/thumb/msid-134396138,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/varanasi/imfl-worth-rs-1-2cr-being-smuggled-to-dry-bihar-seized-5-held/articleshow/134396760.cms",
-      "publishedAt": "2026-09-21T18:46:00.000Z",
-      "fetchedAt": "2026-09-21T21:36:27.393Z",
-      "title_hi": "बिहार में तस्करी के लिए ले जाई जा रही 1.2 करोड़ रुपये की आईएमएफएल जब्त, 5 गिरफ्तार",
-      "summary_hi": "चंदौली पुलिस ने अलीनगर पुलिस, स्वाट और निगरानी टीम के संयुक्त अभियान के दौरान एक अंतरराज्यीय शराब तस्करी गिरोह का भंडाफोड़ किया, पांच सदस्यों को गिरफ्तार किया और 1.2 करोड़ रुपये मूल्य की 775 कार्टन भारत निर्मित विदेशी शराब जब्त की। 6,935 लीटर की शराब को उच्च दरों पर बिक्री के लिए बिहार ले जाया जा रहा था।",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/patna/disha-salian-probe-rekindles-hope-in-bihar-for-fresh-look-at-sushant-death/articleshow/134396139.cms",
+      "publishedAt": "2026-09-21T18:15:00.000Z",
+      "fetchedAt": "2026-09-22T01:17:47.910Z",
+      "title_hi": "दिशा सालियान की जांच से बिहार में सुशांत की मौत पर नए सिरे से नजर डालने की उम्मीद जगी है",
+      "summary_hi": "अभिनेता सुशांत सिंह राजपूत की पूर्व मैनेजर दिशा सालियान की मौत की नए सिरे से सीबीआई जांच का निर्देश देने वाले बॉम्बे हाई कोर्ट के आदेश ने बिहार में उम्मीद जगा दी है कि दोनों मौतों के आसपास की परिस्थितियों की नए सिरे से जांच की जा सकती है।",
       "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "bihara men taskari ke lie le jaee ja rahi 1.2 karoda rupaye ki aaeeemaephaela jabt, 5 giraphtara",
-      "summary_hinglish": "chandauli pulisa ne alinagara pulis, svata aura nigarani tima ke sanyukta abhiyana ke daurana eka antararajyiya sharaba taskari giroha ka bhandaphoda kiy, pancha sadasyon ko giraphtara kiya aura 1.2 karoda rupaye mulya ki 775 kartana bharata nirmita videshi sharaba jabta ki। 6,935 litara ki sharaba ko uchcha daron para bikri ke lie bihara le jaya ja raha tha।",
+      "title_hinglish": "disha saliyana ki jancha se bihara men sushanta ki mauta para nae sire se najara dalane ki ummida jagi hai",
+      "summary_hinglish": "abhineta sushanta sinha rajaputa ki purva mainejara disha saliyana ki mauta ki nae sire se sibiaaee jancha ka nirdesha dene vale bombe haee korta ke aadesha ne bihara men ummida jaga di hai ki donon mauton ke aasapasa ki paristhitiyon ki nae sire se jancha ki ja sakati hai।",
       "category_hinglish": "Crime aur Breaking News"
     },
     {
@@ -139,6 +207,23 @@
       "category_hinglish": "Sports"
     },
     {
+      "id": "0b1680d7a3a3331f",
+      "title": "'I never imagined…': Bihar-born Japan cricketer Abhishek Anand on historic India clash",
+      "summary": "Bihar-born cricketer Abhishek Anand will represent Japan against India in a historic T20I, capping his journey from playing cricket in Bihar to earning a place in Japan’s national team.",
+      "category": "Sports",
+      "image": "https://cdn1.wionews.com/prod/wion/images/2026/20260921/image-1790010124927.webp?imwidth=1200&imheight=900",
+      "source": "WION",
+      "sourceUrl": "https://www.wionews.com/sports/i-never-imagined-bihar-born-japan-cricketer-abhishek-anand-on-historic-india-clash-1790009752410",
+      "publishedAt": "2026-09-21T17:52:00.000Z",
+      "fetchedAt": "2026-09-21T18:49:23.696Z",
+      "title_hi": "'मैंने कभी सोचा नहीं था...': ऐतिहासिक भारत मुकाबले पर बिहार में जन्मे जापान क्रिकेटर अभिषेक आनंद",
+      "summary_hi": "बिहार में जन्मे क्रिकेटर अभिषेक आनंद एक ऐतिहासिक T20I में भारत के खिलाफ जापान का प्रतिनिधित्व करेंगे, जिसमें बिहार में क्रिकेट खेलने से लेकर जापान की राष्ट्रीय टीम में जगह बनाने तक का सफर शामिल होगा।",
+      "category_hi": "खेल",
+      "category_hinglish": "Sports",
+      "title_hinglish": "'mainne kabhi socha nahin th...': aitihasika bharata mukabale para bihara men janme japana kriketara abhisheka aananda",
+      "summary_hinglish": "bihara men janme kriketara abhisheka aananda eka aitihasika T20I men bharata ke khilapha japana ka pratinidhitva karenge, jisamen bihara men kriketa khelane se lekara japana ki rashtriya tima men jagaha banane taka ka saphara shamila hoga।"
+    },
+    {
       "id": "fff61b76fee30691",
       "title": "CTV in India: 15 things every marketer needs to know about the next phase of television",
       "summary": "India’s CTV ecosystem is rapidly scaling to an estimated 207 million viewers, expanding beyond metros while combining big-screen co-viewing, premium audiences, addressability and growing advertising opportunities.",
@@ -154,23 +239,6 @@
       "title_hinglish": "bharata men sitivi: telivijana ke agale charana ke bare men 15 baten jo pratyeka vipanaka ko janana aavashyaka hai",
       "summary_hinglish": "bharata ka sitivi ikosistama teji se anumanita 207 miliyana darshakon taka pahuncha raha hai, jo badaे skrina para saha-darshan, primiyama darshakon, edresebiliti aura badhate vijnyapana avasaron ke sanyojana ke satha mahanagaron se aage badha raha hai।",
       "category_hinglish": "Entertainment"
-    },
-    {
-      "id": "591919cb3dc464af",
-      "title": "Disha Salian probe rekindles hope in Bihar for fresh look at Sushant death",
-      "summary": "The Bombay High Court’s order directing a fresh CBI probe into the death of actor Sushant Singh Rajput’s former manager Disha Salian has rekindled hopes in Bihar that the circumstances surrounding the two deaths could be examined afresh.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134396138,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/patna/disha-salian-probe-rekindles-hope-in-bihar-for-fresh-look-at-sushant-death/articleshow/134396139.cms",
-      "publishedAt": "2026-09-21T18:15:00.000Z",
-      "fetchedAt": "2026-09-22T01:17:47.910Z",
-      "title_hi": "दिशा सालियान की जांच से बिहार में सुशांत की मौत पर नए सिरे से नजर डालने की उम्मीद जगी है",
-      "summary_hi": "अभिनेता सुशांत सिंह राजपूत की पूर्व मैनेजर दिशा सालियान की मौत की नए सिरे से सीबीआई जांच का निर्देश देने वाले बॉम्बे हाई कोर्ट के आदेश ने बिहार में उम्मीद जगा दी है कि दोनों मौतों के आसपास की परिस्थितियों की नए सिरे से जांच की जा सकती है।",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "disha saliyana ki jancha se bihara men sushanta ki mauta para nae sire se najara dalane ki ummida jagi hai",
-      "summary_hinglish": "abhineta sushanta sinha rajaputa ki purva mainejara disha saliyana ki mauta ki nae sire se sibiaaee jancha ka nirdesha dene vale bombe haee korta ke aadesha ne bihara men ummida jaga di hai ki donon mauton ke aasapasa ki paristhitiyon ki nae sire se jancha ki ja sakati hai।",
-      "category_hinglish": "Crime aur Breaking News"
     },
     {
       "id": "40201dbc3296a848",
@@ -190,6 +258,23 @@
       "category_hinglish": "Politics aur Government"
     },
     {
+      "id": "6d658e8a4146ec59",
+      "title": "Bihar: Jamui molestation case sparks political row; three arrested (Round up)",
+      "summary": "Patna, Sep 21 (IANS) A viral video showing the alleged harassment of two minor students, including a girl, in Bihar’s Jamui district has triggered a political confrontation, with Opposition leaders questioning the state’s law-and-order situation and the ruling alliance defending the administration’s response.",
+      "category": "Politics & Government",
+      "image": "https://d2lnbwhcsmj8tp.cloudfront.net/ianslive_watermark/202609213949611.jpg",
+      "source": "IANS LIVE",
+      "sourceUrl": "https://ianslive.in/jamui-student-molestation-case-triggers-political-row-three-arrested-round-up--20260921230711",
+      "publishedAt": "2026-09-21T17:43:00.000Z",
+      "fetchedAt": "2026-09-21T18:49:22.098Z",
+      "title_hi": "बिहार: जमुई छेड़छाड़ मामले से राजनीतिक विवाद गरमा गया; तीन गिरफ्तार (राउंड अप)",
+      "summary_hi": "पटना, 21 सितंबर (आईएएनएस) बिहार के जमुई जिले में एक लड़की सहित दो नाबालिग छात्रों के कथित उत्पीड़न को दिखाने वाले एक वायरल वीडियो ने राजनीतिक टकराव पैदा कर दिया है, विपक्षी नेताओं ने राज्य की कानून-व्यवस्था की स्थिति पर सवाल उठाया है और सत्तारूढ़ गठबंधन प्रशासन की प्रतिक्रिया का बचाव कर रहा है।",
+      "category_hi": "राजनीति और सरकार",
+      "category_hinglish": "Politics aur Government",
+      "title_hinglish": "bihar: jamuee chhedachhada mamale se rajanitika vivada garama gay; tina giraphtara (raunda apa)",
+      "summary_hinglish": "patan, 21 sitanbara (aaeeeenaesa) bihara ke jamuee jile men eka ladaki sahita do nabaliga chhatron ke kathita utpidana ko dikhane vale eka vayarala vidiyo ne rajanitika takarava paida kara diya hai, vipakshi netaon ne rajya ki kanuna-vyavastha ki sthiti para savala uthaya hai aura sattarudha gathabandhana prashasana ki pratikriya ka bachava kara raha hai।"
+    },
+    {
       "id": "42875615bc717bc4",
       "title": "‘Focus on possible medals’: India rowing coach defends last-minute Asian Games changes",
       "summary": "There is disenchantment among rowers at the Asian Games over last-minute changes in competition entries, but the head coach and the president of the Rowing Federation of India have said the decisions were made due to a curtailed programme and with the best chances of winning “big medals” in mind.",
@@ -205,23 +290,6 @@
       "title_hinglish": "'sanbhavita padakon para dhyana den': bharata ke roinga kocha ne aakhiri minata men eshiyaee khelon men badalava ka bachava kiya",
       "summary_hinglish": "eshiyaee khelon men pratispardha pravishtiyon men aakhiri minata men badalava se navikon men nirasha hai, lekina mukhya kocha aura bharatiya roinga phedareshana ke adhyaksha ne kaha hai ki karyakrama men katauti ke karana aura \"badaे padaka\" jitane ki sarvottama sanbhavanaon ko dhyana men rakhate hue nirnaya lie gae hain।",
       "category_hinglish": "Sports"
-    },
-    {
-      "id": "0b1680d7a3a3331f",
-      "title": "'I never imagined…': Bihar-born Japan cricketer Abhishek Anand on historic India clash",
-      "summary": "Bihar-born cricketer Abhishek Anand will represent Japan against India in a historic T20I, capping his journey from playing cricket in Bihar to earning a place in Japan’s national team.",
-      "category": "Sports",
-      "image": "https://cdn1.wionews.com/prod/wion/images/2026/20260921/image-1790010124927.webp?imwidth=1200&imheight=900",
-      "source": "WION",
-      "sourceUrl": "https://www.wionews.com/sports/i-never-imagined-bihar-born-japan-cricketer-abhishek-anand-on-historic-india-clash-1790009752410",
-      "publishedAt": "2026-09-21T17:52:00.000Z",
-      "fetchedAt": "2026-09-21T18:49:23.696Z",
-      "title_hi": "'मैंने कभी सोचा नहीं था...': ऐतिहासिक भारत मुकाबले पर बिहार में जन्मे जापान क्रिकेटर अभिषेक आनंद",
-      "summary_hi": "बिहार में जन्मे क्रिकेटर अभिषेक आनंद एक ऐतिहासिक T20I में भारत के खिलाफ जापान का प्रतिनिधित्व करेंगे, जिसमें बिहार में क्रिकेट खेलने से लेकर जापान की राष्ट्रीय टीम में जगह बनाने तक का सफर शामिल होगा।",
-      "category_hi": "खेल",
-      "category_hinglish": "Sports",
-      "title_hinglish": "'mainne kabhi socha nahin th...': aitihasika bharata mukabale para bihara men janme japana kriketara abhisheka aananda",
-      "summary_hinglish": "bihara men janme kriketara abhisheka aananda eka aitihasika T20I men bharata ke khilapha japana ka pratinidhitva karenge, jisamen bihara men kriketa khelane se lekara japana ki rashtriya tima men jagaha banane taka ka saphara shamila hoga।"
     },
     {
       "id": "f530595bd775d3a7",
@@ -258,21 +326,21 @@
       "category_hinglish": "Business aur Finance"
     },
     {
-      "id": "6d658e8a4146ec59",
-      "title": "Bihar: Jamui molestation case sparks political row; three arrested (Round up)",
-      "summary": "Patna, Sep 21 (IANS) A viral video showing the alleged harassment of two minor students, including a girl, in Bihar’s Jamui district has triggered a political confrontation, with Opposition leaders questioning the state’s law-and-order situation and the ruling alliance defending the administration’s response.",
+      "id": "eb59392ac3150a01",
+      "title": "‘Recall Bihar before 2005’, JD(U) state chief says on Jamui harassment row; RJD alleges ‘goonda raj’ | India News",
+      "summary": "Kushwaha said the government and administration were looking into the matter and assured that those responsible would be arrested at the earliest. | India News",
       "category": "Politics & Government",
-      "image": "https://d2lnbwhcsmj8tp.cloudfront.net/ianslive_watermark/202609213949611.jpg",
-      "source": "IANS LIVE",
-      "sourceUrl": "https://ianslive.in/jamui-student-molestation-case-triggers-political-row-three-arrested-round-up--20260921230711",
-      "publishedAt": "2026-09-21T17:43:00.000Z",
-      "fetchedAt": "2026-09-21T18:49:22.098Z",
-      "title_hi": "बिहार: जमुई छेड़छाड़ मामले से राजनीतिक विवाद गरमा गया; तीन गिरफ्तार (राउंड अप)",
-      "summary_hi": "पटना, 21 सितंबर (आईएएनएस) बिहार के जमुई जिले में एक लड़की सहित दो नाबालिग छात्रों के कथित उत्पीड़न को दिखाने वाले एक वायरल वीडियो ने राजनीतिक टकराव पैदा कर दिया है, विपक्षी नेताओं ने राज्य की कानून-व्यवस्था की स्थिति पर सवाल उठाया है और सत्तारूढ़ गठबंधन प्रशासन की प्रतिक्रिया का बचाव कर रहा है।",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/21/1600x900/logo/hjj_1790009657171_cT1H_1790009667071_cUb0_879788fc-3841-48dd-99ec-6505494bcede_SZhI.jpg",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/recall-bihar-before-2005-jdu-state-chief-umesh-singh-kushwaha-jamui-harassment-row-congress-rjd-allege-goonda-raj-101790003810456.html",
+      "publishedAt": "2026-09-21T16:56:07.000Z",
+      "fetchedAt": "2026-09-22T03:47:37.072Z",
+      "title_hi": "जमुई उत्पीड़न विवाद पर जदयू के राज्य प्रमुख ने कहा, '2005 से पहले के बिहार को याद करें'; राजद ने लगाया 'गुंडा राज' का आरोप | भारत समाचार",
+      "summary_hi": "कुशवाह ने कहा कि सरकार और प्रशासन इस मामले को देख रहा है और आश्वासन दिया है कि जिम्मेदार लोगों को जल्द से जल्द गिरफ्तार किया जाएगा। | भारत समाचार",
       "category_hi": "राजनीति और सरकार",
-      "category_hinglish": "Politics aur Government",
-      "title_hinglish": "bihar: jamuee chhedachhada mamale se rajanitika vivada garama gay; tina giraphtara (raunda apa)",
-      "summary_hinglish": "patan, 21 sitanbara (aaeeeenaesa) bihara ke jamuee jile men eka ladaki sahita do nabaliga chhatron ke kathita utpidana ko dikhane vale eka vayarala vidiyo ne rajanitika takarava paida kara diya hai, vipakshi netaon ne rajya ki kanuna-vyavastha ki sthiti para savala uthaya hai aura sattarudha gathabandhana prashasana ki pratikriya ka bachava kara raha hai।"
+      "title_hinglish": "jamuee utpidana vivada para jadayu ke rajya pramukha ne kah, '2005 se pahale ke bihara ko yada karen'; rajada ne lagaya 'gunda raja' ka aaropa | bharata samachara",
+      "summary_hinglish": "kushavaha ne kaha ki sarakara aura prashasana isa mamale ko dekha raha hai aura aashvasana diya hai ki jimmedara logon ko jalda se jalda giraphtara kiya jaega। | bharata samachara",
+      "category_hinglish": "Politics aur Government"
     },
     {
       "id": "50ab221c12133f8a",
@@ -309,6 +377,23 @@
       "category_hinglish": "Entertainment"
     },
     {
+      "id": "74b774a2de8b0340",
+      "title": "I never imagined I’d get the chance to play against...: Bihar-born Japans cricketer Abhishek Anand on Indias historic clash",
+      "summary": "Ahead of India’s historic clash against Japan, Bihar-born cricketer Abhishek Anand finds himself at the centre of a remarkable journey, from IIT Kanpur to representing Japan’s national cricket team.",
+      "category": "Sports",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTNiOWU5MjQwLWI1ZDctMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
+      "source": "The Tribune",
+      "sourceUrl": "https://www.tribuneindia.com/news/sports/i-never-imagined-id-get-the-chance-to-play-against-bihar-born-japans-cricketer-abhishek-anand-on-indias-historic-clash/",
+      "publishedAt": "2026-09-21T16:12:18.000Z",
+      "fetchedAt": "2026-09-21T16:18:54.501Z",
+      "title_hi": "मैंने कभी नहीं सोचा था कि मुझे इसके खिलाफ खेलने का मौका मिलेगा...: भारत के ऐतिहासिक मुकाबले पर बिहार में जन्मे जापानी क्रिकेटर अभिषेक आनंद",
+      "summary_hi": "जापान के खिलाफ भारत की ऐतिहासिक भिड़ंत से पहले, बिहार में जन्मे क्रिकेटर अभिषेक आनंद खुद को आईआईटी कानपुर से जापान की राष्ट्रीय क्रिकेट टीम का प्रतिनिधित्व करने तक की एक उल्लेखनीय यात्रा के केंद्र में पाते हैं।",
+      "category_hi": "खेल",
+      "title_hinglish": "mainne kabhi nahin socha tha ki mujhe isake khilapha khelane ka mauka mileg...: bharata ke aitihasika mukabale para bihara men janme japani kriketara abhisheka aananda",
+      "summary_hinglish": "japana ke khilapha bharata ki aitihasika bhidanta se pahale, bihara men janme kriketara abhisheka aananda khuda ko aaeeaaeeti kanapura se japana ki rashtriya kriketa tima ka pratinidhitva karane taka ki eka ullekhaniya yatra ke kendra men pate hain।",
+      "category_hinglish": "Sports"
+    },
+    {
       "id": "1961405a6484c0d1",
       "title": "'Mirzapur The Movie' box office collection day 18: Pankaj Tripathi film reaches Rs 315.14 cr worldwide; I",
       "summary": "'Mirzapur The Movie' saw its India net collection fall sharply on the first Monday of its third week. The film added Rs 1.75 cr on Day 18.",
@@ -324,23 +409,6 @@
       "title_hinglish": "'mirjapura da muvi' ka boksa ऑphisa kalekshana dina 18: pankaja tripathi ki philma duniya bhara men 315.14 karoda rupaye taka pahunchi; main",
       "summary_hinglish": "'mirjapura da muvi' ke tisare haphte ke pahale somavara ko bharata men neta kalekshana men bhari giravata dekhi gaee। philma ne 18ven dina 1.75 karoda rupaye kamae।",
       "category_hinglish": "Entertainment"
-    },
-    {
-      "id": "eb59392ac3150a01",
-      "title": "‘Recall Bihar before 2005’, JD(U) state chief says on Jamui harassment row; RJD alleges ‘goonda raj’ | India News",
-      "summary": "Kushwaha said the government and administration were looking into the matter and assured that those responsible would be arrested at the earliest. | India News",
-      "category": "Politics & Government",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/21/1600x900/logo/hjj_1790009657171_cT1H_1790009667071_cUb0_879788fc-3841-48dd-99ec-6505494bcede_SZhI.jpg",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/india-news/recall-bihar-before-2005-jdu-state-chief-umesh-singh-kushwaha-jamui-harassment-row-congress-rjd-allege-goonda-raj-101790003810456.html",
-      "publishedAt": "2026-09-21T16:56:07.000Z",
-      "fetchedAt": "2026-09-22T03:47:37.072Z",
-      "title_hi": "जमुई उत्पीड़न विवाद पर जदयू के राज्य प्रमुख ने कहा, '2005 से पहले के बिहार को याद करें'; राजद ने लगाया 'गुंडा राज' का आरोप | भारत समाचार",
-      "summary_hi": "कुशवाह ने कहा कि सरकार और प्रशासन इस मामले को देख रहा है और आश्वासन दिया है कि जिम्मेदार लोगों को जल्द से जल्द गिरफ्तार किया जाएगा। | भारत समाचार",
-      "category_hi": "राजनीति और सरकार",
-      "title_hinglish": "jamuee utpidana vivada para jadayu ke rajya pramukha ne kah, '2005 se pahale ke bihara ko yada karen'; rajada ne lagaya 'gunda raja' ka aaropa | bharata samachara",
-      "summary_hinglish": "kushavaha ne kaha ki sarakara aura prashasana isa mamale ko dekha raha hai aura aashvasana diya hai ki jimmedara logon ko jalda se jalda giraphtara kiya jaega। | bharata samachara",
-      "category_hinglish": "Politics aur Government"
     },
     {
       "id": "25f71d0fd13830b3",
@@ -360,6 +428,23 @@
       "category_hinglish": "Technology"
     },
     {
+      "id": "c107348ca216c765",
+      "title": "968 police stations in Bihar now linked to CCTNS",
+      "summary": "Bihar Police has brought 968 police stations and outposts under the Crime and Criminal Tracking Network and Systems (CCTNS), with efforts under way to extend the system to the remaining units, ADG (law and order) K S Anupam said on Monday.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134393025,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/patna/968-police-stations-in-bihar-now-linked-to-cctns/articleshow/134393026.cms",
+      "publishedAt": "2026-09-21T15:44:00.000Z",
+      "fetchedAt": "2026-09-21T15:58:55.265Z",
+      "title_hi": "बिहार के 968 थाने अब सीसीटीएनएस से जुड़ गये हैं",
+      "summary_hi": "एडीजी (कानून एवं व्यवस्था) केएस अनुपम ने सोमवार को कहा कि बिहार पुलिस ने 968 पुलिस स्टेशनों और चौकियों को अपराध और आपराधिक ट्रैकिंग नेटवर्क और सिस्टम (सीसीटीएनएस) के तहत लाया है, इस प्रणाली को शेष इकाइयों तक विस्तारित करने के प्रयास चल रहे हैं।",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "bihara ke 968 thane aba sisitienaesa se juda gaye hain",
+      "summary_hinglish": "ediji (kanuna evan vyavastha) keesa anupama ne somavara ko kaha ki bihara pulisa ne 968 pulisa steshanon aura chaukiyon ko aparadha aura aaparadhika traikinga netavarka aura sistama (sisitienaesa) ke tahata laya hai, isa pranali ko shesha ikaiyon taka vistarita karane ke prayasa chala rahe hain।",
+      "category_hinglish": "Crime aur Breaking News"
+    },
+    {
       "id": "a484c114601de5b2",
       "title": "India vs Japan live streaming: When and where to watch IND vs JPN T20I match online",
       "summary": "India vs Japan live streaming: The Indian cricket team landed in Japan following a 3-0 T20I series sweep of Afghanistan in New Delhi.",
@@ -374,23 +459,6 @@
       "category_hi": "खेल",
       "title_hinglish": "bharata banama japana laiva striming: IND banama JPN T20I maicha ऑnalaina kaba aura kahan dekhen",
       "summary_hinglish": "bharata banama japana laiva striming: bharatiya kriketa tima naee dilli men aphaganistana se ti20 sirija men 3-0 se jita ke bada japana pahunchi।",
-      "category_hinglish": "Sports"
-    },
-    {
-      "id": "74b774a2de8b0340",
-      "title": "I never imagined I’d get the chance to play against...: Bihar-born Japans cricketer Abhishek Anand on Indias historic clash",
-      "summary": "Ahead of India’s historic clash against Japan, Bihar-born cricketer Abhishek Anand finds himself at the centre of a remarkable journey, from IIT Kanpur to representing Japan’s national cricket team.",
-      "category": "Sports",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTNiOWU5MjQwLWI1ZDctMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
-      "source": "The Tribune",
-      "sourceUrl": "https://www.tribuneindia.com/news/sports/i-never-imagined-id-get-the-chance-to-play-against-bihar-born-japans-cricketer-abhishek-anand-on-indias-historic-clash/",
-      "publishedAt": "2026-09-21T16:12:18.000Z",
-      "fetchedAt": "2026-09-21T16:18:54.501Z",
-      "title_hi": "मैंने कभी नहीं सोचा था कि मुझे इसके खिलाफ खेलने का मौका मिलेगा...: भारत के ऐतिहासिक मुकाबले पर बिहार में जन्मे जापानी क्रिकेटर अभिषेक आनंद",
-      "summary_hi": "जापान के खिलाफ भारत की ऐतिहासिक भिड़ंत से पहले, बिहार में जन्मे क्रिकेटर अभिषेक आनंद खुद को आईआईटी कानपुर से जापान की राष्ट्रीय क्रिकेट टीम का प्रतिनिधित्व करने तक की एक उल्लेखनीय यात्रा के केंद्र में पाते हैं।",
-      "category_hi": "खेल",
-      "title_hinglish": "mainne kabhi nahin socha tha ki mujhe isake khilapha khelane ka mauka mileg...: bharata ke aitihasika mukabale para bihara men janme japani kriketara abhisheka aananda",
-      "summary_hinglish": "japana ke khilapha bharata ki aitihasika bhidanta se pahale, bihara men janme kriketara abhisheka aananda khuda ko aaeeaaeeti kanapura se japana ki rashtriya kriketa tima ka pratinidhitva karane taka ki eka ullekhaniya yatra ke kendra men pate hain।",
       "category_hinglish": "Sports"
     },
     {
@@ -428,20 +496,20 @@
       "category_hinglish": "Politics aur Government"
     },
     {
-      "id": "c107348ca216c765",
-      "title": "968 police stations in Bihar now linked to CCTNS",
-      "summary": "Bihar Police has brought 968 police stations and outposts under the Crime and Criminal Tracking Network and Systems (CCTNS), with efforts under way to extend the system to the remaining units, ADG (law and order) K S Anupam said on Monday.",
+      "id": "6957c6b60619e2de",
+      "title": "Shots fired fired at 4 returning from court appearance in Gohana",
+      "summary": "Six people travelling in a second-hand bulletproof Scorpio escaped unhurt after eight-nine men in two vehicles allegedly intercepted their vehicle and opened fire near Nagar village on Sonipat Road on Monday, police said.",
       "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134393025,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "image": "https://static.toiimg.com/thumb/msid-134392173,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/patna/968-police-stations-in-bihar-now-linked-to-cctns/articleshow/134393026.cms",
-      "publishedAt": "2026-09-21T15:44:00.000Z",
-      "fetchedAt": "2026-09-21T15:58:55.265Z",
-      "title_hi": "बिहार के 968 थाने अब सीसीटीएनएस से जुड़ गये हैं",
-      "summary_hi": "एडीजी (कानून एवं व्यवस्था) केएस अनुपम ने सोमवार को कहा कि बिहार पुलिस ने 968 पुलिस स्टेशनों और चौकियों को अपराध और आपराधिक ट्रैकिंग नेटवर्क और सिस्टम (सीसीटीएनएस) के तहत लाया है, इस प्रणाली को शेष इकाइयों तक विस्तारित करने के प्रयास चल रहे हैं।",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/chandigarh/shots-fired-fired-at-4-returning-from-court-appearance-in-gohana/articleshow/134391390.cms",
+      "publishedAt": "2026-09-21T13:54:00.000Z",
+      "fetchedAt": "2026-09-22T04:58:34.877Z",
+      "title_hi": "गोहाना में कोर्ट में पेशी से लौट रहे 4 लोगों पर गोलियां चलाई गईं",
+      "summary_hi": "पुलिस ने कहा कि सोमवार को सोनीपत रोड पर नगर गांव के पास दो वाहनों में सवार आठ-नौ लोगों ने कथित तौर पर उनके वाहन को रोका और गोलीबारी की, जिसके बाद सेकेंड-हैंड बुलेटप्रूफ स्कॉर्पियो में यात्रा कर रहे छह लोग सुरक्षित बच गए।",
       "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "bihara ke 968 thane aba sisitienaesa se juda gaye hain",
-      "summary_hinglish": "ediji (kanuna evan vyavastha) keesa anupama ne somavara ko kaha ki bihara pulisa ne 968 pulisa steshanon aura chaukiyon ko aparadha aura aaparadhika traikinga netavarka aura sistama (sisitienaesa) ke tahata laya hai, isa pranali ko shesha ikaiyon taka vistarita karane ke prayasa chala rahe hain।",
+      "title_hinglish": "gohana men korta men peshi se lauta rahe 4 logon para goliyan chalaee gaeen",
+      "summary_hinglish": "pulisa ne kaha ki somavara ko sonipata roda para nagara ganva ke pasa do vahanon men savara aatha-nau logon ne kathita taura para unake vahana ko roka aura golibari ki, jisake bada sekenda-hainda buletaprupha skorpiyo men yatra kara rahe chhaha loga surakshita bacha gae।",
       "category_hinglish": "Crime aur Breaking News"
     },
     {
@@ -479,6 +547,23 @@
       "category_hinglish": "Politics aur Government"
     },
     {
+      "id": "7ed77ea0d814ed1e",
+      "title": "One Nation One Election: Pros And Cons",
+      "summary": "One Nation, One Election promises policy continuity, lower costs and stronger governance, but poses challenges to federalism, State mandates and political stability.",
+      "category": "Politics & Government",
+      "image": "https://media.assettype.com/freepressjournal/2026-09-21/il0e06qd/ram-gandhi.jpg",
+      "source": "Free Press Journal",
+      "sourceUrl": "https://www.freepressjournal.in/india/one-nation-one-election-pros-and-cons",
+      "publishedAt": "2026-09-21T12:02:54.000Z",
+      "fetchedAt": "2026-09-22T04:58:33.805Z",
+      "title_hi": "एक राष्ट्र एक चुनाव: पक्ष और विपक्ष",
+      "summary_hi": "एक राष्ट्र, एक चुनाव नीति की निरंतरता, कम लागत और मजबूत शासन का वादा करता है, लेकिन संघवाद, राज्य के जनादेश और राजनीतिक स्थिरता के लिए चुनौतियां पेश करता है।",
+      "category_hi": "राजनीति और सरकार",
+      "title_hinglish": "eka rashtra eka chunav: paksha aura vipaksha",
+      "summary_hinglish": "eka rashtr, eka chunava niti ki nirantarat, kama lagata aura majabuta shasana ka vada karata hai, lekina sanghavad, rajya ke janadesha aura rajanitika sthirata ke lie chunautiyan pesha karata hai।",
+      "category_hinglish": "Politics aur Government"
+    },
+    {
       "id": "ae4721d54112961d",
       "title": "Disha Salian: Why a Bollywood celebrity manager's six-year-old death case has been reopened",
       "summary": "Disha Salian's father insists her death was not suicide or an accident, but that she was gang-raped and murdered.",
@@ -494,23 +579,6 @@
       "title_hinglish": "disha saliyan: eka bolivuda selibriti mainejara ki chhaha sala purani mauta ka mamala phira se kyon khola gaya hai?",
       "summary_hinglish": "disha saliyana ke pita ka kahana hai ki unaki mauta aatmahatya ya durghatana nahin thi, balki unake satha samuhika balatkara kiya gaya tha aura unaki hatya ki gaee thi।",
       "category_hinglish": "Crime aur Breaking News"
-    },
-    {
-      "id": "7fedff3004ecf69e",
-      "title": "Bihar-born cricketer now making his mark for Japan",
-      "summary": "IIT graduate Abhishek Anand’s inspiring journey from Patna’s cricket grounds to representing Japan in T20Is and chasing his international dream.",
-      "category": "Sports",
-      "image": "https://media.assettype.com/gulfnews%2F2026-09-21%2Fa0n0nd8i%2FAnand-japan.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "source": "gulfnews.com",
-      "sourceUrl": "https://gulfnews.com/amp/story/sport%2Fcricket%2Fbihar-born-cricketer-now-making-his-mark-for-japan-1.500682456",
-      "publishedAt": "2026-09-21T11:49:01.000Z",
-      "fetchedAt": "2026-09-21T14:00:32.790Z",
-      "title_hi": "बिहार में जन्मे क्रिकेटर अब जापान के लिए अपनी पहचान बना रहे हैं",
-      "summary_hi": "आईआईटी स्नातक अभिषेक आनंद की पटना के क्रिकेट मैदान से टी20ई में जापान का प्रतिनिधित्व करने और अपने अंतरराष्ट्रीय सपने का पीछा करने तक की प्रेरक यात्रा।",
-      "category_hi": "खेल",
-      "title_hinglish": "bihara men janme kriketara aba japana ke lie apani pahachana bana rahe hain",
-      "summary_hinglish": "aaeeaaeeti snataka abhisheka aananda ki patana ke kriketa maidana se ti20ee men japana ka pratinidhitva karane aura apane antararashtriya sapane ka pichha karane taka ki preraka yatra।",
-      "category_hinglish": "Sports"
     },
     {
       "id": "a1d5ead8e699356c",
@@ -530,6 +598,23 @@
       "category_hinglish": "Sports"
     },
     {
+      "id": "7fedff3004ecf69e",
+      "title": "Bihar-born cricketer now making his mark for Japan",
+      "summary": "IIT graduate Abhishek Anand’s inspiring journey from Patna’s cricket grounds to representing Japan in T20Is and chasing his international dream.",
+      "category": "Sports",
+      "image": "https://media.assettype.com/gulfnews%2F2026-09-21%2Fa0n0nd8i%2FAnand-japan.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "gulfnews.com",
+      "sourceUrl": "https://gulfnews.com/amp/story/sport%2Fcricket%2Fbihar-born-cricketer-now-making-his-mark-for-japan-1.500682456",
+      "publishedAt": "2026-09-21T11:49:01.000Z",
+      "fetchedAt": "2026-09-21T14:00:32.790Z",
+      "title_hi": "बिहार में जन्मे क्रिकेटर अब जापान के लिए अपनी पहचान बना रहे हैं",
+      "summary_hi": "आईआईटी स्नातक अभिषेक आनंद की पटना के क्रिकेट मैदान से टी20ई में जापान का प्रतिनिधित्व करने और अपने अंतरराष्ट्रीय सपने का पीछा करने तक की प्रेरक यात्रा।",
+      "category_hi": "खेल",
+      "title_hinglish": "bihara men janme kriketara aba japana ke lie apani pahachana bana rahe hain",
+      "summary_hinglish": "aaeeaaeeti snataka abhisheka aananda ki patana ke kriketa maidana se ti20ee men japana ka pratinidhitva karane aura apane antararashtriya sapane ka pichha karane taka ki preraka yatra।",
+      "category_hinglish": "Sports"
+    },
+    {
       "id": "32ab27888629bc3e",
       "title": "Courts must not interfere in cop probe: Supreme Court",
       "summary": "Supreme Court on Monday said investigation of a crime was the police's exclusive domain and should be left to the investigating agency's discretion, and courts should not interfere to decide when a probe should stop.",
@@ -544,23 +629,6 @@
       "category_hi": "अपराध और ब्रेकिंग न्यूज़",
       "title_hinglish": "adalaton ko pulisa jancha men hastakshepa nahin karana chahie: suprima korta",
       "summary_hinglish": "suprima korta ne somavara ko kaha ki kisi aparadha ki jancha pulisa ka vishesha kshetra hai aura ise jancha ejensi ke viveka para chhoda diya jana chahie, aura adalaton ko yaha taya karane men hastakshepa nahin karana chahie ki jancha kaba rokani chahie।",
-      "category_hinglish": "Crime aur Breaking News"
-    },
-    {
-      "id": "7afde13baf724224",
-      "title": "Shop owner held for selling stolen phones in Bhojpur",
-      "summary": "Police on Monday busted a racket involving the sale of stolen and looted phones and spare parts being operated under the guise of a phone shop at Darshan Chhapra under Udwantnagar police station area of Bhojpur district.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134388472,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/patna/shop-owner-held-for-selling-stolen-phones-in-bhojpur/articleshow/134388473.cms",
-      "publishedAt": "2026-09-21T11:29:00.000Z",
-      "fetchedAt": "2026-09-21T11:56:13.781Z",
-      "title_hi": "भोजपुर में चोरी के फोन बेचने के आरोप में दुकान मालिक गिरफ्तार",
-      "summary_hi": "भोजपुर जिले के उदवंतनगर थाना क्षेत्र के दर्शन छपरा में एक फोन दुकान की आड़ में संचालित चोरी और लूट के फोन और स्पेयर पार्ट्स की बिक्री करने वाले एक गिरोह का पुलिस ने सोमवार को भंडाफोड़ किया।",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "bhojapura men chori ke phona bechane ke aaropa men dukana malika giraphtara",
-      "summary_hinglish": "bhojapura jile ke udavantanagara thana kshetra ke darshana chhapara men eka phona dukana ki aada men sanchalita chori aura luta ke phona aura speyara partsa ki bikri karane vale eka giroha ka pulisa ne somavara ko bhandaphoda kiya।",
       "category_hinglish": "Crime aur Breaking News"
     },
     {
@@ -598,20 +666,20 @@
       "category_hinglish": "Politics aur Government"
     },
     {
-      "id": "bb884dbe9f47db86",
-      "title": "Delhi riots UAPA case: High court to hear Umar Khalid, Sharjeel Imam bail pleas on September 30",
-      "summary": "The Delhi high court on Monday listed for hearing on September 30 the bail pleas of activists Umar Khalid and Sharjeel Imam in a case under the anti-terror law UAPA over the \"larger conspiracy\" behind the February 2020 riots in northeast Delhi.",
+      "id": "7afde13baf724224",
+      "title": "Shop owner held for selling stolen phones in Bhojpur",
+      "summary": "Police on Monday busted a racket involving the sale of stolen and looted phones and spare parts being operated under the guise of a phone shop at Darshan Chhapra under Udwantnagar police station area of Bhojpur district.",
       "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134388128,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "image": "https://static.toiimg.com/thumb/msid-134388472,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/delhi/delhi-riots-uapa-case-high-court-to-hear-umar-khalid-sharjeel-imam-bail-pleas-on-september-30/articleshow/134388058.cms",
-      "publishedAt": "2026-09-21T11:15:00.000Z",
-      "fetchedAt": "2026-09-22T04:48:10.734Z",
-      "title_hi": "दिल्ली दंगा यूएपीए मामला: उच्च न्यायालय उमर खालिद, शरजील इमाम की जमानत याचिका पर 30 सितंबर को सुनवाई करेगा",
-      "summary_hi": "दिल्ली उच्च न्यायालय ने सोमवार को पूर्वोत्तर दिल्ली में फरवरी 2020 के दंगों के पीछे \"बड़ी साजिश\" को लेकर आतंकवाद विरोधी कानून यूएपीए के तहत एक मामले में कार्यकर्ता उमर खालिद और शरजील इमाम की जमानत याचिका पर 30 सितंबर को सुनवाई के लिए सूचीबद्ध किया।",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/patna/shop-owner-held-for-selling-stolen-phones-in-bhojpur/articleshow/134388473.cms",
+      "publishedAt": "2026-09-21T11:29:00.000Z",
+      "fetchedAt": "2026-09-21T11:56:13.781Z",
+      "title_hi": "भोजपुर में चोरी के फोन बेचने के आरोप में दुकान मालिक गिरफ्तार",
+      "summary_hi": "भोजपुर जिले के उदवंतनगर थाना क्षेत्र के दर्शन छपरा में एक फोन दुकान की आड़ में संचालित चोरी और लूट के फोन और स्पेयर पार्ट्स की बिक्री करने वाले एक गिरोह का पुलिस ने सोमवार को भंडाफोड़ किया।",
       "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "dilli danga yuepie mamal: uchcha nyayalaya umara khalid, sharajila imama ki jamanata yachika para 30 sitanbara ko sunavaee karega",
-      "summary_hinglish": "dilli uchcha nyayalaya ne somavara ko purvottara dilli men pharavari 2020 ke dangon ke pichhe \"badaी sajisha\" ko lekara aatankavada virodhi kanuna yuepie ke tahata eka mamale men karyakarta umara khalida aura sharajila imama ki jamanata yachika para 30 sitanbara ko sunavaee ke lie suchibaddha kiya।",
+      "title_hinglish": "bhojapura men chori ke phona bechane ke aaropa men dukana malika giraphtara",
+      "summary_hinglish": "bhojapura jile ke udavantanagara thana kshetra ke darshana chhapara men eka phona dukana ki aada men sanchalita chori aura luta ke phona aura speyara partsa ki bikri karane vale eka giroha ka pulisa ne somavara ko bhandaphoda kiya।",
       "category_hinglish": "Crime aur Breaking News"
     },
     {
@@ -649,23 +717,6 @@
       "category_hinglish": "Sports"
     },
     {
-      "id": "bb9bb204e486f4c8",
-      "title": "14yrs on, SC orders fresh probe into Dharmasthala rape-murder",
-      "summary": "Supreme Court orders Karnataka police SIT to reinvestigate 2012 Dharmasthala rape-murder of 17-year-old, citing lapses; compliance report due in 3 months.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/bengaluru/14yrs-on-sc-orders-fresh-probe-into-dharmasthala-rape-murder/articleshow/134397435.cms",
-      "publishedAt": "2026-09-21T19:54:00.000Z",
-      "fetchedAt": "2026-09-21T21:22:29.968Z",
-      "title_hi": "14 साल बाद सुप्रीम कोर्ट ने धर्मस्थल बलात्कार-हत्या मामले में नए सिरे से जांच के आदेश दिए",
-      "summary_hi": "सुप्रीम कोर्ट ने खामियों का हवाला देते हुए कर्नाटक पुलिस एसआईटी को 2012 में 17 वर्षीय धर्मस्थल बलात्कार-हत्या की फिर से जांच करने का आदेश दिया; 3 महीने में अनुपालन रिपोर्ट देनी होगी।",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "14 sala bada suprima korta ne dharmasthala balatkara-hatya mamale men nae sire se jancha ke aadesha die",
-      "summary_hinglish": "suprima korta ne khamiyon ka havala dete hue karnataka pulisa esaaaeeti ko 2012 men 17 varshiya dharmasthala balatkara-hatya ki phira se jancha karane ka aadesha diy; 3 mahine men anupalana riporta deni hogi।",
-      "category_hinglish": "Crime aur Breaking News"
-    },
-    {
       "id": "c6e1280f0a8636db",
       "title": "Bihar harassment horror: Police arrest three, launch manhunt for four others",
       "summary": "On a viral video from Jamui showing a boy being assaulted and a girl being groped, SP Vishwajeet Dayal says, \"An FIR has been registered regarding the incident of molestation and indecent behavior by anti-social elements shown in the video, and a SIT has… pic.twitter.com/1JGCjWji5M",
@@ -681,6 +732,23 @@
       "category_hinglish": "Crime aur Breaking News",
       "title_hinglish": "bihara utpidana ka aatank: pulisa ne tina ko giraphtara kiy, chara anya ki talasha jari",
       "summary_hinglish": "jamuee ke eka vayarala vidiyo para jisamen eka ladake ke satha marapita aura eka ladaki ke satha chhedachhada ki gaee hai, esapi vishvajita dayala kahate hain, \"vidiyo men dikhae gae asamajika tatvon dvara chhedachhada aura abhadra vyavahara ki ghatana ke sanbandha men eka prathamiki darja ki gaee hai, aura eka esaaaeeti ne… pic.twitter.com/1JGCjWji5M"
+    },
+    {
+      "id": "bb9bb204e486f4c8",
+      "title": "14yrs on, SC orders fresh probe into Dharmasthala rape-murder",
+      "summary": "Supreme Court orders Karnataka police SIT to reinvestigate 2012 Dharmasthala rape-murder of 17-year-old, citing lapses; compliance report due in 3 months.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/bengaluru/14yrs-on-sc-orders-fresh-probe-into-dharmasthala-rape-murder/articleshow/134397435.cms",
+      "publishedAt": "2026-09-21T19:54:00.000Z",
+      "fetchedAt": "2026-09-21T21:22:29.968Z",
+      "title_hi": "14 साल बाद सुप्रीम कोर्ट ने धर्मस्थल बलात्कार-हत्या मामले में नए सिरे से जांच के आदेश दिए",
+      "summary_hi": "सुप्रीम कोर्ट ने खामियों का हवाला देते हुए कर्नाटक पुलिस एसआईटी को 2012 में 17 वर्षीय धर्मस्थल बलात्कार-हत्या की फिर से जांच करने का आदेश दिया; 3 महीने में अनुपालन रिपोर्ट देनी होगी।",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "14 sala bada suprima korta ne dharmasthala balatkara-hatya mamale men nae sire se jancha ke aadesha die",
+      "summary_hinglish": "suprima korta ne khamiyon ka havala dete hue karnataka pulisa esaaaeeti ko 2012 men 17 varshiya dharmasthala balatkara-hatya ki phira se jancha karane ka aadesha diy; 3 mahine men anupalana riporta deni hogi।",
+      "category_hinglish": "Crime aur Breaking News"
     },
     {
       "id": "0cafd2ce9f552d59",
@@ -700,23 +768,6 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "42eca769174359e6",
-      "title": "No median cuts, surface intersections on future high-speed NH corridors: NHAI",
-      "summary": "New access-controlled high-speed national highway corridors will have no median (divider) openings and no at-grade (surface level) intersections, a move that aims at eliminating conflict points and reducing crashes.",
-      "category": "National & Trending News",
-      "image": "https://static.toiimg.com/thumb/msid-134397330,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/no-median-cuts-surface-intersections-on-future-high-speed-nh-corridors-nhai/articleshow/134397321.cms",
-      "publishedAt": "2026-09-21T19:42:00.000Z",
-      "fetchedAt": "2026-09-21T21:58:13.666Z",
-      "title_hi": "भविष्य के हाई-स्पीड एनएच कॉरिडोर पर कोई मध्य कट, सतही चौराहा नहीं: एनएचएआई",
-      "summary_hi": "नए एक्सेस-नियंत्रित हाई-स्पीड राष्ट्रीय राजमार्ग गलियारों में कोई मध्य (विभाजक) उद्घाटन नहीं होगा और कोई ग्रेड (सतह स्तर) चौराहे नहीं होंगे, एक कदम जिसका उद्देश्य संघर्ष बिंदुओं को खत्म करना और दुर्घटनाओं को कम करना है।",
-      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
-      "title_hinglish": "bhavishya ke haee-spida enaecha koridora para koee madhya kat, satahi chauraha nahin: enaechaeaaee",
-      "summary_hinglish": "nae eksesa-niyantrita haee-spida rashtriya rajamarga galiyaron men koee madhya (vibhajaka) udghatana nahin hoga aura koee greda (sataha stara) chaurahe nahin honge, eka kadama jisaka uddeshya sangharsha binduon ko khatma karana aura durghatanaon ko kama karana hai।",
-      "category_hinglish": "National aur Trending News"
-    },
-    {
       "id": "750ee8c44f16af18",
       "title": "NCW takes suo motu cognisance of Jamui harassment case, seeks immediate action",
       "summary": "NCW takes suo motu cognisance of the Jamui harassment case and directs Bihar DGP to ensure FIR, accused identification, arrests and a time-bound probe.",
@@ -732,6 +783,23 @@
       "title_hinglish": "enasidablyu ne jamuee utpidana mamale ka svat: sanjnyana liy, tatkala karravaee ki manga ki",
       "summary_hinglish": "enasidablyu ne jamuee utpidana mamale ka svat: sanjnyana liya aura bihara dijipi ko ephaaaeeaar, aaropi ki pahachan, giraphtari aura samayabaddha jancha sunishchita karane ka nirdesha diya।",
       "category_hinglish": "Crime aur Breaking News"
+    },
+    {
+      "id": "42eca769174359e6",
+      "title": "No median cuts, surface intersections on future high-speed NH corridors: NHAI",
+      "summary": "New access-controlled high-speed national highway corridors will have no median (divider) openings and no at-grade (surface level) intersections, a move that aims at eliminating conflict points and reducing crashes.",
+      "category": "National & Trending News",
+      "image": "https://static.toiimg.com/thumb/msid-134397330,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/no-median-cuts-surface-intersections-on-future-high-speed-nh-corridors-nhai/articleshow/134397321.cms",
+      "publishedAt": "2026-09-21T19:42:00.000Z",
+      "fetchedAt": "2026-09-21T21:58:13.666Z",
+      "title_hi": "भविष्य के हाई-स्पीड एनएच कॉरिडोर पर कोई मध्य कट, सतही चौराहा नहीं: एनएचएआई",
+      "summary_hi": "नए एक्सेस-नियंत्रित हाई-स्पीड राष्ट्रीय राजमार्ग गलियारों में कोई मध्य (विभाजक) उद्घाटन नहीं होगा और कोई ग्रेड (सतह स्तर) चौराहे नहीं होंगे, एक कदम जिसका उद्देश्य संघर्ष बिंदुओं को खत्म करना और दुर्घटनाओं को कम करना है।",
+      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
+      "title_hinglish": "bhavishya ke haee-spida enaecha koridora para koee madhya kat, satahi chauraha nahin: enaechaeaaee",
+      "summary_hinglish": "nae eksesa-niyantrita haee-spida rashtriya rajamarga galiyaron men koee madhya (vibhajaka) udghatana nahin hoga aura koee greda (sataha stara) chaurahe nahin honge, eka kadama jisaka uddeshya sangharsha binduon ko khatma karana aura durghatanaon ko kama karana hai।",
+      "category_hinglish": "National aur Trending News"
     },
     {
       "id": "041e49fe8b9d987a",
@@ -819,23 +887,6 @@
       "summary_hinglish": "bharata ekamatra ti20 maicha men japaniyon se bhidane ke lie puri taraha taiyara hai, yahan aapako maicha ke bare men vaha saba kuchha janana hoga jo aapako janana aavashyaka hai।"
     },
     {
-      "id": "b1db70ca1aefb359",
-      "title": "2 held with banned cough syrup in Dhubri",
-      "summary": "Two persons were arrested after the Dhubri district crime unit, with assistance from Dhubri police personnel, seized 15 bottles of suspected banned cough syrup during an operation in the Bidyapara Dabri area on Monday afternoon.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134396323,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/guwahati/2-held-with-banned-cough-syrup-in-dhubri/articleshow/134396341.cms",
-      "publishedAt": "2026-09-21T18:22:00.000Z",
-      "fetchedAt": "2026-09-22T01:56:06.423Z",
-      "title_hi": "धुबरी में प्रतिबंधित कफ सिरप के साथ 2 गिरफ्तार",
-      "summary_hi": "धुबरी जिला अपराध इकाई ने धुबरी पुलिस कर्मियों की सहायता से सोमवार दोपहर बिद्यापारा डाबरी इलाके में एक अभियान के दौरान संदिग्ध प्रतिबंधित कफ सिरप की 15 बोतलें जब्त कीं, जिसके बाद दो लोगों को गिरफ्तार किया गया।",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "dhubari men pratibandhita kapha sirapa ke satha 2 giraphtara",
-      "summary_hinglish": "dhubari jila aparadha ikaee ne dhubari pulisa karmiyon ki sahayata se somavara dopahara bidyapara dabari ilake men eka abhiyana ke daurana sandigdha pratibandhita kapha sirapa ki 15 botalen jabta kin, jisake bada do logon ko giraphtara kiya gaya।",
-      "category_hinglish": "Crime aur Breaking News"
-    },
-    {
       "id": "0db8396a3e9701d8",
       "title": "‘Patriarchy, not culture’: Rahul Gandhi demands POCSO action over mob harassment in Bihar's Jamui | India News",
       "summary": "A video, circulated widely online, showed a boy and a girl being surrounded by a group of men and harassed at an undisclosed location in Jamui.",
@@ -851,6 +902,23 @@
       "title_hinglish": "'pitrisatt, sanskriti nahin': rahula gandhi ne bihara ke jamuee men bhida utpidana para POCSO karravaee ki manga ki | bharata samachara",
       "summary_hinglish": "eka vidiyo, jo vyapaka rupa se ऑnalaina prasarita hua, jamuee men eka ajnyata sthana para eka ladake aura eka ladaki ko purushon ke eka samuha dvara ghera liya gaya aura pareshana kiya gaya।",
       "category_hinglish": "Politics aur Government"
+    },
+    {
+      "id": "b1db70ca1aefb359",
+      "title": "2 held with banned cough syrup in Dhubri",
+      "summary": "Two persons were arrested after the Dhubri district crime unit, with assistance from Dhubri police personnel, seized 15 bottles of suspected banned cough syrup during an operation in the Bidyapara Dabri area on Monday afternoon.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134396323,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/guwahati/2-held-with-banned-cough-syrup-in-dhubri/articleshow/134396341.cms",
+      "publishedAt": "2026-09-21T18:22:00.000Z",
+      "fetchedAt": "2026-09-22T01:56:06.423Z",
+      "title_hi": "धुबरी में प्रतिबंधित कफ सिरप के साथ 2 गिरफ्तार",
+      "summary_hi": "धुबरी जिला अपराध इकाई ने धुबरी पुलिस कर्मियों की सहायता से सोमवार दोपहर बिद्यापारा डाबरी इलाके में एक अभियान के दौरान संदिग्ध प्रतिबंधित कफ सिरप की 15 बोतलें जब्त कीं, जिसके बाद दो लोगों को गिरफ्तार किया गया।",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "dhubari men pratibandhita kapha sirapa ke satha 2 giraphtara",
+      "summary_hinglish": "dhubari jila aparadha ikaee ne dhubari pulisa karmiyon ki sahayata se somavara dopahara bidyapara dabari ilake men eka abhiyana ke daurana sandigdha pratibandhita kapha sirapa ki 15 botalen jabta kin, jisake bada do logon ko giraphtara kiya gaya।",
+      "category_hinglish": "Crime aur Breaking News"
     },
     {
       "id": "2b598891d669904c",
@@ -870,23 +938,6 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "ffe47aa59e2ad8d6",
-      "title": "Chess Olympiad: India's men lose to Uzbekistan, surrender sole lead",
-      "summary": "Defending champions India suffered their first defeat at the Chess Olympiad, losing 1.5-2.5 to Uzbekistan as Nihal Sarin lost to Nodirbek Yakubboev and the Uzbek team moved into sole lead",
-      "category": "Sports",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/nihal-sarin-211413310-16x9_0.jpg?VersionId=HM8DkpIhc5Z_GE.51zCWnZpyvDHxkWJi",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/sports/other-sports/story/hess-olympiad-india-vs-uzbekistan-nih-al-sarin-loss-defending-champions-2999902-2026-09-21",
-      "publishedAt": "2026-09-21T18:19:53.000Z",
-      "fetchedAt": "2026-09-21T22:55:58.525Z",
-      "title_hi": "शतरंज ओलंपियाड: भारत की टीम उज्बेकिस्तान से हारी, एकमात्र बढ़त छोड़ी",
-      "summary_hi": "गत चैंपियन भारत को शतरंज ओलंपियाड में अपनी पहली हार का सामना करना पड़ा, वह उज्बेकिस्तान से 1.5-2.5 से हार गया, क्योंकि निहाल सरीन नोदिरबेक याकूबोव से हार गए और उज़्बेक टीम एकमात्र बढ़त पर आ गई।",
-      "category_hi": "खेल",
-      "title_hinglish": "shataranja olanpiyad: bharata ki tima ujbekistana se hari, ekamatra badhata chhodaी",
-      "summary_hinglish": "gata chainpiyana bharata ko shataranja olanpiyada men apani pahali hara ka samana karana padaा, vaha ujbekistana se 1.5-2.5 se hara gay, kyonki nihala sarina nodirabeka yakubova se hara gae aura ujabeka tima ekamatra badhata para aa gaee।",
-      "category_hinglish": "Sports"
-    },
-    {
       "id": "7d483739e60778d8",
       "title": "Girl groped, boy hit as mob harasses teens in Bihar's Jamui, shocking video surfaces | India News",
       "summary": "The Jamui police confirmed that the boy and the girl seen in the video were both minors who had gone to take pictures at the site. | India News",
@@ -902,6 +953,23 @@
       "category_hinglish": "Politics aur Government",
       "title_hinglish": "bihara ke jamuee men bhida dvara kishoron ko pareshana karane para ladaki ko chhedaा gay, ladake ko mara gay, chaunkane vala vidiyo samane aaya | bharata samachara",
       "summary_hinglish": "jamuee pulisa ne pushti ki ki vidiyo men dikha raha ladaka aura ladaki donon nabaliga the jo saita para tasviren lene gae the। | bharata samachara"
+    },
+    {
+      "id": "ffe47aa59e2ad8d6",
+      "title": "Chess Olympiad: India's men lose to Uzbekistan, surrender sole lead",
+      "summary": "Defending champions India suffered their first defeat at the Chess Olympiad, losing 1.5-2.5 to Uzbekistan as Nihal Sarin lost to Nodirbek Yakubboev and the Uzbek team moved into sole lead",
+      "category": "Sports",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/nihal-sarin-211413310-16x9_0.jpg?VersionId=HM8DkpIhc5Z_GE.51zCWnZpyvDHxkWJi",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/sports/other-sports/story/hess-olympiad-india-vs-uzbekistan-nih-al-sarin-loss-defending-champions-2999902-2026-09-21",
+      "publishedAt": "2026-09-21T18:19:53.000Z",
+      "fetchedAt": "2026-09-21T22:55:58.525Z",
+      "title_hi": "शतरंज ओलंपियाड: भारत की टीम उज्बेकिस्तान से हारी, एकमात्र बढ़त छोड़ी",
+      "summary_hi": "गत चैंपियन भारत को शतरंज ओलंपियाड में अपनी पहली हार का सामना करना पड़ा, वह उज्बेकिस्तान से 1.5-2.5 से हार गया, क्योंकि निहाल सरीन नोदिरबेक याकूबोव से हार गए और उज़्बेक टीम एकमात्र बढ़त पर आ गई।",
+      "category_hi": "खेल",
+      "title_hinglish": "shataranja olanpiyad: bharata ki tima ujbekistana se hari, ekamatra badhata chhodaी",
+      "summary_hinglish": "gata chainpiyana bharata ko shataranja olanpiyada men apani pahali hara ka samana karana padaा, vaha ujbekistana se 1.5-2.5 se hara gay, kyonki nihala sarina nodirabeka yakubova se hara gae aura ujabeka tima ekamatra badhata para aa gaee।",
+      "category_hinglish": "Sports"
     },
     {
       "id": "b0878ccd63683873",
@@ -989,23 +1057,6 @@
       "category_hinglish": "National aur Trending News"
     },
     {
-      "id": "985843625b6d9ffd",
-      "title": "India joins G20 energy consensus",
-      "summary": "Washington: India has joined other G20 members in adopting four consensus outcomes covering household energy access, infrastructure approvals, water reuse and secure critical-mineral supply chains. The agreements were reached at the conclusion of the three-day G20 Energy Abundance Ministerial in Houston, Texas, according to a White House statement. Also Read…",
-      "category": "National & Trending News",
-      "image": "https://www.orissapost.com/wp-content/uploads/2026/09/G20.png",
-      "source": "orissapost.com",
-      "sourceUrl": "https://www.orissapost.com/india-joins-g20-energy-consensus/",
-      "publishedAt": "2026-09-21T17:38:00.000Z",
-      "fetchedAt": "2026-09-21T23:28:23.351Z",
-      "title_hi": "भारत G20 ऊर्जा सर्वसम्मति में शामिल हुआ",
-      "summary_hi": "वाशिंगटन: भारत घरेलू ऊर्जा पहुंच, बुनियादी ढांचे की मंजूरी, पानी का पुन: उपयोग और सुरक्षित महत्वपूर्ण-खनिज आपूर्ति श्रृंखलाओं को कवर करने वाले चार सर्वसम्मति परिणामों को अपनाने में अन्य जी20 सदस्यों में शामिल हो गया है। व्हाइट हाउस के एक बयान के अनुसार, ह्यूस्टन, टेक्सास में तीन दिवसीय जी20 ऊर्जा प्रचुरता मंत्रिस्तरीय बैठक के समापन पर ये समझौते हुए। यह भी पढ़ें…",
-      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
-      "title_hinglish": "bharata G20 oorja sarvasammati men shamila huaa",
-      "summary_hinglish": "vashingatan: bharata gharelu oorja pahunch, buniyadi dhanche ki manjuri, pani ka pun: upayoga aura surakshita mahatvapurna-khanija aapurti shrrinkhalaon ko kavara karane vale chara sarvasammati parinamon ko apanane men anya ji20 sadasyon men shamila ho gaya hai। vhaita hausa ke eka bayana ke anusar, hyustan, teksasa men tina divasiya ji20 oorja prachurata mantristariya baithaka ke samapana para ye samajhaute hue। yaha bhi padhaेn…",
-      "category_hinglish": "National aur Trending News"
-    },
-    {
       "id": "6202c7509b0cc898",
       "title": "Born in Bihar, a master’s degree from IIT Kanpur, but with cricket still in his heart, Abhishek Anand has",
       "summary": "View this post on Instagram A post shared by Utsav Singh | Japan Wala Bihari (@japan_wala_bihari)",
@@ -1021,6 +1072,23 @@
       "title_hinglish": "bihara men janme abhisheka aananda ne aaeeaaeeti kanapura se mastara digri hasila ki, lekina unake dila men abhi bhi kriketa hai",
       "summary_hinglish": "isa posta ko instagrama para dekhen utsava sinha dvara sajha ki gaee eka posta | japana vala bihari (@japan_walla_bihari)",
       "category_hinglish": "Sports"
+    },
+    {
+      "id": "985843625b6d9ffd",
+      "title": "India joins G20 energy consensus",
+      "summary": "Washington: India has joined other G20 members in adopting four consensus outcomes covering household energy access, infrastructure approvals, water reuse and secure critical-mineral supply chains. The agreements were reached at the conclusion of the three-day G20 Energy Abundance Ministerial in Houston, Texas, according to a White House statement. Also Read…",
+      "category": "National & Trending News",
+      "image": "https://www.orissapost.com/wp-content/uploads/2026/09/G20.png",
+      "source": "orissapost.com",
+      "sourceUrl": "https://www.orissapost.com/india-joins-g20-energy-consensus/",
+      "publishedAt": "2026-09-21T17:38:00.000Z",
+      "fetchedAt": "2026-09-21T23:28:23.351Z",
+      "title_hi": "भारत G20 ऊर्जा सर्वसम्मति में शामिल हुआ",
+      "summary_hi": "वाशिंगटन: भारत घरेलू ऊर्जा पहुंच, बुनियादी ढांचे की मंजूरी, पानी का पुन: उपयोग और सुरक्षित महत्वपूर्ण-खनिज आपूर्ति श्रृंखलाओं को कवर करने वाले चार सर्वसम्मति परिणामों को अपनाने में अन्य जी20 सदस्यों में शामिल हो गया है। व्हाइट हाउस के एक बयान के अनुसार, ह्यूस्टन, टेक्सास में तीन दिवसीय जी20 ऊर्जा प्रचुरता मंत्रिस्तरीय बैठक के समापन पर ये समझौते हुए। यह भी पढ़ें…",
+      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
+      "title_hinglish": "bharata G20 oorja sarvasammati men shamila huaa",
+      "summary_hinglish": "vashingatan: bharata gharelu oorja pahunch, buniyadi dhanche ki manjuri, pani ka pun: upayoga aura surakshita mahatvapurna-khanija aapurti shrrinkhalaon ko kavara karane vale chara sarvasammati parinamon ko apanane men anya ji20 sadasyon men shamila ho gaya hai। vhaita hausa ke eka bayana ke anusar, hyustan, teksasa men tina divasiya ji20 oorja prachurata mantristariya baithaka ke samapana para ye samajhaute hue। yaha bhi padhaेn…",
+      "category_hinglish": "National aur Trending News"
     },
     {
       "id": "908ae67443aa32ae",
@@ -1040,23 +1108,6 @@
       "category_hinglish": "National aur Trending News"
     },
     {
-      "id": "4fbb6d3c3e98acca",
-      "title": "Actor arrested for snatching gold chain from elderly woman in Mumbai's Santacruz",
-      "summary": "The city police arrested an actor for allegedly snatching a gold chain from an elderly woman in the Santacruz area after falling into financial distress, an official said on Monday.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134394286,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/mumbai/actor-arrested-for-snatching-gold-chain-from-elderly-woman-in-mumbais-santacruz/articleshow/134393581.cms",
-      "publishedAt": "2026-09-21T16:59:00.000Z",
-      "fetchedAt": "2026-09-21T20:27:09.913Z",
-      "title_hi": "मुंबई के सांताक्रूज़ में बुजुर्ग महिला से सोने की चेन छीनने के आरोप में अभिनेता गिरफ्तार",
-      "summary_hi": "एक अधिकारी ने सोमवार को कहा कि शहर की पुलिस ने वित्तीय संकट में फंसने के बाद सांताक्रूज इलाके में एक बुजुर्ग महिला से सोने की चेन छीनने के आरोप में एक अभिनेता को गिरफ्तार किया है।",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "munbaee ke santakruja men bujurga mahila se sone ki chena chhinane ke aaropa men abhineta giraphtara",
-      "summary_hinglish": "eka adhikari ne somavara ko kaha ki shahara ki pulisa ne vittiya sankata men phansane ke bada santakruja ilake men eka bujurga mahila se sone ki chena chhinane ke aaropa men eka abhineta ko giraphtara kiya hai।",
-      "category_hinglish": "Crime aur Breaking News"
-    },
-    {
       "id": "714d069a9c3515ab",
       "title": "Chess Olympiad Round 5: Praggnanandhaa outwits Dutch No. 1 Anish Giri for first win; Vaishali’s defeat ca",
       "summary": "When it was finally revealed that Rameshbabu Praggnanandhaa would play Board 1, meaning he would face the toughest oppositions — like his oppoennet in Anish Giri in India's match against the Netherlands on Sunday — at the 46th Chess Olympiad in Samarkand, Uzbekistan, many raised eyebrows at world champion Dommaraju…",
@@ -1072,6 +1123,23 @@
       "title_hinglish": "shataranja olanpiyada raunda 5: praganananda ne dacha nanbara 1 anisha giri ko harakara pahali jita hasila ki; vaishali ki hara kai",
       "summary_hinglish": "jaba antatah yaha pata chala ki rameshababu praganananda borda 1 khelenge, jisaka artha hai ki unhen sabase kathina virodhiyon ka samana karana padaेga - jaise ravivara ko nidaralainda ke khilapha bharata ke maicha men anisha giri ke rupa men unake pratidvandvi - samarakand, ujbekistana men 46ven shataranja olanpiyada men, kaee logon ne vishva chainpiyana dommaraju para bhaunhen chadhaा din...",
       "category_hinglish": "Sports"
+    },
+    {
+      "id": "4fbb6d3c3e98acca",
+      "title": "Actor arrested for snatching gold chain from elderly woman in Mumbai's Santacruz",
+      "summary": "The city police arrested an actor for allegedly snatching a gold chain from an elderly woman in the Santacruz area after falling into financial distress, an official said on Monday.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134394286,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/mumbai/actor-arrested-for-snatching-gold-chain-from-elderly-woman-in-mumbais-santacruz/articleshow/134393581.cms",
+      "publishedAt": "2026-09-21T16:59:00.000Z",
+      "fetchedAt": "2026-09-21T20:27:09.913Z",
+      "title_hi": "मुंबई के सांताक्रूज़ में बुजुर्ग महिला से सोने की चेन छीनने के आरोप में अभिनेता गिरफ्तार",
+      "summary_hi": "एक अधिकारी ने सोमवार को कहा कि शहर की पुलिस ने वित्तीय संकट में फंसने के बाद सांताक्रूज इलाके में एक बुजुर्ग महिला से सोने की चेन छीनने के आरोप में एक अभिनेता को गिरफ्तार किया है।",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "munbaee ke santakruja men bujurga mahila se sone ki chena chhinane ke aaropa men abhineta giraphtara",
+      "summary_hinglish": "eka adhikari ne somavara ko kaha ki shahara ki pulisa ne vittiya sankata men phansane ke bada santakruja ilake men eka bujurga mahila se sone ki chena chhinane ke aaropa men eka abhineta ko giraphtara kiya hai।",
+      "category_hinglish": "Crime aur Breaking News"
     },
     {
       "id": "8749ad571b4f2cb9",
@@ -1159,23 +1227,6 @@
       "category_hinglish": "Sports"
     },
     {
-      "id": "4d711dbca65faedb",
-      "title": "‘Resolve issues through dialogue’: Government urges bank employees to call off September 28-30 strike",
-      "summary": "The finance ministry on Monday urged bank employees to refrain from resorting to strikes and resolve their remaining demands through dialogue, saying most concerns raised by unions had been substantially addressed.",
-      "category": "Business & Finance",
-      "image": "https://static.toiimg.com/thumb/msid-134393600,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/resolve-issues-through-dialogue-government-urges-bank-employees-to-call-off-september-28-30-strike/articleshow/134392791.cms",
-      "publishedAt": "2026-09-21T16:23:00.000Z",
-      "fetchedAt": "2026-09-21T17:15:48.749Z",
-      "title_hi": "'बातचीत के जरिए मुद्दे सुलझाएं': सरकार ने बैंक कर्मचारियों से 28-30 सितंबर की हड़ताल वापस लेने का आग्रह किया",
-      "summary_hi": "वित्त मंत्रालय ने सोमवार को बैंक कर्मचारियों से हड़ताल का सहारा लेने से बचने और बातचीत के माध्यम से अपनी शेष मांगों को हल करने का आग्रह किया, यह कहते हुए कि यूनियनों द्वारा उठाई गई अधिकांश चिंताओं को काफी हद तक संबोधित किया गया है।",
-      "category_hi": "बिज़नेस और फाइनेंस",
-      "title_hinglish": "'batachita ke jarie mudde sulajhaen': sarakara ne bainka karmachariyon se 28-30 sitanbara ki hadatala vapasa lene ka aagraha kiya",
-      "summary_hinglish": "vitta mantralaya ne somavara ko bainka karmachariyon se hadatala ka sahara lene se bachane aura batachita ke madhyama se apani shesha mangon ko hala karane ka aagraha kiy, yaha kahate hue ki yuniyanon dvara uthaee gaee adhikansha chintaon ko kaphi hada taka sanbodhita kiya gaya hai।",
-      "category_hinglish": "Business aur Finance"
-    },
-    {
       "id": "b0a7445d8fa7d0e5",
       "title": "Bihar forms SIT to probe vehicle insurance fraud, tightens challan norms",
       "summary": "The Bihar Police have taken a series of measures to curb insurance fraud and improve traffic enforcement, including the formation of a Special Investigation Team (SIT) under the Crime Investigation Department (CID) to probe suspected ‘vehicle implant’ scams, stricter norms for issuing traffic challans and a directive to release accident-hit…",
@@ -1191,6 +1242,23 @@
       "title_hinglish": "bihar ne vahan bim dhokhadhadी ki janch ke lie esaaiti gathit ki, chalan manadand sakht kie",
       "category_hinglish": "Crime aur Breaking News",
       "summary_hinglish": "bihara pulisa ne bima dhokhadhadaी ko rokane aura yatayata pravartana men sudhara ke lie kaee kadama uthae hain, jisamen sandigdha 'vahana pratyaropana' ghotalon ki jancha ke lie aparadha jancha vibhaga (siaaeedi) ke tahata eka vishesha jancha dala (esaaaeeti) ka gathan, yatayata chalana jari karane ke lie sakhta manadanda aura durghatana-prabhavita logon ko riha karane ka nirdesha shamila hai..."
+    },
+    {
+      "id": "4d711dbca65faedb",
+      "title": "‘Resolve issues through dialogue’: Government urges bank employees to call off September 28-30 strike",
+      "summary": "The finance ministry on Monday urged bank employees to refrain from resorting to strikes and resolve their remaining demands through dialogue, saying most concerns raised by unions had been substantially addressed.",
+      "category": "Business & Finance",
+      "image": "https://static.toiimg.com/thumb/msid-134393600,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/resolve-issues-through-dialogue-government-urges-bank-employees-to-call-off-september-28-30-strike/articleshow/134392791.cms",
+      "publishedAt": "2026-09-21T16:23:00.000Z",
+      "fetchedAt": "2026-09-21T17:15:48.749Z",
+      "title_hi": "'बातचीत के जरिए मुद्दे सुलझाएं': सरकार ने बैंक कर्मचारियों से 28-30 सितंबर की हड़ताल वापस लेने का आग्रह किया",
+      "summary_hi": "वित्त मंत्रालय ने सोमवार को बैंक कर्मचारियों से हड़ताल का सहारा लेने से बचने और बातचीत के माध्यम से अपनी शेष मांगों को हल करने का आग्रह किया, यह कहते हुए कि यूनियनों द्वारा उठाई गई अधिकांश चिंताओं को काफी हद तक संबोधित किया गया है।",
+      "category_hi": "बिज़नेस और फाइनेंस",
+      "title_hinglish": "'batachita ke jarie mudde sulajhaen': sarakara ne bainka karmachariyon se 28-30 sitanbara ki hadatala vapasa lene ka aagraha kiya",
+      "summary_hinglish": "vitta mantralaya ne somavara ko bainka karmachariyon se hadatala ka sahara lene se bachane aura batachita ke madhyama se apani shesha mangon ko hala karane ka aagraha kiy, yaha kahate hue ki yuniyanon dvara uthaee gaee adhikansha chintaon ko kaphi hada taka sanbodhita kiya gaya hai।",
+      "category_hinglish": "Business aur Finance"
     },
     {
       "id": "b148927a66721f28",
@@ -1210,23 +1278,6 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "9e70e29d2bd2d227",
-      "title": "KCT student’s Trike 2π electric patrol vehicle is national runner-up at James Dyson Award -India",
-      "summary": "Trike 2π, a compact electric patrol vehicle developed by S Shakeel Akthar, 24, an ME (industrial automation and robotics) student at Kumaraguru College of Technology (KCT), has been named a national runner-up at the James Dyson Award 2026 – India.",
-      "category": "National & Trending News",
-      "image": "https://static.toiimg.com/thumb/msid-134393262,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/coimbatore/kct-students-trike-2-electric-patrol-vehicle-is-national-runner-up-at-james-dyson-award-india/articleshow/134393228.cms",
-      "publishedAt": "2026-09-21T16:05:00.000Z",
-      "fetchedAt": "2026-09-21T16:49:03.252Z",
-      "title_hi": "केसीटी छात्र का ट्राइक 2π इलेक्ट्रिक गश्ती वाहन जेम्स डायसन अवार्ड-भारत में राष्ट्रीय उपविजेता रहा",
-      "summary_hi": "ट्राइक 2π, कुमारगुरु कॉलेज ऑफ टेक्नोलॉजी (केसीटी) में एमई (औद्योगिक स्वचालन और रोबोटिक्स) के 24 वर्षीय छात्र एस शकील अख्तर द्वारा विकसित एक कॉम्पैक्ट इलेक्ट्रिक गश्ती वाहन, को जेम्स डायसन अवार्ड 2026 - भारत में राष्ट्रीय उपविजेता नामित किया गया है।",
-      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
-      "title_hinglish": "kesiti chhatra ka traika 2π ilektrika gashti vahana jemsa dayasana avarda-bharata men rashtriya upavijeta raha",
-      "summary_hinglish": "traika 2π, kumaraguru koleja ऑpha teknoloji (kesiti) men emaee (audyogika svachalana aura robotiksa) ke 24 varshiya chhatra esa shakila akhtara dvara vikasita eka kompaikta ilektrika gashti vahan, ko jemsa dayasana avarda 2026 - bharata men rashtriya upavijeta namita kiya gaya hai।",
-      "category_hinglish": "National aur Trending News"
-    },
-    {
       "id": "a4bcee89cdfc8490",
       "title": "Kangana Ranaut HITS BACK at people trolling Maithili Thakur for arriving in Rolls-Royce at Lalbaugcha Raj",
       "summary": "Kangana Ranaut has come out in support of young singing talent and Bihar MLA Maithili Thakur, who was trolled for visiting Mumbai's Lalbaugcha Raja pandal in a luxury Rolls-Royce Cullinan. Kangana asked why critics feel hurt whenever politicians try to make their own lives better.",
@@ -1242,6 +1293,23 @@
       "title_hinglish": "kangan ranaut ne lalabagach raj men rols-rॉyas men pahunchane ke lie maithili thakur ko trol karane vale logon par palatavar kiy",
       "category_hinglish": "Entertainment",
       "summary_hinglish": "kangana ranauta yuva gayana pratibha aura bihara vidhayaka maithili thakura ke samarthana men samane aaee hain, jinhen lakjari rolsa-royasa kalinana men munbaee ke lalabagacha raja pandala men jane ke lie trola kiya gaya tha। kangana ne puchha ki jaba bhi rajaneta apane jivana ko behatara banane ki koshisha karate hain to aalochakon ko dukha kyon hota hai।"
+    },
+    {
+      "id": "9e70e29d2bd2d227",
+      "title": "KCT student’s Trike 2π electric patrol vehicle is national runner-up at James Dyson Award -India",
+      "summary": "Trike 2π, a compact electric patrol vehicle developed by S Shakeel Akthar, 24, an ME (industrial automation and robotics) student at Kumaraguru College of Technology (KCT), has been named a national runner-up at the James Dyson Award 2026 – India.",
+      "category": "National & Trending News",
+      "image": "https://static.toiimg.com/thumb/msid-134393262,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/coimbatore/kct-students-trike-2-electric-patrol-vehicle-is-national-runner-up-at-james-dyson-award-india/articleshow/134393228.cms",
+      "publishedAt": "2026-09-21T16:05:00.000Z",
+      "fetchedAt": "2026-09-21T16:49:03.252Z",
+      "title_hi": "केसीटी छात्र का ट्राइक 2π इलेक्ट्रिक गश्ती वाहन जेम्स डायसन अवार्ड-भारत में राष्ट्रीय उपविजेता रहा",
+      "summary_hi": "ट्राइक 2π, कुमारगुरु कॉलेज ऑफ टेक्नोलॉजी (केसीटी) में एमई (औद्योगिक स्वचालन और रोबोटिक्स) के 24 वर्षीय छात्र एस शकील अख्तर द्वारा विकसित एक कॉम्पैक्ट इलेक्ट्रिक गश्ती वाहन, को जेम्स डायसन अवार्ड 2026 - भारत में राष्ट्रीय उपविजेता नामित किया गया है।",
+      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
+      "title_hinglish": "kesiti chhatra ka traika 2π ilektrika gashti vahana jemsa dayasana avarda-bharata men rashtriya upavijeta raha",
+      "summary_hinglish": "traika 2π, kumaraguru koleja ऑpha teknoloji (kesiti) men emaee (audyogika svachalana aura robotiksa) ke 24 varshiya chhatra esa shakila akhtara dvara vikasita eka kompaikta ilektrika gashti vahan, ko jemsa dayasana avarda 2026 - bharata men rashtriya upavijeta namita kiya gaya hai।",
+      "category_hinglish": "National aur Trending News"
     },
     {
       "id": "dcacc1281f7ad564",
@@ -1329,23 +1397,6 @@
       "category_hinglish": "National aur Trending News"
     },
     {
-      "id": "e1ce29e65d43d38f",
-      "title": "Powering India’s AI Ambition",
-      "summary": "India can emerge as a global data-center hub—powering AI, catalyzing an economic flywheel, strengthening domestic capabilities, scaling responsibly and meeting critical enterprise needs.",
-      "category": "Technology",
-      "image": "https://web-assets.bcg.com/dims4/default/c10afd8/2147483647/strip/true/crop/2880x1512+0+55/resize/1200x630!/format/webp/quality/80/?url=http%3A%2F%2Fboston-consulting-group-brightspot.s3.amazonaws.com%2F9a%2Fa2%2F2b59488749b88c6a36b8d0c05d3f%2Fpowering-indias-ai-ambition-building-a-scalable-and-sustainable-compute-infrastructure.jpg",
-      "source": "bcg.com",
-      "sourceUrl": "https://www.bcg.com/publications/2026/india-powering-ai-ambition",
-      "publishedAt": "2026-09-21T15:35:54.000Z",
-      "fetchedAt": "2026-09-21T16:18:34.557Z",
-      "title_hi": "भारत की एआई महत्वाकांक्षा को शक्ति देना",
-      "summary_hi": "भारत एक वैश्विक डेटा-सेंटर हब के रूप में उभर सकता है - एआई को सशक्त बनाना, एक आर्थिक फ्लाईव्हील को उत्प्रेरित करना, घरेलू क्षमताओं को मजबूत करना, जिम्मेदारी से आगे बढ़ना और महत्वपूर्ण उद्यम जरूरतों को पूरा करना।",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "bharata ki eaaee mahatvakanksha ko shakti dena",
-      "summary_hinglish": "bharata eka vaishvika deta-sentara haba ke rupa men ubhara sakata hai - eaaee ko sashakta banan, eka aarthika phlaeevhila ko utprerita karan, gharelu kshamataon ko majabuta karan, jimmedari se aage badhana aura mahatvapurna udyama jaruraton ko pura karana।",
-      "category_hinglish": "Technology"
-    },
-    {
       "id": "d340ef50077a9df3",
       "title": "Bhojpuri actress Kajal Raghwani is safe after fans CHASE her car, BREAK WINDOWS at Bihar Sharif showroom",
       "summary": "The Times of India brings the Latest & Top Breaking News on Politics and Current Affairs in India & around the World, Cricket, Sports, Business, Bollywood News and Entertainment, Science, Technology, Health & Fitness news & opinions from leading columnists.",
@@ -1361,6 +1412,23 @@
       "title_hinglish": "biharasharipha shoruma men prashansakon dvara unaki kara ka pichha karane, khidakiyan todane ke bada bhojapuri abhinetri kajala raghavani surakshita hain",
       "summary_hinglish": "taimsa ऑpha indiya bharata aura duniya bhara men rajaniti aura samasamayika mamalon, kriket, khel, vyapar, bolivuda samachara aura manoranjan, vijnyan, praudyogiki, svasthya aura phitanesa samachara aura pramukha stanbhakaron ki raya para navinatama aura shirsha brekinga samachara lata hai।",
       "category_hinglish": "Entertainment"
+    },
+    {
+      "id": "e1ce29e65d43d38f",
+      "title": "Powering India’s AI Ambition",
+      "summary": "India can emerge as a global data-center hub—powering AI, catalyzing an economic flywheel, strengthening domestic capabilities, scaling responsibly and meeting critical enterprise needs.",
+      "category": "Technology",
+      "image": "https://web-assets.bcg.com/dims4/default/c10afd8/2147483647/strip/true/crop/2880x1512+0+55/resize/1200x630!/format/webp/quality/80/?url=http%3A%2F%2Fboston-consulting-group-brightspot.s3.amazonaws.com%2F9a%2Fa2%2F2b59488749b88c6a36b8d0c05d3f%2Fpowering-indias-ai-ambition-building-a-scalable-and-sustainable-compute-infrastructure.jpg",
+      "source": "bcg.com",
+      "sourceUrl": "https://www.bcg.com/publications/2026/india-powering-ai-ambition",
+      "publishedAt": "2026-09-21T15:35:54.000Z",
+      "fetchedAt": "2026-09-21T16:18:34.557Z",
+      "title_hi": "भारत की एआई महत्वाकांक्षा को शक्ति देना",
+      "summary_hi": "भारत एक वैश्विक डेटा-सेंटर हब के रूप में उभर सकता है - एआई को सशक्त बनाना, एक आर्थिक फ्लाईव्हील को उत्प्रेरित करना, घरेलू क्षमताओं को मजबूत करना, जिम्मेदारी से आगे बढ़ना और महत्वपूर्ण उद्यम जरूरतों को पूरा करना।",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "bharata ki eaaee mahatvakanksha ko shakti dena",
+      "summary_hinglish": "bharata eka vaishvika deta-sentara haba ke rupa men ubhara sakata hai - eaaee ko sashakta banan, eka aarthika phlaeevhila ko utprerita karan, gharelu kshamataon ko majabuta karan, jimmedari se aage badhana aura mahatvapurna udyama jaruraton ko pura karana।",
+      "category_hinglish": "Technology"
     },
     {
       "id": "62ce6a648249da17",
@@ -1380,23 +1448,6 @@
       "category_hinglish": "Crime aur Breaking News"
     },
     {
-      "id": "99a04f9e43e3819b",
-      "title": "Bypoll results in Telugu states frequently diverged from subsequent Assembly election verdicts",
-      "summary": "Electoral trends in Telangana and Andhra Pradesh demonstrate why local contests and by-election outcomes frequently diverge from subsequent state assembly verdicts and should not be viewed as referendums.",
-      "category": "Politics & Government",
-      "image": "https://cf-images.assettype.com/deccanherald%2F2026-09-21%2F2e8d82pb%2Ffile74i4sw8cvljmc844l6h.jpg?rect=0%2C11%2C538%2C282&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "source": "Deccan Herald",
-      "sourceUrl": "https://www.deccanherald.com/amp/story/elections/india/bypoll-results-in-telugu-states-frequently-diverged-from-subsequent-assembly-election-verdicts-4154267",
-      "publishedAt": "2026-09-21T15:29:00.000Z",
-      "fetchedAt": "2026-09-21T17:29:28.080Z",
-      "title_hi": "तेलुगु राज्यों में उपचुनाव के नतीजे अक्सर बाद के विधानसभा चुनाव के नतीजों से भिन्न होते रहे हैं",
-      "summary_hi": "तेलंगाना और आंध्र प्रदेश में चुनावी रुझान दर्शाते हैं कि क्यों स्थानीय प्रतियोगिता और उप-चुनाव के नतीजे अक्सर बाद के राज्य विधानसभा के नतीजों से भिन्न होते हैं और इन्हें जनमत संग्रह के रूप में नहीं देखा जाना चाहिए।",
-      "category_hi": "राजनीति और सरकार",
-      "title_hinglish": "telugu rajyon men upachunava ke natije aksara bada ke vidhanasabha chunava ke natijon se bhinna hote rahe hain",
-      "summary_hinglish": "telangana aura aandhra pradesha men chunavi rujhana darshate hain ki kyon sthaniya pratiyogita aura upa-chunava ke natije aksara bada ke rajya vidhanasabha ke natijon se bhinna hote hain aura inhen janamata sangraha ke rupa men nahin dekha jana chahie।",
-      "category_hinglish": "Politics aur Government"
-    },
-    {
       "id": "3ab8af1ef7196e83",
       "title": "The Vvaan: Sidharth Malhotra and Tamannaah Bhatia honour Bihar’s Chhath rituals",
       "summary": "The team behind the movie The Vvaan visited Patna ahead of the film’s September 25 release. Tamannaah Bhatia and Sidharth Malhotra, along with their producers,",
@@ -1412,6 +1463,23 @@
       "title_hinglish": "d vavan: siddharth malhotr ​​aur tamann bhatiy bihar ke chhath anushthanon k samman karate hain",
       "category_hinglish": "Entertainment",
       "summary_hinglish": "philma da vavana ki 25 sitanbara ko rilija se pahale tima ne patana ka daura kiya। tamanna bhatiya aura siddhartha malhotr, apane nirmataon ke sath,"
+    },
+    {
+      "id": "99a04f9e43e3819b",
+      "title": "Bypoll results in Telugu states frequently diverged from subsequent Assembly election verdicts",
+      "summary": "Electoral trends in Telangana and Andhra Pradesh demonstrate why local contests and by-election outcomes frequently diverge from subsequent state assembly verdicts and should not be viewed as referendums.",
+      "category": "Politics & Government",
+      "image": "https://cf-images.assettype.com/deccanherald%2F2026-09-21%2F2e8d82pb%2Ffile74i4sw8cvljmc844l6h.jpg?rect=0%2C11%2C538%2C282&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "Deccan Herald",
+      "sourceUrl": "https://www.deccanherald.com/amp/story/elections/india/bypoll-results-in-telugu-states-frequently-diverged-from-subsequent-assembly-election-verdicts-4154267",
+      "publishedAt": "2026-09-21T15:29:00.000Z",
+      "fetchedAt": "2026-09-21T17:29:28.080Z",
+      "title_hi": "तेलुगु राज्यों में उपचुनाव के नतीजे अक्सर बाद के विधानसभा चुनाव के नतीजों से भिन्न होते रहे हैं",
+      "summary_hi": "तेलंगाना और आंध्र प्रदेश में चुनावी रुझान दर्शाते हैं कि क्यों स्थानीय प्रतियोगिता और उप-चुनाव के नतीजे अक्सर बाद के राज्य विधानसभा के नतीजों से भिन्न होते हैं और इन्हें जनमत संग्रह के रूप में नहीं देखा जाना चाहिए।",
+      "category_hi": "राजनीति और सरकार",
+      "title_hinglish": "telugu rajyon men upachunava ke natije aksara bada ke vidhanasabha chunava ke natijon se bhinna hote rahe hain",
+      "summary_hinglish": "telangana aura aandhra pradesha men chunavi rujhana darshate hain ki kyon sthaniya pratiyogita aura upa-chunava ke natije aksara bada ke rajya vidhanasabha ke natijon se bhinna hote hain aura inhen janamata sangraha ke rupa men nahin dekha jana chahie।",
+      "category_hinglish": "Politics aur Government"
     },
     {
       "id": "8a38224260aaece8",
@@ -1473,11 +1541,11 @@
       "source": "India Today",
       "sourceUrl": "https://www.indiatoday.in/india/video/row-over-mimicry-skit-in-indore-politics-of-satire-hamid-ansaris-statement-trigger-fresh-faceoff-ytvd-2999792-2026-09-21",
       "publishedAt": "2026-09-21T15:17:56.000Z",
-      "fetchedAt": "2026-09-22T04:46:50.279Z",
-      "title_hi": "इंदौर में मिमिक्री स्किट को लेकर विवाद, व्यंग्य की राजनीति और हामिद अंसारी के बयान से फिर शुरू हुआ टकराव - इंडिया टुडे",
+      "fetchedAt": "2026-09-22T04:57:54.999Z",
+      "title_hi": "इंदौर में मिमिक्री स्किट को लेकर विवाद, व्यंग्य की राजनीति और हामिद अंसारी का बयान फिर से शुरू हुआ टकराव - इंडिया टुडे",
       "summary_hi": "इंदौर में एक कार्यक्रम में प्रस्तुत एक नाटक के बाद बड़ा राजनीतिक विवाद खड़ा हो गया है। प्रदर्शन, जिसमें प्रधान मंत्री की नकल और एक बुजुर्ग महिला से जुड़ी घटना शामिल थी, की भारतीय जनता पार्टी ने तीखी आलोचना की, जिसने आयोजकों पर महिलाओं का अपमान करने और लोगों को गुमराह करने का आरोप लगाया...",
       "category_hi": "राजनीति और सरकार",
-      "title_hinglish": "indaura men mimikri skita ko lekara vivad, vyangya ki rajaniti aura hamida ansari ke bayana se phira shuru huaa takarava - indiya tude",
+      "title_hinglish": "indaura men mimikri skita ko lekara vivad, vyangya ki rajaniti aura hamida ansari ka bayana phira se shuru huaa takarava - indiya tude",
       "summary_hinglish": "indaura men eka karyakrama men prastuta eka nataka ke bada badaा rajanitika vivada khadaा ho gaya hai। pradarshan, jisamen pradhana mantri ki nakala aura eka bujurga mahila se judaी ghatana shamila thi, ki bharatiya janata parti ne tikhi aalochana ki, jisane aayojakon para mahilaon ka apamana karane aura logon ko gumaraha karane ka aaropa lagay...",
       "category_hinglish": "Politics aur Government"
     },
@@ -1499,23 +1567,6 @@
       "category_hinglish": "Crime aur Breaking News"
     },
     {
-      "id": "787e7cfc7591b0dc",
-      "title": "NHAI sets uniform design norms for high-speed access-controlled highways",
-      "summary": "The National Highways Authority of India (NHAI) has introduced a uniform design framework for high-speed access-controlled national highways, seeking to standardize how such corridors are planned and designed as India expands its network of high-speed roads.",
-      "category": "National & Trending News",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/20240602-DGG-PK-MN-Kherki-Daula-toll-plaza-002-0_1717333101068_1790000693929_MQx0_ab5f9495-8c3b-4993-8f3d-150355026869_ff6i.jpg",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/news/india/nhai-sets-uniform-design-norms-for-high-speed-access-controlled-highways-11789992201331.html",
-      "publishedAt": "2026-09-21T14:57:11.000Z",
-      "fetchedAt": "2026-09-21T17:15:51.919Z",
-      "title_hi": "एनएचएआई हाई-स्पीड एक्सेस-नियंत्रित राजमार्गों के लिए समान डिजाइन मानदंड निर्धारित करता है",
-      "summary_hi": "भारतीय राष्ट्रीय राजमार्ग प्राधिकरण (एनएचएआई) ने हाई-स्पीड एक्सेस-नियंत्रित राष्ट्रीय राजमार्गों के लिए एक समान डिजाइन ढांचा पेश किया है, ताकि यह मानकीकृत किया जा सके कि ऐसे गलियारों की योजना कैसे बनाई जाती है और डिजाइन कैसे किया जाता है क्योंकि भारत हाई-स्पीड सड़कों के अपने नेटवर्क का विस्तार करता है।",
-      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
-      "title_hinglish": "enaechaeaaee haee-spida eksesa-niyantrita rajamargon ke lie samana dijaina manadanda nirdharita karata hai",
-      "summary_hinglish": "bharatiya rashtriya rajamarga pradhikarana (enaechaeaaee) ne haee-spida eksesa-niyantrita rashtriya rajamargon ke lie eka samana dijaina dhancha pesha kiya hai, taki yaha manakikrita kiya ja sake ki aise galiyaron ki yojana kaise banaee jati hai aura dijaina kaise kiya jata hai kyonki bharata haee-spida sadakon ke apane netavarka ka vistara karata hai।",
-      "category_hinglish": "National aur Trending News"
-    },
-    {
       "id": "df4ee11c80718c75",
       "title": "Prashant Kishor's JSP announces 5 candidates for Bihar Legislative Council polls | India News",
       "summary": "Elections are to be held for a total of eight constituencies -- four graduates' and teachers' seats each -- terms of which expire in November. | India News",
@@ -1531,6 +1582,23 @@
       "category_hinglish": "Politics aur Government",
       "title_hinglish": "prashanta kishora ki jeesapi ne bihara vidhana parishada chunava ke lie 5 ummidavaron ki ghoshana ki | bharata samachara",
       "summary_hinglish": "kula aatha nirvachana kshetron ke lie chunava hone hain - chara snataka aura shikshaka siten - jinaki sharten navanbara men samapta ho rahi hain। | bharata samachara"
+    },
+    {
+      "id": "787e7cfc7591b0dc",
+      "title": "NHAI sets uniform design norms for high-speed access-controlled highways",
+      "summary": "The National Highways Authority of India (NHAI) has introduced a uniform design framework for high-speed access-controlled national highways, seeking to standardize how such corridors are planned and designed as India expands its network of high-speed roads.",
+      "category": "National & Trending News",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/20240602-DGG-PK-MN-Kherki-Daula-toll-plaza-002-0_1717333101068_1790000693929_MQx0_ab5f9495-8c3b-4993-8f3d-150355026869_ff6i.jpg",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/news/india/nhai-sets-uniform-design-norms-for-high-speed-access-controlled-highways-11789992201331.html",
+      "publishedAt": "2026-09-21T14:57:11.000Z",
+      "fetchedAt": "2026-09-21T17:15:51.919Z",
+      "title_hi": "एनएचएआई हाई-स्पीड एक्सेस-नियंत्रित राजमार्गों के लिए समान डिजाइन मानदंड निर्धारित करता है",
+      "summary_hi": "भारतीय राष्ट्रीय राजमार्ग प्राधिकरण (एनएचएआई) ने हाई-स्पीड एक्सेस-नियंत्रित राष्ट्रीय राजमार्गों के लिए एक समान डिजाइन ढांचा पेश किया है, ताकि यह मानकीकृत किया जा सके कि ऐसे गलियारों की योजना कैसे बनाई जाती है और डिजाइन कैसे किया जाता है क्योंकि भारत हाई-स्पीड सड़कों के अपने नेटवर्क का विस्तार करता है।",
+      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
+      "title_hinglish": "enaechaeaaee haee-spida eksesa-niyantrita rajamargon ke lie samana dijaina manadanda nirdharita karata hai",
+      "summary_hinglish": "bharatiya rashtriya rajamarga pradhikarana (enaechaeaaee) ne haee-spida eksesa-niyantrita rashtriya rajamargon ke lie eka samana dijaina dhancha pesha kiya hai, taki yaha manakikrita kiya ja sake ki aise galiyaron ki yojana kaise banaee jati hai aura dijaina kaise kiya jata hai kyonki bharata haee-spida sadakon ke apane netavarka ka vistara karata hai।",
+      "category_hinglish": "National aur Trending News"
     },
     {
       "id": "68b4fb66e54d93d9",
@@ -1550,23 +1618,6 @@
       "category_hinglish": "Entertainment"
     },
     {
-      "id": "61d08d93dab7be53",
-      "title": "India hammer Pakistan 3-0, storm into Asian Games men's table tennis prequarters",
-      "summary": "India bounced back from their defeat to Iran with a commanding 3-0 win over Pakistan to finish second in Group F. The Indian men advanced to the pre-quarterfinals where they will lock horns with South Korea.",
-      "category": "Sports",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/harmeet-desai-214538494-16x9_0.jpeg?VersionId=wTAm.TcjM.azqusbgGZ4byNH8ySCSTmJ",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/amp/sports/asian-games/story/table-tennis-india-beat-pakistan-south-korea-pre-quarterfinal-2999754-2026-09-21",
-      "publishedAt": "2026-09-21T14:49:07.000Z",
-      "fetchedAt": "2026-09-21T15:00:17.162Z",
-      "title_hi": "भारत ने पाकिस्तान को 3-0 से हराया, एशियाई खेलों के पुरुष टेबल टेनिस क्वार्टर फाइनल में प्रवेश किया",
-      "summary_hi": "भारत ने ईरान से मिली हार के बाद वापसी करते हुए पाकिस्तान पर 3-0 से शानदार जीत दर्ज की और ग्रुप एफ में दूसरे स्थान पर रहा। भारतीय पुरुष प्री-क्वार्टर फाइनल में पहुंच गए जहां उनका मुकाबला दक्षिण कोरिया से होगा।",
-      "category_hi": "खेल",
-      "title_hinglish": "bharata ne pakistana ko 3-0 se haray, eshiyaee khelon ke purusha tebala tenisa kvartara phainala men pravesha kiya",
-      "summary_hinglish": "bharata ne eerana se mili hara ke bada vapasi karate hue pakistana para 3-0 se shanadara jita darja ki aura grupa epha men dusare sthana para raha। bharatiya purusha pri-kvartara phainala men pahuncha gae jahan unaka mukabala dakshina koriya se hoga।",
-      "category_hinglish": "Sports"
-    },
-    {
       "id": "c8dee49868675da4",
       "title": "Jan Suraaj announces candidates for 5 Bihar Legislative Council seats",
       "summary": "Prashant Kishors Jan Suraaj is getting an early start on Bihars next electoral contest, naming candidates for five of the eight Legislative Council seats headed for polls. From backing a sitting MLC for another term to fielding a lawyer-turned-politician against a JD(U) heavyweight, Kishor is widening his partys footprint in…",
@@ -1582,6 +1633,23 @@
       "title_hinglish": "jan suraj ne 5 bihar vidhan parishad siton ke lie ummidavaron ki ghoshan ki",
       "category_hinglish": "Politics aur Government",
       "summary_hinglish": "prashanta kishora ke jana suraja ne bihara ki agali chunavi ladaाee ki shuruaati shuruaata karate hue aatha vidhana parishada siton men se pancha ke lie ummidavaron ke nama ghoshita kara die hain। eka maujuda emaelasi ko dusare karyakala ke lie samarthana dene se lekara eka vakila se neta bane jadayu ke diggaja neta ke khilapha maidana men utarane tak, kishora apani parti ka dayara badhaा rahe hain…"
+    },
+    {
+      "id": "61d08d93dab7be53",
+      "title": "India hammer Pakistan 3-0, storm into Asian Games men's table tennis prequarters",
+      "summary": "India bounced back from their defeat to Iran with a commanding 3-0 win over Pakistan to finish second in Group F. The Indian men advanced to the pre-quarterfinals where they will lock horns with South Korea.",
+      "category": "Sports",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/harmeet-desai-214538494-16x9_0.jpeg?VersionId=wTAm.TcjM.azqusbgGZ4byNH8ySCSTmJ",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/amp/sports/asian-games/story/table-tennis-india-beat-pakistan-south-korea-pre-quarterfinal-2999754-2026-09-21",
+      "publishedAt": "2026-09-21T14:49:07.000Z",
+      "fetchedAt": "2026-09-21T15:00:17.162Z",
+      "title_hi": "भारत ने पाकिस्तान को 3-0 से हराया, एशियाई खेलों के पुरुष टेबल टेनिस क्वार्टर फाइनल में प्रवेश किया",
+      "summary_hi": "भारत ने ईरान से मिली हार के बाद वापसी करते हुए पाकिस्तान पर 3-0 से शानदार जीत दर्ज की और ग्रुप एफ में दूसरे स्थान पर रहा। भारतीय पुरुष प्री-क्वार्टर फाइनल में पहुंच गए जहां उनका मुकाबला दक्षिण कोरिया से होगा।",
+      "category_hi": "खेल",
+      "title_hinglish": "bharata ne pakistana ko 3-0 se haray, eshiyaee khelon ke purusha tebala tenisa kvartara phainala men pravesha kiya",
+      "summary_hinglish": "bharata ne eerana se mili hara ke bada vapasi karate hue pakistana para 3-0 se shanadara jita darja ki aura grupa epha men dusare sthana para raha। bharatiya purusha pri-kvartara phainala men pahuncha gae jahan unaka mukabala dakshina koriya se hoga।",
+      "category_hinglish": "Sports"
     }
   ]
 }
