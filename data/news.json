@@ -1,7 +1,24 @@
 {
-  "updatedAt": "2026-09-22T09:59:36.315Z",
-  "count": 110,
+  "updatedAt": "2026-09-22T10:19:26.156Z",
+  "count": 113,
   "articles": [
+    {
+      "id": "5a5ab3797abb605b",
+      "title": "Cyber Alert: Today’s Biggest Cyber Crime Stories Shaking India – 22nd September",
+      "summary": "India’s latest cyber and technology developments include tighter AI incident reporting, 507 mule accounts in Bengaluru, Army firmware labs, a ₹116.79-crore bank-fraud probe and a new local cybersecurity AI model.",
+      "category": "Crime & Breaking News",
+      "image": "https://the420.in/wp-content/uploads/2026/09/c9f3a791-7bbc-487c-afa1-3137eb787823.png",
+      "source": "The420.in",
+      "sourceUrl": "https://the420.in/india-cyber-tech-brief-ai-reporting-mule-accounts-firmware-cyber-ai/",
+      "publishedAt": "2026-09-22T10:00:19.000Z",
+      "fetchedAt": "2026-09-22T10:18:37.100Z",
+      "title_hi": "साइबर अलर्ट: भारत को झकझोर देने वाली आज की सबसे बड़ी साइबर अपराध कहानियां - 22 सितंबर",
+      "summary_hi": "भारत के नवीनतम साइबर और प्रौद्योगिकी विकास में सख्त एआई घटना रिपोर्टिंग, बेंगलुरु में 507 खच्चर खाते, सेना फर्मवेयर लैब, ₹116.79 करोड़ की बैंक-धोखाधड़ी जांच और एक नया स्थानीय साइबर सुरक्षा एआई मॉडल शामिल हैं।",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "saibara alart: bharata ko jhakajhora dene vali aaja ki sabase badaी saibara aparadha kahaniyan - 22 sitanbara",
+      "summary_hinglish": "bharata ke navinatama saibara aura praudyogiki vikasa men sakhta eaaee ghatana riporting, bengaluru men 507 khachchara khate, sena pharmaveyara laib, ₹116.79 karoda ki bainka-dhokhadhadaी jancha aura eka naya sthaniya saibara suraksha eaaee modala shamila hain।",
+      "category_hinglish": "Crime aur Breaking News"
+    },
     {
       "id": "735f066b0635e412",
       "title": "Asian Games 2026, Medal Tally, Participating Countries, Host Country",
@@ -16,6 +33,23 @@
       "summary_hi": "",
       "category_hi": "खेल",
       "category_hinglish": "Sports"
+    },
+    {
+      "id": "08da4880b5ff9687",
+      "title": "JAMUI CASE: ABVP protests against Bihar govt, demands strict action as political row deepens",
+      "summary": "The Jamui incident in Bihar has intensified further, with the Akhil Bharatiya Vidyarthi Parishad (ABVP) staging protests against the state government, demanding strict punishment for those accused in the assault and alleged molestation of a minor girl. The protest is significant as ABVP is affiliated with the BJP, making it…",
+      "category": "Politics & Government",
+      "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/22/e3522a54bf9d614f189866ce1c114df017900628554351479_original.png?impolicy=abp_cdn&imwidth=600",
+      "source": "ABP Live English",
+      "sourceUrl": "https://news.abplive.com/videos/news/india-jamui-case-abvp-protests-against-bihar-govt-demands-strict-action-as-political-row-deepens-1867784/amp",
+      "publishedAt": "2026-09-22T07:42:06.000Z",
+      "fetchedAt": "2026-09-22T09:59:26.568Z",
+      "title_hi": "जमुई मामला: राजनीतिक विवाद गहराने पर एबीवीपी ने बिहार सरकार के खिलाफ किया प्रदर्शन, सख्त कार्रवाई की मांग",
+      "summary_hi": "बिहार में जमुई की घटना और तेज हो गई है, अखिल भारतीय विद्यार्थी परिषद (एबीवीपी) ने राज्य सरकार के खिलाफ विरोध प्रदर्शन किया है, जिसमें नाबालिग लड़की के साथ मारपीट और कथित छेड़छाड़ के आरोपियों को कड़ी सजा देने की मांग की गई है। विरोध महत्वपूर्ण है क्योंकि एबीवीपी भाजपा से संबद्ध है, जिससे यह...",
+      "category_hi": "राजनीति और सरकार",
+      "category_hinglish": "Politics aur Government",
+      "title_hinglish": "jamuee mamal: rajanitika vivada gaharane para ebivipi ne bihara sarakara ke khilapha kiya pradarshan, sakhta karravaee ki manga",
+      "summary_hinglish": "bihara men jamuee ki ghatana aura teja ho gaee hai, akhila bharatiya vidyarthi parishada (ebivipi) ne rajya sarakara ke khilapha virodha pradarshana kiya hai, jisamen nabaliga ladaki ke satha marapita aura kathita chhedachhada ke aaropiyon ko kadaी saja dene ki manga ki gaee hai। virodha mahatvapurna hai kyonki ebivipi bhajapa se sanbaddha hai, jisase yah..."
     },
     {
       "id": "9fa26eecd822eb98",
@@ -33,21 +67,6 @@
       "category_hinglish": "Entertainment"
     },
     {
-      "id": "08da4880b5ff9687",
-      "title": "JAMUI CASE: ABVP protests against Bihar govt, demands strict action as political row deepens",
-      "summary": "The Jamui incident in Bihar has intensified further, with the Akhil Bharatiya Vidyarthi Parishad (ABVP) staging protests against the state government, demanding strict punishment for those accused in the assault and alleged molestation of a minor girl. The protest is significant as ABVP is affiliated with the BJP, making it…",
-      "category": "Politics & Government",
-      "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/22/e3522a54bf9d614f189866ce1c114df017900628554351479_original.png?impolicy=abp_cdn&imwidth=600",
-      "source": "ABP Live English",
-      "sourceUrl": "https://news.abplive.com/videos/news/india-jamui-case-abvp-protests-against-bihar-govt-demands-strict-action-as-political-row-deepens-1867784/amp",
-      "publishedAt": "2026-09-22T07:42:06.000Z",
-      "fetchedAt": "2026-09-22T09:59:26.568Z",
-      "title_hi": "",
-      "summary_hi": "",
-      "category_hi": "राजनीति और सरकार",
-      "category_hinglish": "Politics aur Government"
-    },
-    {
       "id": "cb9f11ba1cfe120f",
       "title": "PM Modi's vision inspired move to take National Film Awards beyond Delhi: Ashwini Vaishnaw",
       "summary": "NEW DELHI: Union Minister for Information and Broadcasting Ashwini Vaishnaw on Tuesday said the centre is taking the National Film Awards (NFA) beyond conventio",
@@ -57,25 +76,12 @@
       "sourceUrl": "https://www.newindianexpress.com/india/2026/Sep/22/pm-modis-vision-inspired-move-to-take-national-film-awards-beyond-delhi-ashwini-vaishnaw",
       "publishedAt": "2026-09-22T09:07:49.000Z",
       "fetchedAt": "2026-09-22T09:59:23.500Z",
-      "title_hi": "",
-      "summary_hi": "",
+      "title_hi": "राष्ट्रीय फिल्म पुरस्कारों को दिल्ली से आगे ले जाने के लिए पीएम मोदी के दृष्टिकोण से प्रेरित कदम: अश्विनी वैष्णव",
+      "summary_hi": "नई दिल्ली: केंद्रीय सूचना और प्रसारण मंत्री अश्विनी वैष्णव ने मंगलवार को कहा कि केंद्र राष्ट्रीय फिल्म पुरस्कार (एनएफए) को सम्मेलन से आगे ले जा रहा है।",
       "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
-      "category_hinglish": "National aur Trending News"
-    },
-    {
-      "id": "cd7ba6fdae4d7ed6",
-      "title": "Beyond the medal table: Why the Asian Games matter to India’s place in Asia",
-      "summary": "The 20th Asian Games will officially get underway in Aichi-Nagoya, Japan, on September 19, bringing together the best sporting talent from across the continent. For India, the immediate objective is obvious, build on the historic performance in Hangzhou and once again establish itself among",
-      "category": "Sports",
-      "image": "https://dailypioneer.com/uploads/2026/story/images/big/beyond-the-medal-table--why-the-asian-games-matter-to-india---s-place-in-asia-2026-09-22.jpg",
-      "source": "Daily Pioneer",
-      "sourceUrl": "https://dailypioneer.com/news/beyond-the-medal-table-why-the-asian-games-matter-to-indias-place-in-asia",
-      "publishedAt": "2026-09-22T08:56:17.000Z",
-      "fetchedAt": "2026-09-22T09:59:04.687Z",
-      "title_hi": "",
-      "summary_hi": "",
-      "category_hi": "खेल",
-      "category_hinglish": "Sports"
+      "category_hinglish": "National aur Trending News",
+      "title_hinglish": "rashtriya philma puraskaron ko dilli se aage le jane ke lie piema modi ke drishtikona se prerita kadam: ashvini vaishnava",
+      "summary_hinglish": "naee dilli: kendriya suchana aura prasarana mantri ashvini vaishnava ne mangalavara ko kaha ki kendra rashtriya philma puraskara (enaephae) ko sammelana se aage le ja raha hai।"
     },
     {
       "id": "bd55db36b6c93938",
@@ -95,6 +101,21 @@
       "category_hinglish": "Entertainment"
     },
     {
+      "id": "cd7ba6fdae4d7ed6",
+      "title": "Beyond the medal table: Why the Asian Games matter to India’s place in Asia",
+      "summary": "The 20th Asian Games will officially get underway in Aichi-Nagoya, Japan, on September 19, bringing together the best sporting talent from across the continent. For India, the immediate objective is obvious, build on the historic performance in Hangzhou and once again establish itself among",
+      "category": "Sports",
+      "image": "https://dailypioneer.com/uploads/2026/story/images/big/beyond-the-medal-table--why-the-asian-games-matter-to-india---s-place-in-asia-2026-09-22.jpg",
+      "source": "Daily Pioneer",
+      "sourceUrl": "https://dailypioneer.com/news/beyond-the-medal-table-why-the-asian-games-matter-to-indias-place-in-asia",
+      "publishedAt": "2026-09-22T08:56:17.000Z",
+      "fetchedAt": "2026-09-22T09:59:04.687Z",
+      "title_hi": "",
+      "summary_hi": "",
+      "category_hi": "खेल",
+      "category_hinglish": "Sports"
+    },
+    {
       "id": "20b8c67e06609b7a",
       "title": "CMRL 'bribery' case: Keralam govt orders police inquiry into ED report seeking action against ex-CM Vijayan",
       "summary": "CMRL case: Kerala government orders a police inquiry into the ED report seeking action against former CM Pinarayi Vijayan, Veena T and P A Mohamed Riyas over alleged bribery linked to Cochin Minerals and Rutile Ltd. The DGP will conduct inquiry now.",
@@ -104,10 +125,12 @@
       "sourceUrl": "https://www.deccanherald.com/india/keralam/cmrl-bribery-case-keralam-govt-orders-police-inquiry-into-ed-report-seeking-action-against-ex-cm-vijayan-4154989",
       "publishedAt": "2026-09-22T08:53:33.000Z",
       "fetchedAt": "2026-09-22T09:18:27.578Z",
-      "title_hi": "",
-      "summary_hi": "",
+      "title_hi": "सीएमआरएल 'रिश्वत' मामला: केरल सरकार ने पूर्व सीएम विजयन के खिलाफ कार्रवाई की मांग वाली ईडी रिपोर्ट की पुलिस जांच के आदेश दिए",
+      "summary_hi": "सीएमआरएल मामला: केरल सरकार ने कोचीन मिनरल्स एंड रूटाइल लिमिटेड से जुड़े कथित रिश्वतखोरी को लेकर पूर्व सीएम पिनाराई विजयन, वीणा टी और पी ए मोहम्मद रियास के खिलाफ कार्रवाई की मांग करने वाली ईडी रिपोर्ट की पुलिस जांच के आदेश दिए। अब डीजीपी जांच करेंगे।",
       "category_hi": "राजनीति और सरकार",
-      "category_hinglish": "Politics aur Government"
+      "category_hinglish": "Politics aur Government",
+      "title_hinglish": "siemaaaraela 'rishvata' mamal: kerala sarakara ne purva siema vijayana ke khilapha karravaee ki manga vali eedi riporta ki pulisa jancha ke aadesha die",
+      "summary_hinglish": "siemaaaraela mamal: kerala sarakara ne kochina minaralsa enda rutaila limiteda se judaे kathita rishvatakhori ko lekara purva siema pinaraee vijayan, vina ti aura pi e mohammada riyasa ke khilapha karravaee ki manga karane vali eedi riporta ki pulisa jancha ke aadesha die। aba dijipi jancha karenge।"
     },
     {
       "id": "ef3143a0b7841f19",
@@ -125,6 +148,38 @@
       "category_hinglish": "Sports"
     },
     {
+      "id": "3680e85c6caabee7",
+      "title": "India vs Japan: When and where to watch historic T20I - Live streaming, telecast and match timings",
+      "summary": "India are set to take on Japan in a historic T20I on Tuesday, with the one-off Suzuki Cup offering both teams an opportunity to fine-tune their preparations ahead of the men’s cricket tournament at the 2026 Asian Games.",
+      "category": "Sports",
+      "image": "https://static.toiimg.com/thumb/msid-134381866,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/india-take-on-japan-in-historic-t20i-ahead-of-asian-games-when-and-where-to-watch-the-match-live/articleshow/134381763.cms",
+      "publishedAt": "2026-09-22T06:23:00.000Z",
+      "fetchedAt": "2026-09-22T10:19:08.716Z",
+      "title_hi": "भारत बनाम जापान: ऐतिहासिक टी20 मैच कब और कहाँ देखें - लाइव स्ट्रीमिंग, प्रसारण और मैच का समय",
+      "summary_hi": "भारत मंगलवार को एक ऐतिहासिक T20I में जापान से भिड़ने के लिए तैयार है, जिसमें एकमात्र सुजुकी कप दोनों टीमों को 2026 एशियाई खेलों में पुरुष क्रिकेट टूर्नामेंट से पहले अपनी तैयारियों को बेहतर बनाने का मौका देगा।",
+      "category_hi": "खेल",
+      "title_hinglish": "bharata banama japan: aitihasika ti20 maicha kaba aura kahan dekhen - laiva striming, prasarana aura maicha ka samaya",
+      "summary_hinglish": "bharata mangalavara ko eka aitihasika T20I men japana se bhidane ke lie taiyara hai, jisamen ekamatra sujuki kapa donon timon ko 2026 eshiyaee khelon men purusha kriketa turnamenta se pahale apani taiyariyon ko behatara banane ka mauka dega।",
+      "category_hinglish": "Sports"
+    },
+    {
+      "id": "d605bbb0a3b9104b",
+      "title": "India Wins Gold In ASIAD",
+      "summary": "New Delhi: History repeats itself in grand fashion as the Indian Women’s Cricket Team as once again ascended to the summit of Asian sports, capturing the Gold Medal at the 20th Asian Games in Aichi-Nagoya. In a displaying masterclass of nerves, athletic prowess, and unwavering teamwork, India defeat",
+      "category": "Sports",
+      "image": "https://tathya.in/wp-content/uploads/2026/09/22Cricket.jpeg",
+      "source": "tathya.in",
+      "sourceUrl": "https://tathya.in/india-wins-gold-in-asiad/",
+      "publishedAt": "2026-09-22T08:41:59.000Z",
+      "fetchedAt": "2026-09-22T10:18:46.086Z",
+      "title_hi": "",
+      "summary_hi": "",
+      "category_hi": "खेल",
+      "category_hinglish": "Sports"
+    },
+    {
       "id": "24da7c7bf3df515e",
       "title": "Inside India's Digital Audit Blueprint",
       "summary": "On 27 August 2026, at the Indian Institute of Technology Madras, the Comptroller and Auditor General of India, K Sanjay Murthy, and IIT Madras directo",
@@ -134,25 +189,29 @@
       "sourceUrl": "https://swarajyamag.com/tech/inside-indias-digital-audit-blueprint",
       "publishedAt": "2026-09-22T08:41:31.000Z",
       "fetchedAt": "2026-09-22T09:59:15.916Z",
-      "title_hi": "",
-      "summary_hi": "",
+      "title_hi": "भारत के डिजिटल ऑडिट ब्लूप्रिंट के अंदर",
+      "summary_hi": "27 अगस्त 2026 को, भारतीय प्रौद्योगिकी संस्थान मद्रास में, भारत के नियंत्रक और महालेखा परीक्षक, के संजय मूर्ति और आईआईटी मद्रास के निदेशक",
       "category_hi": "टेक्नोलॉजी",
-      "category_hinglish": "Technology"
+      "category_hinglish": "Technology",
+      "title_hinglish": "bharata ke dijitala ऑdita bluprinta ke andara",
+      "summary_hinglish": "27 agasta 2026 ko, bharatiya praudyogiki sansthana madrasa men, bharata ke niyantraka aura mahalekha parikshak, ke sanjaya murti aura aaeeaaeeti madrasa ke nideshaka"
     },
     {
-      "id": "3680e85c6caabee7",
-      "title": "India vs Japan: When and where to watch historic T20I - Live streaming, telecast and match timings",
-      "summary": "India are set to take on Japan in a historic T20I on Tuesday, with the one-off Suzuki Cup offering both teams an opportunity to fine-tune their preparations ahead of the men’s cricket tournament at the 2026 Asian Games.",
-      "category": "Sports",
-      "image": "https://static.toiimg.com/thumb/msid-134381866,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "id": "cfdd06dd7edf6deb",
+      "title": "‘Chhitputh ghatna hoti rehti hai’: Bihar minister's remarks on Jamui harassment case triggers row",
+      "summary": "Minister Shrawon Kumar says, \"The world is not entirely free from crime; sporadic incidents do occur. The government keeps a close watch on such incidents.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134402118,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/india-take-on-japan-in-historic-t20i-ahead-of-asian-games-when-and-where-to-watch-the-match-live/articleshow/134381763.cms",
-      "publishedAt": "2026-09-22T06:23:00.000Z",
-      "fetchedAt": "2026-09-22T09:59:27.611Z",
-      "title_hi": "",
-      "summary_hi": "",
-      "category_hi": "खेल",
-      "category_hinglish": "Sports"
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/chhitputh-ghatna-hoti-rehti-hai-bihar-ministers-remarks-on-jamui-harassment-case-triggers-row/articleshow/134401676.cms",
+      "publishedAt": "2026-09-22T04:16:00.000Z",
+      "fetchedAt": "2026-09-22T06:56:29.392Z",
+      "title_hi": "'छिटपुट घाटना होती रहती है': जमुई उत्पीड़न मामले पर बिहार के मंत्री की टिप्पणी से विवाद शुरू हो गया",
+      "summary_hi": "मंत्री श्रवण कुमार कहते हैं, ''दुनिया पूरी तरह से अपराध से मुक्त नहीं है, छिटपुट घटनाएं होती रहती हैं. सरकार ऐसी घटनाओं पर कड़ी नजर रखती है.''",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "category_hinglish": "Crime aur Breaking News",
+      "title_hinglish": "'chhitaputa ghatana hoti rahati hai': jamuee utpidana mamale para bihara ke mantri ki tippani se vivada shuru ho gaya",
+      "summary_hinglish": "mantri shravana kumara kahate hain, ''duniya puri taraha se aparadha se mukta nahin hai, chhitaputa ghatanaen hoti rahati hain. sarakara aisi ghatanaon para kadaी najara rakhati hai.''"
     },
     {
       "id": "9567b65e2438b48e",
@@ -187,21 +246,21 @@
       "category_hinglish": "Politics aur Government"
     },
     {
-      "id": "cfdd06dd7edf6deb",
-      "title": "‘Chhitputh ghatna hoti rehti hai’: Bihar minister's remarks on Jamui harassment case triggers row",
-      "summary": "Minister Shrawon Kumar says, \"The world is not entirely free from crime; sporadic incidents do occur. The government keeps a close watch on such incidents.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134402118,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/chhitputh-ghatna-hoti-rehti-hai-bihar-ministers-remarks-on-jamui-harassment-case-triggers-row/articleshow/134401676.cms",
-      "publishedAt": "2026-09-22T04:16:00.000Z",
-      "fetchedAt": "2026-09-22T06:56:29.392Z",
-      "title_hi": "'छिटपुट घाटना होती रहती है': जमुई उत्पीड़न मामले पर बिहार के मंत्री की टिप्पणी से विवाद शुरू हो गया",
-      "summary_hi": "मंत्री श्रवण कुमार कहते हैं, ''दुनिया पूरी तरह से अपराध से मुक्त नहीं है, छिटपुट घटनाएं होती रहती हैं. सरकार ऐसी घटनाओं पर कड़ी नजर रखती है.''",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "category_hinglish": "Crime aur Breaking News",
-      "title_hinglish": "'chhitaputa ghatana hoti rahati hai': jamuee utpidana mamale para bihara ke mantri ki tippani se vivada shuru ho gaya",
-      "summary_hinglish": "mantri shravana kumara kahate hain, ''duniya puri taraha se aparadha se mukta nahin hai, chhitaputa ghatanaen hoti rahati hain. sarakara aisi ghatanaon para kadaी najara rakhati hai.''"
+      "id": "cea4f4bcb6b1beff",
+      "title": "Cut to Experience: An inside look at Chennai’s evolving culture of film screenings",
+      "summary": "What does a film experience mean to you? Is it the escapade within a darkened theatre, where hundreds of seats face a screen that transports you into another wo",
+      "category": "Entertainment",
+      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-09-21%2Flb2bk7ob%2FSequel-Intersetellar-1.jpg?rect=0%2C278%2C1170%2C614&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "The New Indian Express",
+      "sourceUrl": "https://www.newindianexpress.com/amp/story/cities/chennai/2026/Sep/22/cut-to-experience-an-inside-look-at-chennais-evolving-culture-of-film-screenings",
+      "publishedAt": "2026-09-22T00:55:00.000Z",
+      "fetchedAt": "2026-09-22T10:19:09.573Z",
+      "title_hi": "अनुभव में कटौती: चेन्नई की फिल्म स्क्रीनिंग की विकसित होती संस्कृति पर एक अंदरूनी नज़र",
+      "summary_hi": "आपके लिए फिल्म का अनुभव क्या मायने रखता है? क्या यह एक अँधेरे थिएटर के भीतर का पलायन है, जहाँ सैकड़ों सीटें एक स्क्रीन के सामने हैं जो आपको एक और दुनिया में ले जाती है?",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "anubhava men katauti: chennaee ki philma skrininga ki vikasita hoti sanskriti para eka andaruni najara",
+      "summary_hinglish": "aapake lie philma ka anubhava kya mayane rakhata hai? kya yaha eka andhere thietara ke bhitara ka palayana hai, jahan saikadaोn siten eka skrina ke samane hain jo aapako eka aura duniya men le jati hai?",
+      "category_hinglish": "Entertainment"
     },
     {
       "id": "0d9ce16bf1f3bcd1",
@@ -236,21 +295,6 @@
       "category_hinglish": "National aur Trending News"
     },
     {
-      "id": "c6aa8f0d2a2c01eb",
-      "title": "3 pose as cops, gang-rape Delhi teen inside park near Kalkaji Mandir",
-      "summary": "A 17-year-old girl was allegedly sexually assaulted by three men at Astha Kunj Park near Kalkaji Mandir after the accused allegedly posed as policemen and separated her from her male friend, Delhi Police said.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134402577,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/delhi/3-pose-as-cops-gang-rape-minor-near-kalkaji-mandir/articleshow/134400155.cms",
-      "publishedAt": "2026-09-22T01:43:00.000Z",
-      "fetchedAt": "2026-09-22T09:59:27.108Z",
-      "title_hi": "",
-      "summary_hi": "",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "category_hinglish": "Crime aur Breaking News"
-    },
-    {
       "id": "278a44b5a7eb9717",
       "title": "IND vs JPN one-off T20I: India survive scare from Japan to win five-over a side match by 2 runs",
       "summary": "Chasing a target of 33 runs, Japan, playing for the first time against India, failed to score boundary needed on the last ball to win the match and managed 30 runs for loss of three wickets.",
@@ -260,10 +304,29 @@
       "sourceUrl": "https://www.wionews.com/sports/ind-vs-jpn-one-off-t20i-india-survive-scare-from-japan-to-win-five-over-a-side-match-by-2-runs-1790064919299",
       "publishedAt": "2026-09-22T08:18:00.000Z",
       "fetchedAt": "2026-09-22T09:18:32.765Z",
-      "title_hi": "",
-      "summary_hi": "",
+      "title_hi": "IND बनाम JPN एकमात्र T20I: भारत ने जापान के डर से बचकर पांच ओवर का एक साइड मैच 2 रन से जीता",
+      "summary_hi": "33 रनों के लक्ष्य का पीछा करते हुए भारत के खिलाफ पहली बार खेल रही जापान आखिरी गेंद पर मैच जीतने के लिए जरूरी बाउंड्री लगाने में नाकाम रही और तीन विकेट के नुकसान पर 30 रन ही बना सकी।",
       "category_hi": "खेल",
-      "category_hinglish": "Sports"
+      "category_hinglish": "Sports",
+      "title_hinglish": "IND banama JPN ekamatra T20I: bharata ne japana ke dara se bachakara pancha ovara ka eka saida maicha 2 rana se jita",
+      "summary_hinglish": "33 ranon ke lakshya ka pichha karate hue bharata ke khilapha pahali bara khela rahi japana aakhiri genda para maicha jitane ke lie jaruri baundri lagane men nakama rahi aura tina viketa ke nukasana para 30 rana hi bana saki।"
+    },
+    {
+      "id": "bd27a711f58cacad",
+      "title": "Next panchayat election only after the delimitation: Samrat Choudhary",
+      "summary": "Bihar CM Samrat Choudhary announces Panchayat elections post-delimitation, urging representatives to enhance village infrastructure and self-reliance.",
+      "category": "National & Trending News",
+      "image": "https://th-i.thgim.com/public/incoming/e12h5o/article71493257.ece/alternates/FREE_1200/20260921152L.jpg",
+      "source": "The Hindu",
+      "sourceUrl": "https://www.thehindu.com/news/national/bihar/next-panchayat-election-only-after-the-delimitation-samrat-choudhary/article71491749.ece/amp/",
+      "publishedAt": "2026-09-22T00:30:00.000Z",
+      "fetchedAt": "2026-09-22T02:31:16.998Z",
+      "title_hi": "परिसीमन के बाद ही अगला पंचायत चुनाव : सम्राट चौधरी",
+      "summary_hi": "बिहार के मुख्यमंत्री सम्राट चौधरी ने परिसीमन के बाद पंचायत चुनाव की घोषणा की, प्रतिनिधियों से गांव के बुनियादी ढांचे और आत्मनिर्भरता को बढ़ाने का आग्रह किया।",
+      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
+      "title_hinglish": "parisimana ke bada hi agala panchayata chunava : samrata chaudhari",
+      "summary_hinglish": "bihara ke mukhyamantri samrata chaudhari ne parisimana ke bada panchayata chunava ki ghoshana ki, pratinidhiyon se ganva ke buniyadi dhanche aura aatmanirbharata ko badhaाne ka aagraha kiya।",
+      "category_hinglish": "National aur Trending News"
     },
     {
       "id": "9ee186fa20ddbaac",
@@ -300,21 +363,19 @@
       "category_hinglish": "Entertainment"
     },
     {
-      "id": "bd27a711f58cacad",
-      "title": "Next panchayat election only after the delimitation: Samrat Choudhary",
-      "summary": "Bihar CM Samrat Choudhary announces Panchayat elections post-delimitation, urging representatives to enhance village infrastructure and self-reliance.",
-      "category": "National & Trending News",
-      "image": "https://th-i.thgim.com/public/incoming/e12h5o/article71493257.ece/alternates/FREE_1200/20260921152L.jpg",
-      "source": "The Hindu",
-      "sourceUrl": "https://www.thehindu.com/news/national/bihar/next-panchayat-election-only-after-the-delimitation-samrat-choudhary/article71491749.ece/amp/",
-      "publishedAt": "2026-09-22T00:30:00.000Z",
-      "fetchedAt": "2026-09-22T02:31:16.998Z",
-      "title_hi": "परिसीमन के बाद ही अगला पंचायत चुनाव : सम्राट चौधरी",
-      "summary_hi": "बिहार के मुख्यमंत्री सम्राट चौधरी ने परिसीमन के बाद पंचायत चुनाव की घोषणा की, प्रतिनिधियों से गांव के बुनियादी ढांचे और आत्मनिर्भरता को बढ़ाने का आग्रह किया।",
-      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
-      "title_hinglish": "parisimana ke bada hi agala panchayata chunava : samrata chaudhari",
-      "summary_hinglish": "bihara ke mukhyamantri samrata chaudhari ne parisimana ke bada panchayata chunava ki ghoshana ki, pratinidhiyon se ganva ke buniyadi dhanche aura aatmanirbharata ko badhaाne ka aagraha kiya।",
-      "category_hinglish": "National aur Trending News"
+      "id": "bb9bb204e486f4c8",
+      "title": "14yrs on, SC orders fresh probe into Dharmasthala rape-murder",
+      "summary": "Supreme Court orders Karnataka police SIT to reinvestigate 2012 Dharmasthala rape-murder of 17-year-old, citing lapses; compliance report due in 3 months.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/bengaluru/14yrs-on-sc-orders-fresh-probe-into-dharmasthala-rape-murder/articleshow/134397435.cms",
+      "publishedAt": "2026-09-21T19:54:00.000Z",
+      "fetchedAt": "2026-09-22T10:19:08.011Z",
+      "title_hi": "",
+      "summary_hi": "",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "category_hinglish": "Crime aur Breaking News"
     },
     {
       "id": "a1b8fa6ba45d041c",
@@ -402,6 +463,23 @@
       "category_hinglish": "Technology"
     },
     {
+      "id": "b30ca007ca2ef5d7",
+      "title": "Air India’s new IFE platform coming in 2027 second half; targets in-flight commerce revenues",
+      "summary": "Air India will launch an integrated in-flight platform in late 2027. This new system will combine entertainment, loyalty programs, and e-commerce services. Passengers will access these features through connected in-flight entertainment screens. The platform aims to monetize the captive audience and offer new travel experiences.",
+      "category": "Entertainment",
+      "image": "https://m.economictimes.com/thumb/width-1280,height-720,imgsize-43454,msid-134406176/air-india-.jpg",
+      "source": "The Economic Times",
+      "sourceUrl": "https://m.economictimes.com/industry/transportation/airlines-/-aviation/air-indias-new-ife-platform-coming-in-2027-second-half-targets-in-flight-commerce-revenues/amp_articleshow/134406070.cms",
+      "publishedAt": "2026-09-22T07:41:00.000Z",
+      "fetchedAt": "2026-09-22T09:18:35.687Z",
+      "title_hi": "एयर इंडिया का नया IFE प्लेटफॉर्म 2027 की दूसरी छमाही में आ रहा है; इन-फ़्लाइट वाणिज्य राजस्व को लक्षित करता है",
+      "summary_hi": "एयर इंडिया 2027 के अंत में एक एकीकृत इन-फ़्लाइट प्लेटफ़ॉर्म लॉन्च करेगी। यह नई प्रणाली मनोरंजन, लॉयल्टी प्रोग्राम और ई-कॉमर्स सेवाओं को जोड़ती है। यात्री इन सुविधाओं का उपयोग कनेक्टेड इन-फ़्लाइट मनोरंजन स्क्रीन के माध्यम से करेंगे। मंच का लक्ष्य कैप्टिव दर्शकों से मुद्रीकरण करना और नए यात्रा अनुभव प्रदान करना है।",
+      "category_hi": "मनोरंजन",
+      "category_hinglish": "Entertainment",
+      "title_hinglish": "eyara indiya ka naya IFE pletaphorma 2027 ki dusari chhamahi men aa raha hai; ina-phalaita vanijya rajasva ko lakshita karata hai",
+      "summary_hinglish": "eyara indiya 2027 ke anta men eka ekikrita ina-phalaita pletaphaॉrma loncha karegi। yaha naee pranali manoranjan, loyalti programa aura ee-komarsa sevaon ko jodati hai। yatri ina suvidhaon ka upayoga kanekteda ina-phalaita manoranjana skrina ke madhyama se karenge। mancha ka lakshya kaiptiva darshakon se mudrikarana karana aura nae yatra anubhava pradana karana hai।"
+    },
+    {
       "id": "591919cb3dc464af",
       "title": "Disha Salian probe rekindles hope in Bihar for fresh look at Sushant death",
       "summary": "The Bombay High Court’s order directing a fresh CBI probe into the death of actor Sushant Singh Rajput’s former manager Disha Salian has rekindled hopes in Bihar that the circumstances surrounding the two deaths could be examined afresh.",
@@ -417,21 +495,6 @@
       "title_hinglish": "disha saliyana ki jancha se bihara men sushanta ki mauta para nae sire se najara dalane ki ummida jagi hai",
       "summary_hinglish": "abhineta sushanta sinha rajaputa ki purva mainejara disha saliyana ki mauta ki nae sire se sibiaaee jancha ka nirdesha dene vale bombe haee korta ke aadesha ne bihara men ummida jaga di hai ki donon mauton ke aasapasa ki paristhitiyon ki nae sire se jancha ki ja sakati hai।",
       "category_hinglish": "Crime aur Breaking News"
-    },
-    {
-      "id": "b30ca007ca2ef5d7",
-      "title": "Air India’s new IFE platform coming in 2027 second half; targets in-flight commerce revenues",
-      "summary": "Air India will launch an integrated in-flight platform in late 2027. This new system will combine entertainment, loyalty programs, and e-commerce services. Passengers will access these features through connected in-flight entertainment screens. The platform aims to monetize the captive audience and offer new travel experiences.",
-      "category": "Entertainment",
-      "image": "https://m.economictimes.com/thumb/width-1280,height-720,imgsize-43454,msid-134406176/air-india-.jpg",
-      "source": "The Economic Times",
-      "sourceUrl": "https://m.economictimes.com/industry/transportation/airlines-/-aviation/air-indias-new-ife-platform-coming-in-2027-second-half-targets-in-flight-commerce-revenues/amp_articleshow/134406070.cms",
-      "publishedAt": "2026-09-22T07:41:00.000Z",
-      "fetchedAt": "2026-09-22T09:18:35.687Z",
-      "title_hi": "",
-      "summary_hi": "",
-      "category_hi": "मनोरंजन",
-      "category_hinglish": "Entertainment"
     },
     {
       "id": "01bf1e3018aab815",
@@ -458,10 +521,12 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/science/indias-space-sovereignty-from-building-missions-to-building-depth-milestones-gaps-whats-next/amp_articleshow/134404971.cms",
       "publishedAt": "2026-09-22T07:31:00.000Z",
       "fetchedAt": "2026-09-22T09:33:37.320Z",
-      "title_hi": "",
-      "summary_hi": "",
+      "title_hi": "भारत की अंतरिक्ष संप्रभुता: निर्माण मिशन से लेकर निर्माण की गहराई तक - मील के पत्थर, अंतराल और आगे क्या है",
+      "summary_hi": "टाइम्स ऑफ इंडिया भारत और दुनिया भर में राजनीति और समसामयिक मामलों, क्रिकेट, खेल, व्यापार, बॉलीवुड समाचार और मनोरंजन, विज्ञान, प्रौद्योगिकी, स्वास्थ्य और फिटनेस समाचार और प्रमुख स्तंभकारों की राय पर नवीनतम और शीर्ष ब्रेकिंग समाचार लाता है।",
       "category_hi": "टेक्नोलॉजी",
-      "category_hinglish": "Technology"
+      "category_hinglish": "Technology",
+      "title_hinglish": "bharata ki antariksha sanprabhut: nirmana mishana se lekara nirmana ki gaharaee taka - mila ke patthar, antarala aura aage kya hai",
+      "summary_hinglish": "taimsa ऑpha indiya bharata aura duniya bhara men rajaniti aura samasamayika mamalon, kriket, khel, vyapar, bolivuda samachara aura manoranjan, vijnyan, praudyogiki, svasthya aura phitanesa samachara aura pramukha stanbhakaron ki raya para navinatama aura shirsha brekinga samachara lata hai।"
     },
     {
       "id": "0b1680d7a3a3331f",
@@ -566,21 +631,6 @@
       "summary_hinglish": "pradarshana baraha ghante ke antara para honge, 10 aktubara ko shama ko aura 11 aktubara ko bhora men"
     },
     {
-      "id": "ebb8dd960fbc3c83",
-      "title": "India-Born Japan Cricketer Abhishek Anand keen to meet fellow Bihar cricketers Vaibhav Sooryavanshi and Ishan",
-      "summary": "Abhishek Anand was born in Bihar and later moved to Japan and tomorrow he will face them in the historic one-off T20I at Sano",
-      "category": "Sports",
-      "image": "https://static.india.com/wp-content/uploads/2026/09/sadadesdasssda.jpg",
-      "source": "India.com",
-      "sourceUrl": "https://www.india.com/sports/cricket/india-born-japan-cricketer-abhishek-anand-keen-to-meet-fellow-bihar-cricketers-vaibhav-sooryavanshi-and-ishan-kishan-8528570/",
-      "publishedAt": "2026-09-21T17:30:12.000Z",
-      "fetchedAt": "2026-09-22T09:18:52.289Z",
-      "title_hi": "",
-      "summary_hi": "",
-      "category_hi": "खेल",
-      "category_hinglish": "Sports"
-    },
-    {
       "id": "14e2c0ca67809958",
       "title": "National song choice is state’s call, penal consequences open to scrutiny: SC",
       "summary": "The bench said its scrutiny would focus on the penal consequences attached to the 2026 amendment to the Prevention of Insults to National Honour Act | India News",
@@ -598,6 +648,21 @@
       "category_hinglish": "National aur Trending News"
     },
     {
+      "id": "ebb8dd960fbc3c83",
+      "title": "India-Born Japan Cricketer Abhishek Anand keen to meet fellow Bihar cricketers Vaibhav Sooryavanshi and Ishan",
+      "summary": "Abhishek Anand was born in Bihar and later moved to Japan and tomorrow he will face them in the historic one-off T20I at Sano",
+      "category": "Sports",
+      "image": "https://static.india.com/wp-content/uploads/2026/09/sadadesdasssda.jpg",
+      "source": "India.com",
+      "sourceUrl": "https://www.india.com/sports/cricket/india-born-japan-cricketer-abhishek-anand-keen-to-meet-fellow-bihar-cricketers-vaibhav-sooryavanshi-and-ishan-kishan-8528570/",
+      "publishedAt": "2026-09-21T17:30:12.000Z",
+      "fetchedAt": "2026-09-22T09:18:52.289Z",
+      "title_hi": "",
+      "summary_hi": "",
+      "category_hi": "खेल",
+      "category_hinglish": "Sports"
+    },
+    {
       "id": "226ee6e86c8249bc",
       "title": "Anu Sikka exits JioStar after 21 years in kids entertainment",
       "summary": "Anu Sikka exits JioStar after 21 years in kids entertainment - Latest News",
@@ -607,10 +672,12 @@
       "sourceUrl": "https://www.animationxpress.com/latest-news/anu-sikka-exits-jiostar-after-21-years-in-kids-entertainment/",
       "publishedAt": "2026-09-22T07:08:20.000Z",
       "fetchedAt": "2026-09-22T08:48:32.994Z",
-      "title_hi": "",
-      "summary_hi": "",
+      "title_hi": "अनु सिक्का बच्चों के मनोरंजन में 21 साल बाद JioStar से बाहर हुईं",
+      "summary_hi": "अनु सिक्का बच्चों के मनोरंजन में 21 साल बाद JioStar से बाहर हुईं - नवीनतम समाचार",
       "category_hi": "मनोरंजन",
-      "category_hinglish": "Entertainment"
+      "category_hinglish": "Entertainment",
+      "title_hinglish": "anu sikka bachchon ke manoranjana men 21 sala bada JioStar se bahara hueen",
+      "summary_hinglish": "anu sikka bachchon ke manoranjana men 21 sala bada JioStar se bahara hueen - navinatama samachara"
     },
     {
       "id": "1a7a4c1ab908ef82",
@@ -730,23 +797,6 @@
       "category_hinglish": "Crime aur Breaking News"
     },
     {
-      "id": "c107348ca216c765",
-      "title": "968 police stations in Bihar now linked to CCTNS",
-      "summary": "Bihar Police has brought 968 police stations and outposts under the Crime and Criminal Tracking Network and Systems (CCTNS), with efforts under way to extend the system to the remaining units, ADG (law and order) K S Anupam said on Monday.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134393025,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/patna/968-police-stations-in-bihar-now-linked-to-cctns/articleshow/134393026.cms",
-      "publishedAt": "2026-09-21T15:44:00.000Z",
-      "fetchedAt": "2026-09-21T15:58:55.265Z",
-      "title_hi": "बिहार के 968 थाने अब सीसीटीएनएस से जुड़ गये हैं",
-      "summary_hi": "एडीजी (कानून एवं व्यवस्था) केएस अनुपम ने सोमवार को कहा कि बिहार पुलिस ने 968 पुलिस स्टेशनों और चौकियों को अपराध और आपराधिक ट्रैकिंग नेटवर्क और सिस्टम (सीसीटीएनएस) के तहत लाया है, इस प्रणाली को शेष इकाइयों तक विस्तारित करने के प्रयास चल रहे हैं।",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "bihara ke 968 thane aba sisitienaesa se juda gaye hain",
-      "summary_hinglish": "ediji (kanuna evan vyavastha) keesa anupama ne somavara ko kaha ki bihara pulisa ne 968 pulisa steshanon aura chaukiyon ko aparadha aura aaparadhika traikinga netavarka aura sistama (sisitienaesa) ke tahata laya hai, isa pranali ko shesha ikaiyon taka vistarita karane ke prayasa chala rahe hain।",
-      "category_hinglish": "Crime aur Breaking News"
-    },
-    {
       "id": "dc2010fe783d6c53",
       "title": "Smriti Mandhana, Richa Ghosh power India to highest-ever Asian Games total in gold-medal match vs Sri Lan",
       "summary": "Smriti Mandhana's blistering 79 and Richa Ghosh's explosive unbeaten 49 helped India post a daunting 216/3, their highest-ever total in women's cricket at the Asian Games, against Sri Lanka in the gold-medal match at the Korogi Sports Park on Tuesday.",
@@ -762,6 +812,23 @@
       "category_hinglish": "Sports",
       "title_hinglish": "smriti mandhan, richa ghosha ne shrilanka ke khilapha svarna padaka maicha men bharata ko eshiyaee khelon men aba taka ka sarvochcha skora dilaya",
       "summary_hinglish": "smriti mandhana ki tuphani 79 rana aura richa ghosha ki visphotaka nabada 49 rana ki pari ki madada se bharata ne mangalavara ko korogi sportsa parka men svarna padaka maicha men shrilanka ke khilapha 216/3 ka chunautipurna skora banay, jo eshiyaee khelon men mahila kriketa men unaka aba taka ka sarvochcha skora hai।"
+    },
+    {
+      "id": "c107348ca216c765",
+      "title": "968 police stations in Bihar now linked to CCTNS",
+      "summary": "Bihar Police has brought 968 police stations and outposts under the Crime and Criminal Tracking Network and Systems (CCTNS), with efforts under way to extend the system to the remaining units, ADG (law and order) K S Anupam said on Monday.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134393025,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/patna/968-police-stations-in-bihar-now-linked-to-cctns/articleshow/134393026.cms",
+      "publishedAt": "2026-09-21T15:44:00.000Z",
+      "fetchedAt": "2026-09-21T15:58:55.265Z",
+      "title_hi": "बिहार के 968 थाने अब सीसीटीएनएस से जुड़ गये हैं",
+      "summary_hi": "एडीजी (कानून एवं व्यवस्था) केएस अनुपम ने सोमवार को कहा कि बिहार पुलिस ने 968 पुलिस स्टेशनों और चौकियों को अपराध और आपराधिक ट्रैकिंग नेटवर्क और सिस्टम (सीसीटीएनएस) के तहत लाया है, इस प्रणाली को शेष इकाइयों तक विस्तारित करने के प्रयास चल रहे हैं।",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "bihara ke 968 thane aba sisitienaesa se juda gaye hain",
+      "summary_hinglish": "ediji (kanuna evan vyavastha) keesa anupama ne somavara ko kaha ki bihara pulisa ne 968 pulisa steshanon aura chaukiyon ko aparadha aura aaparadhika traikinga netavarka aura sistama (sisitienaesa) ke tahata laya hai, isa pranali ko shesha ikaiyon taka vistarita karane ke prayasa chala rahe hain।",
+      "category_hinglish": "Crime aur Breaking News"
     },
     {
       "id": "12bb47379a7834b1",
@@ -841,10 +908,12 @@
       "sourceUrl": "https://www.policyedge.in/p/indias-rd-landscape-is-shifting-what-the-dst-data-mean-for-government-businesses-and-universities",
       "publishedAt": "2026-09-22T06:46:44.000Z",
       "fetchedAt": "2026-09-22T09:00:15.983Z",
-      "title_hi": "",
-      "summary_hi": "",
+      "title_hi": "भारत का अनुसंधान एवं विकास परिदृश्य बदल रहा है: सरकार, व्यवसायों और विश्वविद्यालयों के लिए डीएसटी डेटा का क्या मतलब है",
+      "summary_hi": "भारत अधिक व्यवसाय-आधारित अनुसंधान एवं विकास प्रणाली की ओर बढ़ रहा है, जिससे तकनीकी क्षमता, सार्वजनिक अनुसंधान और विश्वविद्यालय-उद्योग संबंधों पर सवाल उठ रहे हैं।",
       "category_hi": "टेक्नोलॉजी",
-      "category_hinglish": "Technology"
+      "category_hinglish": "Technology",
+      "title_hinglish": "bharata ka anusandhana evan vikasa paridrishya badala raha hai: sarakar, vyavasayon aura vishvavidyalayon ke lie diesati deta ka kya matalaba hai",
+      "summary_hinglish": "bharata adhika vyavasaya-aadharita anusandhana evan vikasa pranali ki ora badha raha hai, jisase takaniki kshamat, sarvajanika anusandhana aura vishvavidyalaya-udyoga sanbandhon para savala utha rahe hain।"
     },
     {
       "id": "7afde13baf724224",
@@ -898,23 +967,6 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "c6e1280f0a8636db",
-      "title": "Bihar harassment horror: Police arrest three, launch manhunt for four others",
-      "summary": "On a viral video from Jamui showing a boy being assaulted and a girl being groped, SP Vishwajeet Dayal says, \"An FIR has been registered regarding the incident of molestation and indecent behavior by anti-social elements shown in the video, and a SIT has… pic.twitter.com/1JGCjWji5M",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134388108,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/bihar-harassment-horror-police-arrest-three-launch-manhunt-for-four-others/articleshow/134387784.cms",
-      "publishedAt": "2026-09-21T11:13:00.000Z",
-      "fetchedAt": "2026-09-21T11:44:23.773Z",
-      "title_hi": "बिहार उत्पीड़न का आतंक: पुलिस ने तीन को गिरफ्तार किया, चार अन्य की तलाश जारी",
-      "summary_hi": "जमुई के एक वायरल वीडियो पर जिसमें एक लड़के के साथ मारपीट और एक लड़की के साथ छेड़छाड़ की गई है, एसपी विश्वजीत दयाल कहते हैं, \"वीडियो में दिखाए गए असामाजिक तत्वों द्वारा छेड़छाड़ और अभद्र व्यवहार की घटना के संबंध में एक प्राथमिकी दर्ज की गई है, और एक एसआईटी ने… pic.twitter.com/1JGCjWji5M",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "category_hinglish": "Crime aur Breaking News",
-      "title_hinglish": "bihara utpidana ka aatank: pulisa ne tina ko giraphtara kiy, chara anya ki talasha jari",
-      "summary_hinglish": "jamuee ke eka vayarala vidiyo para jisamen eka ladake ke satha marapita aura eka ladaki ke satha chhedachhada ki gaee hai, esapi vishvajita dayala kahate hain, \"vidiyo men dikhae gae asamajika tatvon dvara chhedachhada aura abhadra vyavahara ki ghatana ke sanbandha men eka prathamiki darja ki gaee hai, aura eka esaaaeeti ne… pic.twitter.com/1JGCjWji5M"
-    },
-    {
       "id": "6110dc381c983a94",
       "title": "Manoj Gupta Elevated to Chief Operating Officer – India at Rentokil Initial",
       "summary": "Rentokil Initial has elevated Manoj Gupta to Chief Operating Officer – India, marking a new phase in his more than 17-year career with...",
@@ -930,6 +982,23 @@
       "category_hinglish": "Business aur Finance",
       "title_hinglish": "manoja gupta ko rentokila inishiyala men mukhya parichalana adhikari - bharata ke pada para padonnata kiya gaya",
       "summary_hinglish": "rentokila inishiyala ne manoja gupta ko mukhya parichalana adhikari - bharata ke rupa men padonnata kiya hai, jo unake 17 sala se adhika ke kariyara men eka naya charana hai..."
+    },
+    {
+      "id": "c6e1280f0a8636db",
+      "title": "Bihar harassment horror: Police arrest three, launch manhunt for four others",
+      "summary": "On a viral video from Jamui showing a boy being assaulted and a girl being groped, SP Vishwajeet Dayal says, \"An FIR has been registered regarding the incident of molestation and indecent behavior by anti-social elements shown in the video, and a SIT has… pic.twitter.com/1JGCjWji5M",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134388108,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/bihar-harassment-horror-police-arrest-three-launch-manhunt-for-four-others/articleshow/134387784.cms",
+      "publishedAt": "2026-09-21T11:13:00.000Z",
+      "fetchedAt": "2026-09-21T11:44:23.773Z",
+      "title_hi": "बिहार उत्पीड़न का आतंक: पुलिस ने तीन को गिरफ्तार किया, चार अन्य की तलाश जारी",
+      "summary_hi": "जमुई के एक वायरल वीडियो पर जिसमें एक लड़के के साथ मारपीट और एक लड़की के साथ छेड़छाड़ की गई है, एसपी विश्वजीत दयाल कहते हैं, \"वीडियो में दिखाए गए असामाजिक तत्वों द्वारा छेड़छाड़ और अभद्र व्यवहार की घटना के संबंध में एक प्राथमिकी दर्ज की गई है, और एक एसआईटी ने… pic.twitter.com/1JGCjWji5M",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "category_hinglish": "Crime aur Breaking News",
+      "title_hinglish": "bihara utpidana ka aatank: pulisa ne tina ko giraphtara kiy, chara anya ki talasha jari",
+      "summary_hinglish": "jamuee ke eka vayarala vidiyo para jisamen eka ladake ke satha marapita aura eka ladaki ke satha chhedachhada ki gaee hai, esapi vishvajita dayala kahate hain, \"vidiyo men dikhae gae asamajika tatvon dvara chhedachhada aura abhadra vyavahara ki ghatana ke sanbandha men eka prathamiki darja ki gaee hai, aura eka esaaaeeti ne… pic.twitter.com/1JGCjWji5M"
     },
     {
       "id": "104a100b25c85126",
@@ -1066,23 +1135,6 @@
       "category_hinglish": "Crime aur Breaking News"
     },
     {
-      "id": "fe78c9fafddb64aa",
-      "title": "3 arrested, SIT formed, Opposition fumes over Jamui harassment case | Top updates | India News",
-      "summary": "Three people have been arrested in connection with the incident and Jamui Police has formed an SIT to investigate the viral video. | India News",
-      "category": "Crime & Breaking News",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/21/1600x900/logo/Police_1789987657442_lSvW_1789987657576_QgOE_a3f2bce9-c1cc-48e4-873e-e4a55ecf1670_ZO3x.jpg",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/india-news/3-arrested-sit-formed-victims-identified-in-bihar-jamui-harassment-case-viral-video-top-updates-101789985173813.html",
-      "publishedAt": "2026-09-21T10:55:28.000Z",
-      "fetchedAt": "2026-09-21T23:12:23.334Z",
-      "title_hi": "3 गिरफ्तार, एसआईटी गठित, जमुई उत्पीड़न मामले पर विपक्ष भड़का | शीर्ष अद्यतन | भारत समाचार",
-      "summary_hi": "घटना के संबंध में तीन लोगों को गिरफ्तार किया गया है और वायरल वीडियो की जांच के लिए जमुई पुलिस ने एक एसआईटी का गठन किया है। | भारत समाचार",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "3 giraphtar, esaaaeeti gathit, jamuee utpidana mamale para vipaksha bhadaka | shirsha adyatana | bharata samachara",
-      "summary_hinglish": "ghatana ke sanbandha men tina logon ko giraphtara kiya gaya hai aura vayarala vidiyo ki jancha ke lie jamuee pulisa ne eka esaaaeeti ka gathana kiya hai। | bharata samachara",
-      "category_hinglish": "Crime aur Breaking News"
-    },
-    {
       "id": "27cea5aa31cb2e24",
       "title": "News18 India’s ‘Jazba’ Brings India’s Sporting Community Together for Day of Powerful Conversations",
       "summary": "New Delhi: News18 India hosted ‘Jazba: Jadon Se Shikhar Tak’ in Delhi on September 18, bringing together the stories behind",
@@ -1098,6 +1150,23 @@
       "title_hinglish": "nyuja18 indiya ka 'jajaba' bharata ke khela samudaya ko shaktishali batachita ke dina ke lie eka satha lata hai",
       "summary_hinglish": "naee dilli: nyuja18 indiya ne 18 sitanbara ko dilli men 'jajb: jadon se shikhara taka' ki mejabani ki, jisamen pichhe ki kahaniyon ko eka satha laya gaya",
       "category_hinglish": "Sports"
+    },
+    {
+      "id": "fe78c9fafddb64aa",
+      "title": "3 arrested, SIT formed, Opposition fumes over Jamui harassment case | Top updates | India News",
+      "summary": "Three people have been arrested in connection with the incident and Jamui Police has formed an SIT to investigate the viral video. | India News",
+      "category": "Crime & Breaking News",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/21/1600x900/logo/Police_1789987657442_lSvW_1789987657576_QgOE_a3f2bce9-c1cc-48e4-873e-e4a55ecf1670_ZO3x.jpg",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/3-arrested-sit-formed-victims-identified-in-bihar-jamui-harassment-case-viral-video-top-updates-101789985173813.html",
+      "publishedAt": "2026-09-21T10:55:28.000Z",
+      "fetchedAt": "2026-09-21T23:12:23.334Z",
+      "title_hi": "3 गिरफ्तार, एसआईटी गठित, जमुई उत्पीड़न मामले पर विपक्ष भड़का | शीर्ष अद्यतन | भारत समाचार",
+      "summary_hi": "घटना के संबंध में तीन लोगों को गिरफ्तार किया गया है और वायरल वीडियो की जांच के लिए जमुई पुलिस ने एक एसआईटी का गठन किया है। | भारत समाचार",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "3 giraphtar, esaaaeeti gathit, jamuee utpidana mamale para vipaksha bhadaka | shirsha adyatana | bharata samachara",
+      "summary_hinglish": "ghatana ke sanbandha men tina logon ko giraphtara kiya gaya hai aura vayarala vidiyo ki jancha ke lie jamuee pulisa ne eka esaaaeeti ka gathana kiya hai। | bharata samachara",
+      "category_hinglish": "Crime aur Breaking News"
     },
     {
       "id": "f113d4128840f2e0",
@@ -1236,23 +1305,6 @@
       "category_hinglish": "National aur Trending News"
     },
     {
-      "id": "d86231a50c64f2f1",
-      "title": "Meet Bihar-Born IITian Abhishek Anand, Whose Love For Cricket Took Him To Japan",
-      "summary": "Sano (Japan): Love for cricket and hope for the sport's future in Japan took a Bihar-born IITian, Abhishek Anand, to the Land of the Rising Sun. He was",
-      "category": "Sports",
-      "image": "https://ommcomnews.com/wp-content/uploads/2026/09/New-Project-2026-09-21T110654.381.jpg",
-      "source": "Ommcom News",
-      "sourceUrl": "https://ommcomnews.com/sports-news/meet-bihar-born-iitian-abhishek-anand-whose-love-for-cricket-took-him-to-japan/",
-      "publishedAt": "2026-09-21T05:53:21.000Z",
-      "fetchedAt": "2026-09-21T12:15:46.732Z",
-      "title_hi": "मिलिए बिहार में जन्मे आईआईटियन अभिषेक आनंद से, जिनका क्रिकेट के प्रति प्यार उन्हें जापान ले गया",
-      "summary_hi": "सानो (जापान): क्रिकेट के प्रति प्रेम और जापान में इस खेल के भविष्य की आशा बिहार में जन्मे आईआईटियन अभिषेक आनंद को उगते सूरज की भूमि पर ले गई। वह था",
-      "category_hi": "खेल",
-      "title_hinglish": "milie bihara men janme aaeeaaeetiyana abhisheka aananda se, jinaka kriketa ke prati pyara unhen japana le gaya",
-      "summary_hinglish": "sano (japana): kriketa ke prati prema aura japana men isa khela ke bhavishya ki aasha bihara men janme aaeeaaeetiyana abhisheka aananda ko ugate suraja ki bhumi para le gaee। vaha tha",
-      "category_hinglish": "Sports"
-    },
-    {
       "id": "54d5dfb248d5f028",
       "title": "Sowjanya Case: How I Would Defend the Victim After 14 Years | Supreme Court Advocate",
       "summary": "The Supreme Court orders a fresh SIT probe in the Sowjanya rape-murder case after 14 years, stressing forensic evidence, Article 21, and fair investigation.",
@@ -1268,6 +1320,23 @@
       "category_hinglish": "Crime aur Breaking News",
       "title_hinglish": "saujanya kes: 14 sala bada main pidaिta ka bachava kaise karungi | suprima korta ke vakila",
       "summary_hinglish": "suprima korta ne phorensika sakshy, anuchchheda 21 aura nishpaksha jancha para jora dete hue 14 sala bada saujanya balatkara-hatya mamale men nae sire se esaaaeeti jancha ka aadesha diya।"
+    },
+    {
+      "id": "d86231a50c64f2f1",
+      "title": "Meet Bihar-Born IITian Abhishek Anand, Whose Love For Cricket Took Him To Japan",
+      "summary": "Sano (Japan): Love for cricket and hope for the sport's future in Japan took a Bihar-born IITian, Abhishek Anand, to the Land of the Rising Sun. He was",
+      "category": "Sports",
+      "image": "https://ommcomnews.com/wp-content/uploads/2026/09/New-Project-2026-09-21T110654.381.jpg",
+      "source": "Ommcom News",
+      "sourceUrl": "https://ommcomnews.com/sports-news/meet-bihar-born-iitian-abhishek-anand-whose-love-for-cricket-took-him-to-japan/",
+      "publishedAt": "2026-09-21T05:53:21.000Z",
+      "fetchedAt": "2026-09-21T12:15:46.732Z",
+      "title_hi": "मिलिए बिहार में जन्मे आईआईटियन अभिषेक आनंद से, जिनका क्रिकेट के प्रति प्यार उन्हें जापान ले गया",
+      "summary_hi": "सानो (जापान): क्रिकेट के प्रति प्रेम और जापान में इस खेल के भविष्य की आशा बिहार में जन्मे आईआईटियन अभिषेक आनंद को उगते सूरज की भूमि पर ले गई। वह था",
+      "category_hi": "खेल",
+      "title_hinglish": "milie bihara men janme aaeeaaeetiyana abhisheka aananda se, jinaka kriketa ke prati pyara unhen japana le gaya",
+      "summary_hinglish": "sano (japana): kriketa ke prati prema aura japana men isa khela ke bhavishya ki aasha bihara men janme aaeeaaeetiyana abhisheka aananda ko ugate suraja ki bhumi para le gaee। vaha tha",
+      "category_hinglish": "Sports"
     },
     {
       "id": "78f95ddf81bec91e",
@@ -1406,23 +1475,6 @@
       "category_hinglish": "Entertainment"
     },
     {
-      "id": "b0a7445d8fa7d0e5",
-      "title": "Bihar forms SIT to probe vehicle insurance fraud, tightens challan norms",
-      "summary": "The Bihar Police have taken a series of measures to curb insurance fraud and improve traffic enforcement, including the formation of a Special Investigation Team (SIT) under the Crime Investigation Department (CID) to probe suspected ‘vehicle implant’ scams, stricter norms for issuing traffic challans and a directive to release accident-hit…",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134368657,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/patna/bihar-forms-sit-to-probe-vehicle-insurance-fraud-tightens-challan-norms/articleshow/134368658.cms",
-      "publishedAt": "2026-09-20T12:47:00.000Z",
-      "fetchedAt": "2026-09-20T16:50:32.571Z",
-      "title_hi": "बिहार ने वाहन बीमा धोखाधड़ी की जांच के लिए एसआईटी गठित की, चालान मानदंड सख्त किए",
-      "summary_hi": "बिहार पुलिस ने बीमा धोखाधड़ी को रोकने और यातायात प्रवर्तन में सुधार के लिए कई कदम उठाए हैं, जिसमें संदिग्ध 'वाहन प्रत्यारोपण' घोटालों की जांच के लिए अपराध जांच विभाग (सीआईडी) के तहत एक विशेष जांच दल (एसआईटी) का गठन, यातायात चालान जारी करने के लिए सख्त मानदंड और दुर्घटना-प्रभावित लोगों को रिहा करने का निर्देश शामिल है...",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "bihar ne vahan bim dhokhadhadी ki janch ke lie esaaiti gathit ki, chalan manadand sakht kie",
-      "category_hinglish": "Crime aur Breaking News",
-      "summary_hinglish": "bihara pulisa ne bima dhokhadhadaी ko rokane aura yatayata pravartana men sudhara ke lie kaee kadama uthae hain, jisamen sandigdha 'vahana pratyaropana' ghotalon ki jancha ke lie aparadha jancha vibhaga (siaaeedi) ke tahata eka vishesha jancha dala (esaaaeeti) ka gathan, yatayata chalana jari karane ke lie sakhta manadanda aura durghatana-prabhavita logon ko riha karane ka nirdesha shamila hai..."
-    },
-    {
       "id": "623fda8ebee701fd",
       "title": "Infrastructure Challenges for Startups Expanding Across India",
       "summary": "India’s startup ecosystem is expanding beyond traditional technology hubs as businesses increasing...",
@@ -1438,6 +1490,23 @@
       "title_hinglish": "pure bharata men vistara kara rahe startaapsa ke lie buniyadi dhanche ki chunautiyan",
       "summary_hinglish": "jaise-jaise karobara badha raha hai, bharata ka startaapa ikosistama paranparika praudyogiki kendron se aage badha raha hai...",
       "category_hinglish": "Technology"
+    },
+    {
+      "id": "b0a7445d8fa7d0e5",
+      "title": "Bihar forms SIT to probe vehicle insurance fraud, tightens challan norms",
+      "summary": "The Bihar Police have taken a series of measures to curb insurance fraud and improve traffic enforcement, including the formation of a Special Investigation Team (SIT) under the Crime Investigation Department (CID) to probe suspected ‘vehicle implant’ scams, stricter norms for issuing traffic challans and a directive to release accident-hit…",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134368657,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/patna/bihar-forms-sit-to-probe-vehicle-insurance-fraud-tightens-challan-norms/articleshow/134368658.cms",
+      "publishedAt": "2026-09-20T12:47:00.000Z",
+      "fetchedAt": "2026-09-20T16:50:32.571Z",
+      "title_hi": "बिहार ने वाहन बीमा धोखाधड़ी की जांच के लिए एसआईटी गठित की, चालान मानदंड सख्त किए",
+      "summary_hi": "बिहार पुलिस ने बीमा धोखाधड़ी को रोकने और यातायात प्रवर्तन में सुधार के लिए कई कदम उठाए हैं, जिसमें संदिग्ध 'वाहन प्रत्यारोपण' घोटालों की जांच के लिए अपराध जांच विभाग (सीआईडी) के तहत एक विशेष जांच दल (एसआईटी) का गठन, यातायात चालान जारी करने के लिए सख्त मानदंड और दुर्घटना-प्रभावित लोगों को रिहा करने का निर्देश शामिल है...",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "bihar ne vahan bim dhokhadhadी ki janch ke lie esaaiti gathit ki, chalan manadand sakht kie",
+      "category_hinglish": "Crime aur Breaking News",
+      "summary_hinglish": "bihara pulisa ne bima dhokhadhadaी ko rokane aura yatayata pravartana men sudhara ke lie kaee kadama uthae hain, jisamen sandigdha 'vahana pratyaropana' ghotalon ki jancha ke lie aparadha jancha vibhaga (siaaeedi) ke tahata eka vishesha jancha dala (esaaaeeti) ka gathan, yatayata chalana jari karane ke lie sakhta manadanda aura durghatana-prabhavita logon ko riha karane ka nirdesha shamila hai..."
     },
     {
       "id": "2c581d14a01f4ac2",
@@ -1576,23 +1645,6 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "d340ef50077a9df3",
-      "title": "Bhojpuri actress Kajal Raghwani is safe after fans CHASE her car, BREAK WINDOWS at Bihar Sharif showroom",
-      "summary": "The Times of India brings the Latest & Top Breaking News on Politics and Current Affairs in India & around the World, Cricket, Sports, Business, Bollywood News and Entertainment, Science, Technology, Health & Fitness news & opinions from leading columnists.",
-      "category": "Entertainment",
-      "image": "https://static.toiimg.com/thumb/msid-134366552,width-1280,height-720,imgsize-512586,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/bhojpuri/movies/news/bhojpuri-actress-kajal-raghwani-is-safe-after-fans-chase-her-car-break-windows-at-bihar-sharif-showroom-launch/amp_articleshow/134366365.cms",
-      "publishedAt": "2026-09-20T10:14:00.000Z",
-      "fetchedAt": "2026-09-21T06:16:00.819Z",
-      "title_hi": "बिहारशरीफ शोरूम में प्रशंसकों द्वारा उनकी कार का पीछा करने, खिड़कियां तोड़ने के बाद भोजपुरी अभिनेत्री काजल राघवानी सुरक्षित हैं",
-      "summary_hi": "टाइम्स ऑफ इंडिया भारत और दुनिया भर में राजनीति और समसामयिक मामलों, क्रिकेट, खेल, व्यापार, बॉलीवुड समाचार और मनोरंजन, विज्ञान, प्रौद्योगिकी, स्वास्थ्य और फिटनेस समाचार और प्रमुख स्तंभकारों की राय पर नवीनतम और शीर्ष ब्रेकिंग समाचार लाता है।",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "biharasharipha shoruma men prashansakon dvara unaki kara ka pichha karane, khidakiyan todane ke bada bhojapuri abhinetri kajala raghavani surakshita hain",
-      "summary_hinglish": "taimsa ऑpha indiya bharata aura duniya bhara men rajaniti aura samasamayika mamalon, kriket, khel, vyapar, bolivuda samachara aura manoranjan, vijnyan, praudyogiki, svasthya aura phitanesa samachara aura pramukha stanbhakaron ki raya para navinatama aura shirsha brekinga samachara lata hai।",
-      "category_hinglish": "Entertainment"
-    },
-    {
       "id": "18aa6a64930ab14d",
       "title": "IND vs JPN one-off T20I 2026 live scorecard, toss winner, winning probability, weather forecast, result and highlights from Sano",
       "summary": "IND vs JPN one-off T20I 2026 live scorecard, toss winner, winning probability, weather forecast, result, highlights, ball-by-ball updates, match result, and video highlights from Sano International Cricket Ground, Sano.",
@@ -1608,6 +1660,23 @@
       "category_hinglish": "Sports",
       "title_hinglish": "IND banama JPN ekamatra T20I 2026 laiva skorakard, tosa vijet, jita ki sanbhavan, mausama ka purvanuman, parinama aura sano se hailaitsa",
       "summary_hinglish": "IND banama JPN ekamatra T20I 2026 laiva skorakard, tosa vijet, jita ki sanbhavan, mausama purvanuman, parinam, hailaits, bola-dara-bola apadet, maicha parinam, aura sano intaraneshanala kriketa graund, sano se vidiyo hailaitsa।"
+    },
+    {
+      "id": "d340ef50077a9df3",
+      "title": "Bhojpuri actress Kajal Raghwani is safe after fans CHASE her car, BREAK WINDOWS at Bihar Sharif showroom",
+      "summary": "The Times of India brings the Latest & Top Breaking News on Politics and Current Affairs in India & around the World, Cricket, Sports, Business, Bollywood News and Entertainment, Science, Technology, Health & Fitness news & opinions from leading columnists.",
+      "category": "Entertainment",
+      "image": "https://static.toiimg.com/thumb/msid-134366552,width-1280,height-720,imgsize-512586,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/bhojpuri/movies/news/bhojpuri-actress-kajal-raghwani-is-safe-after-fans-chase-her-car-break-windows-at-bihar-sharif-showroom-launch/amp_articleshow/134366365.cms",
+      "publishedAt": "2026-09-20T10:14:00.000Z",
+      "fetchedAt": "2026-09-21T06:16:00.819Z",
+      "title_hi": "बिहारशरीफ शोरूम में प्रशंसकों द्वारा उनकी कार का पीछा करने, खिड़कियां तोड़ने के बाद भोजपुरी अभिनेत्री काजल राघवानी सुरक्षित हैं",
+      "summary_hi": "टाइम्स ऑफ इंडिया भारत और दुनिया भर में राजनीति और समसामयिक मामलों, क्रिकेट, खेल, व्यापार, बॉलीवुड समाचार और मनोरंजन, विज्ञान, प्रौद्योगिकी, स्वास्थ्य और फिटनेस समाचार और प्रमुख स्तंभकारों की राय पर नवीनतम और शीर्ष ब्रेकिंग समाचार लाता है।",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "biharasharipha shoruma men prashansakon dvara unaki kara ka pichha karane, khidakiyan todane ke bada bhojapuri abhinetri kajala raghavani surakshita hain",
+      "summary_hinglish": "taimsa ऑpha indiya bharata aura duniya bhara men rajaniti aura samasamayika mamalon, kriket, khel, vyapar, bolivuda samachara aura manoranjan, vijnyan, praudyogiki, svasthya aura phitanesa samachara aura pramukha stanbhakaron ki raya para navinatama aura shirsha brekinga samachara lata hai।",
+      "category_hinglish": "Entertainment"
     },
     {
       "id": "2b5ea6ff79b11e72",
@@ -1746,23 +1815,6 @@
       "category_hinglish": "Sports"
     },
     {
-      "id": "df4ee11c80718c75",
-      "title": "Prashant Kishor's JSP announces 5 candidates for Bihar Legislative Council polls | India News",
-      "summary": "Elections are to be held for a total of eight constituencies -- four graduates' and teachers' seats each -- terms of which expire in November. | India News",
-      "category": "Politics & Government",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/20/1600x900/logo/ANI-20260817010-0_1789888983916_Wnjr_1789888994868_1BmE_71c08991-5f2a-46a2-82be-9b91283a90bb_N2z0.jpg",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/india-news/prashant-kishors-jsp-announces-5-candidates-for-bihar-legislative-council-poll-101789888783357.html",
-      "publishedAt": "2026-09-20T07:23:57.000Z",
-      "fetchedAt": "2026-09-20T19:08:25.327Z",
-      "title_hi": "प्रशांत किशोर की जेएसपी ने बिहार विधान परिषद चुनाव के लिए 5 उम्मीदवारों की घोषणा की | भारत समाचार",
-      "summary_hi": "कुल आठ निर्वाचन क्षेत्रों के लिए चुनाव होने हैं - चार स्नातक और शिक्षक सीटें - जिनकी शर्तें नवंबर में समाप्त हो रही हैं। | भारत समाचार",
-      "category_hi": "राजनीति और सरकार",
-      "category_hinglish": "Politics aur Government",
-      "title_hinglish": "prashanta kishora ki jeesapi ne bihara vidhana parishada chunava ke lie 5 ummidavaron ki ghoshana ki | bharata samachara",
-      "summary_hinglish": "kula aatha nirvachana kshetron ke lie chunava hone hain - chara snataka aura shikshaka siten - jinaki sharten navanbara men samapta ho rahi hain। | bharata samachara"
-    },
-    {
       "id": "fff61b76fee30691",
       "title": "CTV in India: 15 things every marketer needs to know about the next phase of television",
       "summary": "India’s CTV ecosystem is rapidly scaling to an estimated 207 million viewers, expanding beyond metros while combining big-screen co-viewing, premium audiences, addressability and growing advertising opportunities.",
@@ -1778,6 +1830,23 @@
       "title_hinglish": "bharata men sitivi: telivijana ke agale charana ke bare men 15 baten jo pratyeka vipanaka ko janana aavashyaka hai",
       "summary_hinglish": "bharata ka sitivi ikosistama teji se anumanita 207 miliyana darshakon taka pahuncha raha hai, jo badaे skrina para saha-darshan, primiyama darshakon, edresebiliti aura badhate vijnyapana avasaron ke sanyojana ke satha mahanagaron se aage badha raha hai।",
       "category_hinglish": "Entertainment"
+    },
+    {
+      "id": "df4ee11c80718c75",
+      "title": "Prashant Kishor's JSP announces 5 candidates for Bihar Legislative Council polls | India News",
+      "summary": "Elections are to be held for a total of eight constituencies -- four graduates' and teachers' seats each -- terms of which expire in November. | India News",
+      "category": "Politics & Government",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/20/1600x900/logo/ANI-20260817010-0_1789888983916_Wnjr_1789888994868_1BmE_71c08991-5f2a-46a2-82be-9b91283a90bb_N2z0.jpg",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/prashant-kishors-jsp-announces-5-candidates-for-bihar-legislative-council-poll-101789888783357.html",
+      "publishedAt": "2026-09-20T07:23:57.000Z",
+      "fetchedAt": "2026-09-20T19:08:25.327Z",
+      "title_hi": "प्रशांत किशोर की जेएसपी ने बिहार विधान परिषद चुनाव के लिए 5 उम्मीदवारों की घोषणा की | भारत समाचार",
+      "summary_hi": "कुल आठ निर्वाचन क्षेत्रों के लिए चुनाव होने हैं - चार स्नातक और शिक्षक सीटें - जिनकी शर्तें नवंबर में समाप्त हो रही हैं। | भारत समाचार",
+      "category_hi": "राजनीति और सरकार",
+      "category_hinglish": "Politics aur Government",
+      "title_hinglish": "prashanta kishora ki jeesapi ne bihara vidhana parishada chunava ke lie 5 ummidavaron ki ghoshana ki | bharata samachara",
+      "summary_hinglish": "kula aatha nirvachana kshetron ke lie chunava hone hain - chara snataka aura shikshaka siten - jinaki sharten navanbara men samapta ho rahi hain। | bharata samachara"
     },
     {
       "id": "40201dbc3296a848",
