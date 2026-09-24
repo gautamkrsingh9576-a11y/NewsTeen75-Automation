@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-24T21:41:07.690Z",
-  "count": 87,
+  "updatedAt": "2026-09-24T21:51:28.536Z",
+  "count": 90,
   "articles": [
     {
       "id": "31de8c832095f622",
@@ -177,7 +177,7 @@
       "source": "olympics.com",
       "sourceUrl": "https://www.olympics.com/en/news/asian-games-2026-medal-tally-india-winners-table-list",
       "publishedAt": "2026-09-24T17:53:00.000Z",
-      "fetchedAt": "2026-09-24T21:25:23.580Z",
+      "fetchedAt": "2026-09-24T21:50:38.711Z",
       "title_hi": "एशियाई खेल 2026: भारत की पदक तालिका और विजेताओं की सूची - पूरी तालिका",
       "summary_hi": "एशियाई खेल 2026 में भारत के विजेताओं की सूची जानें। पदक तालिका जानें और भारतीय एथलीटों ने प्रत्येक खेल में कितने पदक जीते हैं। पूरी मेज.",
       "category_hi": "खेल",
@@ -220,6 +220,21 @@
       "category_hinglish": "Politics aur Government"
     },
     {
+      "id": "3251cf8d3422075f",
+      "title": "DRDO signs first high-value deep-tech contract with startup for quantum project",
+      "summary": "DRDO has signed its first high-value deep-tech agreement with Zero mK India to develop a 20 mK dilution refrigerator for quantum applications. The project is meant to boost indigenous quantum and cryogenic capabilities while reducing reliance on imported systems.",
+      "category": "Technology",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/drdo-jobs-304913536-16x9.jpg?VersionId=GZCa6st5d5_ZkYoHw2RyPkYd9IX8AoD5",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/india/story/drdo-first-deep-tech-start-up-deal-quantum-project-20-mk-dilution-refrigerator-3002325-2026-09-24",
+      "publishedAt": "2026-09-24T17:14:21.000Z",
+      "fetchedAt": "2026-09-24T21:51:13.244Z",
+      "title_hi": "",
+      "summary_hi": "",
+      "category_hi": "टेक्नोलॉजी",
+      "category_hinglish": "Technology"
+    },
+    {
       "id": "58d27f9cc1d2eedb",
       "title": "ET Now Live TV: Business News Live TV Online, Finance & Market News Live Streaming",
       "summary": "ET Now Business News Live TV: Watch Live Business News, Finance & Market News Live TV Online, Today Latest Business News and Updates on ET Now Live TV.",
@@ -237,23 +252,6 @@
       "category_hinglish": "Business aur Finance"
     },
     {
-      "id": "b3b75ebaa62f4db5",
-      "title": "Asian Games: India's Full Schedule For Friday, September 25",
-      "summary": "Indian athletes are set to compete across various disciplines including athletics, badminton, boxing, hockey, kabaddi, shooting, squash, swimming, and table tennis at the Asian Games on Friday, September 25. Key events include finals in athletics and shooting, along with crucial knockout stages in team sports and individual events.",
-      "category": "Sports",
-      "image": "https://im.rediff.com/1200-630/sports/2023/sep/23games4.JPG",
-      "source": "Rediff",
-      "sourceUrl": "https://www.rediff.com/sports/report/indian-athletes-schedule-for-asian-games-september-25/20260924.htm",
-      "publishedAt": "2026-09-24T17:03:48.000Z",
-      "fetchedAt": "2026-09-24T17:21:09.782Z",
-      "title_hi": "एशियाई खेल: शुक्रवार, 25 सितंबर के लिए भारत का पूरा कार्यक्रम",
-      "summary_hi": "भारतीय एथलीट शुक्रवार, 25 सितंबर को एशियाई खेलों में एथलेटिक्स, बैडमिंटन, मुक्केबाजी, हॉकी, कबड्डी, निशानेबाजी, स्क्वैश, तैराकी और टेबल टेनिस सहित विभिन्न विषयों में प्रतिस्पर्धा करने के लिए तैयार हैं। प्रमुख आयोजनों में एथलेटिक्स और निशानेबाजी में फाइनल के साथ-साथ टीम खेल और व्यक्तिगत स्पर्धाओं में महत्वपूर्ण नॉकआउट चरण शामिल हैं।",
-      "category_hi": "खेल",
-      "title_hinglish": "eshiyaee khel: shukravar, 25 sitanbara ke lie bharata ka pura karyakrama",
-      "summary_hinglish": "bharatiya ethalita shukravar, 25 sitanbara ko eshiyaee khelon men ethaletiks, baidamintan, mukkebaji, hoki, kabaddi, nishanebaji, skvaish, tairaki aura tebala tenisa sahita vibhinna vishayon men pratispardha karane ke lie taiyara hain। pramukha aayojanon men ethaletiksa aura nishanebaji men phainala ke satha-satha tima khela aura vyaktigata spardhaon men mahatvapurna nokaaauta charana shamila hain।",
-      "category_hinglish": "Sports"
-    },
-    {
       "id": "d95f8864a6d2a2c3",
       "title": "Jamui harassment video: Accused Nandan Yadav’s father was wanted for double murder",
       "summary": "While the other accused in the 2003 double murder are now out on bail, Ganauri Yadav was never caught by Bihar Police",
@@ -269,6 +267,23 @@
       "category_hinglish": "Crime aur Breaking News",
       "title_hinglish": "jamuee utpidana vidiyo: aaropi nandana yadava ke pita dohare hatyakanda men the vanchhita",
       "summary_hinglish": "jabaki 2003 ke dohare hatyakanda ke anya aaropi aba jamanata para bahara hain, ganauri yadava kabhi bhi bihara pulisa ki pakada men nahin aaya"
+    },
+    {
+      "id": "b3b75ebaa62f4db5",
+      "title": "Asian Games: India's Full Schedule For Friday, September 25",
+      "summary": "Indian athletes are set to compete across various disciplines including athletics, badminton, boxing, hockey, kabaddi, shooting, squash, swimming, and table tennis at the Asian Games on Friday, September 25. Key events include finals in athletics and shooting, along with crucial knockout stages in team sports and individual events.",
+      "category": "Sports",
+      "image": "https://im.rediff.com/1200-630/sports/2023/sep/23games4.JPG",
+      "source": "Rediff",
+      "sourceUrl": "https://www.rediff.com/sports/report/indian-athletes-schedule-for-asian-games-september-25/20260924.htm",
+      "publishedAt": "2026-09-24T17:03:48.000Z",
+      "fetchedAt": "2026-09-24T17:21:09.782Z",
+      "title_hi": "एशियाई खेल: शुक्रवार, 25 सितंबर के लिए भारत का पूरा कार्यक्रम",
+      "summary_hi": "भारतीय एथलीट शुक्रवार, 25 सितंबर को एशियाई खेलों में एथलेटिक्स, बैडमिंटन, मुक्केबाजी, हॉकी, कबड्डी, निशानेबाजी, स्क्वैश, तैराकी और टेबल टेनिस सहित विभिन्न विषयों में प्रतिस्पर्धा करने के लिए तैयार हैं। प्रमुख आयोजनों में एथलेटिक्स और निशानेबाजी में फाइनल के साथ-साथ टीम खेल और व्यक्तिगत स्पर्धाओं में महत्वपूर्ण नॉकआउट चरण शामिल हैं।",
+      "category_hi": "खेल",
+      "title_hinglish": "eshiyaee khel: shukravar, 25 sitanbara ke lie bharata ka pura karyakrama",
+      "summary_hinglish": "bharatiya ethalita shukravar, 25 sitanbara ko eshiyaee khelon men ethaletiks, baidamintan, mukkebaji, hoki, kabaddi, nishanebaji, skvaish, tairaki aura tebala tenisa sahita vibhinna vishayon men pratispardha karane ke lie taiyara hain। pramukha aayojanon men ethaletiksa aura nishanebaji men phainala ke satha-satha tima khela aura vyaktigata spardhaon men mahatvapurna nokaaauta charana shamila hain।",
+      "category_hinglish": "Sports"
     },
     {
       "id": "ec45756ecbff8056",
@@ -305,23 +320,6 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "c234906a89a8cdef",
-      "title": "Student Protests in India: The Politics of Outrage and Hope",
-      "summary": "Manuel Castells’s account of networked movements helps explain how private anxieties become collective action—and why student protests deserve a serious response.",
-      "category": "Politics & Government",
-      "image": "https://fl-i.thgim.com/public/incoming/9x9gmo/article71505307.ece/alternates/FREE_1200/student%20protests.JPG",
-      "source": "Frontline Magazine",
-      "sourceUrl": "https://frontline.thehindu.com/the-nation/student-protests-india-institutional-trust-democracy/article71505313.ece/amp/",
-      "publishedAt": "2026-09-24T16:21:01.000Z",
-      "fetchedAt": "2026-09-24T18:39:02.083Z",
-      "title_hi": "भारत में छात्र विरोध: आक्रोश और आशा की राजनीति",
-      "summary_hi": "मैनुअल कैस्टेल्स के नेटवर्क आंदोलनों का विवरण यह समझाने में मदद करता है कि कैसे निजी चिंताएँ सामूहिक कार्रवाई बन जाती हैं - और क्यों छात्र विरोध एक गंभीर प्रतिक्रिया के लायक हैं।",
-      "category_hi": "राजनीति और सरकार",
-      "title_hinglish": "bharata men chhatra virodh: aakrosha aura aasha ki rajaniti",
-      "summary_hinglish": "mainuala kaistelsa ke netavarka aandolanon ka vivarana yaha samajhane men madada karata hai ki kaise niji chintaen samuhika karravaee bana jati hain - aura kyon chhatra virodha eka ganbhira pratikriya ke layaka hain।",
-      "category_hinglish": "Politics aur Government"
-    },
-    {
       "id": "2866e0fdeea3c1a6",
       "title": "Removing salwar is not an attempt to rape: Supreme Court takes cognizance on Patna High Court’s judgment, cal",
       "summary": "In its July 9 judgment, the Patna High Court re-examined the evidence and concluded that the prosecution had failed to establish the necessary elements to prove the charge of attempted rape.",
@@ -337,6 +335,23 @@
       "title_hinglish": "salavara utarana repa ki koshisha nahin: suprima korta ne patana haee korta ke phaisale para liya sanjnyan, kaila",
       "summary_hinglish": "9 julaee ke apane phaisale men, patana uchcha nyayalaya ne sabuton ki phira se jancha ki aura nishkarsha nikala ki abhiyojana paksha balatkara ke prayasa ke aaropa ko sabita karane ke lie aavashyaka tatvon ko sthapita karane men viphala raha hai।",
       "category_hinglish": "Crime aur Breaking News"
+    },
+    {
+      "id": "c234906a89a8cdef",
+      "title": "Student Protests in India: The Politics of Outrage and Hope",
+      "summary": "Manuel Castells’s account of networked movements helps explain how private anxieties become collective action—and why student protests deserve a serious response.",
+      "category": "Politics & Government",
+      "image": "https://fl-i.thgim.com/public/incoming/9x9gmo/article71505307.ece/alternates/FREE_1200/student%20protests.JPG",
+      "source": "Frontline Magazine",
+      "sourceUrl": "https://frontline.thehindu.com/the-nation/student-protests-india-institutional-trust-democracy/article71505313.ece/amp/",
+      "publishedAt": "2026-09-24T16:21:01.000Z",
+      "fetchedAt": "2026-09-24T18:39:02.083Z",
+      "title_hi": "भारत में छात्र विरोध: आक्रोश और आशा की राजनीति",
+      "summary_hi": "मैनुअल कैस्टेल्स के नेटवर्क आंदोलनों का विवरण यह समझाने में मदद करता है कि कैसे निजी चिंताएँ सामूहिक कार्रवाई बन जाती हैं - और क्यों छात्र विरोध एक गंभीर प्रतिक्रिया के लायक हैं।",
+      "category_hi": "राजनीति और सरकार",
+      "title_hinglish": "bharata men chhatra virodh: aakrosha aura aasha ki rajaniti",
+      "summary_hinglish": "mainuala kaistelsa ke netavarka aandolanon ka vivarana yaha samajhane men madada karata hai ki kaise niji chintaen samuhika karravaee bana jati hain - aura kyon chhatra virodha eka ganbhira pratikriya ke layaka hain।",
+      "category_hinglish": "Politics aur Government"
     },
     {
       "id": "ab15eddc306971fb",
@@ -356,23 +371,6 @@
       "category_hinglish": "National aur Trending News"
     },
     {
-      "id": "590a45108459cbaf",
-      "title": "Chess Olympiad Round 8: India miss chance to close in as Gukesh draws; Savitha Shri saves women’s day",
-      "summary": "India had a smooth sail in the open section of the 2026 Chess Olympiad until their Round 6 game against hosts Uzbekistan in Samarkand. We all know what happened there.",
-      "category": "Sports",
-      "image": "https://static.toiimg.com/thumb/msid-134466487,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-round-8-india-miss-chance-to-close-in-as-gukesh-draws-savitha-shri-saves-womens-day/articleshow/134466331.cms",
-      "publishedAt": "2026-09-24T16:10:00.000Z",
-      "fetchedAt": "2026-09-24T17:04:13.585Z",
-      "title_hi": "शतरंज ओलंपियाड राउंड 8: गुकेश के ड्रा से भारत ने समापन का मौका गंवाया; सविता श्री ने महिला दिवस बचाया",
-      "summary_hi": "समरकंद में मेजबान उज़्बेकिस्तान के खिलाफ राउंड 6 गेम तक भारत 2026 शतरंज ओलंपियाड के ओपन सेक्शन में आसानी से आगे बढ़ गया था। हम सब जानते हैं कि वहां क्या हुआ था.",
-      "category_hi": "खेल",
-      "title_hinglish": "shataranja olanpiyada raunda 8: gukesha ke dra se bharata ne samapana ka mauka ganvay; savita shri ne mahila divasa bachaya",
-      "summary_hinglish": "samarakanda men mejabana ujabekistana ke khilapha raunda 6 gema taka bharata 2026 shataranja olanpiyada ke opana sekshana men aasani se aage badha gaya tha। hama saba janate hain ki vahan kya huaa th.",
-      "category_hinglish": "Sports"
-    },
-    {
       "id": "2636c75b9ef58a40",
       "title": "Bhagalpur’s Sandis Compound Set to Host BCCI Domestic Cricket Matches, Preparations Underway",
       "summary": "Bhagalpur/Patna : The Sandis Compound Stadium in Bhagalpur is being prepared to host BCCI domestic cricket matches, marking a significant",
@@ -388,6 +386,23 @@
       "category_hinglish": "Sports",
       "title_hinglish": "bhagalapura ka saindisa kanpaunda bisisiaaee ke gharelu kriketa maichon ki mejabani ke lie taiyar, taiyari chala rahi hai",
       "summary_hinglish": "bhagalapura/patana : bhagalapura ke saindisa kanpaunda stediyama ko bisisiaaee ke gharelu kriketa maichon ki mejabani ke lie taiyara kiya ja raha hai, jo eka mahatvapurna upalabdhi hai"
+    },
+    {
+      "id": "590a45108459cbaf",
+      "title": "Chess Olympiad Round 8: India miss chance to close in as Gukesh draws; Savitha Shri saves women’s day",
+      "summary": "India had a smooth sail in the open section of the 2026 Chess Olympiad until their Round 6 game against hosts Uzbekistan in Samarkand. We all know what happened there.",
+      "category": "Sports",
+      "image": "https://static.toiimg.com/thumb/msid-134466487,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-round-8-india-miss-chance-to-close-in-as-gukesh-draws-savitha-shri-saves-womens-day/articleshow/134466331.cms",
+      "publishedAt": "2026-09-24T16:10:00.000Z",
+      "fetchedAt": "2026-09-24T17:04:13.585Z",
+      "title_hi": "शतरंज ओलंपियाड राउंड 8: गुकेश के ड्रा से भारत ने समापन का मौका गंवाया; सविता श्री ने महिला दिवस बचाया",
+      "summary_hi": "समरकंद में मेजबान उज़्बेकिस्तान के खिलाफ राउंड 6 गेम तक भारत 2026 शतरंज ओलंपियाड के ओपन सेक्शन में आसानी से आगे बढ़ गया था। हम सब जानते हैं कि वहां क्या हुआ था.",
+      "category_hi": "खेल",
+      "title_hinglish": "shataranja olanpiyada raunda 8: gukesha ke dra se bharata ne samapana ka mauka ganvay; savita shri ne mahila divasa bachaya",
+      "summary_hinglish": "samarakanda men mejabana ujabekistana ke khilapha raunda 6 gema taka bharata 2026 shataranja olanpiyada ke opana sekshana men aasani se aage badha gaya tha। hama saba janate hain ki vahan kya huaa th.",
+      "category_hinglish": "Sports"
     },
     {
       "id": "b28fa55a23ffb8e9",
@@ -407,6 +422,23 @@
       "category_hinglish": "Sports"
     },
     {
+      "id": "39e8d44d9e95e297",
+      "title": "Oil price today: Brent crude falls to $102 as Iran signals openness to diplomacy to end its conflict with US",
+      "summary": "Oil price today: Brent crude futures fell 94 cents, or 0.9%, to $102.13 a barrel, while ​West Texas Intermediate futures eased 59 cents, or 0.7%, to $91.56. US Secretary of State Marco Rubio ‌has said that a deal with Iran would involve hard work over a period of time, adding…",
+      "category": "Business & Finance",
+      "image": "https://images.etnownews.com/thumb/msid-156213392,thumbsize-440675,width-1280,height-720,resizemode-75/156213392.jpg",
+      "source": "ET Now",
+      "sourceUrl": "https://www.etnownews.com/economy/oil-price-today-brent-crude-falls-to-102-as-iran-signals-openness-to-diplomacy-to-end-its-conflict-with-us-article-156213392/amp",
+      "publishedAt": "2026-09-24T02:37:49.000Z",
+      "fetchedAt": "2026-09-24T21:51:26.293Z",
+      "title_hi": "तेल की कीमत आज: ब्रेंट क्रूड गिरकर 102 डॉलर पर आ गया क्योंकि ईरान ने अमेरिका के साथ अपने संघर्ष को समाप्त करने के लिए कूटनीति में खुलेपन का संकेत दिया",
+      "summary_hi": "आज तेल की कीमत: ब्रेंट क्रूड वायदा 94 सेंट या 0.9% गिरकर 102.13 डॉलर प्रति बैरल पर आ गया, जबकि वेस्ट टेक्सास इंटरमीडिएट वायदा 59 सेंट या 0.7% कम होकर 91.56 डॉलर पर आ गया। अमेरिकी विदेश मंत्री मार्को रूबियो ने कहा है कि ईरान के साथ समझौते के लिए कुछ समय तक कड़ी मेहनत करनी होगी...",
+      "category_hi": "बिज़नेस और फाइनेंस",
+      "title_hinglish": "tela ki kimata aaj: brenta kruda girakara 102 dolara para aa gaya kyonki eerana ne amerika ke satha apane sangharsha ko samapta karane ke lie kutaniti men khulepana ka sanketa diya",
+      "summary_hinglish": "aaja tela ki kimat: brenta kruda vayada 94 senta ya 0.9% girakara 102.13 dolara prati bairala para aa gay, jabaki vesta teksasa intaramidieta vayada 59 senta ya 0.7% kama hokara 91.56 dolara para aa gaya। ameriki videsha mantri marko rubiyo ne kaha hai ki eerana ke satha samajhaute ke lie kuchha samaya taka kadaी mehanata karani hogi...",
+      "category_hinglish": "Business aur Finance"
+    },
+    {
       "id": "c0bcf379e36aa19b",
       "title": "Who Is Indigenous? The Politics of Tribal Identity Terminology in India and Bangladesh - The Diplomat – Asia-Pacific Current Affairs Magazine",
       "summary": "Tribal people in South Asia prefer being called adivasi or original inhabitants, but nationalist forces in India and Bangladesh oppose it for different reasons.",
@@ -424,23 +456,6 @@
       "category_hinglish": "Politics aur Government"
     },
     {
-      "id": "f0d00f1243cb2345",
-      "title": "Son Arrested In Jamui Groping Case, Father Caught For 2003 Double Murder After Hiding For 23 Years: How Police Found Him",
-      "summary": "Jamui groping case: Police arrest accused Nandan Yadav’s father Ganori Yadav in a 2003 double-murder case after tracing his criminal past.",
-      "category": "Crime & Breaking News",
-      "image": "https://www.newsx.com/wp-content/uploads/2026/09/jamui-nandan-yadav.jpg",
-      "source": "NewsX",
-      "sourceUrl": "https://www.newsx.com/regionals/son-arrested-in-jamui-groping-case-father-caught-for-2003-double-murder-after-hiding-for-23-years-how-police-found-him-275199/",
-      "publishedAt": "2026-09-24T02:27:10.000Z",
-      "fetchedAt": "2026-09-24T03:25:43.458Z",
-      "title_hi": "जमुई ग्रोपिंग मामले में बेटा गिरफ्तार, पिता 23 साल तक छिपने के बाद 2003 के दोहरे हत्याकांड में पकड़ा गया: पुलिस ने उसे कैसे पाया",
-      "summary_hi": "जमुई छेड़छाड़ मामला: पुलिस ने आरोपी नंदन यादव के आपराधिक इतिहास का पता लगाने के बाद 2003 के दोहरे हत्याकांड में उसके पिता गनोरी यादव को गिरफ्तार कर लिया।",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "category_hinglish": "Crime aur Breaking News",
-      "title_hinglish": "jamuee gropinga mamale men beta giraphtar, pita 23 sala taka chhipane ke bada 2003 ke dohare hatyakanda men pakadaा gay: pulisa ne use kaise paya",
-      "summary_hinglish": "jamuee chhedachhada mamal: pulisa ne aaropi nandana yadava ke aaparadhika itihasa ka pata lagane ke bada 2003 ke dohare hatyakanda men usake pita ganori yadava ko giraphtara kara liya।"
-    },
-    {
       "id": "d0361234ed8d11bf",
       "title": "‘India’s ITeS industry will move to intelligence arbitrage from cost arbitrage’",
       "summary": "Technology services industry in India will shift to intelligence arbitrage amidst the AI transformation, moving away from its earlier cost-focused global identity, as per Rahul Singh, Chief Operating Officer, HCL Technologies speaking at the SBI Banking and Economics Conclave.Speaking at a panel di…",
@@ -456,6 +471,38 @@
       "title_hinglish": "'bharata ka aaeetieeesa udyoga lagata madhyasthata se khuphiya madhyasthata ki ora badhaेga'",
       "summary_hinglish": "esabiaaee bainkinga aura ikonomiksa konkleva men bolate hue echasiela teknolojija ke mukhya parichalana adhikari rahula sinha ke anusar, bharata men praudyogiki seva udyoga eaaee parivartana ke bicha khuphiya madhyasthata men sthanantarita ho jaeg, jo apani pichhali lagata-kendrita vaishvika pahachana se dura ho jaega।",
       "category_hinglish": "Technology"
+    },
+    {
+      "id": "52097d583ef1ec31",
+      "title": "Opposition to move fresh notice for CEC’s removal; INDIA bloc mulls joint action",
+      "summary": "Opposition plans fresh notices in both Houses to remove CEC Gyanesh Kumar and pursue INDIA bloc joint action amid pending petitions and prior motions.",
+      "category": "National & Trending News",
+      "image": "https://th-i.thgim.com/public/incoming/k33hqt/article71505120.ece/alternates/LANDSCAPE_1200/SIR%20ELECTION%20COMMISSION%20PC%20%20DELHI%202025_27_10_25.jpg",
+      "source": "The Hindu",
+      "sourceUrl": "https://www.thehindu.com/news/national/opposition-to-move-fresh-notice-for-cecs-removal-india-bloc-mulls-joint-action/article71504708.ece",
+      "publishedAt": "2026-09-24T15:28:47.000Z",
+      "fetchedAt": "2026-09-24T21:51:21.233Z",
+      "title_hi": "",
+      "summary_hi": "",
+      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
+      "category_hinglish": "National aur Trending News"
+    },
+    {
+      "id": "f0d00f1243cb2345",
+      "title": "Son Arrested In Jamui Groping Case, Father Caught For 2003 Double Murder After Hiding For 23 Years: How Police Found Him",
+      "summary": "Jamui groping case: Police arrest accused Nandan Yadav’s father Ganori Yadav in a 2003 double-murder case after tracing his criminal past.",
+      "category": "Crime & Breaking News",
+      "image": "https://www.newsx.com/wp-content/uploads/2026/09/jamui-nandan-yadav.jpg",
+      "source": "NewsX",
+      "sourceUrl": "https://www.newsx.com/regionals/son-arrested-in-jamui-groping-case-father-caught-for-2003-double-murder-after-hiding-for-23-years-how-police-found-him-275199/",
+      "publishedAt": "2026-09-24T02:27:10.000Z",
+      "fetchedAt": "2026-09-24T03:25:43.458Z",
+      "title_hi": "जमुई ग्रोपिंग मामले में बेटा गिरफ्तार, पिता 23 साल तक छिपने के बाद 2003 के दोहरे हत्याकांड में पकड़ा गया: पुलिस ने उसे कैसे पाया",
+      "summary_hi": "जमुई छेड़छाड़ मामला: पुलिस ने आरोपी नंदन यादव के आपराधिक इतिहास का पता लगाने के बाद 2003 के दोहरे हत्याकांड में उसके पिता गनोरी यादव को गिरफ्तार कर लिया।",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "category_hinglish": "Crime aur Breaking News",
+      "title_hinglish": "jamuee gropinga mamale men beta giraphtar, pita 23 sala taka chhipane ke bada 2003 ke dohare hatyakanda men pakadaा gay: pulisa ne use kaise paya",
+      "summary_hinglish": "jamuee chhedachhada mamal: pulisa ne aaropi nandana yadava ke aaparadhika itihasa ka pata lagane ke bada 2003 ke dohare hatyakanda men usake pita ganori yadava ko giraphtara kara liya।"
     },
     {
       "id": "60fddf326a9cd976",
@@ -594,23 +641,6 @@
       "summary_hinglish": "bharata vishva kapa men jane vali tina timon ka samana karane ki taiyari kara raha hai, lekina panama ke kocha thomasa kristiyanasena ka kahana hai ki badaी chunauti gharelu maidana para hai। unhonne lig, suvidhaon, koching, mahatvakanksha aura dirghakalika khiladaी vikasa ki ora ishara kiya hai।"
     },
     {
-      "id": "e381c45d8b84f9b1",
-      "title": "Jamui incident: Accused’s father held in murder case",
-      "summary": "The father of the alleged main accused involved in a minor girl’s molestation case has been arrested in a more than two-decade-old double murder case. The accused, Ganauri Yadav, was wanted in a sensational double murder that took place in 2003 and had been absconding for 21 years.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134443546,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/patna/jamui-incident-accuseds-father-held-in-murder-case/articleshow/134443542.cms",
-      "publishedAt": "2026-09-23T17:38:00.000Z",
-      "fetchedAt": "2026-09-23T19:36:21.845Z",
-      "title_hi": "जमुई घटना: हत्या मामले में आरोपी का पिता गिरफ्तार",
-      "summary_hi": "नाबालिग लड़की से छेड़छाड़ मामले में शामिल कथित मुख्य आरोपी के पिता को दो दशक से अधिक पुराने दोहरे हत्याकांड में गिरफ्तार किया गया है। आरोपी गनौरी यादव 2003 में हुए एक सनसनीखेज दोहरे हत्याकांड में वांछित था और 21 साल से फरार था।",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "jamuee ghatan: hatya mamale men aaropi ka pita giraphtara",
-      "summary_hinglish": "nabaliga ladaki se chhedachhada mamale men shamila kathita mukhya aaropi ke pita ko do dashaka se adhika purane dohare hatyakanda men giraphtara kiya gaya hai। aaropi ganauri yadava 2003 men hue eka sanasanikheja dohare hatyakanda men vanchhita tha aura 21 sala se pharara tha।",
-      "category_hinglish": "Crime aur Breaking News"
-    },
-    {
       "id": "4c9468e2e7f68891",
       "title": "'We Must Be Prepared For Future Security Challenges': Rajnath Singh At News18 DEFCON 2026 | News18",
       "summary": "Defence Minister Rajnath Singh on Thursday said India must remain prepared to deal with future security challenges, stressing that the scope of national security has expanded and requires a holistic approach to defence.Speaking at News18 DEFCON 2026, Singh said people are now more aware of the country’s defence apparatus, while…",
@@ -626,6 +656,23 @@
       "title_hinglish": "'hamen bhavishya ki suraksha chunautiyon ke lie taiyara rahana chahie': News18 DEFCON 2026 men rajanatha sinha | nyuja18",
       "summary_hinglish": "raksha mantri rajanatha sinha ne guruvara ko kaha ki bharata ko bhavishya ki suraksha chunautiyon se nipatane ke lie taiyara rahana chahie, unhonne isa bata para jora diya ki rashtriya suraksha ka dayara badha gaya hai aura raksha ke lie samagra drishtikona ki aavashyakata hai। News18 DEFCON 2026 men bolate hue, sinha ne kaha ki loga aba desha ke raksha tantra ke bare men adhika jagaruka hain, jabaki…",
       "category_hinglish": "National aur Trending News"
+    },
+    {
+      "id": "e381c45d8b84f9b1",
+      "title": "Jamui incident: Accused’s father held in murder case",
+      "summary": "The father of the alleged main accused involved in a minor girl’s molestation case has been arrested in a more than two-decade-old double murder case. The accused, Ganauri Yadav, was wanted in a sensational double murder that took place in 2003 and had been absconding for 21 years.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134443546,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/patna/jamui-incident-accuseds-father-held-in-murder-case/articleshow/134443542.cms",
+      "publishedAt": "2026-09-23T17:38:00.000Z",
+      "fetchedAt": "2026-09-23T19:36:21.845Z",
+      "title_hi": "जमुई घटना: हत्या मामले में आरोपी का पिता गिरफ्तार",
+      "summary_hi": "नाबालिग लड़की से छेड़छाड़ मामले में शामिल कथित मुख्य आरोपी के पिता को दो दशक से अधिक पुराने दोहरे हत्याकांड में गिरफ्तार किया गया है। आरोपी गनौरी यादव 2003 में हुए एक सनसनीखेज दोहरे हत्याकांड में वांछित था और 21 साल से फरार था।",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "jamuee ghatan: hatya mamale men aaropi ka pita giraphtara",
+      "summary_hinglish": "nabaliga ladaki se chhedachhada mamale men shamila kathita mukhya aaropi ke pita ko do dashaka se adhika purane dohare hatyakanda men giraphtara kiya gaya hai। aaropi ganauri yadava 2003 men hue eka sanasanikheja dohare hatyakanda men vanchhita tha aura 21 sala se pharara tha।",
+      "category_hinglish": "Crime aur Breaking News"
     },
     {
       "id": "f47d6dc2d7255012",
@@ -704,7 +751,7 @@
       "source": "BBC",
       "sourceUrl": "https://www.bbc.com/news/articles/c70989jrdweo",
       "publishedAt": "2026-09-24T14:07:06.000Z",
-      "fetchedAt": "2026-09-24T21:25:19.753Z",
+      "fetchedAt": "2026-09-24T21:50:33.563Z",
       "title_hi": "यूके के नवीनतम प्रवासन नंबरों को ट्रैक करें - शुद्ध प्रवासन, वीज़ा, शरण और छोटी नावें",
       "summary_hi": "यूके के नवीनतम प्रवासन आंकड़ों का पता लगाने के लिए हमारे इंटरैक्टिव ट्रैकर का उपयोग करें",
       "category_hi": "अपराध और ब्रेकिंग न्यूज़",
@@ -764,23 +811,6 @@
       "category_hinglish": "National aur Trending News"
     },
     {
-      "id": "efb44817fc6256f9",
-      "title": "Telangana, Bihar stand out in India’s district-level NEET map",
-      "summary": "Bhadradri Kothagudem in Telangana and Pashchim Champaran in Bihar are among the districts where more than four in 10 people aged 15–29 are neither working nor studying",
-      "category": "Business & Finance",
-      "image": "https://images.moneycontrol.com/static-mcnews/2024/05/20240530074043_Exam.jpg",
-      "source": "Moneycontrol.com",
-      "sourceUrl": "https://www.moneycontrol.com/news/business/economy/telangana-bihar-stand-out-in-district-level-neet-map-14036412.html/amp",
-      "publishedAt": "2026-09-23T10:05:19.000Z",
-      "fetchedAt": "2026-09-23T12:03:19.084Z",
-      "title_hi": "भारत के जिला-स्तरीय NEET मानचित्र में तेलंगाना, बिहार अलग स्थान पर हैं",
-      "summary_hi": "तेलंगाना में भद्राद्रि कोठागुडेम और बिहार में पश्चिम चंपारण उन जिलों में से हैं, जहां 15-29 आयु वर्ग के 10 में से चार से अधिक लोग न तो काम कर रहे हैं और न ही पढ़ाई कर रहे हैं।",
-      "category_hi": "बिज़नेस और फाइनेंस",
-      "title_hinglish": "bharata ke jila-stariya NEET manachitra men telangan, bihara alaga sthana para hain",
-      "summary_hinglish": "telangana men bhadradri kothagudema aura bihara men pashchima chanparana una jilon men se hain, jahan 15-29 aayu varga ke 10 men se chara se adhika loga na to kama kara rahe hain aura na hi padhaाee kara rahe hain।",
-      "category_hinglish": "Business aur Finance"
-    },
-    {
       "id": "735f066b0635e412",
       "title": "Asian Games 2026, Medal Tally, Participating Countries, Host Country",
       "summary": "Asian Games 2026 are being held in Aichi-Nagoya, Japan, from 19 September to 4 October, featuring 43 sports and 469 medal events, with India fielding 503 athletes.",
@@ -796,6 +826,23 @@
       "title_hinglish": "eshiyaee khela 2026, padaka talik, bhaga lene vale desh, mejabana desha",
       "summary_hinglish": "eshiyaee khela 2026 japana ke aaichi-nagoya men 19 sitanbara se 4 aktubara taka aayojita kie ja rahe hain, jisamen 43 khela aura 469 padaka spardhaen hongi, jisamen bharata 503 ethaliton ko maidana men utarega।",
       "category_hinglish": "Sports"
+    },
+    {
+      "id": "efb44817fc6256f9",
+      "title": "Telangana, Bihar stand out in India’s district-level NEET map",
+      "summary": "Bhadradri Kothagudem in Telangana and Pashchim Champaran in Bihar are among the districts where more than four in 10 people aged 15–29 are neither working nor studying",
+      "category": "Business & Finance",
+      "image": "https://images.moneycontrol.com/static-mcnews/2024/05/20240530074043_Exam.jpg",
+      "source": "Moneycontrol.com",
+      "sourceUrl": "https://www.moneycontrol.com/news/business/economy/telangana-bihar-stand-out-in-district-level-neet-map-14036412.html/amp",
+      "publishedAt": "2026-09-23T10:05:19.000Z",
+      "fetchedAt": "2026-09-23T12:03:19.084Z",
+      "title_hi": "भारत के जिला-स्तरीय NEET मानचित्र में तेलंगाना, बिहार अलग स्थान पर हैं",
+      "summary_hi": "तेलंगाना में भद्राद्रि कोठागुडेम और बिहार में पश्चिम चंपारण उन जिलों में से हैं, जहां 15-29 आयु वर्ग के 10 में से चार से अधिक लोग न तो काम कर रहे हैं और न ही पढ़ाई कर रहे हैं।",
+      "category_hi": "बिज़नेस और फाइनेंस",
+      "title_hinglish": "bharata ke jila-stariya NEET manachitra men telangan, bihara alaga sthana para hain",
+      "summary_hinglish": "telangana men bhadradri kothagudema aura bihara men pashchima chanparana una jilon men se hain, jahan 15-29 aayu varga ke 10 men se chara se adhika loga na to kama kara rahe hain aura na hi padhaाee kara rahe hain।",
+      "category_hinglish": "Business aur Finance"
     },
     {
       "id": "c2970baa9bb6b8e0",
@@ -934,23 +981,6 @@
       "category_hinglish": "Sports"
     },
     {
-      "id": "0de13847a9f16808",
-      "title": "Ayesha Khan Condemns Bihar Student Harassment Case: ‘Stop Hiding Harassment Behind Culture’",
-      "summary": "Actor Ayesha Khan has criticised the alleged harassment of a Class 10 student in Bihar’s Jamui, as police investigate the incident and continue making arrests.",
-      "category": "Entertainment",
-      "image": "https://www.newsx.com/wp-content/uploads/2026/09/kjal-95.png",
-      "source": "NewsX",
-      "sourceUrl": "https://www.newsx.com/entertainment/ayesha-khan-condemns-bihar-student-harassment-case-stop-hiding-harassment-behind-culture-274799/",
-      "publishedAt": "2026-09-22T16:28:26.000Z",
-      "fetchedAt": "2026-09-22T18:15:23.144Z",
-      "title_hi": "आयशा खान ने बिहार छात्र उत्पीड़न मामले की निंदा की: 'उत्पीड़न को संस्कृति के पीछे छिपाना बंद करें'",
-      "summary_hi": "अभिनेत्री आयशा खान ने बिहार के जमुई में 10वीं कक्षा की छात्रा के कथित उत्पीड़न की आलोचना की है, क्योंकि पुलिस घटना की जांच कर रही है और गिरफ्तारियां कर रही है।",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "aayasha khana ne bihara chhatra utpidana mamale ki ninda ki: 'utpidana ko sanskriti ke pichhe chhipana banda karen'",
-      "summary_hinglish": "abhinetri aayasha khana ne bihara ke jamuee men 10vin kaksha ki chhatra ke kathita utpidana ki aalochana ki hai, kyonki pulisa ghatana ki jancha kara rahi hai aura giraphtariyan kara rahi hai।",
-      "category_hinglish": "Entertainment"
-    },
-    {
       "id": "5f6fb5372cff1d47",
       "title": "Zee Business. . NTT is driving digital transformation and delivering innovative technology solutions for businesses. Get insights into NTT’s growth, technology solutions and vision for India’s digital future in an exclusive conversation with Vimal Kaw, MD, NTT G",
       "summary": "NTT is driving digital transformation and delivering innovative technology solutions for businesses. Get insights into NTT’s growth, technology solutions and vision for India’s digital future in an...",
@@ -966,6 +996,23 @@
       "title_hinglish": "jaी bijanes. . enatiti dijitala parivartana ko badhaाva de raha hai aura vyavasayon ke lie navina praudyogiki samadhana pradana kara raha hai। enatiti ji ke emadi, vimala kava ke satha eka vishesha batachita men enatiti ke vikas, praudyogiki samadhana aura bharata ke dijitala bhavishya ke drishtikona ke bare men janakari prapta karen।",
       "summary_hinglish": "enatiti dijitala parivartana ko badhaाva de raha hai aura vyavasayon ke lie navina praudyogiki samadhana pradana kara raha hai। enatiti ke vikas, praudyogiki samadhana aura bharata ke dijitala bhavishya ke drishtikona ke bare men janakari prapta karen...",
       "category_hinglish": "Technology"
+    },
+    {
+      "id": "0de13847a9f16808",
+      "title": "Ayesha Khan Condemns Bihar Student Harassment Case: ‘Stop Hiding Harassment Behind Culture’",
+      "summary": "Actor Ayesha Khan has criticised the alleged harassment of a Class 10 student in Bihar’s Jamui, as police investigate the incident and continue making arrests.",
+      "category": "Entertainment",
+      "image": "https://www.newsx.com/wp-content/uploads/2026/09/kjal-95.png",
+      "source": "NewsX",
+      "sourceUrl": "https://www.newsx.com/entertainment/ayesha-khan-condemns-bihar-student-harassment-case-stop-hiding-harassment-behind-culture-274799/",
+      "publishedAt": "2026-09-22T16:28:26.000Z",
+      "fetchedAt": "2026-09-22T18:15:23.144Z",
+      "title_hi": "आयशा खान ने बिहार छात्र उत्पीड़न मामले की निंदा की: 'उत्पीड़न को संस्कृति के पीछे छिपाना बंद करें'",
+      "summary_hi": "अभिनेत्री आयशा खान ने बिहार के जमुई में 10वीं कक्षा की छात्रा के कथित उत्पीड़न की आलोचना की है, क्योंकि पुलिस घटना की जांच कर रही है और गिरफ्तारियां कर रही है।",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "aayasha khana ne bihara chhatra utpidana mamale ki ninda ki: 'utpidana ko sanskriti ke pichhe chhipana banda karen'",
+      "summary_hinglish": "abhinetri aayasha khana ne bihara ke jamuee men 10vin kaksha ki chhatra ke kathita utpidana ki aalochana ki hai, kyonki pulisa ghatana ki jancha kara rahi hai aura giraphtariyan kara rahi hai।",
+      "category_hinglish": "Entertainment"
     },
     {
       "id": "742b3ffe5cd3b3e7",
@@ -1104,23 +1151,6 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "ac5ea3e184266a2d",
-      "title": "Bihar Horror: Class 10 Girl From Patna Kidnapped, Raped And Murdered; Body Found 500-Km Away On Lucknow Rail Track",
-      "summary": "A 10th-grade girl from Bihta, Patna, was allegedly kidnapped, raped, and murdered, with her body later found on a railway track near Lucknow. Police have arrested one accused, Lakshman Kumar, while the family alleges a conspiracy and demands justice amidst ongoing investigations.",
-      "category": "Crime & Breaking News",
-      "image": "https://images.thedailyjagran.com/images/2026/09/22/template/image/rape-case-1790071834088.webp",
-      "source": "The Daily Jagran",
-      "sourceUrl": "https://www.thedailyjagran.com/lite/india/news/bihar-horror-class-10-girl-from-patna-kidnapped-raped-and-murdered-body-found-500-km-away-on-lucknow-rail-track-10330075",
-      "publishedAt": "2026-09-22T10:22:00.000Z",
-      "fetchedAt": "2026-09-22T19:45:42.657Z",
-      "title_hi": "बिहार भयावह: पटना से 10वीं कक्षा की लड़की का अपहरण, बलात्कार और हत्या; 500 किलोमीटर दूर लखनऊ रेल ट्रैक पर मिला शव",
-      "summary_hi": "पटना के बिहटा की 10वीं कक्षा की एक लड़की का कथित तौर पर अपहरण किया गया, उसके साथ बलात्कार किया गया और उसकी हत्या कर दी गई, बाद में उसका शव लखनऊ के पास एक रेलवे ट्रैक पर मिला। पुलिस ने एक आरोपी लक्ष्मण कुमार को गिरफ्तार कर लिया है, जबकि परिवार ने साजिश का आरोप लगाया है और चल रही जांच के बीच न्याय की मांग की है।",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "bihara bhayavah: patana se 10vin kaksha ki ladaki ka apaharan, balatkara aura haty; 500 kilomitara dura lakhanaoo rela traika para mila shava",
-      "summary_hinglish": "patana ke bihata ki 10vin kaksha ki eka ladaki ka kathita taura para apaharana kiya gay, usake satha balatkara kiya gaya aura usaki hatya kara di gaee, bada men usaka shava lakhanaoo ke pasa eka relave traika para mila। pulisa ne eka aaropi lakshmana kumara ko giraphtara kara liya hai, jabaki parivara ne sajisha ka aaropa lagaya hai aura chala rahi jancha ke bicha nyaya ki manga ki hai।",
-      "category_hinglish": "Crime aur Breaking News"
-    },
-    {
       "id": "05973b69097e0939",
       "title": "India to host UCI Road World Championship 2032 in Pune",
       "summary": "India has won the bid to host the UCI Road World Championship in Pune as the global cycling event heads to India for the first time.",
@@ -1136,6 +1166,23 @@
       "title_hinglish": "bharata pune men yusiaaee roda varlda chainpiyanashipa 2032 ki mejabani karega",
       "summary_hinglish": "bharata ne pune men yusiaaee roda varlda chaimpiyanashipa ki mejabani ki boli jita li hai kyonki vaishvika saiklinga karyakrama pahali bara bharata men aa raha hai।",
       "category_hinglish": "Sports"
+    },
+    {
+      "id": "ac5ea3e184266a2d",
+      "title": "Bihar Horror: Class 10 Girl From Patna Kidnapped, Raped And Murdered; Body Found 500-Km Away On Lucknow Rail Track",
+      "summary": "A 10th-grade girl from Bihta, Patna, was allegedly kidnapped, raped, and murdered, with her body later found on a railway track near Lucknow. Police have arrested one accused, Lakshman Kumar, while the family alleges a conspiracy and demands justice amidst ongoing investigations.",
+      "category": "Crime & Breaking News",
+      "image": "https://images.thedailyjagran.com/images/2026/09/22/template/image/rape-case-1790071834088.webp",
+      "source": "The Daily Jagran",
+      "sourceUrl": "https://www.thedailyjagran.com/lite/india/news/bihar-horror-class-10-girl-from-patna-kidnapped-raped-and-murdered-body-found-500-km-away-on-lucknow-rail-track-10330075",
+      "publishedAt": "2026-09-22T10:22:00.000Z",
+      "fetchedAt": "2026-09-22T19:45:42.657Z",
+      "title_hi": "बिहार भयावह: पटना से 10वीं कक्षा की लड़की का अपहरण, बलात्कार और हत्या; 500 किलोमीटर दूर लखनऊ रेल ट्रैक पर मिला शव",
+      "summary_hi": "पटना के बिहटा की 10वीं कक्षा की एक लड़की का कथित तौर पर अपहरण किया गया, उसके साथ बलात्कार किया गया और उसकी हत्या कर दी गई, बाद में उसका शव लखनऊ के पास एक रेलवे ट्रैक पर मिला। पुलिस ने एक आरोपी लक्ष्मण कुमार को गिरफ्तार कर लिया है, जबकि परिवार ने साजिश का आरोप लगाया है और चल रही जांच के बीच न्याय की मांग की है।",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "bihara bhayavah: patana se 10vin kaksha ki ladaki ka apaharan, balatkara aura haty; 500 kilomitara dura lakhanaoo rela traika para mila shava",
+      "summary_hinglish": "patana ke bihata ki 10vin kaksha ki eka ladaki ka kathita taura para apaharana kiya gay, usake satha balatkara kiya gaya aura usaki hatya kara di gaee, bada men usaka shava lakhanaoo ke pasa eka relave traika para mila। pulisa ne eka aaropi lakshmana kumara ko giraphtara kara liya hai, jabaki parivara ne sajisha ka aaropa lagaya hai aura chala rahi jancha ke bicha nyaya ki manga ki hai।",
+      "category_hinglish": "Crime aur Breaking News"
     },
     {
       "id": "335c38bea83b97c8",
@@ -1274,23 +1321,6 @@
       "summary_hinglish": "ahamadabad, gujarat, bharata (nyujavoyara) ananta neshanala yunivarsiti ne prasiddha vastukar, intiriyara dijainar, dijaina shikshaka aura sansthagata neta jabina jakariyasa ko praiktisa ke prophesara ke rupa men niyukta kiya hai। chara dashakon se adhika ke peshevara anubhava ke sath, jakariyasa ananta men eka vishishta sanyojana lekara aae hain..."
     },
     {
-      "id": "02441bac2f01490f",
-      "title": "Bihar Class 10 girl molestation case: Main accused Nandan Yadav shot at in police encounter",
-      "summary": "Nandan Yadav, the prime accused in the harassment of a minor girl in Jamui, has been shot in the leg during an encounter with the police. pic.twitter.com/odhctAsLPH",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134405569,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/patna/bihar-class-10-girl-molestation-case-main-accused-nandan-yadav-injured-in-police-encounter-in-jamui/articleshow/134405351.cms",
-      "publishedAt": "2026-09-22T07:11:00.000Z",
-      "fetchedAt": "2026-09-22T19:18:56.952Z",
-      "title_hi": "बिहार में 10वीं कक्षा की छात्रा से छेड़छाड़ मामला: मुख्य आरोपी नंदन यादव को पुलिस मुठभेड़ में गोली लगी",
-      "summary_hi": "जमुई में नाबालिग लड़की से छेड़छाड़ के मुख्य आरोपी नंदन यादव को पुलिस के साथ मुठभेड़ के दौरान पैर में गोली लगी है. pic.twitter.com/odhctAsLPH",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "bihara men 10vin kaksha ki chhatra se chhedachhada mamal: mukhya aaropi nandana yadava ko pulisa muthabheda men goli lagi",
-      "summary_hinglish": "jamuee men nabaliga ladaki se chhedachhada ke mukhya aaropi nandana yadava ko pulisa ke satha muthabheda ke daurana paira men goli lagi hai. pic.twitter.com/odhctAsLPH",
-      "category_hinglish": "Crime aur Breaking News"
-    },
-    {
       "id": "a0647a7c3cfee94a",
       "title": "School assembly news headlines today- September 25: Top national, sports and world news curated for you",
       "summary": "Today’s school assembly news highlights top national, sports, and world events, covering important updates from politics, sports achievements, and global headlines for September 25.",
@@ -1306,6 +1336,23 @@
       "title_hinglish": "skula asenbali samachara ki surkhiyan aaja- 25 sitanbar: shirsha rashtriy, khela aura vishva samachara aapake lie taiyara kie gae hain",
       "summary_hinglish": "aaja ki skula asenbali samachara shirsha rashtriy, khela aura vishva ghatanaon para prakasha dalata hai, jisamen 25 sitanbara ke lie rajaniti, khela upalabdhiyon aura vaishvika surkhiyon se mahatvapurna apadeta shamila hain।",
       "category_hinglish": "National aur Trending News"
+    },
+    {
+      "id": "02441bac2f01490f",
+      "title": "Bihar Class 10 girl molestation case: Main accused Nandan Yadav shot at in police encounter",
+      "summary": "Nandan Yadav, the prime accused in the harassment of a minor girl in Jamui, has been shot in the leg during an encounter with the police. pic.twitter.com/odhctAsLPH",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134405569,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/patna/bihar-class-10-girl-molestation-case-main-accused-nandan-yadav-injured-in-police-encounter-in-jamui/articleshow/134405351.cms",
+      "publishedAt": "2026-09-22T07:11:00.000Z",
+      "fetchedAt": "2026-09-22T19:18:56.952Z",
+      "title_hi": "बिहार में 10वीं कक्षा की छात्रा से छेड़छाड़ मामला: मुख्य आरोपी नंदन यादव को पुलिस मुठभेड़ में गोली लगी",
+      "summary_hi": "जमुई में नाबालिग लड़की से छेड़छाड़ के मुख्य आरोपी नंदन यादव को पुलिस के साथ मुठभेड़ के दौरान पैर में गोली लगी है. pic.twitter.com/odhctAsLPH",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "bihara men 10vin kaksha ki chhatra se chhedachhada mamal: mukhya aaropi nandana yadava ko pulisa muthabheda men goli lagi",
+      "summary_hinglish": "jamuee men nabaliga ladaki se chhedachhada ke mukhya aaropi nandana yadava ko pulisa ke satha muthabheda ke daurana paira men goli lagi hai. pic.twitter.com/odhctAsLPH",
+      "category_hinglish": "Crime aur Breaking News"
     },
     {
       "id": "483efe30232f46f6",
@@ -1444,23 +1491,6 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "bd27a711f58cacad",
-      "title": "Next panchayat election only after the delimitation: Samrat Choudhary",
-      "summary": "Bihar CM Samrat Choudhary announces Panchayat elections post-delimitation, urging representatives to enhance village infrastructure and self-reliance.",
-      "category": "National & Trending News",
-      "image": "https://th-i.thgim.com/public/incoming/e12h5o/article71493257.ece/alternates/FREE_1200/20260921152L.jpg",
-      "source": "The Hindu",
-      "sourceUrl": "https://www.thehindu.com/news/national/bihar/next-panchayat-election-only-after-the-delimitation-samrat-choudhary/article71491749.ece/amp/",
-      "publishedAt": "2026-09-22T00:30:00.000Z",
-      "fetchedAt": "2026-09-22T02:31:16.998Z",
-      "title_hi": "परिसीमन के बाद ही अगला पंचायत चुनाव : सम्राट चौधरी",
-      "summary_hi": "बिहार के मुख्यमंत्री सम्राट चौधरी ने परिसीमन के बाद पंचायत चुनाव की घोषणा की, प्रतिनिधियों से गांव के बुनियादी ढांचे और आत्मनिर्भरता को बढ़ाने का आग्रह किया।",
-      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
-      "title_hinglish": "parisimana ke bada hi agala panchayata chunava : samrata chaudhari",
-      "summary_hinglish": "bihara ke mukhyamantri samrata chaudhari ne parisimana ke bada panchayata chunava ki ghoshana ki, pratinidhiyon se ganva ke buniyadi dhanche aura aatmanirbharata ko badhaाne ka aagraha kiya।",
-      "category_hinglish": "National aur Trending News"
-    },
-    {
       "id": "d1eb3f17e48b6e31",
       "title": "India's secret sex offender list: Does the NDSO actually prevent crime?",
       "summary": "India's sexual offender database, the NDSO, serves as a critical non-public tool for police to track over 1.8 million offenders.",
@@ -1476,6 +1506,23 @@
       "title_hinglish": "bharata ki gupta yauna aparadhiyon ki suchi: kya enadiesao vastava men aparadha rokata hai?",
       "summary_hinglish": "bharata ka yauna aparadhi detabes, enadiesao, 1.8 miliyana se adhika aparadhiyon ko traika karane ke lie pulisa ke lie eka mahatvapurna gaira-sarvajanika upakarana ke rupa men karya karata hai।",
       "category_hinglish": "Crime aur Breaking News"
+    },
+    {
+      "id": "bd27a711f58cacad",
+      "title": "Next panchayat election only after the delimitation: Samrat Choudhary",
+      "summary": "Bihar CM Samrat Choudhary announces Panchayat elections post-delimitation, urging representatives to enhance village infrastructure and self-reliance.",
+      "category": "National & Trending News",
+      "image": "https://th-i.thgim.com/public/incoming/e12h5o/article71493257.ece/alternates/FREE_1200/20260921152L.jpg",
+      "source": "The Hindu",
+      "sourceUrl": "https://www.thehindu.com/news/national/bihar/next-panchayat-election-only-after-the-delimitation-samrat-choudhary/article71491749.ece/amp/",
+      "publishedAt": "2026-09-22T00:30:00.000Z",
+      "fetchedAt": "2026-09-22T02:31:16.998Z",
+      "title_hi": "परिसीमन के बाद ही अगला पंचायत चुनाव : सम्राट चौधरी",
+      "summary_hi": "बिहार के मुख्यमंत्री सम्राट चौधरी ने परिसीमन के बाद पंचायत चुनाव की घोषणा की, प्रतिनिधियों से गांव के बुनियादी ढांचे और आत्मनिर्भरता को बढ़ाने का आग्रह किया।",
+      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
+      "title_hinglish": "parisimana ke bada hi agala panchayata chunava : samrata chaudhari",
+      "summary_hinglish": "bihara ke mukhyamantri samrata chaudhari ne parisimana ke bada panchayata chunava ki ghoshana ki, pratinidhiyon se ganva ke buniyadi dhanche aura aatmanirbharata ko badhaाne ka aagraha kiya।",
+      "category_hinglish": "National aur Trending News"
     }
   ]
 }
