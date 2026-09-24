@@ -41,6 +41,7 @@ jobs:
           RSS_ITEMS_PER_CATEGORY: ${{ vars.RSS_ITEMS_PER_CATEGORY || '60' }}
           FRESH_WINDOW_HOURS: ${{ vars.FRESH_WINDOW_HOURS || '48' }}
           FEED_RETENTION_HOURS: ${{ vars.FEED_RETENTION_HOURS || '168' }}
+          MIN_FETCH_INTERVAL_MINUTES: ${{ vars.MIN_FETCH_INTERVAL_MINUTES || '5' }}
         run: npm run fetch-news
 
       - name: Commit feed only when news changed
