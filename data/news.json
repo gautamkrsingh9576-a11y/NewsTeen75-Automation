@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T20:54:37.718Z",
+  "updatedAt": "2026-09-24T21:09:49.312Z",
   "count": 87,
   "articles": [
     {
@@ -52,6 +52,21 @@
       "category_hinglish": "Crime aur Breaking News"
     },
     {
+      "id": "4c63478d515a343d",
+      "title": "Indian IT firms turn to acquisitions and partnerships to expand in Europe",
+      "summary": "Indian IT services firms are increasingly using acquisitions and local partnerships to expand their presence in Europe, targeting consulting capabilities, estab",
+      "category": "Technology",
+      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-07-30%2F5c416ak7%2FC_53_1_CH1214_45008937.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "The New Indian Express",
+      "sourceUrl": "https://www.newindianexpress.com/business/2026/Sep/24/indian-it-firms-turn-to-acquisitions-and-partnerships-to-expand-in-europe",
+      "publishedAt": "2026-09-24T19:27:42.000Z",
+      "fetchedAt": "2026-09-24T21:09:31.283Z",
+      "title_hi": "",
+      "summary_hi": "",
+      "category_hi": "टेक्नोलॉजी",
+      "category_hinglish": "Technology"
+    },
+    {
       "id": "fc8854ccf0ec0a12",
       "title": "Avengers Endgame Encore India Final Advance Booking: Marvel film sells 85,000 tickets in National Chains, eyes good start",
       "summary": "Avengers Endgame: Encore recorded a good sales at the Indian box office. It is expected to take an opening of Rs. 7 to 8 crore nett.",
@@ -69,6 +84,23 @@
       "category_hinglish": "Entertainment"
     },
     {
+      "id": "aef7c34b71cd6835",
+      "title": "Patna school sports meet from Sept 30 to Oct 4",
+      "summary": "The district-level school sports competition will be held from Sept 30 to Oct 4 at various sports grounds in Patna under the annual sports programme 2026-27. The event will give students an opportunity to showcase their sporting talent in competition.",
+      "category": "Sports",
+      "image": "https://static.toiimg.com/thumb/msid-134468483,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "timesofindia.indiatimes.com",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/patna/patna-school-sports-meet-from-sept-30-to-oct-4/articleshow/134466563.cms",
+      "publishedAt": "2026-09-24T18:19:00.000Z",
+      "fetchedAt": "2026-09-24T21:09:44.287Z",
+      "title_hi": "पटना स्कूल स्पोर्ट्स मीट 30 सितंबर से 4 अक्टूबर तक",
+      "summary_hi": "वार्षिक खेल कार्यक्रम 2026-27 के तहत जिला स्तरीय विद्यालय खेल प्रतियोगिता 30 सितंबर से 4 अक्टूबर तक पटना के विभिन्न खेल मैदानों में आयोजित की जाएगी। इस आयोजन से छात्रों को प्रतियोगिता में अपनी खेल प्रतिभा दिखाने का मौका मिलेगा।",
+      "category_hi": "खेल",
+      "title_hinglish": "patana skula sportsa mita 30 sitanbara se 4 aktubara taka",
+      "summary_hinglish": "varshika khela karyakrama 2026-27 ke tahata jila stariya vidyalaya khela pratiyogita 30 sitanbara se 4 aktubara taka patana ke vibhinna khela maidanon men aayojita ki jaegi। isa aayojana se chhatron ko pratiyogita men apani khela pratibha dikhane ka mauka milega।",
+      "category_hinglish": "Sports"
+    },
+    {
       "id": "1100941ea880b694",
       "title": "Beyond the screen: Why live storytelling is having a moment in India",
       "summary": "We have never had more stories at our fingertips. They arrive through podcasts, social media reels and audiobooks, available whenever and wherever we want them.",
@@ -84,23 +116,6 @@
       "title_hinglish": "skrina se pare: bharata men sajiva kahani kahane ka chalana kyon badha raha hai?",
       "summary_hinglish": "hamari ungaliyon para kabhi bhi adhika kahaniyan nahin thin। ve podakast, soshala midiya rilsa aura ऑdiyobuka ke madhyama se pahunchate hain, jaba bhi aura jahan bhi hama unhen chahate hain, upalabdha hote hain।",
       "category_hinglish": "Entertainment"
-    },
-    {
-      "id": "ea636450a7e004bc",
-      "title": "Ashok defends govt, Shambhavi seeks review of women’s safety laws",
-      "summary": "Amid mounting concern over a series of crimes in Bihar, food and consumer protection minister Ashok Choudhary on Thursday said criminal incidents were not specific to the state and also occurred in developed countries such as the US and Japan. His daughter and LJP(RV) MP Shambhavi Choudhary, meanwhile, called for…",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134463157,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/patna/ashok-defends-govt-shambhavi-seeks-review-of-womens-safety-laws/articleshow/134463160.cms",
-      "publishedAt": "2026-09-24T12:58:00.000Z",
-      "fetchedAt": "2026-09-24T13:19:12.406Z",
-      "title_hi": "अशोक ने सरकार का बचाव किया, शांभवी ने महिला सुरक्षा कानूनों की समीक्षा की मांग की",
-      "summary_hi": "बिहार में अपराधों की श्रृंखला पर बढ़ती चिंता के बीच, खाद्य और उपभोक्ता संरक्षण मंत्री अशोक चौधरी ने गुरुवार को कहा कि आपराधिक घटनाएं केवल राज्य तक ही सीमित नहीं थीं, बल्कि अमेरिका और जापान जैसे विकसित देशों में भी हुई थीं। इस बीच, उनकी बेटी और एलजेपी (आरवी) सांसद शांभवी चौधरी ने कहा...",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "ashoka ne sarakara ka bachava kiy, shanbhavi ne mahila suraksha kanunon ki samiksha ki manga ki",
-      "summary_hinglish": "bihara men aparadhon ki shrrinkhala para badhati chinta ke bich, khadya aura upabhokta sanrakshana mantri ashoka chaudhari ne guruvara ko kaha ki aaparadhika ghatanaen kevala rajya taka hi simita nahin thin, balki amerika aura japana jaise vikasita deshon men bhi huee thin। isa bich, unaki beti aura elajepi (aaravi) sansada shanbhavi chaudhari ne kah...",
-      "category_hinglish": "Crime aur Breaking News"
     },
     {
       "id": "fdcbd818ba37f811",
@@ -137,6 +152,23 @@
       "category_hinglish": "Crime aur Breaking News"
     },
     {
+      "id": "ea636450a7e004bc",
+      "title": "Ashok defends govt, Shambhavi seeks review of women’s safety laws",
+      "summary": "Amid mounting concern over a series of crimes in Bihar, food and consumer protection minister Ashok Choudhary on Thursday said criminal incidents were not specific to the state and also occurred in developed countries such as the US and Japan. His daughter and LJP(RV) MP Shambhavi Choudhary, meanwhile, called for…",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134463157,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/patna/ashok-defends-govt-shambhavi-seeks-review-of-womens-safety-laws/articleshow/134463160.cms",
+      "publishedAt": "2026-09-24T12:58:00.000Z",
+      "fetchedAt": "2026-09-24T13:19:12.406Z",
+      "title_hi": "अशोक ने सरकार का बचाव किया, शांभवी ने महिला सुरक्षा कानूनों की समीक्षा की मांग की",
+      "summary_hi": "बिहार में अपराधों की श्रृंखला पर बढ़ती चिंता के बीच, खाद्य और उपभोक्ता संरक्षण मंत्री अशोक चौधरी ने गुरुवार को कहा कि आपराधिक घटनाएं केवल राज्य तक ही सीमित नहीं थीं, बल्कि अमेरिका और जापान जैसे विकसित देशों में भी हुई थीं। इस बीच, उनकी बेटी और एलजेपी (आरवी) सांसद शांभवी चौधरी ने कहा...",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "ashoka ne sarakara ka bachava kiy, shanbhavi ne mahila suraksha kanunon ki samiksha ki manga ki",
+      "summary_hinglish": "bihara men aparadhon ki shrrinkhala para badhati chinta ke bich, khadya aura upabhokta sanrakshana mantri ashoka chaudhari ne guruvara ko kaha ki aaparadhika ghatanaen kevala rajya taka hi simita nahin thin, balki amerika aura japana jaise vikasita deshon men bhi huee thin। isa bich, unaki beti aura elajepi (aaravi) sansada shanbhavi chaudhari ne kah...",
+      "category_hinglish": "Crime aur Breaking News"
+    },
+    {
       "id": "f0a8e399f94b8f2b",
       "title": "Asian Games 2026: India medals tally and winners list - full table",
       "summary": "Know list of India winners at the Asian Games 2026. Know medals tally and how many medals Indian athletes have won in each sport. Full table.",
@@ -145,30 +177,11 @@
       "source": "olympics.com",
       "sourceUrl": "https://www.olympics.com/en/news/asian-games-2026-medal-tally-india-winners-table-list",
       "publishedAt": "2026-09-24T17:53:00.000Z",
-      "fetchedAt": "2026-09-24T20:53:59.750Z",
-      "title_hi": "एशियाई खेल 2026: भारत की पदक तालिका और विजेताओं की सूची - पूरी तालिका",
-      "summary_hi": "एशियाई खेल 2026 में भारत के विजेताओं की सूची जानें। पदक तालिका जानें और भारतीय एथलीटों ने प्रत्येक खेल में कितने पदक जीते हैं। पूरी मेज.",
+      "fetchedAt": "2026-09-24T21:09:05.200Z",
+      "title_hi": "",
+      "summary_hi": "",
       "category_hi": "खेल",
-      "title_hinglish": "eshiyaee khela 2026: bharata ki padaka talika aura vijetaon ki suchi - puri talika",
-      "summary_hinglish": "eshiyaee khela 2026 men bharata ke vijetaon ki suchi janen। padaka talika janen aura bharatiya ethaliton ne pratyeka khela men kitane padaka jite hain। puri mej.",
       "category_hinglish": "Sports"
-    },
-    {
-      "id": "da401641f60b2e9a",
-      "title": "HT Evening News Brief Sept 24: 9 dead in Greater Noida fire tragedy, another teen harassed in Bihar | India News",
-      "summary": "Here’s your evening news brief with the day’s top stories from politics, world affairs, sports, and entertainment.",
-      "category": "Politics & Government",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/24/1600x900/logo/Untitled_design_1790245147419_1oXl_1790245172356_dg94_94f426c3-3a55-42f4-8317-2ab734a5fa00_RK3e.png",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/india-news/ht-evening-news-brief-sept-24-greater-noida-fire-bihar-teen-sexually-harassed-iran-us-war-indian-ocean-asian-games-101790242129413-amp.html",
-      "publishedAt": "2026-09-24T12:30:55.000Z",
-      "fetchedAt": "2026-09-24T15:18:22.947Z",
-      "title_hi": "एचटी इवनिंग न्यूज ब्रीफ 24 सितंबर: ग्रेटर नोएडा में आग लगने से 9 लोगों की मौत, बिहार में एक और किशोर को परेशान किया गया | भारत समाचार",
-      "summary_hi": "राजनीति, विश्व मामलों, खेल और मनोरंजन से दिन की शीर्ष कहानियों के साथ यहां आपकी शाम की खबरें संक्षिप्त हैं।",
-      "category_hi": "राजनीति और सरकार",
-      "title_hinglish": "echati ivaninga nyuja bripha 24 sitanbar: gretara noeda men aaga lagane se 9 logon ki maut, bihara men eka aura kishora ko pareshana kiya gaya | bharata samachara",
-      "summary_hinglish": "rajaniti, vishva mamalon, khela aura manoranjana se dina ki shirsha kahaniyon ke satha yahan aapaki shama ki khabaren sankshipta hain।",
-      "category_hinglish": "Politics aur Government"
     },
     {
       "id": "ef413e8d0b032e6a",
@@ -188,6 +201,23 @@
       "category_hinglish": "Entertainment"
     },
     {
+      "id": "da401641f60b2e9a",
+      "title": "HT Evening News Brief Sept 24: 9 dead in Greater Noida fire tragedy, another teen harassed in Bihar | India News",
+      "summary": "Here’s your evening news brief with the day’s top stories from politics, world affairs, sports, and entertainment.",
+      "category": "Politics & Government",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/24/1600x900/logo/Untitled_design_1790245147419_1oXl_1790245172356_dg94_94f426c3-3a55-42f4-8317-2ab734a5fa00_RK3e.png",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/ht-evening-news-brief-sept-24-greater-noida-fire-bihar-teen-sexually-harassed-iran-us-war-indian-ocean-asian-games-101790242129413-amp.html",
+      "publishedAt": "2026-09-24T12:30:55.000Z",
+      "fetchedAt": "2026-09-24T15:18:22.947Z",
+      "title_hi": "एचटी इवनिंग न्यूज ब्रीफ 24 सितंबर: ग्रेटर नोएडा में आग लगने से 9 लोगों की मौत, बिहार में एक और किशोर को परेशान किया गया | भारत समाचार",
+      "summary_hi": "राजनीति, विश्व मामलों, खेल और मनोरंजन से दिन की शीर्ष कहानियों के साथ यहां आपकी शाम की खबरें संक्षिप्त हैं।",
+      "category_hi": "राजनीति और सरकार",
+      "title_hinglish": "echati ivaninga nyuja bripha 24 sitanbar: gretara noeda men aaga lagane se 9 logon ki maut, bihara men eka aura kishora ko pareshana kiya gaya | bharata samachara",
+      "summary_hinglish": "rajaniti, vishva mamalon, khela aura manoranjana se dina ki shirsha kahaniyon ke satha yahan aapaki shama ki khabaren sankshipta hain।",
+      "category_hinglish": "Politics aur Government"
+    },
+    {
       "id": "58d27f9cc1d2eedb",
       "title": "ET Now Live TV: Business News Live TV Online, Finance & Market News Live Streaming",
       "summary": "ET Now Business News Live TV: Watch Live Business News, Finance & Market News Live TV Online, Today Latest Business News and Updates on ET Now Live TV.",
@@ -203,23 +233,6 @@
       "title_hinglish": "eeti nau laiva tivi: bijanesa nyuja laiva tivi ऑnalain, vitta aura bajara samachara laiva striminga",
       "summary_hinglish": "eeti nau bijanesa nyuja laiva tivi: laiva bijanesa nyuj, vitta aura bajara samachara laiva tivi ऑnalaina dekhen, aaja ke navinatama bijanesa samachara aura apadeta eeti nau laiva tivi para।",
       "category_hinglish": "Business aur Finance"
-    },
-    {
-      "id": "d95f8864a6d2a2c3",
-      "title": "Jamui harassment video: Accused Nandan Yadav’s father was wanted for double murder",
-      "summary": "While the other accused in the 2003 double murder are now out on bail, Ganauri Yadav was never caught by Bihar Police",
-      "category": "Crime & Breaking News",
-      "image": "https://img.theweek.in/content/dam/week/en/archive/news/india/images/2026/9/22/jamui-viral-video-harassment-nandan-yadav.jpg",
-      "source": "theweek.in",
-      "sourceUrl": "https://www.theweek.in/news/india/2026/09/24/jamui-harassment-video-accused-nandan-yadavs-father-was-wanted-for-double-murder.html",
-      "publishedAt": "2026-09-24T06:24:04.000Z",
-      "fetchedAt": "2026-09-24T11:46:11.640Z",
-      "title_hi": "जमुई उत्पीड़न वीडियो: आरोपी नंदन यादव के पिता दोहरे हत्याकांड में थे वांछित",
-      "summary_hi": "जबकि 2003 के दोहरे हत्याकांड के अन्य आरोपी अब जमानत पर बाहर हैं, गनौरी यादव कभी भी बिहार पुलिस की पकड़ में नहीं आया",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "category_hinglish": "Crime aur Breaking News",
-      "title_hinglish": "jamuee utpidana vidiyo: aaropi nandana yadava ke pita dohare hatyakanda men the vanchhita",
-      "summary_hinglish": "jabaki 2003 ke dohare hatyakanda ke anya aaropi aba jamanata para bahara hain, ganauri yadava kabhi bhi bihara pulisa ki pakada men nahin aaya"
     },
     {
       "id": "b3b75ebaa62f4db5",
@@ -239,6 +252,23 @@
       "category_hinglish": "Sports"
     },
     {
+      "id": "d95f8864a6d2a2c3",
+      "title": "Jamui harassment video: Accused Nandan Yadav’s father was wanted for double murder",
+      "summary": "While the other accused in the 2003 double murder are now out on bail, Ganauri Yadav was never caught by Bihar Police",
+      "category": "Crime & Breaking News",
+      "image": "https://img.theweek.in/content/dam/week/en/archive/news/india/images/2026/9/22/jamui-viral-video-harassment-nandan-yadav.jpg",
+      "source": "theweek.in",
+      "sourceUrl": "https://www.theweek.in/news/india/2026/09/24/jamui-harassment-video-accused-nandan-yadavs-father-was-wanted-for-double-murder.html",
+      "publishedAt": "2026-09-24T06:24:04.000Z",
+      "fetchedAt": "2026-09-24T11:46:11.640Z",
+      "title_hi": "जमुई उत्पीड़न वीडियो: आरोपी नंदन यादव के पिता दोहरे हत्याकांड में थे वांछित",
+      "summary_hi": "जबकि 2003 के दोहरे हत्याकांड के अन्य आरोपी अब जमानत पर बाहर हैं, गनौरी यादव कभी भी बिहार पुलिस की पकड़ में नहीं आया",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "category_hinglish": "Crime aur Breaking News",
+      "title_hinglish": "jamuee utpidana vidiyo: aaropi nandana yadava ke pita dohare hatyakanda men the vanchhita",
+      "summary_hinglish": "jabaki 2003 ke dohare hatyakanda ke anya aaropi aba jamanata para bahara hain, ganauri yadava kabhi bhi bihara pulisa ki pakada men nahin aaya"
+    },
+    {
       "id": "ec45756ecbff8056",
       "title": "BJP councillor’s brother held for trespassing into murder case witness’s house",
       "summary": "Vanchiyoor Police on Thursday arrested Sandeep, brother of BJP councillor Sugathan of city corporation, for allegedly trespassing into the house of a witness in the Mannanthala Ranjith murder case and creating a disturbance.",
@@ -253,23 +283,6 @@
       "category_hi": "अपराध और ब्रेकिंग न्यूज़",
       "title_hinglish": "hatya mamale ke gavaha ke ghara men jabarana ghusane ke aaropa men bhajapa parshada ka bhaee giraphtara",
       "summary_hinglish": "mannanathala ranjita hatya mamale men eka gavaha ke ghara men jabarana ghusane aura ashanti paida karane ke aaropa men vanchiyura pulisa ne guruvara ko nagara nigama ke bhajapa parshada sugathana ke bhaee sandipa ko giraphtara kiya।",
-      "category_hinglish": "Crime aur Breaking News"
-    },
-    {
-      "id": "2866e0fdeea3c1a6",
-      "title": "Removing salwar is not an attempt to rape: Supreme Court takes cognizance on Patna High Court’s judgment, cal",
-      "summary": "In its July 9 judgment, the Patna High Court re-examined the evidence and concluded that the prosecution had failed to establish the necessary elements to prove the charge of attempted rape.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.india.com/wp-content/uploads/2026/09/Gang-rape-on-Janmashtami.jpg",
-      "source": "India.com",
-      "sourceUrl": "https://www.india.com/news/india/supreme-court-patna-high-court-rape-victim-surya-kant-joymalya-bagchi-v-mohana-himanshu-kumar-pathak-bihar-crime-samrat-chaudhury-indian-panel-code-8529487/",
-      "publishedAt": "2026-09-24T04:30:24.000Z",
-      "fetchedAt": "2026-09-24T05:14:21.809Z",
-      "title_hi": "सलवार उतारना रेप की कोशिश नहीं: सुप्रीम कोर्ट ने पटना हाई कोर्ट के फैसले पर लिया संज्ञान, कैल",
-      "summary_hi": "9 जुलाई के अपने फैसले में, पटना उच्च न्यायालय ने सबूतों की फिर से जांच की और निष्कर्ष निकाला कि अभियोजन पक्ष बलात्कार के प्रयास के आरोप को साबित करने के लिए आवश्यक तत्वों को स्थापित करने में विफल रहा है।",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "salavara utarana repa ki koshisha nahin: suprima korta ne patana haee korta ke phaisale para liya sanjnyan, kaila",
-      "summary_hinglish": "9 julaee ke apane phaisale men, patana uchcha nyayalaya ne sabuton ki phira se jancha ki aura nishkarsha nikala ki abhiyojana paksha balatkara ke prayasa ke aaropa ko sabita karane ke lie aavashyaka tatvon ko sthapita karane men viphala raha hai।",
       "category_hinglish": "Crime aur Breaking News"
     },
     {
@@ -307,6 +320,23 @@
       "category_hinglish": "Politics aur Government"
     },
     {
+      "id": "2866e0fdeea3c1a6",
+      "title": "Removing salwar is not an attempt to rape: Supreme Court takes cognizance on Patna High Court’s judgment, cal",
+      "summary": "In its July 9 judgment, the Patna High Court re-examined the evidence and concluded that the prosecution had failed to establish the necessary elements to prove the charge of attempted rape.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.india.com/wp-content/uploads/2026/09/Gang-rape-on-Janmashtami.jpg",
+      "source": "India.com",
+      "sourceUrl": "https://www.india.com/news/india/supreme-court-patna-high-court-rape-victim-surya-kant-joymalya-bagchi-v-mohana-himanshu-kumar-pathak-bihar-crime-samrat-chaudhury-indian-panel-code-8529487/",
+      "publishedAt": "2026-09-24T04:30:24.000Z",
+      "fetchedAt": "2026-09-24T05:14:21.809Z",
+      "title_hi": "सलवार उतारना रेप की कोशिश नहीं: सुप्रीम कोर्ट ने पटना हाई कोर्ट के फैसले पर लिया संज्ञान, कैल",
+      "summary_hi": "9 जुलाई के अपने फैसले में, पटना उच्च न्यायालय ने सबूतों की फिर से जांच की और निष्कर्ष निकाला कि अभियोजन पक्ष बलात्कार के प्रयास के आरोप को साबित करने के लिए आवश्यक तत्वों को स्थापित करने में विफल रहा है।",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "salavara utarana repa ki koshisha nahin: suprima korta ne patana haee korta ke phaisale para liya sanjnyan, kaila",
+      "summary_hinglish": "9 julaee ke apane phaisale men, patana uchcha nyayalaya ne sabuton ki phira se jancha ki aura nishkarsha nikala ki abhiyojana paksha balatkara ke prayasa ke aaropa ko sabita karane ke lie aavashyaka tatvon ko sthapita karane men viphala raha hai।",
+      "category_hinglish": "Crime aur Breaking News"
+    },
+    {
       "id": "ab15eddc306971fb",
       "title": "Draft National Electricity Policy set for inter-ministerial consultation",
       "summary": "The new policy emphasizes on grid flexibility amid growing renewable energy integration and potential demand from data centres and green hydrogen plants",
@@ -322,23 +352,6 @@
       "title_hinglish": "rashtriya vidyuta niti ka masauda antara-mantralayi paramarsha ke lie nirdharita",
       "summary_hinglish": "naee niti badhati navikaraniya oorja ekikarana aura deta kendron aura harita haidrojana sanyantron se sanbhavita manga ke bicha grida lachilepana para jora deti hai",
       "category_hinglish": "National aur Trending News"
-    },
-    {
-      "id": "2636c75b9ef58a40",
-      "title": "Bhagalpur’s Sandis Compound Set to Host BCCI Domestic Cricket Matches, Preparations Underway",
-      "summary": "Bhagalpur/Patna : The Sandis Compound Stadium in Bhagalpur is being prepared to host BCCI domestic cricket matches, marking a significant",
-      "category": "Sports",
-      "image": "https://patnapress.com/wp-content/uploads/2026/09/SANDIS.jpg",
-      "source": "Patna Press",
-      "sourceUrl": "https://patnapress.com/bhagalpur-sandis-compound-bcci-domestic-cricket-matches-preparations/",
-      "publishedAt": "2026-09-24T04:22:11.000Z",
-      "fetchedAt": "2026-09-24T16:37:09.714Z",
-      "title_hi": "भागलपुर का सैंडिस कंपाउंड बीसीसीआई के घरेलू क्रिकेट मैचों की मेजबानी के लिए तैयार, तैयारी चल रही है",
-      "summary_hi": "भागलपुर/पटना : भागलपुर के सैंडिस कंपाउंड स्टेडियम को बीसीसीआई के घरेलू क्रिकेट मैचों की मेजबानी के लिए तैयार किया जा रहा है, जो एक महत्वपूर्ण उपलब्धि है",
-      "category_hi": "खेल",
-      "category_hinglish": "Sports",
-      "title_hinglish": "bhagalapura ka saindisa kanpaunda bisisiaaee ke gharelu kriketa maichon ki mejabani ke lie taiyar, taiyari chala rahi hai",
-      "summary_hinglish": "bhagalapura/patana : bhagalapura ke saindisa kanpaunda stediyama ko bisisiaaee ke gharelu kriketa maichon ki mejabani ke lie taiyara kiya ja raha hai, jo eka mahatvapurna upalabdhi hai"
     },
     {
       "id": "590a45108459cbaf",
@@ -358,6 +371,23 @@
       "category_hinglish": "Sports"
     },
     {
+      "id": "2636c75b9ef58a40",
+      "title": "Bhagalpur’s Sandis Compound Set to Host BCCI Domestic Cricket Matches, Preparations Underway",
+      "summary": "Bhagalpur/Patna : The Sandis Compound Stadium in Bhagalpur is being prepared to host BCCI domestic cricket matches, marking a significant",
+      "category": "Sports",
+      "image": "https://patnapress.com/wp-content/uploads/2026/09/SANDIS.jpg",
+      "source": "Patna Press",
+      "sourceUrl": "https://patnapress.com/bhagalpur-sandis-compound-bcci-domestic-cricket-matches-preparations/",
+      "publishedAt": "2026-09-24T04:22:11.000Z",
+      "fetchedAt": "2026-09-24T16:37:09.714Z",
+      "title_hi": "भागलपुर का सैंडिस कंपाउंड बीसीसीआई के घरेलू क्रिकेट मैचों की मेजबानी के लिए तैयार, तैयारी चल रही है",
+      "summary_hi": "भागलपुर/पटना : भागलपुर के सैंडिस कंपाउंड स्टेडियम को बीसीसीआई के घरेलू क्रिकेट मैचों की मेजबानी के लिए तैयार किया जा रहा है, जो एक महत्वपूर्ण उपलब्धि है",
+      "category_hi": "खेल",
+      "category_hinglish": "Sports",
+      "title_hinglish": "bhagalapura ka saindisa kanpaunda bisisiaaee ke gharelu kriketa maichon ki mejabani ke lie taiyar, taiyari chala rahi hai",
+      "summary_hinglish": "bhagalapura/patana : bhagalapura ke saindisa kanpaunda stediyama ko bisisiaaee ke gharelu kriketa maichon ki mejabani ke lie taiyara kiya ja raha hai, jo eka mahatvapurna upalabdhi hai"
+    },
+    {
       "id": "b28fa55a23ffb8e9",
       "title": "Asian Games, Sep 25 schedule: Shooters, Gulveer among India's medal contenders",
       "summary": "Day 6 of the Asian Games 2026 brings another packed schedule for India, with the country's athletes looking to add to their medal tally. India will have seven confirmed medal opportunities, with shooting, canoe sprint, weightlifting and athletics offering chances to reach the podium.",
@@ -373,23 +403,6 @@
       "title_hinglish": "eshiyaee khel, 25 sitanbara karyakram: nishanebaj, gulavira bharata ke padaka davedaron men shamila",
       "summary_hinglish": "eshiyaee khela 2026 ka chhatha dina bharata ke lie eka aura vyasta karyakrama lekara aaya hai, jisamen desha ke ethalita apani padaka talika men ijapha karana chahenge। bharata ke pasa padaka ke sata nishchita avasara honge, jinamen nishanebaji, kaino sprint, bharottolana aura ethaletiksa men podiyama taka pahunchane ka mauka milega।",
       "category_hinglish": "Sports"
-    },
-    {
-      "id": "39e8d44d9e95e297",
-      "title": "Oil price today: Brent crude falls to $102 as Iran signals openness to diplomacy to end its conflict with US",
-      "summary": "Oil price today: Brent crude futures fell 94 cents, or 0.9%, to $102.13 a barrel, while ​West Texas Intermediate futures eased 59 cents, or 0.7%, to $91.56. US Secretary of State Marco Rubio ‌has said that a deal with Iran would involve hard work over a period of time, adding…",
-      "category": "Business & Finance",
-      "image": "https://images.etnownews.com/thumb/msid-156213392,thumbsize-440675,width-1280,height-720,resizemode-75/156213392.jpg",
-      "source": "etnownews.com",
-      "sourceUrl": "https://www.etnownews.com/economy/oil-price-today-brent-crude-falls-to-102-as-iran-signals-openness-to-diplomacy-to-end-its-conflict-with-us-article-156213392/amp",
-      "publishedAt": "2026-09-24T02:37:49.000Z",
-      "fetchedAt": "2026-09-24T20:54:35.684Z",
-      "title_hi": "तेल की कीमत आज: ब्रेंट क्रूड गिरकर 102 डॉलर पर आ गया क्योंकि ईरान ने अमेरिका के साथ अपने संघर्ष को समाप्त करने के लिए कूटनीति में खुलेपन का संकेत दिया",
-      "summary_hi": "आज तेल की कीमत: ब्रेंट क्रूड वायदा 94 सेंट या 0.9% गिरकर 102.13 डॉलर प्रति बैरल पर आ गया, जबकि वेस्ट टेक्सास इंटरमीडिएट वायदा 59 सेंट या 0.7% कम होकर 91.56 डॉलर पर आ गया। अमेरिकी विदेश मंत्री मार्को रूबियो ने कहा है कि ईरान के साथ समझौते के लिए कुछ समय तक कड़ी मेहनत करनी होगी...",
-      "category_hi": "बिज़नेस और फाइनेंस",
-      "title_hinglish": "tela ki kimata aaj: brenta kruda girakara 102 dolara para aa gaya kyonki eerana ne amerika ke satha apane sangharsha ko samapta karane ke lie kutaniti men khulepana ka sanketa diya",
-      "summary_hinglish": "aaja tela ki kimat: brenta kruda vayada 94 senta ya 0.9% girakara 102.13 dolara prati bairala para aa gay, jabaki vesta teksasa intaramidieta vayada 59 senta ya 0.7% kama hokara 91.56 dolara para aa gaya। ameriki videsha mantri marko rubiyo ne kaha hai ki eerana ke satha samajhaute ke lie kuchha samaya taka kadaी mehanata karani hogi...",
-      "category_hinglish": "Business aur Finance"
     },
     {
       "id": "c0bcf379e36aa19b",
@@ -409,23 +422,6 @@
       "category_hinglish": "Politics aur Government"
     },
     {
-      "id": "d0361234ed8d11bf",
-      "title": "‘India’s ITeS industry will move to intelligence arbitrage from cost arbitrage’",
-      "summary": "Technology services industry in India will shift to intelligence arbitrage amidst the AI transformation, moving away from its earlier cost-focused global identity, as per Rahul Singh, Chief Operating Officer, HCL Technologies speaking at the SBI Banking and Economics Conclave.Speaking at a panel di…",
-      "category": "Technology",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "source": "TradingView",
-      "sourceUrl": "https://www.tradingview.com/news/moodys:1ea44c6ed010e:0-india-s-ites-industry-will-move-to-intelligence-arbitrage-from-cost-arbitrage/",
-      "publishedAt": "2026-09-24T15:32:18.000Z",
-      "fetchedAt": "2026-09-24T17:04:28.411Z",
-      "title_hi": "'भारत का आईटीईएस उद्योग लागत मध्यस्थता से खुफिया मध्यस्थता की ओर बढ़ेगा'",
-      "summary_hi": "एसबीआई बैंकिंग और इकोनॉमिक्स कॉन्क्लेव में बोलते हुए एचसीएल टेक्नोलॉजीज के मुख्य परिचालन अधिकारी राहुल सिंह के अनुसार, भारत में प्रौद्योगिकी सेवा उद्योग एआई परिवर्तन के बीच खुफिया मध्यस्थता में स्थानांतरित हो जाएगा, जो अपनी पिछली लागत-केंद्रित वैश्विक पहचान से दूर हो जाएगा।",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "'bharata ka aaeetieeesa udyoga lagata madhyasthata se khuphiya madhyasthata ki ora badhaेga'",
-      "summary_hinglish": "esabiaaee bainkinga aura ikonomiksa konkleva men bolate hue echasiela teknolojija ke mukhya parichalana adhikari rahula sinha ke anusar, bharata men praudyogiki seva udyoga eaaee parivartana ke bicha khuphiya madhyasthata men sthanantarita ho jaeg, jo apani pichhali lagata-kendrita vaishvika pahachana se dura ho jaega।",
-      "category_hinglish": "Technology"
-    },
-    {
       "id": "f0d00f1243cb2345",
       "title": "Son Arrested In Jamui Groping Case, Father Caught For 2003 Double Murder After Hiding For 23 Years: How Police Found Him",
       "summary": "Jamui groping case: Police arrest accused Nandan Yadav’s father Ganori Yadav in a 2003 double-murder case after tracing his criminal past.",
@@ -441,6 +437,23 @@
       "category_hinglish": "Crime aur Breaking News",
       "title_hinglish": "jamuee gropinga mamale men beta giraphtar, pita 23 sala taka chhipane ke bada 2003 ke dohare hatyakanda men pakadaा gay: pulisa ne use kaise paya",
       "summary_hinglish": "jamuee chhedachhada mamal: pulisa ne aaropi nandana yadava ke aaparadhika itihasa ka pata lagane ke bada 2003 ke dohare hatyakanda men usake pita ganori yadava ko giraphtara kara liya।"
+    },
+    {
+      "id": "d0361234ed8d11bf",
+      "title": "‘India’s ITeS industry will move to intelligence arbitrage from cost arbitrage’",
+      "summary": "Technology services industry in India will shift to intelligence arbitrage amidst the AI transformation, moving away from its earlier cost-focused global identity, as per Rahul Singh, Chief Operating Officer, HCL Technologies speaking at the SBI Banking and Economics Conclave.Speaking at a panel di…",
+      "category": "Technology",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "source": "TradingView",
+      "sourceUrl": "https://www.tradingview.com/news/moodys:1ea44c6ed010e:0-india-s-ites-industry-will-move-to-intelligence-arbitrage-from-cost-arbitrage/",
+      "publishedAt": "2026-09-24T15:32:18.000Z",
+      "fetchedAt": "2026-09-24T17:04:28.411Z",
+      "title_hi": "'भारत का आईटीईएस उद्योग लागत मध्यस्थता से खुफिया मध्यस्थता की ओर बढ़ेगा'",
+      "summary_hi": "एसबीआई बैंकिंग और इकोनॉमिक्स कॉन्क्लेव में बोलते हुए एचसीएल टेक्नोलॉजीज के मुख्य परिचालन अधिकारी राहुल सिंह के अनुसार, भारत में प्रौद्योगिकी सेवा उद्योग एआई परिवर्तन के बीच खुफिया मध्यस्थता में स्थानांतरित हो जाएगा, जो अपनी पिछली लागत-केंद्रित वैश्विक पहचान से दूर हो जाएगा।",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "'bharata ka aaeetieeesa udyoga lagata madhyasthata se khuphiya madhyasthata ki ora badhaेga'",
+      "summary_hinglish": "esabiaaee bainkinga aura ikonomiksa konkleva men bolate hue echasiela teknolojija ke mukhya parichalana adhikari rahula sinha ke anusar, bharata men praudyogiki seva udyoga eaaee parivartana ke bicha khuphiya madhyasthata men sthanantarita ho jaeg, jo apani pichhali lagata-kendrita vaishvika pahachana se dura ho jaega।",
+      "category_hinglish": "Technology"
     },
     {
       "id": "60fddf326a9cd976",
@@ -477,23 +490,6 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "e239bf7a83536be1",
-      "title": "The Paradise Box Office Collection Day 1: Nani's Film Becomes His Biggest Opener With Over Rs 31 Crore",
-      "summary": "The Paradise has opened strongly with over Rs 31 crore net in India on Day 1, becoming Nani's biggest opener and surpassing HIT 3.",
-      "category": "Entertainment",
-      "image": "https://imgs.etvbharat.com/etvbharat/prod-images/24-09-2026/1200-675-27712073-510-27712073-1790262269328.jpg",
-      "source": "ETV Bharat",
-      "sourceUrl": "https://www.etvbharat.com/amp/en/entertainment/nani-film-the-paradise-box-office-collection-day-1-in-india-and-worldwide-enn26092407719",
-      "publishedAt": "2026-09-24T15:05:34.000Z",
-      "fetchedAt": "2026-09-24T18:47:54.868Z",
-      "title_hi": "द पैराडाइज़ बॉक्स ऑफिस कलेक्शन दिन 1: नानी की फिल्म 31 करोड़ रुपये से अधिक के साथ उनकी सबसे बड़ी ओपनर बन गई",
-      "summary_hi": "द पैराडाइज़ ने पहले दिन भारत में 31 करोड़ रुपये से अधिक की कमाई के साथ जोरदार शुरुआत की, जो नानी की सबसे बड़ी ओपनर बन गई और हिट 3 को पीछे छोड़ दिया।",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "da pairadaija boksa ऑphisa kalekshana dina 1: nani ki philma 31 karoda rupaye se adhika ke satha unaki sabase badaी opanara bana gaee",
-      "summary_hinglish": "da pairadaija ne pahale dina bharata men 31 karoda rupaye se adhika ki kamaee ke satha joradara shuruaata ki, jo nani ki sabase badaी opanara bana gaee aura hita 3 ko pichhe chhoda diya।",
-      "category_hinglish": "Entertainment"
-    },
-    {
       "id": "70e321b27630d958",
       "title": "Bihar BJP MLA criticises own government for distributing ₹10,000 crore to JEEVIKA didis",
       "summary": "Bihar BJP MLA Vinay Bihari criticizes his government’s ₹10,000 crore distribution to JEEViKA didis, questioning its impact on development.",
@@ -511,6 +507,23 @@
       "category_hinglish": "Politics aur Government"
     },
     {
+      "id": "e239bf7a83536be1",
+      "title": "The Paradise Box Office Collection Day 1: Nani's Film Becomes His Biggest Opener With Over Rs 31 Crore",
+      "summary": "The Paradise has opened strongly with over Rs 31 crore net in India on Day 1, becoming Nani's biggest opener and surpassing HIT 3.",
+      "category": "Entertainment",
+      "image": "https://imgs.etvbharat.com/etvbharat/prod-images/24-09-2026/1200-675-27712073-510-27712073-1790262269328.jpg",
+      "source": "ETV Bharat",
+      "sourceUrl": "https://www.etvbharat.com/amp/en/entertainment/nani-film-the-paradise-box-office-collection-day-1-in-india-and-worldwide-enn26092407719",
+      "publishedAt": "2026-09-24T15:05:34.000Z",
+      "fetchedAt": "2026-09-24T18:47:54.868Z",
+      "title_hi": "द पैराडाइज़ बॉक्स ऑफिस कलेक्शन दिन 1: नानी की फिल्म 31 करोड़ रुपये से अधिक के साथ उनकी सबसे बड़ी ओपनर बन गई",
+      "summary_hi": "द पैराडाइज़ ने पहले दिन भारत में 31 करोड़ रुपये से अधिक की कमाई के साथ जोरदार शुरुआत की, जो नानी की सबसे बड़ी ओपनर बन गई और हिट 3 को पीछे छोड़ दिया।",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "da pairadaija boksa ऑphisa kalekshana dina 1: nani ki philma 31 karoda rupaye se adhika ke satha unaki sabase badaी opanara bana gaee",
+      "summary_hinglish": "da pairadaija ne pahale dina bharata men 31 karoda rupaye se adhika ki kamaee ke satha joradara shuruaata ki, jo nani ki sabase badaी opanara bana gaee aura hita 3 ko pichhe chhoda diya।",
+      "category_hinglish": "Entertainment"
+    },
+    {
       "id": "249b165e90ddf3ca",
       "title": "India’s Semiconductor Journey: Old Designer, New Producer - The Diplomat – Asia-Pacific Current Affairs Magazine",
       "summary": "India already has the design talent; what it needs is to turn this talent into Indian-owned companies, and to build the supplier base its fabs lack.",
@@ -525,23 +538,6 @@
       "category_hi": "टेक्नोलॉजी",
       "title_hinglish": "bharata ki semikandaktara yatr: purane dijainar, nae nirmata - da diplomaita - eshiya-prashanta karanta apheyarsa patrika",
       "summary_hinglish": "bharata men pahale se hi dijaाina pratibha maujuda hai; jarurata isa pratibha ko bharatiya svamitva vali kanpaniyon men badalane ki hai, aura aapurtikarta aadhara ka nirmana karane ki hai jisamen isaki kami hai।",
-      "category_hinglish": "Technology"
-    },
-    {
-      "id": "90ac7c9a4fb0b54e",
-      "title": "DRDO signs deep tech project pact with Zero mK India to develop refrigerators for quantum applications",
-      "summary": "DRDO signs Rs 500 crore pact with Zero mK India to develop a 20 mK dilution refrigerator for quantum applications under the National Quantum Mission.",
-      "category": "Technology",
-      "image": "https://bl-i.thgim.com/public/incoming/lwhr0t/article71504950.ece/alternates/LANDSCAPE_1200/Take-project-deG88GI2D3P.5.jpg.jpg",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/companies/drdo-signs-deep-tech-project-pact-with-zero-mk-india-to-develop-refrigerators-for-quantum-applications/article71504668.ece",
-      "publishedAt": "2026-09-24T14:58:42.000Z",
-      "fetchedAt": "2026-09-24T15:18:03.629Z",
-      "title_hi": "डीआरडीओ ने क्वांटम अनुप्रयोगों के लिए रेफ्रिजरेटर विकसित करने के लिए जीरो एमके इंडिया के साथ गहन तकनीकी परियोजना समझौते पर हस्ताक्षर किए",
-      "summary_hi": "डीआरडीओ ने राष्ट्रीय क्वांटम मिशन के तहत क्वांटम अनुप्रयोगों के लिए 20 एमके डाइल्यूशन रेफ्रिजरेटर विकसित करने के लिए जीरो एमके इंडिया के साथ 500 करोड़ रुपये के समझौते पर हस्ताक्षर किए।",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "diaaradio ne kvantama anuprayogon ke lie rephrijaretara vikasita karane ke lie jiro emake indiya ke satha gahana takaniki pariyojana samajhaute para hastakshara kie",
-      "summary_hinglish": "diaaradio ne rashtriya kvantama mishana ke tahata kvantama anuprayogon ke lie 20 emake dailyushana rephrijaretara vikasita karane ke lie jiro emake indiya ke satha 500 karoda rupaye ke samajhaute para hastakshara kie।",
       "category_hinglish": "Technology"
     },
     {
@@ -562,6 +558,23 @@
       "category_hinglish": "Technology"
     },
     {
+      "id": "90ac7c9a4fb0b54e",
+      "title": "DRDO signs deep tech project pact with Zero mK India to develop refrigerators for quantum applications",
+      "summary": "DRDO signs Rs 500 crore pact with Zero mK India to develop a 20 mK dilution refrigerator for quantum applications under the National Quantum Mission.",
+      "category": "Technology",
+      "image": "https://bl-i.thgim.com/public/incoming/lwhr0t/article71504950.ece/alternates/LANDSCAPE_1200/Take-project-deG88GI2D3P.5.jpg.jpg",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/companies/drdo-signs-deep-tech-project-pact-with-zero-mk-india-to-develop-refrigerators-for-quantum-applications/article71504668.ece",
+      "publishedAt": "2026-09-24T14:58:42.000Z",
+      "fetchedAt": "2026-09-24T15:18:03.629Z",
+      "title_hi": "डीआरडीओ ने क्वांटम अनुप्रयोगों के लिए रेफ्रिजरेटर विकसित करने के लिए जीरो एमके इंडिया के साथ गहन तकनीकी परियोजना समझौते पर हस्ताक्षर किए",
+      "summary_hi": "डीआरडीओ ने राष्ट्रीय क्वांटम मिशन के तहत क्वांटम अनुप्रयोगों के लिए 20 एमके डाइल्यूशन रेफ्रिजरेटर विकसित करने के लिए जीरो एमके इंडिया के साथ 500 करोड़ रुपये के समझौते पर हस्ताक्षर किए।",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "diaaradio ne kvantama anuprayogon ke lie rephrijaretara vikasita karane ke lie jiro emake indiya ke satha gahana takaniki pariyojana samajhaute para hastakshara kie",
+      "summary_hinglish": "diaaradio ne rashtriya kvantama mishana ke tahata kvantama anuprayogon ke lie 20 emake dailyushana rephrijaretara vikasita karane ke lie jiro emake indiya ke satha 500 karoda rupaye ke samajhaute para hastakshara kie।",
+      "category_hinglish": "Technology"
+    },
+    {
       "id": "acea879322af9433",
       "title": "India can face Brazil, Panama, Uruguay. But World Cup when? Christiansen explains",
       "summary": "India are preparing to face three World Cup-bound teams, but Panama coach Thomas Christiansen says the bigger challenge lies at home. He has pointed to the league, facilities, coaching, ambition and long-term player development.",
@@ -579,23 +592,6 @@
       "summary_hinglish": "bharata vishva kapa men jane vali tina timon ka samana karane ki taiyari kara raha hai, lekina panama ke kocha thomasa kristiyanasena ka kahana hai ki badaी chunauti gharelu maidana para hai। unhonne lig, suvidhaon, koching, mahatvakanksha aura dirghakalika khiladaी vikasa ki ora ishara kiya hai।"
     },
     {
-      "id": "4c9468e2e7f68891",
-      "title": "'We Must Be Prepared For Future Security Challenges': Rajnath Singh At News18 DEFCON 2026 | News18",
-      "summary": "Defence Minister Rajnath Singh on Thursday said India must remain prepared to deal with future security challenges, stressing that the scope of national security has expanded and requires a holistic approach to defence.Speaking at News18 DEFCON 2026, Singh said people are now more aware of the country’s defence apparatus, while…",
-      "category": "National & Trending News",
-      "image": "https://images.news18.com/ibnlive/uploads/2026/09/1790260382_c6d9ad4e-39e8-49a6-bd77-a09ab655487d-1200x675.jpeg",
-      "source": "News18",
-      "sourceUrl": "https://www.news18.com/amp/videos/india/we-must-be-prepared-for-future-security-challenges-rajnath-singh-at-news18-defcon-2026-news18-10351268.html",
-      "publishedAt": "2026-09-24T14:27:00.000Z",
-      "fetchedAt": "2026-09-24T15:49:57.055Z",
-      "title_hi": "'हमें भविष्य की सुरक्षा चुनौतियों के लिए तैयार रहना चाहिए': News18 DEFCON 2026 में राजनाथ सिंह | न्यूज18",
-      "summary_hi": "रक्षा मंत्री राजनाथ सिंह ने गुरुवार को कहा कि भारत को भविष्य की सुरक्षा चुनौतियों से निपटने के लिए तैयार रहना चाहिए, उन्होंने इस बात पर जोर दिया कि राष्ट्रीय सुरक्षा का दायरा बढ़ गया है और रक्षा के लिए समग्र दृष्टिकोण की आवश्यकता है। News18 DEFCON 2026 में बोलते हुए, सिंह ने कहा कि लोग अब देश के रक्षा तंत्र के बारे में अधिक जागरूक हैं, जबकि…",
-      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
-      "title_hinglish": "'hamen bhavishya ki suraksha chunautiyon ke lie taiyara rahana chahie': News18 DEFCON 2026 men rajanatha sinha | nyuja18",
-      "summary_hinglish": "raksha mantri rajanatha sinha ne guruvara ko kaha ki bharata ko bhavishya ki suraksha chunautiyon se nipatane ke lie taiyara rahana chahie, unhonne isa bata para jora diya ki rashtriya suraksha ka dayara badha gaya hai aura raksha ke lie samagra drishtikona ki aavashyakata hai। News18 DEFCON 2026 men bolate hue, sinha ne kaha ki loga aba desha ke raksha tantra ke bare men adhika jagaruka hain, jabaki…",
-      "category_hinglish": "National aur Trending News"
-    },
-    {
       "id": "e381c45d8b84f9b1",
       "title": "Jamui incident: Accused’s father held in murder case",
       "summary": "The father of the alleged main accused involved in a minor girl’s molestation case has been arrested in a more than two-decade-old double murder case. The accused, Ganauri Yadav, was wanted in a sensational double murder that took place in 2003 and had been absconding for 21 years.",
@@ -611,6 +607,23 @@
       "title_hinglish": "jamuee ghatan: hatya mamale men aaropi ka pita giraphtara",
       "summary_hinglish": "nabaliga ladaki se chhedachhada mamale men shamila kathita mukhya aaropi ke pita ko do dashaka se adhika purane dohare hatyakanda men giraphtara kiya gaya hai। aaropi ganauri yadava 2003 men hue eka sanasanikheja dohare hatyakanda men vanchhita tha aura 21 sala se pharara tha।",
       "category_hinglish": "Crime aur Breaking News"
+    },
+    {
+      "id": "4c9468e2e7f68891",
+      "title": "'We Must Be Prepared For Future Security Challenges': Rajnath Singh At News18 DEFCON 2026 | News18",
+      "summary": "Defence Minister Rajnath Singh on Thursday said India must remain prepared to deal with future security challenges, stressing that the scope of national security has expanded and requires a holistic approach to defence.Speaking at News18 DEFCON 2026, Singh said people are now more aware of the country’s defence apparatus, while…",
+      "category": "National & Trending News",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/09/1790260382_c6d9ad4e-39e8-49a6-bd77-a09ab655487d-1200x675.jpeg",
+      "source": "News18",
+      "sourceUrl": "https://www.news18.com/amp/videos/india/we-must-be-prepared-for-future-security-challenges-rajnath-singh-at-news18-defcon-2026-news18-10351268.html",
+      "publishedAt": "2026-09-24T14:27:00.000Z",
+      "fetchedAt": "2026-09-24T15:49:57.055Z",
+      "title_hi": "'हमें भविष्य की सुरक्षा चुनौतियों के लिए तैयार रहना चाहिए': News18 DEFCON 2026 में राजनाथ सिंह | न्यूज18",
+      "summary_hi": "रक्षा मंत्री राजनाथ सिंह ने गुरुवार को कहा कि भारत को भविष्य की सुरक्षा चुनौतियों से निपटने के लिए तैयार रहना चाहिए, उन्होंने इस बात पर जोर दिया कि राष्ट्रीय सुरक्षा का दायरा बढ़ गया है और रक्षा के लिए समग्र दृष्टिकोण की आवश्यकता है। News18 DEFCON 2026 में बोलते हुए, सिंह ने कहा कि लोग अब देश के रक्षा तंत्र के बारे में अधिक जागरूक हैं, जबकि…",
+      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
+      "title_hinglish": "'hamen bhavishya ki suraksha chunautiyon ke lie taiyara rahana chahie': News18 DEFCON 2026 men rajanatha sinha | nyuja18",
+      "summary_hinglish": "raksha mantri rajanatha sinha ne guruvara ko kaha ki bharata ko bhavishya ki suraksha chunautiyon se nipatane ke lie taiyara rahana chahie, unhonne isa bata para jora diya ki rashtriya suraksha ka dayara badha gaya hai aura raksha ke lie samagra drishtikona ki aavashyakata hai। News18 DEFCON 2026 men bolate hue, sinha ne kaha ki loga aba desha ke raksha tantra ke bare men adhika jagaruka hain, jabaki…",
+      "category_hinglish": "National aur Trending News"
     },
     {
       "id": "f47d6dc2d7255012",
@@ -647,23 +660,6 @@
       "category_hinglish": "National aur Trending News"
     },
     {
-      "id": "394f1f7199348d89",
-      "title": "When Silicon Meets the Soil: India's AI Revolution",
-      "summary": "India’s AI-for-all approach uses inclusive, multilingual and responsible AI to drive development, expand access, and address challenges across sectors.",
-      "category": "Technology",
-      "image": "https://www.orfonline.org/public/uploads/seo/20260924125353.jpg",
-      "source": "orfonline.org",
-      "sourceUrl": "https://www.orfonline.org/research/when-silicon-meets-the-soil-india-s-ai-revolution",
-      "publishedAt": "2026-09-24T14:15:04.000Z",
-      "fetchedAt": "2026-09-24T14:24:18.947Z",
-      "title_hi": "जब सिलिकॉन मिट्टी से मिलता है: भारत की एआई क्रांति",
-      "summary_hi": "भारत का एआई-फॉर-ऑल दृष्टिकोण विकास को आगे बढ़ाने, पहुंच का विस्तार करने और सभी क्षेत्रों में चुनौतियों का समाधान करने के लिए समावेशी, बहुभाषी और जिम्मेदार एआई का उपयोग करता है।",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "jaba silikona mitti se milata hai: bharata ki eaaee kranti",
-      "summary_hinglish": "bharata ka eaaee-phora-ऑla drishtikona vikasa ko aage badhaाne, pahuncha ka vistara karane aura sabhi kshetron men chunautiyon ka samadhana karane ke lie samaveshi, bahubhashi aura jimmedara eaaee ka upayoga karata hai।",
-      "category_hinglish": "Technology"
-    },
-    {
       "id": "c33479da72e1e0c1",
       "title": "Jamui Horror: Accused Hareram Yadav Slapped By Local Lawyer On POCSO Court Premises",
       "summary": "The lawyer Akash Pandey said Hareram should be shot as the people of Jamui are ashamed of what he did, reports Rajesh Kumar.",
@@ -681,6 +677,23 @@
       "summary_hinglish": "vakila aakasha pande ne kaha ki harerama ko goli mara deni chahie kyonki usane jo kiya usase jamuee ke loga sharminda hain, rajesha kumara ki riport."
     },
     {
+      "id": "394f1f7199348d89",
+      "title": "When Silicon Meets the Soil: India's AI Revolution",
+      "summary": "India’s AI-for-all approach uses inclusive, multilingual and responsible AI to drive development, expand access, and address challenges across sectors.",
+      "category": "Technology",
+      "image": "https://www.orfonline.org/public/uploads/seo/20260924125353.jpg",
+      "source": "orfonline.org",
+      "sourceUrl": "https://www.orfonline.org/research/when-silicon-meets-the-soil-india-s-ai-revolution",
+      "publishedAt": "2026-09-24T14:15:04.000Z",
+      "fetchedAt": "2026-09-24T14:24:18.947Z",
+      "title_hi": "जब सिलिकॉन मिट्टी से मिलता है: भारत की एआई क्रांति",
+      "summary_hi": "भारत का एआई-फॉर-ऑल दृष्टिकोण विकास को आगे बढ़ाने, पहुंच का विस्तार करने और सभी क्षेत्रों में चुनौतियों का समाधान करने के लिए समावेशी, बहुभाषी और जिम्मेदार एआई का उपयोग करता है।",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "jaba silikona mitti se milata hai: bharata ki eaaee kranti",
+      "summary_hinglish": "bharata ka eaaee-phora-ऑla drishtikona vikasa ko aage badhaाne, pahuncha ka vistara karane aura sabhi kshetron men chunautiyon ka samadhana karane ke lie samaveshi, bahubhashi aura jimmedara eaaee ka upayoga karata hai।",
+      "category_hinglish": "Technology"
+    },
+    {
       "id": "747930a253e53366",
       "title": "Track UK's latest migration numbers - net migration, visas, asylum and small boats",
       "summary": "Use our interactive tracker to explore the latest migration statistics for the UK",
@@ -689,30 +702,13 @@
       "source": "BBC",
       "sourceUrl": "https://www.bbc.com/news/articles/c70989jrdweo",
       "publishedAt": "2026-09-24T14:07:06.000Z",
-      "fetchedAt": "2026-09-24T20:53:58.818Z",
+      "fetchedAt": "2026-09-24T21:09:02.546Z",
       "title_hi": "यूके के नवीनतम प्रवासन नंबरों को ट्रैक करें - शुद्ध प्रवासन, वीज़ा, शरण और छोटी नावें",
       "summary_hi": "यूके के नवीनतम प्रवासन आंकड़ों का पता लगाने के लिए हमारे इंटरैक्टिव ट्रैकर का उपयोग करें",
       "category_hi": "अपराध और ब्रेकिंग न्यूज़",
       "title_hinglish": "yuke ke navinatama pravasana nanbaron ko traika karen - shuddha pravasan, vijaा, sharana aura chhoti naven",
       "summary_hinglish": "yuke ke navinatama pravasana aankadaोn ka pata lagane ke lie hamare intaraiktiva traikara ka upayoga karen",
       "category_hinglish": "Crime aur Breaking News"
-    },
-    {
-      "id": "cd3aa60c3e6cfb22",
-      "title": "Indian Athletes Secure Medals In Mixed Relay And 10,000m At Asian Games",
-      "summary": "India secured a silver medal in the mixed 4x400m relay and a historic bronze in the women",
-      "category": "Sports",
-      "image": "https://im.rediff.com/1200-630/sports/2023/jul/30relay.png",
-      "source": "Rediff",
-      "sourceUrl": "https://www.rediff.com/sports/report/india-wins-silver-in-mixed-relay-seema-kumari-takes-bronze-at-asian-games/20260924.htm",
-      "publishedAt": "2026-09-24T14:04:31.000Z",
-      "fetchedAt": "2026-09-24T14:24:14.020Z",
-      "title_hi": "भारतीय एथलीटों ने एशियाई खेलों में मिश्रित रिले और 10,000 मीटर में पदक सुरक्षित किए",
-      "summary_hi": "भारत ने मिश्रित 4x400 मीटर रिले में रजत पदक और महिलाओं में ऐतिहासिक कांस्य पदक हासिल किया",
-      "category_hi": "खेल",
-      "title_hinglish": "bharatiya ethaliton ne eshiyaee khelon men mishrita rile aura 10,000 mitara men padaka surakshita kie",
-      "summary_hinglish": "bharata ne mishrita 4x400 mitara rile men rajata padaka aura mahilaon men aitihasika kansya padaka hasila kiya",
-      "category_hinglish": "Sports"
     },
     {
       "id": "eab5dd87718162e1",
@@ -732,6 +728,23 @@
       "summary_hinglish": "isa posta ko instagrama para dekhen utsava sinha dvara sajha ki gaee eka posta | japana vala bihari (@japan_walla_bihari)"
     },
     {
+      "id": "cd3aa60c3e6cfb22",
+      "title": "Indian Athletes Secure Medals In Mixed Relay And 10,000m At Asian Games",
+      "summary": "India secured a silver medal in the mixed 4x400m relay and a historic bronze in the women",
+      "category": "Sports",
+      "image": "https://im.rediff.com/1200-630/sports/2023/jul/30relay.png",
+      "source": "Rediff",
+      "sourceUrl": "https://www.rediff.com/sports/report/india-wins-silver-in-mixed-relay-seema-kumari-takes-bronze-at-asian-games/20260924.htm",
+      "publishedAt": "2026-09-24T14:04:31.000Z",
+      "fetchedAt": "2026-09-24T14:24:14.020Z",
+      "title_hi": "भारतीय एथलीटों ने एशियाई खेलों में मिश्रित रिले और 10,000 मीटर में पदक सुरक्षित किए",
+      "summary_hi": "भारत ने मिश्रित 4x400 मीटर रिले में रजत पदक और महिलाओं में ऐतिहासिक कांस्य पदक हासिल किया",
+      "category_hi": "खेल",
+      "title_hinglish": "bharatiya ethaliton ne eshiyaee khelon men mishrita rile aura 10,000 mitara men padaka surakshita kie",
+      "summary_hinglish": "bharata ne mishrita 4x400 mitara rile men rajata padaka aura mahilaon men aitihasika kansya padaka hasila kiya",
+      "category_hinglish": "Sports"
+    },
+    {
       "id": "8e7472c30dd32bf2",
       "title": "Who is Seema? Meet India's 10,000m bronze medallist at Asian Games 2026",
       "summary": "The Times of India brings the Latest & Top Breaking News on Politics and Current Affairs in India & around the World, Cricket, Sports, Business, Bollywood News and Entertainment, Science, Technology, Health & Fitness news & opinions from leading columnists.",
@@ -749,23 +762,6 @@
       "category_hinglish": "National aur Trending News"
     },
     {
-      "id": "735f066b0635e412",
-      "title": "Asian Games 2026, Medal Tally, Participating Countries, Host Country",
-      "summary": "Asian Games 2026 are being held in Aichi-Nagoya, Japan, from 19 September to 4 October, featuring 43 sports and 469 medal events, with India fielding 503 athletes.",
-      "category": "Sports",
-      "image": "https://vajiramias.sgp1.cdn.digitaloceanspaces.com/wp/current-affairs/2026/09/22162258/Asian-Games-2026-.jpg?v=1790074377",
-      "source": "Vajiram & Ravi",
-      "sourceUrl": "https://vajiramandravi.com/current-affairs/asian-games-2026/",
-      "publishedAt": "2026-09-24T13:49:44.000Z",
-      "fetchedAt": "2026-09-24T14:57:40.291Z",
-      "title_hi": "एशियाई खेल 2026, पदक तालिका, भाग लेने वाले देश, मेजबान देश",
-      "summary_hi": "एशियाई खेल 2026 जापान के आइची-नागोया में 19 सितंबर से 4 अक्टूबर तक आयोजित किए जा रहे हैं, जिसमें 43 खेल और 469 पदक स्पर्धाएं होंगी, जिसमें भारत 503 एथलीटों को मैदान में उतारेगा।",
-      "category_hi": "खेल",
-      "title_hinglish": "eshiyaee khela 2026, padaka talik, bhaga lene vale desh, mejabana desha",
-      "summary_hinglish": "eshiyaee khela 2026 japana ke aaichi-nagoya men 19 sitanbara se 4 aktubara taka aayojita kie ja rahe hain, jisamen 43 khela aura 469 padaka spardhaen hongi, jisamen bharata 503 ethaliton ko maidana men utarega।",
-      "category_hinglish": "Sports"
-    },
-    {
       "id": "efb44817fc6256f9",
       "title": "Telangana, Bihar stand out in India’s district-level NEET map",
       "summary": "Bhadradri Kothagudem in Telangana and Pashchim Champaran in Bihar are among the districts where more than four in 10 people aged 15–29 are neither working nor studying",
@@ -781,6 +777,23 @@
       "title_hinglish": "bharata ke jila-stariya NEET manachitra men telangan, bihara alaga sthana para hain",
       "summary_hinglish": "telangana men bhadradri kothagudema aura bihara men pashchima chanparana una jilon men se hain, jahan 15-29 aayu varga ke 10 men se chara se adhika loga na to kama kara rahe hain aura na hi padhaाee kara rahe hain।",
       "category_hinglish": "Business aur Finance"
+    },
+    {
+      "id": "735f066b0635e412",
+      "title": "Asian Games 2026, Medal Tally, Participating Countries, Host Country",
+      "summary": "Asian Games 2026 are being held in Aichi-Nagoya, Japan, from 19 September to 4 October, featuring 43 sports and 469 medal events, with India fielding 503 athletes.",
+      "category": "Sports",
+      "image": "https://vajiramias.sgp1.cdn.digitaloceanspaces.com/wp/current-affairs/2026/09/22162258/Asian-Games-2026-.jpg?v=1790074377",
+      "source": "Vajiram & Ravi",
+      "sourceUrl": "https://vajiramandravi.com/current-affairs/asian-games-2026/",
+      "publishedAt": "2026-09-24T13:49:44.000Z",
+      "fetchedAt": "2026-09-24T14:57:40.291Z",
+      "title_hi": "एशियाई खेल 2026, पदक तालिका, भाग लेने वाले देश, मेजबान देश",
+      "summary_hi": "एशियाई खेल 2026 जापान के आइची-नागोया में 19 सितंबर से 4 अक्टूबर तक आयोजित किए जा रहे हैं, जिसमें 43 खेल और 469 पदक स्पर्धाएं होंगी, जिसमें भारत 503 एथलीटों को मैदान में उतारेगा।",
+      "category_hi": "खेल",
+      "title_hinglish": "eshiyaee khela 2026, padaka talik, bhaga lene vale desh, mejabana desha",
+      "summary_hinglish": "eshiyaee khela 2026 japana ke aaichi-nagoya men 19 sitanbara se 4 aktubara taka aayojita kie ja rahe hain, jisamen 43 khela aura 469 padaka spardhaen hongi, jisamen bharata 503 ethaliton ko maidana men utarega।",
+      "category_hinglish": "Sports"
     },
     {
       "id": "c2970baa9bb6b8e0",
@@ -817,23 +830,6 @@
       "category_hinglish": "Entertainment"
     },
     {
-      "id": "c457f77cd37cda70",
-      "title": "Asian Games 2026: Seema Kumari wins 10,000m bronze, ends India's 16-year medal wait",
-      "summary": "Indian track and field athlete Seema Kumari won a landmark bronze medal for the country in women's 10,000m final at the Asian Games on Thursday. Seema finished with a time of 32:50.05.",
-      "category": "Sports",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/seema-kumari-241205190-16x9_0.jpg?VersionId=yWwJxZSl85znW0MR1vgMerRM1YIXouyp",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/amp/sports/asian-games/story/asian-games-2026-seema-kumari-10000m-bronze-india-16-year-medal-wait-3002130-2026-09-24",
-      "publishedAt": "2026-09-24T13:13:36.000Z",
-      "fetchedAt": "2026-09-24T14:42:30.537Z",
-      "title_hi": "एशियाई खेल 2026: सीमा कुमारी ने 10,000 मीटर में कांस्य पदक जीता, भारत का 16 साल का पदक इंतजार खत्म हुआ",
-      "summary_hi": "भारतीय ट्रैक एवं फील्ड एथलीट सीमा कुमारी ने गुरुवार को एशियाई खेलों में महिलाओं के 10,000 मीटर फाइनल में देश के लिए ऐतिहासिक कांस्य पदक जीता। सीमा ने 32:50.05 के समय के साथ समापन किया।",
-      "category_hi": "खेल",
-      "title_hinglish": "eshiyaee khela 2026: sima kumari ne 10,000 mitara men kansya padaka jit, bharata ka 16 sala ka padaka intajara khatma huaa",
-      "summary_hinglish": "bharatiya traika evan philda ethalita sima kumari ne guruvara ko eshiyaee khelon men mahilaon ke 10,000 mitara phainala men desha ke lie aitihasika kansya padaka jita। sima ne 32:50.05 ke samaya ke satha samapana kiya।",
-      "category_hinglish": "Sports"
-    },
-    {
       "id": "16d3d9323c1b5076",
       "title": "Beyond disgusting: Actor Ayesha Khan slams moral policing in Jamui assault case",
       "summary": "Ayesha Khan condemned the alleged assault of two minors in Jamui and questioned the justification of moral policing. Her remarks came amid outrage over the circulated video and a wider debate over harassment in the name of culture.",
@@ -849,6 +845,23 @@
       "title_hinglish": "ghrinita se pare: abhinetri aayasha khana ne jamuee hamale mamale men naitika pulisinga ki aalochana ki",
       "summary_hinglish": "aayasha khana ne jamuee men do nabaligon ke satha kathita marapita ki ninda ki aura naitika pulisinga ke auchitya para savala uthaya। unaki tippani prasarita vidiyo para aakrosha aura sanskriti ke nama para utpidana para vyapaka bahasa ke bicha aaee hai।",
       "category_hinglish": "Entertainment"
+    },
+    {
+      "id": "c457f77cd37cda70",
+      "title": "Asian Games 2026: Seema Kumari wins 10,000m bronze, ends India's 16-year medal wait",
+      "summary": "Indian track and field athlete Seema Kumari won a landmark bronze medal for the country in women's 10,000m final at the Asian Games on Thursday. Seema finished with a time of 32:50.05.",
+      "category": "Sports",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/seema-kumari-241205190-16x9_0.jpg?VersionId=yWwJxZSl85znW0MR1vgMerRM1YIXouyp",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/amp/sports/asian-games/story/asian-games-2026-seema-kumari-10000m-bronze-india-16-year-medal-wait-3002130-2026-09-24",
+      "publishedAt": "2026-09-24T13:13:36.000Z",
+      "fetchedAt": "2026-09-24T14:42:30.537Z",
+      "title_hi": "एशियाई खेल 2026: सीमा कुमारी ने 10,000 मीटर में कांस्य पदक जीता, भारत का 16 साल का पदक इंतजार खत्म हुआ",
+      "summary_hi": "भारतीय ट्रैक एवं फील्ड एथलीट सीमा कुमारी ने गुरुवार को एशियाई खेलों में महिलाओं के 10,000 मीटर फाइनल में देश के लिए ऐतिहासिक कांस्य पदक जीता। सीमा ने 32:50.05 के समय के साथ समापन किया।",
+      "category_hi": "खेल",
+      "title_hinglish": "eshiyaee khela 2026: sima kumari ne 10,000 mitara men kansya padaka jit, bharata ka 16 sala ka padaka intajara khatma huaa",
+      "summary_hinglish": "bharatiya traika evan philda ethalita sima kumari ne guruvara ko eshiyaee khelon men mahilaon ke 10,000 mitara phainala men desha ke lie aitihasika kansya padaka jita। sima ne 32:50.05 ke samaya ke satha samapana kiya।",
+      "category_hinglish": "Sports"
     },
     {
       "id": "66bc347e753c9245",
@@ -868,23 +881,6 @@
       "summary_hinglish": "sarakara ne 21 sitanbara ko phremavarka ke tahata smartaphona skrina protektarsa ko shamila karane ki adhisuchana jari ki, jisamen nirdharita bharatiya manaka ka anupalana 1 aprail, 2027 se anivarya ho jaega। nirmataon aura anya sansthaon ko 31 march, 2027 taka eka sankramana avadhi di gaee hai।"
     },
     {
-      "id": "9a1149c02b5a9591",
-      "title": "Shah Rukh Khan loses Rs 2,490 crore in wealth, remains India’s richest actor",
-      "summary": "Bollywood superstar Shah Rukh Khan has seen his estimated wealth fall by Rs 2,490 crore over the past year, but he continues to top the list of India’s richest actors, according to the 2026 Hurun India Rich List.",
-      "category": "Entertainment",
-      "image": "https://cf-img-a-in.tosshub.com/lingo/itne/images/story/202609/6ab51fca9cbb7-shah-rukh-khan---pti-file-image-174748523-16x9.jpg",
-      "source": "India Today NE",
-      "sourceUrl": "https://www.indiatodayne.in/entertainment/story/shah-rukh-khan-loses-rs-2490-crore-in-wealth-remains-indias-richest-actor-1454919-2026-09-24",
-      "publishedAt": "2026-09-24T13:04:58.000Z",
-      "fetchedAt": "2026-09-24T18:54:27.121Z",
-      "title_hi": "शाहरुख खान की संपत्ति में 2,490 करोड़ रुपये का नुकसान, बने रहे भारत के सबसे अमीर अभिनेता",
-      "summary_hi": "बॉलीवुड सुपरस्टार शाहरुख खान की अनुमानित संपत्ति में पिछले साल 2,490 करोड़ रुपये की गिरावट देखी गई है, लेकिन 2026 हुरुन इंडिया रिच लिस्ट के अनुसार, वह भारत के सबसे अमीर अभिनेताओं की सूची में शीर्ष पर बने हुए हैं।",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "shaharukha khana ki sanpatti men 2,490 karoda rupaye ka nukasan, bane rahe bharata ke sabase amira abhineta",
-      "summary_hinglish": "bolivuda suparastara shaharukha khana ki anumanita sanpatti men pichhale sala 2,490 karoda rupaye ki giravata dekhi gaee hai, lekina 2026 huruna indiya richa lista ke anusar, vaha bharata ke sabase amira abhinetaon ki suchi men shirsha para bane hue hain।",
-      "category_hinglish": "Entertainment"
-    },
-    {
       "id": "9c3b60417bc37015",
       "title": "Cyberfraud network busted, 4 held for cheating people of Rs3cr",
       "summary": "A joint team of Bihar Cyber Crime and Security Unit and Patna Cyber Police arrested four suspects and busted a cyberfraud network that allegedly cheated people of around Rs 3 crore across several states and abroad.",
@@ -900,6 +896,23 @@
       "title_hinglish": "saibara dhokhadhadaी netavarka ka bhandaphod, logon se 3 karoda rupaye ki dhokhadhadaी karane vale 4 giraphtara",
       "summary_hinglish": "bihara saibara aparadha aura suraksha ikaee aura patana saibara pulisa ki eka sanyukta tima ne chara sandigdhon ko giraphtara kiya aura eka saibara dhokhadhadaी netavarka ka bhandaphoda kiy, jisane kathita taura para kaee rajyon aura videshon men logon se lagabhaga 3 karoda rupaye ki dhokhadhadaी ki।",
       "category_hinglish": "Crime aur Breaking News"
+    },
+    {
+      "id": "9a1149c02b5a9591",
+      "title": "Shah Rukh Khan loses Rs 2,490 crore in wealth, remains India’s richest actor",
+      "summary": "Bollywood superstar Shah Rukh Khan has seen his estimated wealth fall by Rs 2,490 crore over the past year, but he continues to top the list of India’s richest actors, according to the 2026 Hurun India Rich List.",
+      "category": "Entertainment",
+      "image": "https://cf-img-a-in.tosshub.com/lingo/itne/images/story/202609/6ab51fca9cbb7-shah-rukh-khan---pti-file-image-174748523-16x9.jpg",
+      "source": "India Today NE",
+      "sourceUrl": "https://www.indiatodayne.in/entertainment/story/shah-rukh-khan-loses-rs-2490-crore-in-wealth-remains-indias-richest-actor-1454919-2026-09-24",
+      "publishedAt": "2026-09-24T13:04:58.000Z",
+      "fetchedAt": "2026-09-24T18:54:27.121Z",
+      "title_hi": "शाहरुख खान की संपत्ति में 2,490 करोड़ रुपये का नुकसान, बने रहे भारत के सबसे अमीर अभिनेता",
+      "summary_hi": "बॉलीवुड सुपरस्टार शाहरुख खान की अनुमानित संपत्ति में पिछले साल 2,490 करोड़ रुपये की गिरावट देखी गई है, लेकिन 2026 हुरुन इंडिया रिच लिस्ट के अनुसार, वह भारत के सबसे अमीर अभिनेताओं की सूची में शीर्ष पर बने हुए हैं।",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "shaharukha khana ki sanpatti men 2,490 karoda rupaye ka nukasan, bane rahe bharata ke sabase amira abhineta",
+      "summary_hinglish": "bolivuda suparastara shaharukha khana ki anumanita sanpatti men pichhale sala 2,490 karoda rupaye ki giravata dekhi gaee hai, lekina 2026 huruna indiya richa lista ke anusar, vaha bharata ke sabase amira abhinetaon ki suchi men shirsha para bane hue hain।",
+      "category_hinglish": "Entertainment"
     },
     {
       "id": "33e390bd1033d256",
@@ -919,23 +932,6 @@
       "category_hinglish": "Sports"
     },
     {
-      "id": "5f6fb5372cff1d47",
-      "title": "Zee Business. . NTT is driving digital transformation and delivering innovative technology solutions for businesses. Get insights into NTT’s growth, technology solutions and vision for India’s digital future in an exclusive conversation with Vimal Kaw, MD, NTT G",
-      "summary": "NTT is driving digital transformation and delivering innovative technology solutions for businesses. Get insights into NTT’s growth, technology solutions and vision for India’s digital future in an...",
-      "category": "Technology",
-      "image": "https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/808190385_1404409557764159_13102427267426577_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=a27664&_nc_ohc=FihP3mYKvjsQ7kNvwGoCDKb&_nc_oc=Adqp2IQU5tIpQUB5ziJqrmmlyL_amyfyOJ06AV8qbyZL8RM-fA8CNR3EwlIbEL5F0hE&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=Oi-_EE4xKdqJw_G8o94r0g&_nc_ss=70289&oh=00_AQJntni9xBQgke13bznaYVCk-oBkGdOuG2eA13xP54unOQ&oe=6ABB4D3D",
-      "source": "facebook.com",
-      "sourceUrl": "https://www.facebook.com/zeebusinessonline/videos/ntt-is-driving-digital-transformation-and-delivering-innovative-technology-solut/1013913085047033/",
-      "publishedAt": "2026-09-24T12:51:08.000Z",
-      "fetchedAt": "2026-09-24T17:58:25.691Z",
-      "title_hi": "ज़ी बिज़नेस. . एनटीटी डिजिटल परिवर्तन को बढ़ावा दे रहा है और व्यवसायों के लिए नवीन प्रौद्योगिकी समाधान प्रदान कर रहा है। एनटीटी जी के एमडी, विमल काव के साथ एक विशेष बातचीत में एनटीटी के विकास, प्रौद्योगिकी समाधान और भारत के डिजिटल भविष्य के दृष्टिकोण के बारे में जानकारी प्राप्त करें।",
-      "summary_hi": "एनटीटी डिजिटल परिवर्तन को बढ़ावा दे रहा है और व्यवसायों के लिए नवीन प्रौद्योगिकी समाधान प्रदान कर रहा है। एनटीटी के विकास, प्रौद्योगिकी समाधान और भारत के डिजिटल भविष्य के दृष्टिकोण के बारे में जानकारी प्राप्त करें...",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "jaी bijanes. . enatiti dijitala parivartana ko badhaाva de raha hai aura vyavasayon ke lie navina praudyogiki samadhana pradana kara raha hai। enatiti ji ke emadi, vimala kava ke satha eka vishesha batachita men enatiti ke vikas, praudyogiki samadhana aura bharata ke dijitala bhavishya ke drishtikona ke bare men janakari prapta karen।",
-      "summary_hinglish": "enatiti dijitala parivartana ko badhaाva de raha hai aura vyavasayon ke lie navina praudyogiki samadhana pradana kara raha hai। enatiti ke vikas, praudyogiki samadhana aura bharata ke dijitala bhavishya ke drishtikona ke bare men janakari prapta karen...",
-      "category_hinglish": "Technology"
-    },
-    {
       "id": "0de13847a9f16808",
       "title": "Ayesha Khan Condemns Bihar Student Harassment Case: ‘Stop Hiding Harassment Behind Culture’",
       "summary": "Actor Ayesha Khan has criticised the alleged harassment of a Class 10 student in Bihar’s Jamui, as police investigate the incident and continue making arrests.",
@@ -951,6 +947,23 @@
       "title_hinglish": "aayasha khana ne bihara chhatra utpidana mamale ki ninda ki: 'utpidana ko sanskriti ke pichhe chhipana banda karen'",
       "summary_hinglish": "abhinetri aayasha khana ne bihara ke jamuee men 10vin kaksha ki chhatra ke kathita utpidana ki aalochana ki hai, kyonki pulisa ghatana ki jancha kara rahi hai aura giraphtariyan kara rahi hai।",
       "category_hinglish": "Entertainment"
+    },
+    {
+      "id": "5f6fb5372cff1d47",
+      "title": "Zee Business. . NTT is driving digital transformation and delivering innovative technology solutions for businesses. Get insights into NTT’s growth, technology solutions and vision for India’s digital future in an exclusive conversation with Vimal Kaw, MD, NTT G",
+      "summary": "NTT is driving digital transformation and delivering innovative technology solutions for businesses. Get insights into NTT’s growth, technology solutions and vision for India’s digital future in an...",
+      "category": "Technology",
+      "image": "https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/808190385_1404409557764159_13102427267426577_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=a27664&_nc_ohc=FihP3mYKvjsQ7kNvwGoCDKb&_nc_oc=Adqp2IQU5tIpQUB5ziJqrmmlyL_amyfyOJ06AV8qbyZL8RM-fA8CNR3EwlIbEL5F0hE&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=Oi-_EE4xKdqJw_G8o94r0g&_nc_ss=70289&oh=00_AQJntni9xBQgke13bznaYVCk-oBkGdOuG2eA13xP54unOQ&oe=6ABB4D3D",
+      "source": "facebook.com",
+      "sourceUrl": "https://www.facebook.com/zeebusinessonline/videos/ntt-is-driving-digital-transformation-and-delivering-innovative-technology-solut/1013913085047033/",
+      "publishedAt": "2026-09-24T12:51:08.000Z",
+      "fetchedAt": "2026-09-24T17:58:25.691Z",
+      "title_hi": "ज़ी बिज़नेस. . एनटीटी डिजिटल परिवर्तन को बढ़ावा दे रहा है और व्यवसायों के लिए नवीन प्रौद्योगिकी समाधान प्रदान कर रहा है। एनटीटी जी के एमडी, विमल काव के साथ एक विशेष बातचीत में एनटीटी के विकास, प्रौद्योगिकी समाधान और भारत के डिजिटल भविष्य के दृष्टिकोण के बारे में जानकारी प्राप्त करें।",
+      "summary_hi": "एनटीटी डिजिटल परिवर्तन को बढ़ावा दे रहा है और व्यवसायों के लिए नवीन प्रौद्योगिकी समाधान प्रदान कर रहा है। एनटीटी के विकास, प्रौद्योगिकी समाधान और भारत के डिजिटल भविष्य के दृष्टिकोण के बारे में जानकारी प्राप्त करें...",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "jaी bijanes. . enatiti dijitala parivartana ko badhaाva de raha hai aura vyavasayon ke lie navina praudyogiki samadhana pradana kara raha hai। enatiti ji ke emadi, vimala kava ke satha eka vishesha batachita men enatiti ke vikas, praudyogiki samadhana aura bharata ke dijitala bhavishya ke drishtikona ke bare men janakari prapta karen।",
+      "summary_hinglish": "enatiti dijitala parivartana ko badhaाva de raha hai aura vyavasayon ke lie navina praudyogiki samadhana pradana kara raha hai। enatiti ke vikas, praudyogiki samadhana aura bharata ke dijitala bhavishya ke drishtikona ke bare men janakari prapta karen...",
+      "category_hinglish": "Technology"
     },
     {
       "id": "742b3ffe5cd3b3e7",
@@ -987,23 +1000,6 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "f7321f695b9883be",
-      "title": "Tensions between India and Bangladesh are in focus after Dhaka skipped the BRICS summit in Delhi",
-      "summary": "Bangladesh's absence from the BRICS summit in New Delhi has raised fresh questions about strained ties. Ousted PM Sheikh Hasina's exile in India remains a major obstacle to normalizing relations.",
-      "category": "Politics & Government",
-      "image": "https://static.dw.com/image/78387090_6.jpg",
-      "source": "DW.com",
-      "sourceUrl": "https://www.dw.com/en/tensions-between-india-and-bangladesh-are-in-focus-after-dhaka-skipped-the-brics-summit-in-delhi/a-79410667",
-      "publishedAt": "2026-09-24T12:25:33.000Z",
-      "fetchedAt": "2026-09-24T13:51:51.369Z",
-      "title_hi": "दिल्ली में ब्रिक्स शिखर सम्मेलन में ढाका के शामिल नहीं होने के बाद भारत और बांग्लादेश के बीच तनाव चरम पर है",
-      "summary_hi": "नई दिल्ली में ब्रिक्स शिखर सम्मेलन से बांग्लादेश की अनुपस्थिति ने तनावपूर्ण संबंधों पर नए सवाल खड़े कर दिए हैं। अपदस्थ प्रधानमंत्री शेख हसीना का भारत में निर्वासन संबंधों को सामान्य बनाने में एक बड़ी बाधा बना हुआ है।",
-      "category_hi": "राजनीति और सरकार",
-      "title_hinglish": "dilli men briksa shikhara sammelana men dhaka ke shamila nahin hone ke bada bharata aura bangladesha ke bicha tanava charama para hai",
-      "summary_hinglish": "naee dilli men briksa shikhara sammelana se bangladesha ki anupasthiti ne tanavapurna sanbandhon para nae savala khadaे kara die hain। apadastha pradhanamantri shekha hasina ka bharata men nirvasana sanbandhon ko samanya banane men eka badaी badha bana huaa hai।",
-      "category_hinglish": "Politics aur Government"
-    },
-    {
       "id": "f91bb219d8351a4e",
       "title": "After Jamui horror, tourist couple harassed on way to Odisha temple; incident caught on camera | India News",
       "summary": "The incident took place on an isolated stretch of road leading to the famous Shiva temple atop the Kapilash hills",
@@ -1018,6 +1014,23 @@
       "category_hi": "राजनीति और सरकार",
       "title_hinglish": "jamuee kanda ke bada odisha mandira ja rahe paryataka jodaे se chhedachhad; kaimare men kaida huee ghatana | bharata samachara",
       "summary_hinglish": "yaha ghatana kapilasha pahadaिyon ke oopara prasiddha shiva mandira ki ora jane vali sadaka ke eka alaga hisse para huee",
+      "category_hinglish": "Politics aur Government"
+    },
+    {
+      "id": "f7321f695b9883be",
+      "title": "Tensions between India and Bangladesh are in focus after Dhaka skipped the BRICS summit in Delhi",
+      "summary": "Bangladesh's absence from the BRICS summit in New Delhi has raised fresh questions about strained ties. Ousted PM Sheikh Hasina's exile in India remains a major obstacle to normalizing relations.",
+      "category": "Politics & Government",
+      "image": "https://static.dw.com/image/78387090_6.jpg",
+      "source": "DW.com",
+      "sourceUrl": "https://www.dw.com/en/tensions-between-india-and-bangladesh-are-in-focus-after-dhaka-skipped-the-brics-summit-in-delhi/a-79410667",
+      "publishedAt": "2026-09-24T12:25:33.000Z",
+      "fetchedAt": "2026-09-24T13:51:51.369Z",
+      "title_hi": "दिल्ली में ब्रिक्स शिखर सम्मेलन में ढाका के शामिल नहीं होने के बाद भारत और बांग्लादेश के बीच तनाव चरम पर है",
+      "summary_hi": "नई दिल्ली में ब्रिक्स शिखर सम्मेलन से बांग्लादेश की अनुपस्थिति ने तनावपूर्ण संबंधों पर नए सवाल खड़े कर दिए हैं। अपदस्थ प्रधानमंत्री शेख हसीना का भारत में निर्वासन संबंधों को सामान्य बनाने में एक बड़ी बाधा बना हुआ है।",
+      "category_hi": "राजनीति और सरकार",
+      "title_hinglish": "dilli men briksa shikhara sammelana men dhaka ke shamila nahin hone ke bada bharata aura bangladesha ke bicha tanava charama para hai",
+      "summary_hinglish": "naee dilli men briksa shikhara sammelana se bangladesha ki anupasthiti ne tanavapurna sanbandhon para nae savala khadaे kara die hain। apadastha pradhanamantri shekha hasina ka bharata men nirvasana sanbandhon ko samanya banane men eka badaी badha bana huaa hai।",
       "category_hinglish": "Politics aur Government"
     },
     {
@@ -1038,23 +1051,6 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "1ee774ccbea16cde",
-      "title": "NHAI issues guidelines for technology integration, sustainability in high-speed highway development",
-      "summary": "The National Highways Authority of India (NHAI) has issued comprehensive guidelines for the planning and design of high-speed, access-controlled national highways, excluding expressways, with a focus on safety, technology integration and sustainability. The guidelines will apply to all upcoming four- and six-lane greenfield and brownfield high-speed, access-controlled national highways and…",
-      "category": "Technology",
-      "image": "https://ddindia.co.in/wp-content/uploads/2026/09/nhai.jpg",
-      "source": "DD India",
-      "sourceUrl": "https://ddindia.co.in/2026/09/nhai-issues-guidelines-for-technology-integration-sustainability-in-high-speed-highway-development/",
-      "publishedAt": "2026-09-24T11:59:08.000Z",
-      "fetchedAt": "2026-09-24T12:21:09.809Z",
-      "title_hi": "एनएचएआई ने उच्च गति राजमार्ग विकास में प्रौद्योगिकी एकीकरण, स्थिरता के लिए दिशानिर्देश जारी किए",
-      "summary_hi": "भारतीय राष्ट्रीय राजमार्ग प्राधिकरण (एनएचएआई) ने सुरक्षा, प्रौद्योगिकी एकीकरण और स्थिरता पर ध्यान देने के साथ, एक्सप्रेसवे को छोड़कर, उच्च गति, पहुंच-नियंत्रित राष्ट्रीय राजमार्गों की योजना और डिजाइन के लिए व्यापक दिशानिर्देश जारी किए हैं। दिशानिर्देश सभी आगामी चार- और छह-लेन ग्रीनफील्ड और ब्राउनफील्ड हाई-स्पीड, एक्सेस-नियंत्रित राष्ट्रीय राजमार्गों और… पर लागू होंगे।",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "enaechaeaaee ne uchcha gati rajamarga vikasa men praudyogiki ekikaran, sthirata ke lie dishanirdesha jari kie",
-      "summary_hinglish": "bharatiya rashtriya rajamarga pradhikarana (enaechaeaaee) ne suraksh, praudyogiki ekikarana aura sthirata para dhyana dene ke sath, eksapresave ko chhodakar, uchcha gati, pahuncha-niyantrita rashtriya rajamargon ki yojana aura dijaina ke lie vyapaka dishanirdesha jari kie hain। dishanirdesha sabhi aagami chara- aura chhaha-lena grinaphilda aura braunaphilda haee-spid, eksesa-niyantrita rashtriya rajamargon aura… para lagu honge।",
-      "category_hinglish": "Technology"
-    },
-    {
       "id": "3eab28f1c2ed78c6",
       "title": "Can be done decently, says BJP Jamui MLA Shreyasi Singh on ‘moral policing’; slammed by Opposition | India News",
       "summary": "Remarks by BJP's Shreyasi Singh on the alleged harassment of two minors in Bihar's Jamui triggered a political row on Tuesday.",
@@ -1070,6 +1066,23 @@
       "title_hinglish": "bijepi jamuee vidhayaka shreyasi sinha ne 'naitika pulisinga' para kah, ise shalinata se kiya ja sakata hai; vipaksha dvara aalochana | bharata samachara",
       "summary_hinglish": "bihara ke jamuee men do nabaligon ke kathita utpidana para bhajapa ki shreyasi sinha ki tippani ne mangalavara ko rajanitika vivada paida kara diya।",
       "category_hinglish": "Politics aur Government"
+    },
+    {
+      "id": "1ee774ccbea16cde",
+      "title": "NHAI issues guidelines for technology integration, sustainability in high-speed highway development",
+      "summary": "The National Highways Authority of India (NHAI) has issued comprehensive guidelines for the planning and design of high-speed, access-controlled national highways, excluding expressways, with a focus on safety, technology integration and sustainability. The guidelines will apply to all upcoming four- and six-lane greenfield and brownfield high-speed, access-controlled national highways and…",
+      "category": "Technology",
+      "image": "https://ddindia.co.in/wp-content/uploads/2026/09/nhai.jpg",
+      "source": "DD India",
+      "sourceUrl": "https://ddindia.co.in/2026/09/nhai-issues-guidelines-for-technology-integration-sustainability-in-high-speed-highway-development/",
+      "publishedAt": "2026-09-24T11:59:08.000Z",
+      "fetchedAt": "2026-09-24T12:21:09.809Z",
+      "title_hi": "एनएचएआई ने उच्च गति राजमार्ग विकास में प्रौद्योगिकी एकीकरण, स्थिरता के लिए दिशानिर्देश जारी किए",
+      "summary_hi": "भारतीय राष्ट्रीय राजमार्ग प्राधिकरण (एनएचएआई) ने सुरक्षा, प्रौद्योगिकी एकीकरण और स्थिरता पर ध्यान देने के साथ, एक्सप्रेसवे को छोड़कर, उच्च गति, पहुंच-नियंत्रित राष्ट्रीय राजमार्गों की योजना और डिजाइन के लिए व्यापक दिशानिर्देश जारी किए हैं। दिशानिर्देश सभी आगामी चार- और छह-लेन ग्रीनफील्ड और ब्राउनफील्ड हाई-स्पीड, एक्सेस-नियंत्रित राष्ट्रीय राजमार्गों और… पर लागू होंगे।",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "enaechaeaaee ne uchcha gati rajamarga vikasa men praudyogiki ekikaran, sthirata ke lie dishanirdesha jari kie",
+      "summary_hinglish": "bharatiya rashtriya rajamarga pradhikarana (enaechaeaaee) ne suraksh, praudyogiki ekikarana aura sthirata para dhyana dene ke sath, eksapresave ko chhodakar, uchcha gati, pahuncha-niyantrita rashtriya rajamargon ki yojana aura dijaina ke lie vyapaka dishanirdesha jari kie hain। dishanirdesha sabhi aagami chara- aura chhaha-lena grinaphilda aura braunaphilda haee-spid, eksesa-niyantrita rashtriya rajamargon aura… para lagu honge।",
+      "category_hinglish": "Technology"
     },
     {
       "id": "361a4d7ad921c6df",
@@ -1089,23 +1102,6 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "05973b69097e0939",
-      "title": "India to host UCI Road World Championship 2032 in Pune",
-      "summary": "India has won the bid to host the UCI Road World Championship in Pune as the global cycling event heads to India for the first time.",
-      "category": "Sports",
-      "image": "https://static.toiimg.com/thumb/msid-134461348,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/more-sports/others/india-to-host-uci-road-world-championship-2032-in-pune/articleshow/134461247.cms",
-      "publishedAt": "2026-09-24T11:47:00.000Z",
-      "fetchedAt": "2026-09-24T12:41:41.133Z",
-      "title_hi": "भारत पुणे में यूसीआई रोड वर्ल्ड चैंपियनशिप 2032 की मेजबानी करेगा",
-      "summary_hi": "भारत ने पुणे में यूसीआई रोड वर्ल्ड चैम्पियनशिप की मेजबानी की बोली जीत ली है क्योंकि वैश्विक साइक्लिंग कार्यक्रम पहली बार भारत में आ रहा है।",
-      "category_hi": "खेल",
-      "title_hinglish": "bharata pune men yusiaaee roda varlda chainpiyanashipa 2032 ki mejabani karega",
-      "summary_hinglish": "bharata ne pune men yusiaaee roda varlda chaimpiyanashipa ki mejabani ki boli jita li hai kyonki vaishvika saiklinga karyakrama pahali bara bharata men aa raha hai।",
-      "category_hinglish": "Sports"
-    },
-    {
       "id": "ac5ea3e184266a2d",
       "title": "Bihar Horror: Class 10 Girl From Patna Kidnapped, Raped And Murdered; Body Found 500-Km Away On Lucknow Rail Track",
       "summary": "A 10th-grade girl from Bihta, Patna, was allegedly kidnapped, raped, and murdered, with her body later found on a railway track near Lucknow. Police have arrested one accused, Lakshman Kumar, while the family alleges a conspiracy and demands justice amidst ongoing investigations.",
@@ -1121,6 +1117,23 @@
       "title_hinglish": "bihara bhayavah: patana se 10vin kaksha ki ladaki ka apaharan, balatkara aura haty; 500 kilomitara dura lakhanaoo rela traika para mila shava",
       "summary_hinglish": "patana ke bihata ki 10vin kaksha ki eka ladaki ka kathita taura para apaharana kiya gay, usake satha balatkara kiya gaya aura usaki hatya kara di gaee, bada men usaka shava lakhanaoo ke pasa eka relave traika para mila। pulisa ne eka aaropi lakshmana kumara ko giraphtara kara liya hai, jabaki parivara ne sajisha ka aaropa lagaya hai aura chala rahi jancha ke bicha nyaya ki manga ki hai।",
       "category_hinglish": "Crime aur Breaking News"
+    },
+    {
+      "id": "05973b69097e0939",
+      "title": "India to host UCI Road World Championship 2032 in Pune",
+      "summary": "India has won the bid to host the UCI Road World Championship in Pune as the global cycling event heads to India for the first time.",
+      "category": "Sports",
+      "image": "https://static.toiimg.com/thumb/msid-134461348,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/more-sports/others/india-to-host-uci-road-world-championship-2032-in-pune/articleshow/134461247.cms",
+      "publishedAt": "2026-09-24T11:47:00.000Z",
+      "fetchedAt": "2026-09-24T12:41:41.133Z",
+      "title_hi": "भारत पुणे में यूसीआई रोड वर्ल्ड चैंपियनशिप 2032 की मेजबानी करेगा",
+      "summary_hi": "भारत ने पुणे में यूसीआई रोड वर्ल्ड चैम्पियनशिप की मेजबानी की बोली जीत ली है क्योंकि वैश्विक साइक्लिंग कार्यक्रम पहली बार भारत में आ रहा है।",
+      "category_hi": "खेल",
+      "title_hinglish": "bharata pune men yusiaaee roda varlda chainpiyanashipa 2032 ki mejabani karega",
+      "summary_hinglish": "bharata ne pune men yusiaaee roda varlda chaimpiyanashipa ki mejabani ki boli jita li hai kyonki vaishvika saiklinga karyakrama pahali bara bharata men aa raha hai।",
+      "category_hinglish": "Sports"
     },
     {
       "id": "335c38bea83b97c8",
@@ -1157,23 +1170,6 @@
       "category_hinglish": "National aur Trending News"
     },
     {
-      "id": "2db898419dd43b80",
-      "title": "93% of Indian auto buyers turn to AI experiences for research; finds Google study",
-      "summary": "Google has released a study on the “Automobile Purchase Journey in the Age of AI”, highlighting how AI and digital surfaces are reshaping how India buys cars. According to the study, 93% of shoppers actively turn to AI during their research phase.",
-      "category": "Technology",
-      "image": "https://static.toiimg.com/thumb/msid-134460994,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/93-of-indian-auto-buyers-turn-to-ai-experiences-for-research-finds-google-study/articleshow/134460958.cms",
-      "publishedAt": "2026-09-24T11:36:00.000Z",
-      "fetchedAt": "2026-09-24T12:58:11.799Z",
-      "title_hi": "93% भारतीय ऑटो खरीदार अनुसंधान के लिए एआई अनुभवों की ओर रुख करते हैं; Google अध्ययन पाता है",
-      "summary_hi": "Google ने \"एआई के युग में ऑटोमोबाइल खरीद यात्रा\" पर एक अध्ययन जारी किया है, जिसमें बताया गया है कि कैसे एआई और डिजिटल सतहें भारत में कार खरीदने के तरीके को नया आकार दे रही हैं। अध्ययन के अनुसार, 93% खरीदार अपने शोध चरण के दौरान सक्रिय रूप से एआई की ओर रुख करते हैं।",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "93% bharatiya ऑto kharidara anusandhana ke lie eaaee anubhavon ki ora rukha karate hain; Google adhyayana pata hai",
-      "summary_hinglish": "Google ne \"eaaee ke yuga men ऑtomobaila kharida yatra\" para eka adhyayana jari kiya hai, jisamen bataya gaya hai ki kaise eaaee aura dijitala satahen bharata men kara kharidane ke tarike ko naya aakara de rahi hain। adhyayana ke anusar, 93% kharidara apane shodha charana ke daurana sakriya rupa se eaaee ki ora rukha karate hain।",
-      "category_hinglish": "Technology"
-    },
-    {
       "id": "8e34c0d0c8d216ca",
       "title": "India news: Police investigate alleged gang-rape in Delhi",
       "summary": "While India is fuming over a viral video of two minors being harassed in Bihar, a case of an alleged gang-rape of a minor has emerged in a posh Delhi neighborhood. Meanwhile, India's foreign minister is at the UNGA.",
@@ -1191,6 +1187,23 @@
       "category_hinglish": "Crime aur Breaking News"
     },
     {
+      "id": "2db898419dd43b80",
+      "title": "93% of Indian auto buyers turn to AI experiences for research; finds Google study",
+      "summary": "Google has released a study on the “Automobile Purchase Journey in the Age of AI”, highlighting how AI and digital surfaces are reshaping how India buys cars. According to the study, 93% of shoppers actively turn to AI during their research phase.",
+      "category": "Technology",
+      "image": "https://static.toiimg.com/thumb/msid-134460994,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/93-of-indian-auto-buyers-turn-to-ai-experiences-for-research-finds-google-study/articleshow/134460958.cms",
+      "publishedAt": "2026-09-24T11:36:00.000Z",
+      "fetchedAt": "2026-09-24T12:58:11.799Z",
+      "title_hi": "93% भारतीय ऑटो खरीदार अनुसंधान के लिए एआई अनुभवों की ओर रुख करते हैं; Google अध्ययन पाता है",
+      "summary_hi": "Google ने \"एआई के युग में ऑटोमोबाइल खरीद यात्रा\" पर एक अध्ययन जारी किया है, जिसमें बताया गया है कि कैसे एआई और डिजिटल सतहें भारत में कार खरीदने के तरीके को नया आकार दे रही हैं। अध्ययन के अनुसार, 93% खरीदार अपने शोध चरण के दौरान सक्रिय रूप से एआई की ओर रुख करते हैं।",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "93% bharatiya ऑto kharidara anusandhana ke lie eaaee anubhavon ki ora rukha karate hain; Google adhyayana pata hai",
+      "summary_hinglish": "Google ne \"eaaee ke yuga men ऑtomobaila kharida yatra\" para eka adhyayana jari kiya hai, jisamen bataya gaya hai ki kaise eaaee aura dijitala satahen bharata men kara kharidane ke tarike ko naya aakara de rahi hain। adhyayana ke anusar, 93% kharidara apane shodha charana ke daurana sakriya rupa se eaaee ki ora rukha karate hain।",
+      "category_hinglish": "Technology"
+    },
+    {
       "id": "5df00195c4511d25",
       "title": "Microsoft opens India South Central datacenter region, boosting AI and cloud investments",
       "summary": "Microsoft has opened its India South Central datacenter in Telangana, marking a significant expansion of its cloud and AI infrastructure in the region. This initiative aligns with Telangana",
@@ -1205,23 +1218,6 @@
       "category_hi": "टेक्नोलॉजी",
       "title_hinglish": "maikrosophta ne eaaee aura klauda nivesha ko badhaाva dete hue bharata men dakshina madhya detasentara kshetra khola",
       "summary_hinglish": "maikrosophta ne telangana men apana bharata dakshina madhya detasentara khola hai, jo isa kshetra men apane klauda aura eaaee buniyadi dhanche ke mahatvapurna vistara ko darshata hai। yaha pahala telangana ke anurupa hai",
-      "category_hinglish": "Technology"
-    },
-    {
-      "id": "5b2fbf3258fc7416",
-      "title": "India Mobile Congress 2026",
-      "summary": "Exploring the future of connectivity, AI and digital innovation, and the opportunities to scale technology for a connected world",
-      "category": "Technology",
-      "image": "https://assets.kpmg.com/is/image/kpmgcloud/india-mobile-congress-2026-thumbnail",
-      "source": "kpmg.com",
-      "sourceUrl": "https://kpmg.com/in/en/events/2026/10/india-mobile-congress-2026.html",
-      "publishedAt": "2026-09-24T11:22:31.000Z",
-      "fetchedAt": "2026-09-24T11:31:52.931Z",
-      "title_hi": "इंडिया मोबाइल कांग्रेस 2026",
-      "summary_hi": "कनेक्टिविटी, एआई और डिजिटल नवाचार के भविष्य की खोज, और एक कनेक्टेड दुनिया के लिए प्रौद्योगिकी को बढ़ाने के अवसर",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "indiya mobaila kangresa 2026",
-      "summary_hinglish": "kanektiviti, eaaee aura dijitala navachara ke bhavishya ki khoj, aura eka kanekteda duniya ke lie praudyogiki ko badhaाne ke avasara",
       "category_hinglish": "Technology"
     },
     {
@@ -1242,6 +1238,23 @@
       "summary_hinglish": "bihara men jamuee ki ghatana aura teja ho gaee hai, akhila bharatiya vidyarthi parishada (ebivipi) ne rajya sarakara ke khilapha virodha pradarshana kiya hai, jisamen nabaliga ladaki ke satha marapita aura kathita chhedachhada ke aaropiyon ko kadaी saja dene ki manga ki gaee hai। virodha mahatvapurna hai kyonki ebivipi bhajapa se sanbaddha hai, jisase yah..."
     },
     {
+      "id": "5b2fbf3258fc7416",
+      "title": "India Mobile Congress 2026",
+      "summary": "Exploring the future of connectivity, AI and digital innovation, and the opportunities to scale technology for a connected world",
+      "category": "Technology",
+      "image": "https://assets.kpmg.com/is/image/kpmgcloud/india-mobile-congress-2026-thumbnail",
+      "source": "kpmg.com",
+      "sourceUrl": "https://kpmg.com/in/en/events/2026/10/india-mobile-congress-2026.html",
+      "publishedAt": "2026-09-24T11:22:31.000Z",
+      "fetchedAt": "2026-09-24T11:31:52.931Z",
+      "title_hi": "इंडिया मोबाइल कांग्रेस 2026",
+      "summary_hi": "कनेक्टिविटी, एआई और डिजिटल नवाचार के भविष्य की खोज, और एक कनेक्टेड दुनिया के लिए प्रौद्योगिकी को बढ़ाने के अवसर",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "indiya mobaila kangresa 2026",
+      "summary_hinglish": "kanektiviti, eaaee aura dijitala navachara ke bhavishya ki khoj, aura eka kanekteda duniya ke lie praudyogiki ko badhaाne ke avasara",
+      "category_hinglish": "Technology"
+    },
+    {
       "id": "8a208e4f1fbee712",
       "title": "Architect and Design Educator Jabeen Zacharias Joins Anant National University as Professor of Practice",
       "summary": "Ahmedabad, Gujarat, India (NewsVoir) Anant National University has appointed renowned architect, interior designer, design educator and institutional leader Jabeen Zacharias as a Professor of Practice. With over four decades of professional experience, Zacharias brings to Anant a distinctive combination of...",
@@ -1259,23 +1272,6 @@
       "summary_hinglish": "ahamadabad, gujarat, bharata (nyujavoyara) ananta neshanala yunivarsiti ne prasiddha vastukar, intiriyara dijainar, dijaina shikshaka aura sansthagata neta jabina jakariyasa ko praiktisa ke prophesara ke rupa men niyukta kiya hai। chara dashakon se adhika ke peshevara anubhava ke sath, jakariyasa ananta men eka vishishta sanyojana lekara aae hain..."
     },
     {
-      "id": "a0647a7c3cfee94a",
-      "title": "School assembly news headlines today- September 25: Top national, sports and world news curated for you",
-      "summary": "Today’s school assembly news highlights top national, sports, and world events, covering important updates from politics, sports achievements, and global headlines for September 25.",
-      "category": "National & Trending News",
-      "image": "https://static-bestcolleges.tosshub.com/2026/News/lnvJ7ndVwof5O0GZSIFE9P7rCgwQmCqLBbOXpr9x.png",
-      "source": "India Today",
-      "sourceUrl": "https://bestcolleges.indiatoday.in/latest-news/school-assembly-news-headlines-today-september-25-top-national-sports-and-world-news-curated-for-you-11738",
-      "publishedAt": "2026-09-24T11:17:30.000Z",
-      "fetchedAt": "2026-09-24T13:52:41.132Z",
-      "title_hi": "स्कूल असेंबली समाचार की सुर्खियाँ आज- 25 सितंबर: शीर्ष राष्ट्रीय, खेल और विश्व समाचार आपके लिए तैयार किए गए हैं",
-      "summary_hi": "आज की स्कूल असेंबली समाचार शीर्ष राष्ट्रीय, खेल और विश्व घटनाओं पर प्रकाश डालता है, जिसमें 25 सितंबर के लिए राजनीति, खेल उपलब्धियों और वैश्विक सुर्खियों से महत्वपूर्ण अपडेट शामिल हैं।",
-      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
-      "title_hinglish": "skula asenbali samachara ki surkhiyan aaja- 25 sitanbar: shirsha rashtriy, khela aura vishva samachara aapake lie taiyara kie gae hain",
-      "summary_hinglish": "aaja ki skula asenbali samachara shirsha rashtriy, khela aura vishva ghatanaon para prakasha dalata hai, jisamen 25 sitanbara ke lie rajaniti, khela upalabdhiyon aura vaishvika surkhiyon se mahatvapurna apadeta shamila hain।",
-      "category_hinglish": "National aur Trending News"
-    },
-    {
       "id": "02441bac2f01490f",
       "title": "Bihar Class 10 girl molestation case: Main accused Nandan Yadav shot at in police encounter",
       "summary": "Nandan Yadav, the prime accused in the harassment of a minor girl in Jamui, has been shot in the leg during an encounter with the police. pic.twitter.com/odhctAsLPH",
@@ -1291,6 +1287,23 @@
       "title_hinglish": "bihara men 10vin kaksha ki chhatra se chhedachhada mamal: mukhya aaropi nandana yadava ko pulisa muthabheda men goli lagi",
       "summary_hinglish": "jamuee men nabaliga ladaki se chhedachhada ke mukhya aaropi nandana yadava ko pulisa ke satha muthabheda ke daurana paira men goli lagi hai. pic.twitter.com/odhctAsLPH",
       "category_hinglish": "Crime aur Breaking News"
+    },
+    {
+      "id": "a0647a7c3cfee94a",
+      "title": "School assembly news headlines today- September 25: Top national, sports and world news curated for you",
+      "summary": "Today’s school assembly news highlights top national, sports, and world events, covering important updates from politics, sports achievements, and global headlines for September 25.",
+      "category": "National & Trending News",
+      "image": "https://static-bestcolleges.tosshub.com/2026/News/lnvJ7ndVwof5O0GZSIFE9P7rCgwQmCqLBbOXpr9x.png",
+      "source": "India Today",
+      "sourceUrl": "https://bestcolleges.indiatoday.in/latest-news/school-assembly-news-headlines-today-september-25-top-national-sports-and-world-news-curated-for-you-11738",
+      "publishedAt": "2026-09-24T11:17:30.000Z",
+      "fetchedAt": "2026-09-24T13:52:41.132Z",
+      "title_hi": "स्कूल असेंबली समाचार की सुर्खियाँ आज- 25 सितंबर: शीर्ष राष्ट्रीय, खेल और विश्व समाचार आपके लिए तैयार किए गए हैं",
+      "summary_hi": "आज की स्कूल असेंबली समाचार शीर्ष राष्ट्रीय, खेल और विश्व घटनाओं पर प्रकाश डालता है, जिसमें 25 सितंबर के लिए राजनीति, खेल उपलब्धियों और वैश्विक सुर्खियों से महत्वपूर्ण अपडेट शामिल हैं।",
+      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
+      "title_hinglish": "skula asenbali samachara ki surkhiyan aaja- 25 sitanbar: shirsha rashtriy, khela aura vishva samachara aapake lie taiyara kie gae hain",
+      "summary_hinglish": "aaja ki skula asenbali samachara shirsha rashtriy, khela aura vishva ghatanaon para prakasha dalata hai, jisamen 25 sitanbara ke lie rajaniti, khela upalabdhiyon aura vaishvika surkhiyon se mahatvapurna apadeta shamila hain।",
+      "category_hinglish": "National aur Trending News"
     },
     {
       "id": "483efe30232f46f6",
@@ -1327,23 +1340,6 @@
       "category_hinglish": "National aur Trending News"
     },
     {
-      "id": "a4c8dd9c1eb71d82",
-      "title": "Atul Pandey’s Main Nida wins Best Arts/Culture Film at 72nd National Film Awards",
-      "summary": "New Delhi [India], September 24: Filmmaker Atul Pandey has been awarded the Best Arts/Culture Film Award at the 72nd National Film Awards for Main Nida, his directorial debut documentary on the life and legacy of celebrated poet and lyricist Padma Shri Nida Fazli. Pandey received the prestigious award from the…",
-      "category": "National & Trending News",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTczYjhmOGEwLWI4MDctMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
-      "source": "The Tribune",
-      "sourceUrl": "https://www.tribuneindia.com/news/business/atul-pandeys-main-nida-wins-best-arts-culture-film-at-72nd-national-film-awards/amp/?utm=relatedarticles",
-      "publishedAt": "2026-09-24T11:02:27.000Z",
-      "fetchedAt": "2026-09-24T11:15:31.911Z",
-      "title_hi": "अतुल पांडे की मैं निदा ने 72वें राष्ट्रीय फिल्म पुरस्कार में सर्वश्रेष्ठ कला/संस्कृति फिल्म का पुरस्कार जीता",
-      "summary_hi": "नई दिल्ली [भारत], 24 सितंबर: फिल्म निर्माता अतुल पांडे को प्रसिद्ध कवि और गीतकार पद्म श्री निदा फाजली के जीवन और विरासत पर उनके निर्देशन में बनी पहली डॉक्यूमेंट्री, मैं निदा के लिए 72वें राष्ट्रीय फिल्म पुरस्कार में सर्वश्रेष्ठ कला/संस्कृति फिल्म पुरस्कार से सम्मानित किया गया है। पांडे को प्रतिष्ठित पुरस्कार मिला...",
-      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
-      "title_hinglish": "atula pande ki main nida ne 72ven rashtriya philma puraskara men sarvashreshtha kala/sanskriti philma ka puraskara jita",
-      "summary_hinglish": "naee dilli [bharata], 24 sitanbar: philma nirmata atula pande ko prasiddha kavi aura gitakara padma shri nida phajali ke jivana aura virasata para unake nirdeshana men bani pahali dokyumentri, main nida ke lie 72ven rashtriya philma puraskara men sarvashreshtha kala/sanskriti philma puraskara se sammanita kiya gaya hai। pande ko pratishthita puraskara mil...",
-      "category_hinglish": "National aur Trending News"
-    },
-    {
       "id": "bd55db36b6c93938",
       "title": "How Jamui Incident Puts Bhojpuri Industry’s Sexualised Imagery Under Scrutiny",
       "summary": "Cinema and literature often reflect aspects of society and the recent Jamui incident has renewed scrutiny of sexualised imagery, double-meaning lyrics and women’s representation in Bhojpuri culture",
@@ -1359,6 +1355,23 @@
       "title_hinglish": "kaise jamuee ghatana ne bhojapuri udyoga ki kamuka chhavi ko jancha ke dayare men la diya",
       "summary_hinglish": "sinema aura sahitya aksara samaja ke pahaluon ko pratibinbita karate hain aura hala ki jamuee ghatana ne bhojapuri sanskriti men kamuka kalpan, dohare artha vale giton aura mahilaon ke pratinidhitva ki nae sire se jancha ki hai।",
       "category_hinglish": "Entertainment"
+    },
+    {
+      "id": "a4c8dd9c1eb71d82",
+      "title": "Atul Pandey’s Main Nida wins Best Arts/Culture Film at 72nd National Film Awards",
+      "summary": "New Delhi [India], September 24: Filmmaker Atul Pandey has been awarded the Best Arts/Culture Film Award at the 72nd National Film Awards for Main Nida, his directorial debut documentary on the life and legacy of celebrated poet and lyricist Padma Shri Nida Fazli. Pandey received the prestigious award from the…",
+      "category": "National & Trending News",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTczYjhmOGEwLWI4MDctMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
+      "source": "The Tribune",
+      "sourceUrl": "https://www.tribuneindia.com/news/business/atul-pandeys-main-nida-wins-best-arts-culture-film-at-72nd-national-film-awards/amp/?utm=relatedarticles",
+      "publishedAt": "2026-09-24T11:02:27.000Z",
+      "fetchedAt": "2026-09-24T11:15:31.911Z",
+      "title_hi": "अतुल पांडे की मैं निदा ने 72वें राष्ट्रीय फिल्म पुरस्कार में सर्वश्रेष्ठ कला/संस्कृति फिल्म का पुरस्कार जीता",
+      "summary_hi": "नई दिल्ली [भारत], 24 सितंबर: फिल्म निर्माता अतुल पांडे को प्रसिद्ध कवि और गीतकार पद्म श्री निदा फाजली के जीवन और विरासत पर उनके निर्देशन में बनी पहली डॉक्यूमेंट्री, मैं निदा के लिए 72वें राष्ट्रीय फिल्म पुरस्कार में सर्वश्रेष्ठ कला/संस्कृति फिल्म पुरस्कार से सम्मानित किया गया है। पांडे को प्रतिष्ठित पुरस्कार मिला...",
+      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
+      "title_hinglish": "atula pande ki main nida ne 72ven rashtriya philma puraskara men sarvashreshtha kala/sanskriti philma ka puraskara jita",
+      "summary_hinglish": "naee dilli [bharata], 24 sitanbar: philma nirmata atula pande ko prasiddha kavi aura gitakara padma shri nida phajali ke jivana aura virasata para unake nirdeshana men bani pahali dokyumentri, main nida ke lie 72ven rashtriya philma puraskara men sarvashreshtha kala/sanskriti philma puraskara se sammanita kiya gaya hai। pande ko pratishthita puraskara mil...",
+      "category_hinglish": "National aur Trending News"
     },
     {
       "id": "1ea976246e8b7a8c",
@@ -1378,23 +1391,6 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "7301bc726de28849",
-      "title": "The 6 Best Business Laptops of 2026",
-      "summary": "The best business laptop we've tested is the Lenovo ThinkPad X9 15 Aura Edition (2025). This 15-inch premium ultraportable has nearly everything to let you work comfortably and efficiently.",
-      "category": "Business & Finance",
-      "image": "https://i.rtings.com/assets/pages/SQatR1BB/best-business-laptops-20240513-medium.jpg?format=auto",
-      "source": "RTINGS.com",
-      "sourceUrl": "https://www.rtings.com/laptop/reviews/best/by-usage/business",
-      "publishedAt": "2026-09-24T10:45:16.000Z",
-      "fetchedAt": "2026-09-24T13:19:34.991Z",
-      "title_hi": "2026 के 6 सर्वश्रेष्ठ बिजनेस लैपटॉप",
-      "summary_hi": "हमारे द्वारा परीक्षण किया गया सबसे अच्छा बिजनेस लैपटॉप लेनोवो थिंकपैड X9 15 ऑरा एडिशन (2025) है। इस 15 इंच के प्रीमियम अल्ट्रापोर्टेबल में आपको आराम से और कुशलता से काम करने के लिए लगभग सब कुछ है।",
-      "category_hi": "बिज़नेस और फाइनेंस",
-      "title_hinglish": "2026 ke 6 sarvashreshtha bijanesa laipatopa",
-      "summary_hinglish": "hamare dvara parikshana kiya gaya sabase achchha bijanesa laipatopa lenovo thinkapaida X9 15 ऑra edishana (2025) hai। isa 15 incha ke primiyama altraportebala men aapako aarama se aura kushalata se kama karane ke lie lagabhaga saba kuchha hai।",
-      "category_hinglish": "Business aur Finance"
-    },
-    {
       "id": "cfdd06dd7edf6deb",
       "title": "‘Chhitputh ghatna hoti rehti hai’: Bihar minister's remarks on Jamui harassment case triggers row",
       "summary": "Minister Shrawon Kumar says, \"The world is not entirely free from crime; sporadic incidents do occur. The government keeps a close watch on such incidents.",
@@ -1410,6 +1406,23 @@
       "category_hinglish": "Crime aur Breaking News",
       "title_hinglish": "'chhitaputa ghatana hoti rahati hai': jamuee utpidana mamale para bihara ke mantri ki tippani se vivada shuru ho gaya",
       "summary_hinglish": "mantri shravana kumara kahate hain, ''duniya puri taraha se aparadha se mukta nahin hai, chhitaputa ghatanaen hoti rahati hain. sarakara aisi ghatanaon para kadaी najara rakhati hai.''"
+    },
+    {
+      "id": "7301bc726de28849",
+      "title": "The 6 Best Business Laptops of 2026",
+      "summary": "The best business laptop we've tested is the Lenovo ThinkPad X9 15 Aura Edition (2025). This 15-inch premium ultraportable has nearly everything to let you work comfortably and efficiently.",
+      "category": "Business & Finance",
+      "image": "https://i.rtings.com/assets/pages/SQatR1BB/best-business-laptops-20240513-medium.jpg?format=auto",
+      "source": "RTINGS.com",
+      "sourceUrl": "https://www.rtings.com/laptop/reviews/best/by-usage/business",
+      "publishedAt": "2026-09-24T10:45:16.000Z",
+      "fetchedAt": "2026-09-24T13:19:34.991Z",
+      "title_hi": "2026 के 6 सर्वश्रेष्ठ बिजनेस लैपटॉप",
+      "summary_hi": "हमारे द्वारा परीक्षण किया गया सबसे अच्छा बिजनेस लैपटॉप लेनोवो थिंकपैड X9 15 ऑरा एडिशन (2025) है। इस 15 इंच के प्रीमियम अल्ट्रापोर्टेबल में आपको आराम से और कुशलता से काम करने के लिए लगभग सब कुछ है।",
+      "category_hi": "बिज़नेस और फाइनेंस",
+      "title_hinglish": "2026 ke 6 sarvashreshtha bijanesa laipatopa",
+      "summary_hinglish": "hamare dvara parikshana kiya gaya sabase achchha bijanesa laipatopa lenovo thinkapaida X9 15 ऑra edishana (2025) hai। isa 15 incha ke primiyama altraportebala men aapako aarama se aura kushalata se kama karane ke lie lagabhaga saba kuchha hai।",
+      "category_hinglish": "Business aur Finance"
     },
     {
       "id": "cc31a47c4d1498cc",
@@ -1429,23 +1442,6 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "d1eb3f17e48b6e31",
-      "title": "India's secret sex offender list: Does the NDSO actually prevent crime?",
-      "summary": "India's sexual offender database, the NDSO, serves as a critical non-public tool for police to track over 1.8 million offenders.",
-      "category": "Crime & Breaking News",
-      "image": "https://img.theweek.in/content/dam/week/en/archive/news/india/images/2026/9/24/Asthakunj-rape.jpg",
-      "source": "theweek.in",
-      "sourceUrl": "https://www.theweek.in/news/india/2026/09/24/indias-secret-sex-offender-list-does-the-ndso-actually-prevent-crime.html",
-      "publishedAt": "2026-09-24T10:22:42.000Z",
-      "fetchedAt": "2026-09-24T20:53:58.108Z",
-      "title_hi": "भारत की गुप्त यौन अपराधियों की सूची: क्या एनडीएसओ वास्तव में अपराध रोकता है?",
-      "summary_hi": "भारत का यौन अपराधी डेटाबेस, एनडीएसओ, 1.8 मिलियन से अधिक अपराधियों को ट्रैक करने के लिए पुलिस के लिए एक महत्वपूर्ण गैर-सार्वजनिक उपकरण के रूप में कार्य करता है।",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "bharata ki gupta yauna aparadhiyon ki suchi: kya enadiesao vastava men aparadha rokata hai?",
-      "summary_hinglish": "bharata ka yauna aparadhi detabes, enadiesao, 1.8 miliyana se adhika aparadhiyon ko traika karane ke lie pulisa ke lie eka mahatvapurna gaira-sarvajanika upakarana ke rupa men karya karata hai।",
-      "category_hinglish": "Crime aur Breaking News"
-    },
-    {
       "id": "bd27a711f58cacad",
       "title": "Next panchayat election only after the delimitation: Samrat Choudhary",
       "summary": "Bihar CM Samrat Choudhary announces Panchayat elections post-delimitation, urging representatives to enhance village infrastructure and self-reliance.",
@@ -1463,21 +1459,21 @@
       "category_hinglish": "National aur Trending News"
     },
     {
-      "id": "d8e88d15188c6a3f",
-      "title": "'Resign within 48 hours': CJP sets deadline for CEC Gyanesh Kumar, warns of nationwide protest",
-      "summary": "The Cockroach Janta Party (CJP) on Thursday called for Chief Election Commissioner Gyanesh Kumar's resignation. Dipke warning that it would launch a nationwide agitation if he does not step down within 48 hours.",
-      "category": "National & Trending News",
-      "image": "https://static.toiimg.com/thumb/msid-134457315,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/biggest-anti-national-of-country-cjp-calls-for-cec-gyanesh-kumars-resignation-over-sir-row/articleshow/134456995.cms",
-      "publishedAt": "2026-09-24T09:10:00.000Z",
-      "fetchedAt": "2026-09-24T20:54:30.945Z",
-      "title_hi": "'48 घंटे के भीतर इस्तीफा दें': सीजेपी ने सीईसी ज्ञानेश कुमार के लिए समय सीमा तय की, देशव्यापी विरोध की चेतावनी दी",
-      "summary_hi": "कॉकरोच जनता पार्टी (सीजेपी) ने गुरुवार को मुख्य चुनाव आयुक्त ज्ञानेश कुमार का इस्तीफा मांगा। डुपके ने चेतावनी देते हुए कहा कि अगर उन्होंने 48 घंटे के भीतर पद नहीं छोड़ा तो देशव्यापी आंदोलन शुरू किया जाएगा।",
-      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
-      "title_hinglish": "'48 ghante ke bhitara istipha den': sijepi ne sieesi jnyanesha kumara ke lie samaya sima taya ki, deshavyapi virodha ki chetavani di",
-      "summary_hinglish": "kokarocha janata parti (sijepi) ne guruvara ko mukhya chunava aayukta jnyanesha kumara ka istipha manga। dupake ne chetavani dete hue kaha ki agara unhonne 48 ghante ke bhitara pada nahin chhodaा to deshavyapi aandolana shuru kiya jaega।",
-      "category_hinglish": "National aur Trending News"
+      "id": "d1eb3f17e48b6e31",
+      "title": "India's secret sex offender list: Does the NDSO actually prevent crime?",
+      "summary": "India's sexual offender database, the NDSO, serves as a critical non-public tool for police to track over 1.8 million offenders.",
+      "category": "Crime & Breaking News",
+      "image": "https://img.theweek.in/content/dam/week/en/archive/news/india/images/2026/9/24/Asthakunj-rape.jpg",
+      "source": "theweek.in",
+      "sourceUrl": "https://www.theweek.in/news/india/2026/09/24/indias-secret-sex-offender-list-does-the-ndso-actually-prevent-crime.html",
+      "publishedAt": "2026-09-24T10:22:42.000Z",
+      "fetchedAt": "2026-09-24T20:53:58.108Z",
+      "title_hi": "भारत की गुप्त यौन अपराधियों की सूची: क्या एनडीएसओ वास्तव में अपराध रोकता है?",
+      "summary_hi": "भारत का यौन अपराधी डेटाबेस, एनडीएसओ, 1.8 मिलियन से अधिक अपराधियों को ट्रैक करने के लिए पुलिस के लिए एक महत्वपूर्ण गैर-सार्वजनिक उपकरण के रूप में कार्य करता है।",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "bharata ki gupta yauna aparadhiyon ki suchi: kya enadiesao vastava men aparadha rokata hai?",
+      "summary_hinglish": "bharata ka yauna aparadhi detabes, enadiesao, 1.8 miliyana se adhika aparadhiyon ko traika karane ke lie pulisa ke lie eka mahatvapurna gaira-sarvajanika upakarana ke rupa men karya karata hai।",
+      "category_hinglish": "Crime aur Breaking News"
     }
   ]
 }
