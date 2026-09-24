@@ -1,18 +1,44 @@
 import fs from "node:fs";
 import crypto from "node:crypto";
 import { createRequire } from "node:module";
+import { createClient } from "@supabase/supabase-js";
 
 const require = createRequire(import.meta.url);
 const { GoogleDecoder } = require("google-news-url-decoder");
 const decoder = new GoogleDecoder();
 
 const FEED_PATH = new URL("../data/news.json", import.meta.url);
-const MAX_ARTICLES = 250;
-const MAX_NEW_EXTERNAL_PER_CATEGORY = 2;
-const MAX_NEW_BIHAR_PER_CATEGORY = 1;
-const FRESH_WINDOW_MS = 24 * 60 * 60 * 1000;
-const RETENTION_WINDOW_MS = 72 * 60 * 60 * 1000;
+
+const MAX_ARTICLES = Number(process.env.FEED_MAX_ARTICLES || 250);
+const MAX_NEW_EXTERNAL_PER_CATEGORY = Number(
+  process.env.MAX_NEW_EXTERNAL_PER_CATEGORY || 10
+);
+const MAX_NEW_BIHAR_PER_CATEGORY = Number(
+  process.env.MAX_NEW_BIHAR_PER_CATEGORY || 4
+);
+const RSS_ITEMS_PER_CATEGORY = Number(
+  process.env.RSS_ITEMS_PER_CATEGORY || 60
+);
+const FRESH_WINDOW_MS =
+  Number(process.env.FRESH_WINDOW_HOURS || 48) * 60 * 60 * 1000;
+const RETENTION_WINDOW_MS =
+  Number(process.env.FEED_RETENTION_HOURS || 168) * 60 * 60 * 1000;
 const MIN_SUMMARY_CHARS = 60;
+
+const SUPABASE_URL = String(process.env.SUPABASE_URL || "").trim();
+const SUPABASE_SERVICE_ROLE_KEY = String(
+  process.env.SUPABASE_SERVICE_ROLE_KEY || ""
+).trim();
+
+const supabase =
+  SUPABASE_URL && SUPABASE_SERVICE_ROLE_KEY
+    ? createClient(SUPABASE_URL, SUPABASE_SERVICE_ROLE_KEY, {
+        auth: {
+          persistSession: false,
+          autoRefreshToken: false,
+        },
+      })
+    : null;
 
 const externalCategories = [
   { name: "Politics & Government", query: "India politics government when:1d" },
@@ -292,10 +318,51 @@ function parseItems(xml) {
     return {
       title: tag(block, "title"),
       link: tag(block, "link"),
+      providerId: tag(block, "guid") || tag(block, "link"),
       pubDate: tag(block, "pubDate"),
       source: tag(block, "source"),
     };
   });
+}
+
+async function fetchWithRetry(
+  url,
+  options = {},
+  { attempts = 3, baseDelayMs = 800 } = {}
+) {
+  let lastError;
+
+  for (let attempt = 1; attempt <= attempts; attempt += 1) {
+    try {
+      const response = await fetch(url, options);
+
+      if (
+        response.ok ||
+        (response.status < 500 && response.status !== 429)
+      ) {
+        return response;
+      }
+
+      lastError = new Error(
+        `Request failed with status ${response.status}`
+      );
+    } catch (error) {
+      lastError = error;
+    }
+
+    if (attempt < attempts) {
+      const retryAfter =
+        Number(lastError?.response?.headers?.get?.("retry-after")) || 0;
+      const delay =
+        retryAfter > 0
+          ? retryAfter * 1000
+          : baseDelayMs * 2 ** (attempt - 1);
+
+      await new Promise((resolve) => setTimeout(resolve, delay));
+    }
+  }
+
+  throw lastError || new Error("Request failed");
 }
 
 function normalizeTitle(title = "") {
@@ -510,6 +577,18 @@ async function validateImageUrl(url) {
   }
 }
 
+function articleHasArchiveQuality(article) {
+  const title = normalizeTitle(article?.title || "");
+  const sourceUrl = article?.sourceUrl || article?.url || article?.link || "";
+  const publishedAt = new Date(article?.publishedAt).getTime();
+
+  return (
+    title.length >= 12 &&
+    isHttpUrl(sourceUrl) &&
+    Number.isFinite(publishedAt)
+  );
+}
+
 function articleHasRequiredQuality(article) {
   const title = normalizeTitle(article?.title || "");
   const summary = stripHtml(article?.summary || article?.description || "");
@@ -651,51 +730,39 @@ function selectWithSeventyThirtyRatio(articles, limit = MAX_ARTICLES) {
     .filter((article) => !isBiharArticle(article))
     .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
 
-  if (!bihar.length) {
-    return external.slice(0, limit);
-  }
+  const total = Math.min(limit, bihar.length + external.length);
 
-  if (!external.length) {
-    return bihar.slice(0, limit);
-  }
+  if (total <= 0) return [];
+  if (!bihar.length) return external.slice(0, total);
+  if (!external.length) return bihar.slice(0, total);
 
-  const maxByBihar = Math.max(1, Math.round(bihar.length / 0.3));
-  const maxByExternal = Math.max(1, Math.round(external.length / 0.7));
-  const total = Math.min(limit, maxByBihar, maxByExternal);
-
-  let biharTarget = Math.min(
+  const biharTarget = Math.min(
     bihar.length,
-    Math.max(1, Math.round(total * 0.3))
+    Math.round(total * 0.3)
   );
 
-  let externalTarget = Math.min(
+  const externalTarget = Math.min(
     external.length,
     total - biharTarget
   );
 
-  while (
-    biharTarget + externalTarget < total &&
-    externalTarget < external.length
-  ) {
-    externalTarget += 1;
-  }
-
-  while (
-    biharTarget + externalTarget < total &&
-    biharTarget < bihar.length
-  ) {
-    biharTarget += 1;
-  }
-
   const selectedBihar = bihar.slice(0, biharTarget);
   const selectedExternal = external.slice(0, externalTarget);
 
+  const selected = [];
   const pattern = [
-    "external", "external", "bihar", "external", "external",
-    "bihar", "external", "external", "external", "bihar"
+    "external",
+    "external",
+    "bihar",
+    "external",
+    "external",
+    "bihar",
+    "external",
+    "external",
+    "external",
+    "bihar",
   ];
 
-  const selected = [];
   let externalIndex = 0;
   let biharIndex = 0;
 
@@ -712,26 +779,27 @@ function selectWithSeventyThirtyRatio(articles, limit = MAX_ARTICLES) {
         externalIndex < selectedExternal.length
       ) {
         selected.push(selectedExternal[externalIndex++]);
-        continue;
-      }
-
-      if (
+      } else if (
         slot === "bihar" &&
         biharIndex < selectedBihar.length
       ) {
         selected.push(selectedBihar[biharIndex++]);
       }
     }
-
-    if (
-      externalIndex >= selectedExternal.length &&
-      biharIndex >= selectedBihar.length
-    ) {
-      break;
-    }
   }
 
-  return selected;
+  const selectedIds = new Set(selected.map((article) => article.id));
+
+  const overflow = [...external, ...bihar]
+    .filter((article) => !selectedIds.has(article.id))
+    .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
+
+  for (const article of overflow) {
+    if (selected.length >= total) break;
+    selected.push(article);
+  }
+
+  return selected.slice(0, total);
 }
 
 async function resolvePublisherUrl(url) {
@@ -798,11 +866,25 @@ async function enrichArticle(url) {
 
 async function fetchCategory(category, knownLinks, knownTitles, maxNew, scope) {
   const url = `https://news.google.com/rss/search?q=${encodeURIComponent(category.query)}&hl=en-IN&gl=IN&ceid=IN:en`;
-  const response = await fetch(url, { headers: { "user-agent": "NewsTeen75Bot/1.0" } });
-  if (!response.ok) throw new Error(`RSS failed for ${category.name}: ${response.status}`);
+  const response = await fetchWithRetry(
+    url,
+    {
+      headers: {
+        "user-agent": "NewsTeen75Bot/1.0",
+        accept: "application/rss+xml,application/xml,text/xml,*/*",
+      },
+    },
+    { attempts: 3, baseDelayMs: 1000 }
+  );
+
+  if (!response.ok) {
+    throw new Error(
+      `RSS failed for ${category.name}: ${response.status}`
+    );
+  }
 
   const xml = await response.text();
-  const items = parseItems(xml).slice(0, 30);
+  const items = parseItems(xml).slice(0, RSS_ITEMS_PER_CATEGORY);
   const fresh = [];
 
   for (const item of items) {
@@ -817,15 +899,18 @@ async function fetchCategory(category, knownLinks, knownTitles, maxNew, scope) {
     const publishedAt = new Date(item.pubDate).toISOString();
     const sourceUrl = enriched.finalUrl || publisherUrl || item.link;
     const summary = buildSummary(cleanTitle, enriched.description);
-    const image = enriched.image || "";
+    const rawImage = enriched.image || "";
+    const image =
+      rawImage && isUsableImageUrl(rawImage) && (await validateImageUrl(rawImage))
+        ? rawImage
+        : "";
 
-    if (!summary) continue;
-    if (!isUsableImageUrl(image)) continue;
-    if (!(await validateImageUrl(image))) continue;
     if (!isHttpUrl(sourceUrl)) continue;
 
     fresh.push({
-      id: idFor(sourceUrl, cleanTitle),
+      id: idFor(canonicalUrl(sourceUrl), cleanTitle),
+      provider: "google_news_rss",
+      providerId: item.providerId || item.link,
       title: cleanTitle,
       summary,
       category: category.name,
@@ -848,6 +933,92 @@ async function fetchCategory(category, knownLinks, knownTitles, maxNew, scope) {
 function stripInternalFields(article) {
   const { __scope, ...publicArticle } = article;
   return publicArticle;
+}
+
+function articleToArchiveRow(article) {
+  const originalUrl =
+    article?.sourceUrl || article?.url || article?.link || "";
+  const canonical = canonicalUrl(originalUrl);
+
+  return {
+    id: String(
+      article?.id || idFor(canonical, article?.title || "")
+    ),
+    provider: String(article?.provider || "google_news_rss"),
+    provider_id: String(article?.providerId || "") || null,
+    canonical_url: canonical,
+    title: String(article?.title || "").trim(),
+    summary: String(article?.summary || article?.description || "").trim(),
+    image_url: String(article?.image || "").trim(),
+    publisher: String(article?.source || "Google News").trim(),
+    original_url: originalUrl,
+    category: String(article?.category || "").trim(),
+    language: "en",
+    title_hi: String(article?.title_hi || "").trim() || null,
+    summary_hi: String(article?.summary_hi || "").trim() || null,
+    title_hinglish: String(article?.title_hinglish || "").trim() || null,
+    summary_hinglish:
+      String(article?.summary_hinglish || "").trim() || null,
+    published_at: article?.publishedAt,
+    ingested_at: article?.fetchedAt || new Date().toISOString(),
+    story_fingerprint: normalizedStoryTitle(article?.title || "") || null,
+  };
+}
+
+async function upsertArchiveToSupabase(articles) {
+  if (!supabase) {
+    console.warn(
+      "Supabase archive sync skipped: SUPABASE_URL or service role key is missing."
+    );
+    return { synced: 0, skipped: true };
+  }
+
+  const rows = dedupeArticles(articles)
+    .filter(articleHasArchiveQuality)
+    .map(articleToArchiveRow);
+
+  let synced = 0;
+
+  for (let index = 0; index < rows.length; index += 100) {
+    const batch = rows.slice(index, index + 100);
+
+    const { error } = await supabase
+      .from("news_articles")
+      .upsert(batch, {
+        onConflict: "canonical_url",
+        ignoreDuplicates: false,
+      });
+
+    if (error) {
+      throw new Error(`Supabase archive upsert failed: ${error.message}`);
+    }
+
+    synced += batch.length;
+  }
+
+  return { synced, skipped: false };
+}
+
+async function recordIngestionRun({
+  status,
+  fetchedCount,
+  feedCount,
+  archivedCount,
+  errorMessage = null,
+}) {
+  if (!supabase) return;
+
+  const { error } = await supabase.from("news_ingestion_runs").insert({
+    status,
+    fetched_count: fetchedCount,
+    feed_count: feedCount,
+    archived_count: archivedCount,
+    error_message: errorMessage,
+  });
+
+  if (error) {
+    console.warn(`Could not record ingestion run: ${error.message}`);
+  }
 }
 
 async function main() {
@@ -904,6 +1075,11 @@ async function main() {
     }
   }
 
+  const archiveCandidates = dedupeArticles([
+    ...newArticles,
+    ...previousArticles,
+  ]).filter(articleHasArchiveQuality);
+
   const eligible = dedupeArticles([
     ...newArticles,
     ...retainedArticles,
@@ -922,6 +1098,11 @@ async function main() {
 
   const outputArticles = translatedSelected.map(stripInternalFields);
 
+  const archiveResult = await upsertArchiveToSupabase([
+    ...archiveCandidates,
+    ...translatedSelected,
+  ]);
+
   const previousComparable = previousArticles.map((article) => JSON.stringify(article));
   const nextComparable = outputArticles.map((article) => JSON.stringify(article));
   const feedChanged =
@@ -929,7 +1110,16 @@ async function main() {
     previousComparable.some((value, index) => value !== nextComparable[index]);
 
   if (!feedChanged) {
-    console.log("No eligible feed changes found. Feed unchanged.");
+    await recordIngestionRun({
+      status: "success",
+      fetchedCount: newArticles.length,
+      feedCount: outputArticles.length,
+      archivedCount: archiveResult.synced,
+    });
+
+    console.log(
+      `No feed JSON changes. Archive synced ${archiveResult.synced} article(s).`
+    );
     return;
   }
 
@@ -943,9 +1133,18 @@ async function main() {
   };
 
   fs.writeFileSync(FEED_PATH, `${JSON.stringify(output, null, 2)}\n`);
+
+  await recordIngestionRun({
+    status: "success",
+    fetchedCount: newArticles.length,
+    feedCount: outputArticles.length,
+    archivedCount: archiveResult.synced,
+  });
+
   console.log(
-    `Added ${newArticles.length} new eligible article(s). ` +
-    `Final feed: ${externalCount} external / ${biharCount} Bihar / ${outputArticles.length} total.`
+    `Fetched ${newArticles.length} new candidate article(s). ` +
+      `Archive synced ${archiveResult.synced}. ` +
+      `Final feed: ${externalCount} external / ${biharCount} Bihar / ${outputArticles.length} total.`
   );
 }
 
