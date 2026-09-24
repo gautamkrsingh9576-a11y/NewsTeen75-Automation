@@ -24,6 +24,9 @@ const FRESH_WINDOW_MS =
 const RETENTION_WINDOW_MS =
   Number(process.env.FEED_RETENTION_HOURS || 168) * 60 * 60 * 1000;
 const MIN_SUMMARY_CHARS = 60;
+const MIN_FETCH_INTERVAL_MINUTES = Number(
+  process.env.MIN_FETCH_INTERVAL_MINUTES || 5
+);
 
 const SUPABASE_URL = String(process.env.SUPABASE_URL || "").trim();
 const SUPABASE_SERVICE_ROLE_KEY = String(
@@ -1021,7 +1024,54 @@ async function recordIngestionRun({
   }
 }
 
+async function shouldSkipForConfiguredFrequency() {
+  if (!supabase || MIN_FETCH_INTERVAL_MINUTES <= 5) {
+    return false;
+  }
+
+  const { data, error } = await supabase
+    .from("news_ingestion_runs")
+    .select("ran_at,status")
+    .eq("status", "success")
+    .order("ran_at", { ascending: false })
+    .limit(1)
+    .maybeSingle();
+
+  if (error) {
+    console.warn(
+      `Could not check ingestion frequency: ${error.message}`
+    );
+    return false;
+  }
+
+  if (!data?.ran_at) {
+    return false;
+  }
+
+  const lastRun = new Date(data.ran_at).getTime();
+  if (!Number.isFinite(lastRun)) {
+    return false;
+  }
+
+  const ageMinutes = (Date.now() - lastRun) / 60000;
+
+  if (ageMinutes < MIN_FETCH_INTERVAL_MINUTES) {
+    console.log(
+      `Skipping fetch: last successful run was ${ageMinutes.toFixed(
+        1
+      )} minute(s) ago; configured interval is ${MIN_FETCH_INTERVAL_MINUTES} minute(s).`
+    );
+    return true;
+  }
+
+  return false;
+}
+
 async function main() {
+  if (await shouldSkipForConfiguredFrequency()) {
+    return;
+  }
+
   const existing = JSON.parse(fs.readFileSync(FEED_PATH, "utf8"));
   const previousArticles = Array.isArray(existing.articles) ? existing.articles : [];
 
