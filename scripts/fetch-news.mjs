@@ -1148,7 +1148,20 @@ async function main() {
   );
 }
 
-main().catch((error) => {
+main().catch(async (error) => {
   console.error(error);
+
+  try {
+    await recordIngestionRun({
+      status: "error",
+      fetchedCount: 0,
+      feedCount: 0,
+      archivedCount: 0,
+      errorMessage: error?.message || String(error),
+    });
+  } catch {
+    // Keep the original ingestion error as the process failure.
+  }
+
   process.exit(1);
 });
