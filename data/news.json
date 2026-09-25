@@ -1,40 +1,40 @@
 {
-  "updatedAt": "2026-09-25T17:05:58.282Z",
-  "count": 83,
+  "updatedAt": "2026-09-25T17:22:58.991Z",
+  "count": 87,
   "articles": [
+    {
+      "id": "4e0bc37ad91f6525",
+      "title": "Hardik Pandya set to miss India A fixtures; racing against time for New Zealand tour | Exclusive",
+      "summary": "Hardik Pandya's return to competitive cricket has been delayed again as the all-rounder is set to miss the three India A fixtures against Australia A in Puducherry starting October 6. The all-rounder experienced pain in his right shin again earlier this week and underwent a fresh set of scans.",
+      "category": "Sports",
+      "image": "https://static.toiimg.com/thumb/msid-134489699,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/hardik-pandya-set-to-miss-india-a-fixtures-racing-against-time-for-new-zealand-tour-exclusive/articleshow/134489676.cms",
+      "publishedAt": "2026-09-25T16:53:00.000Z",
+      "fetchedAt": "2026-09-25T17:22:22.505Z",
+      "title_hi": "हार्दिक पंड्या भारत ए मुकाबलों में नहीं खेलेंगे; न्यूज़ीलैंड दौरे के लिए समय के विपरीत दौड़ | विशेष",
+      "summary_hi": "हार्दिक पंड्या की प्रतिस्पर्धी क्रिकेट में वापसी में फिर से देरी हो गई है क्योंकि यह ऑलराउंडर 6 अक्टूबर से पुडुचेरी में ऑस्ट्रेलिया ए के खिलाफ भारत ए के तीन मुकाबलों में नहीं खेल पाएगा। इस हफ्ते की शुरुआत में इस ऑलराउंडर को फिर से दाहिनी पिंडली में दर्द का अनुभव हुआ और उन्हें नए स्कैन से गुजरना पड़ा।",
+      "category_hi": "खेल",
+      "title_hinglish": "hardika pandya bharata e mukabalon men nahin khelenge; nyujaीlainda daure ke lie samaya ke viparita dauda | vishesha",
+      "summary_hinglish": "hardika pandya ki pratispardhi kriketa men vapasi men phira se deri ho gaee hai kyonki yaha ऑlaraundara 6 aktubara se puducheri men ऑstreliya e ke khilapha bharata e ke tina mukabalon men nahin khela paega। isa haphte ki shuruaata men isa ऑlaraundara ko phira se dahini pindali men darda ka anubhava huaa aura unhen nae skaina se gujarana padaा।",
+      "category_hinglish": "Sports"
+    },
     {
       "id": "efcedb4d04cd2ab8",
       "title": "How Indian insurers can move beyond claims to continuous protection | EY - India",
       "summary": "Discover how AI, continuous protection and innovation can help close India's insurance protection gap and achieve Insurance for All by 2047.",
       "category": "Technology",
       "image": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/insurance/images/ey-ey-how-indian-insurers-can-move-beyond-claims-to-continuous-protection-v1.jpg",
-      "source": "ey.com",
+      "source": "EY",
       "sourceUrl": "https://www.ey.com/en_in/insights/insurance/how-indian-insurers-can-move-beyond-claims-to-continuous-protection",
       "publishedAt": "2026-09-25T16:18:45.000Z",
-      "fetchedAt": "2026-09-25T17:05:35.778Z",
+      "fetchedAt": "2026-09-25T17:22:30.590Z",
       "title_hi": "भारतीय बीमाकर्ता निरंतर सुरक्षा के दावों से आगे कैसे बढ़ सकते हैं | ईवाई - भारत",
       "summary_hi": "जानें कि कैसे एआई, निरंतर सुरक्षा और नवाचार भारत के बीमा सुरक्षा अंतर को कम करने और 2047 तक सभी के लिए बीमा हासिल करने में मदद कर सकते हैं।",
       "category_hi": "टेक्नोलॉजी",
       "title_hinglish": "bharatiya bimakarta nirantara suraksha ke davon se aage kaise badha sakate hain | eevaee - bharata",
       "summary_hinglish": "janen ki kaise eaaee, nirantara suraksha aura navachara bharata ke bima suraksha antara ko kama karane aura 2047 taka sabhi ke lie bima hasila karane men madada kara sakate hain।",
       "category_hinglish": "Technology"
-    },
-    {
-      "id": "5524404d38c1350f",
-      "title": "Asian Games, September 26 schedule: India chase kabaddi gold double, athletics medals",
-      "summary": "India's Day 8 campaign at the Asian Games 2026 will be packed with medal opportunities, with the kabaddi teams chasing gold, while athletes, shooters and canoe sprinters will also be in contention across a busy schedule.",
-      "category": "Sports",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/indian-mens-kabaddi-team-222848408-16x9_2.jpg?VersionId=IoFkZpnMB5CzMCl0nmIpqNDp4otaN8RI",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/amp/sports/asian-games/story/asian-games-2026-india-complete-schedule-timing-medal-september-26-3003143-2026-09-25",
-      "publishedAt": "2026-09-25T15:53:43.000Z",
-      "fetchedAt": "2026-09-25T15:59:39.105Z",
-      "title_hi": "एशियाई खेल, 26 सितंबर का कार्यक्रम: भारत ने कबड्‌डी में दो स्वर्ण, एथलेटिक्स में पदक जीते",
-      "summary_hi": "एशियाई खेल 2026 में भारत का आठवें दिन का अभियान पदक के अवसरों से भरा होगा, जिसमें कबड्डी टीमें स्वर्ण पदक की तलाश में होंगी, जबकि एथलीट, निशानेबाज और डोंगी धावक भी व्यस्त कार्यक्रम के दौरान प्रतिस्पर्धा में होंगे।",
-      "category_hi": "खेल",
-      "title_hinglish": "eshiyaee khel, 26 sitanbara ka karyakram: bharata ne kabad‌di men do svarn, ethaletiksa men padaka jite",
-      "summary_hinglish": "eshiyaee khela 2026 men bharata ka aathaven dina ka abhiyana padaka ke avasaron se bhara hog, jisamen kabaddi timen svarna padaka ki talasha men hongi, jabaki ethalit, nishanebaja aura dongi dhavaka bhi vyasta karyakrama ke daurana pratispardha men honge।",
-      "category_hinglish": "Sports"
     },
     {
       "id": "f606cc4dbdf8b5fe",
@@ -54,6 +54,57 @@
       "category_hinglish": "Politics aur Government"
     },
     {
+      "id": "3a39e28ff1be7a27",
+      "title": "Narendra Modi’s 25-Year Journey: The 2012 Turning Point That Made Gujarat’s CM A National Leader",
+      "summary": "Senior journalist Ajay Singh reflects on Narendra Modi’s 25-year political journey, from becoming Gujarat Chief Minister in 2001 to emerging as a national political leader and Prime Minister in 2014. Modi served as Gujarat CM from 2001 to 2014, winning the 2012 Assembly election for a fourth consecutive term. n18oc_the-right-stand…",
+      "category": "National & Trending News",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/09/1790353021_02d922b4-4ad6-415e-9520-03a968ded572-1200x675.jpeg",
+      "source": "News18",
+      "sourceUrl": "https://www.news18.com/amp/videos/the-right-stand/narendra-modi-s-25-year-journey-the-2012-turning-point-that-made-gujarat-s-cm-a-national-leader-10353440.html",
+      "publishedAt": "2026-09-25T16:01:00.000Z",
+      "fetchedAt": "2026-09-25T17:22:45.871Z",
+      "title_hi": "नरेंद्र मोदी की 25 साल की यात्रा: 2012 का महत्वपूर्ण मोड़ जिसने गुजरात के सीएम को राष्ट्रीय नेता बना दिया",
+      "summary_hi": "वरिष्ठ पत्रकार अजय सिंह नरेंद्र मोदी की 25 साल की राजनीतिक यात्रा पर विचार करते हैं, 2001 में गुजरात के मुख्यमंत्री बनने से लेकर 2014 में एक राष्ट्रीय राजनीतिक नेता और प्रधान मंत्री के रूप में उभरने तक। मोदी ने 2001 से 2014 तक गुजरात के सीएम के रूप में कार्य किया, 2012 का विधानसभा चुनाव लगातार चौथी बार जीता। n18oc_द-राइट-स्टैंड…",
+      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
+      "title_hinglish": "narendra modi ki 25 sala ki yatr: 2012 ka mahatvapurna moda jisane gujarata ke siema ko rashtriya neta bana diya",
+      "summary_hinglish": "varishtha patrakara ajaya sinha narendra modi ki 25 sala ki rajanitika yatra para vichara karate hain, 2001 men gujarata ke mukhyamantri banane se lekara 2014 men eka rashtriya rajanitika neta aura pradhana mantri ke rupa men ubharane taka। modi ne 2001 se 2014 taka gujarata ke siema ke rupa men karya kiy, 2012 ka vidhanasabha chunava lagatara chauthi bara jita। n18oc_da-raita-stainda…",
+      "category_hinglish": "National aur Trending News"
+    },
+    {
+      "id": "5524404d38c1350f",
+      "title": "Asian Games, September 26 schedule: India chase kabaddi gold double, athletics medals",
+      "summary": "India's Day 8 campaign at the Asian Games 2026 will be packed with medal opportunities, with the kabaddi teams chasing gold, while athletes, shooters and canoe sprinters will also be in contention across a busy schedule.",
+      "category": "Sports",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/indian-mens-kabaddi-team-222848408-16x9_2.jpg?VersionId=IoFkZpnMB5CzMCl0nmIpqNDp4otaN8RI",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/amp/sports/asian-games/story/asian-games-2026-india-complete-schedule-timing-medal-september-26-3003143-2026-09-25",
+      "publishedAt": "2026-09-25T15:53:43.000Z",
+      "fetchedAt": "2026-09-25T15:59:39.105Z",
+      "title_hi": "एशियाई खेल, 26 सितंबर का कार्यक्रम: भारत ने कबड्‌डी में दो स्वर्ण, एथलेटिक्स में पदक जीते",
+      "summary_hi": "एशियाई खेल 2026 में भारत का आठवें दिन का अभियान पदक के अवसरों से भरा होगा, जिसमें कबड्डी टीमें स्वर्ण पदक की तलाश में होंगी, जबकि एथलीट, निशानेबाज और डोंगी धावक भी व्यस्त कार्यक्रम के दौरान प्रतिस्पर्धा में होंगे।",
+      "category_hi": "खेल",
+      "title_hinglish": "eshiyaee khel, 26 sitanbara ka karyakram: bharata ne kabad‌di men do svarn, ethaletiksa men padaka jite",
+      "summary_hinglish": "eshiyaee khela 2026 men bharata ka aathaven dina ka abhiyana padaka ke avasaron se bhara hog, jisamen kabaddi timen svarna padaka ki talasha men hongi, jabaki ethalit, nishanebaja aura dongi dhavaka bhi vyasta karyakrama ke daurana pratispardha men honge।",
+      "category_hinglish": "Sports"
+    },
+    {
+      "id": "03250ab691034ec5",
+      "title": "Sidharth Malhotra Once Called Bhojpuri A ‘Poop’ Feeling, Now He’s Selling Bihar’s Culture Controversy Explained",
+      "summary": "Sidharth Malhotra’s old Bhojpuri remark sparked controversy in 2018 after he appeared on Bigg Boss 11. Years later, the actor is starring in The VVAAN: Force Of The Forest, a Bihar-based film rooted in local folklore and beliefs.",
+      "category": "Entertainment",
+      "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/25/467070d34f79fa888aab677eb54c790217903326037291402_original.png?impolicy=abp_cdn&imwidth=1200",
+      "source": "ABP Live English",
+      "sourceUrl": "https://news.abplive.com/entertainment/celebrities/sidharth-malhotra-once-called-bhojpuri-a-poop-feeling-now-he-s-selling-bihar-s-culture-controversy-explained-1868295",
+      "publishedAt": "2026-09-25T11:02:14.000Z",
+      "fetchedAt": "2026-09-25T12:26:50.371Z",
+      "title_hi": "सिद्धार्थ मल्होत्रा ने कभी भोजपुरी को कहा था 'पूप' फीलिंग, अब बेच रहे हैं बिहार की संस्कृति विवाद",
+      "summary_hi": "सिद्धार्थ मल्होत्रा की पुरानी भोजपुरी टिप्पणी ने 2018 में बिग बॉस 11 में आने के बाद विवाद खड़ा कर दिया था। वर्षों बाद, अभिनेता द वीवीएएन: फोर्स ऑफ द फॉरेस्ट में अभिनय कर रहे हैं, जो स्थानीय लोककथाओं और मान्यताओं पर आधारित बिहार आधारित फिल्म है।",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "siddhartha malhotra ne kabhi bhojapuri ko kaha tha 'pupa' philing, aba becha rahe hain bihara ki sanskriti vivada",
+      "summary_hinglish": "siddhartha malhotra ki purani bhojapuri tippani ne 2018 men biga bosa 11 men aane ke bada vivada khadaा kara diya tha। varshon bad, abhineta da vivieen: phorsa ऑpha da phoresta men abhinaya kara rahe hain, jo sthaniya lokakathaon aura manyataon para aadharita bihara aadharita philma hai।",
+      "category_hinglish": "Entertainment"
+    },
+    {
       "id": "d966ae9182809839",
       "title": "Suzuki bets on smaller-battery REEVs as India emerges key battleground",
       "summary": "The Japanese automaker plans to develop a new class of range-extender electric vehicles (REEVs) that combine a smaller battery with an onboard generator, offering another pathway for EV adoption as manufacturers grapple with battery costs, charging infrastructure gaps and range anxiety.“Each countr…",
@@ -68,6 +119,23 @@
       "category_hi": "टेक्नोलॉजी",
       "title_hinglish": "bharata ke pramukha yuddhakshetra ke rupa men ubharane ke satha hi sujuki ne chhoti baitari vali aaraeeeevi para danva lagaya hai",
       "summary_hinglish": "japani ऑtomekara ne renja-eksatendara ilektrika vahanon (aaraeeeevi) ki eka naee shreni vikasita karane ki yojana banaee hai, jo ऑnaborda janaretara ke satha eka chhoti baitari ko jodati hai, jo eevi apanane ke lie eka aura rasta pesha karati hai kyonki nirmata baitari ki lagat, charjinga inphrastrakchara antarala aura renja chinta se jujha rahe hain। \"pratyeka desha…",
+      "category_hinglish": "Technology"
+    },
+    {
+      "id": "1b5ea58bc80e7b1d",
+      "title": "Suzuki steps up India game with ‘Just Right’ ADAS, lighter bolts and multi-tech powertrains",
+      "summary": "Suzuki Motor Corporation is enhancing its presence in India with innovative ADAS technology, lightweight engineering, and diverse powertrains aligned with local needs. Discover how their approach aims for carbon neutrality and efficient mobility solutions.",
+      "category": "Technology",
+      "image": "https://etimg.etb2bimg.com/thumb/msid-134488633,imgsize-42378,width-1200,height=627,overlay-etauto,resizemode-75/auto-technology/suzuki-steps-up-india-game-with-just-right-adas-lighter-bolts-and-multi-tech-powertrains.jpg",
+      "source": "ET Auto",
+      "sourceUrl": "https://auto.economictimes.indiatimes.com/amp/news/auto-technology/suzuki-steps-up-india-game-with-just-right-adas-lighter-bolts-and-multi-tech-powertrains/134488633",
+      "publishedAt": "2026-09-25T15:36:48.000Z",
+      "fetchedAt": "2026-09-25T17:22:32.221Z",
+      "title_hi": "सुजुकी ने 'जस्ट राइट' ADAS, लाइटर बोल्ट और मल्टी-टेक पावरट्रेन के साथ भारत में कदम बढ़ाया",
+      "summary_hi": "सुजुकी मोटर कॉरपोरेशन नवोन्मेषी एडीएएस तकनीक, हल्की इंजीनियरिंग और स्थानीय जरूरतों के अनुरूप विविध पावरट्रेन के साथ भारत में अपनी उपस्थिति बढ़ा रहा है। पता लगाएं कि उनका दृष्टिकोण कार्बन तटस्थता और कुशल गतिशीलता समाधानों का लक्ष्य कैसे रखता है।",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "sujuki ne 'jasta raita' ADAS, laitara bolta aura malti-teka pavaratrena ke satha bharata men kadama badhaाya",
+      "summary_hinglish": "sujuki motara koraporeshana navonmeshi edieesa takanik, halki injiniyaringa aura sthaniya jaruraton ke anurupa vividha pavaratrena ke satha bharata men apani upasthiti badhaा raha hai। pata lagaen ki unaka drishtikona karbana tatasthata aura kushala gatishilata samadhanon ka lakshya kaise rakhata hai।",
       "category_hinglish": "Technology"
     },
     {
@@ -88,21 +156,21 @@
       "category_hinglish": "National aur Trending News"
     },
     {
-      "id": "03250ab691034ec5",
-      "title": "Sidharth Malhotra Once Called Bhojpuri A ‘Poop’ Feeling, Now He’s Selling Bihar’s Culture Controversy Explained",
-      "summary": "Sidharth Malhotra’s old Bhojpuri remark sparked controversy in 2018 after he appeared on Bigg Boss 11. Years later, the actor is starring in The VVAAN: Force Of The Forest, a Bihar-based film rooted in local folklore and beliefs.",
-      "category": "Entertainment",
-      "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/25/467070d34f79fa888aab677eb54c790217903326037291402_original.png?impolicy=abp_cdn&imwidth=1200",
-      "source": "ABP Live English",
-      "sourceUrl": "https://news.abplive.com/entertainment/celebrities/sidharth-malhotra-once-called-bhojpuri-a-poop-feeling-now-he-s-selling-bihar-s-culture-controversy-explained-1868295",
-      "publishedAt": "2026-09-25T11:02:14.000Z",
-      "fetchedAt": "2026-09-25T12:26:50.371Z",
-      "title_hi": "सिद्धार्थ मल्होत्रा ने कभी भोजपुरी को कहा था 'पूप' फीलिंग, अब बेच रहे हैं बिहार की संस्कृति विवाद",
-      "summary_hi": "सिद्धार्थ मल्होत्रा की पुरानी भोजपुरी टिप्पणी ने 2018 में बिग बॉस 11 में आने के बाद विवाद खड़ा कर दिया था। वर्षों बाद, अभिनेता द वीवीएएन: फोर्स ऑफ द फॉरेस्ट में अभिनय कर रहे हैं, जो स्थानीय लोककथाओं और मान्यताओं पर आधारित बिहार आधारित फिल्म है।",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "siddhartha malhotra ne kabhi bhojapuri ko kaha tha 'pupa' philing, aba becha rahe hain bihara ki sanskriti vivada",
-      "summary_hinglish": "siddhartha malhotra ki purani bhojapuri tippani ne 2018 men biga bosa 11 men aane ke bada vivada khadaा kara diya tha। varshon bad, abhineta da vivieen: phorsa ऑpha da phoresta men abhinaya kara rahe hain, jo sthaniya lokakathaon aura manyataon para aadharita bihara aadharita philma hai।",
-      "category_hinglish": "Entertainment"
+      "id": "d3a3994e37b7c554",
+      "title": "'CEC must firmly present its side,' says Chirag Paswan as opposition demands Gyanesh Kumar's resignation",
+      "summary": "'CEC must firmly present its side,' says Chirag Paswan as opposition demands Gyanesh Kumar's resignation - Patna (Bihar) [India], September 25 : Union Minister Chirag Paswan on Friday said the Election Commission must firmly present ... Get Latest News on Politics only on lokmattimes.com",
+      "category": "Politics & Government",
+      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/ANI-20260925092530_202609.jpg",
+      "source": "lokmattimes.com",
+      "sourceUrl": "https://www.lokmattimes.com/politics/cec-must-firmly-present-its-side-says-chirag-paswan-as-opposition-demands-gyanesh-kumars-resignation/",
+      "publishedAt": "2026-09-25T09:37:05.000Z",
+      "fetchedAt": "2026-09-25T12:02:35.060Z",
+      "title_hi": "विपक्ष द्वारा ज्ञानेश कुमार के इस्तीफे की मांग पर चिराग पासवान ने कहा, 'सीईसी को अपना पक्ष मजबूती से रखना चाहिए।'",
+      "summary_hi": "विपक्ष द्वारा ज्ञानेश कुमार के इस्तीफे की मांग पर चिराग पासवान ने कहा, 'सीईसी को अपना पक्ष मजबूती से रखना चाहिए।'",
+      "category_hi": "राजनीति और सरकार",
+      "title_hinglish": "vipaksha dvara jnyanesha kumara ke istiphe ki manga para chiraga pasavana ne kah, 'sieesi ko apana paksha majabuti se rakhana chahie।'",
+      "summary_hinglish": "vipaksha dvara jnyanesha kumara ke istiphe ki manga para chiraga pasavana ne kah, 'sieesi ko apana paksha majabuti se rakhana chahie।'",
+      "category_hinglish": "Politics aur Government"
     },
     {
       "id": "dfb2f82d69188304",
@@ -139,6 +207,23 @@
       "category_hinglish": "Sports"
     },
     {
+      "id": "5db7e14786b11f29",
+      "title": "The Vvaan X Review: Audience Reacts To Sidharth Malhotra, Tamannaah Bhatia’s ‘Fresh’ Folklore Adventure – Check Twitter Reactions Here",
+      "summary": "The Vvaan Twitter X review is in. Check out audience reactions to Sidharth Malhotra and Tamannaah Bhatia’s folklore adventure, including praise for its VFX, performances and rooted story.",
+      "category": "Entertainment",
+      "image": "https://sundayguardianlive.com/wp-content/uploads/2026/09/the-vvaan-review.jpg",
+      "source": "The Sunday Guardian",
+      "sourceUrl": "https://sundayguardianlive.com/entertainment-news/the-vvaan-x-review-audience-reacts-to-sidharth-malhotra-tamannaah-bhatias-fresh-folklore-adventure-check-twitter-reactions-here-292340/",
+      "publishedAt": "2026-09-25T06:39:51.000Z",
+      "fetchedAt": "2026-09-25T17:22:54.026Z",
+      "title_hi": "द व्वान एक्स रिव्यू: दर्शकों ने सिद्धार्थ मल्होत्रा, तमन्ना भाटिया की 'फ्रेश' लोकगीत साहसिक पर प्रतिक्रियाएँ दीं - यहाँ ट्विटर प्रतिक्रियाएँ देखें",
+      "summary_hi": "Vvaan Twitter",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "da vvana eksa rivyu: darshakon ne siddhartha malhotr, tamanna bhatiya ki 'phresha' lokagita sahasika para pratikriyaen din - yahan tvitara pratikriyaen dekhen",
+      "summary_hinglish": "Vvaan Twitter",
+      "category_hinglish": "Entertainment"
+    },
+    {
       "id": "528085c64ba8ca4e",
       "title": "Decathlon India raises FY30 revenue target to Rs 10,000 crore",
       "summary": "Decathlon Sports India has raised its FY30 revenue target to Rs 10,000 crore from the earlier Rs 8,000 crore as the multi-specialist sports retailer bets on rap",
@@ -154,23 +239,6 @@
       "title_hinglish": "dekathalona indiya ne FY30 ka rajasva lakshya badhaाkara 10,000 karoda rupaye kiya",
       "summary_hinglish": "dekathalona sportsa indiya ne apane vitta varsha 2030 ke rajasva lakshya ko pahale ke 8,000 karoda rupaye se badhaाkara 10,000 karoda rupaye kara diya hai kyonki malti-speshalista sportsa ritelara ne raipa para danva lagaya hai।",
       "category_hinglish": "Sports"
-    },
-    {
-      "id": "d3a3994e37b7c554",
-      "title": "'CEC must firmly present its side,' says Chirag Paswan as opposition demands Gyanesh Kumar's resignation",
-      "summary": "'CEC must firmly present its side,' says Chirag Paswan as opposition demands Gyanesh Kumar's resignation - Patna (Bihar) [India], September 25 : Union Minister Chirag Paswan on Friday said the Election Commission must firmly present ... Get Latest News on Politics only on lokmattimes.com",
-      "category": "Politics & Government",
-      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/ANI-20260925092530_202609.jpg",
-      "source": "lokmattimes.com",
-      "sourceUrl": "https://www.lokmattimes.com/politics/cec-must-firmly-present-its-side-says-chirag-paswan-as-opposition-demands-gyanesh-kumars-resignation/",
-      "publishedAt": "2026-09-25T09:37:05.000Z",
-      "fetchedAt": "2026-09-25T12:02:35.060Z",
-      "title_hi": "विपक्ष द्वारा ज्ञानेश कुमार के इस्तीफे की मांग पर चिराग पासवान ने कहा, 'सीईसी को अपना पक्ष मजबूती से रखना चाहिए।'",
-      "summary_hi": "विपक्ष द्वारा ज्ञानेश कुमार के इस्तीफे की मांग पर चिराग पासवान ने कहा, 'सीईसी को अपना पक्ष मजबूती से रखना चाहिए।'",
-      "category_hi": "राजनीति और सरकार",
-      "title_hinglish": "vipaksha dvara jnyanesha kumara ke istiphe ki manga para chiraga pasavana ne kah, 'sieesi ko apana paksha majabuti se rakhana chahie।'",
-      "summary_hinglish": "vipaksha dvara jnyanesha kumara ke istiphe ki manga para chiraga pasavana ne kah, 'sieesi ko apana paksha majabuti se rakhana chahie।'",
-      "category_hinglish": "Politics aur Government"
     },
     {
       "id": "ec10a8f0d689ced4",
@@ -190,23 +258,6 @@
       "category_hinglish": "Entertainment"
     },
     {
-      "id": "31372123019a4496",
-      "title": "Northeast can emerge as India's 'living lab' for tech, problem-solving: Himanta",
-      "summary": "Assam Chief Minister Himanta Biswa Sarma on September 25 said the Northeast can emerge as one of India's \"living laboratories\" for technology and practical problem-solving, as he launched the North East Seva Innovation Challenge (NESFIC) in Guwahati.",
-      "category": "Technology",
-      "image": "https://cf-img-a-in.tosshub.com/lingo/itne/images/story/202609/6ab68db193b03-cm-himanta-biswa-sarma-23334316-16x9.jpg",
-      "source": "India Today NE",
-      "sourceUrl": "https://www.indiatodayne.in/assam/story/northeast-can-emerge-as-indias-living-lab-for-tech-problem-solving-himanta-1455442-2026-09-25",
-      "publishedAt": "2026-09-25T15:05:36.000Z",
-      "fetchedAt": "2026-09-25T15:59:49.665Z",
-      "title_hi": "पूर्वोत्तर तकनीक, समस्या-समाधान के लिए भारत की 'जीवित प्रयोगशाला' के रूप में उभर सकता है: हिमंत",
-      "summary_hi": "असम के मुख्यमंत्री हिमंत बिस्वा सरमा ने 25 सितंबर को गुवाहाटी में नॉर्थ ईस्ट सेवा इनोवेशन चैलेंज (एनईएसएफआईसी) लॉन्च करते हुए कहा कि पूर्वोत्तर प्रौद्योगिकी और व्यावहारिक समस्या-समाधान के लिए भारत की \"जीवित प्रयोगशालाओं\" में से एक के रूप में उभर सकता है।",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "purvottara takanik, samasya-samadhana ke lie bharata ki 'jivita prayogashala' ke rupa men ubhara sakata hai: himanta",
-      "summary_hinglish": "asama ke mukhyamantri himanta bisva sarama ne 25 sitanbara ko guvahati men northa eesta seva inoveshana chailenja (enaeeesaephaaaeesi) loncha karate hue kaha ki purvottara praudyogiki aura vyavaharika samasya-samadhana ke lie bharata ki \"jivita prayogashalaon\" men se eka ke rupa men ubhara sakata hai।",
-      "category_hinglish": "Technology"
-    },
-    {
       "id": "e40637d4fb87586d",
       "title": "The Vvaan - Force Of The Forrest Movie Review: Sidharth Malhotra and Tamannaah Bhatia Bring Bihar Folklore to the Big Screen",
       "summary": "The Vvaan - Force Of The Forrest Movie review: Sidharth Malhotra and Tamannaah Bhatia lead a folklore-driven horror adventure rooted in Bihar.",
@@ -222,6 +273,23 @@
       "title_hinglish": "da vvana - phaोrsa ऑpha da phaॉresta muvi samiksh: siddhartha malhotra aura tamanna bhatiya bihara ke lokagita ko badaे parde para laenge",
       "summary_hinglish": "da vvana - phaोrsa ऑpha da phaॉresta muvi samiksh: siddhartha malhotra aura tamanna bhatiya bihara men nihita lokakathaon para aadharita daravani sahasika philma ka netritva karate hain।",
       "category_hinglish": "Entertainment"
+    },
+    {
+      "id": "31372123019a4496",
+      "title": "Northeast can emerge as India's 'living lab' for tech, problem-solving: Himanta",
+      "summary": "Assam Chief Minister Himanta Biswa Sarma on September 25 said the Northeast can emerge as one of India's \"living laboratories\" for technology and practical problem-solving, as he launched the North East Seva Innovation Challenge (NESFIC) in Guwahati.",
+      "category": "Technology",
+      "image": "https://cf-img-a-in.tosshub.com/lingo/itne/images/story/202609/6ab68db193b03-cm-himanta-biswa-sarma-23334316-16x9.jpg",
+      "source": "India Today NE",
+      "sourceUrl": "https://www.indiatodayne.in/assam/story/northeast-can-emerge-as-indias-living-lab-for-tech-problem-solving-himanta-1455442-2026-09-25",
+      "publishedAt": "2026-09-25T15:05:36.000Z",
+      "fetchedAt": "2026-09-25T15:59:49.665Z",
+      "title_hi": "पूर्वोत्तर तकनीक, समस्या-समाधान के लिए भारत की 'जीवित प्रयोगशाला' के रूप में उभर सकता है: हिमंत",
+      "summary_hi": "असम के मुख्यमंत्री हिमंत बिस्वा सरमा ने 25 सितंबर को गुवाहाटी में नॉर्थ ईस्ट सेवा इनोवेशन चैलेंज (एनईएसएफआईसी) लॉन्च करते हुए कहा कि पूर्वोत्तर प्रौद्योगिकी और व्यावहारिक समस्या-समाधान के लिए भारत की \"जीवित प्रयोगशालाओं\" में से एक के रूप में उभर सकता है।",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "purvottara takanik, samasya-samadhana ke lie bharata ki 'jivita prayogashala' ke rupa men ubhara sakata hai: himanta",
+      "summary_hinglish": "asama ke mukhyamantri himanta bisva sarama ne 25 sitanbara ko guvahati men northa eesta seva inoveshana chailenja (enaeeesaephaaaeesi) loncha karate hue kaha ki purvottara praudyogiki aura vyavaharika samasya-samadhana ke lie bharata ki \"jivita prayogashalaon\" men se eka ke rupa men ubhara sakata hai।",
+      "category_hinglish": "Technology"
     },
     {
       "id": "40e803db03d71e4f",
@@ -309,23 +377,6 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "9d586311f915b735",
-      "title": "Baranica Elangovan creates history with India's first Asian Games pole vault bronze",
-      "summary": "Baranica Elangovan made history at the Asian Games in Nagoya on Friday, winning India’s first-ever pole vault medal with a 4.15m clearance for bronze in the women’s event.",
-      "category": "Sports",
-      "image": "https://cdn3.wionews.com/prod/wion/images/2026/20260925/image-1790345029748.jpg?imwidth=1200&imheight=900",
-      "source": "WION",
-      "sourceUrl": "https://www.wionews.com/sports/baranica-elangovan-creates-history-with-india-s-first-asian-games-pole-vault-bronze-1790344177114",
-      "publishedAt": "2026-09-25T14:37:00.000Z",
-      "fetchedAt": "2026-09-25T17:05:29.800Z",
-      "title_hi": "बारानिका एलंगोवन ने भारत के पहले एशियाई खेलों पोल वॉल्ट कांस्य के साथ इतिहास रचा",
-      "summary_hi": "बारानिका एलंगोवन ने शुक्रवार को नागोया में एशियाई खेलों में महिलाओं की स्पर्धा में कांस्य के लिए 4.15 मीटर क्लीयरेंस के साथ भारत का पहला पोल वॉल्ट पदक जीतकर इतिहास रच दिया।",
-      "category_hi": "खेल",
-      "title_hinglish": "baranika elangovana ne bharata ke pahale eshiyaee khelon pola volta kansya ke satha itihasa racha",
-      "summary_hinglish": "baranika elangovana ne shukravara ko nagoya men eshiyaee khelon men mahilaon ki spardha men kansya ke lie 4.15 mitara kliyarensa ke satha bharata ka pahala pola volta padaka jitakara itihasa racha diya।",
-      "category_hinglish": "Sports"
-    },
-    {
       "id": "11df1a63ca080ea9",
       "title": "'I give 30% of my income to Bengaluru': Techie's request to Bihar CM goes viral, sparks debate online",
       "summary": "Rahul Kumar Yadav, an IT professional working in a hybrid role, urged Bihar Chief Minister Samrat Choudhary to build a strong IT ecosystem in the state, saying thousands of professionals are forced to spend a significant portion of their income outside Bihar for work.",
@@ -341,6 +392,23 @@
       "title_hinglish": "'main apani aaya ka 30% bengaluru ko deta hun': bihara ke mukhyamantri se takaniki visheshajnya ka anurodha vayaral, ऑnalaina bahasa chhida gaee",
       "summary_hinglish": "haibrida bhumika men kama karane vale eka aaeeti peshevara rahula kumara yadava ne bihara ke mukhyamantri samrata chaudhari se rajya men eka majabuta aaeeti paristhitiki tantra banane ka aagraha kiy, unhonne kaha ki hajaron peshevara kama ke lie apani aaya ka eka mahatvapurna hissa bihara ke bahara kharcha karane ke lie majabura hain।",
       "category_hinglish": "Business aur Finance"
+    },
+    {
+      "id": "9d586311f915b735",
+      "title": "Baranica Elangovan creates history with India's first Asian Games pole vault bronze",
+      "summary": "Baranica Elangovan made history at the Asian Games in Nagoya on Friday, winning India’s first-ever pole vault medal with a 4.15m clearance for bronze in the women’s event.",
+      "category": "Sports",
+      "image": "https://cdn3.wionews.com/prod/wion/images/2026/20260925/image-1790345029748.jpg?imwidth=1200&imheight=900",
+      "source": "WION",
+      "sourceUrl": "https://www.wionews.com/sports/baranica-elangovan-creates-history-with-india-s-first-asian-games-pole-vault-bronze-1790344177114",
+      "publishedAt": "2026-09-25T14:37:00.000Z",
+      "fetchedAt": "2026-09-25T17:05:29.800Z",
+      "title_hi": "बारानिका एलंगोवन ने भारत के पहले एशियाई खेलों पोल वॉल्ट कांस्य के साथ इतिहास रचा",
+      "summary_hi": "बारानिका एलंगोवन ने शुक्रवार को नागोया में एशियाई खेलों में महिलाओं की स्पर्धा में कांस्य के लिए 4.15 मीटर क्लीयरेंस के साथ भारत का पहला पोल वॉल्ट पदक जीतकर इतिहास रच दिया।",
+      "category_hi": "खेल",
+      "title_hinglish": "baranika elangovana ne bharata ke pahale eshiyaee khelon pola volta kansya ke satha itihasa racha",
+      "summary_hinglish": "baranika elangovana ne shukravara ko nagoya men eshiyaee khelon men mahilaon ki spardha men kansya ke lie 4.15 mitara kliyarensa ke satha bharata ka pahala pola volta padaka jitakara itihasa racha diya।",
+      "category_hinglish": "Sports"
     },
     {
       "id": "1e1158728f39c753",
@@ -360,23 +428,6 @@
       "category_hinglish": "National aur Trending News"
     },
     {
-      "id": "e4bcfc1cb66f77e6",
-      "title": "Aiven launches India operations; plans expansion in Bengaluru",
-      "summary": "Aiven launches India operations, expanding Bengaluru team and partner ecosystem to accelerate AI, cloud, and data platform expansion.",
-      "category": "Technology",
-      "image": "https://th-i.thgim.com/public/business/yt806w/article71509332.ece/alternates/LANDSCAPE_1200/Aiven.jpg",
-      "source": "The Hindu",
-      "sourceUrl": "https://www.thehindu.com/business/Industry/aiven-launches-india-operations-plans-expansion-in-bengaluru/article71508882.ece",
-      "publishedAt": "2026-09-25T14:19:13.000Z",
-      "fetchedAt": "2026-09-25T14:46:41.823Z",
-      "title_hi": "एवेन ने भारत में परिचालन शुरू किया; बेंगलुरु में विस्तार की योजना",
-      "summary_hi": "एवेन ने एआई, क्लाउड और डेटा प्लेटफ़ॉर्म विस्तार में तेजी लाने के लिए बेंगलुरु टीम और पार्टनर इकोसिस्टम का विस्तार करते हुए भारत में परिचालन शुरू किया।",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "evena ne bharata men parichalana shuru kiy; bengaluru men vistara ki yojana",
-      "summary_hinglish": "evena ne eaaee, klauda aura deta pletaphaॉrma vistara men teji lane ke lie bengaluru tima aura partanara ikosistama ka vistara karate hue bharata men parichalana shuru kiya।",
-      "category_hinglish": "Technology"
-    },
-    {
       "id": "c5f7e8ee9080ec31",
       "title": "The Vvaan X Review: Why Is Sidharth Malhotra, Tamannaah Bhatia's Movie Being Hailed In UP, Bihar?",
       "summary": "The Vvaan X Review: Sidharth Malhotra and Tamannaah Bhatia's The Vvaan: Force of the Forest is out in theatres. Early X reviews are largely positive, especially for its depiction of Chhath Puja and Bihar's culture.",
@@ -392,6 +443,23 @@
       "title_hinglish": "da vvana eksa rivyu: siddhartha malhotr, tamanna bhatiya ki philma ki yupi, bihara men kyon ho rahi hai sarahan?",
       "summary_hinglish": "da vavana eksa rivyu: siddhartha malhotra aura tamanna bhatiya ki da vavan: phorsa ऑpha da phoresta sinemagharon men rilija ho gaee hai। shuruaati eksa samikshaen kaphi hada taka sakaratmaka hain, khasakara chhatha puja aura bihara ki sanskriti ke chitrana ke lie।",
       "category_hinglish": "Entertainment"
+    },
+    {
+      "id": "e4bcfc1cb66f77e6",
+      "title": "Aiven launches India operations; plans expansion in Bengaluru",
+      "summary": "Aiven launches India operations, expanding Bengaluru team and partner ecosystem to accelerate AI, cloud, and data platform expansion.",
+      "category": "Technology",
+      "image": "https://th-i.thgim.com/public/business/yt806w/article71509332.ece/alternates/LANDSCAPE_1200/Aiven.jpg",
+      "source": "The Hindu",
+      "sourceUrl": "https://www.thehindu.com/business/Industry/aiven-launches-india-operations-plans-expansion-in-bengaluru/article71508882.ece",
+      "publishedAt": "2026-09-25T14:19:13.000Z",
+      "fetchedAt": "2026-09-25T14:46:41.823Z",
+      "title_hi": "एवेन ने भारत में परिचालन शुरू किया; बेंगलुरु में विस्तार की योजना",
+      "summary_hi": "एवेन ने एआई, क्लाउड और डेटा प्लेटफ़ॉर्म विस्तार में तेजी लाने के लिए बेंगलुरु टीम और पार्टनर इकोसिस्टम का विस्तार करते हुए भारत में परिचालन शुरू किया।",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "evena ne bharata men parichalana shuru kiy; bengaluru men vistara ki yojana",
+      "summary_hinglish": "evena ne eaaee, klauda aura deta pletaphaॉrma vistara men teji lane ke lie bengaluru tima aura partanara ikosistama ka vistara karate hue bharata men parichalana shuru kiya।",
+      "category_hinglish": "Technology"
     },
     {
       "id": "8b4c2ecde1478728",
@@ -479,23 +547,6 @@
       "category_hinglish": "Sports"
     },
     {
-      "id": "f614a2049b42231c",
-      "title": "Devialet launches luxury Phantom Pulse Blue speaker, hopes its tech and experience will woo Indians",
-      "summary": "Devialet has launched its luxury Phantom Pulse Blue speaker in India. This is a pricey and high-end audio product. In a conversation with India Today Tech, Henri Herve, company’s APAC head, explains how the company plans to woo Indian consumers.",
-      "category": "Technology",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/henri-herve--partner-manager--asia--technical-solutions-ambassador--apac--devialet-255031645-16x9_0.png?VersionId=9uooG5qgXrixYolDdxtoihEUoc34nFR_",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/amp/technology/features/story/devialet-launches-luxury-phantom-pulse-blue-speaker-hopes-its-tech-and-experience-will-woo-indians-3003024-2026-09-25",
-      "publishedAt": "2026-09-25T13:32:56.000Z",
-      "fetchedAt": "2026-09-25T13:38:48.651Z",
-      "title_hi": "डेविएलेट ने लक्ज़री फैंटम पल्स ब्लू स्पीकर लॉन्च किया, उम्मीद है कि इसकी तकनीक और अनुभव भारतीयों को लुभाएगा",
-      "summary_hi": "डेविएलेट ने भारत में अपना लग्जरी फैंटम पल्स ब्लू स्पीकर लॉन्च किया है। यह एक महंगा और उच्च गुणवत्ता वाला ऑडियो उत्पाद है। इंडिया टुडे टेक से बातचीत में कंपनी के APAC हेड हेनरी हर्वे बताते हैं कि कंपनी किस तरह भारतीय उपभोक्ताओं को लुभाने की योजना बना रही है.",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "devieleta ne lakjari phaintama palsa blu spikara loncha kiy, ummida hai ki isaki takanika aura anubhava bharatiyon ko lubhaega",
-      "summary_hinglish": "devieleta ne bharata men apana lagjari phaintama palsa blu spikara loncha kiya hai। yaha eka mahanga aura uchcha gunavatta vala ऑdiyo utpada hai। indiya tude teka se batachita men kanpani ke APAC heda henari harve batate hain ki kanpani kisa taraha bharatiya upabhoktaon ko lubhane ki yojana bana rahi hai.",
-      "category_hinglish": "Technology"
-    },
-    {
       "id": "634ecb4091ac43ed",
       "title": "Bihar Police raid Khanna house in Rs 35 lakh Bitcoin fraud case, accused duo missing",
       "summary": "A team from Bihar Police conducted a raid at a house on Amloh Road in Khanna early Thursday in connection with an alleged Rs 35 lakh Bitcoin investment fraud case.",
@@ -511,6 +562,23 @@
       "title_hinglish": "35 lakha rupaye ke bitakoina dhokhadhadaी mamale men bihara pulisa ne khanna hausa para chhapa mar, aaropi yugala gayaba",
       "summary_hinglish": "bihara pulisa ki eka tima ne kathita 35 lakha rupaye ke bitakoina nivesha dhokhadhadaी mamale men guruvara tadake khanna ke amaloha roda sthita eka ghara para chhapemari ki।",
       "category_hinglish": "Crime aur Breaking News"
+    },
+    {
+      "id": "f614a2049b42231c",
+      "title": "Devialet launches luxury Phantom Pulse Blue speaker, hopes its tech and experience will woo Indians",
+      "summary": "Devialet has launched its luxury Phantom Pulse Blue speaker in India. This is a pricey and high-end audio product. In a conversation with India Today Tech, Henri Herve, company’s APAC head, explains how the company plans to woo Indian consumers.",
+      "category": "Technology",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/henri-herve--partner-manager--asia--technical-solutions-ambassador--apac--devialet-255031645-16x9_0.png?VersionId=9uooG5qgXrixYolDdxtoihEUoc34nFR_",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/amp/technology/features/story/devialet-launches-luxury-phantom-pulse-blue-speaker-hopes-its-tech-and-experience-will-woo-indians-3003024-2026-09-25",
+      "publishedAt": "2026-09-25T13:32:56.000Z",
+      "fetchedAt": "2026-09-25T13:38:48.651Z",
+      "title_hi": "डेविएलेट ने लक्ज़री फैंटम पल्स ब्लू स्पीकर लॉन्च किया, उम्मीद है कि इसकी तकनीक और अनुभव भारतीयों को लुभाएगा",
+      "summary_hi": "डेविएलेट ने भारत में अपना लग्जरी फैंटम पल्स ब्लू स्पीकर लॉन्च किया है। यह एक महंगा और उच्च गुणवत्ता वाला ऑडियो उत्पाद है। इंडिया टुडे टेक से बातचीत में कंपनी के APAC हेड हेनरी हर्वे बताते हैं कि कंपनी किस तरह भारतीय उपभोक्ताओं को लुभाने की योजना बना रही है.",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "devieleta ne lakjari phaintama palsa blu spikara loncha kiy, ummida hai ki isaki takanika aura anubhava bharatiyon ko lubhaega",
+      "summary_hinglish": "devieleta ne bharata men apana lagjari phaintama palsa blu spikara loncha kiya hai। yaha eka mahanga aura uchcha gunavatta vala ऑdiyo utpada hai। indiya tude teka se batachita men kanpani ke APAC heda henari harve batate hain ki kanpani kisa taraha bharatiya upabhoktaon ko lubhane ki yojana bana rahi hai.",
+      "category_hinglish": "Technology"
     },
     {
       "id": "300508ee19d48e80",
@@ -530,23 +598,6 @@
       "category_hinglish": "Politics aur Government"
     },
     {
-      "id": "30f9ccdc0fe72b0e",
-      "title": "IMC 2026 launches ‘Viksit Tech 47’ platform to build Indian technology brands for global markets",
-      "summary": "India Mobile Congress (IMC) 2026 has launched ‘Viksit Tech 47’, a new platform to identify and support Indian technology companies and leaders with the aim of helping them build global brands and strengthen India’s position in the global technology value chain, according to a release by the company.",
-      "category": "Technology",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTgxMDI2MWUwLWI4ZTMtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
-      "source": "The Tribune",
-      "sourceUrl": "https://www.tribuneindia.com/news/business/imc-2026-launches-viksit-tech-47-platform-to-build-indian-technology-brands-for-global-markets/",
-      "publishedAt": "2026-09-25T13:17:40.000Z",
-      "fetchedAt": "2026-09-25T14:29:01.053Z",
-      "title_hi": "IMC 2026 ने वैश्विक बाजारों के लिए भारतीय प्रौद्योगिकी ब्रांड बनाने के लिए 'विक्सिट टेक 47' प्लेटफॉर्म लॉन्च किया",
-      "summary_hi": "कंपनी की एक विज्ञप्ति के अनुसार, इंडिया मोबाइल कांग्रेस (आईएमसी) 2026 ने वैश्विक ब्रांड बनाने और वैश्विक प्रौद्योगिकी मूल्य श्रृंखला में भारत की स्थिति को मजबूत करने में मदद करने के उद्देश्य से भारतीय प्रौद्योगिकी कंपनियों और नेताओं की पहचान और समर्थन करने के लिए एक नया मंच 'विक्सिट टेक 47' लॉन्च किया है।",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "IMC 2026 ne vaishvika bajaron ke lie bharatiya praudyogiki branda banane ke lie 'viksita teka 47' pletaphorma loncha kiya",
-      "summary_hinglish": "kanpani ki eka vijnyapti ke anusar, indiya mobaila kangresa (aaeeemasi) 2026 ne vaishvika branda banane aura vaishvika praudyogiki mulya shrrinkhala men bharata ki sthiti ko majabuta karane men madada karane ke uddeshya se bharatiya praudyogiki kanpaniyon aura netaon ki pahachana aura samarthana karane ke lie eka naya mancha 'viksita teka 47' loncha kiya hai।",
-      "category_hinglish": "Technology"
-    },
-    {
       "id": "aef7c34b71cd6835",
       "title": "Patna school sports meet from Sept 30 to Oct 4",
       "summary": "The district-level school sports competition will be held from Sept 30 to Oct 4 at various sports grounds in Patna under the annual sports programme 2026-27. The event will give students an opportunity to showcase their sporting talent in competition.",
@@ -562,6 +613,23 @@
       "title_hinglish": "patana skula sportsa mita 30 sitanbara se 4 aktubara taka",
       "summary_hinglish": "varshika khela karyakrama 2026-27 ke tahata jila stariya vidyalaya khela pratiyogita 30 sitanbara se 4 aktubara taka patana ke vibhinna khela maidanon men aayojita ki jaegi। isa aayojana se chhatron ko pratiyogita men apani khela pratibha dikhane ka mauka milega।",
       "category_hinglish": "Sports"
+    },
+    {
+      "id": "30f9ccdc0fe72b0e",
+      "title": "IMC 2026 launches ‘Viksit Tech 47’ platform to build Indian technology brands for global markets",
+      "summary": "India Mobile Congress (IMC) 2026 has launched ‘Viksit Tech 47’, a new platform to identify and support Indian technology companies and leaders with the aim of helping them build global brands and strengthen India’s position in the global technology value chain, according to a release by the company.",
+      "category": "Technology",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTgxMDI2MWUwLWI4ZTMtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
+      "source": "The Tribune",
+      "sourceUrl": "https://www.tribuneindia.com/news/business/imc-2026-launches-viksit-tech-47-platform-to-build-indian-technology-brands-for-global-markets/",
+      "publishedAt": "2026-09-25T13:17:40.000Z",
+      "fetchedAt": "2026-09-25T14:29:01.053Z",
+      "title_hi": "IMC 2026 ने वैश्विक बाजारों के लिए भारतीय प्रौद्योगिकी ब्रांड बनाने के लिए 'विक्सिट टेक 47' प्लेटफॉर्म लॉन्च किया",
+      "summary_hi": "कंपनी की एक विज्ञप्ति के अनुसार, इंडिया मोबाइल कांग्रेस (आईएमसी) 2026 ने वैश्विक ब्रांड बनाने और वैश्विक प्रौद्योगिकी मूल्य श्रृंखला में भारत की स्थिति को मजबूत करने में मदद करने के उद्देश्य से भारतीय प्रौद्योगिकी कंपनियों और नेताओं की पहचान और समर्थन करने के लिए एक नया मंच 'विक्सिट टेक 47' लॉन्च किया है।",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "IMC 2026 ne vaishvika bajaron ke lie bharatiya praudyogiki branda banane ke lie 'viksita teka 47' pletaphorma loncha kiya",
+      "summary_hinglish": "kanpani ki eka vijnyapti ke anusar, indiya mobaila kangresa (aaeeemasi) 2026 ne vaishvika branda banane aura vaishvika praudyogiki mulya shrrinkhala men bharata ki sthiti ko majabuta karane men madada karane ke uddeshya se bharatiya praudyogiki kanpaniyon aura netaon ki pahachana aura samarthana karane ke lie eka naya mancha 'viksita teka 47' loncha kiya hai।",
+      "category_hinglish": "Technology"
     },
     {
       "id": "cd0c4e7b862e75c8",
@@ -649,23 +717,6 @@
       "category_hinglish": "Sports"
     },
     {
-      "id": "f0a8e399f94b8f2b",
-      "title": "Asian Games 2026: India medals tally and winners list - full table",
-      "summary": "Know list of India winners at the Asian Games 2026. Know medals tally and how many medals Indian athletes have won in each sport. Full table.",
-      "category": "Sports",
-      "image": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/v1790073400/primary/bu9ggjnikynkr9xbdl7g",
-      "source": "olympics.com",
-      "sourceUrl": "https://www.olympics.com/en/news/asian-games-2026-medal-tally-india-winners-table-list",
-      "publishedAt": "2026-09-25T12:46:00.000Z",
-      "fetchedAt": "2026-09-25T17:05:29.185Z",
-      "title_hi": "एशियाई खेल 2026: भारत की पदक तालिका और विजेताओं की सूची - पूरी तालिका",
-      "summary_hi": "एशियाई खेल 2026 में भारत के विजेताओं की सूची जानें। पदक तालिका जानें और भारतीय एथलीटों ने प्रत्येक खेल में कितने पदक जीते हैं। पूरी मेज.",
-      "category_hi": "खेल",
-      "title_hinglish": "eshiyaee khela 2026: bharata ki padaka talika aura vijetaon ki suchi - puri talika",
-      "summary_hinglish": "eshiyaee khela 2026 men bharata ke vijetaon ki suchi janen। padaka talika janen aura bharatiya ethaliton ne pratyeka khela men kitane padaka jite hain। puri mej.",
-      "category_hinglish": "Sports"
-    },
-    {
       "id": "da401641f60b2e9a",
       "title": "HT Evening News Brief Sept 24: 9 dead in Greater Noida fire tragedy, another teen harassed in Bihar | India News",
       "summary": "Here’s your evening news brief with the day’s top stories from politics, world affairs, sports, and entertainment.",
@@ -681,6 +732,23 @@
       "title_hinglish": "echati ivaninga nyuja bripha 24 sitanbar: gretara noeda men aaga lagane se 9 logon ki maut, bihara men eka aura kishora ko pareshana kiya gaya | bharata samachara",
       "summary_hinglish": "rajaniti, vishva mamalon, khela aura manoranjana se dina ki shirsha kahaniyon ke satha yahan aapaki shama ki khabaren sankshipta hain।",
       "category_hinglish": "Politics aur Government"
+    },
+    {
+      "id": "f0a8e399f94b8f2b",
+      "title": "Asian Games 2026: India medals tally and winners list - full table",
+      "summary": "Know list of India winners at the Asian Games 2026. Know medals tally and how many medals Indian athletes have won in each sport. Full table.",
+      "category": "Sports",
+      "image": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/v1790073400/primary/bu9ggjnikynkr9xbdl7g",
+      "source": "olympics.com",
+      "sourceUrl": "https://www.olympics.com/en/news/asian-games-2026-medal-tally-india-winners-table-list",
+      "publishedAt": "2026-09-25T12:46:00.000Z",
+      "fetchedAt": "2026-09-25T17:22:22.054Z",
+      "title_hi": "एशियाई खेल 2026: भारत की पदक तालिका और विजेताओं की सूची - पूरी तालिका",
+      "summary_hi": "एशियाई खेल 2026 में भारत के विजेताओं की सूची जानें। पदक तालिका जानें और भारतीय एथलीटों ने प्रत्येक खेल में कितने पदक जीते हैं। पूरी मेज.",
+      "category_hi": "खेल",
+      "title_hinglish": "eshiyaee khela 2026: bharata ki padaka talika aura vijetaon ki suchi - puri talika",
+      "summary_hinglish": "eshiyaee khela 2026 men bharata ke vijetaon ki suchi janen। padaka talika janen aura bharatiya ethaliton ne pratyeka khela men kitane padaka jite hain। puri mej.",
+      "category_hinglish": "Sports"
     },
     {
       "id": "7187829f2db1403e",
@@ -700,23 +768,6 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "de29aa84ffe27029",
-      "title": "'No such commitment': Finance ministry denies agreeing to 5-day bank week ahead of strike, says report",
-      "summary": "The Finance Ministry has reportedly dismissed claims that it had agreed to the implementation of a five-day work week for banks, saying there was no such commitment from the ministry.",
-      "category": "Business & Finance",
-      "image": "https://static.toiimg.com/thumb/msid-134485523,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/no-such-commitment-finance-ministry-denies-agreeing-to-5-day-bank-week-ahead-of-strike-says-report/articleshow/134485106.cms",
-      "publishedAt": "2026-09-25T12:30:00.000Z",
-      "fetchedAt": "2026-09-25T12:46:50.782Z",
-      "title_hi": "'ऐसी कोई प्रतिबद्धता नहीं': रिपोर्ट में कहा गया है कि वित्त मंत्रालय ने हड़ताल से पहले 5-दिवसीय बैंक सप्ताह पर सहमति से इनकार किया है",
-      "summary_hi": "वित्त मंत्रालय ने कथित तौर पर उन दावों को खारिज कर दिया है कि वह बैंकों के लिए पांच-दिवसीय कार्य सप्ताह के कार्यान्वयन पर सहमत हो गया था, और कहा कि मंत्रालय की ओर से ऐसी कोई प्रतिबद्धता नहीं थी।",
-      "category_hi": "बिज़नेस और फाइनेंस",
-      "title_hinglish": "'aisi koee pratibaddhata nahin': riporta men kaha gaya hai ki vitta mantralaya ne hadatala se pahale 5-divasiya bainka saptaha para sahamati se inakara kiya hai",
-      "summary_hinglish": "vitta mantralaya ne kathita taura para una davon ko kharija kara diya hai ki vaha bainkon ke lie pancha-divasiya karya saptaha ke karyanvayana para sahamata ho gaya th, aura kaha ki mantralaya ki ora se aisi koee pratibaddhata nahin thi।",
-      "category_hinglish": "Business aur Finance"
-    },
-    {
       "id": "cf0bfa78a67528df",
       "title": "Jamui Molestation Accused Nandan Yadav's Father Arrested In 2003 Double Murder Case After 23 Years",
       "summary": "Police said Ganauri Yadav had been absconding in the case for nearly 23 years and was the only one among the 11 accused who had remained outside jail.",
@@ -732,6 +783,23 @@
       "title_hinglish": "jamuee chhedachhada ke aaropi nandana yadava ke pita 23 sala bada 2003 dabala mardara kesa men giraphtara",
       "summary_hinglish": "pulisa ne kaha ki ganauri yadava isa mamale men lagabhaga 23 varshon se pharara tha aura 11 aaropiyon men se ekamatra tha jo jela se bahara raha tha।",
       "category_hinglish": "Crime aur Breaking News"
+    },
+    {
+      "id": "de29aa84ffe27029",
+      "title": "'No such commitment': Finance ministry denies agreeing to 5-day bank week ahead of strike, says report",
+      "summary": "The Finance Ministry has reportedly dismissed claims that it had agreed to the implementation of a five-day work week for banks, saying there was no such commitment from the ministry.",
+      "category": "Business & Finance",
+      "image": "https://static.toiimg.com/thumb/msid-134485523,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/no-such-commitment-finance-ministry-denies-agreeing-to-5-day-bank-week-ahead-of-strike-says-report/articleshow/134485106.cms",
+      "publishedAt": "2026-09-25T12:30:00.000Z",
+      "fetchedAt": "2026-09-25T12:46:50.782Z",
+      "title_hi": "'ऐसी कोई प्रतिबद्धता नहीं': रिपोर्ट में कहा गया है कि वित्त मंत्रालय ने हड़ताल से पहले 5-दिवसीय बैंक सप्ताह पर सहमति से इनकार किया है",
+      "summary_hi": "वित्त मंत्रालय ने कथित तौर पर उन दावों को खारिज कर दिया है कि वह बैंकों के लिए पांच-दिवसीय कार्य सप्ताह के कार्यान्वयन पर सहमत हो गया था, और कहा कि मंत्रालय की ओर से ऐसी कोई प्रतिबद्धता नहीं थी।",
+      "category_hi": "बिज़नेस और फाइनेंस",
+      "title_hinglish": "'aisi koee pratibaddhata nahin': riporta men kaha gaya hai ki vitta mantralaya ne hadatala se pahale 5-divasiya bainka saptaha para sahamati se inakara kiya hai",
+      "summary_hinglish": "vitta mantralaya ne kathita taura para una davon ko kharija kara diya hai ki vaha bainkon ke lie pancha-divasiya karya saptaha ke karyanvayana para sahamata ho gaya th, aura kaha ki mantralaya ki ora se aisi koee pratibaddhata nahin thi।",
+      "category_hinglish": "Business aur Finance"
     },
     {
       "id": "2b28e9fa81099d71",
@@ -819,23 +887,6 @@
       "category_hinglish": "Crime aur Breaking News"
     },
     {
-      "id": "2b3f2d03c497aa54",
-      "title": "‘PM failed to protect national security’: Cong after US national VanDyke walks out on bail",
-      "summary": "Congress questions national security after US national VanDyke walks out on bail, alleging the PM failed to protect India’s interests.",
-      "category": "National & Trending News",
-      "image": "https://www.orissapost.com/wp-content/uploads/2026/09/VanDyke.jpg",
-      "source": "orissapost.com",
-      "sourceUrl": "https://www.orissapost.com/pm-failed-to-protect-national-security-cong-after-us-national-vandyke-walks-out-on-bail/",
-      "publishedAt": "2026-09-25T11:56:49.000Z",
-      "fetchedAt": "2026-09-25T14:46:54.895Z",
-      "title_hi": "'प्रधानमंत्री राष्ट्रीय सुरक्षा की रक्षा करने में विफल रहे': अमेरिकी नागरिक वैनडाइक के जमानत पर बाहर आने के बाद कांग्रेस",
-      "summary_hi": "अमेरिकी नागरिक वैनडाइक के जमानत पर बाहर आने के बाद कांग्रेस ने राष्ट्रीय सुरक्षा पर सवाल उठाया और आरोप लगाया कि प्रधानमंत्री भारत के हितों की रक्षा करने में विफल रहे।",
-      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
-      "title_hinglish": "'pradhanamantri rashtriya suraksha ki raksha karane men viphala rahe': ameriki nagarika vainadaika ke jamanata para bahara aane ke bada kangresa",
-      "summary_hinglish": "ameriki nagarika vainadaika ke jamanata para bahara aane ke bada kangresa ne rashtriya suraksha para savala uthaya aura aaropa lagaya ki pradhanamantri bharata ke hiton ki raksha karane men viphala rahe।",
-      "category_hinglish": "National aur Trending News"
-    },
-    {
       "id": "2866e0fdeea3c1a6",
       "title": "Removing salwar is not an attempt to rape: Supreme Court takes cognizance on Patna High Court’s judgment, cal",
       "summary": "In its July 9 judgment, the Patna High Court re-examined the evidence and concluded that the prosecution had failed to establish the necessary elements to prove the charge of attempted rape.",
@@ -851,6 +902,23 @@
       "title_hinglish": "salavara utarana repa ki koshisha nahin: suprima korta ne patana haee korta ke phaisale para liya sanjnyan, kaila",
       "summary_hinglish": "9 julaee ke apane phaisale men, patana uchcha nyayalaya ne sabuton ki phira se jancha ki aura nishkarsha nikala ki abhiyojana paksha balatkara ke prayasa ke aaropa ko sabita karane ke lie aavashyaka tatvon ko sthapita karane men viphala raha hai।",
       "category_hinglish": "Crime aur Breaking News"
+    },
+    {
+      "id": "2b3f2d03c497aa54",
+      "title": "‘PM failed to protect national security’: Cong after US national VanDyke walks out on bail",
+      "summary": "Congress questions national security after US national VanDyke walks out on bail, alleging the PM failed to protect India’s interests.",
+      "category": "National & Trending News",
+      "image": "https://www.orissapost.com/wp-content/uploads/2026/09/VanDyke.jpg",
+      "source": "orissapost.com",
+      "sourceUrl": "https://www.orissapost.com/pm-failed-to-protect-national-security-cong-after-us-national-vandyke-walks-out-on-bail/",
+      "publishedAt": "2026-09-25T11:56:49.000Z",
+      "fetchedAt": "2026-09-25T14:46:54.895Z",
+      "title_hi": "'प्रधानमंत्री राष्ट्रीय सुरक्षा की रक्षा करने में विफल रहे': अमेरिकी नागरिक वैनडाइक के जमानत पर बाहर आने के बाद कांग्रेस",
+      "summary_hi": "अमेरिकी नागरिक वैनडाइक के जमानत पर बाहर आने के बाद कांग्रेस ने राष्ट्रीय सुरक्षा पर सवाल उठाया और आरोप लगाया कि प्रधानमंत्री भारत के हितों की रक्षा करने में विफल रहे।",
+      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
+      "title_hinglish": "'pradhanamantri rashtriya suraksha ki raksha karane men viphala rahe': ameriki nagarika vainadaika ke jamanata para bahara aane ke bada kangresa",
+      "summary_hinglish": "ameriki nagarika vainadaika ke jamanata para bahara aane ke bada kangresa ne rashtriya suraksha para savala uthaya aura aaropa lagaya ki pradhanamantri bharata ke hiton ki raksha karane men viphala rahe।",
+      "category_hinglish": "National aur Trending News"
     },
     {
       "id": "32acea8beb321fe6",
@@ -870,23 +938,6 @@
       "category_hinglish": "Entertainment"
     },
     {
-      "id": "e42a2f443ef1880d",
-      "title": "‘Dorothy’ banned in Malaysia over LGBTQ-related content as Karthik Subbaraj’s Keerthy Suresh starrer open",
-      "summary": "Karthik Subbaraj’s 'Dorothy' has opened in Indian theatres on September 25, but the Tamil film’s international rollout has reportedly hit a roadblock in Malaysia. Reports from Tamil media claim that the film has been denied release in the country, allegedly over LGBTQ-related content.",
-      "category": "Entertainment",
-      "image": "https://static.toiimg.com/thumb/msid-134484366,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/dorothy-banned-in-malaysia-over-lgbtq-related-content-as-karthik-subbarajs-keerthy-suresh-starrer-opens-in-india-after-standing-ovation-at-tiff/articleshow/134484342.cms",
-      "publishedAt": "2026-09-25T11:43:00.000Z",
-      "fetchedAt": "2026-09-25T15:35:08.302Z",
-      "title_hi": "कार्तिक सुब्बाराज की कीर्ति सुरेश अभिनीत फिल्म रिलीज होते ही एलजीबीटीक्यू से संबंधित सामग्री को लेकर मलेशिया में 'डोरोथी' पर प्रतिबंध लगा दिया गया",
-      "summary_hi": "कार्तिक सुब्बाराज की 'डोरोथी' 25 सितंबर को भारतीय सिनेमाघरों में रिलीज हो गई है, लेकिन तमिल फिल्म की अंतरराष्ट्रीय रिलीज में कथित तौर पर मलेशिया में रुकावट आ गई है। तमिल मीडिया की रिपोर्टों में दावा किया गया है कि कथित तौर पर एलजीबीटीक्यू-संबंधित सामग्री के कारण फिल्म को देश में रिलीज करने से इनकार कर दिया गया है।",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "kartika subbaraja ki kirti suresha abhinita philma rilija hote hi elajibitikyu se sanbandhita samagri ko lekara maleshiya men 'dorothi' para pratibandha laga diya gaya",
-      "summary_hinglish": "kartika subbaraja ki 'dorothi' 25 sitanbara ko bharatiya sinemagharon men rilija ho gaee hai, lekina tamila philma ki antararashtriya rilija men kathita taura para maleshiya men rukavata aa gaee hai। tamila midiya ki riporton men dava kiya gaya hai ki kathita taura para elajibitikyu-sanbandhita samagri ke karana philma ko desha men rilija karane se inakara kara diya gaya hai।",
-      "category_hinglish": "Entertainment"
-    },
-    {
       "id": "2636c75b9ef58a40",
       "title": "Bhagalpur’s Sandis Compound Set to Host BCCI Domestic Cricket Matches, Preparations Underway",
       "summary": "Bhagalpur/Patna : The Sandis Compound Stadium in Bhagalpur is being prepared to host BCCI domestic cricket matches, marking a significant",
@@ -902,6 +953,23 @@
       "category_hinglish": "Sports",
       "title_hinglish": "bhagalapura ka saindisa kanpaunda bisisiaaee ke gharelu kriketa maichon ki mejabani ke lie taiyar, taiyari chala rahi hai",
       "summary_hinglish": "bhagalapura/patana : bhagalapura ke saindisa kanpaunda stediyama ko bisisiaaee ke gharelu kriketa maichon ki mejabani ke lie taiyara kiya ja raha hai, jo eka mahatvapurna upalabdhi hai"
+    },
+    {
+      "id": "e42a2f443ef1880d",
+      "title": "‘Dorothy’ banned in Malaysia over LGBTQ-related content as Karthik Subbaraj’s Keerthy Suresh starrer open",
+      "summary": "Karthik Subbaraj’s 'Dorothy' has opened in Indian theatres on September 25, but the Tamil film’s international rollout has reportedly hit a roadblock in Malaysia. Reports from Tamil media claim that the film has been denied release in the country, allegedly over LGBTQ-related content.",
+      "category": "Entertainment",
+      "image": "https://static.toiimg.com/thumb/msid-134484366,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/dorothy-banned-in-malaysia-over-lgbtq-related-content-as-karthik-subbarajs-keerthy-suresh-starrer-opens-in-india-after-standing-ovation-at-tiff/articleshow/134484342.cms",
+      "publishedAt": "2026-09-25T11:43:00.000Z",
+      "fetchedAt": "2026-09-25T15:35:08.302Z",
+      "title_hi": "कार्तिक सुब्बाराज की कीर्ति सुरेश अभिनीत फिल्म रिलीज होते ही एलजीबीटीक्यू से संबंधित सामग्री को लेकर मलेशिया में 'डोरोथी' पर प्रतिबंध लगा दिया गया",
+      "summary_hi": "कार्तिक सुब्बाराज की 'डोरोथी' 25 सितंबर को भारतीय सिनेमाघरों में रिलीज हो गई है, लेकिन तमिल फिल्म की अंतरराष्ट्रीय रिलीज में कथित तौर पर मलेशिया में रुकावट आ गई है। तमिल मीडिया की रिपोर्टों में दावा किया गया है कि कथित तौर पर एलजीबीटीक्यू-संबंधित सामग्री के कारण फिल्म को देश में रिलीज करने से इनकार कर दिया गया है।",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "kartika subbaraja ki kirti suresha abhinita philma rilija hote hi elajibitikyu se sanbandhita samagri ko lekara maleshiya men 'dorothi' para pratibandha laga diya gaya",
+      "summary_hinglish": "kartika subbaraja ki 'dorothi' 25 sitanbara ko bharatiya sinemagharon men rilija ho gaee hai, lekina tamila philma ki antararashtriya rilija men kathita taura para maleshiya men rukavata aa gaee hai। tamila midiya ki riporton men dava kiya gaya hai ki kathita taura para elajibitikyu-sanbandhita samagri ke karana philma ko desha men rilija karane se inakara kara diya gaya hai।",
+      "category_hinglish": "Entertainment"
     },
     {
       "id": "fc117ff00e05826d",
@@ -989,23 +1057,6 @@
       "category_hinglish": "Sports"
     },
     {
-      "id": "20f8d32a66acfe61",
-      "title": "Delhi riots: SC relaxes accused's bail condition, asks him to mark weekly attendance at crime branch",
-      "summary": "The Supreme Court relaxed the bail conditions for Meeran Haider, who is an accused in the 2020 Delhi riots case. Haider is now required to mark attendance at the Crime Branch police station every Saturday. His attendance for the dates of his wedding on October 17 and 24 has been…",
-      "category": "Crime & Breaking News",
-      "image": "https://img.etimg.com/thumb/msid-134483721,width-1200,height-630,imgsize-150832,overlay-economictimes/articleshow.jpg",
-      "source": "The Economic Times",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/india/delhi-riots-sc-relaxes-accuseds-bail-condition-asks-him-to-mark-weekly-attendance-at-crime-branch/articleshow/134482795.cms?from=mdr",
-      "publishedAt": "2026-09-25T11:21:32.000Z",
-      "fetchedAt": "2026-09-25T13:21:59.900Z",
-      "title_hi": "दिल्ली दंगे: SC ने आरोपी की जमानत शर्तों में ढील दी, उसे अपराध शाखा में साप्ताहिक उपस्थिति दर्ज कराने को कहा",
-      "summary_hi": "सुप्रीम कोर्ट ने 2020 के दिल्ली दंगों के मामले में आरोपी मीरान हैदर की जमानत शर्तों में ढील दी। हैदर को अब हर शनिवार को क्राइम ब्रांच पुलिस स्टेशन में हाजिरी लगानी होगी। 17 और 24 अक्टूबर को उनकी शादी की तारीखों के लिए उनकी उपस्थिति...",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "dilli dange: SC ne aaropi ki jamanata sharton men dhila di, use aparadha shakha men saptahika upasthiti darja karane ko kaha",
-      "summary_hinglish": "suprima korta ne 2020 ke dilli dangon ke mamale men aaropi mirana haidara ki jamanata sharton men dhila di। haidara ko aba hara shanivara ko kraima brancha pulisa steshana men hajiri lagani hogi। 17 aura 24 aktubara ko unaki shadi ki tarikhon ke lie unaki upasthiti...",
-      "category_hinglish": "Crime aur Breaking News"
-    },
-    {
       "id": "70e321b27630d958",
       "title": "Bihar BJP MLA criticises own government for distributing ₹10,000 crore to JEEVIKA didis",
       "summary": "Bihar BJP MLA Vinay Bihari criticizes his government’s ₹10,000 crore distribution to JEEViKA didis, questioning its impact on development.",
@@ -1021,6 +1072,23 @@
       "title_hinglish": "bihara bhajapa vidhayaka ne jivika didiyon ko ₹10,000 karoda bantane ke lie apani hi sarakara ki aalochana ki",
       "summary_hinglish": "bihara bhajapa vidhayaka vinaya bihari ne apani sarakara dvara jivika didiyon ko ₹10,000 karoda die jane ki aalochana ki aura vikasa para isake prabhava para savala uthaya।",
       "category_hinglish": "Politics aur Government"
+    },
+    {
+      "id": "20f8d32a66acfe61",
+      "title": "Delhi riots: SC relaxes accused's bail condition, asks him to mark weekly attendance at crime branch",
+      "summary": "The Supreme Court relaxed the bail conditions for Meeran Haider, who is an accused in the 2020 Delhi riots case. Haider is now required to mark attendance at the Crime Branch police station every Saturday. His attendance for the dates of his wedding on October 17 and 24 has been…",
+      "category": "Crime & Breaking News",
+      "image": "https://img.etimg.com/thumb/msid-134483721,width-1200,height-630,imgsize-150832,overlay-economictimes/articleshow.jpg",
+      "source": "The Economic Times",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/delhi-riots-sc-relaxes-accuseds-bail-condition-asks-him-to-mark-weekly-attendance-at-crime-branch/articleshow/134482795.cms?from=mdr",
+      "publishedAt": "2026-09-25T11:21:32.000Z",
+      "fetchedAt": "2026-09-25T13:21:59.900Z",
+      "title_hi": "दिल्ली दंगे: SC ने आरोपी की जमानत शर्तों में ढील दी, उसे अपराध शाखा में साप्ताहिक उपस्थिति दर्ज कराने को कहा",
+      "summary_hi": "सुप्रीम कोर्ट ने 2020 के दिल्ली दंगों के मामले में आरोपी मीरान हैदर की जमानत शर्तों में ढील दी। हैदर को अब हर शनिवार को क्राइम ब्रांच पुलिस स्टेशन में हाजिरी लगानी होगी। 17 और 24 अक्टूबर को उनकी शादी की तारीखों के लिए उनकी उपस्थिति...",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "dilli dange: SC ne aaropi ki jamanata sharton men dhila di, use aparadha shakha men saptahika upasthiti darja karane ko kaha",
+      "summary_hinglish": "suprima korta ne 2020 ke dilli dangon ke mamale men aaropi mirana haidara ki jamanata sharton men dhila di। haidara ko aba hara shanivara ko kraima brancha pulisa steshana men hajiri lagani hogi। 17 aura 24 aktubara ko unaki shadi ki tarikhon ke lie unaki upasthiti...",
+      "category_hinglish": "Crime aur Breaking News"
     },
     {
       "id": "1efcea2536aaa0f6",
@@ -1040,23 +1108,6 @@
       "category_hinglish": "Sports"
     },
     {
-      "id": "e45ad2c38436f7bb",
-      "title": "New institute to study how AI can boost livelihoods, incomes in India",
-      "summary": "New Institute for Human Flourishing launched in India to test human artificial intelligence models and boost incomes for workers in India informal economy through practical workforce innovation and policy research.",
-      "category": "Technology",
-      "image": "https://media.assettype.com/deccanherald%2F2026-09-25%2Frvlxmxwi%2FChatGPT-Image-Sep-25-2026-041309-PM.png?rect=0%2C25%2C1672%2C878&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
-      "source": "Deccan Herald",
-      "sourceUrl": "https://www.deccanherald.com/technology/artificial-intelligence/new-institute-to-study-how-ai-can-boost-livelihoods-incomes-in-india-4159372",
-      "publishedAt": "2026-09-25T10:45:56.000Z",
-      "fetchedAt": "2026-09-25T11:01:13.705Z",
-      "title_hi": "एआई भारत में आजीविका, आय को कैसे बढ़ावा दे सकता है इसका अध्ययन करने के लिए नया संस्थान",
-      "summary_hi": "मानव कृत्रिम बुद्धि मॉडल का परीक्षण करने और व्यावहारिक कार्यबल नवाचार और नीति अनुसंधान के माध्यम से भारत की अनौपचारिक अर्थव्यवस्था में श्रमिकों के लिए आय बढ़ाने के लिए भारत में मानव उत्कर्ष के लिए नया संस्थान लॉन्च किया गया।",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "eaaee bharata men aajivik, aaya ko kaise badhaाva de sakata hai isaka adhyayana karane ke lie naya sansthana",
-      "summary_hinglish": "manava kritrima buddhi modala ka parikshana karane aura vyavaharika karyabala navachara aura niti anusandhana ke madhyama se bharata ki anaupacharika arthavyavastha men shramikon ke lie aaya badhaाne ke lie bharata men manava utkarsha ke lie naya sansthana loncha kiya gaya।",
-      "category_hinglish": "Technology"
-    },
-    {
       "id": "8622e9889c47c0f6",
       "title": "Bengaluru-based startup founder says he stopped recruiting men from Bihar, UP, Rajasthan, MP; netizens div",
       "summary": "A Bengaluru entrepreneur has announced a hiring restriction covering male candidates from Uttar Pradesh, Rajasthan, Bihar and Madhya Pradesh, citing an alleged incident involving a former employee. Karthik SG said the employee had been dismissed after warnings over alleged abusive conduct towards female staff. The announcement drew mixed online responses,…",
@@ -1071,6 +1122,23 @@
       "category_hi": "टेक्नोलॉजी",
       "title_hinglish": "bengaluru sthita startaapa sansthapaka ka kahana hai ki unhonne bihar, yupi, rajasthan, emapi se purushon ki bharti banda kara di hai; netijensa diva",
       "summary_hinglish": "bengaluru ke eka udyami ne eka purva karmachari se judaी eka kathita ghatana ka havala dete hue uttara pradesh, rajasthan, bihara aura madhya pradesha ke purusha ummidavaron ko shamila karate hue niyukti para pratibandha lagane ki ghoshana ki hai। kartika esaji ne kaha ki mahila karmachariyon ke prati kathita apamanajanaka aacharana para chetavani ke bada karmachari ko barkhasta kara diya gaya tha। ghoshana ko mishrita ऑnalaina pratikriyaen milin,…",
+      "category_hinglish": "Technology"
+    },
+    {
+      "id": "e45ad2c38436f7bb",
+      "title": "New institute to study how AI can boost livelihoods, incomes in India",
+      "summary": "New Institute for Human Flourishing launched in India to test human artificial intelligence models and boost incomes for workers in India informal economy through practical workforce innovation and policy research.",
+      "category": "Technology",
+      "image": "https://media.assettype.com/deccanherald%2F2026-09-25%2Frvlxmxwi%2FChatGPT-Image-Sep-25-2026-041309-PM.png?rect=0%2C25%2C1672%2C878&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
+      "source": "Deccan Herald",
+      "sourceUrl": "https://www.deccanherald.com/technology/artificial-intelligence/new-institute-to-study-how-ai-can-boost-livelihoods-incomes-in-india-4159372",
+      "publishedAt": "2026-09-25T10:45:56.000Z",
+      "fetchedAt": "2026-09-25T11:01:13.705Z",
+      "title_hi": "एआई भारत में आजीविका, आय को कैसे बढ़ावा दे सकता है इसका अध्ययन करने के लिए नया संस्थान",
+      "summary_hi": "मानव कृत्रिम बुद्धि मॉडल का परीक्षण करने और व्यावहारिक कार्यबल नवाचार और नीति अनुसंधान के माध्यम से भारत की अनौपचारिक अर्थव्यवस्था में श्रमिकों के लिए आय बढ़ाने के लिए भारत में मानव उत्कर्ष के लिए नया संस्थान लॉन्च किया गया।",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "eaaee bharata men aajivik, aaya ko kaise badhaाva de sakata hai isaka adhyayana karane ke lie naya sansthana",
+      "summary_hinglish": "manava kritrima buddhi modala ka parikshana karane aura vyavaharika karyabala navachara aura niti anusandhana ke madhyama se bharata ki anaupacharika arthavyavastha men shramikon ke lie aaya badhaाne ke lie bharata men manava utkarsha ke lie naya sansthana loncha kiya gaya।",
       "category_hinglish": "Technology"
     },
     {
@@ -1159,23 +1227,6 @@
       "category_hinglish": "Entertainment"
     },
     {
-      "id": "b7184f03dd2819f7",
-      "title": "Chevron ENGINE, IIT Madras launch energy technology incubation programme",
-      "summary": "The Chevron-IITM Energy Technology Incubation Programme aims to support innovative solutions for the energy sector, focusing on technology advancements in energy infrastructure, carbon utilization, and the circular economy.",
-      "category": "Technology",
-      "image": "https://etimg.etb2bimg.com/thumb/msid-134482386,imgsize-203292,width-1200,height=627,overlay-eteducation,resizemode-75/news/partnerships-and-collaborations/chevron-engine-iit-madras-launch-energy-technology-incubation-programme.jpg",
-      "source": "ET Education",
-      "sourceUrl": "https://education.economictimes.indiatimes.com/amp/news/partnerships-and-collaborations/chevron-engine-iit-madras-launch-energy-technology-incubation-programme/134482386",
-      "publishedAt": "2026-09-25T10:30:12.000Z",
-      "fetchedAt": "2026-09-25T11:50:45.303Z",
-      "title_hi": "शेवरॉन इंजन, आईआईटी मद्रास ने ऊर्जा प्रौद्योगिकी ऊष्मायन कार्यक्रम लॉन्च किया",
-      "summary_hi": "शेवरॉन-आईआईटीएम एनर्जी टेक्नोलॉजी इनक्यूबेशन प्रोग्राम का उद्देश्य ऊर्जा क्षेत्र के लिए नवीन समाधानों का समर्थन करना है, जो ऊर्जा बुनियादी ढांचे, कार्बन उपयोग और परिपत्र अर्थव्यवस्था में प्रौद्योगिकी प्रगति पर ध्यान केंद्रित करता है।",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "shevarona injan, aaeeaaeeti madrasa ne oorja praudyogiki ooshmayana karyakrama loncha kiya",
-      "summary_hinglish": "shevarona-aaeeaaeetiema enarji teknoloji inakyubeshana programa ka uddeshya oorja kshetra ke lie navina samadhanon ka samarthana karana hai, jo oorja buniyadi dhanche, karbana upayoga aura paripatra arthavyavastha men praudyogiki pragati para dhyana kendrita karata hai।",
-      "category_hinglish": "Technology"
-    },
-    {
       "id": "c33479da72e1e0c1",
       "title": "Jamui Horror: Accused Hareram Yadav Slapped By Local Lawyer On POCSO Court Premises",
       "summary": "The lawyer Akash Pandey said Hareram should be shot as the people of Jamui are ashamed of what he did, reports Rajesh Kumar.",
@@ -1191,6 +1242,23 @@
       "category_hinglish": "Crime aur Breaking News",
       "title_hinglish": "jamuee horar: pokso korta parisara men sthaniya vakila ne aaropi harerama yadava ko thappada mara",
       "summary_hinglish": "vakila aakasha pande ne kaha ki harerama ko goli mara deni chahie kyonki usane jo kiya usase jamuee ke loga sharminda hain, rajesha kumara ki riport."
+    },
+    {
+      "id": "b7184f03dd2819f7",
+      "title": "Chevron ENGINE, IIT Madras launch energy technology incubation programme",
+      "summary": "The Chevron-IITM Energy Technology Incubation Programme aims to support innovative solutions for the energy sector, focusing on technology advancements in energy infrastructure, carbon utilization, and the circular economy.",
+      "category": "Technology",
+      "image": "https://etimg.etb2bimg.com/thumb/msid-134482386,imgsize-203292,width-1200,height=627,overlay-eteducation,resizemode-75/news/partnerships-and-collaborations/chevron-engine-iit-madras-launch-energy-technology-incubation-programme.jpg",
+      "source": "ET Education",
+      "sourceUrl": "https://education.economictimes.indiatimes.com/amp/news/partnerships-and-collaborations/chevron-engine-iit-madras-launch-energy-technology-incubation-programme/134482386",
+      "publishedAt": "2026-09-25T10:30:12.000Z",
+      "fetchedAt": "2026-09-25T11:50:45.303Z",
+      "title_hi": "शेवरॉन इंजन, आईआईटी मद्रास ने ऊर्जा प्रौद्योगिकी ऊष्मायन कार्यक्रम लॉन्च किया",
+      "summary_hi": "शेवरॉन-आईआईटीएम एनर्जी टेक्नोलॉजी इनक्यूबेशन प्रोग्राम का उद्देश्य ऊर्जा क्षेत्र के लिए नवीन समाधानों का समर्थन करना है, जो ऊर्जा बुनियादी ढांचे, कार्बन उपयोग और परिपत्र अर्थव्यवस्था में प्रौद्योगिकी प्रगति पर ध्यान केंद्रित करता है।",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "shevarona injan, aaeeaaeeti madrasa ne oorja praudyogiki ooshmayana karyakrama loncha kiya",
+      "summary_hinglish": "shevarona-aaeeaaeetiema enarji teknoloji inakyubeshana programa ka uddeshya oorja kshetra ke lie navina samadhanon ka samarthana karana hai, jo oorja buniyadi dhanche, karbana upayoga aura paripatra arthavyavastha men praudyogiki pragati para dhyana kendrita karata hai।",
+      "category_hinglish": "Technology"
     },
     {
       "id": "383928b7e98bfbf0",
@@ -1210,23 +1278,6 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "ef194479f6085d7e",
-      "title": "India Mobile Congress launches Viksit Tech 47 to take Indian technology brands global",
-      "summary": "India Mobile Congress 2026 launches Viksit Tech 47, a new platform to identify and support Indian technology companies going global. Discover how IMC’s 10th edition in New Delhi will spotlight AI, IoT, SaaS, deep tech, hardware innovation and more under the ‘Scale Without Boundaries’ theme.",
-      "category": "Technology",
-      "image": "https://media.fortuneindia.com/fortune-india/2026-09-25/vzgjypvl/IMC-2026-Theme.jpg?w=1200&ar=40:21&auto=format,compress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "source": "Fortune India",
-      "sourceUrl": "https://www.fortuneindia.com/technology/india-mobile-congress-launches-viksit-tech-47-to-take-indian-technology-brands-global/161219",
-      "publishedAt": "2026-09-25T10:21:26.000Z",
-      "fetchedAt": "2026-09-25T10:35:14.707Z",
-      "title_hi": "इंडिया मोबाइल कांग्रेस ने भारतीय प्रौद्योगिकी ब्रांडों को वैश्विक स्तर पर ले जाने के लिए विकसिट टेक 47 लॉन्च किया",
-      "summary_hi": "इंडिया मोबाइल कांग्रेस 2026 ने वैश्विक स्तर पर जाने वाली भारतीय प्रौद्योगिकी कंपनियों की पहचान करने और उनका समर्थन करने के लिए एक नया मंच विकीसिट टेक 47 लॉन्च किया। जानें कि कैसे नई दिल्ली में IMC का 10वां संस्करण 'स्केल विदाउट बाउंड्रीज़' थीम के तहत AI, IoT, SaaS, डीप टेक, हार्डवेयर इनोवेशन और बहुत कुछ पर प्रकाश डालेगा।",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "indiya mobaila kangresa ne bharatiya praudyogiki brandon ko vaishvika stara para le jane ke lie vikasita teka 47 loncha kiya",
-      "summary_hinglish": "indiya mobaila kangresa 2026 ne vaishvika stara para jane vali bharatiya praudyogiki kanpaniyon ki pahachana karane aura unaka samarthana karane ke lie eka naya mancha vikisita teka 47 loncha kiya। janen ki kaise naee dilli men IMC ka 10van sanskarana 'skela vidauta baundrija' thima ke tahata AI, IoT, SaaS, dipa tek, hardaveyara inoveshana aura bahuta kuchha para prakasha dalega।",
-      "category_hinglish": "Technology"
-    },
-    {
       "id": "eab5dd87718162e1",
       "title": "‘Bihari kahan nahi hain bhai’: He had just 2 hours to decide whether to move to Japan after getting a cam",
       "summary": "View this post on Instagram A post shared by Utsav Singh | Japan Wala Bihari (@japan_wala_bihari)",
@@ -1242,6 +1293,23 @@
       "category_hinglish": "National aur Trending News",
       "title_hinglish": "'bihari kahan nahin hain bhaee': kaima milane ke bada japana jana hai ya nahin, yaha taya karane ke lie unake pasa sirpha 2 ghante the",
       "summary_hinglish": "isa posta ko instagrama para dekhen utsava sinha dvara sajha ki gaee eka posta | japana vala bihari (@japan_walla_bihari)"
+    },
+    {
+      "id": "ef194479f6085d7e",
+      "title": "India Mobile Congress launches Viksit Tech 47 to take Indian technology brands global",
+      "summary": "India Mobile Congress 2026 launches Viksit Tech 47, a new platform to identify and support Indian technology companies going global. Discover how IMC’s 10th edition in New Delhi will spotlight AI, IoT, SaaS, deep tech, hardware innovation and more under the ‘Scale Without Boundaries’ theme.",
+      "category": "Technology",
+      "image": "https://media.fortuneindia.com/fortune-india/2026-09-25/vzgjypvl/IMC-2026-Theme.jpg?w=1200&ar=40:21&auto=format,compress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "Fortune India",
+      "sourceUrl": "https://www.fortuneindia.com/technology/india-mobile-congress-launches-viksit-tech-47-to-take-indian-technology-brands-global/161219",
+      "publishedAt": "2026-09-25T10:21:26.000Z",
+      "fetchedAt": "2026-09-25T10:35:14.707Z",
+      "title_hi": "इंडिया मोबाइल कांग्रेस ने भारतीय प्रौद्योगिकी ब्रांडों को वैश्विक स्तर पर ले जाने के लिए विकसिट टेक 47 लॉन्च किया",
+      "summary_hi": "इंडिया मोबाइल कांग्रेस 2026 ने वैश्विक स्तर पर जाने वाली भारतीय प्रौद्योगिकी कंपनियों की पहचान करने और उनका समर्थन करने के लिए एक नया मंच विकीसिट टेक 47 लॉन्च किया। जानें कि कैसे नई दिल्ली में IMC का 10वां संस्करण 'स्केल विदाउट बाउंड्रीज़' थीम के तहत AI, IoT, SaaS, डीप टेक, हार्डवेयर इनोवेशन और बहुत कुछ पर प्रकाश डालेगा।",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "indiya mobaila kangresa ne bharatiya praudyogiki brandon ko vaishvika stara para le jane ke lie vikasita teka 47 loncha kiya",
+      "summary_hinglish": "indiya mobaila kangresa 2026 ne vaishvika stara para jane vali bharatiya praudyogiki kanpaniyon ki pahachana karane aura unaka samarthana karane ke lie eka naya mancha vikisita teka 47 loncha kiya। janen ki kaise naee dilli men IMC ka 10van sanskarana 'skela vidauta baundrija' thima ke tahata AI, IoT, SaaS, dipa tek, hardaveyara inoveshana aura bahuta kuchha para prakasha dalega।",
+      "category_hinglish": "Technology"
     },
     {
       "id": "91269bec0f2f009f",
@@ -1329,23 +1397,6 @@
       "category_hinglish": "National aur Trending News"
     },
     {
-      "id": "3d1e5eecdfa9093f",
-      "title": "Jantar Mantar, Kolkata, Chandigarh streets: Congress launch nationwide protest against ECI | India News",
-      "summary": "In Delhi, party workers gathered at Jantar Mantar, where they raised slogans against Gyanesh Kumar as part of the Congress's nationwide agitation.",
-      "category": "Politics & Government",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/25/1600x900/logo/PTI09-25-2026-000216B-0_1790328241923_IePR_1790328269827_v2Ma_84aa0f46-d07b-44cd-87f6-865576846240_CYx1.jpg",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/india-news/jantar-mantar-kolkata-chandigarh-streets-congress-launch-nationwide-protest-against-eci-101790328122090-amp.html",
-      "publishedAt": "2026-09-25T09:50:24.000Z",
-      "fetchedAt": "2026-09-25T13:01:35.212Z",
-      "title_hi": "जंतर मंतर, कोलकाता, चंडीगढ़ की सड़कें: कांग्रेस ने ईसीआई के खिलाफ देशव्यापी विरोध प्रदर्शन शुरू किया | भारत समाचार",
-      "summary_hi": "दिल्ली में पार्टी कार्यकर्ता जंतर-मंतर पर एकत्र हुए, जहां उन्होंने कांग्रेस के राष्ट्रव्यापी आंदोलन के तहत ज्ञानेश कुमार के खिलाफ नारे लगाए।",
-      "category_hi": "राजनीति और सरकार",
-      "title_hinglish": "jantara mantar, kolakat, chandigadha ki sadaken: kangresa ne eesiaaee ke khilapha deshavyapi virodha pradarshana shuru kiya | bharata samachara",
-      "summary_hinglish": "dilli men parti karyakarta jantara-mantara para ekatra hue, jahan unhonne kangresa ke rashtravyapi aandolana ke tahata jnyanesha kumara ke khilapha nare lagae।",
-      "category_hinglish": "Politics aur Government"
-    },
-    {
       "id": "16d3d9323c1b5076",
       "title": "Beyond disgusting: Actor Ayesha Khan slams moral policing in Jamui assault case",
       "summary": "Ayesha Khan condemned the alleged assault of two minors in Jamui and questioned the justification of moral policing. Her remarks came amid outrage over the circulated video and a wider debate over harassment in the name of culture.",
@@ -1361,6 +1412,23 @@
       "title_hinglish": "ghrinita se pare: abhinetri aayasha khana ne jamuee hamale mamale men naitika pulisinga ki aalochana ki",
       "summary_hinglish": "aayasha khana ne jamuee men do nabaligon ke satha kathita marapita ki ninda ki aura naitika pulisinga ke auchitya para savala uthaya। unaki tippani prasarita vidiyo para aakrosha aura sanskriti ke nama para utpidana para vyapaka bahasa ke bicha aaee hai।",
       "category_hinglish": "Entertainment"
+    },
+    {
+      "id": "3d1e5eecdfa9093f",
+      "title": "Jantar Mantar, Kolkata, Chandigarh streets: Congress launch nationwide protest against ECI | India News",
+      "summary": "In Delhi, party workers gathered at Jantar Mantar, where they raised slogans against Gyanesh Kumar as part of the Congress's nationwide agitation.",
+      "category": "Politics & Government",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/25/1600x900/logo/PTI09-25-2026-000216B-0_1790328241923_IePR_1790328269827_v2Ma_84aa0f46-d07b-44cd-87f6-865576846240_CYx1.jpg",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/jantar-mantar-kolkata-chandigarh-streets-congress-launch-nationwide-protest-against-eci-101790328122090-amp.html",
+      "publishedAt": "2026-09-25T09:50:24.000Z",
+      "fetchedAt": "2026-09-25T13:01:35.212Z",
+      "title_hi": "जंतर मंतर, कोलकाता, चंडीगढ़ की सड़कें: कांग्रेस ने ईसीआई के खिलाफ देशव्यापी विरोध प्रदर्शन शुरू किया | भारत समाचार",
+      "summary_hi": "दिल्ली में पार्टी कार्यकर्ता जंतर-मंतर पर एकत्र हुए, जहां उन्होंने कांग्रेस के राष्ट्रव्यापी आंदोलन के तहत ज्ञानेश कुमार के खिलाफ नारे लगाए।",
+      "category_hi": "राजनीति और सरकार",
+      "title_hinglish": "jantara mantar, kolakat, chandigadha ki sadaken: kangresa ne eesiaaee ke khilapha deshavyapi virodha pradarshana shuru kiya | bharata samachara",
+      "summary_hinglish": "dilli men parti karyakarta jantara-mantara para ekatra hue, jahan unhonne kangresa ke rashtravyapi aandolana ke tahata jnyanesha kumara ke khilapha nare lagae।",
+      "category_hinglish": "Politics aur Government"
     },
     {
       "id": "c0cc3b3f0c72aa0e",
@@ -1380,23 +1448,6 @@
       "category_hinglish": "Sports"
     },
     {
-      "id": "58d27f9cc1d2eedb",
-      "title": "ET Now Live TV: Business News Live TV Online, Finance & Market News Live Streaming",
-      "summary": "ET Now LIVE TV: Watch ET Now Live TV for the latest Business News and stock market updates. Stay updated with live Business Today News on TV, top market stories, latest news clips by market experts on ET Now and real-time stock market coverage.",
-      "category": "Business & Finance",
-      "image": "https://images.etnownews.com/photo/msid-95762555/95762555.jpg",
-      "source": "ET Now",
-      "sourceUrl": "https://www.etnownews.com/live-tv",
-      "publishedAt": "2026-09-25T09:39:27.000Z",
-      "fetchedAt": "2026-09-25T12:02:43.008Z",
-      "title_hi": "ईटी नाउ लाइव टीवी: बिजनेस न्यूज लाइव टीवी ऑनलाइन, वित्त और बाजार समाचार लाइव स्ट्रीमिंग",
-      "summary_hi": "ईटी नाउ लाइव टीवी: नवीनतम बिजनेस समाचार और शेयर बाजार अपडेट के लिए ईटी नाउ लाइव टीवी देखें। टीवी पर लाइव बिजनेस टुडे समाचार, शीर्ष बाजार की कहानियां, ईटी नाउ पर बाजार विशेषज्ञों द्वारा नवीनतम समाचार क्लिप और वास्तविक समय शेयर बाजार कवरेज से अपडेट रहें।",
-      "category_hi": "बिज़नेस और फाइनेंस",
-      "title_hinglish": "eeti nau laiva tivi: bijanesa nyuja laiva tivi ऑnalain, vitta aura bajara samachara laiva striminga",
-      "summary_hinglish": "eeti nau laiva tivi: navinatama bijanesa samachara aura sheyara bajara apadeta ke lie eeti nau laiva tivi dekhen। tivi para laiva bijanesa tude samachar, shirsha bajara ki kahaniyan, eeti nau para bajara visheshajnyon dvara navinatama samachara klipa aura vastavika samaya sheyara bajara kavareja se apadeta rahen।",
-      "category_hinglish": "Business aur Finance"
-    },
-    {
       "id": "9c3b60417bc37015",
       "title": "Cyberfraud network busted, 4 held for cheating people of Rs3cr",
       "summary": "A joint team of Bihar Cyber Crime and Security Unit and Patna Cyber Police arrested four suspects and busted a cyberfraud network that allegedly cheated people of around Rs 3 crore across several states and abroad.",
@@ -1412,6 +1463,23 @@
       "title_hinglish": "saibara dhokhadhadaी netavarka ka bhandaphod, logon se 3 karoda rupaye ki dhokhadhadaी karane vale 4 giraphtara",
       "summary_hinglish": "bihara saibara aparadha aura suraksha ikaee aura patana saibara pulisa ki eka sanyukta tima ne chara sandigdhon ko giraphtara kiya aura eka saibara dhokhadhadaी netavarka ka bhandaphoda kiy, jisane kathita taura para kaee rajyon aura videshon men logon se lagabhaga 3 karoda rupaye ki dhokhadhadaी ki।",
       "category_hinglish": "Crime aur Breaking News"
+    },
+    {
+      "id": "58d27f9cc1d2eedb",
+      "title": "ET Now Live TV: Business News Live TV Online, Finance & Market News Live Streaming",
+      "summary": "ET Now LIVE TV: Watch ET Now Live TV for the latest Business News and stock market updates. Stay updated with live Business Today News on TV, top market stories, latest news clips by market experts on ET Now and real-time stock market coverage.",
+      "category": "Business & Finance",
+      "image": "https://images.etnownews.com/photo/msid-95762555/95762555.jpg",
+      "source": "ET Now",
+      "sourceUrl": "https://www.etnownews.com/live-tv",
+      "publishedAt": "2026-09-25T09:39:27.000Z",
+      "fetchedAt": "2026-09-25T12:02:43.008Z",
+      "title_hi": "ईटी नाउ लाइव टीवी: बिजनेस न्यूज लाइव टीवी ऑनलाइन, वित्त और बाजार समाचार लाइव स्ट्रीमिंग",
+      "summary_hi": "ईटी नाउ लाइव टीवी: नवीनतम बिजनेस समाचार और शेयर बाजार अपडेट के लिए ईटी नाउ लाइव टीवी देखें। टीवी पर लाइव बिजनेस टुडे समाचार, शीर्ष बाजार की कहानियां, ईटी नाउ पर बाजार विशेषज्ञों द्वारा नवीनतम समाचार क्लिप और वास्तविक समय शेयर बाजार कवरेज से अपडेट रहें।",
+      "category_hi": "बिज़नेस और फाइनेंस",
+      "title_hinglish": "eeti nau laiva tivi: bijanesa nyuja laiva tivi ऑnalain, vitta aura bajara samachara laiva striminga",
+      "summary_hinglish": "eeti nau laiva tivi: navinatama bijanesa samachara aura sheyara bajara apadeta ke lie eeti nau laiva tivi dekhen। tivi para laiva bijanesa tude samachar, shirsha bajara ki kahaniyan, eeti nau para bajara visheshajnyon dvara navinatama samachara klipa aura vastavika samaya sheyara bajara kavareja se apadeta rahen।",
+      "category_hinglish": "Business aur Finance"
     }
   ]
 }
