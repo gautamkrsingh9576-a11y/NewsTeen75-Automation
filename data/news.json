@@ -1,7 +1,24 @@
 {
-  "updatedAt": "2026-09-26T17:16:23.549Z",
-  "count": 87,
+  "updatedAt": "2026-09-26T17:31:57.159Z",
+  "count": 90,
   "articles": [
+    {
+      "id": "bffc35d2f1820dc9",
+      "title": "India at Asian Games 2026 September 27 schedule: Packed Day 8 awaits with gold medal clashes in squash, athletics",
+      "summary": "India will have medal opportunities in squash, athletics, weightlifting, equestrian and race walking at the Asian Games 2026 on September 27, along with high-stakes contests in badminton, archery, shooting and team sports.",
+      "category": "Sports",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/Anahat_Singh_1790443251479_HyZ7_1790443251708_5W1b_9e333798-7cc9-475b-93b3-01eeb03e71e8_2TdG.jpg",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/sports/news/india-at-asian-games-2026-september-27-schedule-packed-day-8-awaits-with-gold-medal-clashes-in-squash-athletics-11790441165836.html",
+      "publishedAt": "2026-09-26T17:22:58.000Z",
+      "fetchedAt": "2026-09-26T17:31:27.205Z",
+      "title_hi": "एशियाई खेल 2026 में भारत 27 सितंबर का कार्यक्रम: स्क्वैश, एथलेटिक्स में स्वर्ण पदक की भिड़ंत से भरा आठवां दिन",
+      "summary_hi": "भारत के पास 27 सितंबर को एशियाई खेल 2026 में स्क्वैश, एथलेटिक्स, भारोत्तोलन, घुड़सवारी और रेस वॉकिंग में पदक के अवसर होंगे, साथ ही बैडमिंटन, तीरंदाजी, शूटिंग और टीम खेलों में उच्च जोखिम वाली प्रतियोगिताएं होंगी।",
+      "category_hi": "खेल",
+      "title_hinglish": "eshiyaee khela 2026 men bharata 27 sitanbara ka karyakram: skvaish, ethaletiksa men svarna padaka ki bhidanta se bhara aathavan dina",
+      "summary_hinglish": "bharata ke pasa 27 sitanbara ko eshiyaee khela 2026 men skvaish, ethaletiks, bharottolan, ghudasavari aura resa vokinga men padaka ke avasara honge, satha hi baidamintan, tirandaji, shutinga aura tima khelon men uchcha jokhima vali pratiyogitaen hongi।",
+      "category_hinglish": "Sports"
+    },
     {
       "id": "8ebfa630e90de72b",
       "title": "Sitharaman on India’s 10%+ growth potential: Startups and technology can drive next phase",
@@ -17,23 +34,6 @@
       "category_hi": "टेक्नोलॉजी",
       "title_hinglish": "bharata ki 10%+ vikasa kshamata para sitaraman: startaapa aura praudyogiki agale charana ko aage badhaा sakate hain",
       "summary_hinglish": "sitaramana ne kaha ki majabuta aarthika vriddhi se desha ko aatmanirbhara bharata aura vikasita bharata ke lakshyon ki ora teji se badhane men madada milegi। halanki, unhonne kaha ki uchcha vikasa stara taka pahunchane ke lie samaja ke sabhi vargon se 'bahuta adhika prayasa' ki aavashyakata hogi",
-      "category_hinglish": "Technology"
-    },
-    {
-      "id": "172c4ba8dd2a41d3",
-      "title": "Air India crash probe: Pilots' body seeks formal consideration of its tech submissions",
-      "summary": "The Federation of Indian Pilots (FIP) has urged the civil aviation ministry to ensure that its technical submissions on the Air India AI171 crash are formally considered before the Aircraft Accident Investigation Bureau (AAIB) finalises its probe report.",
-      "category": "Technology",
-      "image": "https://static.toiimg.com/thumb/msid-134507456,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/air-india-crash-probe-pilots-body-seeks-formal-consideration-of-its-tech-submissions/articleshow/134507349.cms",
-      "publishedAt": "2026-09-26T16:11:00.000Z",
-      "fetchedAt": "2026-09-26T16:33:57.928Z",
-      "title_hi": "एयर इंडिया दुर्घटना जांच: पायलटों का निकाय अपनी तकनीकी प्रस्तुतियों पर औपचारिक विचार करना चाहता है",
-      "summary_hi": "फेडरेशन ऑफ इंडियन पायलट्स (एफआईपी) ने नागरिक उड्डयन मंत्रालय से यह सुनिश्चित करने का आग्रह किया है कि विमान दुर्घटना जांच ब्यूरो (एएआईबी) द्वारा अपनी जांच रिपोर्ट को अंतिम रूप देने से पहले एयर इंडिया एआई171 दुर्घटना पर उसकी तकनीकी प्रस्तुतियों पर औपचारिक रूप से विचार किया जाए।",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "eyara indiya durghatana janch: payalaton ka nikaya apani takaniki prastutiyon para aupacharika vichara karana chahata hai",
-      "summary_hinglish": "phedareshana ऑpha indiyana payalatsa (ephaaaeepi) ne nagarika uddayana mantralaya se yaha sunishchita karane ka aagraha kiya hai ki vimana durghatana jancha byuro (eeaaeebi) dvara apani jancha riporta ko antima rupa dene se pahale eyara indiya eaaee171 durghatana para usaki takaniki prastutiyon para aupacharika rupa se vichara kiya jae।",
       "category_hinglish": "Technology"
     },
     {
@@ -54,6 +54,23 @@
       "category_hinglish": "Crime aur Breaking News"
     },
     {
+      "id": "172c4ba8dd2a41d3",
+      "title": "Air India crash probe: Pilots' body seeks formal consideration of its tech submissions",
+      "summary": "The Federation of Indian Pilots (FIP) has urged the civil aviation ministry to ensure that its technical submissions on the Air India AI171 crash are formally considered before the Aircraft Accident Investigation Bureau (AAIB) finalises its probe report.",
+      "category": "Technology",
+      "image": "https://static.toiimg.com/thumb/msid-134507456,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/air-india-crash-probe-pilots-body-seeks-formal-consideration-of-its-tech-submissions/articleshow/134507349.cms",
+      "publishedAt": "2026-09-26T16:11:00.000Z",
+      "fetchedAt": "2026-09-26T16:33:57.928Z",
+      "title_hi": "एयर इंडिया दुर्घटना जांच: पायलटों का निकाय अपनी तकनीकी प्रस्तुतियों पर औपचारिक विचार करना चाहता है",
+      "summary_hi": "फेडरेशन ऑफ इंडियन पायलट्स (एफआईपी) ने नागरिक उड्डयन मंत्रालय से यह सुनिश्चित करने का आग्रह किया है कि विमान दुर्घटना जांच ब्यूरो (एएआईबी) द्वारा अपनी जांच रिपोर्ट को अंतिम रूप देने से पहले एयर इंडिया एआई171 दुर्घटना पर उसकी तकनीकी प्रस्तुतियों पर औपचारिक रूप से विचार किया जाए।",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "eyara indiya durghatana janch: payalaton ka nikaya apani takaniki prastutiyon para aupacharika vichara karana chahata hai",
+      "summary_hinglish": "phedareshana ऑpha indiyana payalatsa (ephaaaeepi) ne nagarika uddayana mantralaya se yaha sunishchita karane ka aagraha kiya hai ki vimana durghatana jancha byuro (eeaaeebi) dvara apani jancha riporta ko antima rupa dene se pahale eyara indiya eaaee171 durghatana para usaki takaniki prastutiyon para aupacharika rupa se vichara kiya jae।",
+      "category_hinglish": "Technology"
+    },
+    {
       "id": "06dba53343fc3d9c",
       "title": "IIT-Madras deep tech fund achieves ₹450 crore first close",
       "summary": "IIT Madras deep-tech fund Unicorn Frontier closes ₹450 crore first tranche, backing 4 startups and targeting 25 high-TRL, IP-led ventures.",
@@ -69,23 +86,6 @@
       "title_hinglish": "aaeeaaeeti-madrasa dipa teka phanda ne pahali bara ₹450 karoda ka aankadaा hasila kiya",
       "summary_hinglish": "aaeeaaeeti madrasa dipa-teka phanda yunikorna phrantiyara ne ₹450 karoda ki pahali kishta puri ki, 4 startaapa ko samarthana diya aura 25 uchcha-tiaarael, aaeepi-aadharita udyamon ko lakshita kiya।",
       "category_hinglish": "Technology"
-    },
-    {
-      "id": "52945db3671b0fe9",
-      "title": "Asian Games: India's Packed Schedule And Medal Hopes On September 27",
-      "summary": "Indian athletes are set for a busy day at the Asian Games on September 27, competing across a wide array of sports including athletics, archery, shooting, boxing, and squash. Several medal events are scheduled, with prominent athletes like Shaili Singh, Parul Chaudhary, Manu Bhaker, and PV Sindhu in action, aiming…",
-      "category": "Sports",
-      "image": "https://im.rediff.com/1200-630/sports/2019/nov/10tomar.jpg",
-      "source": "Rediff",
-      "sourceUrl": "https://www.rediff.com/sports/report/india-schedule-for-asian-games/20260926.htm",
-      "publishedAt": "2026-09-26T15:20:53.000Z",
-      "fetchedAt": "2026-09-26T15:47:56.024Z",
-      "title_hi": "एशियाई खेल: 27 सितंबर को भारत का व्यस्त कार्यक्रम और पदक की उम्मीदें",
-      "summary_hi": "भारतीय एथलीट 27 सितंबर को एशियाई खेलों में एक व्यस्त दिन के लिए तैयार हैं, जिसमें एथलेटिक्स, तीरंदाजी, निशानेबाजी, मुक्केबाजी और स्क्वैश सहित कई प्रकार के खेलों में प्रतिस्पर्धा होगी। कई पदक कार्यक्रम निर्धारित हैं, जिनमें शैली सिंह, पारुल चौधरी, मनु भाकर और पीवी सिंधु जैसे प्रमुख एथलीट शामिल होंगे, जिनका लक्ष्य...",
-      "category_hi": "खेल",
-      "title_hinglish": "eshiyaee khel: 27 sitanbara ko bharata ka vyasta karyakrama aura padaka ki ummiden",
-      "summary_hinglish": "bharatiya ethalita 27 sitanbara ko eshiyaee khelon men eka vyasta dina ke lie taiyara hain, jisamen ethaletiks, tirandaji, nishanebaji, mukkebaji aura skvaisha sahita kaee prakara ke khelon men pratispardha hogi। kaee padaka karyakrama nirdharita hain, jinamen shaili sinh, parula chaudhari, manu bhakara aura pivi sindhu jaise pramukha ethalita shamila honge, jinaka lakshy...",
-      "category_hinglish": "Sports"
     },
     {
       "id": "55d29fb029ceb324",
@@ -122,6 +122,23 @@
       "category_hinglish": "Technology"
     },
     {
+      "id": "61f86eb69661de46",
+      "title": "Man murdered in TN Pura, 3 held",
+      "summary": "Man murdered in T Narasipura over family dispute; police arrest three suspects. Victim Subhash, 35, attacked with knife; investigation underway.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/mysuru/man-murdered-in-tn-pura-3-held/articleshow/134506721.cms",
+      "publishedAt": "2026-09-26T15:03:00.000Z",
+      "fetchedAt": "2026-09-26T17:31:22.987Z",
+      "title_hi": "टीएन पुरा में एक व्यक्ति की हत्या, 3 गिरफ्तार",
+      "summary_hi": "टी नरसिपुरा में पारिवारिक विवाद को लेकर व्यक्ति की हत्या; पुलिस ने तीन संदिग्धों को गिरफ्तार किया. पीड़ित 35 वर्षीय सुभाष पर चाकू से हमला; जांच चल रही है.",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "tiena pura men eka vyakti ki haty, 3 giraphtara",
+      "summary_hinglish": "ti narasipura men parivarika vivada ko lekara vyakti ki haty; pulisa ne tina sandigdhon ko giraphtara kiy. pidaिta 35 varshiya subhasha para chaku se hamal; jancha chala rahi hai.",
+      "category_hinglish": "Crime aur Breaking News"
+    },
+    {
       "id": "c671591b52d65333",
       "title": "Tamil Nadu among pronounced drought hotspots as South Peninsular India sees strongest drought trend: study",
       "summary": "Tamil Nadu ranks as a major drought hotspot in South Peninsular India, with rising drought-affected areas and heat extremes, per a 1971–2022 regional climate study.",
@@ -137,6 +154,40 @@
       "title_hinglish": "dakshina prayadvipiya bharata ki taraha tamilanadu bhi sukhe ke hotaspota men shamil: adhyayana",
       "summary_hinglish": "1971-2022 ke kshetriya jalavayu adhyayana ke anusar, badhate sukha prabhavita kshetron aura atyadhika garmi ke sath, tamilanadu dakshina prayadvipiya bharata men eka pramukha sukha hotaspota ke rupa men shumara hai।",
       "category_hinglish": "National aur Trending News"
+    },
+    {
+      "id": "0fd2b8e1e638217a",
+      "title": "After Bankipur win, Prashant Kishor's party weighs Delhi expansion | India News",
+      "summary": "Supporters of Jan Suraaj in the national capital have been pressing for the party to establish a presence in Delhi.",
+      "category": "Politics & Government",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/26/1600x900/logo/Jan-Suraaj-Party-leader-Prashant-Kishor-arrives-at_1786968217381_1790409260340_aOC4_2475f880-bb66-47fc-810e-aed3b59049be_7pnl.jpg",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/prashant-kishor-jan-suraaj-party-bankipur-delhi-expansion-news-bihar-101790409031247-amp.html",
+      "publishedAt": "2026-09-26T08:42:30.000Z",
+      "fetchedAt": "2026-09-26T09:45:07.085Z",
+      "title_hi": "बांकीपुर जीत के बाद प्रशांत किशोर की पार्टी दिल्ली विस्तार पर विचार कर रही है | भारत समाचार",
+      "summary_hi": "राष्ट्रीय राजधानी में जन सुराज के समर्थक पार्टी पर दिल्ली में उपस्थिति स्थापित करने के लिए दबाव डाल रहे हैं।",
+      "category_hi": "राजनीति और सरकार",
+      "title_hinglish": "bankipura jita ke bada prashanta kishora ki parti dilli vistara para vichara kara rahi hai | bharata samachara",
+      "summary_hinglish": "rashtriya rajadhani men jana suraja ke samarthaka parti para dilli men upasthiti sthapita karane ke lie dabava dala rahe hain।",
+      "category_hinglish": "Politics aur Government"
+    },
+    {
+      "id": "3ae122de09a440ea",
+      "title": "Gauhati University Law College wins USTM’s All India Moot Court Competition",
+      "summary": "Shillong, Sept 26: University Law College, Gauhati University, emerged winner of the Moot Court Competition at the three-day All India Law Graduate Conclave 2026, organised by the University School of Law & Research, University of Science and Technology Meghalaya (USTM). The Gauhati University team comprising Dishamoni Deka, Adishree Hazarika and…",
+      "category": "Crime & Breaking News",
+      "image": "https://hubnetwork.in/wp-content/uploads/2026/09/All-India-Law-Graduate-Conclave-2026.jpeg",
+      "source": "Hub News",
+      "sourceUrl": "https://hubnetwork.in/gauhati-university-law-college-wins-ustms-all-india-moot-court-competition/",
+      "publishedAt": "2026-09-26T14:54:56.000Z",
+      "fetchedAt": "2026-09-26T17:31:21.909Z",
+      "title_hi": "गौहाटी यूनिवर्सिटी लॉ कॉलेज ने यूएसटीएम की अखिल भारतीय मूट कोर्ट प्रतियोगिता जीती",
+      "summary_hi": "शिलांग, 26 सितंबर: यूनिवर्सिटी स्कूल ऑफ लॉ एंड रिसर्च, यूनिवर्सिटी ऑफ साइंस एंड टेक्नोलॉजी मेघालय (यूएसटीएम) द्वारा आयोजित तीन दिवसीय ऑल इंडिया लॉ ग्रेजुएट कॉन्क्लेव 2026 में यूनिवर्सिटी लॉ कॉलेज, गौहाटी यूनिवर्सिटी मूट कोर्ट प्रतियोगिता का विजेता बना। गौहाटी विश्वविद्यालय की टीम में दिशामोनी डेका, आदिश्री हजारिका और…",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "gauhati yunivarsiti lo koleja ne yuesatiema ki akhila bharatiya muta korta pratiyogita jiti",
+      "summary_hinglish": "shilang, 26 sitanbar: yunivarsiti skula ऑpha lo enda risarch, yunivarsiti ऑpha sainsa enda teknoloji meghalaya (yuesatiema) dvara aayojita tina divasiya ऑla indiya lo grejueta konkleva 2026 men yunivarsiti lo kolej, gauhati yunivarsiti muta korta pratiyogita ka vijeta bana। gauhati vishvavidyalaya ki tima men dishamoni dek, aadishri hajarika aura…",
+      "category_hinglish": "Crime aur Breaking News"
     },
     {
       "id": "53bdb7b211342423",
@@ -156,21 +207,21 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "0fd2b8e1e638217a",
-      "title": "After Bankipur win, Prashant Kishor's party weighs Delhi expansion | India News",
-      "summary": "Supporters of Jan Suraaj in the national capital have been pressing for the party to establish a presence in Delhi.",
-      "category": "Politics & Government",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/26/1600x900/logo/Jan-Suraaj-Party-leader-Prashant-Kishor-arrives-at_1786968217381_1790409260340_aOC4_2475f880-bb66-47fc-810e-aed3b59049be_7pnl.jpg",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/india-news/prashant-kishor-jan-suraaj-party-bankipur-delhi-expansion-news-bihar-101790409031247-amp.html",
-      "publishedAt": "2026-09-26T08:42:30.000Z",
-      "fetchedAt": "2026-09-26T09:45:07.085Z",
-      "title_hi": "बांकीपुर जीत के बाद प्रशांत किशोर की पार्टी दिल्ली विस्तार पर विचार कर रही है | भारत समाचार",
-      "summary_hi": "राष्ट्रीय राजधानी में जन सुराज के समर्थक पार्टी पर दिल्ली में उपस्थिति स्थापित करने के लिए दबाव डाल रहे हैं।",
-      "category_hi": "राजनीति और सरकार",
-      "title_hinglish": "bankipura jita ke bada prashanta kishora ki parti dilli vistara para vichara kara rahi hai | bharata samachara",
-      "summary_hinglish": "rashtriya rajadhani men jana suraja ke samarthaka parti para dilli men upasthiti sthapita karane ke lie dabava dala rahe hain।",
-      "category_hinglish": "Politics aur Government"
+      "id": "b2cee53f8a5cf9b2",
+      "title": "Kriti Sanon shares cryptic Instagram post amid Jamui harassment and Delhi rape case: ‘It’s women vs patriarch",
+      "summary": "Kriti Sanon’s latest Instagram activity has caught attention amid the ongoing discussion around the Jamui harassment case. Here’s what the actress shared and why it has sparked conversation.",
+      "category": "Entertainment",
+      "image": "https://static.india.com/wp-content/uploads/2026/09/Kriti-Sanon-.png",
+      "source": "India.com",
+      "sourceUrl": "https://www.india.com/entertainment/bollywood/kriti-sanon-shares-cryptic-instagram-post-amid-jamui-harassment-and-delhi-rape-case-8530229/",
+      "publishedAt": "2026-09-26T07:27:11.000Z",
+      "fetchedAt": "2026-09-26T10:54:04.762Z",
+      "title_hi": "जमुई उत्पीड़न और दिल्ली बलात्कार मामले के बीच कृति सनोन ने गुप्त इंस्टाग्राम पोस्ट साझा किया: 'यह महिला बनाम पितृसत्ता है",
+      "summary_hi": "जमुई उत्पीड़न मामले को लेकर चल रही चर्चा के बीच कृति सेनन की नवीनतम इंस्टाग्राम गतिविधि ने ध्यान खींचा है। यहां बताया गया है कि अभिनेत्री ने क्या साझा किया और क्यों इसने चर्चा को बढ़ावा दिया है।",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "jamuee utpidana aura dilli balatkara mamale ke bicha kriti sanona ne gupta instagrama posta sajha kiy: 'yaha mahila banama pitrisatta hai",
+      "summary_hinglish": "jamuee utpidana mamale ko lekara chala rahi charcha ke bicha kriti senana ki navinatama instagrama gatividhi ne dhyana khincha hai। yahan bataya gaya hai ki abhinetri ne kya sajha kiya aura kyon isane charcha ko badhaाva diya hai।",
+      "category_hinglish": "Entertainment"
     },
     {
       "id": "7b0c4be02d815905",
@@ -207,20 +258,20 @@
       "category_hinglish": "Sports"
     },
     {
-      "id": "b2cee53f8a5cf9b2",
-      "title": "Kriti Sanon shares cryptic Instagram post amid Jamui harassment and Delhi rape case: ‘It’s women vs patriarch",
-      "summary": "Kriti Sanon’s latest Instagram activity has caught attention amid the ongoing discussion around the Jamui harassment case. Here’s what the actress shared and why it has sparked conversation.",
+      "id": "75f8a86af71d4e53",
+      "title": "'Vvan: Force of the Forrest' box office collection day 1: Sidharth Malhotra and Tamannaah Bhatia's film o",
+      "summary": "Force of the Forest ', starring Sidharth Malhotra and Tamannaah Bhatia, opened in theatres on September 25, 2026. The fantasy thriller takes place in an ancestral village in Bihar.",
       "category": "Entertainment",
-      "image": "https://static.india.com/wp-content/uploads/2026/09/Kriti-Sanon-.png",
-      "source": "India.com",
-      "sourceUrl": "https://www.india.com/entertainment/bollywood/kriti-sanon-shares-cryptic-instagram-post-amid-jamui-harassment-and-delhi-rape-case-8530229/",
-      "publishedAt": "2026-09-26T07:27:11.000Z",
-      "fetchedAt": "2026-09-26T10:54:04.762Z",
-      "title_hi": "जमुई उत्पीड़न और दिल्ली बलात्कार मामले के बीच कृति सनोन ने गुप्त इंस्टाग्राम पोस्ट साझा किया: 'यह महिला बनाम पितृसत्ता है",
-      "summary_hi": "जमुई उत्पीड़न मामले को लेकर चल रही चर्चा के बीच कृति सेनन की नवीनतम इंस्टाग्राम गतिविधि ने ध्यान खींचा है। यहां बताया गया है कि अभिनेत्री ने क्या साझा किया और क्यों इसने चर्चा को बढ़ावा दिया है।",
+      "image": "https://static.toiimg.com/thumb/msid-134496334,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/vvan-force-of-the-forrest-box-office-collection-day-1-sidharth-malhotra-and-tamannaah-bhatias-film-opens-with-rs-8-00-cr/articleshow/134495996.cms",
+      "publishedAt": "2026-09-26T03:11:00.000Z",
+      "fetchedAt": "2026-09-26T05:15:11.728Z",
+      "title_hi": "'व्वान: फोर्स ऑफ द फॉरेस्ट' का बॉक्स ऑफिस कलेक्शन दिन 1: सिद्धार्थ मल्होत्रा और तमन्ना भाटिया की फिल्म ओ",
+      "summary_hi": "सिद्धार्थ मल्होत्रा और तमन्ना भाटिया अभिनीत फोर्स ऑफ द फॉरेस्ट 25 सितंबर, 2026 को सिनेमाघरों में रिलीज हुई। फंतासी थ्रिलर बिहार के एक पैतृक गांव में होती है।",
       "category_hi": "मनोरंजन",
-      "title_hinglish": "jamuee utpidana aura dilli balatkara mamale ke bicha kriti sanona ne gupta instagrama posta sajha kiy: 'yaha mahila banama pitrisatta hai",
-      "summary_hinglish": "jamuee utpidana mamale ko lekara chala rahi charcha ke bicha kriti senana ki navinatama instagrama gatividhi ne dhyana khincha hai। yahan bataya gaya hai ki abhinetri ne kya sajha kiya aura kyon isane charcha ko badhaाva diya hai।",
+      "title_hinglish": "'vvan: phorsa ऑpha da phoresta' ka boksa ऑphisa kalekshana dina 1: siddhartha malhotra aura tamanna bhatiya ki philma o",
+      "summary_hinglish": "siddhartha malhotra aura tamanna bhatiya abhinita phorsa ऑpha da phoresta 25 sitanbar, 2026 ko sinemagharon men rilija huee। phantasi thrilara bihara ke eka paitrika ganva men hoti hai।",
       "category_hinglish": "Entertainment"
     },
     {
@@ -258,23 +309,6 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "75f8a86af71d4e53",
-      "title": "'Vvan: Force of the Forrest' box office collection day 1: Sidharth Malhotra and Tamannaah Bhatia's film o",
-      "summary": "Force of the Forest ', starring Sidharth Malhotra and Tamannaah Bhatia, opened in theatres on September 25, 2026. The fantasy thriller takes place in an ancestral village in Bihar.",
-      "category": "Entertainment",
-      "image": "https://static.toiimg.com/thumb/msid-134496334,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/vvan-force-of-the-forrest-box-office-collection-day-1-sidharth-malhotra-and-tamannaah-bhatias-film-opens-with-rs-8-00-cr/articleshow/134495996.cms",
-      "publishedAt": "2026-09-26T03:11:00.000Z",
-      "fetchedAt": "2026-09-26T05:15:11.728Z",
-      "title_hi": "'व्वान: फोर्स ऑफ द फॉरेस्ट' का बॉक्स ऑफिस कलेक्शन दिन 1: सिद्धार्थ मल्होत्रा और तमन्ना भाटिया की फिल्म ओ",
-      "summary_hi": "सिद्धार्थ मल्होत्रा और तमन्ना भाटिया अभिनीत फोर्स ऑफ द फॉरेस्ट 25 सितंबर, 2026 को सिनेमाघरों में रिलीज हुई। फंतासी थ्रिलर बिहार के एक पैतृक गांव में होती है।",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "'vvan: phorsa ऑpha da phoresta' ka boksa ऑphisa kalekshana dina 1: siddhartha malhotra aura tamanna bhatiya ki philma o",
-      "summary_hinglish": "siddhartha malhotra aura tamanna bhatiya abhinita phorsa ऑpha da phoresta 25 sitanbar, 2026 ko sinemagharon men rilija huee। phantasi thrilara bihara ke eka paitrika ganva men hoti hai।",
-      "category_hinglish": "Entertainment"
-    },
-    {
       "id": "e00612dcb3a93d9c",
       "title": "Muslim farmer killed outside Rajasthan police station, family alleges hate crime -",
       "summary": "A 40-year-old Muslim farmer from Rajasthan’s Alwar district was killed outside a police station on Sept. 24 after being attacked with stones, with his family",
@@ -290,6 +324,23 @@
       "title_hinglish": "rajasthana pulisa steshana ke bahara muslima kisana ki haty, parivara ne lagaya ghrina aparadha ka aaropa -",
       "summary_hinglish": "rajasthana ke alavara jile ke eka 40 varshiya muslima kisana ki 24 sitanbara ko eka pulisa steshana ke bahara pattharon se hamala karake hatya kara di gaee thi।",
       "category_hinglish": "Crime aur Breaking News"
+    },
+    {
+      "id": "58d27f9cc1d2eedb",
+      "title": "ET Now Live TV: Business News Live TV Online, Finance & Market News Live Streaming",
+      "summary": "ET Now LIVE TV: Watch ET Now Live TV for the latest Business News and stock market updates. Stay updated with live Business Today News on TV, top market stories, latest news clips by market experts on ET Now and real-time stock market coverage.",
+      "category": "Business & Finance",
+      "image": "https://images.etnownews.com/photo/msid-95762555/95762555.jpg",
+      "source": "ET Now",
+      "sourceUrl": "https://www.etnownews.com/live-tv",
+      "publishedAt": "2026-09-26T01:08:44.000Z",
+      "fetchedAt": "2026-09-26T17:31:54.182Z",
+      "title_hi": "ईटी नाउ लाइव टीवी: बिजनेस न्यूज लाइव टीवी ऑनलाइन, वित्त और बाजार समाचार लाइव स्ट्रीमिंग",
+      "summary_hi": "ईटी नाउ लाइव टीवी: नवीनतम बिजनेस समाचार और शेयर बाजार अपडेट के लिए ईटी नाउ लाइव टीवी देखें। टीवी पर लाइव बिजनेस टुडे समाचार, शीर्ष बाजार की कहानियां, ईटी नाउ पर बाजार विशेषज्ञों द्वारा नवीनतम समाचार क्लिप और वास्तविक समय शेयर बाजार कवरेज से अपडेट रहें।",
+      "category_hi": "बिज़नेस और फाइनेंस",
+      "title_hinglish": "eeti nau laiva tivi: bijanesa nyuja laiva tivi ऑnalain, vitta aura bajara samachara laiva striminga",
+      "summary_hinglish": "eeti nau laiva tivi: navinatama bijanesa samachara aura sheyara bajara apadeta ke lie eeti nau laiva tivi dekhen। tivi para laiva bijanesa tude samachar, shirsha bajara ki kahaniyan, eeti nau para bajara visheshajnyon dvara navinatama samachara klipa aura vastavika samaya sheyara bajara kavareja se apadeta rahen।",
+      "category_hinglish": "Business aur Finance"
     },
     {
       "id": "5dbdb054713907d5",
@@ -428,6 +479,23 @@
       "category_hinglish": "Crime aur Breaking News"
     },
     {
+      "id": "f0a8e399f94b8f2b",
+      "title": "Asian Games 2026: India medals tally and winners list - full table",
+      "summary": "Know list of India winners at the Asian Games 2026. Know medals tally and how many medals Indian athletes have won in each sport. Full table.",
+      "category": "Sports",
+      "image": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/v1790073400/primary/bu9ggjnikynkr9xbdl7g",
+      "source": "olympics.com",
+      "sourceUrl": "https://www.olympics.com/en/news/asian-games-2026-medal-tally-india-winners-table-list",
+      "publishedAt": "2026-09-26T12:51:00.000Z",
+      "fetchedAt": "2026-09-26T17:31:24.056Z",
+      "title_hi": "एशियाई खेल 2026: भारत की पदक तालिका और विजेताओं की सूची - पूरी तालिका",
+      "summary_hi": "एशियाई खेल 2026 में भारत के विजेताओं की सूची जानें। पदक तालिका जानें और भारतीय एथलीटों ने प्रत्येक खेल में कितने पदक जीते हैं। पूरी मेज.",
+      "category_hi": "खेल",
+      "title_hinglish": "eshiyaee khela 2026: bharata ki padaka talika aura vijetaon ki suchi - puri talika",
+      "summary_hinglish": "eshiyaee khela 2026 men bharata ke vijetaon ki suchi janen। padaka talika janen aura bharatiya ethaliton ne pratyeka khela men kitane padaka jite hain। puri mej.",
+      "category_hinglish": "Sports"
+    },
+    {
       "id": "03250ab691034ec5",
       "title": "Sidharth Malhotra Once Called Bhojpuri A ‘Poop’ Feeling, Now He’s Selling Bihar’s Culture Controversy Explained",
       "summary": "Sidharth Malhotra’s old Bhojpuri remark sparked controversy in 2018 after he appeared on Bigg Boss 11. Years later, the actor is starring in The VVAAN: Force Of The Forest, a Bihar-based film rooted in local folklore and beliefs.",
@@ -443,23 +511,6 @@
       "title_hinglish": "siddhartha malhotra ne kabhi bhojapuri ko kaha tha 'pupa' philing, aba becha rahe hain bihara ki sanskriti vivada",
       "summary_hinglish": "siddhartha malhotra ki purani bhojapuri tippani ne 2018 men biga bosa 11 men aane ke bada vivada khadaा kara diya tha। varshon bad, abhineta da vivieen: phorsa ऑpha da phoresta men abhinaya kara rahe hain, jo sthaniya lokakathaon aura manyataon para aadharita bihara aadharita philma hai।",
       "category_hinglish": "Entertainment"
-    },
-    {
-      "id": "f0a8e399f94b8f2b",
-      "title": "Asian Games 2026: India medals tally and winners list - full table",
-      "summary": "Know list of India winners at the Asian Games 2026. Know medals tally and how many medals Indian athletes have won in each sport. Full table.",
-      "category": "Sports",
-      "image": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/v1790073400/primary/bu9ggjnikynkr9xbdl7g",
-      "source": "olympics.com",
-      "sourceUrl": "https://www.olympics.com/en/news/asian-games-2026-medal-tally-india-winners-table-list",
-      "publishedAt": "2026-09-26T12:51:00.000Z",
-      "fetchedAt": "2026-09-26T17:15:48.500Z",
-      "title_hi": "एशियाई खेल 2026: भारत की पदक तालिका और विजेताओं की सूची - पूरी तालिका",
-      "summary_hi": "एशियाई खेल 2026 में भारत के विजेताओं की सूची जानें। पदक तालिका जानें और भारतीय एथलीटों ने प्रत्येक खेल में कितने पदक जीते हैं। पूरी मेज.",
-      "category_hi": "खेल",
-      "title_hinglish": "eshiyaee khela 2026: bharata ki padaka talika aura vijetaon ki suchi - puri talika",
-      "summary_hinglish": "eshiyaee khela 2026 men bharata ke vijetaon ki suchi janen। padaka talika janen aura bharatiya ethaliton ne pratyeka khela men kitane padaka jite hain। puri mej.",
-      "category_hinglish": "Sports"
     },
     {
       "id": "4bd9573441ac968a",
@@ -598,23 +649,6 @@
       "category_hinglish": "National aur Trending News"
     },
     {
-      "id": "1549b65b6103c3f1",
-      "title": "The Vvaan: All about the 400-year-old Devi temple in Bihar that inspired the film",
-      "summary": "Sidharth Malhotra and Tamannaah Bhatia’s The Vvaan: Force of the Forest is a film inspired by the 400-year-old Maa Van Devi Temple near Bihta, Bihar. The movie draws on local legends and traditions, highlighting the temple's mysterious evening restrictions and its cultural significance in Bihar's religious heritage. .",
-      "category": "Entertainment",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/ektaa-kapoor--arunabh-kumar--the-vvaan-245545843-16x9_0.jpg?VersionId=NcuCO2y5inUHEwhHSjYi0wDaP9NyP1zy",
-      "source": "indiatoday.in",
-      "sourceUrl": "https://www.indiatoday.in/movies/bollywood/story/the-vvaan-inspiration-van-devi-temple-400-year-old-bihar-folklore-after-sunset-ban-3001808-2026-09-24",
-      "publishedAt": "2026-09-25T06:21:06.000Z",
-      "fetchedAt": "2026-09-25T08:43:55.781Z",
-      "title_hi": "द वावन: बिहार के 400 साल पुराने देवी मंदिर के बारे में सब कुछ जिसने फिल्म को प्रेरित किया",
-      "summary_hi": "सिद्धार्थ मल्होत्रा और तमन्ना भाटिया की द वावन: फोर्स ऑफ द फॉरेस्ट बिहार के बिहटा के पास 400 साल पुराने मां वन देवी मंदिर से प्रेरित फिल्म है। यह फिल्म स्थानीय किंवदंतियों और परंपराओं पर आधारित है, जो मंदिर की रहस्यमय शाम की बंदिशों और बिहार की धार्मिक विरासत में इसके सांस्कृतिक महत्व को उजागर करती है। .",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "da vavan: bihara ke 400 sala purane devi mandira ke bare men saba kuchha jisane philma ko prerita kiya",
-      "summary_hinglish": "siddhartha malhotra aura tamanna bhatiya ki da vavan: phorsa ऑpha da phoresta bihara ke bihata ke pasa 400 sala purane man vana devi mandira se prerita philma hai। yaha philma sthaniya kinvadantiyon aura paranparaon para aadharita hai, jo mandira ki rahasyamaya shama ki bandishon aura bihara ki dharmika virasata men isake sanskritika mahatva ko ujagara karati hai। .",
-      "category_hinglish": "Entertainment"
-    },
-    {
       "id": "f8f77f5ad5ff709c",
       "title": "‘Marriage under personal law no exemption from criminal liability’: Delhi HC | India News",
       "summary": "In the present case, the woman was 16 and the man was 28 when they got married. In 2026, when the woman was around eight months pregnant | India News",
@@ -630,6 +664,23 @@
       "title_hinglish": "'parsanala lo ke tahata shadi ko aaparadhika dayitva se chhuta nahin': dilli HC | bharata samachara",
       "summary_hinglish": "vartamana mamale men, jaba unaki shadi huee taba mahila 16 varsha ki thi aura purusha 28 varsha ka tha। 2026 men jaba mahila kariba aatha mahine ki garbhavati thi | bharata samachara",
       "category_hinglish": "Crime aur Breaking News"
+    },
+    {
+      "id": "1549b65b6103c3f1",
+      "title": "The Vvaan: All about the 400-year-old Devi temple in Bihar that inspired the film",
+      "summary": "Sidharth Malhotra and Tamannaah Bhatia’s The Vvaan: Force of the Forest is a film inspired by the 400-year-old Maa Van Devi Temple near Bihta, Bihar. The movie draws on local legends and traditions, highlighting the temple's mysterious evening restrictions and its cultural significance in Bihar's religious heritage. .",
+      "category": "Entertainment",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/ektaa-kapoor--arunabh-kumar--the-vvaan-245545843-16x9_0.jpg?VersionId=NcuCO2y5inUHEwhHSjYi0wDaP9NyP1zy",
+      "source": "indiatoday.in",
+      "sourceUrl": "https://www.indiatoday.in/movies/bollywood/story/the-vvaan-inspiration-van-devi-temple-400-year-old-bihar-folklore-after-sunset-ban-3001808-2026-09-24",
+      "publishedAt": "2026-09-25T06:21:06.000Z",
+      "fetchedAt": "2026-09-25T08:43:55.781Z",
+      "title_hi": "द वावन: बिहार के 400 साल पुराने देवी मंदिर के बारे में सब कुछ जिसने फिल्म को प्रेरित किया",
+      "summary_hi": "सिद्धार्थ मल्होत्रा और तमन्ना भाटिया की द वावन: फोर्स ऑफ द फॉरेस्ट बिहार के बिहटा के पास 400 साल पुराने मां वन देवी मंदिर से प्रेरित फिल्म है। यह फिल्म स्थानीय किंवदंतियों और परंपराओं पर आधारित है, जो मंदिर की रहस्यमय शाम की बंदिशों और बिहार की धार्मिक विरासत में इसके सांस्कृतिक महत्व को उजागर करती है। .",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "da vavan: bihara ke 400 sala purane devi mandira ke bare men saba kuchha jisane philma ko prerita kiya",
+      "summary_hinglish": "siddhartha malhotra aura tamanna bhatiya ki da vavan: phorsa ऑpha da phoresta bihara ke bihata ke pasa 400 sala purane man vana devi mandira se prerita philma hai। yaha philma sthaniya kinvadantiyon aura paranparaon para aadharita hai, jo mandira ki rahasyamaya shama ki bandishon aura bihara ki dharmika virasata men isake sanskritika mahatva ko ujagara karati hai। .",
+      "category_hinglish": "Entertainment"
     },
     {
       "id": "4db3453a5ecbada9",
@@ -768,23 +819,6 @@
       "category_hinglish": "Crime aur Breaking News"
     },
     {
-      "id": "fe630ec3977f4980",
-      "title": "Bihar sees third harassment case in a week, woman assaulted at tourist spot | India News",
-      "summary": "The video shows several youths mostly behaving indecently with the woman and assaulting her with a slipper. | India News",
-      "category": "Politics & Government",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/25/1600x900/logo/bihar_banka_1790311991337_jnDq_1790311991470_Hr8E_e9f69858-e366-45be-945a-fa045199bf58_qFW9.png",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/india-news/bihar-banka-mandar-hill-viral-video-woman-man-jamui-samastipur-101790311921188.html",
-      "publishedAt": "2026-09-25T04:58:50.000Z",
-      "fetchedAt": "2026-09-25T10:35:54.928Z",
-      "title_hi": "बिहार में एक हफ्ते में उत्पीड़न का तीसरा मामला, पर्यटन स्थल पर महिला से मारपीट | भारत समाचार",
-      "summary_hi": "वीडियो में दिखाया गया है कि कई युवक महिला के साथ अभद्र व्यवहार कर रहे हैं और उस पर चप्पल से हमला कर रहे हैं। | भारत समाचार",
-      "category_hi": "राजनीति और सरकार",
-      "title_hinglish": "bihara men eka haphte men utpidana ka tisara mamal, paryatana sthala para mahila se marapita | bharata samachara",
-      "summary_hinglish": "vidiyo men dikhaya gaya hai ki kaee yuvaka mahila ke satha abhadra vyavahara kara rahe hain aura usa para chappala se hamala kara rahe hain। | bharata samachara",
-      "category_hinglish": "Politics aur Government"
-    },
-    {
       "id": "6b908cedb37bdc17",
       "title": "Delhi Shocker: Human skeleton-like bones found in scrap, cleanliness drive turns into police investigation",
       "summary": "A skeleton-like object was found among scrap during a cleanliness drive in central Delhi on Saturday.",
@@ -800,6 +834,23 @@
       "title_hinglish": "dilli shokar: kabada men mili manava kankala jaisi haddiyan, pulisa jancha men tabdila huaa saphaee abhiyana",
       "summary_hinglish": "shanivara ko madhya dilli men saphaee abhiyana ke daurana kabada ke bicha eka kankala jaisi vastu mili।",
       "category_hinglish": "Crime aur Breaking News"
+    },
+    {
+      "id": "fe630ec3977f4980",
+      "title": "Bihar sees third harassment case in a week, woman assaulted at tourist spot | India News",
+      "summary": "The video shows several youths mostly behaving indecently with the woman and assaulting her with a slipper. | India News",
+      "category": "Politics & Government",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/25/1600x900/logo/bihar_banka_1790311991337_jnDq_1790311991470_Hr8E_e9f69858-e366-45be-945a-fa045199bf58_qFW9.png",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/bihar-banka-mandar-hill-viral-video-woman-man-jamui-samastipur-101790311921188.html",
+      "publishedAt": "2026-09-25T04:58:50.000Z",
+      "fetchedAt": "2026-09-25T10:35:54.928Z",
+      "title_hi": "बिहार में एक हफ्ते में उत्पीड़न का तीसरा मामला, पर्यटन स्थल पर महिला से मारपीट | भारत समाचार",
+      "summary_hi": "वीडियो में दिखाया गया है कि कई युवक महिला के साथ अभद्र व्यवहार कर रहे हैं और उस पर चप्पल से हमला कर रहे हैं। | भारत समाचार",
+      "category_hi": "राजनीति और सरकार",
+      "title_hinglish": "bihara men eka haphte men utpidana ka tisara mamal, paryatana sthala para mahila se marapita | bharata samachara",
+      "summary_hinglish": "vidiyo men dikhaya gaya hai ki kaee yuvaka mahila ke satha abhadra vyavahara kara rahe hain aura usa para chappala se hamala kara rahe hain। | bharata samachara",
+      "category_hinglish": "Politics aur Government"
     },
     {
       "id": "17381892011c0649",
@@ -938,23 +989,6 @@
       "category_hinglish": "Business aur Finance"
     },
     {
-      "id": "ea636450a7e004bc",
-      "title": "Ashok defends govt, Shambhavi seeks review of women’s safety laws",
-      "summary": "Amid mounting concern over a series of crimes in Bihar, food and consumer protection minister Ashok Choudhary on Thursday said criminal incidents were not specific to the state and also occurred in developed countries such as the US and Japan. His daughter and LJP(RV) MP Shambhavi Choudhary, meanwhile, called for…",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134463157,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/patna/ashok-defends-govt-shambhavi-seeks-review-of-womens-safety-laws/articleshow/134463160.cms",
-      "publishedAt": "2026-09-24T12:58:00.000Z",
-      "fetchedAt": "2026-09-24T13:19:12.406Z",
-      "title_hi": "अशोक ने सरकार का बचाव किया, शांभवी ने महिला सुरक्षा कानूनों की समीक्षा की मांग की",
-      "summary_hi": "बिहार में अपराधों की श्रृंखला पर बढ़ती चिंता के बीच, खाद्य और उपभोक्ता संरक्षण मंत्री अशोक चौधरी ने गुरुवार को कहा कि आपराधिक घटनाएं केवल राज्य तक ही सीमित नहीं थीं, बल्कि अमेरिका और जापान जैसे विकसित देशों में भी हुई थीं। इस बीच, उनकी बेटी और एलजेपी (आरवी) सांसद शांभवी चौधरी ने कहा...",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "ashoka ne sarakara ka bachava kiy, shanbhavi ne mahila suraksha kanunon ki samiksha ki manga ki",
-      "summary_hinglish": "bihara men aparadhon ki shrrinkhala para badhati chinta ke bich, khadya aura upabhokta sanrakshana mantri ashoka chaudhari ne guruvara ko kaha ki aaparadhika ghatanaen kevala rajya taka hi simita nahin thin, balki amerika aura japana jaise vikasita deshon men bhi huee thin। isa bich, unaki beti aura elajepi (aaravi) sansada shanbhavi chaudhari ne kah...",
-      "category_hinglish": "Crime aur Breaking News"
-    },
-    {
       "id": "b849451824a4d6a6",
       "title": "India defeats Iran 40-34 to retain men's kabaddi gold at Asian Games 2026",
       "summary": "India produced a stunning second-half comeback to defeat Iran 40-34 and clinch the gold medal in the men",
@@ -970,6 +1004,23 @@
       "title_hinglish": "bharata ne eshiyaee khelon 2026 men purusha kabaddi ka svarna barakarara rakhane ke lie eerana ko 40-34 se haraya",
       "summary_hinglish": "bharata ne dusare hapha men shanadara vapasi karate hue eerana ko 40-34 se haraya aura purushon men svarna padaka jita",
       "category_hinglish": "Sports"
+    },
+    {
+      "id": "ea636450a7e004bc",
+      "title": "Ashok defends govt, Shambhavi seeks review of women’s safety laws",
+      "summary": "Amid mounting concern over a series of crimes in Bihar, food and consumer protection minister Ashok Choudhary on Thursday said criminal incidents were not specific to the state and also occurred in developed countries such as the US and Japan. His daughter and LJP(RV) MP Shambhavi Choudhary, meanwhile, called for…",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134463157,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/patna/ashok-defends-govt-shambhavi-seeks-review-of-womens-safety-laws/articleshow/134463160.cms",
+      "publishedAt": "2026-09-24T12:58:00.000Z",
+      "fetchedAt": "2026-09-24T13:19:12.406Z",
+      "title_hi": "अशोक ने सरकार का बचाव किया, शांभवी ने महिला सुरक्षा कानूनों की समीक्षा की मांग की",
+      "summary_hi": "बिहार में अपराधों की श्रृंखला पर बढ़ती चिंता के बीच, खाद्य और उपभोक्ता संरक्षण मंत्री अशोक चौधरी ने गुरुवार को कहा कि आपराधिक घटनाएं केवल राज्य तक ही सीमित नहीं थीं, बल्कि अमेरिका और जापान जैसे विकसित देशों में भी हुई थीं। इस बीच, उनकी बेटी और एलजेपी (आरवी) सांसद शांभवी चौधरी ने कहा...",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "ashoka ne sarakara ka bachava kiy, shanbhavi ne mahila suraksha kanunon ki samiksha ki manga ki",
+      "summary_hinglish": "bihara men aparadhon ki shrrinkhala para badhati chinta ke bich, khadya aura upabhokta sanrakshana mantri ashoka chaudhari ne guruvara ko kaha ki aaparadhika ghatanaen kevala rajya taka hi simita nahin thin, balki amerika aura japana jaise vikasita deshon men bhi huee thin। isa bich, unaki beti aura elajepi (aaravi) sansada shanbhavi chaudhari ne kah...",
+      "category_hinglish": "Crime aur Breaking News"
     },
     {
       "id": "6f3913a82a1f57c7",
@@ -1108,23 +1159,6 @@
       "category_hinglish": "Sports"
     },
     {
-      "id": "d95f8864a6d2a2c3",
-      "title": "Jamui harassment video: Accused Nandan Yadav’s father was wanted for double murder",
-      "summary": "While the other accused in the 2003 double murder are now out on bail, Ganauri Yadav was never caught by Bihar Police",
-      "category": "Crime & Breaking News",
-      "image": "https://img.theweek.in/content/dam/week/en/archive/news/india/images/2026/9/22/jamui-viral-video-harassment-nandan-yadav.jpg",
-      "source": "theweek.in",
-      "sourceUrl": "https://www.theweek.in/news/india/2026/09/24/jamui-harassment-video-accused-nandan-yadavs-father-was-wanted-for-double-murder.html",
-      "publishedAt": "2026-09-24T06:24:04.000Z",
-      "fetchedAt": "2026-09-24T11:46:11.640Z",
-      "title_hi": "जमुई उत्पीड़न वीडियो: आरोपी नंदन यादव के पिता दोहरे हत्याकांड में थे वांछित",
-      "summary_hi": "जबकि 2003 के दोहरे हत्याकांड के अन्य आरोपी अब जमानत पर बाहर हैं, गनौरी यादव कभी भी बिहार पुलिस की पकड़ में नहीं आया",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "category_hinglish": "Crime aur Breaking News",
-      "title_hinglish": "jamuee utpidana vidiyo: aaropi nandana yadava ke pita dohare hatyakanda men the vanchhita",
-      "summary_hinglish": "jabaki 2003 ke dohare hatyakanda ke anya aaropi aba jamanata para bahara hain, ganauri yadava kabhi bhi bihara pulisa ki pakada men nahin aaya"
-    },
-    {
       "id": "4f76016aef94dc68",
       "title": "The future of India’s built and industrial environment will be shaped by how effectively technology, efficiency and new capabilities come together. Haresh Khoobchandani, Frederic Martin and Pushkar Gokhale share their perspectives on some of the shifts shap",
       "summary": "The future of India’s built and industrial environment will be shaped by how effectively technology, efficiency and new capabilities come together. Haresh Khoobchandani, Frederic Martin and Pushkar Gokhale share their perspectives on some of the shifts shaping infrastructure, manufacturing and connected environments. Catch the conversation on The CEO Sphere: Leadership…",
@@ -1140,6 +1174,23 @@
       "title_hinglish": "bharata ke nirmita aura audyogika vatavarana ka bhavishya isa bata se taya hoga ki praudyogiki, dakshata aura naee kshamataen kitani prabhavi dhanga se eka satha aati hain। haresha khaूbachandani, phredarika martina aura pushkara gokhale ne kuchha badalavon para apane drishtikona sajha kie",
       "summary_hinglish": "bharata ke nirmita aura audyogika vatavarana ka bhavishya isa bata se taya hoga ki praudyogiki, dakshata aura naee kshamataen kitani prabhavi dhanga se eka satha aati hain। haresha khubachandani, phredarika martina aura pushkara gokhale ne buniyadi dhanche, vinirmana aura judaे vatavarana ko aakara dene vale kuchha badalavon para apane drishtikona sajha kie। sieeo kshetr: netritv... para batachita dekhen",
       "category_hinglish": "Technology"
+    },
+    {
+      "id": "d95f8864a6d2a2c3",
+      "title": "Jamui harassment video: Accused Nandan Yadav’s father was wanted for double murder",
+      "summary": "While the other accused in the 2003 double murder are now out on bail, Ganauri Yadav was never caught by Bihar Police",
+      "category": "Crime & Breaking News",
+      "image": "https://img.theweek.in/content/dam/week/en/archive/news/india/images/2026/9/22/jamui-viral-video-harassment-nandan-yadav.jpg",
+      "source": "theweek.in",
+      "sourceUrl": "https://www.theweek.in/news/india/2026/09/24/jamui-harassment-video-accused-nandan-yadavs-father-was-wanted-for-double-murder.html",
+      "publishedAt": "2026-09-24T06:24:04.000Z",
+      "fetchedAt": "2026-09-24T11:46:11.640Z",
+      "title_hi": "जमुई उत्पीड़न वीडियो: आरोपी नंदन यादव के पिता दोहरे हत्याकांड में थे वांछित",
+      "summary_hi": "जबकि 2003 के दोहरे हत्याकांड के अन्य आरोपी अब जमानत पर बाहर हैं, गनौरी यादव कभी भी बिहार पुलिस की पकड़ में नहीं आया",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "category_hinglish": "Crime aur Breaking News",
+      "title_hinglish": "jamuee utpidana vidiyo: aaropi nandana yadava ke pita dohare hatyakanda men the vanchhita",
+      "summary_hinglish": "jabaki 2003 ke dohare hatyakanda ke anya aaropi aba jamanata para bahara hain, ganauri yadava kabhi bhi bihara pulisa ki pakada men nahin aaya"
     },
     {
       "id": "5fbf93f240911115",
@@ -1278,23 +1329,6 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "f0d00f1243cb2345",
-      "title": "Son Arrested In Jamui Groping Case, Father Caught For 2003 Double Murder After Hiding For 23 Years: How Police Found Him",
-      "summary": "Jamui groping case: Police arrest accused Nandan Yadav’s father Ganori Yadav in a 2003 double-murder case after tracing his criminal past.",
-      "category": "Crime & Breaking News",
-      "image": "https://www.newsx.com/wp-content/uploads/2026/09/jamui-nandan-yadav.jpg",
-      "source": "NewsX",
-      "sourceUrl": "https://www.newsx.com/regionals/son-arrested-in-jamui-groping-case-father-caught-for-2003-double-murder-after-hiding-for-23-years-how-police-found-him-275199/",
-      "publishedAt": "2026-09-24T02:27:10.000Z",
-      "fetchedAt": "2026-09-24T03:25:43.458Z",
-      "title_hi": "जमुई ग्रोपिंग मामले में बेटा गिरफ्तार, पिता 23 साल तक छिपने के बाद 2003 के दोहरे हत्याकांड में पकड़ा गया: पुलिस ने उसे कैसे पाया",
-      "summary_hi": "जमुई छेड़छाड़ मामला: पुलिस ने आरोपी नंदन यादव के आपराधिक इतिहास का पता लगाने के बाद 2003 के दोहरे हत्याकांड में उसके पिता गनोरी यादव को गिरफ्तार कर लिया।",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "category_hinglish": "Crime aur Breaking News",
-      "title_hinglish": "jamuee gropinga mamale men beta giraphtar, pita 23 sala taka chhipane ke bada 2003 ke dohare hatyakanda men pakadaा gay: pulisa ne use kaise paya",
-      "summary_hinglish": "jamuee chhedachhada mamal: pulisa ne aaropi nandana yadava ke aaparadhika itihasa ka pata lagane ke bada 2003 ke dohare hatyakanda men usake pita ganori yadava ko giraphtara kara liya।"
-    },
-    {
       "id": "a2c97d0b95b7eaec",
       "title": "Peter Thiel: Germany does not have a Mark Zuckerberg or Elon Musk, because the country is scared of ...",
       "summary": "Billionaire investor Pete Thiel feels that Germany lacks global-scale entrepreneurs like Elon Musk or Mark Zuckerberg because the country suffers from a “fear of success.” He argues that German founders often exit early instead of scaling companies into global giants, leaving the nation behind in innovation and wealth creation. According…",
@@ -1310,6 +1344,23 @@
       "title_hinglish": "pitara thiel: jarmani ke pasa marka jukarabarga ya elona maska nahin hain, kyonki desha dara huaa hai...",
       "summary_hinglish": "arabapati niveshaka pita thiela ko lagata hai ki jarmani men elona maska ya marka jukarabarga jaise vaishvika stara ke udyamiyon ki kami hai kyonki desha \"saphalata ke dara\" se grasta hai। unaka tarka hai ki jarmana sansthapaka aksara kanpaniyon ko vaishvika diggajon men badalane ke bajaya jaldi bahara nikala jate hain, jisase desha navachara aura dhana srijana men pichhe raha jata hai। anusara…",
       "category_hinglish": "Technology"
+    },
+    {
+      "id": "f0d00f1243cb2345",
+      "title": "Son Arrested In Jamui Groping Case, Father Caught For 2003 Double Murder After Hiding For 23 Years: How Police Found Him",
+      "summary": "Jamui groping case: Police arrest accused Nandan Yadav’s father Ganori Yadav in a 2003 double-murder case after tracing his criminal past.",
+      "category": "Crime & Breaking News",
+      "image": "https://www.newsx.com/wp-content/uploads/2026/09/jamui-nandan-yadav.jpg",
+      "source": "NewsX",
+      "sourceUrl": "https://www.newsx.com/regionals/son-arrested-in-jamui-groping-case-father-caught-for-2003-double-murder-after-hiding-for-23-years-how-police-found-him-275199/",
+      "publishedAt": "2026-09-24T02:27:10.000Z",
+      "fetchedAt": "2026-09-24T03:25:43.458Z",
+      "title_hi": "जमुई ग्रोपिंग मामले में बेटा गिरफ्तार, पिता 23 साल तक छिपने के बाद 2003 के दोहरे हत्याकांड में पकड़ा गया: पुलिस ने उसे कैसे पाया",
+      "summary_hi": "जमुई छेड़छाड़ मामला: पुलिस ने आरोपी नंदन यादव के आपराधिक इतिहास का पता लगाने के बाद 2003 के दोहरे हत्याकांड में उसके पिता गनोरी यादव को गिरफ्तार कर लिया।",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "category_hinglish": "Crime aur Breaking News",
+      "title_hinglish": "jamuee gropinga mamale men beta giraphtar, pita 23 sala taka chhipane ke bada 2003 ke dohare hatyakanda men pakadaा gay: pulisa ne use kaise paya",
+      "summary_hinglish": "jamuee chhedachhada mamal: pulisa ne aaropi nandana yadava ke aaparadhika itihasa ka pata lagane ke bada 2003 ke dohare hatyakanda men usake pita ganori yadava ko giraphtara kara liya।"
     },
     {
       "id": "c7cd8162860799f4",
@@ -1448,23 +1499,6 @@
       "category_hinglish": "Sports"
     },
     {
-      "id": "e381c45d8b84f9b1",
-      "title": "Jamui incident: Accused’s father held in murder case",
-      "summary": "The father of the alleged main accused involved in a minor girl’s molestation case has been arrested in a more than two-decade-old double murder case. The accused, Ganauri Yadav, was wanted in a sensational double murder that took place in 2003 and had been absconding for 21 years.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134443546,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/patna/jamui-incident-accuseds-father-held-in-murder-case/articleshow/134443542.cms",
-      "publishedAt": "2026-09-23T17:38:00.000Z",
-      "fetchedAt": "2026-09-23T19:36:21.845Z",
-      "title_hi": "जमुई घटना: हत्या मामले में आरोपी का पिता गिरफ्तार",
-      "summary_hi": "नाबालिग लड़की से छेड़छाड़ मामले में शामिल कथित मुख्य आरोपी के पिता को दो दशक से अधिक पुराने दोहरे हत्याकांड में गिरफ्तार किया गया है। आरोपी गनौरी यादव 2003 में हुए एक सनसनीखेज दोहरे हत्याकांड में वांछित था और 21 साल से फरार था।",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "jamuee ghatan: hatya mamale men aaropi ka pita giraphtara",
-      "summary_hinglish": "nabaliga ladaki se chhedachhada mamale men shamila kathita mukhya aaropi ke pita ko do dashaka se adhika purane dohare hatyakanda men giraphtara kiya gaya hai। aaropi ganauri yadava 2003 men hue eka sanasanikheja dohare hatyakanda men vanchhita tha aura 21 sala se pharara tha।",
-      "category_hinglish": "Crime aur Breaking News"
-    },
-    {
       "id": "84304e60c074ae86",
       "title": "IIT Madras, Unicorn India mark ₹450 cr first close of ₹1,000 cr fund",
       "summary": "IITM Unicorn Frontier Fund I has deployed nearly Rs 55 crore in four deep-tech startups and is targeting a final close by December 2026",
@@ -1480,6 +1514,23 @@
       "title_hinglish": "aaeeaaeeti madras, yunikorna indiya ne ₹450 karoda ke satha ₹1,000 karoda ke phanda ka pahala samapana kiya",
       "summary_hinglish": "aaeeaaeetiema yunikorna phrantiyara phanda I ne chara dipa-teka startaapsa men lagabhaga 55 karoda rupaye lagae hain aura disanbara 2026 taka antima samapana ka lakshya rakha hai।",
       "category_hinglish": "Technology"
+    },
+    {
+      "id": "e381c45d8b84f9b1",
+      "title": "Jamui incident: Accused’s father held in murder case",
+      "summary": "The father of the alleged main accused involved in a minor girl’s molestation case has been arrested in a more than two-decade-old double murder case. The accused, Ganauri Yadav, was wanted in a sensational double murder that took place in 2003 and had been absconding for 21 years.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134443546,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/patna/jamui-incident-accuseds-father-held-in-murder-case/articleshow/134443542.cms",
+      "publishedAt": "2026-09-23T17:38:00.000Z",
+      "fetchedAt": "2026-09-23T19:36:21.845Z",
+      "title_hi": "जमुई घटना: हत्या मामले में आरोपी का पिता गिरफ्तार",
+      "summary_hi": "नाबालिग लड़की से छेड़छाड़ मामले में शामिल कथित मुख्य आरोपी के पिता को दो दशक से अधिक पुराने दोहरे हत्याकांड में गिरफ्तार किया गया है। आरोपी गनौरी यादव 2003 में हुए एक सनसनीखेज दोहरे हत्याकांड में वांछित था और 21 साल से फरार था।",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "jamuee ghatan: hatya mamale men aaropi ka pita giraphtara",
+      "summary_hinglish": "nabaliga ladaki se chhedachhada mamale men shamila kathita mukhya aaropi ke pita ko do dashaka se adhika purane dohare hatyakanda men giraphtara kiya gaya hai। aaropi ganauri yadava 2003 men hue eka sanasanikheja dohare hatyakanda men vanchhita tha aura 21 sala se pharara tha।",
+      "category_hinglish": "Crime aur Breaking News"
     }
   ]
 }
