@@ -15,7 +15,7 @@ concurrency:
 jobs:
   update-news:
     runs-on: ubuntu-latest
-    timeout-minutes: 4
+    timeout-minutes: 12
 
     steps:
       - name: Checkout repository
@@ -32,6 +32,16 @@ jobs:
         run: npm install --no-audit --no-fund
 
       - name: Fetch latest news
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          FEED_MAX_ARTICLES: ${{ vars.FEED_MAX_ARTICLES || '250' }}
+          MAX_NEW_EXTERNAL_PER_CATEGORY: ${{ vars.MAX_NEW_EXTERNAL_PER_CATEGORY || '10' }}
+          MAX_NEW_BIHAR_PER_CATEGORY: ${{ vars.MAX_NEW_BIHAR_PER_CATEGORY || '4' }}
+          RSS_ITEMS_PER_CATEGORY: ${{ vars.RSS_ITEMS_PER_CATEGORY || '60' }}
+          FRESH_WINDOW_HOURS: ${{ vars.FRESH_WINDOW_HOURS || '48' }}
+          FEED_RETENTION_HOURS: ${{ vars.FEED_RETENTION_HOURS || '168' }}
+          MIN_FETCH_INTERVAL_MINUTES: ${{ vars.MIN_FETCH_INTERVAL_MINUTES || '5' }}
         run: npm run fetch-news
 
       - name: Commit feed only when news changed

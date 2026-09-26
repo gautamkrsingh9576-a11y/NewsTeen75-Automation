@@ -7,6 +7,7 @@
     "fetch-news": "node scripts/fetch-news.mjs"
   },
   "dependencies": {
-    "google-news-url-decoder": "1.2.2"
+    "google-news-url-decoder": "1.2.2",
+    "@supabase/supabase-js": "^2.0.0"
   }
 }
