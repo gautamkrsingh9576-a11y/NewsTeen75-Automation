@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T17:45:20.342Z",
+  "updatedAt": "2026-09-26T17:56:11.922Z",
   "count": 83,
   "articles": [
     {
@@ -71,21 +71,21 @@
       "category_hinglish": "Crime aur Breaking News"
     },
     {
-      "id": "8ebfa630e90de72b",
-      "title": "Sitharaman on India’s 10%+ growth potential: Startups and technology can drive next phase",
-      "summary": "Sitharaman said stronger economic growth would help the country move faster towards the objectives of Atmanirbhar Bharat and Viksit Bharat. However, she said reaching higher growth levels would require 'a lot more effort' from all sections of society",
-      "category": "Technology",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/logo/ANI-20260921224-0_1790435653836_Pp1t_1790435724193_M3mP_068b5da9-ad1f-472d-8cb9-3892ec3efc75_jBQV.jpg",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/economy/sitharaman-on-india-s-10-growth-potential-startups-and-technology-can-drive-next-phase-11790435377387.html",
-      "publishedAt": "2026-09-26T16:32:38.000Z",
-      "fetchedAt": "2026-09-26T16:47:40.978Z",
-      "title_hi": "भारत की 10%+ विकास क्षमता पर सीतारमण: स्टार्टअप और प्रौद्योगिकी अगले चरण को आगे बढ़ा सकते हैं",
-      "summary_hi": "सीतारमण ने कहा कि मजबूत आर्थिक वृद्धि से देश को आत्मनिर्भर भारत और विकसित भारत के लक्ष्यों की ओर तेजी से बढ़ने में मदद मिलेगी। हालाँकि, उन्होंने कहा कि उच्च विकास स्तर तक पहुँचने के लिए समाज के सभी वर्गों से 'बहुत अधिक प्रयास' की आवश्यकता होगी",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "bharata ki 10%+ vikasa kshamata para sitaraman: startaapa aura praudyogiki agale charana ko aage badhaा sakate hain",
-      "summary_hinglish": "sitaramana ne kaha ki majabuta aarthika vriddhi se desha ko aatmanirbhara bharata aura vikasita bharata ke lakshyon ki ora teji se badhane men madada milegi। halanki, unhonne kaha ki uchcha vikasa stara taka pahunchane ke lie samaja ke sabhi vargon se 'bahuta adhika prayasa' ki aavashyakata hogi",
-      "category_hinglish": "Technology"
+      "id": "69b1632b2765bed1",
+      "title": "FIR registered over alleged plot to kill man of another faith in retaliation for Suhas Shetty murder",
+      "summary": "Mangaluru: Bajpe police file FIR over alleged revenge plot to kill man of another faith after Suhas Shetty murder; CCB probes, no arrests yet.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/mangaluru/fir-registered-over-alleged-plot-to-kill-man-of-another-faith-in-retaliation-for-suhas-shetty-murder/articleshow/134507900.cms",
+      "publishedAt": "2026-09-26T16:58:00.000Z",
+      "fetchedAt": "2026-09-26T17:55:40.299Z",
+      "title_hi": "सुहास शेट्टी की हत्या के प्रतिशोध में दूसरे धर्म के व्यक्ति की हत्या की कथित साजिश को लेकर एफआईआर दर्ज की गई",
+      "summary_hi": "मंगलुरु: बाजपे पुलिस ने सुहास शेट्टी की हत्या के बाद दूसरे धर्म के व्यक्ति की हत्या की कथित बदला लेने की साजिश पर एफआईआर दर्ज की; सीसीबी जांच, अभी तक कोई गिरफ्तारी नहीं।",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "suhasa shetti ki hatya ke pratishodha men dusare dharma ke vyakti ki hatya ki kathita sajisha ko lekara ephaaaeeaara darja ki gaee",
+      "summary_hinglish": "mangaluru: bajape pulisa ne suhasa shetti ki hatya ke bada dusare dharma ke vyakti ki hatya ki kathita badala lene ki sajisha para ephaaaeeaara darja ki; sisibi janch, abhi taka koee giraphtari nahin।",
+      "category_hinglish": "Crime aur Breaking News"
     },
     {
       "id": "55d29fb029ceb324",
@@ -103,6 +103,23 @@
       "title_hinglish": "biga bosa 20: kaji taukira ki jhadapa ke bada mahi vija ne eesha rikhi ki tippani para savala uthae, jisamen badashaha ka jikra th, 'kauna sa tra'",
       "summary_hinglish": "eesha rikhi dvara kaji taukira ke satha tikhi batachita ke bada apane anubhava ke bare men bata karane ke bada mahi vija ne navinatama biga bosa 20 vivada para jora diya hai।",
       "category_hinglish": "Entertainment"
+    },
+    {
+      "id": "8ebfa630e90de72b",
+      "title": "Sitharaman on India’s 10%+ growth potential: Startups and technology can drive next phase",
+      "summary": "Sitharaman said stronger economic growth would help the country move faster towards the objectives of Atmanirbhar Bharat and Viksit Bharat. However, she said reaching higher growth levels would require 'a lot more effort' from all sections of society",
+      "category": "Technology",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/logo/ANI-20260921224-0_1790435653836_Pp1t_1790435724193_M3mP_068b5da9-ad1f-472d-8cb9-3892ec3efc75_jBQV.jpg",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/economy/sitharaman-on-india-s-10-growth-potential-startups-and-technology-can-drive-next-phase-11790435377387.html",
+      "publishedAt": "2026-09-26T16:32:38.000Z",
+      "fetchedAt": "2026-09-26T16:47:40.978Z",
+      "title_hi": "भारत की 10%+ विकास क्षमता पर सीतारमण: स्टार्टअप और प्रौद्योगिकी अगले चरण को आगे बढ़ा सकते हैं",
+      "summary_hi": "सीतारमण ने कहा कि मजबूत आर्थिक वृद्धि से देश को आत्मनिर्भर भारत और विकसित भारत के लक्ष्यों की ओर तेजी से बढ़ने में मदद मिलेगी। हालाँकि, उन्होंने कहा कि उच्च विकास स्तर तक पहुँचने के लिए समाज के सभी वर्गों से 'बहुत अधिक प्रयास' की आवश्यकता होगी",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "bharata ki 10%+ vikasa kshamata para sitaraman: startaapa aura praudyogiki agale charana ko aage badhaा sakate hain",
+      "summary_hinglish": "sitaramana ne kaha ki majabuta aarthika vriddhi se desha ko aatmanirbhara bharata aura vikasita bharata ke lakshyon ki ora teji se badhane men madada milegi। halanki, unhonne kaha ki uchcha vikasa stara taka pahunchane ke lie samaja ke sabhi vargon se 'bahuta adhika prayasa' ki aavashyakata hogi",
+      "category_hinglish": "Technology"
     },
     {
       "id": "172c4ba8dd2a41d3",
@@ -130,30 +147,13 @@
       "source": "olympics.com",
       "sourceUrl": "https://www.olympics.com/en/news/asian-games-2026-medal-tally-india-winners-table-list",
       "publishedAt": "2026-09-26T15:41:00.000Z",
-      "fetchedAt": "2026-09-26T17:44:42.349Z",
+      "fetchedAt": "2026-09-26T17:55:41.180Z",
       "title_hi": "एशियाई खेल 2026: भारत की पदक तालिका और विजेताओं की सूची - पूरी तालिका",
       "summary_hi": "एशियाई खेल 2026 में भारत के विजेताओं की सूची जानें। पदक तालिका जानें और भारतीय एथलीटों ने प्रत्येक खेल में कितने पदक जीते हैं। पूरी मेज.",
       "category_hi": "खेल",
       "title_hinglish": "eshiyaee khela 2026: bharata ki padaka talika aura vijetaon ki suchi - puri talika",
       "summary_hinglish": "eshiyaee khela 2026 men bharata ke vijetaon ki suchi janen। padaka talika janen aura bharatiya ethaliton ne pratyeka khela men kitane padaka jite hain। puri mej.",
       "category_hinglish": "Sports"
-    },
-    {
-      "id": "06dba53343fc3d9c",
-      "title": "IIT-Madras deep tech fund achieves ₹450 crore first close",
-      "summary": "IIT Madras deep-tech fund Unicorn Frontier closes ₹450 crore first tranche, backing 4 startups and targeting 25 high-TRL, IP-led ventures.",
-      "category": "Technology",
-      "image": "https://th-i.thgim.com/public/incoming/1smcuc/article71513612.ece/alternates/LANDSCAPE_1200/DSC_4896.JPG",
-      "source": "The Hindu",
-      "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/iit-madras-deep-tech-fund-achieves-450-crore-first-close/article71513438.ece",
-      "publishedAt": "2026-09-26T15:32:29.000Z",
-      "fetchedAt": "2026-09-26T15:48:18.499Z",
-      "title_hi": "आईआईटी-मद्रास डीप टेक फंड ने पहली बार ₹450 करोड़ का आंकड़ा हासिल किया",
-      "summary_hi": "आईआईटी मद्रास डीप-टेक फंड यूनिकॉर्न फ्रंटियर ने ₹450 करोड़ की पहली किश्त पूरी की, 4 स्टार्टअप को समर्थन दिया और 25 उच्च-टीआरएल, आईपी-आधारित उद्यमों को लक्षित किया।",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "aaeeaaeeti-madrasa dipa teka phanda ne pahali bara ₹450 karoda ka aankadaा hasila kiya",
-      "summary_hinglish": "aaeeaaeeti madrasa dipa-teka phanda yunikorna phrantiyara ne ₹450 karoda ki pahali kishta puri ki, 4 startaapa ko samarthana diya aura 25 uchcha-tiaarael, aaeepi-aadharita udyamon ko lakshita kiya।",
-      "category_hinglish": "Technology"
     },
     {
       "id": "0fd2b8e1e638217a",
@@ -173,6 +173,23 @@
       "category_hinglish": "Politics aur Government"
     },
     {
+      "id": "06dba53343fc3d9c",
+      "title": "IIT-Madras deep tech fund achieves ₹450 crore first close",
+      "summary": "IIT Madras deep-tech fund Unicorn Frontier closes ₹450 crore first tranche, backing 4 startups and targeting 25 high-TRL, IP-led ventures.",
+      "category": "Technology",
+      "image": "https://th-i.thgim.com/public/incoming/1smcuc/article71513612.ece/alternates/LANDSCAPE_1200/DSC_4896.JPG",
+      "source": "The Hindu",
+      "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/iit-madras-deep-tech-fund-achieves-450-crore-first-close/article71513438.ece",
+      "publishedAt": "2026-09-26T15:32:29.000Z",
+      "fetchedAt": "2026-09-26T15:48:18.499Z",
+      "title_hi": "आईआईटी-मद्रास डीप टेक फंड ने पहली बार ₹450 करोड़ का आंकड़ा हासिल किया",
+      "summary_hi": "आईआईटी मद्रास डीप-टेक फंड यूनिकॉर्न फ्रंटियर ने ₹450 करोड़ की पहली किश्त पूरी की, 4 स्टार्टअप को समर्थन दिया और 25 उच्च-टीआरएल, आईपी-आधारित उद्यमों को लक्षित किया।",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "aaeeaaeeti-madrasa dipa teka phanda ne pahali bara ₹450 karoda ka aankadaा hasila kiya",
+      "summary_hinglish": "aaeeaaeeti madrasa dipa-teka phanda yunikorna phrantiyara ne ₹450 karoda ki pahali kishta puri ki, 4 startaapa ko samarthana diya aura 25 uchcha-tiaarael, aaeepi-aadharita udyamon ko lakshita kiya।",
+      "category_hinglish": "Technology"
+    },
+    {
       "id": "b9040ea2575cdacc",
       "title": "IIT Madras, Unicorn India Ventures Announce Initial Funding From Deep-Tech Venture Capital Fund",
       "summary": "The IIT Madras Unicorn Frontier Fund I targets raising Rs 600–1,000 crore to provide patient capital to deep-tech startups emerging from the IIT-M ecosystem.",
@@ -188,23 +205,6 @@
       "title_hinglish": "aaeeaaeeti madras, yunikorna indiya vencharsa ne dipa-teka venchara kaipitala phanda se shuruaati phandinga ki ghoshana ki",
       "summary_hinglish": "aaeeaaeeti madrasa yunikorna phrantiyara phanda I ne aaeeaaeeti-ema paristhitiki tantra se ubharane vale dipa-teka startaapsa ko dhairyapurna punji pradana karane ke lie 600-1,000 karoda rupaye jutane ka lakshya rakha hai।",
       "category_hinglish": "Technology"
-    },
-    {
-      "id": "61f86eb69661de46",
-      "title": "Man murdered in TN Pura, 3 held",
-      "summary": "Man murdered in T Narasipura over family dispute; police arrest three suspects. Victim Subhash, 35, attacked with knife; investigation underway.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/mysuru/man-murdered-in-tn-pura-3-held/articleshow/134506721.cms",
-      "publishedAt": "2026-09-26T15:03:00.000Z",
-      "fetchedAt": "2026-09-26T17:31:22.987Z",
-      "title_hi": "टीएन पुरा में एक व्यक्ति की हत्या, 3 गिरफ्तार",
-      "summary_hi": "टी नरसिपुरा में पारिवारिक विवाद को लेकर व्यक्ति की हत्या; पुलिस ने तीन संदिग्धों को गिरफ्तार किया. पीड़ित 35 वर्षीय सुभाष पर चाकू से हमला; जांच चल रही है.",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "tiena pura men eka vyakti ki haty, 3 giraphtara",
-      "summary_hinglish": "ti narasipura men parivarika vivada ko lekara vyakti ki haty; pulisa ne tina sandigdhon ko giraphtara kiy. pidaिta 35 varshiya subhasha para chaku se hamal; jancha chala rahi hai.",
-      "category_hinglish": "Crime aur Breaking News"
     },
     {
       "id": "b2cee53f8a5cf9b2",
@@ -224,6 +224,23 @@
       "category_hinglish": "Entertainment"
     },
     {
+      "id": "61f86eb69661de46",
+      "title": "Man murdered in TN Pura, 3 held",
+      "summary": "Man murdered in T Narasipura over family dispute; police arrest three suspects. Victim Subhash, 35, attacked with knife; investigation underway.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/mysuru/man-murdered-in-tn-pura-3-held/articleshow/134506721.cms",
+      "publishedAt": "2026-09-26T15:03:00.000Z",
+      "fetchedAt": "2026-09-26T17:31:22.987Z",
+      "title_hi": "टीएन पुरा में एक व्यक्ति की हत्या, 3 गिरफ्तार",
+      "summary_hi": "टी नरसिपुरा में पारिवारिक विवाद को लेकर व्यक्ति की हत्या; पुलिस ने तीन संदिग्धों को गिरफ्तार किया. पीड़ित 35 वर्षीय सुभाष पर चाकू से हमला; जांच चल रही है.",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "tiena pura men eka vyakti ki haty, 3 giraphtara",
+      "summary_hinglish": "ti narasipura men parivarika vivada ko lekara vyakti ki haty; pulisa ne tina sandigdhon ko giraphtara kiy. pidaिta 35 varshiya subhasha para chaku se hamal; jancha chala rahi hai.",
+      "category_hinglish": "Crime aur Breaking News"
+    },
+    {
       "id": "c671591b52d65333",
       "title": "Tamil Nadu among pronounced drought hotspots as South Peninsular India sees strongest drought trend: study",
       "summary": "Tamil Nadu ranks as a major drought hotspot in South Peninsular India, with rising drought-affected areas and heat extremes, per a 1971–2022 regional climate study.",
@@ -241,23 +258,6 @@
       "category_hinglish": "National aur Trending News"
     },
     {
-      "id": "3ae122de09a440ea",
-      "title": "Gauhati University Law College wins USTM’s All India Moot Court Competition",
-      "summary": "Shillong, Sept 26: University Law College, Gauhati University, emerged winner of the Moot Court Competition at the three-day All India Law Graduate Conclave 2026, organised by the University School of Law & Research, University of Science and Technology Meghalaya (USTM). The Gauhati University team comprising Dishamoni Deka, Adishree Hazarika and…",
-      "category": "Crime & Breaking News",
-      "image": "https://hubnetwork.in/wp-content/uploads/2026/09/All-India-Law-Graduate-Conclave-2026.jpeg",
-      "source": "Hub News",
-      "sourceUrl": "https://hubnetwork.in/gauhati-university-law-college-wins-ustms-all-india-moot-court-competition/",
-      "publishedAt": "2026-09-26T14:54:56.000Z",
-      "fetchedAt": "2026-09-26T17:31:21.909Z",
-      "title_hi": "गौहाटी यूनिवर्सिटी लॉ कॉलेज ने यूएसटीएम की अखिल भारतीय मूट कोर्ट प्रतियोगिता जीती",
-      "summary_hi": "शिलांग, 26 सितंबर: यूनिवर्सिटी स्कूल ऑफ लॉ एंड रिसर्च, यूनिवर्सिटी ऑफ साइंस एंड टेक्नोलॉजी मेघालय (यूएसटीएम) द्वारा आयोजित तीन दिवसीय ऑल इंडिया लॉ ग्रेजुएट कॉन्क्लेव 2026 में यूनिवर्सिटी लॉ कॉलेज, गौहाटी यूनिवर्सिटी मूट कोर्ट प्रतियोगिता का विजेता बना। गौहाटी विश्वविद्यालय की टीम में दिशामोनी डेका, आदिश्री हजारिका और…",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "gauhati yunivarsiti lo koleja ne yuesatiema ki akhila bharatiya muta korta pratiyogita jiti",
-      "summary_hinglish": "shilang, 26 sitanbar: yunivarsiti skula ऑpha lo enda risarch, yunivarsiti ऑpha sainsa enda teknoloji meghalaya (yuesatiema) dvara aayojita tina divasiya ऑla indiya lo grejueta konkleva 2026 men yunivarsiti lo kolej, gauhati yunivarsiti muta korta pratiyogita ka vijeta bana। gauhati vishvavidyalaya ki tima men dishamoni dek, aadishri hajarika aura…",
-      "category_hinglish": "Crime aur Breaking News"
-    },
-    {
       "id": "75f8a86af71d4e53",
       "title": "'Vvan: Force of the Forrest' box office collection day 1: Sidharth Malhotra and Tamannaah Bhatia's film o",
       "summary": "Force of the Forest ', starring Sidharth Malhotra and Tamannaah Bhatia, opened in theatres on September 25, 2026. The fantasy thriller takes place in an ancestral village in Bihar.",
@@ -273,6 +273,23 @@
       "title_hinglish": "'vvan: phorsa ऑpha da phoresta' ka boksa ऑphisa kalekshana dina 1: siddhartha malhotra aura tamanna bhatiya ki philma o",
       "summary_hinglish": "siddhartha malhotra aura tamanna bhatiya abhinita phorsa ऑpha da phoresta 25 sitanbar, 2026 ko sinemagharon men rilija huee। phantasi thrilara bihara ke eka paitrika ganva men hoti hai।",
       "category_hinglish": "Entertainment"
+    },
+    {
+      "id": "3ae122de09a440ea",
+      "title": "Gauhati University Law College wins USTM’s All India Moot Court Competition",
+      "summary": "Shillong, Sept 26: University Law College, Gauhati University, emerged winner of the Moot Court Competition at the three-day All India Law Graduate Conclave 2026, organised by the University School of Law & Research, University of Science and Technology Meghalaya (USTM). The Gauhati University team comprising Dishamoni Deka, Adishree Hazarika and…",
+      "category": "Crime & Breaking News",
+      "image": "https://hubnetwork.in/wp-content/uploads/2026/09/All-India-Law-Graduate-Conclave-2026.jpeg",
+      "source": "Hub News",
+      "sourceUrl": "https://hubnetwork.in/gauhati-university-law-college-wins-ustms-all-india-moot-court-competition/",
+      "publishedAt": "2026-09-26T14:54:56.000Z",
+      "fetchedAt": "2026-09-26T17:31:21.909Z",
+      "title_hi": "गौहाटी यूनिवर्सिटी लॉ कॉलेज ने यूएसटीएम की अखिल भारतीय मूट कोर्ट प्रतियोगिता जीती",
+      "summary_hi": "शिलांग, 26 सितंबर: यूनिवर्सिटी स्कूल ऑफ लॉ एंड रिसर्च, यूनिवर्सिटी ऑफ साइंस एंड टेक्नोलॉजी मेघालय (यूएसटीएम) द्वारा आयोजित तीन दिवसीय ऑल इंडिया लॉ ग्रेजुएट कॉन्क्लेव 2026 में यूनिवर्सिटी लॉ कॉलेज, गौहाटी यूनिवर्सिटी मूट कोर्ट प्रतियोगिता का विजेता बना। गौहाटी विश्वविद्यालय की टीम में दिशामोनी डेका, आदिश्री हजारिका और…",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "gauhati yunivarsiti lo koleja ne yuesatiema ki akhila bharatiya muta korta pratiyogita jiti",
+      "summary_hinglish": "shilang, 26 sitanbar: yunivarsiti skula ऑpha lo enda risarch, yunivarsiti ऑpha sainsa enda teknoloji meghalaya (yuesatiema) dvara aayojita tina divasiya ऑla indiya lo grejueta konkleva 2026 men yunivarsiti lo kolej, gauhati yunivarsiti muta korta pratiyogita ka vijeta bana। gauhati vishvavidyalaya ki tima men dishamoni dek, aadishri hajarika aura…",
+      "category_hinglish": "Crime aur Breaking News"
     },
     {
       "id": "9fccc6c34b699e87",
@@ -309,6 +326,23 @@
       "category_hinglish": "Technology"
     },
     {
+      "id": "58d27f9cc1d2eedb",
+      "title": "ET Now Live TV: Business News Live TV Online, Finance & Market News Live Streaming",
+      "summary": "ET Now LIVE TV: Watch ET Now Live TV for the latest Business News and stock market updates. Stay updated with live Business Today News on TV, top market stories, latest news clips by market experts on ET Now and real-time stock market coverage.",
+      "category": "Business & Finance",
+      "image": "https://images.etnownews.com/photo/msid-95762555/95762555.jpg",
+      "source": "ET Now",
+      "sourceUrl": "https://www.etnownews.com/live-tv",
+      "publishedAt": "2026-09-26T01:08:44.000Z",
+      "fetchedAt": "2026-09-26T17:56:08.698Z",
+      "title_hi": "ईटी नाउ लाइव टीवी: बिजनेस न्यूज लाइव टीवी ऑनलाइन, वित्त और बाजार समाचार लाइव स्ट्रीमिंग",
+      "summary_hi": "ईटी नाउ लाइव टीवी: नवीनतम बिजनेस समाचार और शेयर बाजार अपडेट के लिए ईटी नाउ लाइव टीवी देखें। टीवी पर लाइव बिजनेस टुडे समाचार, शीर्ष बाजार की कहानियां, ईटी नाउ पर बाजार विशेषज्ञों द्वारा नवीनतम समाचार क्लिप और वास्तविक समय शेयर बाजार कवरेज से अपडेट रहें।",
+      "category_hi": "बिज़नेस और फाइनेंस",
+      "title_hinglish": "eeti nau laiva tivi: bijanesa nyuja laiva tivi ऑnalain, vitta aura bajara samachara laiva striminga",
+      "summary_hinglish": "eeti nau laiva tivi: navinatama bijanesa samachara aura sheyara bajara apadeta ke lie eeti nau laiva tivi dekhen। tivi para laiva bijanesa tude samachar, shirsha bajara ki kahaniyan, eeti nau para bajara visheshajnyon dvara navinatama samachara klipa aura vastavika samaya sheyara bajara kavareja se apadeta rahen।",
+      "category_hinglish": "Business aur Finance"
+    },
+    {
       "id": "7b0c4be02d815905",
       "title": "Asian Games Medal Tally: How two kabaddi golds helped India break back into top 10 as China pull ahead",
       "summary": "India returned to the top 10 of the Asian Games medal standings on Saturday after a seven-medal haul, highlighted by two gold medals in kabaddi. The country’s gold rush in the sport, along with medals in athletics, shooting and squash, took the overall tally to 30 and moved India up…",
@@ -323,6 +357,23 @@
       "category_hi": "खेल",
       "title_hinglish": "eshiyaee khela padaka talik: kaise do kabaddi svarnon ne bharata ko shirsha 10 men vapasa lane men madada ki, jabaki china aage nikala gaya",
       "summary_hinglish": "bharata shanivara ko eshiyaee khelon ki padaka talika men sata padakon ki upalabdhi ke satha shirsha 10 men lauta aay, jisamen kabaddi men do svarna padaka shamila the। ethaletiks, nishanebaji aura skvaisha men padakon ke satha-satha isa khela men desha ke svarna padakon ki sankhya ne kula padakon ki sankhya 30 pahuncha di aura bharata aage badha gay...",
+      "category_hinglish": "Sports"
+    },
+    {
+      "id": "f4e1cc6a2ad2975d",
+      "title": "Asian Games 2026 Day 9 Live: Schedule, Timings, Results, India Fixtures & Medal Tally",
+      "summary": "Asian Games 2026 Day 9 Live – Tomorrow is SUNDAY, September 27, 2026 – is HUGE athletics finals day after India completed a historic KABADDI DOUBLE GOLD on Day 8! Breaking – Day 8 Results (Today, Sept 26):India’s men’s kabaddi team beat Iran 40-34 to retain gold, women’s team beat…",
+      "category": "Sports",
+      "image": "https://s.yimg.com/lo/mysterio/api/a8c5ac041ef93ba860d7b4c2671fb71676f160e9573b39e822da34cbc8da8a09/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstadium_rant_681%2F4a4f65675924234546b9b5b547190956.jpg",
+      "source": "Yahoo Sports",
+      "sourceUrl": "https://sports.yahoo.com/articles/asian-games-2026-day-9-134406294.html",
+      "publishedAt": "2026-09-26T13:44:06.000Z",
+      "fetchedAt": "2026-09-26T14:36:19.024Z",
+      "title_hi": "एशियाई खेल 2026 दिन 9 लाइव: कार्यक्रम, समय, परिणाम, भारत कार्यक्रम और पदक तालिका",
+      "summary_hi": "एशियाई खेल 2026 दिन 9 लाइव - कल रविवार है, 27 सितंबर, 2026 - भारत द्वारा 8वें दिन ऐतिहासिक कबड्डी डबल गोल्ड पूरा करने के बाद एक बड़ा एथलेटिक्स फाइनल है! ब्रेकिंग - दिन 8 परिणाम (आज, 26 सितंबर):भारत की पुरुष कबड्डी टीम ने ईरान को 40-34 से हराकर स्वर्ण पदक बरकरार रखा, महिला टीम ने हराया...",
+      "category_hi": "खेल",
+      "title_hinglish": "eshiyaee khela 2026 dina 9 laiv: karyakram, samay, parinam, bharata karyakrama aura padaka talika",
+      "summary_hinglish": "eshiyaee khela 2026 dina 9 laiva - kala ravivara hai, 27 sitanbar, 2026 - bharata dvara 8ven dina aitihasika kabaddi dabala golda pura karane ke bada eka badaा ethaletiksa phainala hai! brekinga - dina 8 parinama (aaj, 26 sitanbara):bharata ki purusha kabaddi tima ne eerana ko 40-34 se harakara svarna padaka barakarara rakh, mahila tima ne haray...",
       "category_hinglish": "Sports"
     },
     {
@@ -343,23 +394,6 @@
       "category_hinglish": "Politics aur Government"
     },
     {
-      "id": "f4e1cc6a2ad2975d",
-      "title": "Asian Games 2026 Day 9 Live: Schedule, Timings, Results, India Fixtures & Medal Tally",
-      "summary": "Asian Games 2026 Day 9 Live – Tomorrow is SUNDAY, September 27, 2026 – is HUGE athletics finals day after India completed a historic KABADDI DOUBLE GOLD on Day 8! Breaking – Day 8 Results (Today, Sept 26):India’s men’s kabaddi team beat Iran 40-34 to retain gold, women’s team beat…",
-      "category": "Sports",
-      "image": "https://s.yimg.com/lo/mysterio/api/a8c5ac041ef93ba860d7b4c2671fb71676f160e9573b39e822da34cbc8da8a09/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstadium_rant_681%2F4a4f65675924234546b9b5b547190956.jpg",
-      "source": "Yahoo Sports",
-      "sourceUrl": "https://sports.yahoo.com/articles/asian-games-2026-day-9-134406294.html",
-      "publishedAt": "2026-09-26T13:44:06.000Z",
-      "fetchedAt": "2026-09-26T14:36:19.024Z",
-      "title_hi": "एशियाई खेल 2026 दिन 9 लाइव: कार्यक्रम, समय, परिणाम, भारत कार्यक्रम और पदक तालिका",
-      "summary_hi": "एशियाई खेल 2026 दिन 9 लाइव - कल रविवार है, 27 सितंबर, 2026 - भारत द्वारा 8वें दिन ऐतिहासिक कबड्डी डबल गोल्ड पूरा करने के बाद एक बड़ा एथलेटिक्स फाइनल है! ब्रेकिंग - दिन 8 परिणाम (आज, 26 सितंबर):भारत की पुरुष कबड्डी टीम ने ईरान को 40-34 से हराकर स्वर्ण पदक बरकरार रखा, महिला टीम ने हराया...",
-      "category_hi": "खेल",
-      "title_hinglish": "eshiyaee khela 2026 dina 9 laiv: karyakram, samay, parinam, bharata karyakrama aura padaka talika",
-      "summary_hinglish": "eshiyaee khela 2026 dina 9 laiva - kala ravivara hai, 27 sitanbar, 2026 - bharata dvara 8ven dina aitihasika kabaddi dabala golda pura karane ke bada eka badaा ethaletiksa phainala hai! brekinga - dina 8 parinama (aaj, 26 sitanbara):bharata ki purusha kabaddi tima ne eerana ko 40-34 se harakara svarna padaka barakarara rakh, mahila tima ne haray...",
-      "category_hinglish": "Sports"
-    },
-    {
       "id": "6505f0c668c90717",
       "title": "India poised to lead next-gen medical practices globally: Jitendra Singh",
       "summary": "Singh said India is poised to lead the next generation of medical practices, driven by AI, genomics, biotechnology and emerging technologies",
@@ -374,6 +408,23 @@
       "category_hi": "टेक्नोलॉजी",
       "title_hinglish": "bharata vaishvika stara para agali pidhaी ki chikitsa paddhatiyon ka netritva karane ke lie taiyara hai: jitendra sinha",
       "summary_hinglish": "sinha ne kaha ki bharata eaaee, jinomiks, jaiva praudyogiki aura ubharati praudyogikiyon dvara sanchalita chikitsa paddhatiyon ki agali pidhaी ka netritva karane ke lie taiyara hai।",
+      "category_hinglish": "Technology"
+    },
+    {
+      "id": "62877e932cb08db1",
+      "title": "IIT Madras announces first close of deep-tech venture capital fund",
+      "summary": "Convener News DeskChennai, September 26: The Indian Institute of Technology Madras (IIT Madras) has announced the first close of its deep-tech venture capital fund, marking a step towards strengthening funding support for technology-intensive startup",
+      "category": "Technology",
+      "image": "https://kashmirconvener.com/wp-content/uploads/2026/09/Smt-Nirmala-Sitharaman-Union-Financial-Minister-Prof-V-Kamakoti-Director-IIT-M-at-%E2%80%98IIT-Madras-Unicorn-Frontier-Fund-I-launch-in-Bangalore-on-26-Sept-2026-1024x683.jpg",
+      "source": "Kashmir Convener",
+      "sourceUrl": "https://kashmirconvener.com/iit-madras-announces-first-close-of-deep-tech-venture-capital-fund/",
+      "publishedAt": "2026-09-26T13:27:52.000Z",
+      "fetchedAt": "2026-09-26T15:34:41.612Z",
+      "title_hi": "आईआईटी मद्रास ने डीप-टेक वेंचर कैपिटल फंड के पहले समापन की घोषणा की",
+      "summary_hi": "संयोजक समाचार डेस्कचेन्नई, 26 सितंबर: भारतीय प्रौद्योगिकी संस्थान मद्रास (आईआईटी मद्रास) ने अपने डीप-टेक वेंचर कैपिटल फंड के पहले समापन की घोषणा की है, जो प्रौद्योगिकी-गहन स्टार्टअप के लिए फंडिंग समर्थन को मजबूत करने की दिशा में एक कदम है।",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "aaeeaaeeti madrasa ne dipa-teka venchara kaipitala phanda ke pahale samapana ki ghoshana ki",
+      "summary_hinglish": "sanyojaka samachara deskachennaee, 26 sitanbar: bharatiya praudyogiki sansthana madrasa (aaeeaaeeti madrasa) ne apane dipa-teka venchara kaipitala phanda ke pahale samapana ki ghoshana ki hai, jo praudyogiki-gahana startaapa ke lie phandinga samarthana ko majabuta karane ki disha men eka kadama hai।",
       "category_hinglish": "Technology"
     },
     {
@@ -394,23 +445,6 @@
       "category_hinglish": "Politics aur Government"
     },
     {
-      "id": "62877e932cb08db1",
-      "title": "IIT Madras announces first close of deep-tech venture capital fund",
-      "summary": "Convener News DeskChennai, September 26: The Indian Institute of Technology Madras (IIT Madras) has announced the first close of its deep-tech venture capital fund, marking a step towards strengthening funding support for technology-intensive startup",
-      "category": "Technology",
-      "image": "https://kashmirconvener.com/wp-content/uploads/2026/09/Smt-Nirmala-Sitharaman-Union-Financial-Minister-Prof-V-Kamakoti-Director-IIT-M-at-%E2%80%98IIT-Madras-Unicorn-Frontier-Fund-I-launch-in-Bangalore-on-26-Sept-2026-1024x683.jpg",
-      "source": "Kashmir Convener",
-      "sourceUrl": "https://kashmirconvener.com/iit-madras-announces-first-close-of-deep-tech-venture-capital-fund/",
-      "publishedAt": "2026-09-26T13:27:52.000Z",
-      "fetchedAt": "2026-09-26T15:34:41.612Z",
-      "title_hi": "आईआईटी मद्रास ने डीप-टेक वेंचर कैपिटल फंड के पहले समापन की घोषणा की",
-      "summary_hi": "संयोजक समाचार डेस्कचेन्नई, 26 सितंबर: भारतीय प्रौद्योगिकी संस्थान मद्रास (आईआईटी मद्रास) ने अपने डीप-टेक वेंचर कैपिटल फंड के पहले समापन की घोषणा की है, जो प्रौद्योगिकी-गहन स्टार्टअप के लिए फंडिंग समर्थन को मजबूत करने की दिशा में एक कदम है।",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "aaeeaaeeti madrasa ne dipa-teka venchara kaipitala phanda ke pahale samapana ki ghoshana ki",
-      "summary_hinglish": "sanyojaka samachara deskachennaee, 26 sitanbar: bharatiya praudyogiki sansthana madrasa (aaeeaaeeti madrasa) ne apane dipa-teka venchara kaipitala phanda ke pahale samapana ki ghoshana ki hai, jo praudyogiki-gahana startaapa ke lie phandinga samarthana ko majabuta karane ki disha men eka kadama hai।",
-      "category_hinglish": "Technology"
-    },
-    {
       "id": "e00612dcb3a93d9c",
       "title": "Muslim farmer killed outside Rajasthan police station, family alleges hate crime -",
       "summary": "A 40-year-old Muslim farmer from Rajasthan’s Alwar district was killed outside a police station on Sept. 24 after being attacked with stones, with his family",
@@ -426,23 +460,6 @@
       "title_hinglish": "rajasthana pulisa steshana ke bahara muslima kisana ki haty, parivara ne lagaya ghrina aparadha ka aaropa -",
       "summary_hinglish": "rajasthana ke alavara jile ke eka 40 varshiya muslima kisana ki 24 sitanbara ko eka pulisa steshana ke bahara pattharon se hamala karake hatya kara di gaee thi।",
       "category_hinglish": "Crime aur Breaking News"
-    },
-    {
-      "id": "03250ab691034ec5",
-      "title": "Sidharth Malhotra Once Called Bhojpuri A ‘Poop’ Feeling, Now He’s Selling Bihar’s Culture Controversy Explained",
-      "summary": "Sidharth Malhotra’s old Bhojpuri remark sparked controversy in 2018 after he appeared on Bigg Boss 11. Years later, the actor is starring in The VVAAN: Force Of The Forest, a Bihar-based film rooted in local folklore and beliefs.",
-      "category": "Entertainment",
-      "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/25/467070d34f79fa888aab677eb54c790217903326037291402_original.png?impolicy=abp_cdn&imwidth=1200",
-      "source": "ABP Live English",
-      "sourceUrl": "https://news.abplive.com/entertainment/celebrities/sidharth-malhotra-once-called-bhojpuri-a-poop-feeling-now-he-s-selling-bihar-s-culture-controversy-explained-1868295",
-      "publishedAt": "2026-09-25T11:02:14.000Z",
-      "fetchedAt": "2026-09-25T12:26:50.371Z",
-      "title_hi": "सिद्धार्थ मल्होत्रा ने कभी भोजपुरी को कहा था 'पूप' फीलिंग, अब बेच रहे हैं बिहार की संस्कृति विवाद",
-      "summary_hi": "सिद्धार्थ मल्होत्रा की पुरानी भोजपुरी टिप्पणी ने 2018 में बिग बॉस 11 में आने के बाद विवाद खड़ा कर दिया था। वर्षों बाद, अभिनेता द वीवीएएन: फोर्स ऑफ द फॉरेस्ट में अभिनय कर रहे हैं, जो स्थानीय लोककथाओं और मान्यताओं पर आधारित बिहार आधारित फिल्म है।",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "siddhartha malhotra ne kabhi bhojapuri ko kaha tha 'pupa' philing, aba becha rahe hain bihara ki sanskriti vivada",
-      "summary_hinglish": "siddhartha malhotra ki purani bhojapuri tippani ne 2018 men biga bosa 11 men aane ke bada vivada khadaा kara diya tha। varshon bad, abhineta da vivieen: phorsa ऑpha da phoresta men abhinaya kara rahe hain, jo sthaniya lokakathaon aura manyataon para aadharita bihara aadharita philma hai।",
-      "category_hinglish": "Entertainment"
     },
     {
       "id": "5dbdb054713907d5",
@@ -479,6 +496,23 @@
       "category_hinglish": "Sports"
     },
     {
+      "id": "03250ab691034ec5",
+      "title": "Sidharth Malhotra Once Called Bhojpuri A ‘Poop’ Feeling, Now He’s Selling Bihar’s Culture Controversy Explained",
+      "summary": "Sidharth Malhotra’s old Bhojpuri remark sparked controversy in 2018 after he appeared on Bigg Boss 11. Years later, the actor is starring in The VVAAN: Force Of The Forest, a Bihar-based film rooted in local folklore and beliefs.",
+      "category": "Entertainment",
+      "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/25/467070d34f79fa888aab677eb54c790217903326037291402_original.png?impolicy=abp_cdn&imwidth=1200",
+      "source": "ABP Live English",
+      "sourceUrl": "https://news.abplive.com/entertainment/celebrities/sidharth-malhotra-once-called-bhojpuri-a-poop-feeling-now-he-s-selling-bihar-s-culture-controversy-explained-1868295",
+      "publishedAt": "2026-09-25T11:02:14.000Z",
+      "fetchedAt": "2026-09-25T12:26:50.371Z",
+      "title_hi": "सिद्धार्थ मल्होत्रा ने कभी भोजपुरी को कहा था 'पूप' फीलिंग, अब बेच रहे हैं बिहार की संस्कृति विवाद",
+      "summary_hi": "सिद्धार्थ मल्होत्रा की पुरानी भोजपुरी टिप्पणी ने 2018 में बिग बॉस 11 में आने के बाद विवाद खड़ा कर दिया था। वर्षों बाद, अभिनेता द वीवीएएन: फोर्स ऑफ द फॉरेस्ट में अभिनय कर रहे हैं, जो स्थानीय लोककथाओं और मान्यताओं पर आधारित बिहार आधारित फिल्म है।",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "siddhartha malhotra ne kabhi bhojapuri ko kaha tha 'pupa' philing, aba becha rahe hain bihara ki sanskriti vivada",
+      "summary_hinglish": "siddhartha malhotra ki purani bhojapuri tippani ne 2018 men biga bosa 11 men aane ke bada vivada khadaा kara diya tha। varshon bad, abhineta da vivieen: phorsa ऑpha da phoresta men abhinaya kara rahe hain, jo sthaniya lokakathaon aura manyataon para aadharita bihara aadharita philma hai।",
+      "category_hinglish": "Entertainment"
+    },
+    {
       "id": "b416f54ccf2cd640",
       "title": "Sitharaman Calls For Major Investment In AI, Semiconductors, Quantum Tech",
       "summary": "Union Finance Minister Nirmala Sitharaman has urged significant investment in AI infrastructure, semiconductors, and quantum technology, identifying them as India",
@@ -494,23 +528,6 @@
       "category_hinglish": "Technology",
       "title_hinglish": "sitaramana ne eaaee, semikandaktars, kvantama teka men badaे nivesha ka aahvana kiya",
       "summary_hinglish": "kendriya vitta mantri nirmala sitaramana ne eaaee inphrastrakchar, semikandaktara aura kvantama teknoloji ko bharata ke rupa men pahachanate hue isamen mahatvapurna nivesha ka aagraha kiya hai"
-    },
-    {
-      "id": "d3a3994e37b7c554",
-      "title": "'CEC must firmly present its side,' says Chirag Paswan as opposition demands Gyanesh Kumar's resignation",
-      "summary": "'CEC must firmly present its side,' says Chirag Paswan as opposition demands Gyanesh Kumar's resignation - Patna (Bihar) [India], September 25 : Union Minister Chirag Paswan on Friday said the Election Commission must firmly present ... Get Latest News on Politics only on lokmattimes.com",
-      "category": "Politics & Government",
-      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/ANI-20260925092530_202609.jpg",
-      "source": "lokmattimes.com",
-      "sourceUrl": "https://www.lokmattimes.com/politics/cec-must-firmly-present-its-side-says-chirag-paswan-as-opposition-demands-gyanesh-kumars-resignation/",
-      "publishedAt": "2026-09-25T09:37:05.000Z",
-      "fetchedAt": "2026-09-25T12:02:35.060Z",
-      "title_hi": "विपक्ष द्वारा ज्ञानेश कुमार के इस्तीफे की मांग पर चिराग पासवान ने कहा, 'सीईसी को अपना पक्ष मजबूती से रखना चाहिए।'",
-      "summary_hi": "विपक्ष द्वारा ज्ञानेश कुमार के इस्तीफे की मांग पर चिराग पासवान ने कहा, 'सीईसी को अपना पक्ष मजबूती से रखना चाहिए।'",
-      "category_hi": "राजनीति और सरकार",
-      "title_hinglish": "vipaksha dvara jnyanesha kumara ke istiphe ki manga para chiraga pasavana ne kah, 'sieesi ko apana paksha majabuti se rakhana chahie।'",
-      "summary_hinglish": "vipaksha dvara jnyanesha kumara ke istiphe ki manga para chiraga pasavana ne kah, 'sieesi ko apana paksha majabuti se rakhana chahie।'",
-      "category_hinglish": "Politics aur Government"
     },
     {
       "id": "89864c931497dac9",
@@ -530,6 +547,23 @@
       "category_hinglish": "Technology"
     },
     {
+      "id": "d3a3994e37b7c554",
+      "title": "'CEC must firmly present its side,' says Chirag Paswan as opposition demands Gyanesh Kumar's resignation",
+      "summary": "'CEC must firmly present its side,' says Chirag Paswan as opposition demands Gyanesh Kumar's resignation - Patna (Bihar) [India], September 25 : Union Minister Chirag Paswan on Friday said the Election Commission must firmly present ... Get Latest News on Politics only on lokmattimes.com",
+      "category": "Politics & Government",
+      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/ANI-20260925092530_202609.jpg",
+      "source": "lokmattimes.com",
+      "sourceUrl": "https://www.lokmattimes.com/politics/cec-must-firmly-present-its-side-says-chirag-paswan-as-opposition-demands-gyanesh-kumars-resignation/",
+      "publishedAt": "2026-09-25T09:37:05.000Z",
+      "fetchedAt": "2026-09-25T12:02:35.060Z",
+      "title_hi": "विपक्ष द्वारा ज्ञानेश कुमार के इस्तीफे की मांग पर चिराग पासवान ने कहा, 'सीईसी को अपना पक्ष मजबूती से रखना चाहिए।'",
+      "summary_hi": "विपक्ष द्वारा ज्ञानेश कुमार के इस्तीफे की मांग पर चिराग पासवान ने कहा, 'सीईसी को अपना पक्ष मजबूती से रखना चाहिए।'",
+      "category_hi": "राजनीति और सरकार",
+      "title_hinglish": "vipaksha dvara jnyanesha kumara ke istiphe ki manga para chiraga pasavana ne kah, 'sieesi ko apana paksha majabuti se rakhana chahie।'",
+      "summary_hinglish": "vipaksha dvara jnyanesha kumara ke istiphe ki manga para chiraga pasavana ne kah, 'sieesi ko apana paksha majabuti se rakhana chahie।'",
+      "category_hinglish": "Politics aur Government"
+    },
+    {
       "id": "ed9fa73a42d563db",
       "title": "India's Prachi Choudhary Secures Bronze In Asian Games 400m Final",
       "summary": "Prachi Choudhary secured a bronze medal for India in the women",
@@ -545,23 +579,6 @@
       "category_hinglish": "Sports",
       "title_hinglish": "bharata ki prachi chaudhari ne eshiyaee khelon ki 400 mitara phaाinala men kansya padaka hasila kiya",
       "summary_hinglish": "mahilaon men prachi chaudhari ne bharata ke lie kansya padaka hasila kiya"
-    },
-    {
-      "id": "e40637d4fb87586d",
-      "title": "The Vvaan - Force Of The Forrest Movie Review: Sidharth Malhotra and Tamannaah Bhatia Bring Bihar Folklore to the Big Screen",
-      "summary": "The Vvaan - Force Of The Forrest Movie review: Sidharth Malhotra and Tamannaah Bhatia lead a folklore-driven horror adventure rooted in Bihar.",
-      "category": "Entertainment",
-      "image": "https://www.oneworldnews.com/wp-content/uploads/2026/09/The-Vvaan-Force-Of-The-Forrest-Movie-review.webp",
-      "source": "oneworldnews.com",
-      "sourceUrl": "https://www.oneworldnews.com/entertainment/the-vvaan-force-of-the-forrest-movie-review/",
-      "publishedAt": "2026-09-25T06:21:28.000Z",
-      "fetchedAt": "2026-09-25T07:02:49.358Z",
-      "title_hi": "द व्वान - फ़ोर्स ऑफ़ द फ़ॉरेस्ट मूवी समीक्षा: सिद्धार्थ मल्होत्रा और तमन्ना भाटिया बिहार के लोकगीत को बड़े पर्दे पर लाएंगे",
-      "summary_hi": "द व्वान - फ़ोर्स ऑफ़ द फ़ॉरेस्ट मूवी समीक्षा: सिद्धार्थ मल्होत्रा और तमन्ना भाटिया बिहार में निहित लोककथाओं पर आधारित डरावनी साहसिक फिल्म का नेतृत्व करते हैं।",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "da vvana - phaोrsa ऑpha da phaॉresta muvi samiksh: siddhartha malhotra aura tamanna bhatiya bihara ke lokagita ko badaे parde para laenge",
-      "summary_hinglish": "da vvana - phaोrsa ऑpha da phaॉresta muvi samiksh: siddhartha malhotra aura tamanna bhatiya bihara men nihita lokakathaon para aadharita daravani sahasika philma ka netritva karate hain।",
-      "category_hinglish": "Entertainment"
     },
     {
       "id": "f1e9d6e808a78fcc",
@@ -581,6 +598,23 @@
       "category_hinglish": "Crime aur Breaking News"
     },
     {
+      "id": "e40637d4fb87586d",
+      "title": "The Vvaan - Force Of The Forrest Movie Review: Sidharth Malhotra and Tamannaah Bhatia Bring Bihar Folklore to the Big Screen",
+      "summary": "The Vvaan - Force Of The Forrest Movie review: Sidharth Malhotra and Tamannaah Bhatia lead a folklore-driven horror adventure rooted in Bihar.",
+      "category": "Entertainment",
+      "image": "https://www.oneworldnews.com/wp-content/uploads/2026/09/The-Vvaan-Force-Of-The-Forrest-Movie-review.webp",
+      "source": "oneworldnews.com",
+      "sourceUrl": "https://www.oneworldnews.com/entertainment/the-vvaan-force-of-the-forrest-movie-review/",
+      "publishedAt": "2026-09-25T06:21:28.000Z",
+      "fetchedAt": "2026-09-25T07:02:49.358Z",
+      "title_hi": "द व्वान - फ़ोर्स ऑफ़ द फ़ॉरेस्ट मूवी समीक्षा: सिद्धार्थ मल्होत्रा और तमन्ना भाटिया बिहार के लोकगीत को बड़े पर्दे पर लाएंगे",
+      "summary_hi": "द व्वान - फ़ोर्स ऑफ़ द फ़ॉरेस्ट मूवी समीक्षा: सिद्धार्थ मल्होत्रा और तमन्ना भाटिया बिहार में निहित लोककथाओं पर आधारित डरावनी साहसिक फिल्म का नेतृत्व करते हैं।",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "da vvana - phaोrsa ऑpha da phaॉresta muvi samiksh: siddhartha malhotra aura tamanna bhatiya bihara ke lokagita ko badaे parde para laenge",
+      "summary_hinglish": "da vvana - phaोrsa ऑpha da phaॉresta muvi samiksh: siddhartha malhotra aura tamanna bhatiya bihara men nihita lokakathaon para aadharita daravani sahasika philma ka netritva karate hain।",
+      "category_hinglish": "Entertainment"
+    },
+    {
       "id": "4bd9573441ac968a",
       "title": "AI, semiconductors, quantum to drive India's next infrastructure push: FM Sitharaman",
       "summary": "Union Finance Minister Nirmala Sitharaman highlighted the need for investment in AI, semiconductor chips, and quantum technology. She stated that strengthening digital infrastructure will support AI adoption across various sectors. Additionally, Sitharaman underscored the importance of providing AI solutions to micro, small, and medium enterprises. She believes that achieving over…",
@@ -598,23 +632,6 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "1549b65b6103c3f1",
-      "title": "The Vvaan: All about the 400-year-old Devi temple in Bihar that inspired the film",
-      "summary": "Sidharth Malhotra and Tamannaah Bhatia’s The Vvaan: Force of the Forest is a film inspired by the 400-year-old Maa Van Devi Temple near Bihta, Bihar. The movie draws on local legends and traditions, highlighting the temple's mysterious evening restrictions and its cultural significance in Bihar's religious heritage. .",
-      "category": "Entertainment",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/ektaa-kapoor--arunabh-kumar--the-vvaan-245545843-16x9_0.jpg?VersionId=NcuCO2y5inUHEwhHSjYi0wDaP9NyP1zy",
-      "source": "indiatoday.in",
-      "sourceUrl": "https://www.indiatoday.in/movies/bollywood/story/the-vvaan-inspiration-van-devi-temple-400-year-old-bihar-folklore-after-sunset-ban-3001808-2026-09-24",
-      "publishedAt": "2026-09-25T06:21:06.000Z",
-      "fetchedAt": "2026-09-25T08:43:55.781Z",
-      "title_hi": "द वावन: बिहार के 400 साल पुराने देवी मंदिर के बारे में सब कुछ जिसने फिल्म को प्रेरित किया",
-      "summary_hi": "सिद्धार्थ मल्होत्रा और तमन्ना भाटिया की द वावन: फोर्स ऑफ द फॉरेस्ट बिहार के बिहटा के पास 400 साल पुराने मां वन देवी मंदिर से प्रेरित फिल्म है। यह फिल्म स्थानीय किंवदंतियों और परंपराओं पर आधारित है, जो मंदिर की रहस्यमय शाम की बंदिशों और बिहार की धार्मिक विरासत में इसके सांस्कृतिक महत्व को उजागर करती है। .",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "da vavan: bihara ke 400 sala purane devi mandira ke bare men saba kuchha jisane philma ko prerita kiya",
-      "summary_hinglish": "siddhartha malhotra aura tamanna bhatiya ki da vavan: phorsa ऑpha da phoresta bihara ke bihata ke pasa 400 sala purane man vana devi mandira se prerita philma hai। yaha philma sthaniya kinvadantiyon aura paranparaon para aadharita hai, jo mandira ki rahasyamaya shama ki bandishon aura bihara ki dharmika virasata men isake sanskritika mahatva ko ujagara karati hai। .",
-      "category_hinglish": "Entertainment"
-    },
-    {
       "id": "7bee99b12c4d91c8",
       "title": "15 murders reported in Coimbatore district between June and August; police step up patrolling",
       "summary": "As many as 15 murders were reported in Coimbatore district between June and August this year, prompting the district police to intensify patrolling in isolated areas and near Tasmac liquor outlets, particularly on the outskirts. According to senior police officials, the district recorded 16 murders during the corresponding three-month period…",
@@ -630,6 +647,40 @@
       "title_hinglish": "juna aura agasta ke bicha koyanbatura jile men 15 hatyaen darja ki gaeen; pulisa ne gashta badhaा di hai",
       "summary_hinglish": "isa sala juna aura agasta ke bicha koyanbatura jile men kama se kama 15 hatyaen darja ki gaeen, jisake bada jila pulisa ko alaga-thalaga ilakon aura tasmaka sharaba ki dukanon ke pas, khasakara bahari ilakon men gashta teja karani padaी। varishtha pulisa adhikariyon ke anusar, jile men isi tina mahine ki avadhi ke daurana 16 hatyaen darja ki gaeen...",
       "category_hinglish": "Crime aur Breaking News"
+    },
+    {
+      "id": "f993807c50a6bb56",
+      "title": "Sahil Wakode death: IIT Bombay students demand reconstitution of probe panel, protest with candlelight ma",
+      "summary": "A week after Sahil Wakode's death, IIT Bombay students held a candlelight march on Friday night demanding that the 10-member committee probing the circumstances surrounding his alleged suicide be reconstituted, claiming some members of the panel had expressed support for Prof Suryanarayana Doolla, who has been named in the police…",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134503946,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/mumbai/sahil-wakode-death-iit-bombay-students-demand-reconstitution-of-probe-panel-protest-with-candlelight-march/articleshow/134503541.cms",
+      "publishedAt": "2026-09-26T12:00:00.000Z",
+      "fetchedAt": "2026-09-26T17:55:40.045Z",
+      "title_hi": "साहिल वाकोडे की मौत: आईआईटी बॉम्बे के छात्रों ने जांच पैनल के पुनर्गठन की मांग की, मोमबत्ती की रोशनी में विरोध प्रदर्शन किया",
+      "summary_hi": "साहिल वाकोडे की मौत के एक हफ्ते बाद, आईआईटी बॉम्बे के छात्रों ने शुक्रवार रात एक कैंडललाइट मार्च निकाला और मांग की कि उनकी कथित आत्महत्या के आसपास की परिस्थितियों की जांच करने वाली 10 सदस्यीय समिति का पुनर्गठन किया जाए, उन्होंने दावा किया कि पैनल के कुछ सदस्यों ने प्रोफेसर सूर्यनारायण डूला के लिए समर्थन व्यक्त किया था, जिनका नाम पुलिस में लिया गया है...",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "sahila vakode ki maut: aaeeaaeeti bombe ke chhatron ne jancha painala ke punargathana ki manga ki, momabatti ki roshani men virodha pradarshana kiya",
+      "summary_hinglish": "sahila vakode ki mauta ke eka haphte bad, aaeeaaeeti bombe ke chhatron ne shukravara rata eka kaindalalaita marcha nikala aura manga ki ki unaki kathita aatmahatya ke aasapasa ki paristhitiyon ki jancha karane vali 10 sadasyiya samiti ka punargathana kiya jae, unhonne dava kiya ki painala ke kuchha sadasyon ne prophesara suryanarayana dula ke lie samarthana vyakta kiya th, jinaka nama pulisa men liya gaya hai...",
+      "category_hinglish": "Crime aur Breaking News"
+    },
+    {
+      "id": "1549b65b6103c3f1",
+      "title": "The Vvaan: All about the 400-year-old Devi temple in Bihar that inspired the film",
+      "summary": "Sidharth Malhotra and Tamannaah Bhatia’s The Vvaan: Force of the Forest is a film inspired by the 400-year-old Maa Van Devi Temple near Bihta, Bihar. The movie draws on local legends and traditions, highlighting the temple's mysterious evening restrictions and its cultural significance in Bihar's religious heritage. .",
+      "category": "Entertainment",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/ektaa-kapoor--arunabh-kumar--the-vvaan-245545843-16x9_0.jpg?VersionId=NcuCO2y5inUHEwhHSjYi0wDaP9NyP1zy",
+      "source": "indiatoday.in",
+      "sourceUrl": "https://www.indiatoday.in/movies/bollywood/story/the-vvaan-inspiration-van-devi-temple-400-year-old-bihar-folklore-after-sunset-ban-3001808-2026-09-24",
+      "publishedAt": "2026-09-25T06:21:06.000Z",
+      "fetchedAt": "2026-09-25T08:43:55.781Z",
+      "title_hi": "द वावन: बिहार के 400 साल पुराने देवी मंदिर के बारे में सब कुछ जिसने फिल्म को प्रेरित किया",
+      "summary_hi": "सिद्धार्थ मल्होत्रा और तमन्ना भाटिया की द वावन: फोर्स ऑफ द फॉरेस्ट बिहार के बिहटा के पास 400 साल पुराने मां वन देवी मंदिर से प्रेरित फिल्म है। यह फिल्म स्थानीय किंवदंतियों और परंपराओं पर आधारित है, जो मंदिर की रहस्यमय शाम की बंदिशों और बिहार की धार्मिक विरासत में इसके सांस्कृतिक महत्व को उजागर करती है। .",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "da vavan: bihara ke 400 sala purane devi mandira ke bare men saba kuchha jisane philma ko prerita kiya",
+      "summary_hinglish": "siddhartha malhotra aura tamanna bhatiya ki da vavan: phorsa ऑpha da phoresta bihara ke bihata ke pasa 400 sala purane man vana devi mandira se prerita philma hai। yaha philma sthaniya kinvadantiyon aura paranparaon para aadharita hai, jo mandira ki rahasyamaya shama ki bandishon aura bihara ki dharmika virasata men isake sanskritika mahatva ko ujagara karati hai। .",
+      "category_hinglish": "Entertainment"
     },
     {
       "id": "ee6a1fe819500bd7",
@@ -768,23 +819,6 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "fe630ec3977f4980",
-      "title": "Bihar sees third harassment case in a week, woman assaulted at tourist spot | India News",
-      "summary": "The video shows several youths mostly behaving indecently with the woman and assaulting her with a slipper. | India News",
-      "category": "Politics & Government",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/25/1600x900/logo/bihar_banka_1790311991337_jnDq_1790311991470_Hr8E_e9f69858-e366-45be-945a-fa045199bf58_qFW9.png",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/india-news/bihar-banka-mandar-hill-viral-video-woman-man-jamui-samastipur-101790311921188.html",
-      "publishedAt": "2026-09-25T04:58:50.000Z",
-      "fetchedAt": "2026-09-25T10:35:54.928Z",
-      "title_hi": "बिहार में एक हफ्ते में उत्पीड़न का तीसरा मामला, पर्यटन स्थल पर महिला से मारपीट | भारत समाचार",
-      "summary_hi": "वीडियो में दिखाया गया है कि कई युवक महिला के साथ अभद्र व्यवहार कर रहे हैं और उस पर चप्पल से हमला कर रहे हैं। | भारत समाचार",
-      "category_hi": "राजनीति और सरकार",
-      "title_hinglish": "bihara men eka haphte men utpidana ka tisara mamal, paryatana sthala para mahila se marapita | bharata samachara",
-      "summary_hinglish": "vidiyo men dikhaya gaya hai ki kaee yuvaka mahila ke satha abhadra vyavahara kara rahe hain aura usa para chappala se hamala kara rahe hain। | bharata samachara",
-      "category_hinglish": "Politics aur Government"
-    },
-    {
       "id": "381e8fbc34a63130",
       "title": "Business correspondents explained: How BCs extend banking services beyond branches",
       "summary": "Learn about Business Correspondents (BCs), India's last-mile banking infrastructure and their services.",
@@ -800,6 +834,23 @@
       "title_hinglish": "vyavasaya sanvadadataon ne samajhay: kaise bisi shakhaon se pare bainkinga sevaon ka vistara karate hain",
       "summary_hinglish": "bijanesa korespondentsa (bisi), bharata ke antima-mila bainkinga buniyadi dhanche aura unaki sevaon ke bare men janen।",
       "category_hinglish": "Business aur Finance"
+    },
+    {
+      "id": "fe630ec3977f4980",
+      "title": "Bihar sees third harassment case in a week, woman assaulted at tourist spot | India News",
+      "summary": "The video shows several youths mostly behaving indecently with the woman and assaulting her with a slipper. | India News",
+      "category": "Politics & Government",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/25/1600x900/logo/bihar_banka_1790311991337_jnDq_1790311991470_Hr8E_e9f69858-e366-45be-945a-fa045199bf58_qFW9.png",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/bihar-banka-mandar-hill-viral-video-woman-man-jamui-samastipur-101790311921188.html",
+      "publishedAt": "2026-09-25T04:58:50.000Z",
+      "fetchedAt": "2026-09-25T10:35:54.928Z",
+      "title_hi": "बिहार में एक हफ्ते में उत्पीड़न का तीसरा मामला, पर्यटन स्थल पर महिला से मारपीट | भारत समाचार",
+      "summary_hi": "वीडियो में दिखाया गया है कि कई युवक महिला के साथ अभद्र व्यवहार कर रहे हैं और उस पर चप्पल से हमला कर रहे हैं। | भारत समाचार",
+      "category_hi": "राजनीति और सरकार",
+      "title_hinglish": "bihara men eka haphte men utpidana ka tisara mamal, paryatana sthala para mahila se marapita | bharata samachara",
+      "summary_hinglish": "vidiyo men dikhaya gaya hai ki kaee yuvaka mahila ke satha abhadra vyavahara kara rahe hain aura usa para chappala se hamala kara rahe hain। | bharata samachara",
+      "category_hinglish": "Politics aur Government"
     },
     {
       "id": "18678c8ed234c95e",
@@ -938,23 +989,6 @@
       "category_hinglish": "Entertainment"
     },
     {
-      "id": "ea636450a7e004bc",
-      "title": "Ashok defends govt, Shambhavi seeks review of women’s safety laws",
-      "summary": "Amid mounting concern over a series of crimes in Bihar, food and consumer protection minister Ashok Choudhary on Thursday said criminal incidents were not specific to the state and also occurred in developed countries such as the US and Japan. His daughter and LJP(RV) MP Shambhavi Choudhary, meanwhile, called for…",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134463157,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/patna/ashok-defends-govt-shambhavi-seeks-review-of-womens-safety-laws/articleshow/134463160.cms",
-      "publishedAt": "2026-09-24T12:58:00.000Z",
-      "fetchedAt": "2026-09-24T13:19:12.406Z",
-      "title_hi": "अशोक ने सरकार का बचाव किया, शांभवी ने महिला सुरक्षा कानूनों की समीक्षा की मांग की",
-      "summary_hi": "बिहार में अपराधों की श्रृंखला पर बढ़ती चिंता के बीच, खाद्य और उपभोक्ता संरक्षण मंत्री अशोक चौधरी ने गुरुवार को कहा कि आपराधिक घटनाएं केवल राज्य तक ही सीमित नहीं थीं, बल्कि अमेरिका और जापान जैसे विकसित देशों में भी हुई थीं। इस बीच, उनकी बेटी और एलजेपी (आरवी) सांसद शांभवी चौधरी ने कहा...",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "ashoka ne sarakara ka bachava kiy, shanbhavi ne mahila suraksha kanunon ki samiksha ki manga ki",
-      "summary_hinglish": "bihara men aparadhon ki shrrinkhala para badhati chinta ke bich, khadya aura upabhokta sanrakshana mantri ashoka chaudhari ne guruvara ko kaha ki aaparadhika ghatanaen kevala rajya taka hi simita nahin thin, balki amerika aura japana jaise vikasita deshon men bhi huee thin। isa bich, unaki beti aura elajepi (aaravi) sansada shanbhavi chaudhari ne kah...",
-      "category_hinglish": "Crime aur Breaking News"
-    },
-    {
       "id": "1624fd1eaa8272c2",
       "title": "FM Sitharaman Outlines Vision For 10%+ Economic Growth",
       "summary": "Union Finance Minister Nirmala Sitharaman expressed confidence that India can achieve over 10 per cent economic growth, emphasising the critical role of technology and innovation across all sectors. She highlighted the potential of startups and technological interventions in agriculture, such as precision mapping and efficient fertiliser distribution, to drive this…",
@@ -970,6 +1004,23 @@
       "title_hinglish": "ephaema sitaramana ne 10%+ aarthika vikasa ke lie drishtikona ki ruparekha taiyara ki",
       "summary_hinglish": "kendriya vitta mantri nirmala sitaramana ne sabhi kshetron men praudyogiki aura navachara ki mahatvapurna bhumika para jora dete hue vishvasa vyakta kiya ki bharata 10 pratishata se adhika aarthika vriddhi hasila kara sakata hai। unhonne ise aage badhaाne ke lie krishi men startaapa aura takaniki hastakshepon ki kshamata para prakasha dal, jaise ki satika manachitrana aura kushala urvaraka vitaran...",
       "category_hinglish": "Technology"
+    },
+    {
+      "id": "ea636450a7e004bc",
+      "title": "Ashok defends govt, Shambhavi seeks review of women’s safety laws",
+      "summary": "Amid mounting concern over a series of crimes in Bihar, food and consumer protection minister Ashok Choudhary on Thursday said criminal incidents were not specific to the state and also occurred in developed countries such as the US and Japan. His daughter and LJP(RV) MP Shambhavi Choudhary, meanwhile, called for…",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134463157,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/patna/ashok-defends-govt-shambhavi-seeks-review-of-womens-safety-laws/articleshow/134463160.cms",
+      "publishedAt": "2026-09-24T12:58:00.000Z",
+      "fetchedAt": "2026-09-24T13:19:12.406Z",
+      "title_hi": "अशोक ने सरकार का बचाव किया, शांभवी ने महिला सुरक्षा कानूनों की समीक्षा की मांग की",
+      "summary_hi": "बिहार में अपराधों की श्रृंखला पर बढ़ती चिंता के बीच, खाद्य और उपभोक्ता संरक्षण मंत्री अशोक चौधरी ने गुरुवार को कहा कि आपराधिक घटनाएं केवल राज्य तक ही सीमित नहीं थीं, बल्कि अमेरिका और जापान जैसे विकसित देशों में भी हुई थीं। इस बीच, उनकी बेटी और एलजेपी (आरवी) सांसद शांभवी चौधरी ने कहा...",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "ashoka ne sarakara ka bachava kiy, shanbhavi ne mahila suraksha kanunon ki samiksha ki manga ki",
+      "summary_hinglish": "bihara men aparadhon ki shrrinkhala para badhati chinta ke bich, khadya aura upabhokta sanrakshana mantri ashoka chaudhari ne guruvara ko kaha ki aaparadhika ghatanaen kevala rajya taka hi simita nahin thin, balki amerika aura japana jaise vikasita deshon men bhi huee thin। isa bich, unaki beti aura elajepi (aaravi) sansada shanbhavi chaudhari ne kah...",
+      "category_hinglish": "Crime aur Breaking News"
     },
     {
       "id": "298339d3d6377910",
@@ -1108,23 +1159,6 @@
       "category_hinglish": "Crime aur Breaking News"
     },
     {
-      "id": "d95f8864a6d2a2c3",
-      "title": "Jamui harassment video: Accused Nandan Yadav’s father was wanted for double murder",
-      "summary": "While the other accused in the 2003 double murder are now out on bail, Ganauri Yadav was never caught by Bihar Police",
-      "category": "Crime & Breaking News",
-      "image": "https://img.theweek.in/content/dam/week/en/archive/news/india/images/2026/9/22/jamui-viral-video-harassment-nandan-yadav.jpg",
-      "source": "theweek.in",
-      "sourceUrl": "https://www.theweek.in/news/india/2026/09/24/jamui-harassment-video-accused-nandan-yadavs-father-was-wanted-for-double-murder.html",
-      "publishedAt": "2026-09-24T06:24:04.000Z",
-      "fetchedAt": "2026-09-24T11:46:11.640Z",
-      "title_hi": "जमुई उत्पीड़न वीडियो: आरोपी नंदन यादव के पिता दोहरे हत्याकांड में थे वांछित",
-      "summary_hi": "जबकि 2003 के दोहरे हत्याकांड के अन्य आरोपी अब जमानत पर बाहर हैं, गनौरी यादव कभी भी बिहार पुलिस की पकड़ में नहीं आया",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "category_hinglish": "Crime aur Breaking News",
-      "title_hinglish": "jamuee utpidana vidiyo: aaropi nandana yadava ke pita dohare hatyakanda men the vanchhita",
-      "summary_hinglish": "jabaki 2003 ke dohare hatyakanda ke anya aaropi aba jamanata para bahara hain, ganauri yadava kabhi bhi bihara pulisa ki pakada men nahin aaya"
-    },
-    {
       "id": "1ac235abc57584b4",
       "title": "Akshay Kumar’s next with Anees Bazmee ‘Mauja Hi Mauja’ gets Rs 60 crore all-India distribution deal ahead",
       "summary": "Akshay Kumar is known for delivering laughter riots, and teaming up with filmmaker Anees Bazmee only raises the excitement further. Now, the all-India distribution rights for the actor's upcoming film with the filmmaker have reportedly been bagged for a massive Rs 60 crore.",
@@ -1140,6 +1174,23 @@
       "title_hinglish": "anisa bajami ke satha akshaya kumara ki agali philma 'mauja hi mauja' ko 60 karoda rupaye ka akhila bharatiya vitarana sauda mila",
       "summary_hinglish": "akshaya kumara hansi ke thahake lagane ke lie jane jate hain aura philma nirmata anisa bajami ke satha kama karane se utsaha aura badha jata hai। ab, philma nirmata ke satha abhineta ki aagami philma ke akhila bharatiya vitarana adhikara kathita taura para 60 karoda rupaye men hasila kie gae hain।",
       "category_hinglish": "Entertainment"
+    },
+    {
+      "id": "d95f8864a6d2a2c3",
+      "title": "Jamui harassment video: Accused Nandan Yadav’s father was wanted for double murder",
+      "summary": "While the other accused in the 2003 double murder are now out on bail, Ganauri Yadav was never caught by Bihar Police",
+      "category": "Crime & Breaking News",
+      "image": "https://img.theweek.in/content/dam/week/en/archive/news/india/images/2026/9/22/jamui-viral-video-harassment-nandan-yadav.jpg",
+      "source": "theweek.in",
+      "sourceUrl": "https://www.theweek.in/news/india/2026/09/24/jamui-harassment-video-accused-nandan-yadavs-father-was-wanted-for-double-murder.html",
+      "publishedAt": "2026-09-24T06:24:04.000Z",
+      "fetchedAt": "2026-09-24T11:46:11.640Z",
+      "title_hi": "जमुई उत्पीड़न वीडियो: आरोपी नंदन यादव के पिता दोहरे हत्याकांड में थे वांछित",
+      "summary_hi": "जबकि 2003 के दोहरे हत्याकांड के अन्य आरोपी अब जमानत पर बाहर हैं, गनौरी यादव कभी भी बिहार पुलिस की पकड़ में नहीं आया",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "category_hinglish": "Crime aur Breaking News",
+      "title_hinglish": "jamuee utpidana vidiyo: aaropi nandana yadava ke pita dohare hatyakanda men the vanchhita",
+      "summary_hinglish": "jabaki 2003 ke dohare hatyakanda ke anya aaropi aba jamanata para bahara hain, ganauri yadava kabhi bhi bihara pulisa ki pakada men nahin aaya"
     },
     {
       "id": "bba8f10591a5303b",
@@ -1278,23 +1329,6 @@
       "category_hinglish": "Politics aur Government"
     },
     {
-      "id": "f0d00f1243cb2345",
-      "title": "Son Arrested In Jamui Groping Case, Father Caught For 2003 Double Murder After Hiding For 23 Years: How Police Found Him",
-      "summary": "Jamui groping case: Police arrest accused Nandan Yadav’s father Ganori Yadav in a 2003 double-murder case after tracing his criminal past.",
-      "category": "Crime & Breaking News",
-      "image": "https://www.newsx.com/wp-content/uploads/2026/09/jamui-nandan-yadav.jpg",
-      "source": "NewsX",
-      "sourceUrl": "https://www.newsx.com/regionals/son-arrested-in-jamui-groping-case-father-caught-for-2003-double-murder-after-hiding-for-23-years-how-police-found-him-275199/",
-      "publishedAt": "2026-09-24T02:27:10.000Z",
-      "fetchedAt": "2026-09-24T03:25:43.458Z",
-      "title_hi": "जमुई ग्रोपिंग मामले में बेटा गिरफ्तार, पिता 23 साल तक छिपने के बाद 2003 के दोहरे हत्याकांड में पकड़ा गया: पुलिस ने उसे कैसे पाया",
-      "summary_hi": "जमुई छेड़छाड़ मामला: पुलिस ने आरोपी नंदन यादव के आपराधिक इतिहास का पता लगाने के बाद 2003 के दोहरे हत्याकांड में उसके पिता गनोरी यादव को गिरफ्तार कर लिया।",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "category_hinglish": "Crime aur Breaking News",
-      "title_hinglish": "jamuee gropinga mamale men beta giraphtar, pita 23 sala taka chhipane ke bada 2003 ke dohare hatyakanda men pakadaा gay: pulisa ne use kaise paya",
-      "summary_hinglish": "jamuee chhedachhada mamal: pulisa ne aaropi nandana yadava ke aaparadhika itihasa ka pata lagane ke bada 2003 ke dohare hatyakanda men usake pita ganori yadava ko giraphtara kara liya।"
-    },
-    {
       "id": "6ddc20020f63b5f6",
       "title": "‘The Paradise’ box office collection day 3 [LIVE]: Nani’s film shows steady growth on Saturday, nears Rs",
       "summary": "Nani and Srikanth Odela’s 'The Paradise' has entered Day 3 of its theatrical run, with the Nani-starrer witnessing continued audience activity on its first Saturday. The period action drama, which released worldwide on September 24, is playing in multiple languages and is heading into the crucial second half of its…",
@@ -1310,6 +1344,23 @@
       "title_hinglish": "'da pairadaija' boksa ऑphisa kalekshana dina 3 [laiva]: nani ki philma ne shanivara ko lagatara vriddhi dekhi, rupaye ke kariba",
       "summary_hinglish": "nani aura shrikanta odela ki 'da pairadaija' ne apane natakiya pradarshana ke tisare dina men pravesha kara liya hai, nani-starara ke pahale shanivara ko darshakon ki sakriyata jari rahi। piriyada ekshana dram, jo 24 sitanbara ko duniya bhara men rilija huee, kaee bhashaon men chala rahi hai aura apane nirnayaka dusare bhaga men pahuncha rahi hai...",
       "category_hinglish": "Entertainment"
+    },
+    {
+      "id": "f0d00f1243cb2345",
+      "title": "Son Arrested In Jamui Groping Case, Father Caught For 2003 Double Murder After Hiding For 23 Years: How Police Found Him",
+      "summary": "Jamui groping case: Police arrest accused Nandan Yadav’s father Ganori Yadav in a 2003 double-murder case after tracing his criminal past.",
+      "category": "Crime & Breaking News",
+      "image": "https://www.newsx.com/wp-content/uploads/2026/09/jamui-nandan-yadav.jpg",
+      "source": "NewsX",
+      "sourceUrl": "https://www.newsx.com/regionals/son-arrested-in-jamui-groping-case-father-caught-for-2003-double-murder-after-hiding-for-23-years-how-police-found-him-275199/",
+      "publishedAt": "2026-09-24T02:27:10.000Z",
+      "fetchedAt": "2026-09-24T03:25:43.458Z",
+      "title_hi": "जमुई ग्रोपिंग मामले में बेटा गिरफ्तार, पिता 23 साल तक छिपने के बाद 2003 के दोहरे हत्याकांड में पकड़ा गया: पुलिस ने उसे कैसे पाया",
+      "summary_hi": "जमुई छेड़छाड़ मामला: पुलिस ने आरोपी नंदन यादव के आपराधिक इतिहास का पता लगाने के बाद 2003 के दोहरे हत्याकांड में उसके पिता गनोरी यादव को गिरफ्तार कर लिया।",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "category_hinglish": "Crime aur Breaking News",
+      "title_hinglish": "jamuee gropinga mamale men beta giraphtar, pita 23 sala taka chhipane ke bada 2003 ke dohare hatyakanda men pakadaा gay: pulisa ne use kaise paya",
+      "summary_hinglish": "jamuee chhedachhada mamal: pulisa ne aaropi nandana yadava ke aaparadhika itihasa ka pata lagane ke bada 2003 ke dohare hatyakanda men usake pita ganori yadava ko giraphtara kara liya।"
     },
     {
       "id": "8bfb7f009082e181",
@@ -1361,57 +1412,6 @@
       "title_hinglish": "bihara bhajapa vidhayaka ne jivika didiyon ko ₹10,000 karoda bantane ke lie apani hi sarakara ki aalochana ki",
       "summary_hinglish": "bihara bhajapa vidhayaka vinaya bihari ne apani sarakara dvara jivika didiyon ko ₹10,000 karoda die jane ki aalochana ki aura vikasa para isake prabhava para savala uthaya।",
       "category_hinglish": "Politics aur Government"
-    },
-    {
-      "id": "1ba98cf8af6f869d",
-      "title": "India Expands Digital Tourism Agenda for World Tourism Day 2026",
-      "summary": "India is using digital infrastructure, artificial intelligence and destination-led development to reshape its tourism sector as part of World Tourism Day",
-      "category": "Technology",
-      "image": "https://opengovasia.com/wp-content/uploads/2026/09/india-digital-tourism-world-tourism-day-2026.webp",
-      "source": "OpenGov Asia",
-      "sourceUrl": "https://opengovasia.com/india-expands-digital-tourism-agenda-for-world-tourism-day-2026/?c=us",
-      "publishedAt": "2026-09-26T09:30:42.000Z",
-      "fetchedAt": "2026-09-26T10:28:05.065Z",
-      "title_hi": "भारत ने विश्व पर्यटन दिवस 2026 के लिए डिजिटल पर्यटन एजेंडा का विस्तार किया",
-      "summary_hi": "भारत विश्व पर्यटन दिवस के हिस्से के रूप में अपने पर्यटन क्षेत्र को नया आकार देने के लिए डिजिटल बुनियादी ढांचे, कृत्रिम बुद्धिमत्ता और गंतव्य-आधारित विकास का उपयोग कर रहा है",
-      "category_hi": "टेक्नोलॉजी",
-      "category_hinglish": "Technology",
-      "title_hinglish": "bharata ne vishva paryatana divasa 2026 ke lie dijitala paryatana ejenda ka vistara kiya",
-      "summary_hinglish": "bharata vishva paryatana divasa ke hisse ke rupa men apane paryatana kshetra ko naya aakara dene ke lie dijitala buniyadi dhanche, kritrima buddhimatta aura gantavya-aadharita vikasa ka upayoga kara raha hai"
-    },
-    {
-      "id": "773ba38da40d3dfe",
-      "title": "SkyStriker a big hit at Yudh Abhyas 2026: Inside India's precision loitering munition",
-      "summary": "The SkyStriker loitering munition carried out a precision strike at the Mahajan Field Firing Range during the ongoing India-US military exercise Yudh",
-      "category": "Technology",
-      "image": "https://static.toiimg.com/thumb/msid-134501525,width-1280,height-720,imgsize-110155,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/defence/news/skystriker-a-big-hit-at-yudh-abhyas-2026-inside-indias-precision-loitering-munition/articleshow/134501493.cms",
-      "publishedAt": "2026-09-26T09:28:00.000Z",
-      "fetchedAt": "2026-09-26T10:43:13.129Z",
-      "title_hi": "स्काईस्ट्राइकर युद्ध अभ्यास 2026 में एक बड़ी हिट: भारत के सटीक आवारा गोला बारूद के अंदर",
-      "summary_hi": "चल रहे भारत-अमेरिका सैन्य अभ्यास युद्ध के दौरान स्काईस्ट्राइकर ने महाजन फील्ड फायरिंग रेंज पर सटीक हमला किया।",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "skaeestraikara yuddha abhyasa 2026 men eka badaी hit: bharata ke satika aavara gola baruda ke andara",
-      "summary_hinglish": "chala rahe bharata-amerika sainya abhyasa yuddha ke daurana skaeestraikara ne mahajana philda phayaringa renja para satika hamala kiya।",
-      "category_hinglish": "Technology"
-    },
-    {
-      "id": "8622e9889c47c0f6",
-      "title": "Bengaluru-based startup founder says he stopped recruiting men from Bihar, UP, Rajasthan, MP; netizens div",
-      "summary": "A Bengaluru entrepreneur has announced a hiring restriction covering male candidates from Uttar Pradesh, Rajasthan, Bihar and Madhya Pradesh, citing an alleged incident involving a former employee. Karthik SG said the employee had been dismissed after warnings over alleged abusive conduct towards female staff. The announcement drew mixed online responses,…",
-      "category": "Technology",
-      "image": "https://m.economictimes.com/thumb/width-1280,height-720,imgsize-186324,msid-134443714/startup.jpg",
-      "source": "The Economic Times",
-      "sourceUrl": "https://m.economictimes.com/news/new-updates/bengaluru-based-startup-founder-says-he-stopped-recruiting-men-from-bihar-up-rajasthan-mp-netizens-divided-over-reason/amp_articleshow/134443625.cms",
-      "publishedAt": "2026-09-23T17:52:00.000Z",
-      "fetchedAt": "2026-09-23T19:21:44.914Z",
-      "title_hi": "बेंगलुरु स्थित स्टार्टअप संस्थापक का कहना है कि उन्होंने बिहार, यूपी, राजस्थान, एमपी से पुरुषों की भर्ती बंद कर दी है; नेटिजेंस डिव",
-      "summary_hi": "बेंगलुरु के एक उद्यमी ने एक पूर्व कर्मचारी से जुड़ी एक कथित घटना का हवाला देते हुए उत्तर प्रदेश, राजस्थान, बिहार और मध्य प्रदेश के पुरुष उम्मीदवारों को शामिल करते हुए नियुक्ति पर प्रतिबंध लगाने की घोषणा की है। कार्तिक एसजी ने कहा कि महिला कर्मचारियों के प्रति कथित अपमानजनक आचरण पर चेतावनी के बाद कर्मचारी को बर्खास्त कर दिया गया था। घोषणा को मिश्रित ऑनलाइन प्रतिक्रियाएँ मिलीं,…",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "bengaluru sthita startaapa sansthapaka ka kahana hai ki unhonne bihar, yupi, rajasthan, emapi se purushon ki bharti banda kara di hai; netijensa diva",
-      "summary_hinglish": "bengaluru ke eka udyami ne eka purva karmachari se judaी eka kathita ghatana ka havala dete hue uttara pradesh, rajasthan, bihara aura madhya pradesha ke purusha ummidavaron ko shamila karate hue niyukti para pratibandha lagane ki ghoshana ki hai। kartika esaji ne kaha ki mahila karmachariyon ke prati kathita apamanajanaka aacharana para chetavani ke bada karmachari ko barkhasta kara diya gaya tha। ghoshana ko mishrita ऑnalaina pratikriyaen milin,…",
-      "category_hinglish": "Technology"
     }
   ]
 }
