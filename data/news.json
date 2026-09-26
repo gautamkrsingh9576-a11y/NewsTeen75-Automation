@@ -1,7 +1,24 @@
 {
-  "updatedAt": "2026-09-26T11:50:08.289Z",
-  "count": 90,
+  "updatedAt": "2026-09-26T12:01:05.797Z",
+  "count": 93,
   "articles": [
+    {
+      "id": "f2552976ffbabe94",
+      "title": "Asian Games 2026 live, September 26: Know India scores, updates and results from Day 7",
+      "summary": "Asian Games 2026 live, India updates from September 26, Saturday. Kabaddi, athletics and badminton in focus. Get scores, athletes’ results and medal winners from today, Day 7.",
+      "category": "Sports",
+      "image": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/v1790419874/primary/ywybpns89ugxqouymsqa",
+      "source": "olympics.com",
+      "sourceUrl": "https://www.olympics.com/en/news/asian-games-2026-live-scores-updates-results-india-september-26",
+      "publishedAt": "2026-09-26T11:50:00.000Z",
+      "fetchedAt": "2026-09-26T12:00:37.346Z",
+      "title_hi": "एशियाई खेल 2026 लाइव, 26 सितंबर: सातवें दिन से भारत के स्कोर, अपडेट और परिणाम जानें",
+      "summary_hi": "एशियाई खेल 2026 लाइव, 26 सितंबर, शनिवार से भारत अपडेट। फोकस में कबड्‌डी, एथलेटिक्स और बैडमिंटन। आज, सातवें दिन से स्कोर, एथलीटों के परिणाम और पदक विजेता प्राप्त करें।",
+      "category_hi": "खेल",
+      "title_hinglish": "eshiyaee khela 2026 laiv, 26 sitanbar: sataven dina se bharata ke skor, apadeta aura parinama janen",
+      "summary_hinglish": "eshiyaee khela 2026 laiv, 26 sitanbar, shanivara se bharata apadeta। phokasa men kabad‌di, ethaletiksa aura baidamintana। aaj, sataven dina se skor, ethaliton ke parinama aura padaka vijeta prapta karen।",
+      "category_hinglish": "Sports"
+    },
     {
       "id": "381e8fbc34a63130",
       "title": "Business correspondents explained: How BCs extend banking services beyond branches",
@@ -18,23 +35,6 @@
       "title_hinglish": "vyavasaya sanvadadataon ne samajhay: kaise bisi shakhaon se pare bainkinga sevaon ka vistara karate hain",
       "summary_hinglish": "bijanesa korespondentsa (bisi), bharata ke antima-mila bainkinga buniyadi dhanche aura unaki sevaon ke bare men janen।",
       "category_hinglish": "Business aur Finance"
-    },
-    {
-      "id": "a3aadaa541fb1578",
-      "title": "Pickup van driver arrested for stealing goods from kiosk in Chatra",
-      "summary": "The driver of a pickup van was arrested for allegedly breaking into a kiosk and stealing goods near Banhe on the Simaria-Bagra road in Chatra district in the early hours of Saturday, Simaria police said.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134503284,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/ranchi/pickup-van-driver-arrested-for-stealing-goods-from-kiosk-in-chatra/articleshow/134503285.cms",
-      "publishedAt": "2026-09-26T11:13:00.000Z",
-      "fetchedAt": "2026-09-26T11:23:46.129Z",
-      "title_hi": "चतरा में कियोस्क से सामान चोरी करने के आरोप में पिकअप वैन चालक गिरफ्तार",
-      "summary_hi": "सिमरिया पुलिस ने कहा कि शनिवार तड़के चतरा जिले के सिमरिया-बगरा रोड पर बन्हे के पास एक गुमटी में तोड़फोड़ करने और सामान चोरी करने के आरोप में एक पिकअप वैन के चालक को गिरफ्तार किया गया।",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "chatara men kiyoska se samana chori karane ke aaropa men pikaapa vaina chalaka giraphtara",
-      "summary_hinglish": "simariya pulisa ne kaha ki shanivara tadake chatara jile ke simariya-bagara roda para banhe ke pasa eka gumati men todaphoda karane aura samana chori karane ke aaropa men eka pikaapa vaina ke chalaka ko giraphtara kiya gaya।",
-      "category_hinglish": "Crime aur Breaking News"
     },
     {
       "id": "0fd2b8e1e638217a",
@@ -54,6 +54,23 @@
       "category_hinglish": "Politics aur Government"
     },
     {
+      "id": "a3aadaa541fb1578",
+      "title": "Pickup van driver arrested for stealing goods from kiosk in Chatra",
+      "summary": "The driver of a pickup van was arrested for allegedly breaking into a kiosk and stealing goods near Banhe on the Simaria-Bagra road in Chatra district in the early hours of Saturday, Simaria police said.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134503284,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/ranchi/pickup-van-driver-arrested-for-stealing-goods-from-kiosk-in-chatra/articleshow/134503285.cms",
+      "publishedAt": "2026-09-26T11:13:00.000Z",
+      "fetchedAt": "2026-09-26T11:23:46.129Z",
+      "title_hi": "चतरा में कियोस्क से सामान चोरी करने के आरोप में पिकअप वैन चालक गिरफ्तार",
+      "summary_hi": "सिमरिया पुलिस ने कहा कि शनिवार तड़के चतरा जिले के सिमरिया-बगरा रोड पर बन्हे के पास एक गुमटी में तोड़फोड़ करने और सामान चोरी करने के आरोप में एक पिकअप वैन के चालक को गिरफ्तार किया गया।",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "chatara men kiyoska se samana chori karane ke aaropa men pikaapa vaina chalaka giraphtara",
+      "summary_hinglish": "simariya pulisa ne kaha ki shanivara tadake chatara jile ke simariya-bagara roda para banhe ke pasa eka gumati men todaphoda karane aura samana chori karane ke aaropa men eka pikaapa vaina ke chalaka ko giraphtara kiya gaya।",
+      "category_hinglish": "Crime aur Breaking News"
+    },
+    {
       "id": "1624fd1eaa8272c2",
       "title": "FM Sitharaman Outlines Vision For 10%+ Economic Growth",
       "summary": "Union Finance Minister Nirmala Sitharaman expressed confidence that India can achieve over 10 per cent economic growth, emphasising the critical role of technology and innovation across all sectors. She highlighted the potential of startups and technological interventions in agriculture, such as precision mapping and efficient fertiliser distribution, to drive this…",
@@ -69,23 +86,6 @@
       "title_hinglish": "ephaema sitaramana ne 10%+ aarthika vikasa ke lie drishtikona ki ruparekha taiyara ki",
       "summary_hinglish": "kendriya vitta mantri nirmala sitaramana ne sabhi kshetron men praudyogiki aura navachara ki mahatvapurna bhumika para jora dete hue vishvasa vyakta kiya ki bharata 10 pratishata se adhika aarthika vriddhi hasila kara sakata hai। unhonne ise aage badhaाne ke lie krishi men startaapa aura takaniki hastakshepon ki kshamata para prakasha dal, jaise ki satika manachitrana aura kushala urvaraka vitaran...",
       "category_hinglish": "Technology"
-    },
-    {
-      "id": "55377148da4dfb32",
-      "title": "'The Vvaan' earns ₹8 crore on opening day: Second-biggest opening among Siddharth's last 10 films; 'Hanuman...",
-      "summary": "Sidharth Malhotra film The One box office collection India opening day updates. Follow Bhaskar English. Sidharth Malhotras film The One, released on Friday, recorded a net collection of ₹8 crore in India on its opening day. According to Sacnilk, the film, which was released across 6,746 shows, recorded an occupancy…",
-      "category": "Entertainment",
-      "image": "https://images.bhaskarassets.com/thumb/730x0/web2images/1884/2026/09/26/dbgifmagic_-_2026-09-26t143804_367_1790413687221.gif",
-      "source": "Bhaskar English",
-      "sourceUrl": "https://www.bhaskarenglish.in/entertainment/news/sidharth-malhotra-the-vvaan-film-box-office-collection-india-139156131.html",
-      "publishedAt": "2026-09-26T10:34:54.000Z",
-      "fetchedAt": "2026-09-26T11:23:54.873Z",
-      "title_hi": "'द वावान' ने ओपनिंग डे पर कमाए ₹8 करोड़:सिद्धार्थ की पिछली 10 फिल्मों में दूसरी सबसे बड़ी ओपनिंग; 'हनुमान...",
-      "summary_hi": "सिद्धार्थ मल्होत्रा की फिल्म द वन का बॉक्स ऑफिस कलेक्शन भारत में पहले दिन का अपडेट। भास्कर इंग्लिश को फॉलो करें। शुक्रवार को रिलीज हुई सिद्धार्थ मल्होत्रा ​​की फिल्म द वन ने अपने पहले दिन भारत में ₹8 करोड़ का नेट कलेक्शन दर्ज किया। सैकनिल्क के अनुसार, 6,746 शो में रिलीज हुई इस फिल्म ने ऑक्यूपेंसी दर्ज की...",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "'da vavana' ne opaninga de para kamae ₹8 karod:siddhartha ki pichhali 10 philmon men dusari sabase badaी opaning; 'hanuman...",
-      "summary_hinglish": "siddhartha malhotra ki philma da vana ka boksa ऑphisa kalekshana bharata men pahale dina ka apadeta। bhaskara inglisha ko pholo karen। shukravara ko rilija huee siddhartha malhotra ​​ki philma da vana ne apane pahale dina bharata men ₹8 karoda ka neta kalekshana darja kiya। saikanilka ke anusar, 6,746 sho men rilija huee isa philma ne ऑkyupensi darja ki...",
-      "category_hinglish": "Entertainment"
     },
     {
       "id": "b2cee53f8a5cf9b2",
@@ -105,6 +105,23 @@
       "category_hinglish": "Entertainment"
     },
     {
+      "id": "55377148da4dfb32",
+      "title": "'The Vvaan' earns ₹8 crore on opening day: Second-biggest opening among Siddharth's last 10 films; 'Hanuman...",
+      "summary": "Sidharth Malhotra film The One box office collection India opening day updates. Follow Bhaskar English. Sidharth Malhotras film The One, released on Friday, recorded a net collection of ₹8 crore in India on its opening day. According to Sacnilk, the film, which was released across 6,746 shows, recorded an occupancy…",
+      "category": "Entertainment",
+      "image": "https://images.bhaskarassets.com/thumb/730x0/web2images/1884/2026/09/26/dbgifmagic_-_2026-09-26t143804_367_1790413687221.gif",
+      "source": "Bhaskar English",
+      "sourceUrl": "https://www.bhaskarenglish.in/entertainment/news/sidharth-malhotra-the-vvaan-film-box-office-collection-india-139156131.html",
+      "publishedAt": "2026-09-26T10:34:54.000Z",
+      "fetchedAt": "2026-09-26T11:23:54.873Z",
+      "title_hi": "'द वावान' ने ओपनिंग डे पर कमाए ₹8 करोड़:सिद्धार्थ की पिछली 10 फिल्मों में दूसरी सबसे बड़ी ओपनिंग; 'हनुमान...",
+      "summary_hi": "सिद्धार्थ मल्होत्रा की फिल्म द वन का बॉक्स ऑफिस कलेक्शन भारत में पहले दिन का अपडेट। भास्कर इंग्लिश को फॉलो करें। शुक्रवार को रिलीज हुई सिद्धार्थ मल्होत्रा ​​की फिल्म द वन ने अपने पहले दिन भारत में ₹8 करोड़ का नेट कलेक्शन दर्ज किया। सैकनिल्क के अनुसार, 6,746 शो में रिलीज हुई इस फिल्म ने ऑक्यूपेंसी दर्ज की...",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "'da vavana' ne opaninga de para kamae ₹8 karod:siddhartha ki pichhali 10 philmon men dusari sabase badaी opaning; 'hanuman...",
+      "summary_hinglish": "siddhartha malhotra ki philma da vana ka boksa ऑphisa kalekshana bharata men pahale dina ka apadeta। bhaskara inglisha ko pholo karen। shukravara ko rilija huee siddhartha malhotra ​​ki philma da vana ne apane pahale dina bharata men ₹8 karoda ka neta kalekshana darja kiya। saikanilka ke anusar, 6,746 sho men rilija huee isa philma ne ऑkyupensi darja ki...",
+      "category_hinglish": "Entertainment"
+    },
+    {
       "id": "ace5c07a65a09586",
       "title": "New reality format India’s Future Investors to focus on financial decision-making",
       "summary": "India's Future Investors (IFI), a new reality show planned for 2027, will bring money management to mainstream entertainment.",
@@ -120,6 +137,40 @@
       "title_hinglish": "bharata ke bhavishya ke niveshakon ko vittiya nirnaya lene para dhyana kendrita karane ke lie naya vastavikata prarupa",
       "summary_hinglish": "indiyaja phyuchara investarsa (IFI), 2027 ke lie yojanabaddha eka naya riyaliti sho, dhana prabandhana ko mukhyadhara ke manoranjana men laega।",
       "category_hinglish": "Business aur Finance"
+    },
+    {
+      "id": "6f3913a82a1f57c7",
+      "title": "Melbourne Crime: Man fighting for life with critical wounds after being stabbed while confronting teens br",
+      "summary": "A shocking encounter unfolded in Langwarrin, Melbourne, where a 41-year-old man was critically wounded while confronting teens attempting to break into his car. The man faced multiple stab wounds during the altercation and was later discovered by neighbors who promptly called for help. He underwent emergency surgery following his hospitalization.…",
+      "category": "Crime & Breaking News",
+      "image": "https://m.economictimes.com/thumb/width-1280,height-720,imgsize-45462,msid-134502521/melbourne-crime-man-fighting-for-life-with-critical-wounds-after-being-stabbed.jpg",
+      "source": "The Economic Times",
+      "sourceUrl": "https://m.economictimes.com/news/international/australia/melbourne-crime-man-fighting-for-life-with-critical-wounds-after-being-stabbed-while-confronting-teens-breaking-into-car-outside-his-home/amp_articleshow/134502442.cms",
+      "publishedAt": "2026-09-26T10:28:00.000Z",
+      "fetchedAt": "2026-09-26T12:00:30.611Z",
+      "title_hi": "मेलबर्न अपराध: किशोर भाई से भिड़ने के दौरान चाकू लगने के बाद गंभीर घावों के साथ जीवन के लिए संघर्ष कर रहा व्यक्ति",
+      "summary_hi": "मेलबर्न के लैंगवारिन में एक चौंकाने वाली मुठभेड़ सामने आई, जहां एक 41 वर्षीय व्यक्ति अपनी कार में घुसने का प्रयास कर रहे किशोरों का सामना करते समय गंभीर रूप से घायल हो गया। झगड़े के दौरान उस व्यक्ति को चाकू से कई घावों का सामना करना पड़ा और बाद में पड़ोसियों को पता चला, जिन्होंने तुरंत मदद के लिए फोन किया। अस्पताल में भर्ती होने के बाद उनकी आपातकालीन सर्जरी की गई।…",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "melabarna aparadh: kishora bhaee se bhidane ke daurana chaku lagane ke bada ganbhira ghavon ke satha jivana ke lie sangharsha kara raha vyakti",
+      "summary_hinglish": "melabarna ke laingavarina men eka chaunkane vali muthabheda samane aaee, jahan eka 41 varshiya vyakti apani kara men ghusane ka prayasa kara rahe kishoron ka samana karate samaya ganbhira rupa se ghayala ho gaya। jhagadaे ke daurana usa vyakti ko chaku se kaee ghavon ka samana karana padaा aura bada men padaोsiyon ko pata chal, jinhonne turanta madada ke lie phona kiya। aspatala men bharti hone ke bada unaki aapatakalina sarjari ki gaee।…",
+      "category_hinglish": "Crime aur Breaking News"
+    },
+    {
+      "id": "75f8a86af71d4e53",
+      "title": "'Vvan: Force of the Forrest' box office collection day 1: Sidharth Malhotra and Tamannaah Bhatia's film o",
+      "summary": "Force of the Forest ', starring Sidharth Malhotra and Tamannaah Bhatia, opened in theatres on September 25, 2026. The fantasy thriller takes place in an ancestral village in Bihar.",
+      "category": "Entertainment",
+      "image": "https://static.toiimg.com/thumb/msid-134496334,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/vvan-force-of-the-forrest-box-office-collection-day-1-sidharth-malhotra-and-tamannaah-bhatias-film-opens-with-rs-8-00-cr/articleshow/134495996.cms",
+      "publishedAt": "2026-09-26T03:11:00.000Z",
+      "fetchedAt": "2026-09-26T05:15:11.728Z",
+      "title_hi": "'व्वान: फोर्स ऑफ द फॉरेस्ट' का बॉक्स ऑफिस कलेक्शन दिन 1: सिद्धार्थ मल्होत्रा और तमन्ना भाटिया की फिल्म ओ",
+      "summary_hi": "सिद्धार्थ मल्होत्रा और तमन्ना भाटिया अभिनीत फोर्स ऑफ द फॉरेस्ट 25 सितंबर, 2026 को सिनेमाघरों में रिलीज हुई। फंतासी थ्रिलर बिहार के एक पैतृक गांव में होती है।",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "'vvan: phorsa ऑpha da phoresta' ka boksa ऑphisa kalekshana dina 1: siddhartha malhotra aura tamanna bhatiya ki philma o",
+      "summary_hinglish": "siddhartha malhotra aura tamanna bhatiya abhinita phorsa ऑpha da phoresta 25 sitanbar, 2026 ko sinemagharon men rilija huee। phantasi thrilara bihara ke eka paitrika ganva men hoti hai।",
+      "category_hinglish": "Entertainment"
     },
     {
       "id": "bba8f10591a5303b",
@@ -156,20 +207,20 @@
       "category_hinglish": "Sports"
     },
     {
-      "id": "75f8a86af71d4e53",
-      "title": "'Vvan: Force of the Forrest' box office collection day 1: Sidharth Malhotra and Tamannaah Bhatia's film o",
-      "summary": "Force of the Forest ', starring Sidharth Malhotra and Tamannaah Bhatia, opened in theatres on September 25, 2026. The fantasy thriller takes place in an ancestral village in Bihar.",
+      "id": "4483fc06f24da1ee",
+      "title": "12th International Film Festival of Shimla opens with 96 films from 32 countries",
+      "summary": "12th International Film Festival of Shimla opens with 96 films from 32 countries - Shimla (Himachal Pradesh) [India], September 25 : The 12th International Film Festival of Shimla (IFFS) opened at the historic ... Get Latest News on Entertainment only on lokmattimes.com",
       "category": "Entertainment",
-      "image": "https://static.toiimg.com/thumb/msid-134496334,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/vvan-force-of-the-forrest-box-office-collection-day-1-sidharth-malhotra-and-tamannaah-bhatias-film-opens-with-rs-8-00-cr/articleshow/134495996.cms",
-      "publishedAt": "2026-09-26T03:11:00.000Z",
-      "fetchedAt": "2026-09-26T05:15:11.728Z",
-      "title_hi": "'व्वान: फोर्स ऑफ द फॉरेस्ट' का बॉक्स ऑफिस कलेक्शन दिन 1: सिद्धार्थ मल्होत्रा और तमन्ना भाटिया की फिल्म ओ",
-      "summary_hi": "सिद्धार्थ मल्होत्रा और तमन्ना भाटिया अभिनीत फोर्स ऑफ द फॉरेस्ट 25 सितंबर, 2026 को सिनेमाघरों में रिलीज हुई। फंतासी थ्रिलर बिहार के एक पैतृक गांव में होती है।",
+      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/ANI-20260925171338_202609.jpg",
+      "source": "lokmattimes.com",
+      "sourceUrl": "https://www.lokmattimes.com/entertainment/12th-international-film-festival-of-shimla-opens-with-96-films-from-32-countries/",
+      "publishedAt": "2026-09-25T17:26:58.000Z",
+      "fetchedAt": "2026-09-26T12:01:02.180Z",
+      "title_hi": "शिमला का 12वां अंतर्राष्ट्रीय फिल्म महोत्सव 32 देशों की 96 फिल्मों के साथ शुरू हुआ",
+      "summary_hi": "12वां अंतर्राष्ट्रीय फिल्म महोत्सव शिमला 32 देशों की 96 फिल्मों के साथ शुरू हुआ - शिमला (हिमाचल प्रदेश) [भारत], 25 सितंबर: 12वां अंतर्राष्ट्रीय फिल्म महोत्सव शिमला (आईएफएफएस) ऐतिहासिक रूप से शुरू हुआ... मनोरंजन पर नवीनतम समाचार केवल lkmattimes.com पर प्राप्त करें",
       "category_hi": "मनोरंजन",
-      "title_hinglish": "'vvan: phorsa ऑpha da phoresta' ka boksa ऑphisa kalekshana dina 1: siddhartha malhotra aura tamanna bhatiya ki philma o",
-      "summary_hinglish": "siddhartha malhotra aura tamanna bhatiya abhinita phorsa ऑpha da phoresta 25 sitanbar, 2026 ko sinemagharon men rilija huee। phantasi thrilara bihara ke eka paitrika ganva men hoti hai।",
+      "title_hinglish": "shimala ka 12van antarrashtriya philma mahotsava 32 deshon ki 96 philmon ke satha shuru huaa",
+      "summary_hinglish": "12van antarrashtriya philma mahotsava shimala 32 deshon ki 96 philmon ke satha shuru huaa - shimala (himachala pradesha) [bharata], 25 sitanbar: 12van antarrashtriya philma mahotsava shimala (aaeeephaephaesa) aitihasika rupa se shuru hua... manoranjana para navinatama samachara kevala lkmattimes.com para prapta karen",
       "category_hinglish": "Entertainment"
     },
     {
@@ -207,21 +258,21 @@
       "category_hinglish": "Sports"
     },
     {
-      "id": "ca4a7bd9f0cb7546",
-      "title": "Woman hit with slipper, forced to transfer ₹1,500: Bihar sees another harassment case amid outrage | India News",
-      "summary": "The video shows several youths allegedly behaving indecently with the woman and hitting her with a slipper. One of the youths is also seen threatening her. | India News",
-      "category": "Politics & Government",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/25/1600x900/logo/bihar_banka_1790339464075_1yKO_1790339464243_SuDL_fbf1779f-3e56-49a1-97d2-9b29c98d4fc6_KrkV.png",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/india-news/banka-woman-hit-with-slipper-forced-to-transfer-rs-1-500-bihar-harassment-case-mandar-hill-101790339209803.html",
-      "publishedAt": "2026-09-25T14:49:14.000Z",
-      "fetchedAt": "2026-09-25T21:57:04.369Z",
-      "title_hi": "महिला को चप्पल से मारा गया, ₹1,500 ट्रांसफर करने के लिए मजबूर किया गया: आक्रोश के बीच बिहार में उत्पीड़न का एक और मामला सामने आया | भारत समाचार",
-      "summary_hi": "वीडियो में कई युवकों को कथित तौर पर महिला के साथ अभद्र व्यवहार करते और उसे चप्पल से मारते हुए दिखाया गया है। उनमें से एक युवक उसे धमकाता भी नजर आ रहा है. | भारत समाचार",
-      "category_hi": "राजनीति और सरकार",
-      "title_hinglish": "mahila ko chappala se mara gay, ₹1,500 transaphara karane ke lie majabura kiya gay: aakrosha ke bicha bihara men utpidana ka eka aura mamala samane aaya | bharata samachara",
-      "summary_hinglish": "vidiyo men kaee yuvakon ko kathita taura para mahila ke satha abhadra vyavahara karate aura use chappala se marate hue dikhaya gaya hai। unamen se eka yuvaka use dhamakata bhi najara aa raha hai. | bharata samachara",
-      "category_hinglish": "Politics aur Government"
+      "id": "dfb2f82d69188304",
+      "title": "32 years on, man wanted for killing 2 sadhvis at Delhi ashram arrested",
+      "summary": "A 48-year-old man wanted in a 1994 double murder-cum-dacoity case, in which two sadhvis of a spiritual ashram in east Delhi were allegedly strangled to death, has been arrested after evading arrest for nearly 32 years, police said on Friday.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134488629,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/delhi/32-years-on-the-run-man-wanted-for-killing-2-sadhvis-in-1994-delhi-ashram-double-murder-arrested/articleshow/134488565.cms",
+      "publishedAt": "2026-09-25T15:22:00.000Z",
+      "fetchedAt": "2026-09-26T12:00:59.636Z",
+      "title_hi": "दिल्ली आश्रम में 2 साध्वियों की हत्या के मामले में 32 साल बाद वांछित व्यक्ति गिरफ्तार",
+      "summary_hi": "पुलिस ने शुक्रवार को कहा कि 1994 के दोहरे हत्या-सह-डकैती मामले में वांछित 48 वर्षीय व्यक्ति को लगभग 32 वर्षों तक गिरफ्तारी से बचने के बाद गिरफ्तार कर लिया गया है, जिसमें पूर्वी दिल्ली में एक आध्यात्मिक आश्रम की दो साध्वियों की कथित तौर पर गला घोंटकर हत्या कर दी गई थी।",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "dilli aashrama men 2 sadhviyon ki hatya ke mamale men 32 sala bada vanchhita vyakti giraphtara",
+      "summary_hinglish": "pulisa ne shukravara ko kaha ki 1994 ke dohare hatya-saha-dakaiti mamale men vanchhita 48 varshiya vyakti ko lagabhaga 32 varshon taka giraphtari se bachane ke bada giraphtara kara liya gaya hai, jisamen purvi dilli men eka aadhyatmika aashrama ki do sadhviyon ki kathita taura para gala ghontakara hatya kara di gaee thi।",
+      "category_hinglish": "Crime aur Breaking News"
     },
     {
       "id": "4f76016aef94dc68",
@@ -258,23 +309,6 @@
       "category_hinglish": "Entertainment"
     },
     {
-      "id": "23c9aefe9515f0b2",
-      "title": "Delhi riots case: Meeran Haider to report to Crime Branch once a week; SC grants exemption for marriage",
-      "summary": "The Supreme Court on Friday permitted Delhi riots accused Meeran Haider, an accused in the 2020 Delhi riots larger conspiracy case, to report to the Crime Branch once a week instead of twice, citing the hardship caused by the existing attendance requirement.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134487847,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/delhi/meeran-haiders-crime-branch-reporting-reduced-to-once-a-week-sc-grants-exemption-for-marriage/articleshow/134487781.cms",
-      "publishedAt": "2026-09-25T14:33:00.000Z",
-      "fetchedAt": "2026-09-26T11:50:05.809Z",
-      "title_hi": "दिल्ली दंगा मामला: मीरान हैदर को सप्ताह में एक बार क्राइम ब्रांच को रिपोर्ट करनी होगी; SC ने दी शादी की छूट",
-      "summary_hi": "सुप्रीम कोर्ट ने शुक्रवार को दिल्ली दंगों के आरोपी मीरान हैदर, जो 2020 के दिल्ली दंगों की बड़ी साजिश के मामले में आरोपी है, को मौजूदा उपस्थिति आवश्यकता के कारण होने वाली कठिनाई का हवाला देते हुए सप्ताह में दो बार के बजाय अपराध शाखा को रिपोर्ट करने की अनुमति दी।",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "dilli danga mamal: mirana haidara ko saptaha men eka bara kraima brancha ko riporta karani hogi; SC ne di shadi ki chhuta",
-      "summary_hinglish": "suprima korta ne shukravara ko dilli dangon ke aaropi mirana haidar, jo 2020 ke dilli dangon ki badaी sajisha ke mamale men aaropi hai, ko maujuda upasthiti aavashyakata ke karana hone vali kathinaee ka havala dete hue saptaha men do bara ke bajaya aparadha shakha ko riporta karane ki anumati di।",
-      "category_hinglish": "Crime aur Breaking News"
-    },
-    {
       "id": "8bfb7f009082e181",
       "title": "Chikkadpally jeweller, family booked for Rs 9 crore fraud",
       "summary": "The owner of a jewellery showroom in Chikkadpally has been booked by CCS for allegedly duping three city-based jewellers out of Rs 9 crore.",
@@ -290,6 +324,23 @@
       "title_hinglish": "chikkadapalli jvailar, parivara para 9 karoda rupaye ki dhokhadhadaी ka mamala darja",
       "summary_hinglish": "chikkadapalli men eka jvelari shoruma ke malika para sisiesa ne shahara ke tina jvailarsa se kathita taura para 9 karoda rupaye ki dhokhadhadaी karane ka mamala darja kiya hai।",
       "category_hinglish": "Crime aur Breaking News"
+    },
+    {
+      "id": "ca4a7bd9f0cb7546",
+      "title": "Woman hit with slipper, forced to transfer ₹1,500: Bihar sees another harassment case amid outrage | India News",
+      "summary": "The video shows several youths allegedly behaving indecently with the woman and hitting her with a slipper. One of the youths is also seen threatening her. | India News",
+      "category": "Politics & Government",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/25/1600x900/logo/bihar_banka_1790339464075_1yKO_1790339464243_SuDL_fbf1779f-3e56-49a1-97d2-9b29c98d4fc6_KrkV.png",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/banka-woman-hit-with-slipper-forced-to-transfer-rs-1-500-bihar-harassment-case-mandar-hill-101790339209803.html",
+      "publishedAt": "2026-09-25T14:49:14.000Z",
+      "fetchedAt": "2026-09-25T21:57:04.369Z",
+      "title_hi": "महिला को चप्पल से मारा गया, ₹1,500 ट्रांसफर करने के लिए मजबूर किया गया: आक्रोश के बीच बिहार में उत्पीड़न का एक और मामला सामने आया | भारत समाचार",
+      "summary_hi": "वीडियो में कई युवकों को कथित तौर पर महिला के साथ अभद्र व्यवहार करते और उसे चप्पल से मारते हुए दिखाया गया है। उनमें से एक युवक उसे धमकाता भी नजर आ रहा है. | भारत समाचार",
+      "category_hi": "राजनीति और सरकार",
+      "title_hinglish": "mahila ko chappala se mara gay, ₹1,500 transaphara karane ke lie majabura kiya gay: aakrosha ke bicha bihara men utpidana ka eka aura mamala samane aaya | bharata samachara",
+      "summary_hinglish": "vidiyo men kaee yuvakon ko kathita taura para mahila ke satha abhadra vyavahara karate aura use chappala se marate hue dikhaya gaya hai। unamen se eka yuvaka use dhamakata bhi najara aa raha hai. | bharata samachara",
+      "category_hinglish": "Politics aur Government"
     },
     {
       "id": "bb20b0067b7ff05c",
@@ -360,20 +411,20 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "c7cd8162860799f4",
-      "title": "Indian non-profits lag on digital maturity, AI adoption: report",
-      "summary": "Indian nonprofits lag in digital maturity and AI adoption, leaving unutilized ad grants and limited governance amid rising AI use.",
+      "id": "a2c97d0b95b7eaec",
+      "title": "Peter Thiel: Germany does not have a Mark Zuckerberg or Elon Musk, because the country is scared of ...",
+      "summary": "Billionaire investor Pete Thiel feels that Germany lacks global-scale entrepreneurs like Elon Musk or Mark Zuckerberg because the country suffers from a “fear of success.” He argues that German founders often exit early instead of scaling companies into global giants, leaving the nation behind in innovation and wealth creation. According…",
       "category": "Technology",
-      "image": "https://th-i.thgim.com/public/news/national/ak8493/article71512309.ece/alternates/LANDSCAPE_1200/iStock-2206209980.jpg",
-      "source": "The Hindu",
-      "sourceUrl": "https://www.thehindu.com/sci-tech/technology/indian-non-profits-lag-on-digital-maturity-ai-adoption-report/article71512189.ece",
-      "publishedAt": "2026-09-26T09:16:51.000Z",
-      "fetchedAt": "2026-09-26T09:32:05.698Z",
-      "title_hi": "डिजिटल परिपक्वता, एआई अपनाने में भारतीय गैर-लाभकारी संस्थाएं पिछड़ी: रिपोर्ट",
-      "summary_hi": "भारतीय गैर-लाभकारी संस्थाएं डिजिटल परिपक्वता और एआई अपनाने में पीछे हैं, जिससे एआई के बढ़ते उपयोग के बीच अप्रयुक्त विज्ञापन अनुदान और सीमित शासन हो रहा है।",
+      "image": "https://static.toiimg.com/thumb/msid-134501431,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/peter-thiel-germany-does-not-have-a-mark-zuckerberg-or-elon-musk-because-the-country-is-scared-of-/articleshow/134501424.cms",
+      "publishedAt": "2026-09-26T09:21:00.000Z",
+      "fetchedAt": "2026-09-26T12:00:53.935Z",
+      "title_hi": "पीटर थिएल: जर्मनी के पास मार्क जुकरबर्ग या एलोन मस्क नहीं हैं, क्योंकि देश डरा हुआ है...",
+      "summary_hi": "अरबपति निवेशक पीट थिएल को लगता है कि जर्मनी में एलोन मस्क या मार्क जुकरबर्ग जैसे वैश्विक स्तर के उद्यमियों की कमी है क्योंकि देश \"सफलता के डर\" से ग्रस्त है। उनका तर्क है कि जर्मन संस्थापक अक्सर कंपनियों को वैश्विक दिग्गजों में बदलने के बजाय जल्दी बाहर निकल जाते हैं, जिससे देश नवाचार और धन सृजन में पीछे रह जाता है। अनुसार…",
       "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "dijitala paripakvat, eaaee apanane men bharatiya gaira-labhakari sansthaen pichhadaी: riporta",
-      "summary_hinglish": "bharatiya gaira-labhakari sansthaen dijitala paripakvata aura eaaee apanane men pichhe hain, jisase eaaee ke badhate upayoga ke bicha aprayukta vijnyapana anudana aura simita shasana ho raha hai।",
+      "title_hinglish": "pitara thiel: jarmani ke pasa marka jukarabarga ya elona maska nahin hain, kyonki desha dara huaa hai...",
+      "summary_hinglish": "arabapati niveshaka pita thiela ko lagata hai ki jarmani men elona maska ya marka jukarabarga jaise vaishvika stara ke udyamiyon ki kami hai kyonki desha \"saphalata ke dara\" se grasta hai। unaka tarka hai ki jarmana sansthapaka aksara kanpaniyon ko vaishvika diggajon men badalane ke bajaya jaldi bahara nikala jate hain, jisase desha navachara aura dhana srijana men pichhe raha jata hai। anusara…",
       "category_hinglish": "Technology"
     },
     {
@@ -392,6 +443,23 @@
       "title_hinglish": "siddhartha malhotra ne kabhi bhojapuri ko kaha tha 'pupa' philing, aba becha rahe hain bihara ki sanskriti vivada",
       "summary_hinglish": "siddhartha malhotra ki purani bhojapuri tippani ne 2018 men biga bosa 11 men aane ke bada vivada khadaा kara diya tha। varshon bad, abhineta da vivieen: phorsa ऑpha da phoresta men abhinaya kara rahe hain, jo sthaniya lokakathaon aura manyataon para aadharita bihara aadharita philma hai।",
       "category_hinglish": "Entertainment"
+    },
+    {
+      "id": "c7cd8162860799f4",
+      "title": "Indian non-profits lag on digital maturity, AI adoption: report",
+      "summary": "Indian nonprofits lag in digital maturity and AI adoption, leaving unutilized ad grants and limited governance amid rising AI use.",
+      "category": "Technology",
+      "image": "https://th-i.thgim.com/public/news/national/ak8493/article71512309.ece/alternates/LANDSCAPE_1200/iStock-2206209980.jpg",
+      "source": "The Hindu",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/technology/indian-non-profits-lag-on-digital-maturity-ai-adoption-report/article71512189.ece",
+      "publishedAt": "2026-09-26T09:16:51.000Z",
+      "fetchedAt": "2026-09-26T09:32:05.698Z",
+      "title_hi": "डिजिटल परिपक्वता, एआई अपनाने में भारतीय गैर-लाभकारी संस्थाएं पिछड़ी: रिपोर्ट",
+      "summary_hi": "भारतीय गैर-लाभकारी संस्थाएं डिजिटल परिपक्वता और एआई अपनाने में पीछे हैं, जिससे एआई के बढ़ते उपयोग के बीच अप्रयुक्त विज्ञापन अनुदान और सीमित शासन हो रहा है।",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "dijitala paripakvat, eaaee apanane men bharatiya gaira-labhakari sansthaen pichhadaी: riporta",
+      "summary_hinglish": "bharatiya gaira-labhakari sansthaen dijitala paripakvata aura eaaee apanane men pichhe hain, jisase eaaee ke badhate upayoga ke bicha aprayukta vijnyapana anudana aura simita shasana ho raha hai।",
+      "category_hinglish": "Technology"
     },
     {
       "id": "a32f41d618526bf2",
@@ -479,23 +547,6 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "9b311346a10e61f7",
-      "title": "Nagarjuna is India’s second richest actor with Rs 5,000 crore wealth, while Chiranjeevi, Venkatesh and Ra",
-      "summary": "While Bollywood continues to dominate India’s film industry in terms of scale and commercial reach, Telugu cinema has steadily strengthened its presence, particularly with the rise of pan-India films. This growing influence is also reflected in a recently reported list of India’s richest actors in 2026, with four Telugu superstars…",
-      "category": "Entertainment",
-      "image": "https://static.toiimg.com/thumb/msid-134500894,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/nagarjuna-is-indias-second-richest-actor-with-rs-5000-crore-wealth-while-chiranjeevi-venkatesh-and-ram-charan-also-feature-in-top-10/articleshow/134500838.cms",
-      "publishedAt": "2026-09-26T08:46:00.000Z",
-      "fetchedAt": "2026-09-26T09:16:54.542Z",
-      "title_hi": "नागार्जुन 5,000 करोड़ रुपये की संपत्ति के साथ भारत के दूसरे सबसे अमीर अभिनेता हैं, जबकि चिरंजीवी, वेंकटेश और रा.",
-      "summary_hi": "जबकि बॉलीवुड पैमाने और व्यावसायिक पहुंच के मामले में भारत के फिल्म उद्योग पर हावी रहा है, तेलुगु सिनेमा ने लगातार अपनी उपस्थिति मजबूत की है, खासकर अखिल भारतीय फिल्मों के उदय के साथ। यह बढ़ता प्रभाव 2026 में भारत के सबसे अमीर अभिनेताओं की हाल ही में रिपोर्ट की गई सूची में भी परिलक्षित होता है, जिसमें चार तेलुगु सुपरस्टार शामिल हैं...",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "nagarjuna 5,000 karoda rupaye ki sanpatti ke satha bharata ke dusare sabase amira abhineta hain, jabaki chiranjivi, venkatesha aura r.",
-      "summary_hinglish": "jabaki bolivuda paimane aura vyavasayika pahuncha ke mamale men bharata ke philma udyoga para havi raha hai, telugu sinema ne lagatara apani upasthiti majabuta ki hai, khasakara akhila bharatiya philmon ke udaya ke satha। yaha badhata prabhava 2026 men bharata ke sabase amira abhinetaon ki hala hi men riporta ki gaee suchi men bhi parilakshita hota hai, jisamen chara telugu suparastara shamila hain...",
-      "category_hinglish": "Entertainment"
-    },
-    {
       "id": "e40637d4fb87586d",
       "title": "The Vvaan - Force Of The Forrest Movie Review: Sidharth Malhotra and Tamannaah Bhatia Bring Bihar Folklore to the Big Screen",
       "summary": "The Vvaan - Force Of The Forrest Movie review: Sidharth Malhotra and Tamannaah Bhatia lead a folklore-driven horror adventure rooted in Bihar.",
@@ -510,6 +561,23 @@
       "category_hi": "मनोरंजन",
       "title_hinglish": "da vvana - phaोrsa ऑpha da phaॉresta muvi samiksh: siddhartha malhotra aura tamanna bhatiya bihara ke lokagita ko badaे parde para laenge",
       "summary_hinglish": "da vvana - phaोrsa ऑpha da phaॉresta muvi samiksh: siddhartha malhotra aura tamanna bhatiya bihara men nihita lokakathaon para aadharita daravani sahasika philma ka netritva karate hain।",
+      "category_hinglish": "Entertainment"
+    },
+    {
+      "id": "9b311346a10e61f7",
+      "title": "Nagarjuna is India’s second richest actor with Rs 5,000 crore wealth, while Chiranjeevi, Venkatesh and Ra",
+      "summary": "While Bollywood continues to dominate India’s film industry in terms of scale and commercial reach, Telugu cinema has steadily strengthened its presence, particularly with the rise of pan-India films. This growing influence is also reflected in a recently reported list of India’s richest actors in 2026, with four Telugu superstars…",
+      "category": "Entertainment",
+      "image": "https://static.toiimg.com/thumb/msid-134500894,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/nagarjuna-is-indias-second-richest-actor-with-rs-5000-crore-wealth-while-chiranjeevi-venkatesh-and-ram-charan-also-feature-in-top-10/articleshow/134500838.cms",
+      "publishedAt": "2026-09-26T08:46:00.000Z",
+      "fetchedAt": "2026-09-26T09:16:54.542Z",
+      "title_hi": "नागार्जुन 5,000 करोड़ रुपये की संपत्ति के साथ भारत के दूसरे सबसे अमीर अभिनेता हैं, जबकि चिरंजीवी, वेंकटेश और रा.",
+      "summary_hi": "जबकि बॉलीवुड पैमाने और व्यावसायिक पहुंच के मामले में भारत के फिल्म उद्योग पर हावी रहा है, तेलुगु सिनेमा ने लगातार अपनी उपस्थिति मजबूत की है, खासकर अखिल भारतीय फिल्मों के उदय के साथ। यह बढ़ता प्रभाव 2026 में भारत के सबसे अमीर अभिनेताओं की हाल ही में रिपोर्ट की गई सूची में भी परिलक्षित होता है, जिसमें चार तेलुगु सुपरस्टार शामिल हैं...",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "nagarjuna 5,000 karoda rupaye ki sanpatti ke satha bharata ke dusare sabase amira abhineta hain, jabaki chiranjivi, venkatesha aura r.",
+      "summary_hinglish": "jabaki bolivuda paimane aura vyavasayika pahuncha ke mamale men bharata ke philma udyoga para havi raha hai, telugu sinema ne lagatara apani upasthiti majabuta ki hai, khasakara akhila bharatiya philmon ke udaya ke satha। yaha badhata prabhava 2026 men bharata ke sabase amira abhinetaon ki hala hi men riporta ki gaee suchi men bhi parilakshita hota hai, jisamen chara telugu suparastara shamila hain...",
       "category_hinglish": "Entertainment"
     },
     {
@@ -530,23 +598,6 @@
       "category_hinglish": "Entertainment"
     },
     {
-      "id": "3a0552c4ca64350a",
-      "title": "INDIA bloc parties likely to meet September 30 over EC row, other issues",
-      "summary": "New Delhi: Opposition INDIA bloc parties are likely to meet in New Delhi September 30 to discuss concerns over the Election Commission and the Special Intensive Revision (SIR) of electoral rolls, besides other issues, sources said. The proposed meeting comes amid increased coordination among opposition parties over the Election Commission…",
-      "category": "National & Trending News",
-      "image": "https://www.orissapost.com/wp-content/uploads/2025/08/Rahul-Gandhi-INDIA-bloc.png",
-      "source": "orissapost.com",
-      "sourceUrl": "https://www.orissapost.com/india-bloc-parties-likely-to-meet-september-30-over-ec-row-other-issues/",
-      "publishedAt": "2026-09-26T08:38:01.000Z",
-      "fetchedAt": "2026-09-26T09:32:10.289Z",
-      "title_hi": "चुनाव आयोग विवाद और अन्य मुद्दों पर भारतीय गुट की पार्टियों की 30 सितंबर को बैठक होने की संभावना है",
-      "summary_hi": "नई दिल्ली: सूत्रों ने कहा कि विपक्षी भारतीय गुट की पार्टियों की 30 सितंबर को नई दिल्ली में बैठक होने की संभावना है, जिसमें अन्य मुद्दों के अलावा चुनाव आयोग और मतदाता सूची के विशेष गहन पुनरीक्षण (एसआईआर) पर चिंताओं पर चर्चा की जाएगी। प्रस्तावित बैठक चुनाव आयोग को लेकर विपक्षी दलों के बीच बढ़ते समन्वय के बीच हो रही है...",
-      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
-      "title_hinglish": "chunava aayoga vivada aura anya muddon para bharatiya guta ki partiyon ki 30 sitanbara ko baithaka hone ki sanbhavana hai",
-      "summary_hinglish": "naee dilli: sutron ne kaha ki vipakshi bharatiya guta ki partiyon ki 30 sitanbara ko naee dilli men baithaka hone ki sanbhavana hai, jisamen anya muddon ke alava chunava aayoga aura matadata suchi ke vishesha gahana punarikshana (esaaaeeaara) para chintaon para charcha ki jaegi। prastavita baithaka chunava aayoga ko lekara vipakshi dalon ke bicha badhate samanvaya ke bicha ho rahi hai...",
-      "category_hinglish": "National aur Trending News"
-    },
-    {
       "id": "1549b65b6103c3f1",
       "title": "The Vvaan: All about the 400-year-old Devi temple in Bihar that inspired the film",
       "summary": "Sidharth Malhotra and Tamannaah Bhatia’s The Vvaan: Force of the Forest is a film inspired by the 400-year-old Maa Van Devi Temple near Bihta, Bihar. The movie draws on local legends and traditions, highlighting the temple's mysterious evening restrictions and its cultural significance in Bihar's religious heritage. .",
@@ -562,6 +613,23 @@
       "title_hinglish": "da vavan: bihara ke 400 sala purane devi mandira ke bare men saba kuchha jisane philma ko prerita kiya",
       "summary_hinglish": "siddhartha malhotra aura tamanna bhatiya ki da vavan: phorsa ऑpha da phoresta bihara ke bihata ke pasa 400 sala purane man vana devi mandira se prerita philma hai। yaha philma sthaniya kinvadantiyon aura paranparaon para aadharita hai, jo mandira ki rahasyamaya shama ki bandishon aura bihara ki dharmika virasata men isake sanskritika mahatva ko ujagara karati hai। .",
       "category_hinglish": "Entertainment"
+    },
+    {
+      "id": "3a0552c4ca64350a",
+      "title": "INDIA bloc parties likely to meet September 30 over EC row, other issues",
+      "summary": "New Delhi: Opposition INDIA bloc parties are likely to meet in New Delhi September 30 to discuss concerns over the Election Commission and the Special Intensive Revision (SIR) of electoral rolls, besides other issues, sources said. The proposed meeting comes amid increased coordination among opposition parties over the Election Commission…",
+      "category": "National & Trending News",
+      "image": "https://www.orissapost.com/wp-content/uploads/2025/08/Rahul-Gandhi-INDIA-bloc.png",
+      "source": "orissapost.com",
+      "sourceUrl": "https://www.orissapost.com/india-bloc-parties-likely-to-meet-september-30-over-ec-row-other-issues/",
+      "publishedAt": "2026-09-26T08:38:01.000Z",
+      "fetchedAt": "2026-09-26T09:32:10.289Z",
+      "title_hi": "चुनाव आयोग विवाद और अन्य मुद्दों पर भारतीय गुट की पार्टियों की 30 सितंबर को बैठक होने की संभावना है",
+      "summary_hi": "नई दिल्ली: सूत्रों ने कहा कि विपक्षी भारतीय गुट की पार्टियों की 30 सितंबर को नई दिल्ली में बैठक होने की संभावना है, जिसमें अन्य मुद्दों के अलावा चुनाव आयोग और मतदाता सूची के विशेष गहन पुनरीक्षण (एसआईआर) पर चिंताओं पर चर्चा की जाएगी। प्रस्तावित बैठक चुनाव आयोग को लेकर विपक्षी दलों के बीच बढ़ते समन्वय के बीच हो रही है...",
+      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
+      "title_hinglish": "chunava aayoga vivada aura anya muddon para bharatiya guta ki partiyon ki 30 sitanbara ko baithaka hone ki sanbhavana hai",
+      "summary_hinglish": "naee dilli: sutron ne kaha ki vipakshi bharatiya guta ki partiyon ki 30 sitanbara ko naee dilli men baithaka hone ki sanbhavana hai, jisamen anya muddon ke alava chunava aayoga aura matadata suchi ke vishesha gahana punarikshana (esaaaeeaara) para chintaon para charcha ki jaegi। prastavita baithaka chunava aayoga ko lekara vipakshi dalon ke bicha badhate samanvaya ke bicha ho rahi hai...",
+      "category_hinglish": "National aur Trending News"
     },
     {
       "id": "d6160252d5eec148",
@@ -649,23 +717,6 @@
       "category_hinglish": "Sports"
     },
     {
-      "id": "d7f29e46f43653ba",
-      "title": "India takes next step to develop the next generation of space age rail guns",
-      "summary": "India has taken a fresh step towards building an indigenous electromagnetic launcher capability, with Heavy Vehicles Factory, Avadi floating expressions",
-      "category": "Technology",
-      "image": "https://static.toiimg.com/thumb/msid-134500640,width-1280,height-720,imgsize-1173417,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/defence/international/india-takes-next-step-to-develop-the-next-generation-of-space-age-rail-guns/articleshow/134500554.cms",
-      "publishedAt": "2026-09-26T08:24:00.000Z",
-      "fetchedAt": "2026-09-26T09:17:00.283Z",
-      "title_hi": "भारत ने अंतरिक्ष युग की रेल गन की अगली पीढ़ी विकसित करने के लिए अगला कदम उठाया है",
-      "summary_hi": "भारत ने हेवी व्हीकल फैक्ट्री, अवाडी फ्लोटिंग एक्सप्रेशन के साथ स्वदेशी विद्युत चुम्बकीय लॉन्चर क्षमता के निर्माण की दिशा में एक नया कदम उठाया है",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "bharata ne antariksha yuga ki rela gana ki agali pidhaी vikasita karane ke lie agala kadama uthaya hai",
-      "summary_hinglish": "bharata ne hevi vhikala phaiktri, avadi phlotinga eksapreshana ke satha svadeshi vidyuta chumbakiya lonchara kshamata ke nirmana ki disha men eka naya kadama uthaya hai",
-      "category_hinglish": "Technology"
-    },
-    {
       "id": "c5f7e8ee9080ec31",
       "title": "The Vvaan X Review: Why Is Sidharth Malhotra, Tamannaah Bhatia's Movie Being Hailed In UP, Bihar?",
       "summary": "The Vvaan X Review: Sidharth Malhotra and Tamannaah Bhatia's The Vvaan: Force of the Forest is out in theatres. Early X reviews are largely positive, especially for its depiction of Chhath Puja and Bihar's culture.",
@@ -681,6 +732,23 @@
       "title_hinglish": "da vvana eksa rivyu: siddhartha malhotr, tamanna bhatiya ki philma ki yupi, bihara men kyon ho rahi hai sarahan?",
       "summary_hinglish": "da vavana eksa rivyu: siddhartha malhotra aura tamanna bhatiya ki da vavan: phorsa ऑpha da phoresta sinemagharon men rilija ho gaee hai। shuruaati eksa samikshaen kaphi hada taka sakaratmaka hain, khasakara chhatha puja aura bihara ki sanskriti ke chitrana ke lie।",
       "category_hinglish": "Entertainment"
+    },
+    {
+      "id": "d7f29e46f43653ba",
+      "title": "India takes next step to develop the next generation of space age rail guns",
+      "summary": "India has taken a fresh step towards building an indigenous electromagnetic launcher capability, with Heavy Vehicles Factory, Avadi floating expressions",
+      "category": "Technology",
+      "image": "https://static.toiimg.com/thumb/msid-134500640,width-1280,height-720,imgsize-1173417,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/defence/international/india-takes-next-step-to-develop-the-next-generation-of-space-age-rail-guns/articleshow/134500554.cms",
+      "publishedAt": "2026-09-26T08:24:00.000Z",
+      "fetchedAt": "2026-09-26T09:17:00.283Z",
+      "title_hi": "भारत ने अंतरिक्ष युग की रेल गन की अगली पीढ़ी विकसित करने के लिए अगला कदम उठाया है",
+      "summary_hi": "भारत ने हेवी व्हीकल फैक्ट्री, अवाडी फ्लोटिंग एक्सप्रेशन के साथ स्वदेशी विद्युत चुम्बकीय लॉन्चर क्षमता के निर्माण की दिशा में एक नया कदम उठाया है",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "bharata ne antariksha yuga ki rela gana ki agali pidhaी vikasita karane ke lie agala kadama uthaya hai",
+      "summary_hinglish": "bharata ne hevi vhikala phaiktri, avadi phlotinga eksapreshana ke satha svadeshi vidyuta chumbakiya lonchara kshamata ke nirmana ki disha men eka naya kadama uthaya hai",
+      "category_hinglish": "Technology"
     },
     {
       "id": "7afb19149feaf132",
@@ -700,23 +768,6 @@
       "category_hinglish": "Entertainment"
     },
     {
-      "id": "0f0d827bd8723a2a",
-      "title": "Shah Rukh Khan’s Swades co-star quit Bollywood, married India’s 59th richest man worth Rs 481 billion",
-      "summary": "Swades star Gayatri Joshi quit Bollywood, married billionaire Vikas Oberoi, India’s 59th richest man, and now lives in a lavish Juhu mansion in Mumbai.",
-      "category": "Entertainment",
-      "image": "https://media.assettype.com/gulfnews%2Fimport%2F2020%2F06%2F02%2FGayatri-Joshi_172751fcf9f_large.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "source": "Gulf News",
-      "sourceUrl": "https://gulfnews.com/entertainment/bollywood/shah-rukh-khans-swades-co-star-quit-bollywood-married-indias-59th-richest-man-worth-rs-481-billion-1.500688579",
-      "publishedAt": "2026-09-26T07:43:31.000Z",
-      "fetchedAt": "2026-09-26T09:56:31.925Z",
-      "title_hi": "शाहरुख खान की स्वदेस सह-कलाकार ने छोड़ा बॉलीवुड, 481 अरब रुपये की संपत्ति वाले भारत के 59वें सबसे अमीर आदमी से की शादी",
-      "summary_hi": "स्वदेस स्टार गायत्री जोशी ने बॉलीवुड छोड़ दिया, भारत के 59वें सबसे अमीर आदमी अरबपति विकास ओबेरॉय से शादी की और अब मुंबई में एक भव्य जुहू हवेली में रहती हैं।",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "shaharukha khana ki svadesa saha-kalakara ne chhodaा bolivud, 481 araba rupaye ki sanpatti vale bharata ke 59ven sabase amira aadami se ki shadi",
-      "summary_hinglish": "svadesa stara gayatri joshi ne bolivuda chhoda diy, bharata ke 59ven sabase amira aadami arabapati vikasa oberoya se shadi ki aura aba munbaee men eka bhavya juhu haveli men rahati hain।",
-      "category_hinglish": "Entertainment"
-    },
-    {
       "id": "fe630ec3977f4980",
       "title": "Bihar sees third harassment case in a week, woman assaulted at tourist spot | India News",
       "summary": "The video shows several youths mostly behaving indecently with the woman and assaulting her with a slipper. | India News",
@@ -732,6 +783,23 @@
       "title_hinglish": "bihara men eka haphte men utpidana ka tisara mamal, paryatana sthala para mahila se marapita | bharata samachara",
       "summary_hinglish": "vidiyo men dikhaya gaya hai ki kaee yuvaka mahila ke satha abhadra vyavahara kara rahe hain aura usa para chappala se hamala kara rahe hain। | bharata samachara",
       "category_hinglish": "Politics aur Government"
+    },
+    {
+      "id": "0f0d827bd8723a2a",
+      "title": "Shah Rukh Khan’s Swades co-star quit Bollywood, married India’s 59th richest man worth Rs 481 billion",
+      "summary": "Swades star Gayatri Joshi quit Bollywood, married billionaire Vikas Oberoi, India’s 59th richest man, and now lives in a lavish Juhu mansion in Mumbai.",
+      "category": "Entertainment",
+      "image": "https://media.assettype.com/gulfnews%2Fimport%2F2020%2F06%2F02%2FGayatri-Joshi_172751fcf9f_large.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "Gulf News",
+      "sourceUrl": "https://gulfnews.com/entertainment/bollywood/shah-rukh-khans-swades-co-star-quit-bollywood-married-indias-59th-richest-man-worth-rs-481-billion-1.500688579",
+      "publishedAt": "2026-09-26T07:43:31.000Z",
+      "fetchedAt": "2026-09-26T09:56:31.925Z",
+      "title_hi": "शाहरुख खान की स्वदेस सह-कलाकार ने छोड़ा बॉलीवुड, 481 अरब रुपये की संपत्ति वाले भारत के 59वें सबसे अमीर आदमी से की शादी",
+      "summary_hi": "स्वदेस स्टार गायत्री जोशी ने बॉलीवुड छोड़ दिया, भारत के 59वें सबसे अमीर आदमी अरबपति विकास ओबेरॉय से शादी की और अब मुंबई में एक भव्य जुहू हवेली में रहती हैं।",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "shaharukha khana ki svadesa saha-kalakara ne chhodaा bolivud, 481 araba rupaye ki sanpatti vale bharata ke 59ven sabase amira aadami se ki shadi",
+      "summary_hinglish": "svadesa stara gayatri joshi ne bolivuda chhoda diy, bharata ke 59ven sabase amira aadami arabapati vikasa oberoya se shadi ki aura aba munbaee men eka bhavya juhu haveli men rahati hain।",
+      "category_hinglish": "Entertainment"
     },
     {
       "id": "4cd961996c906b32",
@@ -819,23 +887,6 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "5410eec4b9b32240",
-      "title": "Keystone Launches India Operations in Bengaluru to Support Global Technology and Science Firms",
-      "summary": "Keystone announced it is establishing Keystone India, with Bengaluru as its first hub in the country. The company plans to hire talent and expand its workforce",
-      "category": "Technology",
-      "image": "https://media.assettype.com/digitalterminal%2F2026-09-26%2Fw0yatzuo%2FKeystone-DT.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "source": "digital terminal",
-      "sourceUrl": "https://digitalterminal.in/tech-companies/keystone-launches-india-operations-in-bengaluru-to-support-global-technology-and-science-firms",
-      "publishedAt": "2026-09-26T07:21:00.000Z",
-      "fetchedAt": "2026-09-26T11:23:59.053Z",
-      "title_hi": "कीस्टोन ने वैश्विक प्रौद्योगिकी और विज्ञान फर्मों का समर्थन करने के लिए बेंगलुरु में भारतीय परिचालन शुरू किया",
-      "summary_hi": "कीस्टोन ने घोषणा की कि वह कीस्टोन इंडिया की स्थापना कर रहा है, जिसका बेंगलुरु देश में पहला केंद्र होगा। कंपनी की योजना प्रतिभाओं को नियुक्त करने और अपने कार्यबल का विस्तार करने की है",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "kistona ne vaishvika praudyogiki aura vijnyana pharmon ka samarthana karane ke lie bengaluru men bharatiya parichalana shuru kiya",
-      "summary_hinglish": "kistona ne ghoshana ki ki vaha kistona indiya ki sthapana kara raha hai, jisaka bengaluru desha men pahala kendra hoga। kanpani ki yojana pratibhaon ko niyukta karane aura apane karyabala ka vistara karane ki hai",
-      "category_hinglish": "Technology"
-    },
-    {
       "id": "aef7c34b71cd6835",
       "title": "Patna school sports meet from Sept 30 to Oct 4",
       "summary": "The district-level school sports competition will be held from Sept 30 to Oct 4 at various sports grounds in Patna under the annual sports programme 2026-27. The event will give students an opportunity to showcase their sporting talent in competition.",
@@ -851,6 +902,23 @@
       "title_hinglish": "patana skula sportsa mita 30 sitanbara se 4 aktubara taka",
       "summary_hinglish": "varshika khela karyakrama 2026-27 ke tahata jila stariya vidyalaya khela pratiyogita 30 sitanbara se 4 aktubara taka patana ke vibhinna khela maidanon men aayojita ki jaegi। isa aayojana se chhatron ko pratiyogita men apani khela pratibha dikhane ka mauka milega।",
       "category_hinglish": "Sports"
+    },
+    {
+      "id": "5410eec4b9b32240",
+      "title": "Keystone Launches India Operations in Bengaluru to Support Global Technology and Science Firms",
+      "summary": "Keystone announced it is establishing Keystone India, with Bengaluru as its first hub in the country. The company plans to hire talent and expand its workforce",
+      "category": "Technology",
+      "image": "https://media.assettype.com/digitalterminal%2F2026-09-26%2Fw0yatzuo%2FKeystone-DT.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "digital terminal",
+      "sourceUrl": "https://digitalterminal.in/tech-companies/keystone-launches-india-operations-in-bengaluru-to-support-global-technology-and-science-firms",
+      "publishedAt": "2026-09-26T07:21:00.000Z",
+      "fetchedAt": "2026-09-26T11:23:59.053Z",
+      "title_hi": "कीस्टोन ने वैश्विक प्रौद्योगिकी और विज्ञान फर्मों का समर्थन करने के लिए बेंगलुरु में भारतीय परिचालन शुरू किया",
+      "summary_hi": "कीस्टोन ने घोषणा की कि वह कीस्टोन इंडिया की स्थापना कर रहा है, जिसका बेंगलुरु देश में पहला केंद्र होगा। कंपनी की योजना प्रतिभाओं को नियुक्त करने और अपने कार्यबल का विस्तार करने की है",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "kistona ne vaishvika praudyogiki aura vijnyana pharmon ka samarthana karane ke lie bengaluru men bharatiya parichalana shuru kiya",
+      "summary_hinglish": "kistona ne ghoshana ki ki vaha kistona indiya ki sthapana kara raha hai, jisaka bengaluru desha men pahala kendra hoga। kanpani ki yojana pratibhaon ko niyukta karane aura apane karyabala ka vistara karane ki hai",
+      "category_hinglish": "Technology"
     },
     {
       "id": "842cc3a12023456b",
@@ -870,23 +938,6 @@
       "summary_hinglish": "rajya mantri ka kahana hai ki videshi kanpaniyon ko teji se bharata men praudyogiki aura sajhedari lani chahie; yadi eaaee emaesaemaee ke lie utpadana lagata men 5-10% ki katauti karata hai to eaaee gema chenjara ho sakata hai"
     },
     {
-      "id": "6728b4b131e1bb38",
-      "title": "AI tribalism: US-China rivalry is dividing a global technology",
-      "summary": "Washington and Beijing want technological security, but dividing AI into rival blocs could carry a heavy cost.",
-      "category": "Technology",
-      "image": "https://images.firstpost.com/uploads/2026/09/2025-10-30T030545Z_2070082240_RC23MHAD4AP9_RTRMADP_3_USA-TRUMP-XI-2026-09-0e52be121221c7163836e5d5c08b72e7-scaled-e1790402889950-1200x675.jpg?im=FitAndFill,width=1200,height=675",
-      "source": "Firstpost",
-      "sourceUrl": "https://www.firstpost.com/opinion/ai-tribalism-us-china-rivalry-is-dividing-a-global-technology-14048505.html/amp",
-      "publishedAt": "2026-09-26T07:03:27.000Z",
-      "fetchedAt": "2026-09-26T09:56:36.619Z",
-      "title_hi": "एआई जनजातीयवाद: अमेरिका-चीन प्रतिद्वंद्विता वैश्विक प्रौद्योगिकी को विभाजित कर रही है",
-      "summary_hi": "वाशिंगटन और बीजिंग तकनीकी सुरक्षा चाहते हैं, लेकिन एआई को प्रतिद्वंद्वी गुटों में विभाजित करने की भारी कीमत चुकानी पड़ सकती है।",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "eaaee janajatiyavad: amerika-china pratidvandvita vaishvika praudyogiki ko vibhajita kara rahi hai",
-      "summary_hinglish": "vashingatana aura bijinga takaniki suraksha chahate hain, lekina eaaee ko pratidvandvi guton men vibhajita karane ki bhari kimata chukani pada sakati hai।",
-      "category_hinglish": "Technology"
-    },
-    {
       "id": "ea636450a7e004bc",
       "title": "Ashok defends govt, Shambhavi seeks review of women’s safety laws",
       "summary": "Amid mounting concern over a series of crimes in Bihar, food and consumer protection minister Ashok Choudhary on Thursday said criminal incidents were not specific to the state and also occurred in developed countries such as the US and Japan. His daughter and LJP(RV) MP Shambhavi Choudhary, meanwhile, called for…",
@@ -902,6 +953,23 @@
       "title_hinglish": "ashoka ne sarakara ka bachava kiy, shanbhavi ne mahila suraksha kanunon ki samiksha ki manga ki",
       "summary_hinglish": "bihara men aparadhon ki shrrinkhala para badhati chinta ke bich, khadya aura upabhokta sanrakshana mantri ashoka chaudhari ne guruvara ko kaha ki aaparadhika ghatanaen kevala rajya taka hi simita nahin thin, balki amerika aura japana jaise vikasita deshon men bhi huee thin। isa bich, unaki beti aura elajepi (aaravi) sansada shanbhavi chaudhari ne kah...",
       "category_hinglish": "Crime aur Breaking News"
+    },
+    {
+      "id": "6728b4b131e1bb38",
+      "title": "AI tribalism: US-China rivalry is dividing a global technology",
+      "summary": "Washington and Beijing want technological security, but dividing AI into rival blocs could carry a heavy cost.",
+      "category": "Technology",
+      "image": "https://images.firstpost.com/uploads/2026/09/2025-10-30T030545Z_2070082240_RC23MHAD4AP9_RTRMADP_3_USA-TRUMP-XI-2026-09-0e52be121221c7163836e5d5c08b72e7-scaled-e1790402889950-1200x675.jpg?im=FitAndFill,width=1200,height=675",
+      "source": "Firstpost",
+      "sourceUrl": "https://www.firstpost.com/opinion/ai-tribalism-us-china-rivalry-is-dividing-a-global-technology-14048505.html/amp",
+      "publishedAt": "2026-09-26T07:03:27.000Z",
+      "fetchedAt": "2026-09-26T09:56:36.619Z",
+      "title_hi": "एआई जनजातीयवाद: अमेरिका-चीन प्रतिद्वंद्विता वैश्विक प्रौद्योगिकी को विभाजित कर रही है",
+      "summary_hi": "वाशिंगटन और बीजिंग तकनीकी सुरक्षा चाहते हैं, लेकिन एआई को प्रतिद्वंद्वी गुटों में विभाजित करने की भारी कीमत चुकानी पड़ सकती है।",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "eaaee janajatiyavad: amerika-china pratidvandvita vaishvika praudyogiki ko vibhajita kara rahi hai",
+      "summary_hinglish": "vashingatana aura bijinga takaniki suraksha chahate hain, lekina eaaee ko pratidvandvi guton men vibhajita karane ki bhari kimata chukani pada sakati hai।",
+      "category_hinglish": "Technology"
     },
     {
       "id": "192b33c59622b634",
@@ -989,23 +1057,6 @@
       "category_hinglish": "Politics aur Government"
     },
     {
-      "id": "29c76f54815b025a",
-      "title": "Building The Muscle For Tech Sovereignty: Critical Minerals Must Underpin India’s Semiconductor and Manufacturing Ambition",
-      "summary": "The momentum at Semicon India 2026 signals a fundamental maturity and inflection point. Capital commitments under ISM 2.0 (Indian Semiconductor Missio",
-      "category": "Technology",
-      "image": "https://swarajya.gumlet.io/swarajya/2026-09-26/ony6683w/swarajyapix-1-prompt-a-wide-indian-coastal-industrial.jpg?w=600&h=315&format=jpg",
-      "source": "Swarajya",
-      "sourceUrl": "https://swarajyamag.com/commentary/building-the-muscle-for-tech-sovereignty-critical-minerals-must-underpin-indias-semiconductor-and-manufacturing-ambition",
-      "publishedAt": "2026-09-26T06:31:46.000Z",
-      "fetchedAt": "2026-09-26T07:05:24.730Z",
-      "title_hi": "तकनीकी संप्रभुता के लिए मांसपेशियों का निर्माण: महत्वपूर्ण खनिजों को भारत की सेमीकंडक्टर और विनिर्माण महत्वाकांक्षा को रेखांकित करना चाहिए",
-      "summary_hi": "सेमीकॉन इंडिया 2026 की गति एक मौलिक परिपक्वता और परिवर्तन बिंदु का संकेत देती है। आईएसएम 2.0 (इंडियन सेमीकंडक्टर मिसियो) के तहत पूंजीगत प्रतिबद्धताएं",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "takaniki sanprabhuta ke lie mansapeshiyon ka nirman: mahatvapurna khanijon ko bharata ki semikandaktara aura vinirmana mahatvakanksha ko rekhankita karana chahie",
-      "summary_hinglish": "semikona indiya 2026 ki gati eka maulika paripakvata aura parivartana bindu ka sanketa deti hai। aaeeesaema 2.0 (indiyana semikandaktara misiyo) ke tahata punjigata pratibaddhataen",
-      "category_hinglish": "Technology"
-    },
-    {
       "id": "cf0bfa78a67528df",
       "title": "Jamui Molestation Accused Nandan Yadav's Father Arrested In 2003 Double Murder Case After 23 Years",
       "summary": "Police said Ganauri Yadav had been absconding in the case for nearly 23 years and was the only one among the 11 accused who had remained outside jail.",
@@ -1021,6 +1072,23 @@
       "title_hinglish": "jamuee chhedachhada ke aaropi nandana yadava ke pita 23 sala bada 2003 dabala mardara kesa men giraphtara",
       "summary_hinglish": "pulisa ne kaha ki ganauri yadava isa mamale men lagabhaga 23 varshon se pharara tha aura 11 aaropiyon men se ekamatra tha jo jela se bahara raha tha।",
       "category_hinglish": "Crime aur Breaking News"
+    },
+    {
+      "id": "29c76f54815b025a",
+      "title": "Building The Muscle For Tech Sovereignty: Critical Minerals Must Underpin India’s Semiconductor and Manufacturing Ambition",
+      "summary": "The momentum at Semicon India 2026 signals a fundamental maturity and inflection point. Capital commitments under ISM 2.0 (Indian Semiconductor Missio",
+      "category": "Technology",
+      "image": "https://swarajya.gumlet.io/swarajya/2026-09-26/ony6683w/swarajyapix-1-prompt-a-wide-indian-coastal-industrial.jpg?w=600&h=315&format=jpg",
+      "source": "Swarajya",
+      "sourceUrl": "https://swarajyamag.com/commentary/building-the-muscle-for-tech-sovereignty-critical-minerals-must-underpin-indias-semiconductor-and-manufacturing-ambition",
+      "publishedAt": "2026-09-26T06:31:46.000Z",
+      "fetchedAt": "2026-09-26T07:05:24.730Z",
+      "title_hi": "तकनीकी संप्रभुता के लिए मांसपेशियों का निर्माण: महत्वपूर्ण खनिजों को भारत की सेमीकंडक्टर और विनिर्माण महत्वाकांक्षा को रेखांकित करना चाहिए",
+      "summary_hi": "सेमीकॉन इंडिया 2026 की गति एक मौलिक परिपक्वता और परिवर्तन बिंदु का संकेत देती है। आईएसएम 2.0 (इंडियन सेमीकंडक्टर मिसियो) के तहत पूंजीगत प्रतिबद्धताएं",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "takaniki sanprabhuta ke lie mansapeshiyon ka nirman: mahatvapurna khanijon ko bharata ki semikandaktara aura vinirmana mahatvakanksha ko rekhankita karana chahie",
+      "summary_hinglish": "semikona indiya 2026 ki gati eka maulika paripakvata aura parivartana bindu ka sanketa deti hai। aaeeesaema 2.0 (indiyana semikandaktara misiyo) ke tahata punjigata pratibaddhataen",
+      "category_hinglish": "Technology"
     },
     {
       "id": "77dc717e98bdb2b2",
@@ -1040,23 +1108,6 @@
       "category_hinglish": "Business aur Finance"
     },
     {
-      "id": "b82ba50ac176ede0",
-      "title": "Asiad 2026: Sawan Barwal wins silver in men's marathon with national record",
-      "summary": "The 28-year-old Armyman from Himachal Pradesh clocked 2 hour, 11 minute and 37 seconds to complete the distance of 42.195km",
-      "category": "National & Trending News",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/26/thumb/resize/1200X628/1790403665-3682.jpg",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/sports/asian-games/asiad-2026-sawan-barwal-wins-silver-in-men-s-marathon-with-national-record-126092600113_1.html",
-      "publishedAt": "2026-09-26T06:21:44.000Z",
-      "fetchedAt": "2026-09-26T08:34:05.271Z",
-      "title_hi": "एशियाड 2026: सावन बरवाल ने राष्ट्रीय रिकॉर्ड के साथ पुरुष मैराथन में रजत पदक जीता",
-      "summary_hi": "हिमाचल प्रदेश के 28 वर्षीय आर्मीमैन ने 42.195 किमी की दूरी पूरी करने में 2 घंटे, 11 मिनट और 37 सेकंड का समय लिया।",
-      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
-      "category_hinglish": "National aur Trending News",
-      "title_hinglish": "eshiyada 2026: savana baravala ne rashtriya rikorda ke satha purusha mairathana men rajata padaka jita",
-      "summary_hinglish": "himachala pradesha ke 28 varshiya aarmimaina ne 42.195 kimi ki duri puri karane men 2 ghante, 11 minata aura 37 sekanda ka samaya liya।"
-    },
-    {
       "id": "d95f8864a6d2a2c3",
       "title": "Jamui harassment video: Accused Nandan Yadav’s father was wanted for double murder",
       "summary": "While the other accused in the 2003 double murder are now out on bail, Ganauri Yadav was never caught by Bihar Police",
@@ -1072,6 +1123,23 @@
       "category_hinglish": "Crime aur Breaking News",
       "title_hinglish": "jamuee utpidana vidiyo: aaropi nandana yadava ke pita dohare hatyakanda men the vanchhita",
       "summary_hinglish": "jabaki 2003 ke dohare hatyakanda ke anya aaropi aba jamanata para bahara hain, ganauri yadava kabhi bhi bihara pulisa ki pakada men nahin aaya"
+    },
+    {
+      "id": "b82ba50ac176ede0",
+      "title": "Asiad 2026: Sawan Barwal wins silver in men's marathon with national record",
+      "summary": "The 28-year-old Armyman from Himachal Pradesh clocked 2 hour, 11 minute and 37 seconds to complete the distance of 42.195km",
+      "category": "National & Trending News",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/26/thumb/resize/1200X628/1790403665-3682.jpg",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/sports/asian-games/asiad-2026-sawan-barwal-wins-silver-in-men-s-marathon-with-national-record-126092600113_1.html",
+      "publishedAt": "2026-09-26T06:21:44.000Z",
+      "fetchedAt": "2026-09-26T08:34:05.271Z",
+      "title_hi": "एशियाड 2026: सावन बरवाल ने राष्ट्रीय रिकॉर्ड के साथ पुरुष मैराथन में रजत पदक जीता",
+      "summary_hi": "हिमाचल प्रदेश के 28 वर्षीय आर्मीमैन ने 42.195 किमी की दूरी पूरी करने में 2 घंटे, 11 मिनट और 37 सेकंड का समय लिया।",
+      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
+      "category_hinglish": "National aur Trending News",
+      "title_hinglish": "eshiyada 2026: savana baravala ne rashtriya rikorda ke satha purusha mairathana men rajata padaka jita",
+      "summary_hinglish": "himachala pradesha ke 28 varshiya aarmimaina ne 42.195 kimi ki duri puri karane men 2 ghante, 11 minata aura 37 sekanda ka samaya liya।"
     },
     {
       "id": "7c0897de7a5654a0",
@@ -1159,23 +1227,6 @@
       "category_hinglish": "National aur Trending News"
     },
     {
-      "id": "c0c2bc67672bb578",
-      "title": "Avengers Endgame Encore Box Office: Earth's mightiest heroes scores biggest opening day for a Hollywood re-release in India",
-      "summary": "Endgame should move past Avatar: The Way of Water to become the second highest-grossing Hollywood film of all time in India, trailing only Spider-Man: Brand New Day.",
-      "category": "Entertainment",
-      "image": "https://www.pinkvilla.com/images/2026-09/223698783_eg-1.webp",
-      "source": "Pinkvilla",
-      "sourceUrl": "https://www.pinkvilla.com/entertainment/box-office/avengers-endgame-encore-box-office-earths-mightiest-heroes-scores-biggest-opening-day-for-a-hollywood-re-release-in-india-1405608?amp",
-      "publishedAt": "2026-09-26T05:53:34.000Z",
-      "fetchedAt": "2026-09-26T08:18:29.199Z",
-      "title_hi": "एवेंजर्स एंडगेम एनकोर बॉक्स ऑफिस: पृथ्वी के सबसे शक्तिशाली नायकों ने भारत में हॉलीवुड की पुनः रिलीज़ के लिए सबसे बड़ा शुरुआती दिन बनाया",
-      "summary_hi": "एंडगेम को अवतार: द वे ऑफ वॉटर से आगे बढ़कर भारत में अब तक की दूसरी सबसे ज्यादा कमाई करने वाली हॉलीवुड फिल्म बन जानी चाहिए, जो केवल स्पाइडर-मैन: ब्रांड न्यू डे से पीछे है।",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "evenjarsa endagema enakora boksa ऑphis: prithvi ke sabase shaktishali nayakon ne bharata men holivuda ki punah rilija ke lie sabase badaा shuruaati dina banaya",
-      "summary_hinglish": "endagema ko avatar: da ve ऑpha votara se aage badhakara bharata men aba taka ki dusari sabase jyada kamaee karane vali holivuda philma bana jani chahie, jo kevala spaidara-main: branda nyu de se pichhe hai।",
-      "category_hinglish": "Entertainment"
-    },
-    {
       "id": "2636c75b9ef58a40",
       "title": "Bhagalpur’s Sandis Compound Set to Host BCCI Domestic Cricket Matches, Preparations Underway",
       "summary": "Bhagalpur/Patna : The Sandis Compound Stadium in Bhagalpur is being prepared to host BCCI domestic cricket matches, marking a significant",
@@ -1191,6 +1242,23 @@
       "category_hinglish": "Sports",
       "title_hinglish": "bhagalapura ka saindisa kanpaunda bisisiaaee ke gharelu kriketa maichon ki mejabani ke lie taiyar, taiyari chala rahi hai",
       "summary_hinglish": "bhagalapura/patana : bhagalapura ke saindisa kanpaunda stediyama ko bisisiaaee ke gharelu kriketa maichon ki mejabani ke lie taiyara kiya ja raha hai, jo eka mahatvapurna upalabdhi hai"
+    },
+    {
+      "id": "c0c2bc67672bb578",
+      "title": "Avengers Endgame Encore Box Office: Earth's mightiest heroes scores biggest opening day for a Hollywood re-release in India",
+      "summary": "Endgame should move past Avatar: The Way of Water to become the second highest-grossing Hollywood film of all time in India, trailing only Spider-Man: Brand New Day.",
+      "category": "Entertainment",
+      "image": "https://www.pinkvilla.com/images/2026-09/223698783_eg-1.webp",
+      "source": "Pinkvilla",
+      "sourceUrl": "https://www.pinkvilla.com/entertainment/box-office/avengers-endgame-encore-box-office-earths-mightiest-heroes-scores-biggest-opening-day-for-a-hollywood-re-release-in-india-1405608?amp",
+      "publishedAt": "2026-09-26T05:53:34.000Z",
+      "fetchedAt": "2026-09-26T08:18:29.199Z",
+      "title_hi": "एवेंजर्स एंडगेम एनकोर बॉक्स ऑफिस: पृथ्वी के सबसे शक्तिशाली नायकों ने भारत में हॉलीवुड की पुनः रिलीज़ के लिए सबसे बड़ा शुरुआती दिन बनाया",
+      "summary_hi": "एंडगेम को अवतार: द वे ऑफ वॉटर से आगे बढ़कर भारत में अब तक की दूसरी सबसे ज्यादा कमाई करने वाली हॉलीवुड फिल्म बन जानी चाहिए, जो केवल स्पाइडर-मैन: ब्रांड न्यू डे से पीछे है।",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "evenjarsa endagema enakora boksa ऑphis: prithvi ke sabase shaktishali nayakon ne bharata men holivuda ki punah rilija ke lie sabase badaा shuruaati dina banaya",
+      "summary_hinglish": "endagema ko avatar: da ve ऑpha votara se aage badhakara bharata men aba taka ki dusari sabase jyada kamaee karane vali holivuda philma bana jani chahie, jo kevala spaidara-main: branda nyu de se pichhe hai।",
+      "category_hinglish": "Entertainment"
     },
     {
       "id": "aa66fe9e5f5bdb35",
@@ -1210,23 +1278,6 @@
       "category_hinglish": "Sports"
     },
     {
-      "id": "7c01ccb37a01eb57",
-      "title": "Asian Games marathon 2026: 'If I didn't get medal, it would have been waste of time,' says Sawan Barwal",
-      "summary": "Sawan Barwal won Indias first Asian Games marathon medal since 1982, clinching silver in Nagoya with a national-record time of 2:11:37. The 28-year-old Army athlete, who switched to marathon racing earlier this year, said winning a medal validated years of training and made the transition worthwhile after breaking the national…",
-      "category": "National & Trending News",
-      "image": "https://img.etimg.com/thumb/msid-134498423,width-1200,height-630,imgsize-59598,overlay-economictimes/articleshow.jpg",
-      "source": "The Economic Times",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/sports/other-sports/asian-games-marathon-2026-if-i-didnt-get-medal-it-would-have-been-waste-of-time-says-sawan-barwal/articleshow/134498388.cms?from=mdr",
-      "publishedAt": "2026-09-26T05:52:55.000Z",
-      "fetchedAt": "2026-09-26T10:12:43.764Z",
-      "title_hi": "एशियाई खेल मैराथन 2026: 'अगर मुझे पदक नहीं मिलता, तो यह समय की बर्बादी होती,' सावन बरवाल कहते हैं",
-      "summary_hi": "सावन बरवाल ने 1982 के बाद भारत का पहला एशियाई खेलों का मैराथन पदक जीता, नागोया में 2:11:37 के राष्ट्रीय रिकॉर्ड समय के साथ रजत पदक जीता। इस साल की शुरुआत में मैराथन दौड़ में शामिल होने वाले 28 वर्षीय सेना एथलीट ने कहा कि पदक जीतने से वर्षों के प्रशिक्षण की पुष्टि होती है और राष्ट्रीय स्तर पर पहुंचने के बाद यह बदलाव सार्थक हो गया...",
-      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
-      "title_hinglish": "eshiyaee khela mairathana 2026: 'agara mujhe padaka nahin milat, to yaha samaya ki barbadi hoti,' savana baravala kahate hain",
-      "summary_hinglish": "savana baravala ne 1982 ke bada bharata ka pahala eshiyaee khelon ka mairathana padaka jit, nagoya men 2:11:37 ke rashtriya rikorda samaya ke satha rajata padaka jita। isa sala ki shuruaata men mairathana dauda men shamila hone vale 28 varshiya sena ethalita ne kaha ki padaka jitane se varshon ke prashikshana ki pushti hoti hai aura rashtriya stara para pahunchane ke bada yaha badalava sarthaka ho gay...",
-      "category_hinglish": "National aur Trending News"
-    },
-    {
       "id": "f0d00f1243cb2345",
       "title": "Son Arrested In Jamui Groping Case, Father Caught For 2003 Double Murder After Hiding For 23 Years: How Police Found Him",
       "summary": "Jamui groping case: Police arrest accused Nandan Yadav’s father Ganori Yadav in a 2003 double-murder case after tracing his criminal past.",
@@ -1242,6 +1293,23 @@
       "category_hinglish": "Crime aur Breaking News",
       "title_hinglish": "jamuee gropinga mamale men beta giraphtar, pita 23 sala taka chhipane ke bada 2003 ke dohare hatyakanda men pakadaा gay: pulisa ne use kaise paya",
       "summary_hinglish": "jamuee chhedachhada mamal: pulisa ne aaropi nandana yadava ke aaparadhika itihasa ka pata lagane ke bada 2003 ke dohare hatyakanda men usake pita ganori yadava ko giraphtara kara liya।"
+    },
+    {
+      "id": "7c01ccb37a01eb57",
+      "title": "Asian Games marathon 2026: 'If I didn't get medal, it would have been waste of time,' says Sawan Barwal",
+      "summary": "Sawan Barwal won Indias first Asian Games marathon medal since 1982, clinching silver in Nagoya with a national-record time of 2:11:37. The 28-year-old Army athlete, who switched to marathon racing earlier this year, said winning a medal validated years of training and made the transition worthwhile after breaking the national…",
+      "category": "National & Trending News",
+      "image": "https://img.etimg.com/thumb/msid-134498423,width-1200,height-630,imgsize-59598,overlay-economictimes/articleshow.jpg",
+      "source": "The Economic Times",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/sports/other-sports/asian-games-marathon-2026-if-i-didnt-get-medal-it-would-have-been-waste-of-time-says-sawan-barwal/articleshow/134498388.cms?from=mdr",
+      "publishedAt": "2026-09-26T05:52:55.000Z",
+      "fetchedAt": "2026-09-26T10:12:43.764Z",
+      "title_hi": "एशियाई खेल मैराथन 2026: 'अगर मुझे पदक नहीं मिलता, तो यह समय की बर्बादी होती,' सावन बरवाल कहते हैं",
+      "summary_hi": "सावन बरवाल ने 1982 के बाद भारत का पहला एशियाई खेलों का मैराथन पदक जीता, नागोया में 2:11:37 के राष्ट्रीय रिकॉर्ड समय के साथ रजत पदक जीता। इस साल की शुरुआत में मैराथन दौड़ में शामिल होने वाले 28 वर्षीय सेना एथलीट ने कहा कि पदक जीतने से वर्षों के प्रशिक्षण की पुष्टि होती है और राष्ट्रीय स्तर पर पहुंचने के बाद यह बदलाव सार्थक हो गया...",
+      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
+      "title_hinglish": "eshiyaee khela mairathana 2026: 'agara mujhe padaka nahin milat, to yaha samaya ki barbadi hoti,' savana baravala kahate hain",
+      "summary_hinglish": "savana baravala ne 1982 ke bada bharata ka pahala eshiyaee khelon ka mairathana padaka jit, nagoya men 2:11:37 ke rashtriya rikorda samaya ke satha rajata padaka jita। isa sala ki shuruaata men mairathana dauda men shamila hone vale 28 varshiya sena ethalita ne kaha ki padaka jitane se varshon ke prashikshana ki pushti hoti hai aura rashtriya stara para pahunchane ke bada yaha badalava sarthaka ho gay...",
+      "category_hinglish": "National aur Trending News"
     },
     {
       "id": "834770945e5f2a59",
@@ -1303,7 +1371,7 @@
       "source": "olympics.com",
       "sourceUrl": "https://www.olympics.com/en/news/asian-games-2026-medal-tally-india-winners-table-list",
       "publishedAt": "2026-09-26T05:34:00.000Z",
-      "fetchedAt": "2026-09-26T11:49:35.000Z",
+      "fetchedAt": "2026-09-26T12:00:33.473Z",
       "title_hi": "एशियाई खेल 2026: भारत की पदक तालिका और विजेताओं की सूची - पूरी तालिका",
       "summary_hi": "एशियाई खेल 2026 में भारत के विजेताओं की सूची जानें। पदक तालिका जानें और भारतीय एथलीटों ने प्रत्येक खेल में कितने पदक जीते हैं। पूरी मेज.",
       "category_hi": "खेल",
@@ -1329,23 +1397,6 @@
       "category_hinglish": "Sports"
     },
     {
-      "id": "0229089d0b3c41ff",
-      "title": "\"Kala Pani is appropriate punishment:\" Congress MP Sukhdeo Bhagat demands punishment for CEC amid SIR row",
-      "summary": "Congress MP Sukhdeo Bhagat on Saturday demanded punishment for Chief Election Commissioner Gyanesh Kumar amid an ongoing political row over the SIR exercise, declaring that \"Kala Pani\" is the appropriate punishment for Kumar based on the magnitude of his position and the alleged gravity of his misconduct.",
-      "category": "Politics & Government",
-      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260926052848-thumbnail-320x180-70.jpg",
-      "source": "ANI News",
-      "sourceUrl": "https://www.aninews.in/news/national/politics/kala-pani-is-appropriate-punishment-congress-mp-sukhdeo-bhagat-demands-punishment-for-cec-amid-sir-row16020260926105902/",
-      "publishedAt": "2026-09-26T05:29:00.000Z",
-      "fetchedAt": "2026-09-26T07:21:13.454Z",
-      "title_hi": "\"काला पानी उचित सजा है:\" कांग्रेस सांसद सुखदेव भगत ने एसआईआर विवाद के बीच सीईसी के लिए सजा की मांग की",
-      "summary_hi": "कांग्रेस सांसद सुखदेव भगत ने शनिवार को एसआईआर अभ्यास पर चल रहे राजनीतिक विवाद के बीच मुख्य चुनाव आयुक्त ज्ञानेश कुमार के लिए सजा की मांग की, उन्होंने घोषणा की कि \"काला पानी\" उनकी स्थिति की भयावहता और उनके कदाचार की कथित गंभीरता के आधार पर कुमार के लिए उचित सजा है।",
-      "category_hi": "राजनीति और सरकार",
-      "title_hinglish": "\"kala pani uchita saja hai:\" kangresa sansada sukhadeva bhagata ne esaaaeeaara vivada ke bicha sieesi ke lie saja ki manga ki",
-      "summary_hinglish": "kangresa sansada sukhadeva bhagata ne shanivara ko esaaaeeaara abhyasa para chala rahe rajanitika vivada ke bicha mukhya chunava aayukta jnyanesha kumara ke lie saja ki manga ki, unhonne ghoshana ki ki \"kala pani\" unaki sthiti ki bhayavahata aura unake kadachara ki kathita ganbhirata ke aadhara para kumara ke lie uchita saja hai।",
-      "category_hinglish": "Politics aur Government"
-    },
-    {
       "id": "8622e9889c47c0f6",
       "title": "Bengaluru-based startup founder says he stopped recruiting men from Bihar, UP, Rajasthan, MP; netizens div",
       "summary": "A Bengaluru entrepreneur has announced a hiring restriction covering male candidates from Uttar Pradesh, Rajasthan, Bihar and Madhya Pradesh, citing an alleged incident involving a former employee. Karthik SG said the employee had been dismissed after warnings over alleged abusive conduct towards female staff. The announcement drew mixed online responses,…",
@@ -1361,6 +1412,23 @@
       "title_hinglish": "bengaluru sthita startaapa sansthapaka ka kahana hai ki unhonne bihar, yupi, rajasthan, emapi se purushon ki bharti banda kara di hai; netijensa diva",
       "summary_hinglish": "bengaluru ke eka udyami ne eka purva karmachari se judaी eka kathita ghatana ka havala dete hue uttara pradesh, rajasthan, bihara aura madhya pradesha ke purusha ummidavaron ko shamila karate hue niyukti para pratibandha lagane ki ghoshana ki hai। kartika esaji ne kaha ki mahila karmachariyon ke prati kathita apamanajanaka aacharana para chetavani ke bada karmachari ko barkhasta kara diya gaya tha। ghoshana ko mishrita ऑnalaina pratikriyaen milin,…",
       "category_hinglish": "Technology"
+    },
+    {
+      "id": "0229089d0b3c41ff",
+      "title": "\"Kala Pani is appropriate punishment:\" Congress MP Sukhdeo Bhagat demands punishment for CEC amid SIR row",
+      "summary": "Congress MP Sukhdeo Bhagat on Saturday demanded punishment for Chief Election Commissioner Gyanesh Kumar amid an ongoing political row over the SIR exercise, declaring that \"Kala Pani\" is the appropriate punishment for Kumar based on the magnitude of his position and the alleged gravity of his misconduct.",
+      "category": "Politics & Government",
+      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260926052848-thumbnail-320x180-70.jpg",
+      "source": "ANI News",
+      "sourceUrl": "https://www.aninews.in/news/national/politics/kala-pani-is-appropriate-punishment-congress-mp-sukhdeo-bhagat-demands-punishment-for-cec-amid-sir-row16020260926105902/",
+      "publishedAt": "2026-09-26T05:29:00.000Z",
+      "fetchedAt": "2026-09-26T07:21:13.454Z",
+      "title_hi": "\"काला पानी उचित सजा है:\" कांग्रेस सांसद सुखदेव भगत ने एसआईआर विवाद के बीच सीईसी के लिए सजा की मांग की",
+      "summary_hi": "कांग्रेस सांसद सुखदेव भगत ने शनिवार को एसआईआर अभ्यास पर चल रहे राजनीतिक विवाद के बीच मुख्य चुनाव आयुक्त ज्ञानेश कुमार के लिए सजा की मांग की, उन्होंने घोषणा की कि \"काला पानी\" उनकी स्थिति की भयावहता और उनके कदाचार की कथित गंभीरता के आधार पर कुमार के लिए उचित सजा है।",
+      "category_hi": "राजनीति और सरकार",
+      "title_hinglish": "\"kala pani uchita saja hai:\" kangresa sansada sukhadeva bhagata ne esaaaeeaara vivada ke bicha sieesi ke lie saja ki manga ki",
+      "summary_hinglish": "kangresa sansada sukhadeva bhagata ne shanivara ko esaaaeeaara abhyasa para chala rahe rajanitika vivada ke bicha mukhya chunava aayukta jnyanesha kumara ke lie saja ki manga ki, unhonne ghoshana ki ki \"kala pani\" unaki sthiti ki bhayavahata aura unake kadachara ki kathita ganbhirata ke aadhara para kumara ke lie uchita saja hai।",
+      "category_hinglish": "Politics aur Government"
     },
     {
       "id": "846fd04325f8cade",
@@ -1380,23 +1448,6 @@
       "category_hinglish": "National aur Trending News"
     },
     {
-      "id": "34dc4097b42db2fe",
-      "title": "WATCH: Sawan Barwal creates history for India at the Asian Games 2026 by winning silver in Marathon after...",
-      "summary": "Star Indian athlete Sawan Barwal achieved a huge milestone for India in Marathon at the Asian Games 2026. Scroll down to read the full story.",
-      "category": "Sports",
-      "image": "https://static.india.com/wp-content/uploads/2026/09/Sawan-Barwal-wins-silver-medal-for-India-in-marathon.jpg",
-      "source": "India.com",
-      "sourceUrl": "https://www.india.com/sports/others/watch-sawan-barwal-creates-history-for-india-at-the-asian-games-2026-by-winning-silver-in-marathon-after-44-years-8530181/",
-      "publishedAt": "2026-09-26T05:22:41.000Z",
-      "fetchedAt": "2026-09-26T07:58:12.322Z",
-      "title_hi": "देखें: सावन बरवाल ने एशियाई खेलों 2026 में मैराथन में रजत जीतकर भारत के लिए इतिहास रचा...",
-      "summary_hi": "स्टार भारतीय एथलीट सावन बरवाल ने एशियाई खेलों 2026 में मैराथन में भारत के लिए एक बड़ी उपलब्धि हासिल की। पूरी कहानी पढ़ने के लिए नीचे स्क्रॉल करें।",
-      "category_hi": "खेल",
-      "title_hinglish": "dekhen: savana baravala ne eshiyaee khelon 2026 men mairathana men rajata jitakara bharata ke lie itihasa rach...",
-      "summary_hinglish": "stara bharatiya ethalita savana baravala ne eshiyaee khelon 2026 men mairathana men bharata ke lie eka badaी upalabdhi hasila ki। puri kahani padhane ke lie niche skrola karen।",
-      "category_hinglish": "Sports"
-    },
-    {
       "id": "e381c45d8b84f9b1",
       "title": "Jamui incident: Accused’s father held in murder case",
       "summary": "The father of the alleged main accused involved in a minor girl’s molestation case has been arrested in a more than two-decade-old double murder case. The accused, Ganauri Yadav, was wanted in a sensational double murder that took place in 2003 and had been absconding for 21 years.",
@@ -1412,6 +1463,23 @@
       "title_hinglish": "jamuee ghatan: hatya mamale men aaropi ka pita giraphtara",
       "summary_hinglish": "nabaliga ladaki se chhedachhada mamale men shamila kathita mukhya aaropi ke pita ko do dashaka se adhika purane dohare hatyakanda men giraphtara kiya gaya hai। aaropi ganauri yadava 2003 men hue eka sanasanikheja dohare hatyakanda men vanchhita tha aura 21 sala se pharara tha।",
       "category_hinglish": "Crime aur Breaking News"
+    },
+    {
+      "id": "34dc4097b42db2fe",
+      "title": "WATCH: Sawan Barwal creates history for India at the Asian Games 2026 by winning silver in Marathon after...",
+      "summary": "Star Indian athlete Sawan Barwal achieved a huge milestone for India in Marathon at the Asian Games 2026. Scroll down to read the full story.",
+      "category": "Sports",
+      "image": "https://static.india.com/wp-content/uploads/2026/09/Sawan-Barwal-wins-silver-medal-for-India-in-marathon.jpg",
+      "source": "India.com",
+      "sourceUrl": "https://www.india.com/sports/others/watch-sawan-barwal-creates-history-for-india-at-the-asian-games-2026-by-winning-silver-in-marathon-after-44-years-8530181/",
+      "publishedAt": "2026-09-26T05:22:41.000Z",
+      "fetchedAt": "2026-09-26T07:58:12.322Z",
+      "title_hi": "देखें: सावन बरवाल ने एशियाई खेलों 2026 में मैराथन में रजत जीतकर भारत के लिए इतिहास रचा...",
+      "summary_hi": "स्टार भारतीय एथलीट सावन बरवाल ने एशियाई खेलों 2026 में मैराथन में भारत के लिए एक बड़ी उपलब्धि हासिल की। पूरी कहानी पढ़ने के लिए नीचे स्क्रॉल करें।",
+      "category_hi": "खेल",
+      "title_hinglish": "dekhen: savana baravala ne eshiyaee khelon 2026 men mairathana men rajata jitakara bharata ke lie itihasa rach...",
+      "summary_hinglish": "stara bharatiya ethalita savana baravala ne eshiyaee khelon 2026 men mairathana men bharata ke lie eka badaी upalabdhi hasila ki। puri kahani padhane ke lie niche skrola karen।",
+      "category_hinglish": "Sports"
     },
     {
       "id": "aa3a80ead77c6d85",
@@ -1497,23 +1565,6 @@
       "title_hinglish": "bharata ne gramina praudyogiki pariniyojana para RUTAG 2.0 ki pragati ki samiksha ki",
       "summary_hinglish": "bharata ka RUTAG 2.0 karyakrama gramina jaruraton ko sanbodhita karane, sthaniya aajivika ka samarthana karane aura satata vikasa ko badhaाva dene vali vyavaharika praudyogikiyon ko manya karane, skela karane aura tainata karane ke margon ko majabuta kara raha hai।",
       "category_hinglish": "Technology"
-    },
-    {
-      "id": "bc9bbcfdd4374e30",
-      "title": "Reuters Entertainment News Summary",
-      "summary": "Read more about Reuters Entertainment News Summary on Devdiscourse.",
-      "category": "Entertainment",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/25_06_2019_19_12_10_0069135.jpg&width=1280",
-      "source": "Devdiscourse",
-      "sourceUrl": "https://www.devdiscourse.com/article/international/3982809-reuters-entertainment-news-summary?amp",
-      "publishedAt": "2026-09-26T04:58:12.000Z",
-      "fetchedAt": "2026-09-26T06:14:11.676Z",
-      "title_hi": "रॉयटर्स मनोरंजन समाचार सारांश",
-      "summary_hi": "डेवडिस्कॉर्स पर रॉयटर्स एंटरटेनमेंट समाचार सारांश के बारे में और पढ़ें।",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "royatarsa manoranjana samachara saransha",
-      "summary_hinglish": "devadiskorsa para royatarsa entaratenamenta samachara saransha ke bare men aura padhaेn।",
-      "category_hinglish": "Entertainment"
     },
     {
       "id": "eab5dd87718162e1",
