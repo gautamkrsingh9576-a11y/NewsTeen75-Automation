@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T01:19:27.746Z",
+  "updatedAt": "2026-09-27T01:34:35.789Z",
   "count": 77,
   "articles": [
     {
@@ -793,7 +793,7 @@
       "source": "olympics.com",
       "sourceUrl": "https://www.olympics.com/en/news/asian-games-2026-medal-tally-india-winners-table-list",
       "publishedAt": "2026-09-26T15:41:00.000Z",
-      "fetchedAt": "2026-09-27T01:19:08.535Z",
+      "fetchedAt": "2026-09-27T01:33:53.732Z",
       "title_hi": "एशियाई खेल 2026: भारत की पदक तालिका और विजेताओं की सूची - पूरी तालिका",
       "summary_hi": "एशियाई खेल 2026 में भारत के विजेताओं की सूची जानें। पदक तालिका जानें और भारतीय एथलीटों ने प्रत्येक खेल में कितने पदक जीते हैं। पूरी मेज.",
       "category_hi": "खेल",
@@ -819,21 +819,21 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "b9040ea2575cdacc",
-      "title": "IIT Madras, Unicorn India Ventures Announce Initial Funding From Deep-Tech Venture Capital Fund",
-      "summary": "The IIT Madras Unicorn Frontier Fund I targets raising Rs 600–1,000 crore to provide patient capital to deep-tech startups emerging from the IIT-M ecosystem.",
-      "category": "Technology",
-      "image": "https://imgs.etvbharat.com/etvbharat/prod-images/26-09-2026/1200-675-27727669-thumbnail-16x9-iit-aspera.jpeg",
-      "source": "ETV Bharat",
-      "sourceUrl": "https://www.etvbharat.com/en/technology/iit-madras-unicorn-india-ventures-announce-initial-funding-from-deep-tech-venture-capital-fund-enn26092605861",
-      "publishedAt": "2026-09-26T15:20:46.000Z",
-      "fetchedAt": "2026-09-26T15:58:21.289Z",
-      "title_hi": "आईआईटी मद्रास, यूनिकॉर्न इंडिया वेंचर्स ने डीप-टेक वेंचर कैपिटल फंड से शुरुआती फंडिंग की घोषणा की",
-      "summary_hi": "आईआईटी मद्रास यूनिकॉर्न फ्रंटियर फंड I ने आईआईटी-एम पारिस्थितिकी तंत्र से उभरने वाले डीप-टेक स्टार्टअप्स को धैर्यपूर्ण पूंजी प्रदान करने के लिए 600-1,000 करोड़ रुपये जुटाने का लक्ष्य रखा है।",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "aaeeaaeeti madras, yunikorna indiya vencharsa ne dipa-teka venchara kaipitala phanda se shuruaati phandinga ki ghoshana ki",
-      "summary_hinglish": "aaeeaaeeti madrasa yunikorna phrantiyara phanda I ne aaeeaaeeti-ema paristhitiki tantra se ubharane vale dipa-teka startaapsa ko dhairyapurna punji pradana karane ke lie 600-1,000 karoda rupaye jutane ka lakshya rakha hai।",
-      "category_hinglish": "Technology"
+      "id": "c2970baa9bb6b8e0",
+      "title": "Athletics at Asian Games 2026: Schedule, events, India results and medal winners - full list",
+      "summary": "Know all Asian Games 2026 athletics scores, times, marks, results and for Indian athletes along with medal winners list. Get full schedule for track and field events.",
+      "category": "Sports",
+      "image": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/pez7acqkjw1r5febnff6",
+      "source": "olympics.com",
+      "sourceUrl": "https://www.olympics.com/en/news/asian-games-2026-athletics-results-scores-india-schedule",
+      "publishedAt": "2026-09-26T15:25:00.000Z",
+      "fetchedAt": "2026-09-27T01:34:06.062Z",
+      "title_hi": "एशियाई खेल 2026 में एथलेटिक्स: कार्यक्रम, कार्यक्रम, भारत के परिणाम और पदक विजेता - पूरी सूची",
+      "summary_hi": "सभी एशियाई खेल 2026 एथलेटिक्स स्कोर, समय, अंक, परिणाम और पदक विजेताओं की सूची के साथ भारतीय एथलीटों के बारे में जानें। ट्रैक और फील्ड इवेंट का पूरा शेड्यूल प्राप्त करें।",
+      "category_hi": "खेल",
+      "title_hinglish": "eshiyaee khela 2026 men ethaletiks: karyakram, karyakram, bharata ke parinama aura padaka vijeta - puri suchi",
+      "summary_hinglish": "sabhi eshiyaee khela 2026 ethaletiksa skor, samay, ank, parinama aura padaka vijetaon ki suchi ke satha bharatiya ethaliton ke bare men janen। traika aura philda iventa ka pura shedyula prapta karen।",
+      "category_hinglish": "Sports"
     },
     {
       "id": "634ecb4091ac43ed",
@@ -853,6 +853,23 @@
       "category_hinglish": "Crime aur Breaking News"
     },
     {
+      "id": "b9040ea2575cdacc",
+      "title": "IIT Madras, Unicorn India Ventures Announce Initial Funding From Deep-Tech Venture Capital Fund",
+      "summary": "The IIT Madras Unicorn Frontier Fund I targets raising Rs 600–1,000 crore to provide patient capital to deep-tech startups emerging from the IIT-M ecosystem.",
+      "category": "Technology",
+      "image": "https://imgs.etvbharat.com/etvbharat/prod-images/26-09-2026/1200-675-27727669-thumbnail-16x9-iit-aspera.jpeg",
+      "source": "ETV Bharat",
+      "sourceUrl": "https://www.etvbharat.com/en/technology/iit-madras-unicorn-india-ventures-announce-initial-funding-from-deep-tech-venture-capital-fund-enn26092605861",
+      "publishedAt": "2026-09-26T15:20:46.000Z",
+      "fetchedAt": "2026-09-26T15:58:21.289Z",
+      "title_hi": "आईआईटी मद्रास, यूनिकॉर्न इंडिया वेंचर्स ने डीप-टेक वेंचर कैपिटल फंड से शुरुआती फंडिंग की घोषणा की",
+      "summary_hi": "आईआईटी मद्रास यूनिकॉर्न फ्रंटियर फंड I ने आईआईटी-एम पारिस्थितिकी तंत्र से उभरने वाले डीप-टेक स्टार्टअप्स को धैर्यपूर्ण पूंजी प्रदान करने के लिए 600-1,000 करोड़ रुपये जुटाने का लक्ष्य रखा है।",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "aaeeaaeeti madras, yunikorna indiya vencharsa ne dipa-teka venchara kaipitala phanda se shuruaati phandinga ki ghoshana ki",
+      "summary_hinglish": "aaeeaaeeti madrasa yunikorna phrantiyara phanda I ne aaeeaaeeti-ema paristhitiki tantra se ubharane vale dipa-teka startaapsa ko dhairyapurna punji pradana karane ke lie 600-1,000 karoda rupaye jutane ka lakshya rakha hai।",
+      "category_hinglish": "Technology"
+    },
+    {
       "id": "897c4f3f86685c19",
       "title": "No Work, No Vote: The Power Voters Must Use",
       "summary": "Mr Scindia is a long-standing friend of mine, a responsive public servant, and a competent minister. This incident is, therefore, not about him, but about the larger lesson to be derived from this...",
@@ -868,23 +885,6 @@
       "title_hinglish": "kama nahin, vota nahin: shakti ka upayoga matadataon ko avashya karana chahie",
       "summary_hinglish": "shri sindhiya mere purane mitr, eka uttaradayi loka sevaka aura eka sakshama mantri hain। isalie, yaha ghatana usake bare men nahin hai, balki isase milane vale badaे sabaka ke bare men hai...",
       "category_hinglish": "Politics aur Government"
-    },
-    {
-      "id": "97038ea93ac50a94",
-      "title": "Hanuman Ansh completes 50 days at the box office, refuses to slow down as it inches towards ₹300 crore in India | Bollywood",
-      "summary": "Hanuman Ansh is based on the life and teachings of spiritual leader Neem Karoli Baba. It is directed by Vishal Chaturvedi. | Bollywood",
-      "category": "Entertainment",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/26/1600x900/logo/hanuman_ansh_1790432395560_IOg0_1790432395794_ZHvX_161bf2ef-a961-4e63-8c7f-29a931eb580f_63pn.webp",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/entertainment/bollywood/hanuman-ansh-completes-50-days-at-the-box-office-refuses-to-slow-down-as-it-inches-towards-300-crore-in-india-101790432210926.html",
-      "publishedAt": "2026-09-26T15:06:26.000Z",
-      "fetchedAt": "2026-09-26T21:44:53.749Z",
-      "title_hi": "हनुमान अंश ने बॉक्स ऑफिस पर 50 दिन पूरे किए, भारत में ₹300 करोड़ की ओर बढ़ते हुए धीमी होने से इनकार किया | बॉलीवुड",
-      "summary_hi": "हनुमान अंश आध्यात्मिक गुरु नीम करोली बाबा के जीवन और शिक्षाओं पर आधारित है। इसका निर्देशन विशाल चतुवेर्दी ने किया है। | बॉलीवुड",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "hanumana ansha ne boksa ऑphisa para 50 dina pure kie, bharata men ₹300 karoda ki ora badhate hue dhimi hone se inakara kiya | bolivuda",
-      "summary_hinglish": "hanumana ansha aadhyatmika guru nima karoli baba ke jivana aura shikshaon para aadharita hai। isaka nirdeshana vishala chatuverdi ne kiya hai। | bolivuda",
-      "category_hinglish": "Entertainment"
     },
     {
       "id": "aef7c34b71cd6835",
@@ -904,6 +904,23 @@
       "category_hinglish": "Sports"
     },
     {
+      "id": "97038ea93ac50a94",
+      "title": "Hanuman Ansh completes 50 days at the box office, refuses to slow down as it inches towards ₹300 crore in India | Bollywood",
+      "summary": "Hanuman Ansh is based on the life and teachings of spiritual leader Neem Karoli Baba. It is directed by Vishal Chaturvedi. | Bollywood",
+      "category": "Entertainment",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/26/1600x900/logo/hanuman_ansh_1790432395560_IOg0_1790432395794_ZHvX_161bf2ef-a961-4e63-8c7f-29a931eb580f_63pn.webp",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/entertainment/bollywood/hanuman-ansh-completes-50-days-at-the-box-office-refuses-to-slow-down-as-it-inches-towards-300-crore-in-india-101790432210926.html",
+      "publishedAt": "2026-09-26T15:06:26.000Z",
+      "fetchedAt": "2026-09-26T21:44:53.749Z",
+      "title_hi": "हनुमान अंश ने बॉक्स ऑफिस पर 50 दिन पूरे किए, भारत में ₹300 करोड़ की ओर बढ़ते हुए धीमी होने से इनकार किया | बॉलीवुड",
+      "summary_hi": "हनुमान अंश आध्यात्मिक गुरु नीम करोली बाबा के जीवन और शिक्षाओं पर आधारित है। इसका निर्देशन विशाल चतुवेर्दी ने किया है। | बॉलीवुड",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "hanumana ansha ne boksa ऑphisa para 50 dina pure kie, bharata men ₹300 karoda ki ora badhate hue dhimi hone se inakara kiya | bolivuda",
+      "summary_hinglish": "hanumana ansha aadhyatmika guru nima karoli baba ke jivana aura shikshaon para aadharita hai। isaka nirdeshana vishala chatuverdi ne kiya hai। | bolivuda",
+      "category_hinglish": "Entertainment"
+    },
+    {
       "id": "61f86eb69661de46",
       "title": "Man murdered in TN Pura, 3 held",
       "summary": "Man murdered in T Narasipura over family dispute; police arrest three suspects. Victim Subhash, 35, attacked with knife; investigation underway.",
@@ -918,6 +935,23 @@
       "category_hi": "अपराध और ब्रेकिंग न्यूज़",
       "title_hinglish": "tiena pura men eka vyakti ki haty, 3 giraphtara",
       "summary_hinglish": "ti narasipura men parivarika vivada ko lekara vyakti ki haty; pulisa ne tina sandigdhon ko giraphtara kiy. pidaिta 35 varshiya subhasha para chaku se hamal; jancha chala rahi hai.",
+      "category_hinglish": "Crime aur Breaking News"
+    },
+    {
+      "id": "ea636450a7e004bc",
+      "title": "Ashok defends govt, Shambhavi seeks review of women’s safety laws",
+      "summary": "Amid mounting concern over a series of crimes in Bihar, food and consumer protection minister Ashok Choudhary on Thursday said criminal incidents were not specific to the state and also occurred in developed countries such as the US and Japan. His daughter and LJP(RV) MP Shambhavi Choudhary, meanwhile, called for…",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134463157,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/patna/ashok-defends-govt-shambhavi-seeks-review-of-womens-safety-laws/articleshow/134463160.cms",
+      "publishedAt": "2026-09-24T12:58:00.000Z",
+      "fetchedAt": "2026-09-24T13:19:12.406Z",
+      "title_hi": "अशोक ने सरकार का बचाव किया, शांभवी ने महिला सुरक्षा कानूनों की समीक्षा की मांग की",
+      "summary_hi": "बिहार में अपराधों की श्रृंखला पर बढ़ती चिंता के बीच, खाद्य और उपभोक्ता संरक्षण मंत्री अशोक चौधरी ने गुरुवार को कहा कि आपराधिक घटनाएं केवल राज्य तक ही सीमित नहीं थीं, बल्कि अमेरिका और जापान जैसे विकसित देशों में भी हुई थीं। इस बीच, उनकी बेटी और एलजेपी (आरवी) सांसद शांभवी चौधरी ने कहा...",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "ashoka ne sarakara ka bachava kiy, shanbhavi ne mahila suraksha kanunon ki samiksha ki manga ki",
+      "summary_hinglish": "bihara men aparadhon ki shrrinkhala para badhati chinta ke bich, khadya aura upabhokta sanrakshana mantri ashoka chaudhari ne guruvara ko kaha ki aaparadhika ghatanaen kevala rajya taka hi simita nahin thin, balki amerika aura japana jaise vikasita deshon men bhi huee thin। isa bich, unaki beti aura elajepi (aaravi) sansada shanbhavi chaudhari ne kah...",
       "category_hinglish": "Crime aur Breaking News"
     },
     {
@@ -936,23 +970,6 @@
       "title_hinglish": "dakshina prayadvipiya bharata ki taraha tamilanadu bhi sukhe ke hotaspota men shamil: adhyayana",
       "summary_hinglish": "1971-2022 ke kshetriya jalavayu adhyayana ke anusar, badhate sukha prabhavita kshetron aura atyadhika garmi ke sath, tamilanadu dakshina prayadvipiya bharata men eka pramukha sukha hotaspota ke rupa men shumara hai।",
       "category_hinglish": "National aur Trending News"
-    },
-    {
-      "id": "ea636450a7e004bc",
-      "title": "Ashok defends govt, Shambhavi seeks review of women’s safety laws",
-      "summary": "Amid mounting concern over a series of crimes in Bihar, food and consumer protection minister Ashok Choudhary on Thursday said criminal incidents were not specific to the state and also occurred in developed countries such as the US and Japan. His daughter and LJP(RV) MP Shambhavi Choudhary, meanwhile, called for…",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134463157,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/patna/ashok-defends-govt-shambhavi-seeks-review-of-womens-safety-laws/articleshow/134463160.cms",
-      "publishedAt": "2026-09-24T12:58:00.000Z",
-      "fetchedAt": "2026-09-24T13:19:12.406Z",
-      "title_hi": "अशोक ने सरकार का बचाव किया, शांभवी ने महिला सुरक्षा कानूनों की समीक्षा की मांग की",
-      "summary_hi": "बिहार में अपराधों की श्रृंखला पर बढ़ती चिंता के बीच, खाद्य और उपभोक्ता संरक्षण मंत्री अशोक चौधरी ने गुरुवार को कहा कि आपराधिक घटनाएं केवल राज्य तक ही सीमित नहीं थीं, बल्कि अमेरिका और जापान जैसे विकसित देशों में भी हुई थीं। इस बीच, उनकी बेटी और एलजेपी (आरवी) सांसद शांभवी चौधरी ने कहा...",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "ashoka ne sarakara ka bachava kiy, shanbhavi ne mahila suraksha kanunon ki samiksha ki manga ki",
-      "summary_hinglish": "bihara men aparadhon ki shrrinkhala para badhati chinta ke bich, khadya aura upabhokta sanrakshana mantri ashoka chaudhari ne guruvara ko kaha ki aaparadhika ghatanaen kevala rajya taka hi simita nahin thin, balki amerika aura japana jaise vikasita deshon men bhi huee thin। isa bich, unaki beti aura elajepi (aaravi) sansada shanbhavi chaudhari ne kah...",
-      "category_hinglish": "Crime aur Breaking News"
     },
     {
       "id": "3ae122de09a440ea",
@@ -989,23 +1006,6 @@
       "category_hinglish": "Politics aur Government"
     },
     {
-      "id": "5a68445f7cc7ba2f",
-      "title": "Asian Games 2026: Sawan Barwal wins historic marathon silver; Tajinderpal Singh Toor completes medal hat-trick",
-      "summary": "India’s Sawan Barwal won marathon silver, Tajinderpal Singh Toor shot put silver and Prachi Choudhary 400m bronze at the Asian Games 2026 athletics.",
-      "category": "National & Trending News",
-      "image": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/pqbw384krhad3dwyge6h",
-      "source": "olympics.com",
-      "sourceUrl": "https://www.olympics.com/en/news/asian-games-2026-athletics-marathon-shot-put-400m-results",
-      "publishedAt": "2026-09-26T14:19:00.000Z",
-      "fetchedAt": "2026-09-26T19:00:19.727Z",
-      "title_hi": "एशियाई खेल 2026: सावन बरवाल ने ऐतिहासिक मैराथन रजत जीता; तजिंदरपाल सिंह तूर ने पदक की हैट्रिक पूरी की",
-      "summary_hi": "एशियाई खेल 2026 एथलेटिक्स में भारत के सावन बरवाल ने मैराथन रजत, तजिंदरपाल सिंह तूर ने शॉटपुट में रजत और प्राची चौधरी ने 400 मीटर में कांस्य पदक जीता।",
-      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
-      "title_hinglish": "eshiyaee khela 2026: savana baravala ne aitihasika mairathana rajata jit; tajindarapala sinha tura ne padaka ki haitrika puri ki",
-      "summary_hinglish": "eshiyaee khela 2026 ethaletiksa men bharata ke savana baravala ne mairathana rajat, tajindarapala sinha tura ne shotaputa men rajata aura prachi chaudhari ne 400 mitara men kansya padaka jita।",
-      "category_hinglish": "National aur Trending News"
-    },
-    {
       "id": "da401641f60b2e9a",
       "title": "HT Evening News Brief Sept 24: 9 dead in Greater Noida fire tragedy, another teen harassed in Bihar | India News",
       "summary": "Here’s your evening news brief with the day’s top stories from politics, world affairs, sports, and entertainment.",
@@ -1021,6 +1021,23 @@
       "title_hinglish": "echati ivaninga nyuja bripha 24 sitanbar: gretara noeda men aaga lagane se 9 logon ki maut, bihara men eka aura kishora ko pareshana kiya gaya | bharata samachara",
       "summary_hinglish": "rajaniti, vishva mamalon, khela aura manoranjana se dina ki shirsha kahaniyon ke satha yahan aapaki shama ki khabaren sankshipta hain।",
       "category_hinglish": "Politics aur Government"
+    },
+    {
+      "id": "5a68445f7cc7ba2f",
+      "title": "Asian Games 2026: Sawan Barwal wins historic marathon silver; Tajinderpal Singh Toor completes medal hat-trick",
+      "summary": "India’s Sawan Barwal won marathon silver, Tajinderpal Singh Toor shot put silver and Prachi Choudhary 400m bronze at the Asian Games 2026 athletics.",
+      "category": "National & Trending News",
+      "image": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/pqbw384krhad3dwyge6h",
+      "source": "olympics.com",
+      "sourceUrl": "https://www.olympics.com/en/news/asian-games-2026-athletics-marathon-shot-put-400m-results",
+      "publishedAt": "2026-09-26T14:19:00.000Z",
+      "fetchedAt": "2026-09-26T19:00:19.727Z",
+      "title_hi": "एशियाई खेल 2026: सावन बरवाल ने ऐतिहासिक मैराथन रजत जीता; तजिंदरपाल सिंह तूर ने पदक की हैट्रिक पूरी की",
+      "summary_hi": "एशियाई खेल 2026 एथलेटिक्स में भारत के सावन बरवाल ने मैराथन रजत, तजिंदरपाल सिंह तूर ने शॉटपुट में रजत और प्राची चौधरी ने 400 मीटर में कांस्य पदक जीता।",
+      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
+      "title_hinglish": "eshiyaee khela 2026: savana baravala ne aitihasika mairathana rajata jit; tajindarapala sinha tura ne padaka ki haitrika puri ki",
+      "summary_hinglish": "eshiyaee khela 2026 ethaletiksa men bharata ke savana baravala ne mairathana rajat, tajindarapala sinha tura ne shotaputa men rajata aura prachi chaudhari ne 400 mitara men kansya padaka jita।",
+      "category_hinglish": "National aur Trending News"
     },
     {
       "id": "53bdb7b211342423",
@@ -1040,23 +1057,6 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "7b0c4be02d815905",
-      "title": "Asian Games Medal Tally: How two kabaddi golds helped India break back into top 10 as China pull ahead",
-      "summary": "India returned to the top 10 of the Asian Games medal standings on Saturday after a seven-medal haul, highlighted by two gold medals in kabaddi. The country’s gold rush in the sport, along with medals in athletics, shooting and squash, took the overall tally to 30 and moved India up…",
-      "category": "Sports",
-      "image": "https://static.toiimg.com/thumb/msid-134505963,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-medal-tally-how-two-kabaddi-golds-helped-india-break-back-into-top-10-as-china-pull-ahead/articleshow/134505788.cms",
-      "publishedAt": "2026-09-26T14:03:00.000Z",
-      "fetchedAt": "2026-09-26T14:21:38.965Z",
-      "title_hi": "एशियाई खेल पदक तालिका: कैसे दो कबड्डी स्वर्णों ने भारत को शीर्ष 10 में वापस लाने में मदद की, जबकि चीन आगे निकल गया",
-      "summary_hi": "भारत शनिवार को एशियाई खेलों की पदक तालिका में सात पदकों की उपलब्धि के साथ शीर्ष 10 में लौट आया, जिसमें कबड्डी में दो स्वर्ण पदक शामिल थे। एथलेटिक्स, निशानेबाजी और स्क्वैश में पदकों के साथ-साथ इस खेल में देश के स्वर्ण पदकों की संख्या ने कुल पदकों की संख्या 30 पहुंचा दी और भारत आगे बढ़ गया...",
-      "category_hi": "खेल",
-      "title_hinglish": "eshiyaee khela padaka talik: kaise do kabaddi svarnon ne bharata ko shirsha 10 men vapasa lane men madada ki, jabaki china aage nikala gaya",
-      "summary_hinglish": "bharata shanivara ko eshiyaee khelon ki padaka talika men sata padakon ki upalabdhi ke satha shirsha 10 men lauta aay, jisamen kabaddi men do svarna padaka shamila the। ethaletiks, nishanebaji aura skvaisha men padakon ke satha-satha isa khela men desha ke svarna padakon ki sankhya ne kula padakon ki sankhya 30 pahuncha di aura bharata aage badha gay...",
-      "category_hinglish": "Sports"
-    },
-    {
       "id": "cf0bfa78a67528df",
       "title": "Jamui Molestation Accused Nandan Yadav's Father Arrested In 2003 Double Murder Case After 23 Years",
       "summary": "Police said Ganauri Yadav had been absconding in the case for nearly 23 years and was the only one among the 11 accused who had remained outside jail.",
@@ -1072,6 +1072,23 @@
       "title_hinglish": "jamuee chhedachhada ke aaropi nandana yadava ke pita 23 sala bada 2003 dabala mardara kesa men giraphtara",
       "summary_hinglish": "pulisa ne kaha ki ganauri yadava isa mamale men lagabhaga 23 varshon se pharara tha aura 11 aaropiyon men se ekamatra tha jo jela se bahara raha tha।",
       "category_hinglish": "Crime aur Breaking News"
+    },
+    {
+      "id": "7b0c4be02d815905",
+      "title": "Asian Games Medal Tally: How two kabaddi golds helped India break back into top 10 as China pull ahead",
+      "summary": "India returned to the top 10 of the Asian Games medal standings on Saturday after a seven-medal haul, highlighted by two gold medals in kabaddi. The country’s gold rush in the sport, along with medals in athletics, shooting and squash, took the overall tally to 30 and moved India up…",
+      "category": "Sports",
+      "image": "https://static.toiimg.com/thumb/msid-134505963,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-medal-tally-how-two-kabaddi-golds-helped-india-break-back-into-top-10-as-china-pull-ahead/articleshow/134505788.cms",
+      "publishedAt": "2026-09-26T14:03:00.000Z",
+      "fetchedAt": "2026-09-26T14:21:38.965Z",
+      "title_hi": "एशियाई खेल पदक तालिका: कैसे दो कबड्डी स्वर्णों ने भारत को शीर्ष 10 में वापस लाने में मदद की, जबकि चीन आगे निकल गया",
+      "summary_hi": "भारत शनिवार को एशियाई खेलों की पदक तालिका में सात पदकों की उपलब्धि के साथ शीर्ष 10 में लौट आया, जिसमें कबड्डी में दो स्वर्ण पदक शामिल थे। एथलेटिक्स, निशानेबाजी और स्क्वैश में पदकों के साथ-साथ इस खेल में देश के स्वर्ण पदकों की संख्या ने कुल पदकों की संख्या 30 पहुंचा दी और भारत आगे बढ़ गया...",
+      "category_hi": "खेल",
+      "title_hinglish": "eshiyaee khela padaka talik: kaise do kabaddi svarnon ne bharata ko shirsha 10 men vapasa lane men madada ki, jabaki china aage nikala gaya",
+      "summary_hinglish": "bharata shanivara ko eshiyaee khelon ki padaka talika men sata padakon ki upalabdhi ke satha shirsha 10 men lauta aay, jisamen kabaddi men do svarna padaka shamila the। ethaletiks, nishanebaji aura skvaisha men padakon ke satha-satha isa khela men desha ke svarna padakon ki sankhya ne kula padakon ki sankhya 30 pahuncha di aura bharata aage badha gay...",
+      "category_hinglish": "Sports"
     },
     {
       "id": "f4e1cc6a2ad2975d",
@@ -1091,23 +1108,6 @@
       "category_hinglish": "Sports"
     },
     {
-      "id": "62877e932cb08db1",
-      "title": "IIT Madras announces first close of deep-tech venture capital fund",
-      "summary": "Convener News DeskChennai, September 26: The Indian Institute of Technology Madras (IIT Madras) has announced the first close of its deep-tech venture capital fund, marking a step towards strengthening funding support for technology-intensive startup",
-      "category": "Technology",
-      "image": "https://kashmirconvener.com/wp-content/uploads/2026/09/Smt-Nirmala-Sitharaman-Union-Financial-Minister-Prof-V-Kamakoti-Director-IIT-M-at-%E2%80%98IIT-Madras-Unicorn-Frontier-Fund-I-launch-in-Bangalore-on-26-Sept-2026-1024x683.jpg",
-      "source": "Kashmir Convener",
-      "sourceUrl": "https://kashmirconvener.com/iit-madras-announces-first-close-of-deep-tech-venture-capital-fund/",
-      "publishedAt": "2026-09-26T13:27:52.000Z",
-      "fetchedAt": "2026-09-26T15:34:41.612Z",
-      "title_hi": "आईआईटी मद्रास ने डीप-टेक वेंचर कैपिटल फंड के पहले समापन की घोषणा की",
-      "summary_hi": "संयोजक समाचार डेस्कचेन्नई, 26 सितंबर: भारतीय प्रौद्योगिकी संस्थान मद्रास (आईआईटी मद्रास) ने अपने डीप-टेक वेंचर कैपिटल फंड के पहले समापन की घोषणा की है, जो प्रौद्योगिकी-गहन स्टार्टअप के लिए फंडिंग समर्थन को मजबूत करने की दिशा में एक कदम है।",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "aaeeaaeeti madrasa ne dipa-teka venchara kaipitala phanda ke pahale samapana ki ghoshana ki",
-      "summary_hinglish": "sanyojaka samachara deskachennaee, 26 sitanbar: bharatiya praudyogiki sansthana madrasa (aaeeaaeeti madrasa) ne apane dipa-teka venchara kaipitala phanda ke pahale samapana ki ghoshana ki hai, jo praudyogiki-gahana startaapa ke lie phandinga samarthana ko majabuta karane ki disha men eka kadama hai।",
-      "category_hinglish": "Technology"
-    },
-    {
       "id": "d95f8864a6d2a2c3",
       "title": "Jamui harassment video: Accused Nandan Yadav’s father was wanted for double murder",
       "summary": "While the other accused in the 2003 double murder are now out on bail, Ganauri Yadav was never caught by Bihar Police",
@@ -1123,6 +1123,23 @@
       "category_hinglish": "Crime aur Breaking News",
       "title_hinglish": "jamuee utpidana vidiyo: aaropi nandana yadava ke pita dohare hatyakanda men the vanchhita",
       "summary_hinglish": "jabaki 2003 ke dohare hatyakanda ke anya aaropi aba jamanata para bahara hain, ganauri yadava kabhi bhi bihara pulisa ki pakada men nahin aaya"
+    },
+    {
+      "id": "62877e932cb08db1",
+      "title": "IIT Madras announces first close of deep-tech venture capital fund",
+      "summary": "Convener News DeskChennai, September 26: The Indian Institute of Technology Madras (IIT Madras) has announced the first close of its deep-tech venture capital fund, marking a step towards strengthening funding support for technology-intensive startup",
+      "category": "Technology",
+      "image": "https://kashmirconvener.com/wp-content/uploads/2026/09/Smt-Nirmala-Sitharaman-Union-Financial-Minister-Prof-V-Kamakoti-Director-IIT-M-at-%E2%80%98IIT-Madras-Unicorn-Frontier-Fund-I-launch-in-Bangalore-on-26-Sept-2026-1024x683.jpg",
+      "source": "Kashmir Convener",
+      "sourceUrl": "https://kashmirconvener.com/iit-madras-announces-first-close-of-deep-tech-venture-capital-fund/",
+      "publishedAt": "2026-09-26T13:27:52.000Z",
+      "fetchedAt": "2026-09-26T15:34:41.612Z",
+      "title_hi": "आईआईटी मद्रास ने डीप-टेक वेंचर कैपिटल फंड के पहले समापन की घोषणा की",
+      "summary_hi": "संयोजक समाचार डेस्कचेन्नई, 26 सितंबर: भारतीय प्रौद्योगिकी संस्थान मद्रास (आईआईटी मद्रास) ने अपने डीप-टेक वेंचर कैपिटल फंड के पहले समापन की घोषणा की है, जो प्रौद्योगिकी-गहन स्टार्टअप के लिए फंडिंग समर्थन को मजबूत करने की दिशा में एक कदम है।",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "aaeeaaeeti madrasa ne dipa-teka venchara kaipitala phanda ke pahale samapana ki ghoshana ki",
+      "summary_hinglish": "sanyojaka samachara deskachennaee, 26 sitanbar: bharatiya praudyogiki sansthana madrasa (aaeeaaeeti madrasa) ne apane dipa-teka venchara kaipitala phanda ke pahale samapana ki ghoshana ki hai, jo praudyogiki-gahana startaapa ke lie phandinga samarthana ko majabuta karane ki disha men eka kadama hai।",
+      "category_hinglish": "Technology"
     },
     {
       "id": "e00612dcb3a93d9c",
@@ -1159,23 +1176,6 @@
       "category_hinglish": "Business aur Finance"
     },
     {
-      "id": "cde0af266c8c87be",
-      "title": "Asian Games: Prachi Choudhary wins 400m bronze as India’s medal tally swells to 30",
-      "summary": "India’s medal tally at the Asian Games swelled to 30 on Saturday after Prachi Choudhary won bronze in the women’s 400m final, adding another athletics medal to a productive day for the country.",
-      "category": "Sports",
-      "image": "https://static.toiimg.com/thumb/msid-134505314,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-prachi-choudhary-wins-400m-bronze-as-indias-medal-tally-swells-to-30/articleshow/134505254.cms",
-      "publishedAt": "2026-09-26T13:15:00.000Z",
-      "fetchedAt": "2026-09-26T13:51:55.279Z",
-      "title_hi": "एशियाई खेल: प्राची चौधरी ने 400 मीटर में कांस्य पदक जीता, भारत की पदक संख्या 30 हो गई",
-      "summary_hi": "प्राची चौधरी द्वारा महिलाओं की 400 मीटर फाइनल में कांस्य पदक जीतने के बाद शनिवार को एशियाई खेलों में भारत की पदक संख्या बढ़कर 30 हो गई, जिससे देश के लिए एक और एथलेटिक्स पदक जुड़ गया।",
-      "category_hi": "खेल",
-      "title_hinglish": "eshiyaee khel: prachi chaudhari ne 400 mitara men kansya padaka jit, bharata ki padaka sankhya 30 ho gaee",
-      "summary_hinglish": "prachi chaudhari dvara mahilaon ki 400 mitara phainala men kansya padaka jitane ke bada shanivara ko eshiyaee khelon men bharata ki padaka sankhya badhakara 30 ho gaee, jisase desha ke lie eka aura ethaletiksa padaka juda gaya।",
-      "category_hinglish": "Sports"
-    },
-    {
       "id": "2866e0fdeea3c1a6",
       "title": "Removing salwar is not an attempt to rape: Supreme Court takes cognizance on Patna High Court’s judgment, cal",
       "summary": "In its July 9 judgment, the Patna High Court re-examined the evidence and concluded that the prosecution had failed to establish the necessary elements to prove the charge of attempted rape.",
@@ -1191,6 +1191,23 @@
       "title_hinglish": "salavara utarana repa ki koshisha nahin: suprima korta ne patana haee korta ke phaisale para liya sanjnyan, kaila",
       "summary_hinglish": "9 julaee ke apane phaisale men, patana uchcha nyayalaya ne sabuton ki phira se jancha ki aura nishkarsha nikala ki abhiyojana paksha balatkara ke prayasa ke aaropa ko sabita karane ke lie aavashyaka tatvon ko sthapita karane men viphala raha hai।",
       "category_hinglish": "Crime aur Breaking News"
+    },
+    {
+      "id": "cde0af266c8c87be",
+      "title": "Asian Games: Prachi Choudhary wins 400m bronze as India’s medal tally swells to 30",
+      "summary": "India’s medal tally at the Asian Games swelled to 30 on Saturday after Prachi Choudhary won bronze in the women’s 400m final, adding another athletics medal to a productive day for the country.",
+      "category": "Sports",
+      "image": "https://static.toiimg.com/thumb/msid-134505314,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-prachi-choudhary-wins-400m-bronze-as-indias-medal-tally-swells-to-30/articleshow/134505254.cms",
+      "publishedAt": "2026-09-26T13:15:00.000Z",
+      "fetchedAt": "2026-09-26T13:51:55.279Z",
+      "title_hi": "एशियाई खेल: प्राची चौधरी ने 400 मीटर में कांस्य पदक जीता, भारत की पदक संख्या 30 हो गई",
+      "summary_hi": "प्राची चौधरी द्वारा महिलाओं की 400 मीटर फाइनल में कांस्य पदक जीतने के बाद शनिवार को एशियाई खेलों में भारत की पदक संख्या बढ़कर 30 हो गई, जिससे देश के लिए एक और एथलेटिक्स पदक जुड़ गया।",
+      "category_hi": "खेल",
+      "title_hinglish": "eshiyaee khel: prachi chaudhari ne 400 mitara men kansya padaka jit, bharata ki padaka sankhya 30 ho gaee",
+      "summary_hinglish": "prachi chaudhari dvara mahilaon ki 400 mitara phainala men kansya padaka jitane ke bada shanivara ko eshiyaee khelon men bharata ki padaka sankhya badhakara 30 ho gaee, jisase desha ke lie eka aura ethaletiksa padaka juda gaya।",
+      "category_hinglish": "Sports"
     },
     {
       "id": "b416f54ccf2cd640",
@@ -1210,23 +1227,6 @@
       "summary_hinglish": "kendriya vitta mantri nirmala sitaramana ne eaaee inphrastrakchar, semikandaktara aura kvantama teknoloji ko bharata ke rupa men pahachanate hue isamen mahatvapurna nivesha ka aagraha kiya hai"
     },
     {
-      "id": "ed9fa73a42d563db",
-      "title": "India's Prachi Choudhary Secures Bronze In Asian Games 400m Final",
-      "summary": "Prachi Choudhary secured a bronze medal for India in the women",
-      "category": "Sports",
-      "image": "https://im.rediff.com/1200-630/sports/2026/sep/26prachi-ath.JPG",
-      "source": "Rediff",
-      "sourceUrl": "https://www.rediff.com/sports/report/prachi-choudhary-wins-bronze-at-asian-games/20260926.htm",
-      "publishedAt": "2026-09-26T12:58:24.000Z",
-      "fetchedAt": "2026-09-26T13:26:11.687Z",
-      "title_hi": "भारत की प्राची चौधरी ने एशियाई खेलों की 400 मीटर फ़ाइनल में कांस्य पदक हासिल किया",
-      "summary_hi": "महिलाओं में प्राची चौधरी ने भारत के लिए कांस्य पदक हासिल किया",
-      "category_hi": "खेल",
-      "category_hinglish": "Sports",
-      "title_hinglish": "bharata ki prachi chaudhari ne eshiyaee khelon ki 400 mitara phaाinala men kansya padaka hasila kiya",
-      "summary_hinglish": "mahilaon men prachi chaudhari ne bharata ke lie kansya padaka hasila kiya"
-    },
-    {
       "id": "2636c75b9ef58a40",
       "title": "Bhagalpur’s Sandis Compound Set to Host BCCI Domestic Cricket Matches, Preparations Underway",
       "summary": "Bhagalpur/Patna : The Sandis Compound Stadium in Bhagalpur is being prepared to host BCCI domestic cricket matches, marking a significant",
@@ -1242,6 +1242,23 @@
       "category_hinglish": "Sports",
       "title_hinglish": "bhagalapura ka saindisa kanpaunda bisisiaaee ke gharelu kriketa maichon ki mejabani ke lie taiyar, taiyari chala rahi hai",
       "summary_hinglish": "bhagalapura/patana : bhagalapura ke saindisa kanpaunda stediyama ko bisisiaaee ke gharelu kriketa maichon ki mejabani ke lie taiyara kiya ja raha hai, jo eka mahatvapurna upalabdhi hai"
+    },
+    {
+      "id": "ed9fa73a42d563db",
+      "title": "India's Prachi Choudhary Secures Bronze In Asian Games 400m Final",
+      "summary": "Prachi Choudhary secured a bronze medal for India in the women",
+      "category": "Sports",
+      "image": "https://im.rediff.com/1200-630/sports/2026/sep/26prachi-ath.JPG",
+      "source": "Rediff",
+      "sourceUrl": "https://www.rediff.com/sports/report/prachi-choudhary-wins-bronze-at-asian-games/20260926.htm",
+      "publishedAt": "2026-09-26T12:58:24.000Z",
+      "fetchedAt": "2026-09-26T13:26:11.687Z",
+      "title_hi": "भारत की प्राची चौधरी ने एशियाई खेलों की 400 मीटर फ़ाइनल में कांस्य पदक हासिल किया",
+      "summary_hi": "महिलाओं में प्राची चौधरी ने भारत के लिए कांस्य पदक हासिल किया",
+      "category_hi": "खेल",
+      "category_hinglish": "Sports",
+      "title_hinglish": "bharata ki prachi chaudhari ne eshiyaee khelon ki 400 mitara phaाinala men kansya padaka hasila kiya",
+      "summary_hinglish": "mahilaon men prachi chaudhari ne bharata ke lie kansya padaka hasila kiya"
     },
     {
       "id": "33ee189dbe10837c",
@@ -1261,23 +1278,6 @@
       "category_hinglish": "Entertainment"
     },
     {
-      "id": "f1e9d6e808a78fcc",
-      "title": "Guwahati Shocker: 22-year-old female student found dead at homestay, police detain boyfriend",
-      "summary": "A 22-year-old female student was found dead at a homestay in Guwahati's Azara area on Saturday.",
-      "category": "Crime & Breaking News",
-      "image": "https://s3.india.com/wp-content/uploads/2026/09/Nimisha-Thakuria-found-dead-Rudras-Kitchen-guwahati-suicide.jpg",
-      "source": "India.com",
-      "sourceUrl": "https://www.india.com/news/india/guwahati-shocker-22-year-old-female-student-found-dead-at-homestay-police-detain-boyfriend-crime-news-murder-suicide-gauhati-university-8530360/amp/",
-      "publishedAt": "2026-09-26T12:53:18.000Z",
-      "fetchedAt": "2026-09-26T14:04:43.905Z",
-      "title_hi": "गुवाहाटी शॉकर: होमस्टे में मृत मिली 22 वर्षीय छात्रा, पुलिस ने प्रेमी को हिरासत में लिया",
-      "summary_hi": "गुवाहाटी के अज़ारा इलाके में शनिवार को एक होमस्टे में 22 वर्षीय एक छात्रा मृत पाई गई।",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "guvahati shokar: homaste men mrita mili 22 varshiya chhatr, pulisa ne premi ko hirasata men liya",
-      "summary_hinglish": "guvahati ke ajaाra ilake men shanivara ko eka homaste men 22 varshiya eka chhatra mrita paee gaee।",
-      "category_hinglish": "Crime aur Breaking News"
-    },
-    {
       "id": "f0d00f1243cb2345",
       "title": "Son Arrested In Jamui Groping Case, Father Caught For 2003 Double Murder After Hiding For 23 Years: How Police Found Him",
       "summary": "Jamui groping case: Police arrest accused Nandan Yadav’s father Ganori Yadav in a 2003 double-murder case after tracing his criminal past.",
@@ -1295,21 +1295,21 @@
       "summary_hinglish": "jamuee chhedachhada mamal: pulisa ne aaropi nandana yadava ke aaparadhika itihasa ka pata lagane ke bada 2003 ke dohare hatyakanda men usake pita ganori yadava ko giraphtara kara liya।"
     },
     {
-      "id": "4bd9573441ac968a",
-      "title": "AI, semiconductors, quantum to drive India's next infrastructure push: FM Sitharaman",
-      "summary": "Union Finance Minister Nirmala Sitharaman highlighted the need for investment in AI, semiconductor chips, and quantum technology. She stated that strengthening digital infrastructure will support AI adoption across various sectors. Additionally, Sitharaman underscored the importance of providing AI solutions to micro, small, and medium enterprises. She believes that achieving over…",
-      "category": "Technology",
-      "image": "https://img.etimg.com/thumb/msid-134504365,width-1200,height-630,imgsize-126250,overlay-economictimes/articleshow.jpg",
-      "source": "The Economic Times",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/india/indias-infrastructure-revolution-fm-sitharaman-promotes-ai-semiconductors-and-quantum-technology-investments/articleshow/134504366.cms?from=mdr",
-      "publishedAt": "2026-09-26T12:26:13.000Z",
-      "fetchedAt": "2026-09-26T12:55:47.043Z",
-      "title_hi": "एआई, सेमीकंडक्टर, क्वांटम भारत के अगले बुनियादी ढांचे को बढ़ावा देंगे: वित्त मंत्री सीतारमण",
-      "summary_hi": "केंद्रीय वित्त मंत्री निर्मला सीतारमण ने एआई, सेमीकंडक्टर चिप्स और क्वांटम प्रौद्योगिकी में निवेश की आवश्यकता पर प्रकाश डाला। उन्होंने कहा कि डिजिटल बुनियादी ढांचे को मजबूत करने से विभिन्न क्षेत्रों में एआई को अपनाने में मदद मिलेगी। इसके अतिरिक्त, सीतारमण ने सूक्ष्म, लघु और मध्यम उद्यमों को एआई समाधान प्रदान करने के महत्व को रेखांकित किया। उनका मानना ​​है कि सफलता हासिल करना...",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "eaaee, semikandaktar, kvantama bharata ke agale buniyadi dhanche ko badhaाva denge: vitta mantri sitaramana",
-      "summary_hinglish": "kendriya vitta mantri nirmala sitaramana ne eaaee, semikandaktara chipsa aura kvantama praudyogiki men nivesha ki aavashyakata para prakasha dala। unhonne kaha ki dijitala buniyadi dhanche ko majabuta karane se vibhinna kshetron men eaaee ko apanane men madada milegi। isake atirikt, sitaramana ne sukshm, laghu aura madhyama udyamon ko eaaee samadhana pradana karane ke mahatva ko rekhankita kiya। unaka manana ​​hai ki saphalata hasila karan...",
-      "category_hinglish": "Technology"
+      "id": "f1e9d6e808a78fcc",
+      "title": "Guwahati Shocker: 22-year-old female student found dead at homestay, police detain boyfriend",
+      "summary": "A 22-year-old female student was found dead at a homestay in Guwahati's Azara area on Saturday.",
+      "category": "Crime & Breaking News",
+      "image": "https://s3.india.com/wp-content/uploads/2026/09/Nimisha-Thakuria-found-dead-Rudras-Kitchen-guwahati-suicide.jpg",
+      "source": "India.com",
+      "sourceUrl": "https://www.india.com/news/india/guwahati-shocker-22-year-old-female-student-found-dead-at-homestay-police-detain-boyfriend-crime-news-murder-suicide-gauhati-university-8530360/amp/",
+      "publishedAt": "2026-09-26T12:53:18.000Z",
+      "fetchedAt": "2026-09-26T14:04:43.905Z",
+      "title_hi": "गुवाहाटी शॉकर: होमस्टे में मृत मिली 22 वर्षीय छात्रा, पुलिस ने प्रेमी को हिरासत में लिया",
+      "summary_hi": "गुवाहाटी के अज़ारा इलाके में शनिवार को एक होमस्टे में 22 वर्षीय एक छात्रा मृत पाई गई।",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "guvahati shokar: homaste men mrita mili 22 varshiya chhatr, pulisa ne premi ko hirasata men liya",
+      "summary_hinglish": "guvahati ke ajaाra ilake men shanivara ko eka homaste men 22 varshiya eka chhatra mrita paee gaee।",
+      "category_hinglish": "Crime aur Breaking News"
     }
   ]
 }
