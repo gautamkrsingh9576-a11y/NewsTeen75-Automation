@@ -1,7 +1,22 @@
 {
-  "updatedAt": "2026-09-27T07:16:10.696Z",
+  "updatedAt": "2026-09-27T07:31:53.862Z",
   "count": 67,
   "articles": [
+    {
+      "id": "b3e2fe2d66ee59d0",
+      "title": "\"If you want peace, prepare for war\": Rajnath Singh says India's \"preparation in defence is complete and strong\"",
+      "summary": "\"There are two sayings in English. The first is, if you want peace, prepare for war. That is, for war not to happen, it is necessary that preparations for war are complete. And the second saying is that the more you sweat in peace, the less you bleed in war,\"…",
+      "category": "Technology",
+      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260927071449-thumbnail-320x180-70.jpg",
+      "source": "aninews.in",
+      "sourceUrl": "https://www.aninews.in/news/national/politics/if-you-want-peace-prepare-for-war-rajnath-singh-says-indias-preparation-in-defence-is-complete-and-strong20260927124526/",
+      "publishedAt": "2026-09-27T07:15:00.000Z",
+      "fetchedAt": "2026-09-27T07:31:44.234Z",
+      "title_hi": "",
+      "summary_hi": "",
+      "category_hi": "टेक्नोलॉजी",
+      "category_hinglish": "Technology"
+    },
     {
       "id": "65ea814acc0aa393",
       "title": "Jio takes its mobile scale beyond telecom into homes, entertainment, enterprise",
@@ -18,23 +33,6 @@
       "title_hinglish": "Jio apane mobaila paimane ko durasanchara se pare gharon, manoranjan, udyama taka le gaya hai",
       "summary_hinglish": "kanpani kanektiviti aura upabhokta ke bicha ki paraton ko adhika niyantrita karane ka prayasa kara rahi hai।",
       "category_hinglish": "Entertainment"
-    },
-    {
-      "id": "6f44fe7bb41f477e",
-      "title": "Asian Games 2026 Medal Tally Today (27/09/2026): India Rank and Full Medals Table",
-      "summary": "four gold, 12 silver and 14 bronze, by the end of September 26. India are currently placed 10th in the overall medal standings.",
-      "category": "Sports",
-      "image": "https://static.toiimg.com/thumb/msid-134516090,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "timesofindia.indiatimes.com",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-medal-tally-today-27/09/2026-india-rank-and-full-medals-table/articleshow/134515701.cms",
-      "publishedAt": "2026-09-27T06:53:00.000Z",
-      "fetchedAt": "2026-09-27T07:15:44.550Z",
-      "title_hi": "एशियाई खेल 2026 पदक तालिका आज (27/09/2026): भारत रैंक और पूर्ण पदक तालिका",
-      "summary_hi": "26 सितंबर के अंत तक चार स्वर्ण, 12 रजत और 14 कांस्य। भारत वर्तमान में समग्र पदक तालिका में 10वें स्थान पर है।",
-      "category_hi": "खेल",
-      "title_hinglish": "eshiyaee khela 2026 padaka talika aaja (27/09/2026): bharata rainka aura purna padaka talika",
-      "summary_hinglish": "26 sitanbara ke anta taka chara svarn, 12 rajata aura 14 kansya। bharata vartamana men samagra padaka talika men 10ven sthana para hai।",
-      "category_hinglish": "Sports"
     },
     {
       "id": "03943fafde680d0a",
@@ -54,6 +52,23 @@
       "category_hinglish": "Crime aur Breaking News"
     },
     {
+      "id": "6f44fe7bb41f477e",
+      "title": "Asian Games 2026 Medal Tally Today (27/09/2026): India Rank and Full Medals Table",
+      "summary": "four gold, 12 silver and 14 bronze, by the end of September 26. India are currently placed 10th in the overall medal standings.",
+      "category": "Sports",
+      "image": "https://static.toiimg.com/thumb/msid-134516090,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "timesofindia.indiatimes.com",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-medal-tally-today-27/09/2026-india-rank-and-full-medals-table/articleshow/134515701.cms",
+      "publishedAt": "2026-09-27T06:53:00.000Z",
+      "fetchedAt": "2026-09-27T07:15:44.550Z",
+      "title_hi": "एशियाई खेल 2026 पदक तालिका आज (27/09/2026): भारत रैंक और पूर्ण पदक तालिका",
+      "summary_hi": "26 सितंबर के अंत तक चार स्वर्ण, 12 रजत और 14 कांस्य। भारत वर्तमान में समग्र पदक तालिका में 10वें स्थान पर है।",
+      "category_hi": "खेल",
+      "title_hinglish": "eshiyaee khela 2026 padaka talika aaja (27/09/2026): bharata rainka aura purna padaka talika",
+      "summary_hinglish": "26 sitanbara ke anta taka chara svarn, 12 rajata aura 14 kansya। bharata vartamana men samagra padaka talika men 10ven sthana para hai।",
+      "category_hinglish": "Sports"
+    },
+    {
       "id": "5ba336a017da1e77",
       "title": "IIT-M Deep-tech VC Fund Makes First Close, Targets Rs 1,000 Crore Corpus",
       "summary": "The fund seeks to address what IIT-M describes as a shortage of patient capital for deep-tech ventures, which typically require longer periods of technology development, validation and...",
@@ -71,23 +86,6 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "89d20b403c553328",
-      "title": "The Paradise Box Office Day 3: Nani's action thriller crosses Rs 100 cr worldwide, earns Rs 76.40 cr in...",
-      "summary": "Nani&rsquo;s The Paradise has crossed a major milestone at the worldwide box office within three days of its release. The action drama maintained its momentum despite a drop in its India collections on Friday.",
-      "category": "Entertainment",
-      "image": "https://images.moneycontrol.com/static-mcnews/2025/09/20250908105253_Nani-will-be-next-seen-in-The-Paradise.png",
-      "source": "Moneycontrol.com",
-      "sourceUrl": "https://www.moneycontrol.com/entertainment/regional/the-paradise-box-office-day-3-nani-s-action-thriller-crosses-rs-100-cr-worldwide-earns-rs-76-40-cr-in-india-article-14039165.html",
-      "publishedAt": "2026-09-27T06:28:20.000Z",
-      "fetchedAt": "2026-09-27T06:41:35.670Z",
-      "title_hi": "द पैराडाइज़ बॉक्स ऑफिस दिन 3: नानी की एक्शन थ्रिलर ने दुनिया भर में 100 करोड़ रुपये का आंकड़ा पार किया, 76.40 करोड़ रुपये कमाए...",
-      "summary_hi": "नानी की द पैराडाइज़ ने अपनी रिलीज़ के तीन दिनों के भीतर दुनिया भर के बॉक्स ऑफिस पर एक बड़ा मील का पत्थर पार कर लिया है। शुक्रवार को भारत में कलेक्शन में गिरावट के बावजूद एक्शन ड्रामा ने अपनी गति बरकरार रखी।",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "da pairadaija boksa ऑphisa dina 3: nani ki ekshana thrilara ne duniya bhara men 100 karoda rupaye ka aankadaा para kiy, 76.40 karoda rupaye kamae...",
-      "summary_hinglish": "nani ki da pairadaija ne apani rilija ke tina dinon ke bhitara duniya bhara ke boksa ऑphisa para eka badaा mila ka patthara para kara liya hai। shukravara ko bharata men kalekshana men giravata ke bavajuda ekshana drama ne apani gati barakarara rakhi।",
-      "category_hinglish": "Entertainment"
-    },
-    {
       "id": "5e8713d098d8808b",
       "title": "Bihar Prepares For 2030 Women’s Hockey World Cup, Rajgir Set To Host Global Stars",
       "summary": "Patna: Bihar has stepped up preparations to host the 2030 FIH Women’s Hockey World Cup in Rajgir, with Sports Minister",
@@ -103,6 +101,23 @@
       "title_hinglish": "bihara 2030 mahila hoki vishva kapa ki taiyari kara raha hai, rajagira vaishvika sitaron ki mejabani ke lie taiyara hai",
       "summary_hinglish": "patan: khela mantri ke satha bihara ne rajagira men 2030 FIH mahila hoki vishva kapa ki mejabani ki taiyari teja kara di hai.",
       "category_hinglish": "Sports"
+    },
+    {
+      "id": "89d20b403c553328",
+      "title": "The Paradise Box Office Day 3: Nani's action thriller crosses Rs 100 cr worldwide, earns Rs 76.40 cr in...",
+      "summary": "Nani&rsquo;s The Paradise has crossed a major milestone at the worldwide box office within three days of its release. The action drama maintained its momentum despite a drop in its India collections on Friday.",
+      "category": "Entertainment",
+      "image": "https://images.moneycontrol.com/static-mcnews/2025/09/20250908105253_Nani-will-be-next-seen-in-The-Paradise.png",
+      "source": "Moneycontrol.com",
+      "sourceUrl": "https://www.moneycontrol.com/entertainment/regional/the-paradise-box-office-day-3-nani-s-action-thriller-crosses-rs-100-cr-worldwide-earns-rs-76-40-cr-in-india-article-14039165.html",
+      "publishedAt": "2026-09-27T06:28:20.000Z",
+      "fetchedAt": "2026-09-27T06:41:35.670Z",
+      "title_hi": "द पैराडाइज़ बॉक्स ऑफिस दिन 3: नानी की एक्शन थ्रिलर ने दुनिया भर में 100 करोड़ रुपये का आंकड़ा पार किया, 76.40 करोड़ रुपये कमाए...",
+      "summary_hi": "नानी की द पैराडाइज़ ने अपनी रिलीज़ के तीन दिनों के भीतर दुनिया भर के बॉक्स ऑफिस पर एक बड़ा मील का पत्थर पार कर लिया है। शुक्रवार को भारत में कलेक्शन में गिरावट के बावजूद एक्शन ड्रामा ने अपनी गति बरकरार रखी।",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "da pairadaija boksa ऑphisa dina 3: nani ki ekshana thrilara ne duniya bhara men 100 karoda rupaye ka aankadaा para kiy, 76.40 karoda rupaye kamae...",
+      "summary_hinglish": "nani ki da pairadaija ne apani rilija ke tina dinon ke bhitara duniya bhara ke boksa ऑphisa para eka badaा mila ka patthara para kara liya hai। shukravara ko bharata men kalekshana men giravata ke bavajuda ekshana drama ne apani gati barakarara rakhi।",
+      "category_hinglish": "Entertainment"
     },
     {
       "id": "40255178710670de",
@@ -139,23 +154,6 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "f164a64259319a4e",
-      "title": "Equity mutual funds lose up to 13% in a week; sectoral and thematic funds lead the decline. Check top 10 losers",
-      "summary": "Franklin India Technology Fund, a tech sector based fund, lost 3.84% in the mentioned time period. Franklin India Technology Fund",
-      "category": "Technology",
-      "image": "https://img.etimg.com/thumb/msid-134515038,width-1200,height-900,overlay-etwealthmutualfunds/slideshow.jpg",
-      "source": "The Economic Times",
-      "sourceUrl": "https://economictimes.indiatimes.com/mf/analysis/equity-mutual-funds-lose-up-to-13-in-a-week-sectoral-and-thematic-funds-lead-the-decline-check-top-10-losers/franklin-india-technology-fund/slideshow/134515031.cms?from=mdr",
-      "publishedAt": "2026-09-27T05:42:44.000Z",
-      "fetchedAt": "2026-09-27T07:15:56.396Z",
-      "title_hi": "इक्विटी म्यूचुअल फंड को एक हफ्ते में 13% तक का नुकसान; क्षेत्रीय और विषयगत फंड गिरावट का कारण बने। शीर्ष 10 हारने वालों की जाँच करें",
-      "summary_hi": "फ्रैंकलिन इंडिया टेक्नोलॉजी फंड, एक तकनीकी क्षेत्र आधारित फंड, उल्लिखित समय अवधि में 3.84% खो गया। फ्रैंकलिन इंडिया टेक्नोलॉजी फंड",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "ikviti myuchuala phanda ko eka haphte men 13% taka ka nukasan; kshetriya aura vishayagata phanda giravata ka karana bane। shirsha 10 harane valon ki jancha karen",
-      "summary_hinglish": "phrainkalina indiya teknoloji phand, eka takaniki kshetra aadharita phand, ullikhita samaya avadhi men 3.84% kho gaya। phrainkalina indiya teknoloji phanda",
-      "category_hinglish": "Technology"
-    },
-    {
       "id": "55d29fb029ceb324",
       "title": "Bigg Boss 20: Mahhi Vij questions Isha Rikhi’s remarks after Qazi Touqeer clash mentions Badshah, 'Kaun sa tr",
       "summary": "Mahhi Vij has weighed in on the latest Bigg Boss 20 controversy after Isha Rikhi spoke about her experience following her heated interaction with Qazi Touqeer.",
@@ -171,6 +169,23 @@
       "title_hinglish": "biga bosa 20: kaji taukira ki jhadapa ke bada mahi vija ne eesha rikhi ki tippani para savala uthae, jisamen badashaha ka jikra th, 'kauna sa tra'",
       "summary_hinglish": "eesha rikhi dvara kaji taukira ke satha tikhi batachita ke bada apane anubhava ke bare men bata karane ke bada mahi vija ne navinatama biga bosa 20 vivada para jora diya hai।",
       "category_hinglish": "Entertainment"
+    },
+    {
+      "id": "f164a64259319a4e",
+      "title": "Equity mutual funds lose up to 13% in a week; sectoral and thematic funds lead the decline. Check top 10 losers",
+      "summary": "Franklin India Technology Fund, a tech sector based fund, lost 3.84% in the mentioned time period. Franklin India Technology Fund",
+      "category": "Technology",
+      "image": "https://img.etimg.com/thumb/msid-134515038,width-1200,height-900,overlay-etwealthmutualfunds/slideshow.jpg",
+      "source": "The Economic Times",
+      "sourceUrl": "https://economictimes.indiatimes.com/mf/analysis/equity-mutual-funds-lose-up-to-13-in-a-week-sectoral-and-thematic-funds-lead-the-decline-check-top-10-losers/franklin-india-technology-fund/slideshow/134515031.cms?from=mdr",
+      "publishedAt": "2026-09-27T05:42:44.000Z",
+      "fetchedAt": "2026-09-27T07:15:56.396Z",
+      "title_hi": "इक्विटी म्यूचुअल फंड को एक हफ्ते में 13% तक का नुकसान; क्षेत्रीय और विषयगत फंड गिरावट का कारण बने। शीर्ष 10 हारने वालों की जाँच करें",
+      "summary_hi": "फ्रैंकलिन इंडिया टेक्नोलॉजी फंड, एक तकनीकी क्षेत्र आधारित फंड, उल्लिखित समय अवधि में 3.84% खो गया। फ्रैंकलिन इंडिया टेक्नोलॉजी फंड",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "ikviti myuchuala phanda ko eka haphte men 13% taka ka nukasan; kshetriya aura vishayagata phanda giravata ka karana bane। shirsha 10 harane valon ki jancha karen",
+      "summary_hinglish": "phrainkalina indiya teknoloji phand, eka takaniki kshetra aadharita phand, ullikhita samaya avadhi men 3.84% kho gaya। phrainkalina indiya teknoloji phanda",
+      "category_hinglish": "Technology"
     },
     {
       "id": "79d25b331ae265e6",
@@ -190,23 +205,6 @@
       "category_hinglish": "Entertainment"
     },
     {
-      "id": "7085d579921e26e8",
-      "title": "IIT-B student suicide: What the law says about abetment, instigation and ‘guilty mind’",
-      "summary": "The recent death by suicide of a second-year IIT-Bombay student brought into sharp focus one of the most legally complex and emotionally charged areas of criminal law: abetment of suicide. At its core, the offence requires a trial court to ascertain whether a person’s words, actions, neglect or dereliction directly…",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134515199,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/mumbai/abetment-of-suicide-when-words-and-actions-become-a-criminal-offence/articleshow/134508604.cms",
-      "publishedAt": "2026-09-27T05:33:00.000Z",
-      "fetchedAt": "2026-09-27T05:47:09.830Z",
-      "title_hi": "आईआईटी-बी छात्र आत्महत्या: उकसाने, उकसाने और 'दोषी दिमाग' के बारे में कानून क्या कहता है",
-      "summary_hi": "हाल ही में आईआईटी-बॉम्बे के दूसरे वर्ष के एक छात्र की आत्महत्या से हुई मौत ने आपराधिक कानून के सबसे कानूनी रूप से जटिल और भावनात्मक रूप से प्रभावित क्षेत्रों में से एक पर ध्यान केंद्रित किया है: आत्महत्या के लिए उकसाना। इसके मूल में, अपराध के लिए एक ट्रायल कोर्ट की आवश्यकता होती है ताकि यह पता लगाया जा सके कि क्या किसी व्यक्ति के शब्द, कार्य, उपेक्षा या अपमान सीधे...",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "aaeeaaeeti-bi chhatra aatmahaty: ukasane, ukasane aura 'doshi dimaga' ke bare men kanuna kya kahata hai",
-      "summary_hinglish": "hala hi men aaeeaaeeti-bombe ke dusare varsha ke eka chhatra ki aatmahatya se huee mauta ne aaparadhika kanuna ke sabase kanuni rupa se jatila aura bhavanatmaka rupa se prabhavita kshetron men se eka para dhyana kendrita kiya hai: aatmahatya ke lie ukasana। isake mula men, aparadha ke lie eka trayala korta ki aavashyakata hoti hai taki yaha pata lagaya ja sake ki kya kisi vyakti ke shabd, kary, upeksha ya apamana sidhe...",
-      "category_hinglish": "Crime aur Breaking News"
-    },
-    {
       "id": "0fd2b8e1e638217a",
       "title": "After Bankipur win, Prashant Kishor's party weighs Delhi expansion | India News",
       "summary": "Supporters of Jan Suraaj in the national capital have been pressing for the party to establish a presence in Delhi.",
@@ -222,6 +220,23 @@
       "title_hinglish": "bankipura jita ke bada prashanta kishora ki parti dilli vistara para vichara kara rahi hai | bharata samachara",
       "summary_hinglish": "rashtriya rajadhani men jana suraja ke samarthaka parti para dilli men upasthiti sthapita karane ke lie dabava dala rahe hain।",
       "category_hinglish": "Politics aur Government"
+    },
+    {
+      "id": "7085d579921e26e8",
+      "title": "IIT-B student suicide: What the law says about abetment, instigation and ‘guilty mind’",
+      "summary": "The recent death by suicide of a second-year IIT-Bombay student brought into sharp focus one of the most legally complex and emotionally charged areas of criminal law: abetment of suicide. At its core, the offence requires a trial court to ascertain whether a person’s words, actions, neglect or dereliction directly…",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134515199,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/mumbai/abetment-of-suicide-when-words-and-actions-become-a-criminal-offence/articleshow/134508604.cms",
+      "publishedAt": "2026-09-27T05:33:00.000Z",
+      "fetchedAt": "2026-09-27T05:47:09.830Z",
+      "title_hi": "आईआईटी-बी छात्र आत्महत्या: उकसाने, उकसाने और 'दोषी दिमाग' के बारे में कानून क्या कहता है",
+      "summary_hi": "हाल ही में आईआईटी-बॉम्बे के दूसरे वर्ष के एक छात्र की आत्महत्या से हुई मौत ने आपराधिक कानून के सबसे कानूनी रूप से जटिल और भावनात्मक रूप से प्रभावित क्षेत्रों में से एक पर ध्यान केंद्रित किया है: आत्महत्या के लिए उकसाना। इसके मूल में, अपराध के लिए एक ट्रायल कोर्ट की आवश्यकता होती है ताकि यह पता लगाया जा सके कि क्या किसी व्यक्ति के शब्द, कार्य, उपेक्षा या अपमान सीधे...",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "aaeeaaeeti-bi chhatra aatmahaty: ukasane, ukasane aura 'doshi dimaga' ke bare men kanuna kya kahata hai",
+      "summary_hinglish": "hala hi men aaeeaaeeti-bombe ke dusare varsha ke eka chhatra ki aatmahatya se huee mauta ne aaparadhika kanuna ke sabase kanuni rupa se jatila aura bhavanatmaka rupa se prabhavita kshetron men se eka para dhyana kendrita kiya hai: aatmahatya ke lie ukasana। isake mula men, aparadha ke lie eka trayala korta ki aavashyakata hoti hai taki yaha pata lagaya ja sake ki kya kisi vyakti ke shabd, kary, upeksha ya apamana sidhe...",
+      "category_hinglish": "Crime aur Breaking News"
     },
     {
       "id": "dde8d79d52529258",
@@ -241,23 +256,6 @@
       "category_hinglish": "Sports"
     },
     {
-      "id": "96a513bc210c42da",
-      "title": "Jaishankar at UNGA highlights AI, says nations should shape own technology paths",
-      "summary": "S Jaishankar addressed the 81st United Nations General Assembly and highlighted the significance of artificial intelligence. He affirmed the right of nations to develop their own AI models aligned with national priorities. Jaishankar emphasized mutual respect in technology access and the need for cultural understanding in a globalized world. He…",
-      "category": "Technology",
-      "image": "https://img.etimg.com/thumb/msid-134514878,width-1200,height-630,imgsize-61772,overlay-economictimes/articleshow.jpg",
-      "source": "The Economic Times",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/india/jaishankar-advocates-for-ai-sovereignty-at-unga-emphasizes-global-south-challenges-and-technologys-role/articleshow/134514752.cms?from=mdr",
-      "publishedAt": "2026-09-27T05:03:26.000Z",
-      "fetchedAt": "2026-09-27T05:33:51.921Z",
-      "title_hi": "यूएनजीए में जयशंकर ने एआई पर प्रकाश डाला, कहा कि राष्ट्रों को अपने स्वयं के प्रौद्योगिकी पथ को आकार देना चाहिए",
-      "summary_hi": "एस जयशंकर ने 81वीं संयुक्त राष्ट्र महासभा को संबोधित किया और कृत्रिम बुद्धिमत्ता के महत्व पर प्रकाश डाला। उन्होंने राष्ट्रीय प्राथमिकताओं के अनुरूप अपने स्वयं के एआई मॉडल विकसित करने के राष्ट्रों के अधिकार की पुष्टि की। जयशंकर ने प्रौद्योगिकी पहुंच में आपसी सम्मान और वैश्वीकृत दुनिया में सांस्कृतिक समझ की आवश्यकता पर जोर दिया। वह…",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "yuenajie men jayashankara ne eaaee para prakasha dal, kaha ki rashtron ko apane svayan ke praudyogiki patha ko aakara dena chahie",
-      "summary_hinglish": "esa jayashankara ne 81vin sanyukta rashtra mahasabha ko sanbodhita kiya aura kritrima buddhimatta ke mahatva para prakasha dala। unhonne rashtriya prathamikataon ke anurupa apane svayan ke eaaee modala vikasita karane ke rashtron ke adhikara ki pushti ki। jayashankara ne praudyogiki pahuncha men aapasi sammana aura vaishvikrita duniya men sanskritika samajha ki aavashyakata para jora diya। vaha…",
-      "category_hinglish": "Technology"
-    },
-    {
       "id": "b2cee53f8a5cf9b2",
       "title": "Kriti Sanon shares cryptic Instagram post amid Jamui harassment and Delhi rape case: ‘It’s women vs patriarch",
       "summary": "Kriti Sanon’s latest Instagram activity has caught attention amid the ongoing discussion around the Jamui harassment case. Here’s what the actress shared and why it has sparked conversation.",
@@ -273,6 +271,23 @@
       "title_hinglish": "jamuee utpidana aura dilli balatkara mamale ke bicha kriti sanona ne gupta instagrama posta sajha kiy: 'yaha mahila banama pitrisatta hai",
       "summary_hinglish": "jamuee utpidana mamale ko lekara chala rahi charcha ke bicha kriti senana ki navinatama instagrama gatividhi ne dhyana khincha hai। yahan bataya gaya hai ki abhinetri ne kya sajha kiya aura kyon isane charcha ko badhaाva diya hai।",
       "category_hinglish": "Entertainment"
+    },
+    {
+      "id": "96a513bc210c42da",
+      "title": "Jaishankar at UNGA highlights AI, says nations should shape own technology paths",
+      "summary": "S Jaishankar addressed the 81st United Nations General Assembly and highlighted the significance of artificial intelligence. He affirmed the right of nations to develop their own AI models aligned with national priorities. Jaishankar emphasized mutual respect in technology access and the need for cultural understanding in a globalized world. He…",
+      "category": "Technology",
+      "image": "https://img.etimg.com/thumb/msid-134514878,width-1200,height-630,imgsize-61772,overlay-economictimes/articleshow.jpg",
+      "source": "The Economic Times",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/jaishankar-advocates-for-ai-sovereignty-at-unga-emphasizes-global-south-challenges-and-technologys-role/articleshow/134514752.cms?from=mdr",
+      "publishedAt": "2026-09-27T05:03:26.000Z",
+      "fetchedAt": "2026-09-27T05:33:51.921Z",
+      "title_hi": "यूएनजीए में जयशंकर ने एआई पर प्रकाश डाला, कहा कि राष्ट्रों को अपने स्वयं के प्रौद्योगिकी पथ को आकार देना चाहिए",
+      "summary_hi": "एस जयशंकर ने 81वीं संयुक्त राष्ट्र महासभा को संबोधित किया और कृत्रिम बुद्धिमत्ता के महत्व पर प्रकाश डाला। उन्होंने राष्ट्रीय प्राथमिकताओं के अनुरूप अपने स्वयं के एआई मॉडल विकसित करने के राष्ट्रों के अधिकार की पुष्टि की। जयशंकर ने प्रौद्योगिकी पहुंच में आपसी सम्मान और वैश्वीकृत दुनिया में सांस्कृतिक समझ की आवश्यकता पर जोर दिया। वह…",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "yuenajie men jayashankara ne eaaee para prakasha dal, kaha ki rashtron ko apane svayan ke praudyogiki patha ko aakara dena chahie",
+      "summary_hinglish": "esa jayashankara ne 81vin sanyukta rashtra mahasabha ko sanbodhita kiya aura kritrima buddhimatta ke mahatva para prakasha dala। unhonne rashtriya prathamikataon ke anurupa apane svayan ke eaaee modala vikasita karane ke rashtron ke adhikara ki pushti ki। jayashankara ne praudyogiki pahuncha men aapasi sammana aura vaishvikrita duniya men sanskritika samajha ki aavashyakata para jora diya। vaha…",
+      "category_hinglish": "Technology"
     },
     {
       "id": "eb3efc4c15fec4f9",
@@ -297,33 +312,14 @@
       "summary": "Students at Lovely Professional University (LPU) in Punjab’s Phagwara damaged property and blocked the Jalandhar-Phagwara national highway early Sunday following unverified reports on social media about the alleged rape of a female student. Police said they had no information of any such crime.",
       "category": "National & Trending News",
       "image": "https://static.toiimg.com/thumb/msid-134514809,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "timesofindia.indiatimes.com",
+      "source": "The Times of India",
       "sourceUrl": "https://timesofindia.indiatimes.com/india/property-damaged-highway-blocked-lpu-campus-tense-over-unverified-rape-claim-top-developments/articleshow/134514777.cms",
       "publishedAt": "2026-09-27T04:55:00.000Z",
-      "fetchedAt": "2026-09-27T07:16:03.375Z",
-      "title_hi": "संपत्ति को नुकसान पहुँचाया गया, राजमार्ग अवरुद्ध किया गया: असत्यापित बलात्कार के दावे पर एलपीयू परिसर में तनाव - शीर्ष घटनाक्रम",
-      "summary_hi": "पंजाब के फगवाड़ा में लवली प्रोफेशनल यूनिवर्सिटी (एलपीयू) के छात्रों ने एक छात्रा के साथ कथित बलात्कार के बारे में सोशल मीडिया पर असत्यापित रिपोर्टों के बाद रविवार तड़के संपत्ति को नुकसान पहुंचाया और जालंधर-फगवाड़ा राष्ट्रीय राजमार्ग को अवरुद्ध कर दिया। पुलिस ने कहा कि उन्हें ऐसे किसी अपराध की कोई जानकारी नहीं है.",
+      "fetchedAt": "2026-09-27T07:31:50.912Z",
+      "title_hi": "",
+      "summary_hi": "",
       "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
-      "title_hinglish": "sanpatti ko nukasana pahunchaya gay, rajamarga avaruddha kiya gay: asatyapita balatkara ke dave para elapiyu parisara men tanava - shirsha ghatanakrama",
-      "summary_hinglish": "panjaba ke phagavadaा men lavali propheshanala yunivarsiti (elapiyu) ke chhatron ne eka chhatra ke satha kathita balatkara ke bare men soshala midiya para asatyapita riporton ke bada ravivara tadake sanpatti ko nukasana pahunchaya aura jalandhara-phagavadaा rashtriya rajamarga ko avaruddha kara diya। pulisa ne kaha ki unhen aise kisi aparadha ki koee janakari nahin hai.",
       "category_hinglish": "National aur Trending News"
-    },
-    {
-      "id": "38b34038a33d374c",
-      "title": "Class topper, wooden gun, Nano rides: How Shapath Bharadwaj found his way to the Asian Games",
-      "summary": "If not a shooter, Shapath Bharadwaj could have been seen dealing with deadlines, just like his journalist father, S Raju. In a house where books and newspapers were always around, there were expectations that Raju's son would follow the same path.",
-      "category": "Sports",
-      "image": "https://static.toiimg.com/thumb/msid-134513454,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/more-sports/shooting/class-topper-wooden-gun-nano-rides-how-shapath-bharadwaj-found-his-way-to-the-asian-games/articleshow/134513445.cms",
-      "publishedAt": "2026-09-27T04:40:00.000Z",
-      "fetchedAt": "2026-09-27T05:18:49.765Z",
-      "title_hi": "क्लास टॉपर, लकड़ी की बंदूक, नैनो सवारी: कैसे शपथ भारद्वाज ने एशियाई खेलों में अपनी जगह बनाई",
-      "summary_hi": "यदि शपथ भारद्वाज निशानेबाज नहीं होते, तो उन्हें अपने पत्रकार पिता एस राजू की तरह ही समय सीमा से निपटते देखा जा सकता था। जिस घर में किताबें और अखबार हमेशा आसपास रहते थे, वहां उम्मीदें थीं कि राजू का बेटा भी उसी रास्ते पर चलेगा।",
-      "category_hi": "खेल",
-      "title_hinglish": "klasa topar, lakadaी ki banduk, naino savari: kaise shapatha bharadvaja ne eshiyaee khelon men apani jagaha banaee",
-      "summary_hinglish": "yadi shapatha bharadvaja nishanebaja nahin hote, to unhen apane patrakara pita esa raju ki taraha hi samaya sima se nipatate dekha ja sakata tha। jisa ghara men kitaben aura akhabara hamesha aasapasa rahate the, vahan ummiden thin ki raju ka beta bhi usi raste para chalega।",
-      "category_hinglish": "Sports"
     },
     {
       "id": "75f8a86af71d4e53",
@@ -343,6 +339,23 @@
       "category_hinglish": "Entertainment"
     },
     {
+      "id": "38b34038a33d374c",
+      "title": "Class topper, wooden gun, Nano rides: How Shapath Bharadwaj found his way to the Asian Games",
+      "summary": "If not a shooter, Shapath Bharadwaj could have been seen dealing with deadlines, just like his journalist father, S Raju. In a house where books and newspapers were always around, there were expectations that Raju's son would follow the same path.",
+      "category": "Sports",
+      "image": "https://static.toiimg.com/thumb/msid-134513454,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/more-sports/shooting/class-topper-wooden-gun-nano-rides-how-shapath-bharadwaj-found-his-way-to-the-asian-games/articleshow/134513445.cms",
+      "publishedAt": "2026-09-27T04:40:00.000Z",
+      "fetchedAt": "2026-09-27T05:18:49.765Z",
+      "title_hi": "क्लास टॉपर, लकड़ी की बंदूक, नैनो सवारी: कैसे शपथ भारद्वाज ने एशियाई खेलों में अपनी जगह बनाई",
+      "summary_hi": "यदि शपथ भारद्वाज निशानेबाज नहीं होते, तो उन्हें अपने पत्रकार पिता एस राजू की तरह ही समय सीमा से निपटते देखा जा सकता था। जिस घर में किताबें और अखबार हमेशा आसपास रहते थे, वहां उम्मीदें थीं कि राजू का बेटा भी उसी रास्ते पर चलेगा।",
+      "category_hi": "खेल",
+      "title_hinglish": "klasa topar, lakadaी ki banduk, naino savari: kaise shapatha bharadvaja ne eshiyaee khelon men apani jagaha banaee",
+      "summary_hinglish": "yadi shapatha bharadvaja nishanebaja nahin hote, to unhen apane patrakara pita esa raju ki taraha hi samaya sima se nipatate dekha ja sakata tha। jisa ghara men kitaben aura akhabara hamesha aasapasa rahate the, vahan ummiden thin ki raju ka beta bhi usi raste para chalega।",
+      "category_hinglish": "Sports"
+    },
+    {
       "id": "624b2e9bc552a133",
       "title": "Tools that enslave: Ivan Illich’s questions for India",
       "summary": "Illich was not a technophobe. He did not oppose tools; he opposed tools that enslave. He believed in technologies that amplify human agency rather than replace it.",
@@ -358,23 +371,6 @@
       "title_hinglish": "gulama banane vale upakaran: bharata ke lie ivana ilicha ke prashna",
       "summary_hinglish": "ilicha teknophoba nahin th. unhonne aujaron ka virodha nahin kiy; unhonne gulama banane vale upakaranon ka virodha kiya। vaha una praudyogikiyon men vishvasa karate the jo manava ejensi ko pratisthapita karane ke bajaya use badhaाti hain।",
       "category_hinglish": "Technology"
-    },
-    {
-      "id": "8e153410bcc89207",
-      "title": "India vs West Indies live streaming: When and where to watch IND vs WI 1st ODI online",
-      "summary": "India vs West Indies live streaming: The 1st ODI is set to be played at Greenfield International Stadium, Thiruvananthapuram.",
-      "category": "Sports",
-      "image": "https://images.moneycontrol.com/static-mcnews/2025/10/20251008063015_Virat-Kohli-and-Rohit-Sharma-AFP.png",
-      "source": "Moneycontrol.com",
-      "sourceUrl": "https://www.moneycontrol.com/sports/cricket/india-vs-west-indies-live-streaming-when-and-where-to-watch-ind-vs-wi-1st-odi-online-article-14038869.html",
-      "publishedAt": "2026-09-27T04:30:49.000Z",
-      "fetchedAt": "2026-09-27T06:22:00.008Z",
-      "title_hi": "भारत बनाम वेस्टइंडीज लाइव स्ट्रीमिंग: IND बनाम WI पहला वनडे ऑनलाइन कब और कहां देखें",
-      "summary_hi": "भारत बनाम वेस्टइंडीज लाइव स्ट्रीमिंग: पहला वनडे ग्रीनफील्ड इंटरनेशनल स्टेडियम, तिरुवनंतपुरम में खेला जाएगा।",
-      "category_hi": "खेल",
-      "title_hinglish": "bharata banama vestaindija laiva striming: IND banama WI pahala vanade ऑnalaina kaba aura kahan dekhen",
-      "summary_hinglish": "bharata banama vestaindija laiva striming: pahala vanade grinaphilda intaraneshanala stediyam, tiruvanantapurama men khela jaega।",
-      "category_hinglish": "Sports"
     },
     {
       "id": "ca4a7bd9f0cb7546",
@@ -394,6 +390,23 @@
       "category_hinglish": "Politics aur Government"
     },
     {
+      "id": "8e153410bcc89207",
+      "title": "India vs West Indies live streaming: When and where to watch IND vs WI 1st ODI online",
+      "summary": "India vs West Indies live streaming: The 1st ODI is set to be played at Greenfield International Stadium, Thiruvananthapuram.",
+      "category": "Sports",
+      "image": "https://images.moneycontrol.com/static-mcnews/2025/10/20251008063015_Virat-Kohli-and-Rohit-Sharma-AFP.png",
+      "source": "Moneycontrol.com",
+      "sourceUrl": "https://www.moneycontrol.com/sports/cricket/india-vs-west-indies-live-streaming-when-and-where-to-watch-ind-vs-wi-1st-odi-online-article-14038869.html",
+      "publishedAt": "2026-09-27T04:30:49.000Z",
+      "fetchedAt": "2026-09-27T06:22:00.008Z",
+      "title_hi": "भारत बनाम वेस्टइंडीज लाइव स्ट्रीमिंग: IND बनाम WI पहला वनडे ऑनलाइन कब और कहां देखें",
+      "summary_hi": "भारत बनाम वेस्टइंडीज लाइव स्ट्रीमिंग: पहला वनडे ग्रीनफील्ड इंटरनेशनल स्टेडियम, तिरुवनंतपुरम में खेला जाएगा।",
+      "category_hi": "खेल",
+      "title_hinglish": "bharata banama vestaindija laiva striming: IND banama WI pahala vanade ऑnalaina kaba aura kahan dekhen",
+      "summary_hinglish": "bharata banama vestaindija laiva striming: pahala vanade grinaphilda intaraneshanala stediyam, tiruvanantapurama men khela jaega।",
+      "category_hinglish": "Sports"
+    },
+    {
       "id": "d5e451afc083ad2b",
       "title": "India and Pakistan begin hunt for Asian Games medals — The National",
       "summary": "India and Pakistan begin their T20 Asian Games campaigns in the quarterfinals, with a potential meeting in a medal match.",
@@ -411,23 +424,6 @@
       "category_hinglish": "Sports"
     },
     {
-      "id": "5bf51c3a3f59f19e",
-      "title": "Avengers Endgame Encore box office collection Day 2: MCU re-release crosses Rs 14 crore in India, worldwide t",
-      "summary": "Avengers Endgame Encore continued its theatrical run on Day 2 with a rise in India collections. The Marvel re-release also opened strongly in North America as audiences returned to experience the MCU blockbuster on the big screen.",
-      "category": "Entertainment",
-      "image": "https://s3.india.com/wp-content/uploads/2026/09/Avengers-Endgame-Encore-box-office-collection-Day-2.png",
-      "source": "India.com",
-      "sourceUrl": "https://www.india.com/entertainment/avengers-endgame-encore-box-office-collection-day-2-mcu-re-release-crosses-rs-14-crore-in-india-worldwide-total-reaches-2-8-billion-8530479/amp/",
-      "publishedAt": "2026-09-27T04:13:58.000Z",
-      "fetchedAt": "2026-09-27T05:00:41.782Z",
-      "title_hi": "एवेंजर्स एंडगेम एनकोर बॉक्स ऑफिस कलेक्शन दिन 2: एमसीयू री-रिलीज़ ने भारत में 14 करोड़ रुपये का आंकड़ा पार किया, दुनिया भर में",
-      "summary_hi": "एवेंजर्स एंडगेम एनकोर ने भारत में कलेक्शन में बढ़ोतरी के साथ दूसरे दिन भी अपना प्रदर्शन जारी रखा। मार्वल की पुनः रिलीज़ ने उत्तरी अमेरिका में भी जोरदार शुरुआत की क्योंकि दर्शक बड़े पर्दे पर एमसीयू ब्लॉकबस्टर का अनुभव करने के लिए लौट आए।",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "evenjarsa endagema enakora boksa ऑphisa kalekshana dina 2: emasiyu ri-rilija ne bharata men 14 karoda rupaye ka aankadaा para kiy, duniya bhara men",
-      "summary_hinglish": "evenjarsa endagema enakora ne bharata men kalekshana men badhaोtari ke satha dusare dina bhi apana pradarshana jari rakha। marvala ki punah rilija ne uttari amerika men bhi joradara shuruaata ki kyonki darshaka badaे parde para emasiyu blokabastara ka anubhava karane ke lie lauta aae।",
-      "category_hinglish": "Entertainment"
-    },
-    {
       "id": "f606cc4dbdf8b5fe",
       "title": "Poll panel's SIR orders for Bihar, other states and UTs were unanimous: EC sources amid row | India News",
       "summary": "The approved SIR orders include Declaration Form to be submitted along with Form 6 for new voters to be added to reduce paper work and for the ease of citizens.",
@@ -443,6 +439,23 @@
       "title_hinglish": "bihar, anya rajyon aura kendrashasita pradeshon ke lie pola painala ke esaaaeeaara aadesha ekamata the: vivada ke bicha chunava aayoga ke sutra | bharata samachara",
       "summary_hinglish": "anumodita esaaaeeaara aadeshon men kagaji kama ko kama karane aura nagarikon ki aasani ke lie nae matadataon ko jodane ke lie phorma 6 ke satha jama kiya jane vala ghoshana patra shamila hai।",
       "category_hinglish": "Politics aur Government"
+    },
+    {
+      "id": "5bf51c3a3f59f19e",
+      "title": "Avengers Endgame Encore box office collection Day 2: MCU re-release crosses Rs 14 crore in India, worldwide t",
+      "summary": "Avengers Endgame Encore continued its theatrical run on Day 2 with a rise in India collections. The Marvel re-release also opened strongly in North America as audiences returned to experience the MCU blockbuster on the big screen.",
+      "category": "Entertainment",
+      "image": "https://s3.india.com/wp-content/uploads/2026/09/Avengers-Endgame-Encore-box-office-collection-Day-2.png",
+      "source": "India.com",
+      "sourceUrl": "https://www.india.com/entertainment/avengers-endgame-encore-box-office-collection-day-2-mcu-re-release-crosses-rs-14-crore-in-india-worldwide-total-reaches-2-8-billion-8530479/amp/",
+      "publishedAt": "2026-09-27T04:13:58.000Z",
+      "fetchedAt": "2026-09-27T05:00:41.782Z",
+      "title_hi": "एवेंजर्स एंडगेम एनकोर बॉक्स ऑफिस कलेक्शन दिन 2: एमसीयू री-रिलीज़ ने भारत में 14 करोड़ रुपये का आंकड़ा पार किया, दुनिया भर में",
+      "summary_hi": "एवेंजर्स एंडगेम एनकोर ने भारत में कलेक्शन में बढ़ोतरी के साथ दूसरे दिन भी अपना प्रदर्शन जारी रखा। मार्वल की पुनः रिलीज़ ने उत्तरी अमेरिका में भी जोरदार शुरुआत की क्योंकि दर्शक बड़े पर्दे पर एमसीयू ब्लॉकबस्टर का अनुभव करने के लिए लौट आए।",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "evenjarsa endagema enakora boksa ऑphisa kalekshana dina 2: emasiyu ri-rilija ne bharata men 14 karoda rupaye ka aankadaा para kiy, duniya bhara men",
+      "summary_hinglish": "evenjarsa endagema enakora ne bharata men kalekshana men badhaोtari ke satha dusare dina bhi apana pradarshana jari rakha। marvala ki punah rilija ne uttari amerika men bhi joradara shuruaata ki kyonki darshaka badaे parde para emasiyu blokabastara ka anubhava karane ke lie lauta aae।",
+      "category_hinglish": "Entertainment"
     },
     {
       "id": "fb442101f41aef50",
@@ -479,23 +492,6 @@
       "category_hinglish": "Entertainment"
     },
     {
-      "id": "7be2978ef3713e1c",
-      "title": "LPU students protest, block highway, set objects on fire over unverified rape report",
-      "summary": "An unverified allegation that a girl student had been raped in a hostel triggered a protest at Lovely Professional University late Saturday night, with students later going on a rampage on the campus and blocking the Jalandhar-Phagwara national highway.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134514494,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/chandigarh/lpu-students-protest-block-highway-set-objects-on-fire-over-unverified-rape-report/articleshow/134514414.cms",
-      "publishedAt": "2026-09-27T03:57:00.000Z",
-      "fetchedAt": "2026-09-27T05:18:48.112Z",
-      "title_hi": "असत्यापित बलात्कार की रिपोर्ट पर एलपीयू के छात्रों ने विरोध प्रदर्शन किया, राजमार्ग अवरुद्ध किया, वस्तुओं को आग लगा दी",
-      "summary_hi": "हॉस्टल में एक छात्रा के साथ बलात्कार किए जाने के असत्यापित आरोप के बाद शनिवार देर रात लवली प्रोफेशनल यूनिवर्सिटी में विरोध प्रदर्शन शुरू हो गया, जिसके बाद छात्रों ने परिसर में हंगामा किया और जालंधर-फगवाड़ा राष्ट्रीय राजमार्ग को अवरुद्ध कर दिया।",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "asatyapita balatkara ki riporta para elapiyu ke chhatron ne virodha pradarshana kiy, rajamarga avaruddha kiy, vastuon ko aaga laga di",
-      "summary_hinglish": "hostala men eka chhatra ke satha balatkara kie jane ke asatyapita aaropa ke bada shanivara dera rata lavali propheshanala yunivarsiti men virodha pradarshana shuru ho gay, jisake bada chhatron ne parisara men hangama kiya aura jalandhara-phagavadaा rashtriya rajamarga ko avaruddha kara diya।",
-      "category_hinglish": "Crime aur Breaking News"
-    },
-    {
       "id": "03250ab691034ec5",
       "title": "Sidharth Malhotra Once Called Bhojpuri A ‘Poop’ Feeling, Now He’s Selling Bihar’s Culture Controversy Explained",
       "summary": "Sidharth Malhotra’s old Bhojpuri remark sparked controversy in 2018 after he appeared on Bigg Boss 11. Years later, the actor is starring in The VVAAN: Force Of The Forest, a Bihar-based film rooted in local folklore and beliefs.",
@@ -513,6 +509,23 @@
       "category_hinglish": "Entertainment"
     },
     {
+      "id": "7be2978ef3713e1c",
+      "title": "LPU students protest, block highway, set objects on fire over unverified rape report",
+      "summary": "An unverified allegation that a girl student had been raped in a hostel triggered a protest at Lovely Professional University late Saturday night, with students later going on a rampage on the campus and blocking the Jalandhar-Phagwara national highway.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134514494,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/chandigarh/lpu-students-protest-block-highway-set-objects-on-fire-over-unverified-rape-report/articleshow/134514414.cms",
+      "publishedAt": "2026-09-27T03:57:00.000Z",
+      "fetchedAt": "2026-09-27T05:18:48.112Z",
+      "title_hi": "असत्यापित बलात्कार की रिपोर्ट पर एलपीयू के छात्रों ने विरोध प्रदर्शन किया, राजमार्ग अवरुद्ध किया, वस्तुओं को आग लगा दी",
+      "summary_hi": "हॉस्टल में एक छात्रा के साथ बलात्कार किए जाने के असत्यापित आरोप के बाद शनिवार देर रात लवली प्रोफेशनल यूनिवर्सिटी में विरोध प्रदर्शन शुरू हो गया, जिसके बाद छात्रों ने परिसर में हंगामा किया और जालंधर-फगवाड़ा राष्ट्रीय राजमार्ग को अवरुद्ध कर दिया।",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "asatyapita balatkara ki riporta para elapiyu ke chhatron ne virodha pradarshana kiy, rajamarga avaruddha kiy, vastuon ko aaga laga di",
+      "summary_hinglish": "hostala men eka chhatra ke satha balatkara kie jane ke asatyapita aaropa ke bada shanivara dera rata lavali propheshanala yunivarsiti men virodha pradarshana shuru ho gay, jisake bada chhatron ne parisara men hangama kiya aura jalandhara-phagavadaा rashtriya rajamarga ko avaruddha kara diya।",
+      "category_hinglish": "Crime aur Breaking News"
+    },
+    {
       "id": "f0a8e399f94b8f2b",
       "title": "Asian Games 2026: India medals tally and winners list - full table",
       "summary": "Know list of India winners at the Asian Games 2026. Know medals tally and how many medals Indian athletes have won in each sport. Full table.",
@@ -521,30 +534,11 @@
       "source": "olympics.com",
       "sourceUrl": "https://www.olympics.com/en/news/asian-games-2026-medal-tally-india-winners-table-list",
       "publishedAt": "2026-09-27T03:51:00.000Z",
-      "fetchedAt": "2026-09-27T07:15:39.767Z",
-      "title_hi": "एशियाई खेल 2026: भारत की पदक तालिका और विजेताओं की सूची - पूरी तालिका",
-      "summary_hi": "एशियाई खेल 2026 में भारत के विजेताओं की सूची जानें। पदक तालिका जानें और भारतीय एथलीटों ने प्रत्येक खेल में कितने पदक जीते हैं। पूरी मेज.",
+      "fetchedAt": "2026-09-27T07:31:29.892Z",
+      "title_hi": "",
+      "summary_hi": "",
       "category_hi": "खेल",
-      "title_hinglish": "eshiyaee khela 2026: bharata ki padaka talika aura vijetaon ki suchi - puri talika",
-      "summary_hinglish": "eshiyaee khela 2026 men bharata ke vijetaon ki suchi janen। padaka talika janen aura bharatiya ethaliton ne pratyeka khela men kitane padaka jite hain। puri mej.",
       "category_hinglish": "Sports"
-    },
-    {
-      "id": "01d4f84c23def04f",
-      "title": "CJP can’t rule out entering electoral politics in future, says co-convener Ranka—‘never a no for us’",
-      "summary": "CJP’s current model of putting pressure on governments from outside the electoral system had proved effective, Ranka says in an interview with ThePrint.",
-      "category": "Politics & Government",
-      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/09/Untitled-design-2026-09-26T192409.462.png",
-      "source": "ThePrint",
-      "sourceUrl": "https://theprint.in/politics/cjp-cant-rule-out-entering-electoral-politics-in-future-says-co-convener-ranka-never-a-no-for-us/3054379/",
-      "publishedAt": "2026-09-27T03:30:37.000Z",
-      "fetchedAt": "2026-09-27T04:35:41.133Z",
-      "title_hi": "सीजेपी भविष्य में चुनावी राजनीति में उतरने से इनकार नहीं कर सकती, सह-संयोजक रांका कहते हैं- 'हमारे लिए कभी मना नहीं'",
-      "summary_hi": "रांका ने दिप्रिंट के साथ एक साक्षात्कार में कहा, चुनाव प्रणाली के बाहर से सरकारों पर दबाव डालने का सीजेपी का मौजूदा मॉडल प्रभावी साबित हुआ है।",
-      "category_hi": "राजनीति और सरकार",
-      "title_hinglish": "sijepi bhavishya men chunavi rajaniti men utarane se inakara nahin kara sakati, saha-sanyojaka ranka kahate hain- 'hamare lie kabhi mana nahin'",
-      "summary_hinglish": "ranka ne diprinta ke satha eka sakshatkara men kah, chunava pranali ke bahara se sarakaron para dabava dalane ka sijepi ka maujuda modala prabhavi sabita huaa hai।",
-      "category_hinglish": "Politics aur Government"
     },
     {
       "id": "d3a3994e37b7c554",
@@ -561,6 +555,23 @@
       "category_hi": "राजनीति और सरकार",
       "title_hinglish": "vipaksha dvara jnyanesha kumara ke istiphe ki manga para chiraga pasavana ne kah, 'sieesi ko apana paksha majabuti se rakhana chahie।'",
       "summary_hinglish": "vipaksha dvara jnyanesha kumara ke istiphe ki manga para chiraga pasavana ne kah, 'sieesi ko apana paksha majabuti se rakhana chahie।'",
+      "category_hinglish": "Politics aur Government"
+    },
+    {
+      "id": "01d4f84c23def04f",
+      "title": "CJP can’t rule out entering electoral politics in future, says co-convener Ranka—‘never a no for us’",
+      "summary": "CJP’s current model of putting pressure on governments from outside the electoral system had proved effective, Ranka says in an interview with ThePrint.",
+      "category": "Politics & Government",
+      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/09/Untitled-design-2026-09-26T192409.462.png",
+      "source": "ThePrint",
+      "sourceUrl": "https://theprint.in/politics/cjp-cant-rule-out-entering-electoral-politics-in-future-says-co-convener-ranka-never-a-no-for-us/3054379/",
+      "publishedAt": "2026-09-27T03:30:37.000Z",
+      "fetchedAt": "2026-09-27T04:35:41.133Z",
+      "title_hi": "सीजेपी भविष्य में चुनावी राजनीति में उतरने से इनकार नहीं कर सकती, सह-संयोजक रांका कहते हैं- 'हमारे लिए कभी मना नहीं'",
+      "summary_hi": "रांका ने दिप्रिंट के साथ एक साक्षात्कार में कहा, चुनाव प्रणाली के बाहर से सरकारों पर दबाव डालने का सीजेपी का मौजूदा मॉडल प्रभावी साबित हुआ है।",
+      "category_hi": "राजनीति और सरकार",
+      "title_hinglish": "sijepi bhavishya men chunavi rajaniti men utarane se inakara nahin kara sakati, saha-sanyojaka ranka kahate hain- 'hamare lie kabhi mana nahin'",
+      "summary_hinglish": "ranka ne diprinta ke satha eka sakshatkara men kah, chunava pranali ke bahara se sarakaron para dabava dalane ka sijepi ka maujuda modala prabhavi sabita huaa hai।",
       "category_hinglish": "Politics aur Government"
     },
     {
@@ -581,23 +592,6 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "dcebb2178b2cf7f6",
-      "title": "Sania Mirza On Where India's Tennis Talent Gets Lost",
-      "summary": "Former Indian tennis star Sania Mirza has voiced concerns over the country",
-      "category": "Sports",
-      "image": "https://im.rediff.com/1200-630/sports/2026/sep/27sania-mirza.jpg",
-      "source": "Rediff",
-      "sourceUrl": "https://m.rediff.com/amp/sports/report/system-behind-tennis-still-not-great-sania-mirza-on-where-indias-tennis-talent-gets-lost/20260927.htm",
-      "publishedAt": "2026-09-27T03:27:29.000Z",
-      "fetchedAt": "2026-09-27T04:35:51.963Z",
-      "title_hi": "सानिया मिर्जा बताती हैं कि भारत की टेनिस प्रतिभा कहां खो जाती है",
-      "summary_hi": "पूर्व भारतीय टेनिस स्टार सानिया मिर्जा ने देश पर चिंता जताई है",
-      "category_hi": "खेल",
-      "title_hinglish": "saniya mirja batati hain ki bharata ki tenisa pratibha kahan kho jati hai",
-      "summary_hinglish": "purva bharatiya tenisa stara saniya mirja ne desha para chinta jataee hai",
-      "category_hinglish": "Sports"
-    },
-    {
       "id": "e40637d4fb87586d",
       "title": "The Vvaan - Force Of The Forrest Movie Review: Sidharth Malhotra and Tamannaah Bhatia Bring Bihar Folklore to the Big Screen",
       "summary": "The Vvaan - Force Of The Forrest Movie review: Sidharth Malhotra and Tamannaah Bhatia lead a folklore-driven horror adventure rooted in Bihar.",
@@ -613,6 +607,23 @@
       "title_hinglish": "da vvana - phaोrsa ऑpha da phaॉresta muvi samiksh: siddhartha malhotra aura tamanna bhatiya bihara ke lokagita ko badaे parde para laenge",
       "summary_hinglish": "da vvana - phaोrsa ऑpha da phaॉresta muvi samiksh: siddhartha malhotra aura tamanna bhatiya bihara men nihita lokakathaon para aadharita daravani sahasika philma ka netritva karate hain।",
       "category_hinglish": "Entertainment"
+    },
+    {
+      "id": "dcebb2178b2cf7f6",
+      "title": "Sania Mirza On Where India's Tennis Talent Gets Lost",
+      "summary": "Former Indian tennis star Sania Mirza has voiced concerns over the country",
+      "category": "Sports",
+      "image": "https://im.rediff.com/1200-630/sports/2026/sep/27sania-mirza.jpg",
+      "source": "Rediff",
+      "sourceUrl": "https://m.rediff.com/amp/sports/report/system-behind-tennis-still-not-great-sania-mirza-on-where-indias-tennis-talent-gets-lost/20260927.htm",
+      "publishedAt": "2026-09-27T03:27:29.000Z",
+      "fetchedAt": "2026-09-27T04:35:51.963Z",
+      "title_hi": "सानिया मिर्जा बताती हैं कि भारत की टेनिस प्रतिभा कहां खो जाती है",
+      "summary_hi": "पूर्व भारतीय टेनिस स्टार सानिया मिर्जा ने देश पर चिंता जताई है",
+      "category_hi": "खेल",
+      "title_hinglish": "saniya mirja batati hain ki bharata ki tenisa pratibha kahan kho jati hai",
+      "summary_hinglish": "purva bharatiya tenisa stara saniya mirja ne desha para chinta jataee hai",
+      "category_hinglish": "Sports"
     },
     {
       "id": "7b5683095645a021",
@@ -649,23 +660,6 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "8d607c0ae226a2b1",
-      "title": "Bharat Defence Conclave: IAF Vice Chief calls for integrated technology to shape air power through 2035",
-      "summary": "Bharat Defence Conclave IAF Vice Chief Air Marshal Ashutosh Dixit: Air Marshal Ashutosh Dixit of the Indian Air Force emphasizes the importance of integrating advanced technologies for air power in the future, addressing the need for AI, cyber resilience, and indigenous capabilities at the Bharat Defence Conclave 2026.",
-      "category": "Technology",
-      "image": "https://etimg.etb2bimg.com/thumb/msid-134514181,imgsize-2667681,width-1200,height=627,overlay-etgovernment,resizemode-75/news/defence/bharat-defence-conclave-iaf-vice-chief-calls-for-integrated-technology-to-shape-air-power-through-2035.jpg",
-      "source": "ET Government",
-      "sourceUrl": "https://government.economictimes.indiatimes.com/news/defence/bharat-defence-conclave-iaf-vice-chief-calls-for-integrated-technology-to-shape-air-power-through-2035/134514181",
-      "publishedAt": "2026-09-27T03:09:51.000Z",
-      "fetchedAt": "2026-09-27T06:41:43.737Z",
-      "title_hi": "भारत डिफेंस कॉन्क्लेव: IAF वाइस चीफ ने 2035 तक वायु शक्ति को आकार देने के लिए एकीकृत प्रौद्योगिकी का आह्वान किया",
-      "summary_hi": "भारत डिफेंस कॉन्क्लेव IAF के वाइस चीफ एयर मार्शल आशुतोष दीक्षित: भारतीय वायु सेना के एयर मार्शल आशुतोष दीक्षित ने भारत डिफेंस कॉन्क्लेव 2026 में AI, साइबर लचीलेपन और स्वदेशी क्षमताओं की आवश्यकता को संबोधित करते हुए भविष्य में वायु शक्ति के लिए उन्नत प्रौद्योगिकियों को एकीकृत करने के महत्व पर जोर दिया।",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "bharata diphensa konklev: IAF vaisa chipha ne 2035 taka vayu shakti ko aakara dene ke lie ekikrita praudyogiki ka aahvana kiya",
-      "summary_hinglish": "bharata diphensa konkleva IAF ke vaisa chipha eyara marshala aashutosha dikshit: bharatiya vayu sena ke eyara marshala aashutosha dikshita ne bharata diphensa konkleva 2026 men AI, saibara lachilepana aura svadeshi kshamataon ki aavashyakata ko sanbodhita karate hue bhavishya men vayu shakti ke lie unnata praudyogikiyon ko ekikrita karane ke mahatva para jora diya।",
-      "category_hinglish": "Technology"
-    },
-    {
       "id": "1549b65b6103c3f1",
       "title": "The Vvaan: All about the 400-year-old Devi temple in Bihar that inspired the film",
       "summary": "Sidharth Malhotra and Tamannaah Bhatia’s The Vvaan: Force of the Forest is a film inspired by the 400-year-old Maa Van Devi Temple near Bihta, Bihar. The movie draws on local legends and traditions, highlighting the temple's mysterious evening restrictions and its cultural significance in Bihar's religious heritage. .",
@@ -683,6 +677,23 @@
       "category_hinglish": "Entertainment"
     },
     {
+      "id": "8d607c0ae226a2b1",
+      "title": "Bharat Defence Conclave: IAF Vice Chief calls for integrated technology to shape air power through 2035",
+      "summary": "Bharat Defence Conclave IAF Vice Chief Air Marshal Ashutosh Dixit: Air Marshal Ashutosh Dixit of the Indian Air Force emphasizes the importance of integrating advanced technologies for air power in the future, addressing the need for AI, cyber resilience, and indigenous capabilities at the Bharat Defence Conclave 2026.",
+      "category": "Technology",
+      "image": "https://etimg.etb2bimg.com/thumb/msid-134514181,imgsize-2667681,width-1200,height=627,overlay-etgovernment,resizemode-75/news/defence/bharat-defence-conclave-iaf-vice-chief-calls-for-integrated-technology-to-shape-air-power-through-2035.jpg",
+      "source": "ET Government",
+      "sourceUrl": "https://government.economictimes.indiatimes.com/news/defence/bharat-defence-conclave-iaf-vice-chief-calls-for-integrated-technology-to-shape-air-power-through-2035/134514181",
+      "publishedAt": "2026-09-27T03:09:51.000Z",
+      "fetchedAt": "2026-09-27T06:41:43.737Z",
+      "title_hi": "भारत डिफेंस कॉन्क्लेव: IAF वाइस चीफ ने 2035 तक वायु शक्ति को आकार देने के लिए एकीकृत प्रौद्योगिकी का आह्वान किया",
+      "summary_hi": "भारत डिफेंस कॉन्क्लेव IAF के वाइस चीफ एयर मार्शल आशुतोष दीक्षित: भारतीय वायु सेना के एयर मार्शल आशुतोष दीक्षित ने भारत डिफेंस कॉन्क्लेव 2026 में AI, साइबर लचीलेपन और स्वदेशी क्षमताओं की आवश्यकता को संबोधित करते हुए भविष्य में वायु शक्ति के लिए उन्नत प्रौद्योगिकियों को एकीकृत करने के महत्व पर जोर दिया।",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "bharata diphensa konklev: IAF vaisa chipha ne 2035 taka vayu shakti ko aakara dene ke lie ekikrita praudyogiki ka aahvana kiya",
+      "summary_hinglish": "bharata diphensa konkleva IAF ke vaisa chipha eyara marshala aashutosha dikshit: bharatiya vayu sena ke eyara marshala aashutosha dikshita ne bharata diphensa konkleva 2026 men AI, saibara lachilepana aura svadeshi kshamataon ki aavashyakata ko sanbodhita karate hue bhavishya men vayu shakti ke lie unnata praudyogikiyon ko ekikrita karane ke mahatva para jora diya।",
+      "category_hinglish": "Technology"
+    },
+    {
       "id": "71313f8d039b7159",
       "title": "Curtain falls on the romance of India’s single-screen cinemas",
       "summary": "Bengaluru's Urvashi Cinema is being demolished as India's single-screen era fades, with only around 2,000 theatres remaining nationwide",
@@ -697,23 +708,6 @@
       "category_hi": "मनोरंजन",
       "title_hinglish": "bharata ke singala skrina sinemagharon ke romansa para parda gira gaya hai",
       "summary_hinglish": "bharata men singala-skrina ka yuga khatma hone ke satha hi bengaluru ke urvashi sinema ko dhvasta kiya ja raha hai, desha bhara men kevala lagabhaga 2,000 thietara bache hain",
-      "category_hinglish": "Entertainment"
-    },
-    {
-      "id": "65c2244b6fedef41",
-      "title": "The Vvaan box office collection Day 2: Sidharth Malhotra, Tamannaah Bhatia film jumps 37.5%, nears Rs 20 cror",
-      "summary": "The Vvaan: Force of the Forrest witnessed a noticeable jump in its Day 2 box office collection. Sidharth Malhotra and Tamannaah Bhatia’s fantasy thriller added Rs 11 crore to its India net total on Saturday.",
-      "category": "Entertainment",
-      "image": "https://static.india.com/wp-content/uploads/2026/09/The-Vvaan-box-office-collection-Day-2-.png",
-      "source": "India.com",
-      "sourceUrl": "https://www.india.com/entertainment/bollywood/the-vvaan-box-office-collection-day-2-sidharth-malhotra-tamannaah-bhatia-film-jumps-37-percent-nears-rs-20-crore-8530458/",
-      "publishedAt": "2026-09-27T02:48:24.000Z",
-      "fetchedAt": "2026-09-27T06:22:01.528Z",
-      "title_hi": "वावान बॉक्स ऑफिस कलेक्शन दिन 2: सिद्धार्थ मल्होत्रा, तमन्ना भाटिया की फिल्म 37.5% बढ़ी, 20 करोड़ रुपये के करीब",
-      "summary_hi": "द व्वान: फोर्स ऑफ द फॉरेस्ट के दूसरे दिन के बॉक्स ऑफिस कलेक्शन में उल्लेखनीय उछाल देखा गया। सिद्धार्थ मल्होत्रा ​​और तमन्ना भाटिया की फंतासी थ्रिलर ने शनिवार को भारत में कुल कमाई में 11 करोड़ रुपये जोड़े।",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "vavana boksa ऑphisa kalekshana dina 2: siddhartha malhotr, tamanna bhatiya ki philma 37.5% badhaी, 20 karoda rupaye ke kariba",
-      "summary_hinglish": "da vvan: phorsa ऑpha da phoresta ke dusare dina ke boksa ऑphisa kalekshana men ullekhaniya uchhala dekha gaya। siddhartha malhotra ​​aura tamanna bhatiya ki phantasi thrilara ne shanivara ko bharata men kula kamaee men 11 karoda rupaye jodaे।",
       "category_hinglish": "Entertainment"
     },
     {
@@ -734,6 +728,23 @@
       "category_hinglish": "Business aur Finance"
     },
     {
+      "id": "65c2244b6fedef41",
+      "title": "The Vvaan box office collection Day 2: Sidharth Malhotra, Tamannaah Bhatia film jumps 37.5%, nears Rs 20 cror",
+      "summary": "The Vvaan: Force of the Forrest witnessed a noticeable jump in its Day 2 box office collection. Sidharth Malhotra and Tamannaah Bhatia’s fantasy thriller added Rs 11 crore to its India net total on Saturday.",
+      "category": "Entertainment",
+      "image": "https://static.india.com/wp-content/uploads/2026/09/The-Vvaan-box-office-collection-Day-2-.png",
+      "source": "India.com",
+      "sourceUrl": "https://www.india.com/entertainment/bollywood/the-vvaan-box-office-collection-day-2-sidharth-malhotra-tamannaah-bhatia-film-jumps-37-percent-nears-rs-20-crore-8530458/",
+      "publishedAt": "2026-09-27T02:48:24.000Z",
+      "fetchedAt": "2026-09-27T06:22:01.528Z",
+      "title_hi": "वावान बॉक्स ऑफिस कलेक्शन दिन 2: सिद्धार्थ मल्होत्रा, तमन्ना भाटिया की फिल्म 37.5% बढ़ी, 20 करोड़ रुपये के करीब",
+      "summary_hi": "द व्वान: फोर्स ऑफ द फॉरेस्ट के दूसरे दिन के बॉक्स ऑफिस कलेक्शन में उल्लेखनीय उछाल देखा गया। सिद्धार्थ मल्होत्रा ​​और तमन्ना भाटिया की फंतासी थ्रिलर ने शनिवार को भारत में कुल कमाई में 11 करोड़ रुपये जोड़े।",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "vavana boksa ऑphisa kalekshana dina 2: siddhartha malhotr, tamanna bhatiya ki philma 37.5% badhaी, 20 karoda rupaye ke kariba",
+      "summary_hinglish": "da vvan: phorsa ऑpha da phoresta ke dusare dina ke boksa ऑphisa kalekshana men ullekhaniya uchhala dekha gaya। siddhartha malhotra ​​aura tamanna bhatiya ki phantasi thrilara ne shanivara ko bharata men kula kamaee men 11 karoda rupaye jodaे।",
+      "category_hinglish": "Entertainment"
+    },
+    {
       "id": "3e44e2d516fceedb",
       "title": "The great reallocation: Streaming now commands more content capital than Indian television",
       "summary": "Streaming platforms now lead content investment in India, surpassing linear TV for the first time. This shift is driven by CTV growth, mass-market bundling, and",
@@ -748,6 +759,23 @@
       "category_hi": "मनोरंजन",
       "title_hinglish": "mahana punaraavantan: striminga para aba bharatiya telivijana ki tulana men adhika samagri punji lagati hai",
       "summary_hinglish": "striminga pletaphorma aba pahali bara liniyara tivi ko pichhe chhodate hue bharata men kantenta nivesha men agrani bana gae hain। yaha badalava sitivi vikas, badaे paimane para bajara bandalinga aura dvara sanchalita hai",
+      "category_hinglish": "Entertainment"
+    },
+    {
+      "id": "c5f7e8ee9080ec31",
+      "title": "The Vvaan X Review: Why Is Sidharth Malhotra, Tamannaah Bhatia's Movie Being Hailed In UP, Bihar?",
+      "summary": "The Vvaan X Review: Sidharth Malhotra and Tamannaah Bhatia's The Vvaan: Force of the Forest is out in theatres. Early X reviews are largely positive, especially for its depiction of Chhath Puja and Bihar's culture.",
+      "category": "Entertainment",
+      "image": "https://images.thedailyjagran.com/images/2026/09/25/template/image/Vvan-movie-review-1790314619898.webp",
+      "source": "The Daily Jagran",
+      "sourceUrl": "https://www.thedailyjagran.com/entertainment/movie-reviews/the-vvaan-x-review-why-is-sidharth-malhotra-tamannaah-bhatia-movie-being-hailed-in-up-bihar-10330416",
+      "publishedAt": "2026-09-25T05:50:00.000Z",
+      "fetchedAt": "2026-09-25T06:28:40.006Z",
+      "title_hi": "द व्वान एक्स रिव्यू: सिद्धार्थ मल्होत्रा, तमन्ना भाटिया की फिल्म की यूपी, बिहार में क्यों हो रही है सराहना?",
+      "summary_hi": "द वावन एक्स रिव्यू: सिद्धार्थ मल्होत्रा और तमन्ना भाटिया की द वावान: फोर्स ऑफ द फॉरेस्ट सिनेमाघरों में रिलीज हो गई है। शुरुआती एक्स समीक्षाएँ काफी हद तक सकारात्मक हैं, खासकर छठ पूजा और बिहार की संस्कृति के चित्रण के लिए।",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "da vvana eksa rivyu: siddhartha malhotr, tamanna bhatiya ki philma ki yupi, bihara men kyon ho rahi hai sarahan?",
+      "summary_hinglish": "da vavana eksa rivyu: siddhartha malhotra aura tamanna bhatiya ki da vavan: phorsa ऑpha da phoresta sinemagharon men rilija ho gaee hai। shuruaati eksa samikshaen kaphi hada taka sakaratmaka hain, khasakara chhatha puja aura bihara ki sanskriti ke chitrana ke lie।",
       "category_hinglish": "Entertainment"
     },
     {
@@ -766,23 +794,6 @@
       "title_hinglish": "eka kansya aura dhera sare saval: bharata ka mushkila tebala tenisa abhiyana nirasha men samapta huaa",
       "summary_hinglish": "manusha shaha aura yashasvini ghorapadaे shanivara ko purusha aura mahila ekala pri-kvartara phainala men hara gae, jisase bharata ka tebala tenisa abhiyana nirashajanaka rupa se samapta ho gaya। shaha ko china ke vishva nanbara khiladaी ne 0-4 se haraya।",
       "category_hinglish": "Sports"
-    },
-    {
-      "id": "c5f7e8ee9080ec31",
-      "title": "The Vvaan X Review: Why Is Sidharth Malhotra, Tamannaah Bhatia's Movie Being Hailed In UP, Bihar?",
-      "summary": "The Vvaan X Review: Sidharth Malhotra and Tamannaah Bhatia's The Vvaan: Force of the Forest is out in theatres. Early X reviews are largely positive, especially for its depiction of Chhath Puja and Bihar's culture.",
-      "category": "Entertainment",
-      "image": "https://images.thedailyjagran.com/images/2026/09/25/template/image/Vvan-movie-review-1790314619898.webp",
-      "source": "The Daily Jagran",
-      "sourceUrl": "https://www.thedailyjagran.com/entertainment/movie-reviews/the-vvaan-x-review-why-is-sidharth-malhotra-tamannaah-bhatia-movie-being-hailed-in-up-bihar-10330416",
-      "publishedAt": "2026-09-25T05:50:00.000Z",
-      "fetchedAt": "2026-09-25T06:28:40.006Z",
-      "title_hi": "द व्वान एक्स रिव्यू: सिद्धार्थ मल्होत्रा, तमन्ना भाटिया की फिल्म की यूपी, बिहार में क्यों हो रही है सराहना?",
-      "summary_hi": "द वावन एक्स रिव्यू: सिद्धार्थ मल्होत्रा और तमन्ना भाटिया की द वावान: फोर्स ऑफ द फॉरेस्ट सिनेमाघरों में रिलीज हो गई है। शुरुआती एक्स समीक्षाएँ काफी हद तक सकारात्मक हैं, खासकर छठ पूजा और बिहार की संस्कृति के चित्रण के लिए।",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "da vvana eksa rivyu: siddhartha malhotr, tamanna bhatiya ki philma ki yupi, bihara men kyon ho rahi hai sarahan?",
-      "summary_hinglish": "da vavana eksa rivyu: siddhartha malhotra aura tamanna bhatiya ki da vavan: phorsa ऑpha da phoresta sinemagharon men rilija ho gaee hai। shuruaati eksa samikshaen kaphi hada taka sakaratmaka hain, khasakara chhatha puja aura bihara ki sanskriti ke chitrana ke lie।",
-      "category_hinglish": "Entertainment"
     },
     {
       "id": "e9de0ba7abf59c0b",
@@ -819,23 +830,6 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "5cdf738dc7acef84",
-      "title": "'Mirzapur The Movie' box office collection Day 23: Pankaj Tripathi's film earns Rs 1.55 cr; worldwide gro",
-      "summary": "'Mirzapur The Movie' recorded a major uptrend in its fourth Saturday earnings. The film collected Rs 1.55 cr net in India on Day 23.",
-      "category": "Entertainment",
-      "image": "https://static.toiimg.com/thumb/msid-134513481,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/mirzapur-the-movie-box-office-collection-day-23-pankaj-tripathis-film-earns-rs-1-55-cr-worldwide-gross-touches-rs-328-22-cr/articleshow/134513474.cms",
-      "publishedAt": "2026-09-27T01:54:00.000Z",
-      "fetchedAt": "2026-09-27T04:50:04.565Z",
-      "title_hi": "'मिर्जापुर द मूवी' का बॉक्स ऑफिस कलेक्शन दिन 23: पंकज त्रिपाठी की फिल्म ने कमाए 1.55 करोड़ रुपये; दुनिया भर में ग्रो",
-      "summary_hi": "'मिर्जापुर द मूवी' ने चौथे शनिवार की कमाई में बड़ी बढ़त दर्ज की है। फिल्म ने 23वें दिन भारत में 1.55 करोड़ रुपये का नेट कलेक्शन किया।",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "'mirjapura da muvi' ka boksa ऑphisa kalekshana dina 23: pankaja tripathi ki philma ne kamae 1.55 karoda rupaye; duniya bhara men gro",
-      "summary_hinglish": "'mirjapura da muvi' ne chauthe shanivara ki kamaee men badaी badhata darja ki hai। philma ne 23ven dina bharata men 1.55 karoda rupaye ka neta kalekshana kiya।",
-      "category_hinglish": "Entertainment"
-    },
-    {
       "id": "fe630ec3977f4980",
       "title": "Bihar sees third harassment case in a week, woman assaulted at tourist spot | India News",
       "summary": "The video shows several youths mostly behaving indecently with the woman and assaulting her with a slipper. | India News",
@@ -853,6 +847,23 @@
       "category_hinglish": "Politics aur Government"
     },
     {
+      "id": "5cdf738dc7acef84",
+      "title": "'Mirzapur The Movie' box office collection Day 23: Pankaj Tripathi's film earns Rs 1.55 cr; worldwide gro",
+      "summary": "'Mirzapur The Movie' recorded a major uptrend in its fourth Saturday earnings. The film collected Rs 1.55 cr net in India on Day 23.",
+      "category": "Entertainment",
+      "image": "https://static.toiimg.com/thumb/msid-134513481,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/mirzapur-the-movie-box-office-collection-day-23-pankaj-tripathis-film-earns-rs-1-55-cr-worldwide-gross-touches-rs-328-22-cr/articleshow/134513474.cms",
+      "publishedAt": "2026-09-27T01:54:00.000Z",
+      "fetchedAt": "2026-09-27T04:50:04.565Z",
+      "title_hi": "'मिर्जापुर द मूवी' का बॉक्स ऑफिस कलेक्शन दिन 23: पंकज त्रिपाठी की फिल्म ने कमाए 1.55 करोड़ रुपये; दुनिया भर में ग्रो",
+      "summary_hi": "'मिर्जापुर द मूवी' ने चौथे शनिवार की कमाई में बड़ी बढ़त दर्ज की है। फिल्म ने 23वें दिन भारत में 1.55 करोड़ रुपये का नेट कलेक्शन किया।",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "'mirjapura da muvi' ka boksa ऑphisa kalekshana dina 23: pankaja tripathi ki philma ne kamae 1.55 karoda rupaye; duniya bhara men gro",
+      "summary_hinglish": "'mirjapura da muvi' ne chauthe shanivara ki kamaee men badaी badhata darja ki hai। philma ne 23ven dina bharata men 1.55 karoda rupaye ka neta kalekshana kiya।",
+      "category_hinglish": "Entertainment"
+    },
+    {
       "id": "892b41ca9a97aa43",
       "title": "From delinquency to reintegration: Can juvenile homes break the cycle of crime?",
       "summary": "When a child commits a crime, society is often quick to ask a familiar question: what punishment should follow? Juvenile justice requires a different question: what happens to the child after the offence? That distinction lies at the heart of India’s juvenile justice framework. The Juvenile",
@@ -867,6 +878,23 @@
       "category_hi": "अपराध और ब्रेकिंग न्यूज़",
       "title_hinglish": "aparadha se punah ekikarana tak: kya kishora griha aparadha ke chakra ko toda sakate hain?",
       "summary_hinglish": "jaba koee bachcha koee aparadha karata hai, to samaja aksara eka parichita prashna puchhata hai: kya sajaा di jani chahie? kishora nyaya ke lie eka alaga prashna ki aavashyakata hoti hai: aparadha ke bada bachche ke satha kya hota hai? yaha antara bharata ke kishora nyaya dhanche ke mula men nihita hai। kishora",
+      "category_hinglish": "Crime aur Breaking News"
+    },
+    {
+      "id": "634ecb4091ac43ed",
+      "title": "Bihar Police raid Khanna house in Rs 35 lakh Bitcoin fraud case, accused duo missing",
+      "summary": "A team from Bihar Police conducted a raid at a house on Amloh Road in Khanna early Thursday in connection with an alleged Rs 35 lakh Bitcoin investment fraud case.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-131358489,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/ludhiana/bihar-police-raid-khanna-house-in-rs-35-lakh-bitcoin-fraud-case-accused-duo-missing/articleshow/134468508.cms",
+      "publishedAt": "2026-09-24T18:21:00.000Z",
+      "fetchedAt": "2026-09-24T18:39:29.347Z",
+      "title_hi": "35 लाख रुपये के बिटकॉइन धोखाधड़ी मामले में बिहार पुलिस ने खन्ना हाउस पर छापा मारा, आरोपी युगल गायब",
+      "summary_hi": "बिहार पुलिस की एक टीम ने कथित 35 लाख रुपये के बिटकॉइन निवेश धोखाधड़ी मामले में गुरुवार तड़के खन्ना के अमलोह रोड स्थित एक घर पर छापेमारी की।",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "35 lakha rupaye ke bitakoina dhokhadhadaी mamale men bihara pulisa ne khanna hausa para chhapa mar, aaropi yugala gayaba",
+      "summary_hinglish": "bihara pulisa ki eka tima ne kathita 35 lakha rupaye ke bitakoina nivesha dhokhadhadaी mamale men guruvara tadake khanna ke amaloha roda sthita eka ghara para chhapemari ki।",
       "category_hinglish": "Crime aur Breaking News"
     },
     {
@@ -887,23 +915,6 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "634ecb4091ac43ed",
-      "title": "Bihar Police raid Khanna house in Rs 35 lakh Bitcoin fraud case, accused duo missing",
-      "summary": "A team from Bihar Police conducted a raid at a house on Amloh Road in Khanna early Thursday in connection with an alleged Rs 35 lakh Bitcoin investment fraud case.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-131358489,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/ludhiana/bihar-police-raid-khanna-house-in-rs-35-lakh-bitcoin-fraud-case-accused-duo-missing/articleshow/134468508.cms",
-      "publishedAt": "2026-09-24T18:21:00.000Z",
-      "fetchedAt": "2026-09-24T18:39:29.347Z",
-      "title_hi": "35 लाख रुपये के बिटकॉइन धोखाधड़ी मामले में बिहार पुलिस ने खन्ना हाउस पर छापा मारा, आरोपी युगल गायब",
-      "summary_hi": "बिहार पुलिस की एक टीम ने कथित 35 लाख रुपये के बिटकॉइन निवेश धोखाधड़ी मामले में गुरुवार तड़के खन्ना के अमलोह रोड स्थित एक घर पर छापेमारी की।",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "35 lakha rupaye ke bitakoina dhokhadhadaी mamale men bihara pulisa ne khanna hausa para chhapa mar, aaropi yugala gayaba",
-      "summary_hinglish": "bihara pulisa ki eka tima ne kathita 35 lakha rupaye ke bitakoina nivesha dhokhadhadaी mamale men guruvara tadake khanna ke amaloha roda sthita eka ghara para chhapemari ki।",
-      "category_hinglish": "Crime aur Breaking News"
-    },
-    {
       "id": "5ce259d8bf10fef0",
       "title": "'Hanuman Ansh' box office collection day 51: Vishal Chaturvedi film eyes 300 crore net in India; records",
       "summary": "'Hanuman Ansh' witnessed a substantial rise in its box office earnings on Day 51. The Vishal Chaturvedi film collected over Rs 6 cr net in India on Saturday, September 26.",
@@ -921,23 +932,6 @@
       "category_hinglish": "Entertainment"
     },
     {
-      "id": "d460d68fce532ab3",
-      "title": "The Hidden Waste Challenge And Opportunity Behind India's Solar Growth",
-      "summary": "If India prepares before the waste curve rises sharply, a potential environmental burden can instead become a new circular economy industry.",
-      "category": "Technology",
-      "image": "https://imgs.etvbharat.com/etvbharat/prod-images/27-09-2026/1200-675-27725301-1063-27725301-1790416250708.jpg",
-      "source": "ETV Bharat",
-      "sourceUrl": "https://www.etvbharat.com/en/opinion/the-hidden-waste-challenge-and-opportunity-behind-india-solar-growth-enn26092603493",
-      "publishedAt": "2026-09-27T01:32:19.000Z",
-      "fetchedAt": "2026-09-27T01:47:35.184Z",
-      "title_hi": "भारत के सौर विकास के पीछे छिपी अपशिष्ट चुनौती और अवसर",
-      "summary_hi": "यदि भारत अपशिष्ट वक्र के तेजी से बढ़ने से पहले तैयारी करता है, तो संभावित पर्यावरणीय बोझ एक नया चक्रीय अर्थव्यवस्था उद्योग बन सकता है।",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "bharata ke saura vikasa ke pichhe chhipi apashishta chunauti aura avasara",
-      "summary_hinglish": "yadi bharata apashishta vakra ke teji se badhane se pahale taiyari karata hai, to sanbhavita paryavaraniya bojha eka naya chakriya arthavyavastha udyoga bana sakata hai।",
-      "category_hinglish": "Technology"
-    },
-    {
       "id": "aef7c34b71cd6835",
       "title": "Patna school sports meet from Sept 30 to Oct 4",
       "summary": "The district-level school sports competition will be held from Sept 30 to Oct 4 at various sports grounds in Patna under the annual sports programme 2026-27. The event will give students an opportunity to showcase their sporting talent in competition.",
@@ -953,6 +947,23 @@
       "title_hinglish": "patana skula sportsa mita 30 sitanbara se 4 aktubara taka",
       "summary_hinglish": "varshika khela karyakrama 2026-27 ke tahata jila stariya vidyalaya khela pratiyogita 30 sitanbara se 4 aktubara taka patana ke vibhinna khela maidanon men aayojita ki jaegi। isa aayojana se chhatron ko pratiyogita men apani khela pratibha dikhane ka mauka milega।",
       "category_hinglish": "Sports"
+    },
+    {
+      "id": "d460d68fce532ab3",
+      "title": "The Hidden Waste Challenge And Opportunity Behind India's Solar Growth",
+      "summary": "If India prepares before the waste curve rises sharply, a potential environmental burden can instead become a new circular economy industry.",
+      "category": "Technology",
+      "image": "https://imgs.etvbharat.com/etvbharat/prod-images/27-09-2026/1200-675-27725301-1063-27725301-1790416250708.jpg",
+      "source": "ETV Bharat",
+      "sourceUrl": "https://www.etvbharat.com/en/opinion/the-hidden-waste-challenge-and-opportunity-behind-india-solar-growth-enn26092603493",
+      "publishedAt": "2026-09-27T01:32:19.000Z",
+      "fetchedAt": "2026-09-27T01:47:35.184Z",
+      "title_hi": "भारत के सौर विकास के पीछे छिपी अपशिष्ट चुनौती और अवसर",
+      "summary_hi": "यदि भारत अपशिष्ट वक्र के तेजी से बढ़ने से पहले तैयारी करता है, तो संभावित पर्यावरणीय बोझ एक नया चक्रीय अर्थव्यवस्था उद्योग बन सकता है।",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "bharata ke saura vikasa ke pichhe chhipi apashishta chunauti aura avasara",
+      "summary_hinglish": "yadi bharata apashishta vakra ke teji se badhane se pahale taiyari karata hai, to sanbhavita paryavaraniya bojha eka naya chakriya arthavyavastha udyoga bana sakata hai।",
+      "category_hinglish": "Technology"
     },
     {
       "id": "939c379828972fe2",
@@ -989,23 +1000,6 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "e33e5797f0e33a41",
-      "title": "'Bethlehem Kudumba Unit' box office collection day 37 vs 'Pradhama Drishtiya Kuttakkar': Nivin Pauly film",
-      "summary": "Nivin Pauly and Mamitha Baiju's 'Bethlehem Kudumba Unit' continued its theatrical run on Day 37. The Malayalam film recorded a rise in collections on its sixth Saturday.",
-      "category": "Entertainment",
-      "image": "https://static.toiimg.com/thumb/msid-134513366,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/bethlehem-kudumba-unit-box-office-collection-day-37-vs-pradhama-drishtiya-kuttakkar-nivin-pauly-film-earns-rs-68-lakhs-parvathy-thiruvothu-film-at-rs-25-45-cr-india-gross/articleshow/134513352.cms",
-      "publishedAt": "2026-09-27T01:20:00.000Z",
-      "fetchedAt": "2026-09-27T01:59:11.864Z",
-      "title_hi": "'बेथलहम कुडुम्बा यूनिट' का बॉक्स ऑफिस कलेक्शन दिन 37 बनाम 'प्रदामा दृष्टि कुट्टक्कर': निविन पॉली फिल्म",
-      "summary_hi": "निविन पॉली और ममीथा बैजू की 'बेथलहम कुडुम्बा यूनिट' ने 37वें दिन भी अपना प्रदर्शन जारी रखा। मलयालम फिल्म ने अपने छठे शनिवार को कलेक्शन में वृद्धि दर्ज की।",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "'bethalahama kudumba yunita' ka boksa ऑphisa kalekshana dina 37 banama 'pradama drishti kuttakkara': nivina poli philma",
-      "summary_hinglish": "nivina poli aura mamitha baiju ki 'bethalahama kudumba yunita' ne 37ven dina bhi apana pradarshana jari rakha। malayalama philma ne apane chhathe shanivara ko kalekshana men vriddhi darja ki।",
-      "category_hinglish": "Entertainment"
-    },
-    {
       "id": "ea636450a7e004bc",
       "title": "Ashok defends govt, Shambhavi seeks review of women’s safety laws",
       "summary": "Amid mounting concern over a series of crimes in Bihar, food and consumer protection minister Ashok Choudhary on Thursday said criminal incidents were not specific to the state and also occurred in developed countries such as the US and Japan. His daughter and LJP(RV) MP Shambhavi Choudhary, meanwhile, called for…",
@@ -1021,6 +1015,23 @@
       "title_hinglish": "ashoka ne sarakara ka bachava kiy, shanbhavi ne mahila suraksha kanunon ki samiksha ki manga ki",
       "summary_hinglish": "bihara men aparadhon ki shrrinkhala para badhati chinta ke bich, khadya aura upabhokta sanrakshana mantri ashoka chaudhari ne guruvara ko kaha ki aaparadhika ghatanaen kevala rajya taka hi simita nahin thin, balki amerika aura japana jaise vikasita deshon men bhi huee thin। isa bich, unaki beti aura elajepi (aaravi) sansada shanbhavi chaudhari ne kah...",
       "category_hinglish": "Crime aur Breaking News"
+    },
+    {
+      "id": "e33e5797f0e33a41",
+      "title": "'Bethlehem Kudumba Unit' box office collection day 37 vs 'Pradhama Drishtiya Kuttakkar': Nivin Pauly film",
+      "summary": "Nivin Pauly and Mamitha Baiju's 'Bethlehem Kudumba Unit' continued its theatrical run on Day 37. The Malayalam film recorded a rise in collections on its sixth Saturday.",
+      "category": "Entertainment",
+      "image": "https://static.toiimg.com/thumb/msid-134513366,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/bethlehem-kudumba-unit-box-office-collection-day-37-vs-pradhama-drishtiya-kuttakkar-nivin-pauly-film-earns-rs-68-lakhs-parvathy-thiruvothu-film-at-rs-25-45-cr-india-gross/articleshow/134513352.cms",
+      "publishedAt": "2026-09-27T01:20:00.000Z",
+      "fetchedAt": "2026-09-27T01:59:11.864Z",
+      "title_hi": "'बेथलहम कुडुम्बा यूनिट' का बॉक्स ऑफिस कलेक्शन दिन 37 बनाम 'प्रदामा दृष्टि कुट्टक्कर': निविन पॉली फिल्म",
+      "summary_hi": "निविन पॉली और ममीथा बैजू की 'बेथलहम कुडुम्बा यूनिट' ने 37वें दिन भी अपना प्रदर्शन जारी रखा। मलयालम फिल्म ने अपने छठे शनिवार को कलेक्शन में वृद्धि दर्ज की।",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "'bethalahama kudumba yunita' ka boksa ऑphisa kalekshana dina 37 banama 'pradama drishti kuttakkara': nivina poli philma",
+      "summary_hinglish": "nivina poli aura mamitha baiju ki 'bethalahama kudumba yunita' ne 37ven dina bhi apana pradarshana jari rakha। malayalama philma ne apane chhathe shanivara ko kalekshana men vriddhi darja ki।",
+      "category_hinglish": "Entertainment"
     },
     {
       "id": "b0972874256edac9",
@@ -1040,23 +1051,6 @@
       "category_hinglish": "National aur Trending News"
     },
     {
-      "id": "4bbe79a632b73ebc",
-      "title": "Where to watch India vs. West Indies live stream, TV channel, start time and lineups for 1st ODI",
-      "summary": "Find out where to watch India vs. West Indies in India, including the live stream, TV channel, start time and confirmed lineups for the 1st ODI",
-      "category": "Sports",
-      "image": "https://s.yimg.com/lo/mysterio/api/1ff7ef672b0bc39117e52e4468aab36956d3c3a7d93a95cddfec286cf3eea274/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F7f2e41e0f8b5b89dad09a72c41e9b2a6",
-      "source": "Yahoo Sports",
-      "sourceUrl": "https://sports.yahoo.com/articles/where-watch-india-vs-west-003001052.html",
-      "publishedAt": "2026-09-27T00:30:00.000Z",
-      "fetchedAt": "2026-09-27T01:59:09.987Z",
-      "title_hi": "भारत बनाम वेस्ट इंडीज की लाइव स्ट्रीम, टीवी चैनल, शुरुआत का समय और पहले वनडे के लिए लाइनअप कहां देखें",
-      "summary_hi": "जानें कि भारत बनाम वेस्ट इंडीज को भारत में कहां देखा जा सकता है, जिसमें लाइव स्ट्रीम, टीवी चैनल, प्रारंभ समय और पहले वनडे के लिए निश्चित लाइनअप शामिल हैं।",
-      "category_hi": "खेल",
-      "title_hinglish": "bharata banama vesta indija ki laiva strim, tivi chainal, shuruaata ka samaya aura pahale vanade ke lie lainaapa kahan dekhen",
-      "summary_hinglish": "janen ki bharata banama vesta indija ko bharata men kahan dekha ja sakata hai, jisamen laiva strim, tivi chainal, praranbha samaya aura pahale vanade ke lie nishchita lainaapa shamila hain।",
-      "category_hinglish": "Sports"
-    },
-    {
       "id": "da401641f60b2e9a",
       "title": "HT Evening News Brief Sept 24: 9 dead in Greater Noida fire tragedy, another teen harassed in Bihar | India News",
       "summary": "Here’s your evening news brief with the day’s top stories from politics, world affairs, sports, and entertainment.",
@@ -1074,6 +1068,23 @@
       "category_hinglish": "Politics aur Government"
     },
     {
+      "id": "4bbe79a632b73ebc",
+      "title": "Where to watch India vs. West Indies live stream, TV channel, start time and lineups for 1st ODI",
+      "summary": "Find out where to watch India vs. West Indies in India, including the live stream, TV channel, start time and confirmed lineups for the 1st ODI",
+      "category": "Sports",
+      "image": "https://s.yimg.com/lo/mysterio/api/1ff7ef672b0bc39117e52e4468aab36956d3c3a7d93a95cddfec286cf3eea274/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2F7f2e41e0f8b5b89dad09a72c41e9b2a6",
+      "source": "Yahoo Sports",
+      "sourceUrl": "https://sports.yahoo.com/articles/where-watch-india-vs-west-003001052.html",
+      "publishedAt": "2026-09-27T00:30:00.000Z",
+      "fetchedAt": "2026-09-27T01:59:09.987Z",
+      "title_hi": "भारत बनाम वेस्ट इंडीज की लाइव स्ट्रीम, टीवी चैनल, शुरुआत का समय और पहले वनडे के लिए लाइनअप कहां देखें",
+      "summary_hi": "जानें कि भारत बनाम वेस्ट इंडीज को भारत में कहां देखा जा सकता है, जिसमें लाइव स्ट्रीम, टीवी चैनल, प्रारंभ समय और पहले वनडे के लिए निश्चित लाइनअप शामिल हैं।",
+      "category_hi": "खेल",
+      "title_hinglish": "bharata banama vesta indija ki laiva strim, tivi chainal, shuruaata ka samaya aura pahale vanade ke lie lainaapa kahan dekhen",
+      "summary_hinglish": "janen ki bharata banama vesta indija ko bharata men kahan dekha ja sakata hai, jisamen laiva strim, tivi chainal, praranbha samaya aura pahale vanade ke lie nishchita lainaapa shamila hain।",
+      "category_hinglish": "Sports"
+    },
+    {
       "id": "9aaa5a078d61dbf5",
       "title": "‘Avengers Endgame: Encore’ box office collection day 2: Marvel re-release crosses Rs 15 crore mark in Ind",
       "summary": "Doomsday’ in December this year, Marvel’s decision to drop ‘Avengers Endgame: Encore’ has proven fruitful, and it's only been two days since its release. The MCU re-release, which includes extra spoiler scenes, has been steadily rising in India, with overall growth of 5.5% since September 25.",
@@ -1088,23 +1099,6 @@
       "category_hi": "मनोरंजन",
       "title_hinglish": "'evenjarsa endagem: enakora' ka boksa ऑphisa kalekshana dina 2: marvala ri-rilija ne bharata men 15 karoda rupaye ka aankadaा para kiya",
       "summary_hinglish": "isa sala disanbara men 'dumsade' ke bad, 'evenjarsa endagem: enakora' ko hatane ka marvala ka nirnaya phaladayi sabita huaa hai, aura isaki rilija ko kevala do dina hi hue hain। emasiyu ri-rilij, jisamen atirikta spoilara drishya shamila hain, bharata men lagatara badha raha hai, 25 sitanbara se 5.5% ki kula vriddhi ke satha।",
-      "category_hinglish": "Entertainment"
-    },
-    {
-      "id": "bdafe0aa873948c3",
-      "title": "'Dorothy' box office collection day 2: Keerthy Suresh and Karthik Subbaraj film earns Rs 1.17 cr; records",
-      "summary": "Karthik Subbaraj's Tamil film 'Dorothy' registered a stronger showing on its second day at the box office. The film collected Rs 1.17 cr in India on Saturday, September 26.",
-      "category": "Entertainment",
-      "image": "https://static.toiimg.com/thumb/msid-134513181,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/dorothy-box-office-collection-day-2-keerthy-suresh-and-karthik-subbaraj-film-earns-rs-1-17-cr-records-30-growth-india-net-reaches-rs-2-07-cr/articleshow/134513179.cms",
-      "publishedAt": "2026-09-27T00:20:00.000Z",
-      "fetchedAt": "2026-09-27T00:28:32.026Z",
-      "title_hi": "'डोरोथी' बॉक्स ऑफिस कलेक्शन दिन 2: कीर्ति सुरेश और कार्तिक सुब्बाराज की फिल्म ने 1.17 करोड़ रुपये कमाए; अभिलेख",
-      "summary_hi": "कार्तिक सुब्बाराज की तमिल फिल्म 'डोरोथी' ने बॉक्स ऑफिस पर दूसरे दिन दमदार प्रदर्शन किया। फिल्म ने शनिवार 26 सितंबर को भारत में 1.17 करोड़ रुपये का कलेक्शन किया।",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "'dorothi' boksa ऑphisa kalekshana dina 2: kirti suresha aura kartika subbaraja ki philma ne 1.17 karoda rupaye kamae; abhilekha",
-      "summary_hinglish": "kartika subbaraja ki tamila philma 'dorothi' ne boksa ऑphisa para dusare dina damadara pradarshana kiya। philma ne shanivara 26 sitanbara ko bharata men 1.17 karoda rupaye ka kalekshana kiya।",
       "category_hinglish": "Entertainment"
     },
     {
@@ -1125,20 +1119,20 @@
       "category_hinglish": "Crime aur Breaking News"
     },
     {
-      "id": "7031412854820da8",
-      "title": "'The Paradise' box office collection day 3: Nani and Kayadu Lohar film earns Rs 15.25 cr; records 2.3% gr",
-      "summary": "The Times of India brings the Latest & Top Breaking News on Politics and Current Affairs in India & around the World, Cricket, Sports, Business, Bollywood News and Entertainment, Science, Technology, Health & Fitness news & opinions from leading columnists.",
+      "id": "bdafe0aa873948c3",
+      "title": "'Dorothy' box office collection day 2: Keerthy Suresh and Karthik Subbaraj film earns Rs 1.17 cr; records",
+      "summary": "Karthik Subbaraj's Tamil film 'Dorothy' registered a stronger showing on its second day at the box office. The film collected Rs 1.17 cr in India on Saturday, September 26.",
       "category": "Entertainment",
-      "image": "https://static.toiimg.com/thumb/msid-134513087,width-1280,height-720,imgsize-371285,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "image": "https://static.toiimg.com/thumb/msid-134513181,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/the-paradise-box-office-collection-day-3-nani-and-kayadu-lohar-film-earns-rs-15-25-cr-records-2-3-growth-india-net-reaches-rs-76-40-cr/amp_articleshow/134513081.cms",
-      "publishedAt": "2026-09-27T00:01:00.000Z",
-      "fetchedAt": "2026-09-27T05:18:53.364Z",
-      "title_hi": "'द पैराडाइज़' बॉक्स ऑफिस कलेक्शन दिन 3: नानी और कयादु लोहार की फिल्म ने 15.25 करोड़ रुपये कमाए; रिकॉर्ड 2.3% जीआर",
-      "summary_hi": "टाइम्स ऑफ इंडिया भारत और दुनिया भर में राजनीति और समसामयिक मामलों, क्रिकेट, खेल, व्यापार, बॉलीवुड समाचार और मनोरंजन, विज्ञान, प्रौद्योगिकी, स्वास्थ्य और फिटनेस समाचार और प्रमुख स्तंभकारों की राय पर नवीनतम और शीर्ष ब्रेकिंग समाचार लाता है।",
+      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/dorothy-box-office-collection-day-2-keerthy-suresh-and-karthik-subbaraj-film-earns-rs-1-17-cr-records-30-growth-india-net-reaches-rs-2-07-cr/articleshow/134513179.cms",
+      "publishedAt": "2026-09-27T00:20:00.000Z",
+      "fetchedAt": "2026-09-27T00:28:32.026Z",
+      "title_hi": "'डोरोथी' बॉक्स ऑफिस कलेक्शन दिन 2: कीर्ति सुरेश और कार्तिक सुब्बाराज की फिल्म ने 1.17 करोड़ रुपये कमाए; अभिलेख",
+      "summary_hi": "कार्तिक सुब्बाराज की तमिल फिल्म 'डोरोथी' ने बॉक्स ऑफिस पर दूसरे दिन दमदार प्रदर्शन किया। फिल्म ने शनिवार 26 सितंबर को भारत में 1.17 करोड़ रुपये का कलेक्शन किया।",
       "category_hi": "मनोरंजन",
-      "title_hinglish": "'da pairadaija' boksa ऑphisa kalekshana dina 3: nani aura kayadu lohara ki philma ne 15.25 karoda rupaye kamae; rikorda 2.3% jiaara",
-      "summary_hinglish": "taimsa ऑpha indiya bharata aura duniya bhara men rajaniti aura samasamayika mamalon, kriket, khel, vyapar, bolivuda samachara aura manoranjan, vijnyan, praudyogiki, svasthya aura phitanesa samachara aura pramukha stanbhakaron ki raya para navinatama aura shirsha brekinga samachara lata hai।",
+      "title_hinglish": "'dorothi' boksa ऑphisa kalekshana dina 2: kirti suresha aura kartika subbaraja ki philma ne 1.17 karoda rupaye kamae; abhilekha",
+      "summary_hinglish": "kartika subbaraja ki tamila philma 'dorothi' ne boksa ऑphisa para dusare dina damadara pradarshana kiya। philma ne shanivara 26 sitanbara ko bharata men 1.17 karoda rupaye ka kalekshana kiya।",
       "category_hinglish": "Entertainment"
     }
   ]
