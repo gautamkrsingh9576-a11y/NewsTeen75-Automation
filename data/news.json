@@ -1,7 +1,24 @@
 {
-  "updatedAt": "2026-09-27T11:43:50.797Z",
-  "count": 63,
+  "updatedAt": "2026-09-27T11:54:38.945Z",
+  "count": 67,
   "articles": [
+    {
+      "id": "21f7e3488ebc165e",
+      "title": "India's China trade deficit may not tell the full story, FM Sitharaman explains why",
+      "summary": "Our export account would say that we are still not adequately exporting to China. Actually, it is going to China, but it never gets accounted like that because it goes to Vietnam, says FM Sitharaman",
+      "category": "Business & Finance",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6ab8f6426f888-finance-minister-nirmala-sitharaman-at-plf-2026-275600690-16x9.jpeg",
+      "source": "Business Today",
+      "sourceUrl": "https://www.businesstoday.in/latest/economy/story/indias-china-trade-deficit-may-not-tell-the-full-story-fm-sitharaman-explains-why-558089-2026-09-27",
+      "publishedAt": "2026-09-27T11:00:20.000Z",
+      "fetchedAt": "2026-09-27T11:54:29.484Z",
+      "title_hi": "भारत का चीन व्यापार घाटा पूरी कहानी नहीं बता सकता, वित्त मंत्री सीतारमण बताती हैं क्यों",
+      "summary_hi": "हमारा निर्यात खाता कहेगा कि हम अभी भी चीन को पर्याप्त रूप से निर्यात नहीं कर रहे हैं। वास्तव में, यह चीन जा रहा है, लेकिन इसका उस तरह हिसाब-किताब कभी नहीं किया जाता क्योंकि यह वियतनाम जाता है, ऐसा एफएम सीतारमण का कहना है",
+      "category_hi": "बिज़नेस और फाइनेंस",
+      "title_hinglish": "bharata ka china vyapara ghata puri kahani nahin bata sakat, vitta mantri sitaramana batati hain kyon",
+      "summary_hinglish": "hamara niryata khata kahega ki hama abhi bhi china ko paryapta rupa se niryata nahin kara rahe hain। vastava men, yaha china ja raha hai, lekina isaka usa taraha hisaba-kitaba kabhi nahin kiya jata kyonki yaha viyatanama jata hai, aisa ephaema sitaramana ka kahana hai",
+      "category_hinglish": "Business aur Finance"
+    },
     {
       "id": "0e14b2eaa0709580",
       "title": "India, Canada preparing to take ties to 'higher level': Jaishankar",
@@ -18,6 +35,23 @@
       "title_hinglish": "bharat, kanada sanbandhon ko 'uchcha stara' para le jane ki taiyari kara rahe hain: jayashankara",
       "summary_hinglish": "sarthaka yuenajie varta ke bada bharata-kanada uchcha stariya sanbandhon para najara gadaाe hue hain; jayashankara ne oorja vividhikarana aura vyapaka sahayoga para prakasha dala।",
       "category_hinglish": "National aur Trending News"
+    },
+    {
+      "id": "22411800cf75db2b",
+      "title": "Vvaan box office collection Day 2: Sidharth Malhotra’s mythological thriller sees a rise; here’s how much it earned",
+      "summary": "Sidharth Malhotra and Tamannaah Bhatia’s mythological film Vvaan sees a jump on Day 2 of its theatrical run. Take a look at the latest box office figures.",
+      "category": "Entertainment",
+      "image": "https://cdn3.wionews.com/prod/wion/images/2026/20260927/image-1790492370752.png?imwidth=1200&imheight=900",
+      "source": "WION",
+      "sourceUrl": "https://www.wionews.com/entertainment/bollywood/vvaan-box-office-collection-day-2-sidharth-malhotra-s-mythological-thriller-sees-a-rise-here-s-how-much-it-earns-1790492269938",
+      "publishedAt": "2026-09-27T09:31:00.000Z",
+      "fetchedAt": "2026-09-27T11:54:34.488Z",
+      "title_hi": "वावान बॉक्स ऑफिस कलेक्शन दिन 2: सिद्धार्थ मल्होत्रा ​​की पौराणिक थ्रिलर में वृद्धि देखी गई; यहां बताया गया है कि इसने कितनी कमाई की",
+      "summary_hi": "सिद्धार्थ मल्होत्रा और तमन्ना भाटिया की पौराणिक फिल्म 'व्वान' की सिनेमाघरों में रिलीज के दूसरे दिन उछाल देखा गया। नवीनतम बॉक्स ऑफिस आंकड़ों पर एक नज़र डालें।",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "vavana boksa ऑphisa kalekshana dina 2: siddhartha malhotra ​​ki pauranika thrilara men vriddhi dekhi gaee; yahan bataya gaya hai ki isane kitani kamaee ki",
+      "summary_hinglish": "siddhartha malhotra aura tamanna bhatiya ki pauranika philma 'vvana' ki sinemagharon men rilija ke dusare dina uchhala dekha gaya। navinatama boksa ऑphisa aankadaोn para eka najara dalen।",
+      "category_hinglish": "Entertainment"
     },
     {
       "id": "a7b28b4a6ce427cb",
@@ -37,23 +71,6 @@
       "category_hinglish": "Sports"
     },
     {
-      "id": "03943fafde680d0a",
-      "title": "Samrat: Bihar, Centre to coordinate on cross-border crimes along Nepal border",
-      "summary": "Bihar govt and Centre will work in close coordination to curb infiltration, counterfeit currency, drug trafficking and other cross-border crimes along the sensitive India-Nepal border, CM Samrat Choudhary said here on Saturday after chairing a comprehensive high-level review meeting at the ‘Samvad’ hall in the Chief Minister’s Secretariat.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134507867,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/patna/samrat-bihar-centre-to-coordinate-on-cross-border-crimes-along-nepal-border/articleshow/134507868.cms",
-      "publishedAt": "2026-09-26T16:54:00.000Z",
-      "fetchedAt": "2026-09-26T17:15:41.433Z",
-      "title_hi": "सम्राट: बिहार, केंद्र नेपाल सीमा पर सीमा पार अपराधों पर समन्वय करें",
-      "summary_hi": "मुख्यमंत्री सम्राट चौधरी ने शनिवार को मुख्यमंत्री सचिवालय के 'संवाद' हॉल में एक व्यापक उच्च स्तरीय समीक्षा बैठक की अध्यक्षता करने के बाद कहा कि संवेदनशील भारत-नेपाल सीमा पर घुसपैठ, जाली मुद्रा, मादक पदार्थों की तस्करी और अन्य सीमा पार अपराधों को रोकने के लिए बिहार सरकार और केंद्र निकट समन्वय में काम करेंगे।",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "samrat: bihar, kendra nepala sima para sima para aparadhon para samanvaya karen",
-      "summary_hinglish": "mukhyamantri samrata chaudhari ne shanivara ko mukhyamantri sachivalaya ke 'sanvada' hola men eka vyapaka uchcha stariya samiksha baithaka ki adhyakshata karane ke bada kaha ki sanvedanashila bharata-nepala sima para ghusapaith, jali mudr, madaka padarthon ki taskari aura anya sima para aparadhon ko rokane ke lie bihara sarakara aura kendra nikata samanvaya men kama karenge।",
-      "category_hinglish": "Crime aur Breaking News"
-    },
-    {
       "id": "1e6a4adb01c25630",
       "title": "IIT Madras, IIT Madras Research Park and Unicorn India Ventures Announce First Close of IITM Unicorn Frontier Fund-I at Rs 450 Crore, Deploys Rs 55 Crore in 4 Deep Tech Startups",
       "summary": "Raksha Anirveda is India’s premier defence, aerospace, and security news magazine covering strategic affairs, defence technology, military updates, policy analysis, and global security trends. Stay informed with expert insights and the latest updates in defence and aerospace industry.",
@@ -71,6 +88,23 @@
       "category_hinglish": "Technology"
     },
     {
+      "id": "03943fafde680d0a",
+      "title": "Samrat: Bihar, Centre to coordinate on cross-border crimes along Nepal border",
+      "summary": "Bihar govt and Centre will work in close coordination to curb infiltration, counterfeit currency, drug trafficking and other cross-border crimes along the sensitive India-Nepal border, CM Samrat Choudhary said here on Saturday after chairing a comprehensive high-level review meeting at the ‘Samvad’ hall in the Chief Minister’s Secretariat.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134507867,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/patna/samrat-bihar-centre-to-coordinate-on-cross-border-crimes-along-nepal-border/articleshow/134507868.cms",
+      "publishedAt": "2026-09-26T16:54:00.000Z",
+      "fetchedAt": "2026-09-26T17:15:41.433Z",
+      "title_hi": "सम्राट: बिहार, केंद्र नेपाल सीमा पर सीमा पार अपराधों पर समन्वय करें",
+      "summary_hi": "मुख्यमंत्री सम्राट चौधरी ने शनिवार को मुख्यमंत्री सचिवालय के 'संवाद' हॉल में एक व्यापक उच्च स्तरीय समीक्षा बैठक की अध्यक्षता करने के बाद कहा कि संवेदनशील भारत-नेपाल सीमा पर घुसपैठ, जाली मुद्रा, मादक पदार्थों की तस्करी और अन्य सीमा पार अपराधों को रोकने के लिए बिहार सरकार और केंद्र निकट समन्वय में काम करेंगे।",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "samrat: bihar, kendra nepala sima para sima para aparadhon para samanvaya karen",
+      "summary_hinglish": "mukhyamantri samrata chaudhari ne shanivara ko mukhyamantri sachivalaya ke 'sanvada' hola men eka vyapaka uchcha stariya samiksha baithaka ki adhyakshata karane ke bada kaha ki sanvedanashila bharata-nepala sima para ghusapaith, jali mudr, madaka padarthon ki taskari aura anya sima para aparadhon ko rokane ke lie bihara sarakara aura kendra nikata samanvaya men kama karenge।",
+      "category_hinglish": "Crime aur Breaking News"
+    },
+    {
       "id": "4f999a4eb6e1136f",
       "title": "‘The Paradise’ box office collection Day 4 (Live): Nani and Srikanth Odela’s action thriller’s India gros",
       "summary": "Nani starrer ‘The Paradise’ opened strongly at the box office and became the actor’s biggest opener yet. The film crossed the Rs 75 crore mark on its first day.",
@@ -86,23 +120,6 @@
       "title_hinglish": "'da pairadaija' boksa ऑphisa kalekshana dina 4 (laiva): nani aura shrikanta odela ki ekshana thrilara ne bharata men kamaee ki",
       "summary_hinglish": "nani starara 'da pairadaija' ne boksa ऑphisa para joradara shuruaata ki aura abhineta ki aba taka ki sabase badaी opanara bana gaee। philma ne pahale dina 75 karoda rupaye ka aankadaा para kara liya hai.",
       "category_hinglish": "Entertainment"
-    },
-    {
-      "id": "5e8713d098d8808b",
-      "title": "Bihar Prepares For 2030 Women’s Hockey World Cup, Rajgir Set To Host Global Stars",
-      "summary": "Patna: Bihar has stepped up preparations to host the 2030 FIH Women’s Hockey World Cup in Rajgir, with Sports Minister",
-      "category": "Sports",
-      "image": "https://patnapress.com/wp-content/uploads/2026/09/14a6d003-b4b3-4864-8e5a-b9eb3204c175.jpeg",
-      "source": "Patna Press",
-      "sourceUrl": "https://patnapress.com/bihar-prepares-2030-womens-hockey-world-cup-rajgir/",
-      "publishedAt": "2026-09-26T16:29:12.000Z",
-      "fetchedAt": "2026-09-27T02:49:04.969Z",
-      "title_hi": "बिहार 2030 महिला हॉकी विश्व कप की तैयारी कर रहा है, राजगीर वैश्विक सितारों की मेजबानी के लिए तैयार है",
-      "summary_hi": "पटना: खेल मंत्री के साथ बिहार ने राजगीर में 2030 FIH महिला हॉकी विश्व कप की मेजबानी की तैयारी तेज कर दी है.",
-      "category_hi": "खेल",
-      "title_hinglish": "bihara 2030 mahila hoki vishva kapa ki taiyari kara raha hai, rajagira vaishvika sitaron ki mejabani ke lie taiyara hai",
-      "summary_hinglish": "patan: khela mantri ke satha bihara ne rajagira men 2030 FIH mahila hoki vishva kapa ki mejabani ki taiyari teja kara di hai.",
-      "category_hinglish": "Sports"
     },
     {
       "id": "53e38dc996eccd7f",
@@ -139,6 +156,23 @@
       "category_hinglish": "Sports"
     },
     {
+      "id": "5e8713d098d8808b",
+      "title": "Bihar Prepares For 2030 Women’s Hockey World Cup, Rajgir Set To Host Global Stars",
+      "summary": "Patna: Bihar has stepped up preparations to host the 2030 FIH Women’s Hockey World Cup in Rajgir, with Sports Minister",
+      "category": "Sports",
+      "image": "https://patnapress.com/wp-content/uploads/2026/09/14a6d003-b4b3-4864-8e5a-b9eb3204c175.jpeg",
+      "source": "Patna Press",
+      "sourceUrl": "https://patnapress.com/bihar-prepares-2030-womens-hockey-world-cup-rajgir/",
+      "publishedAt": "2026-09-26T16:29:12.000Z",
+      "fetchedAt": "2026-09-27T02:49:04.969Z",
+      "title_hi": "बिहार 2030 महिला हॉकी विश्व कप की तैयारी कर रहा है, राजगीर वैश्विक सितारों की मेजबानी के लिए तैयार है",
+      "summary_hi": "पटना: खेल मंत्री के साथ बिहार ने राजगीर में 2030 FIH महिला हॉकी विश्व कप की मेजबानी की तैयारी तेज कर दी है.",
+      "category_hi": "खेल",
+      "title_hinglish": "bihara 2030 mahila hoki vishva kapa ki taiyari kara raha hai, rajagira vaishvika sitaron ki mejabani ke lie taiyara hai",
+      "summary_hinglish": "patan: khela mantri ke satha bihara ne rajagira men 2030 FIH mahila hoki vishva kapa ki mejabani ki taiyari teja kara di hai.",
+      "category_hinglish": "Sports"
+    },
+    {
       "id": "09437d057bf28727",
       "title": "Mark Zuckerberg gives everyone their own personal Muse",
       "summary": "Most people who have used AI so far have done it through something like ChatGPT or Gemini. These are good AI chatbots but terrible AI agents unless you are extremely tech savvy. Mark Zuckerberg and Meta, however, have a plan to solve it with Muse. For now they are succeeding.",
@@ -154,6 +188,23 @@
       "title_hinglish": "marka jukarabarga hara kisi ko apana niji sangrahalaya dete hain",
       "summary_hinglish": "aba taka jina logon ne eaaee ka upayoga kiya hai, unamen se adhikansha ne ise chaitajipiti ya jemini jaisi kisi chija ke madhyama se kiya hai। ye achchhe eaaee chaitabota hain lekina bhayanaka eaaee ejenta hain jaba taka ki aapa atyadhika takanika premi na hon। halanki, marka jukarabarga aura meta ke pasa ise myuja ke satha hala karane ki yojana hai। philahala ve saphala ho rahe hain.",
       "category_hinglish": "Technology"
+    },
+    {
+      "id": "b68efa27270027af",
+      "title": "'Don’t Trouble The Trouble’ actor Fahadh Faasil recalls leaving India two days after his debut flopped; ‘",
+      "summary": "Actor and filmmaker Fahadh Faasil is gearing up for his Telugu debut as the leading man in the upcoming family drama ‘Don’t Trouble The Trouble’ backed by SS Karthikeya and presented by ace director SS Rajamouli. Recently Fahadh Faasil revealed that after making his debut in 2002 which failed at…",
+      "category": "Entertainment",
+      "image": "https://static.toiimg.com/thumb/msid-134518056,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/dont-trouble-the-trouble-actor-fahadh-faasil-recalls-leaving-india-two-days-after-his-debut-flopped-i-thought-i-was-going-to-be-in-america-for-the-rest-of-my-life/articleshow/134518017.cms",
+      "publishedAt": "2026-09-27T09:49:00.000Z",
+      "fetchedAt": "2026-09-27T10:44:24.539Z",
+      "title_hi": "'डोंट ट्रबल द ट्रबल' अभिनेता फहद फ़ासिल को अपनी पहली फिल्म फ्लॉप होने के दो दिन बाद भारत छोड़ने की याद आती है; '",
+      "summary_hi": "अभिनेता और फिल्म निर्माता फहद फासिल एसएस कार्तिकेय द्वारा समर्थित और जाने-माने निर्देशक एसएस राजामौली द्वारा प्रस्तुत आगामी पारिवारिक ड्रामा 'डोंट ट्रबल द ट्रबल' में मुख्य अभिनेता के रूप में अपने तेलुगु डेब्यू की तैयारी कर रहे हैं। हाल ही में फहद फ़ासिल ने खुलासा किया कि 2002 में अपनी शुरुआत करने के बाद जो असफल रहे...",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "'donta trabala da trabala' abhineta phahada phaाsila ko apani pahali philma phlopa hone ke do dina bada bharata chhodane ki yada aati hai; '",
+      "summary_hinglish": "abhineta aura philma nirmata phahada phasila esaesa kartikeya dvara samarthita aura jane-mane nirdeshaka esaesa rajamauli dvara prastuta aagami parivarika drama 'donta trabala da trabala' men mukhya abhineta ke rupa men apane telugu debyu ki taiyari kara rahe hain। hala hi men phahada phaाsila ne khulasa kiya ki 2002 men apani shuruaata karane ke bada jo asaphala rahe...",
+      "category_hinglish": "Entertainment"
     },
     {
       "id": "55d29fb029ceb324",
@@ -173,21 +224,21 @@
       "category_hinglish": "Entertainment"
     },
     {
-      "id": "b68efa27270027af",
-      "title": "'Don’t Trouble The Trouble’ actor Fahadh Faasil recalls leaving India two days after his debut flopped; ‘",
-      "summary": "Actor and filmmaker Fahadh Faasil is gearing up for his Telugu debut as the leading man in the upcoming family drama ‘Don’t Trouble The Trouble’ backed by SS Karthikeya and presented by ace director SS Rajamouli. Recently Fahadh Faasil revealed that after making his debut in 2002 which failed at…",
-      "category": "Entertainment",
-      "image": "https://static.toiimg.com/thumb/msid-134518056,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/dont-trouble-the-trouble-actor-fahadh-faasil-recalls-leaving-india-two-days-after-his-debut-flopped-i-thought-i-was-going-to-be-in-america-for-the-rest-of-my-life/articleshow/134518017.cms",
-      "publishedAt": "2026-09-27T09:49:00.000Z",
-      "fetchedAt": "2026-09-27T10:44:24.539Z",
-      "title_hi": "'डोंट ट्रबल द ट्रबल' अभिनेता फहद फ़ासिल को अपनी पहली फिल्म फ्लॉप होने के दो दिन बाद भारत छोड़ने की याद आती है; '",
-      "summary_hi": "अभिनेता और फिल्म निर्माता फहद फासिल एसएस कार्तिकेय द्वारा समर्थित और जाने-माने निर्देशक एसएस राजामौली द्वारा प्रस्तुत आगामी पारिवारिक ड्रामा 'डोंट ट्रबल द ट्रबल' में मुख्य अभिनेता के रूप में अपने तेलुगु डेब्यू की तैयारी कर रहे हैं। हाल ही में फहद फ़ासिल ने खुलासा किया कि 2002 में अपनी शुरुआत करने के बाद जो असफल रहे...",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "'donta trabala da trabala' abhineta phahada phaाsila ko apani pahali philma phlopa hone ke do dina bada bharata chhodane ki yada aati hai; '",
-      "summary_hinglish": "abhineta aura philma nirmata phahada phasila esaesa kartikeya dvara samarthita aura jane-mane nirdeshaka esaesa rajamauli dvara prastuta aagami parivarika drama 'donta trabala da trabala' men mukhya abhineta ke rupa men apane telugu debyu ki taiyari kara rahe hain। hala hi men phahada phaाsila ne khulasa kiya ki 2002 men apani shuruaata karane ke bada jo asaphala rahe...",
-      "category_hinglish": "Entertainment"
+      "id": "83756a967072a72f",
+      "title": "Pakistan Crime Agency Mulls Action Against Mohammad Rizwan For 'Not Copperating'",
+      "summary": "Mohammad Rizwan is accused of not cooperating with NCCIA's investigation into alleged online betting and info leaks during Pakistan's Test tour of England.",
+      "category": "Crime & Breaking News",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/09/Imam-ul-Haq-Mohammad-Rizwan-2026-09-dc0f217fa1f2de64c95741239e949c5c-1200x675.png",
+      "source": "News18",
+      "sourceUrl": "https://www.news18.com/amp/cricket/pakistan-crime-agency-mulls-action-against-mohammad-rizwan-for-not-copperating-ws-l-10355496.html",
+      "publishedAt": "2026-09-27T09:45:28.000Z",
+      "fetchedAt": "2026-09-27T11:54:02.353Z",
+      "title_hi": "पाकिस्तान अपराध एजेंसी 'कॉपरेटिंग नहीं करने' के लिए मोहम्मद रिज़वान के खिलाफ कार्रवाई पर विचार कर रही है",
+      "summary_hi": "मोहम्मद रिज़वान पर पाकिस्तान के इंग्लैंड के टेस्ट दौरे के दौरान कथित ऑनलाइन सट्टेबाजी और जानकारी लीक होने की एनसीसीआईए की जांच में सहयोग नहीं करने का आरोप है।",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "pakistana aparadha ejensi 'koparetinga nahin karane' ke lie mohammada rijavana ke khilapha karravaee para vichara kara rahi hai",
+      "summary_hinglish": "mohammada rijavana para pakistana ke inglainda ke testa daure ke daurana kathita ऑnalaina sattebaji aura janakari lika hone ki enasisiaaeee ki jancha men sahayoga nahin karane ka aaropa hai।",
+      "category_hinglish": "Crime aur Breaking News"
     },
     {
       "id": "016b4e89188ab3e9",
@@ -258,23 +309,6 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "b2cee53f8a5cf9b2",
-      "title": "Kriti Sanon shares cryptic Instagram post amid Jamui harassment and Delhi rape case: ‘It’s women vs patriarch",
-      "summary": "Kriti Sanon’s latest Instagram activity has caught attention amid the ongoing discussion around the Jamui harassment case. Here’s what the actress shared and why it has sparked conversation.",
-      "category": "Entertainment",
-      "image": "https://static.india.com/wp-content/uploads/2026/09/Kriti-Sanon-.png",
-      "source": "India.com",
-      "sourceUrl": "https://www.india.com/entertainment/bollywood/kriti-sanon-shares-cryptic-instagram-post-amid-jamui-harassment-and-delhi-rape-case-8530229/",
-      "publishedAt": "2026-09-26T07:27:11.000Z",
-      "fetchedAt": "2026-09-26T10:54:04.762Z",
-      "title_hi": "जमुई उत्पीड़न और दिल्ली बलात्कार मामले के बीच कृति सनोन ने गुप्त इंस्टाग्राम पोस्ट साझा किया: 'यह महिला बनाम पितृसत्ता है",
-      "summary_hi": "जमुई उत्पीड़न मामले को लेकर चल रही चर्चा के बीच कृति सेनन की नवीनतम इंस्टाग्राम गतिविधि ने ध्यान खींचा है। यहां बताया गया है कि अभिनेत्री ने क्या साझा किया और क्यों इसने चर्चा को बढ़ावा दिया है।",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "jamuee utpidana aura dilli balatkara mamale ke bicha kriti sanona ne gupta instagrama posta sajha kiy: 'yaha mahila banama pitrisatta hai",
-      "summary_hinglish": "jamuee utpidana mamale ko lekara chala rahi charcha ke bicha kriti senana ki navinatama instagrama gatividhi ne dhyana khincha hai। yahan bataya gaya hai ki abhinetri ne kya sajha kiya aura kyon isane charcha ko badhaाva diya hai।",
-      "category_hinglish": "Entertainment"
-    },
-    {
       "id": "ab0b872f3da669ff",
       "title": "Tanya Mishra Becomes India's New National Crush",
       "summary": "Mumbai: Model and actress Tanya Mishra is attracting attention across social media, with fans increasingly calling her the &ldquo;new national crush of India.&r...",
@@ -290,6 +324,23 @@
       "title_hinglish": "tanya mishra banin bharata ki naee neshanala krasha",
       "summary_hinglish": "munbaee: modala aura abhinetri tanya mishra soshala midiya para dhyana aakarshita kara rahi hain, prashansaka teji se unhen \"bharata ka naya rashtriya krasha\" kaha rahe hain।&r...",
       "category_hinglish": "National aur Trending News"
+    },
+    {
+      "id": "b2cee53f8a5cf9b2",
+      "title": "Kriti Sanon shares cryptic Instagram post amid Jamui harassment and Delhi rape case: ‘It’s women vs patriarch",
+      "summary": "Kriti Sanon’s latest Instagram activity has caught attention amid the ongoing discussion around the Jamui harassment case. Here’s what the actress shared and why it has sparked conversation.",
+      "category": "Entertainment",
+      "image": "https://static.india.com/wp-content/uploads/2026/09/Kriti-Sanon-.png",
+      "source": "India.com",
+      "sourceUrl": "https://www.india.com/entertainment/bollywood/kriti-sanon-shares-cryptic-instagram-post-amid-jamui-harassment-and-delhi-rape-case-8530229/",
+      "publishedAt": "2026-09-26T07:27:11.000Z",
+      "fetchedAt": "2026-09-26T10:54:04.762Z",
+      "title_hi": "जमुई उत्पीड़न और दिल्ली बलात्कार मामले के बीच कृति सनोन ने गुप्त इंस्टाग्राम पोस्ट साझा किया: 'यह महिला बनाम पितृसत्ता है",
+      "summary_hi": "जमुई उत्पीड़न मामले को लेकर चल रही चर्चा के बीच कृति सेनन की नवीनतम इंस्टाग्राम गतिविधि ने ध्यान खींचा है। यहां बताया गया है कि अभिनेत्री ने क्या साझा किया और क्यों इसने चर्चा को बढ़ावा दिया है।",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "jamuee utpidana aura dilli balatkara mamale ke bicha kriti sanona ne gupta instagrama posta sajha kiy: 'yaha mahila banama pitrisatta hai",
+      "summary_hinglish": "jamuee utpidana mamale ko lekara chala rahi charcha ke bicha kriti senana ki navinatama instagrama gatividhi ne dhyana khincha hai। yahan bataya gaya hai ki abhinetri ne kya sajha kiya aura kyon isane charcha ko badhaाva diya hai।",
+      "category_hinglish": "Entertainment"
     },
     {
       "id": "6055dfb200a699ae",
@@ -428,23 +479,6 @@
       "category_hinglish": "Entertainment"
     },
     {
-      "id": "f606cc4dbdf8b5fe",
-      "title": "Poll panel's SIR orders for Bihar, other states and UTs were unanimous: EC sources amid row | India News",
-      "summary": "The approved SIR orders include Declaration Form to be submitted along with Form 6 for new voters to be added to reduce paper work and for the ease of citizens.",
-      "category": "Politics & Government",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/25/1600x900/logo/PTI04-08-2026-000216B-0_1778754545645_1790338110982_t8iU_df1353e8-b08b-48f9-ae79-083ef850b6e5_V1cb.jpg",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/india-news/poll-panels-sir-orders-for-bihar-other-states-and-uts-were-unanimous-ec-sources-amid-row-101790337602276-amp.html",
-      "publishedAt": "2026-09-25T12:09:23.000Z",
-      "fetchedAt": "2026-09-25T16:53:02.492Z",
-      "title_hi": "बिहार, अन्य राज्यों और केंद्रशासित प्रदेशों के लिए पोल पैनल के एसआईआर आदेश एकमत थे: विवाद के बीच चुनाव आयोग के सूत्र | भारत समाचार",
-      "summary_hi": "अनुमोदित एसआईआर आदेशों में कागजी काम को कम करने और नागरिकों की आसानी के लिए नए मतदाताओं को जोड़ने के लिए फॉर्म 6 के साथ जमा किया जाने वाला घोषणा पत्र शामिल है।",
-      "category_hi": "राजनीति और सरकार",
-      "title_hinglish": "bihar, anya rajyon aura kendrashasita pradeshon ke lie pola painala ke esaaaeeaara aadesha ekamata the: vivada ke bicha chunava aayoga ke sutra | bharata samachara",
-      "summary_hinglish": "anumodita esaaaeeaara aadeshon men kagaji kama ko kama karane aura nagarikon ki aasani ke lie nae matadataon ko jodane ke lie phorma 6 ke satha jama kiya jane vala ghoshana patra shamila hai।",
-      "category_hinglish": "Politics aur Government"
-    },
-    {
       "id": "7489a9ecc770c96f",
       "title": "Private sector capex projected to rise to ₹3.2 trn in FY27: RBI bulletin",
       "summary": "The aggregate cost of projects hit a record ₹4.4 trillion in FY26, with infrastructure continuing to dominate the investment landscape",
@@ -460,6 +494,23 @@
       "title_hinglish": "FY27 men niji kshetra ka punjigata vyaya badhakara ₹3.2 triliyana hone ka anuman: RBI buletina",
       "summary_hinglish": "vitta varsha 2026 men pariyojanaon ki kula lagata rikorda ₹4.4 triliyana taka pahuncha gaee, jisamen nivesha paridrishya men buniyadi dhanche ka dabadaba kayama raha",
       "category_hinglish": "Business aur Finance"
+    },
+    {
+      "id": "f606cc4dbdf8b5fe",
+      "title": "Poll panel's SIR orders for Bihar, other states and UTs were unanimous: EC sources amid row | India News",
+      "summary": "The approved SIR orders include Declaration Form to be submitted along with Form 6 for new voters to be added to reduce paper work and for the ease of citizens.",
+      "category": "Politics & Government",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/25/1600x900/logo/PTI04-08-2026-000216B-0_1778754545645_1790338110982_t8iU_df1353e8-b08b-48f9-ae79-083ef850b6e5_V1cb.jpg",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/poll-panels-sir-orders-for-bihar-other-states-and-uts-were-unanimous-ec-sources-amid-row-101790337602276-amp.html",
+      "publishedAt": "2026-09-25T12:09:23.000Z",
+      "fetchedAt": "2026-09-25T16:53:02.492Z",
+      "title_hi": "बिहार, अन्य राज्यों और केंद्रशासित प्रदेशों के लिए पोल पैनल के एसआईआर आदेश एकमत थे: विवाद के बीच चुनाव आयोग के सूत्र | भारत समाचार",
+      "summary_hi": "अनुमोदित एसआईआर आदेशों में कागजी काम को कम करने और नागरिकों की आसानी के लिए नए मतदाताओं को जोड़ने के लिए फॉर्म 6 के साथ जमा किया जाने वाला घोषणा पत्र शामिल है।",
+      "category_hi": "राजनीति और सरकार",
+      "title_hinglish": "bihar, anya rajyon aura kendrashasita pradeshon ke lie pola painala ke esaaaeeaara aadesha ekamata the: vivada ke bicha chunava aayoga ke sutra | bharata samachara",
+      "summary_hinglish": "anumodita esaaaeeaara aadeshon men kagaji kama ko kama karane aura nagarikon ki aasani ke lie nae matadataon ko jodane ke lie phorma 6 ke satha jama kiya jane vala ghoshana patra shamila hai।",
+      "category_hinglish": "Politics aur Government"
     },
     {
       "id": "001620b39448e2ef",
@@ -598,6 +649,23 @@
       "category_hinglish": "Politics aur Government"
     },
     {
+      "id": "44e7058c559ddce5",
+      "title": "India vs Afghanistan live streaming: When and where to watch Asian Games quaterfinal live - check date, v",
+      "summary": "India begin their campaign at the Aichi-Nagoya Asian Games 2026 on Monday when Shreyas Iyer's side takes on Afghanistan in the second quarterfinal of the men's T20 cricket competition at the Korogi Sports Park in Nisshin, Japan.",
+      "category": "Sports",
+      "image": "https://static.toiimg.com/thumb/msid-134516528,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/asian-games-2026-mens-t20/india-vs-afghanistan-live-streaming-when-and-where-to-watch-asian-games-quaterfinal-live-check-date-venue-timings/articleshow/134516414.cms",
+      "publishedAt": "2026-09-27T07:39:00.000Z",
+      "fetchedAt": "2026-09-27T11:54:08.117Z",
+      "title_hi": "भारत बनाम अफगानिस्तान लाइव स्ट्रीमिंग: एशियाई खेलों का क्वार्टरफाइनल लाइव कब और कहां देखें - तारीख जांचें, वी",
+      "summary_hi": "भारत ने आइची-नागोया एशियाई खेलों 2026 में अपने अभियान की शुरुआत सोमवार को की जब श्रेयस अय्यर की टीम जापान के निशिन में कोरोगी स्पोर्ट्स पार्क में पुरुषों की टी20 क्रिकेट प्रतियोगिता के दूसरे क्वार्टर फाइनल में अफगानिस्तान से भिड़ेगी।",
+      "category_hi": "खेल",
+      "title_hinglish": "bharata banama aphaganistana laiva striming: eshiyaee khelon ka kvartaraphainala laiva kaba aura kahan dekhen - tarikha janchen, vi",
+      "summary_hinglish": "bharata ne aaichi-nagoya eshiyaee khelon 2026 men apane abhiyana ki shuruaata somavara ko ki jaba shreyasa ayyara ki tima japana ke nishina men korogi sportsa parka men purushon ki ti20 kriketa pratiyogita ke dusare kvartara phainala men aphaganistana se bhidaेgi।",
+      "category_hinglish": "Sports"
+    },
+    {
       "id": "e40637d4fb87586d",
       "title": "The Vvaan - Force Of The Forrest Movie Review: Sidharth Malhotra and Tamannaah Bhatia Bring Bihar Folklore to the Big Screen",
       "summary": "The Vvaan - Force Of The Forrest Movie review: Sidharth Malhotra and Tamannaah Bhatia lead a folklore-driven horror adventure rooted in Bihar.",
@@ -615,21 +683,21 @@
       "category_hinglish": "Entertainment"
     },
     {
-      "id": "44e7058c559ddce5",
-      "title": "India vs Afghanistan live streaming: When and where to watch Asian Games quaterfinal live - check date, v",
-      "summary": "India begin their campaign at the Aichi-Nagoya Asian Games 2026 on Monday when Shreyas Iyer's side takes on Afghanistan in the second quarterfinal of the men's T20 cricket competition at the Korogi Sports Park in Nisshin, Japan.",
-      "category": "Sports",
-      "image": "https://static.toiimg.com/thumb/msid-134516528,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "timesofindia.indiatimes.com",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/asian-games-2026-mens-t20/india-vs-afghanistan-live-streaming-when-and-where-to-watch-asian-games-quaterfinal-live-check-date-venue-timings/articleshow/134516414.cms",
-      "publishedAt": "2026-09-27T07:39:00.000Z",
-      "fetchedAt": "2026-09-27T11:43:07.874Z",
-      "title_hi": "भारत बनाम अफगानिस्तान लाइव स्ट्रीमिंग: एशियाई खेलों का क्वार्टरफाइनल लाइव कब और कहां देखें - तारीख जांचें, वी",
-      "summary_hi": "भारत ने आइची-नागोया एशियाई खेलों 2026 में अपने अभियान की शुरुआत सोमवार को की जब श्रेयस अय्यर की टीम जापान के निशिन में कोरोगी स्पोर्ट्स पार्क में पुरुषों की टी20 क्रिकेट प्रतियोगिता के दूसरे क्वार्टर फाइनल में अफगानिस्तान से भिड़ेगी।",
-      "category_hi": "खेल",
-      "title_hinglish": "bharata banama aphaganistana laiva striming: eshiyaee khelon ka kvartaraphainala laiva kaba aura kahan dekhen - tarikha janchen, vi",
-      "summary_hinglish": "bharata ne aaichi-nagoya eshiyaee khelon 2026 men apane abhiyana ki shuruaata somavara ko ki jaba shreyasa ayyara ki tima japana ke nishina men korogi sportsa parka men purushon ki ti20 kriketa pratiyogita ke dusare kvartara phainala men aphaganistana se bhidaेgi।",
-      "category_hinglish": "Sports"
+      "id": "a69a8a8e4dfc57a2",
+      "title": "Bigg Boss 20: Uditi Singh’s ex Karan Wahi REACTS to wildcard entry rumours in Salman Khan's show; says 'Ek to",
+      "summary": "Karan Wahi has once again addressed the ongoing chatter about his possible appearance on Bigg Boss 20 as a wildcard contestant, with his latest clarification adding to the discussion.",
+      "category": "Entertainment",
+      "image": "https://static.india.com/wp-content/uploads/2026/09/Dhurandhar-2-Review-2026-09-27T123926.714.png",
+      "source": "India.com",
+      "sourceUrl": "https://www.india.com/entertainment/tv/bigg-boss-20-uditi-singhs-ex-karan-wahi-reacts-to-wildcard-entry-rumours-in-salman-khans-show-says-ek-to-tum-logon-ko-bhi-chill-nahi-hai-na-8530433/",
+      "publishedAt": "2026-09-27T07:36:06.000Z",
+      "fetchedAt": "2026-09-27T11:54:09.087Z",
+      "title_hi": "बिग बॉस 20: उदिति सिंह के पूर्व करण वाही ने सलमान खान के शो में वाइल्डकार्ड एंट्री की अफवाहों पर प्रतिक्रिया दी; कहते हैं 'एक तो",
+      "summary_hi": "करण वाही ने एक बार फिर बिग बॉस 20 में वाइल्डकार्ड प्रतियोगी के रूप में अपनी संभावित उपस्थिति के बारे में चल रही चर्चा को संबोधित किया है, उनके नवीनतम स्पष्टीकरण ने चर्चा को और बढ़ा दिया है।",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "biga bosa 20: uditi sinha ke purva karana vahi ne salamana khana ke sho men vaildakarda entri ki aphavahon para pratikriya di; kahate hain 'eka to",
+      "summary_hinglish": "karana vahi ne eka bara phira biga bosa 20 men vaildakarda pratiyogi ke rupa men apani sanbhavita upasthiti ke bare men chala rahi charcha ko sanbodhita kiya hai, unake navinatama spashtikarana ne charcha ko aura badhaा diya hai।",
+      "category_hinglish": "Entertainment"
     },
     {
       "id": "6059c58afb0c5608",
@@ -646,23 +714,6 @@
       "category_hi": "टेक्नोलॉजी",
       "title_hinglish": "rajanatha sinha ne pakistana ko chetavani di, modi ne sarjikala straika ko yada kiy: bharata apani raksha rananiti ko kaise naya rupa de raha hai",
       "summary_hinglish": "aatankavada ke khilapha sainya karravaee ki chetavani se lekara svadeshi raksha praudyogiki para jora dene tak, bharata ka netritva pratirodh, taiyari aura rananitika svayattata ke aasapasa nirmita suraksha siddhanta ki ruparekha taiyara karata hai।",
-      "category_hinglish": "Technology"
-    },
-    {
-      "id": "adca9d8b1b55d7e7",
-      "title": "AI integration, digital platforms steer growth across India's expanding tourism landscape",
-      "summary": "New Delhi, Sept. 27 -- Artificial intelligence and digital platforms are increasingly steering the Indian tourism sector, driving more personalised and seamless travel experiences alongside record domestic and international visitor traffic.On World Tourism Day, government data shows the tourism sec…",
-      "category": "Technology",
-      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-      "source": "TradingView",
-      "sourceUrl": "https://www.tradingview.com/news/moodys:651a9210f78a9:0-ai-integration-digital-platforms-steer-growth-across-india-s-expanding-tourism-landscape/",
-      "publishedAt": "2026-09-27T07:21:38.000Z",
-      "fetchedAt": "2026-09-27T07:46:25.749Z",
-      "title_hi": "एआई एकीकरण, डिजिटल प्लेटफॉर्म भारत के बढ़ते पर्यटन परिदृश्य में विकास को गति दे रहे हैं",
-      "summary_hi": "नई दिल्ली, 27 सितंबर - आर्टिफिशियल इंटेलिजेंस और डिजिटल प्लेटफॉर्म भारतीय पर्यटन क्षेत्र को तेजी से आगे बढ़ा रहे हैं, जिससे रिकॉर्ड घरेलू और अंतरराष्ट्रीय पर्यटक यातायात के साथ-साथ अधिक वैयक्तिकृत और निर्बाध यात्रा अनुभव प्राप्त हो रहे हैं। विश्व पर्यटन दिवस पर, सरकारी डेटा पर्यटन क्षेत्र को दर्शाता है…",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "eaaee ekikaran, dijitala pletaphorma bharata ke badhate paryatana paridrishya men vikasa ko gati de rahe hain",
-      "summary_hinglish": "naee dilli, 27 sitanbara - aartiphishiyala intelijensa aura dijitala pletaphorma bharatiya paryatana kshetra ko teji se aage badhaा rahe hain, jisase rikorda gharelu aura antararashtriya paryataka yatayata ke satha-satha adhika vaiyaktikrita aura nirbadha yatra anubhava prapta ho rahe hain। vishva paryatana divasa par, sarakari deta paryatana kshetra ko darshata hai…",
       "category_hinglish": "Technology"
     },
     {
@@ -683,6 +734,23 @@
       "category_hinglish": "Entertainment"
     },
     {
+      "id": "adca9d8b1b55d7e7",
+      "title": "AI integration, digital platforms steer growth across India's expanding tourism landscape",
+      "summary": "New Delhi, Sept. 27 -- Artificial intelligence and digital platforms are increasingly steering the Indian tourism sector, driving more personalised and seamless travel experiences alongside record domestic and international visitor traffic.On World Tourism Day, government data shows the tourism sec…",
+      "category": "Technology",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "source": "TradingView",
+      "sourceUrl": "https://www.tradingview.com/news/moodys:651a9210f78a9:0-ai-integration-digital-platforms-steer-growth-across-india-s-expanding-tourism-landscape/",
+      "publishedAt": "2026-09-27T07:21:38.000Z",
+      "fetchedAt": "2026-09-27T07:46:25.749Z",
+      "title_hi": "एआई एकीकरण, डिजिटल प्लेटफॉर्म भारत के बढ़ते पर्यटन परिदृश्य में विकास को गति दे रहे हैं",
+      "summary_hi": "नई दिल्ली, 27 सितंबर - आर्टिफिशियल इंटेलिजेंस और डिजिटल प्लेटफॉर्म भारतीय पर्यटन क्षेत्र को तेजी से आगे बढ़ा रहे हैं, जिससे रिकॉर्ड घरेलू और अंतरराष्ट्रीय पर्यटक यातायात के साथ-साथ अधिक वैयक्तिकृत और निर्बाध यात्रा अनुभव प्राप्त हो रहे हैं। विश्व पर्यटन दिवस पर, सरकारी डेटा पर्यटन क्षेत्र को दर्शाता है…",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "eaaee ekikaran, dijitala pletaphorma bharata ke badhate paryatana paridrishya men vikasa ko gati de rahe hain",
+      "summary_hinglish": "naee dilli, 27 sitanbara - aartiphishiyala intelijensa aura dijitala pletaphorma bharatiya paryatana kshetra ko teji se aage badhaा rahe hain, jisase rikorda gharelu aura antararashtriya paryataka yatayata ke satha-satha adhika vaiyaktikrita aura nirbadha yatra anubhava prapta ho rahe hain। vishva paryatana divasa par, sarakari deta paryatana kshetra ko darshata hai…",
+      "category_hinglish": "Technology"
+    },
+    {
       "id": "fe587610054d1a21",
       "title": "Consumers brace for three-day bank strike; certain banks open Sunday",
       "summary": "New Delhi: State Bank of India (SBI), Bank of Baroda (BoB), Punjab National Bank (PNB) and several other public sector banks are open Sunday (September 27), giving customers an opportunity to complete their banking work before a proposed three-day nationwide bank strike from September 28 to September 30. The special…",
@@ -700,23 +768,6 @@
       "category_hinglish": "National aur Trending News"
     },
     {
-      "id": "b3e2fe2d66ee59d0",
-      "title": "\"If you want peace, prepare for war\": Rajnath Singh says India's \"preparation in defence is complete and strong\"",
-      "summary": "\"There are two sayings in English. The first is, if you want peace, prepare for war. That is, for war not to happen, it is necessary that preparations for war are complete. And the second saying is that the more you sweat in peace, the less you bleed in war,\"…",
-      "category": "Technology",
-      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260927071449-thumbnail-320x180-70.jpg",
-      "source": "aninews.in",
-      "sourceUrl": "https://www.aninews.in/news/national/politics/if-you-want-peace-prepare-for-war-rajnath-singh-says-indias-preparation-in-defence-is-complete-and-strong20260927124526/",
-      "publishedAt": "2026-09-27T07:15:00.000Z",
-      "fetchedAt": "2026-09-27T07:31:44.234Z",
-      "title_hi": "'शांति चाहते हैं तो युद्ध के लिए तैयार रहें': राजनाथ सिंह बोले, भारत की 'रक्षा में तैयारी पूरी और मजबूत'",
-      "summary_hi": "\"अंग्रेजी में दो कहावतें हैं। पहली है, अगर आप शांति चाहते हैं, तो युद्ध के लिए तैयार हो जाओ। यानी युद्ध न हो, इसके लिए जरूरी है कि युद्ध की तैयारी पूरी हो। और दूसरी कहावत है कि जितना अधिक आप शांति में पसीना बहाएंगे, युद्ध में उतना ही कम खून बहेगा।\"",
-      "category_hi": "टेक्नोलॉजी",
-      "category_hinglish": "Technology",
-      "title_hinglish": "'shanti chahate hain to yuddha ke lie taiyara rahen': rajanatha sinha bole, bharata ki 'raksha men taiyari puri aura majabuta'",
-      "summary_hinglish": "\"angreji men do kahavaten hain। pahali hai, agara aapa shanti chahate hain, to yuddha ke lie taiyara ho jao। yani yuddha na ho, isake lie jaruri hai ki yuddha ki taiyari puri ho। aura dusari kahavata hai ki jitana adhika aapa shanti men pasina bahaenge, yuddha men utana hi kama khuna bahega।\""
-    },
-    {
       "id": "11df1a63ca080ea9",
       "title": "'I give 30% of my income to Bengaluru': Techie's request to Bihar CM goes viral, sparks debate online",
       "summary": "Rahul Kumar Yadav, an IT professional working in a hybrid role, urged Bihar Chief Minister Samrat Choudhary to build a strong IT ecosystem in the state, saying thousands of professionals are forced to spend a significant portion of their income outside Bihar for work.",
@@ -732,6 +783,23 @@
       "title_hinglish": "'main apani aaya ka 30% bengaluru ko deta hun': bihara ke mukhyamantri se takaniki visheshajnya ka anurodha vayaral, ऑnalaina bahasa chhida gaee",
       "summary_hinglish": "haibrida bhumika men kama karane vale eka aaeeti peshevara rahula kumara yadava ne bihara ke mukhyamantri samrata chaudhari se rajya men eka majabuta aaeeti paristhitiki tantra banane ka aagraha kiy, unhonne kaha ki hajaron peshevara kama ke lie apani aaya ka eka mahatvapurna hissa bihara ke bahara kharcha karane ke lie majabura hain।",
       "category_hinglish": "Business aur Finance"
+    },
+    {
+      "id": "b3e2fe2d66ee59d0",
+      "title": "\"If you want peace, prepare for war\": Rajnath Singh says India's \"preparation in defence is complete and strong\"",
+      "summary": "\"There are two sayings in English. The first is, if you want peace, prepare for war. That is, for war not to happen, it is necessary that preparations for war are complete. And the second saying is that the more you sweat in peace, the less you bleed in war,\"…",
+      "category": "Technology",
+      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260927071449-thumbnail-320x180-70.jpg",
+      "source": "aninews.in",
+      "sourceUrl": "https://www.aninews.in/news/national/politics/if-you-want-peace-prepare-for-war-rajnath-singh-says-indias-preparation-in-defence-is-complete-and-strong20260927124526/",
+      "publishedAt": "2026-09-27T07:15:00.000Z",
+      "fetchedAt": "2026-09-27T07:31:44.234Z",
+      "title_hi": "'शांति चाहते हैं तो युद्ध के लिए तैयार रहें': राजनाथ सिंह बोले, भारत की 'रक्षा में तैयारी पूरी और मजबूत'",
+      "summary_hi": "\"अंग्रेजी में दो कहावतें हैं। पहली है, अगर आप शांति चाहते हैं, तो युद्ध के लिए तैयार हो जाओ। यानी युद्ध न हो, इसके लिए जरूरी है कि युद्ध की तैयारी पूरी हो। और दूसरी कहावत है कि जितना अधिक आप शांति में पसीना बहाएंगे, युद्ध में उतना ही कम खून बहेगा।\"",
+      "category_hi": "टेक्नोलॉजी",
+      "category_hinglish": "Technology",
+      "title_hinglish": "'shanti chahate hain to yuddha ke lie taiyara rahen': rajanatha sinha bole, bharata ki 'raksha men taiyari puri aura majabuta'",
+      "summary_hinglish": "\"angreji men do kahavaten hain। pahali hai, agara aapa shanti chahate hain, to yuddha ke lie taiyara ho jao। yani yuddha na ho, isake lie jaruri hai ki yuddha ki taiyari puri ho। aura dusari kahavata hai ki jitana adhika aapa shanti men pasina bahaenge, yuddha men utana hi kama khuna bahega।\""
     },
     {
       "id": "90c5a6da01213ced",
@@ -819,23 +887,6 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "a5c7a64b2ac95594",
-      "title": "Gen Z, politics and need for change take centre stage at AT Dialogue ’26",
-      "summary": "Referring to the participation of young people in protests at Jantar Mantar, Anish Gawande said the ability of Gen Z to mobilise and raise issues was evident.",
-      "category": "Politics & Government",
-      "image": "https://assamtribune.com/h-upload/2026/09/27/1799646-at-dialogue-gen-z-panel.jpg",
-      "source": "The Assam Tribune",
-      "sourceUrl": "https://assamtribune.com/assam/gen-z-politics-and-need-for-change-take-centre-stage-at-at-dialogue-26-1618597",
-      "publishedAt": "2026-09-27T06:53:54.000Z",
-      "fetchedAt": "2026-09-27T08:15:04.555Z",
-      "title_hi": "जेन जेड, राजनीति और बदलाव की जरूरत एटी डायलॉग '26 में केंद्र स्तर पर है",
-      "summary_hi": "जंतर-मंतर पर विरोध प्रदर्शन में युवाओं की भागीदारी का जिक्र करते हुए अनीश गावंडे ने कहा कि जेन जेड की एकजुट होने और मुद्दों को उठाने की क्षमता स्पष्ट है।",
-      "category_hi": "राजनीति और सरकार",
-      "title_hinglish": "jena jed, rajaniti aura badalava ki jarurata eti dayaloga '26 men kendra stara para hai",
-      "summary_hinglish": "jantara-mantara para virodha pradarshana men yuvaon ki bhagidari ka jikra karate hue anisha gavande ne kaha ki jena jeda ki ekajuta hone aura muddon ko uthane ki kshamata spashta hai।",
-      "category_hinglish": "Politics aur Government"
-    },
-    {
       "id": "fe630ec3977f4980",
       "title": "Bihar sees third harassment case in a week, woman assaulted at tourist spot | India News",
       "summary": "The video shows several youths mostly behaving indecently with the woman and assaulting her with a slipper. | India News",
@@ -850,6 +901,23 @@
       "category_hi": "राजनीति और सरकार",
       "title_hinglish": "bihara men eka haphte men utpidana ka tisara mamal, paryatana sthala para mahila se marapita | bharata samachara",
       "summary_hinglish": "vidiyo men dikhaya gaya hai ki kaee yuvaka mahila ke satha abhadra vyavahara kara rahe hain aura usa para chappala se hamala kara rahe hain। | bharata samachara",
+      "category_hinglish": "Politics aur Government"
+    },
+    {
+      "id": "a5c7a64b2ac95594",
+      "title": "Gen Z, politics and need for change take centre stage at AT Dialogue ’26",
+      "summary": "Referring to the participation of young people in protests at Jantar Mantar, Anish Gawande said the ability of Gen Z to mobilise and raise issues was evident.",
+      "category": "Politics & Government",
+      "image": "https://assamtribune.com/h-upload/2026/09/27/1799646-at-dialogue-gen-z-panel.jpg",
+      "source": "The Assam Tribune",
+      "sourceUrl": "https://assamtribune.com/assam/gen-z-politics-and-need-for-change-take-centre-stage-at-at-dialogue-26-1618597",
+      "publishedAt": "2026-09-27T06:53:54.000Z",
+      "fetchedAt": "2026-09-27T08:15:04.555Z",
+      "title_hi": "जेन जेड, राजनीति और बदलाव की जरूरत एटी डायलॉग '26 में केंद्र स्तर पर है",
+      "summary_hi": "जंतर-मंतर पर विरोध प्रदर्शन में युवाओं की भागीदारी का जिक्र करते हुए अनीश गावंडे ने कहा कि जेन जेड की एकजुट होने और मुद्दों को उठाने की क्षमता स्पष्ट है।",
+      "category_hi": "राजनीति और सरकार",
+      "title_hinglish": "jena jed, rajaniti aura badalava ki jarurata eti dayaloga '26 men kendra stara para hai",
+      "summary_hinglish": "jantara-mantara para virodha pradarshana men yuvaon ki bhagidari ka jikra karate hue anisha gavande ne kaha ki jena jeda ki ekajuta hone aura muddon ko uthane ki kshamata spashta hai।",
       "category_hinglish": "Politics aur Government"
     },
     {
@@ -870,23 +938,6 @@
       "category_hinglish": "Sports"
     },
     {
-      "id": "4db3453a5ecbada9",
-      "title": "When a district in Florida used robot rabbits to eliminate growing population of Burmese pythons and prot",
-      "summary": "solar-powered robot rabbits. In 2025, the South Florida Water Management District and the University of Florida teamed up to deploy robotic rabbit decoys designed to mimic real prey and lure pythons out of hiding using artificial intelligence (AI), heat signatures and scent simulation.",
-      "category": "Technology",
-      "image": "https://static.toiimg.com/thumb/msid-134385541,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/when-a-district-in-florida-used-robot-rabbits-to-eliminate-growing-population-of-burmese-pythons-and-protect-everglades/articleshow/134385404.cms",
-      "publishedAt": "2026-09-27T06:48:00.000Z",
-      "fetchedAt": "2026-09-27T09:46:42.721Z",
-      "title_hi": "जब फ्लोरिडा के एक जिले ने बर्मी अजगरों और प्रोटे की बढ़ती आबादी को खत्म करने के लिए रोबोट खरगोशों का इस्तेमाल किया",
-      "summary_hi": "सौर ऊर्जा से चलने वाले रोबोट खरगोश। 2025 में, दक्षिण फ्लोरिडा जल प्रबंधन जिला और फ्लोरिडा विश्वविद्यालय ने कृत्रिम बुद्धि (एआई), गर्मी हस्ताक्षर और गंध सिमुलेशन का उपयोग करके वास्तविक शिकार की नकल करने और छिपने वाले अजगरों को लुभाने के लिए डिज़ाइन किए गए रोबोटिक खरगोश डिकॉय को तैनात करने के लिए टीम बनाई।",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "jaba phlorida ke eka jile ne barmi ajagaron aura prote ki badhati aabadi ko khatma karane ke lie robota kharagoshon ka istemala kiya",
-      "summary_hinglish": "saura oorja se chalane vale robota kharagosha। 2025 men, dakshina phlorida jala prabandhana jila aura phlorida vishvavidyalaya ne kritrima buddhi (eaaee), garmi hastakshara aura gandha simuleshana ka upayoga karake vastavika shikara ki nakala karane aura chhipane vale ajagaron ko lubhane ke lie dijaाina kie gae robotika kharagosha dikoya ko tainata karane ke lie tima banaee।",
-      "category_hinglish": "Technology"
-    },
-    {
       "id": "634ecb4091ac43ed",
       "title": "Bihar Police raid Khanna house in Rs 35 lakh Bitcoin fraud case, accused duo missing",
       "summary": "A team from Bihar Police conducted a raid at a house on Amloh Road in Khanna early Thursday in connection with an alleged Rs 35 lakh Bitcoin investment fraud case.",
@@ -902,6 +953,23 @@
       "title_hinglish": "35 lakha rupaye ke bitakoina dhokhadhadaी mamale men bihara pulisa ne khanna hausa para chhapa mar, aaropi yugala gayaba",
       "summary_hinglish": "bihara pulisa ki eka tima ne kathita 35 lakha rupaye ke bitakoina nivesha dhokhadhadaी mamale men guruvara tadake khanna ke amaloha roda sthita eka ghara para chhapemari ki।",
       "category_hinglish": "Crime aur Breaking News"
+    },
+    {
+      "id": "4db3453a5ecbada9",
+      "title": "When a district in Florida used robot rabbits to eliminate growing population of Burmese pythons and prot",
+      "summary": "solar-powered robot rabbits. In 2025, the South Florida Water Management District and the University of Florida teamed up to deploy robotic rabbit decoys designed to mimic real prey and lure pythons out of hiding using artificial intelligence (AI), heat signatures and scent simulation.",
+      "category": "Technology",
+      "image": "https://static.toiimg.com/thumb/msid-134385541,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/when-a-district-in-florida-used-robot-rabbits-to-eliminate-growing-population-of-burmese-pythons-and-protect-everglades/articleshow/134385404.cms",
+      "publishedAt": "2026-09-27T06:48:00.000Z",
+      "fetchedAt": "2026-09-27T09:46:42.721Z",
+      "title_hi": "जब फ्लोरिडा के एक जिले ने बर्मी अजगरों और प्रोटे की बढ़ती आबादी को खत्म करने के लिए रोबोट खरगोशों का इस्तेमाल किया",
+      "summary_hi": "सौर ऊर्जा से चलने वाले रोबोट खरगोश। 2025 में, दक्षिण फ्लोरिडा जल प्रबंधन जिला और फ्लोरिडा विश्वविद्यालय ने कृत्रिम बुद्धि (एआई), गर्मी हस्ताक्षर और गंध सिमुलेशन का उपयोग करके वास्तविक शिकार की नकल करने और छिपने वाले अजगरों को लुभाने के लिए डिज़ाइन किए गए रोबोटिक खरगोश डिकॉय को तैनात करने के लिए टीम बनाई।",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "jaba phlorida ke eka jile ne barmi ajagaron aura prote ki badhati aabadi ko khatma karane ke lie robota kharagoshon ka istemala kiya",
+      "summary_hinglish": "saura oorja se chalane vale robota kharagosha। 2025 men, dakshina phlorida jala prabandhana jila aura phlorida vishvavidyalaya ne kritrima buddhi (eaaee), garmi hastakshara aura gandha simuleshana ka upayoga karake vastavika shikara ki nakala karane aura chhipane vale ajagaron ko lubhane ke lie dijaाina kie gae robotika kharagosha dikoya ko tainata karane ke lie tima banaee।",
+      "category_hinglish": "Technology"
     },
     {
       "id": "2ca0b310df8492ff",
@@ -989,23 +1057,6 @@
       "category_hinglish": "Entertainment"
     },
     {
-      "id": "40255178710670de",
-      "title": "Indian Navy Opens Sports Quota Sailor Entry 02/2026 for National-Level Athletes",
-      "summary": "New Delhi: The Indian Navy has invited applications from outstanding unmarried male and female sportspersons for enrolment as sailors under Sports Quota Entry",
-      "category": "Sports",
-      "image": "https://media.ssbcrack.com/2026/09/indian-navy-sports-quota.webp",
-      "source": "SSBCrack",
-      "sourceUrl": "https://www.ssbcrack.com/2026/09/indian-navy-opens-sports-quota-sailor-entry-02-2026-for-national-level-athletes.html",
-      "publishedAt": "2026-09-27T06:25:34.000Z",
-      "fetchedAt": "2026-09-27T06:41:32.107Z",
-      "title_hi": "भारतीय नौसेना ने राष्ट्रीय स्तर के एथलीटों के लिए खेल कोटा नाविक प्रवेश 02/2026 शुरू किया",
-      "summary_hi": "नई दिल्ली: भारतीय नौसेना ने स्पोर्ट्स कोटा एंट्री के तहत नाविकों के रूप में नामांकन के लिए उत्कृष्ट अविवाहित पुरुष और महिला खिलाड़ियों से आवेदन आमंत्रित किए हैं।",
-      "category_hi": "खेल",
-      "title_hinglish": "bharatiya nausena ne rashtriya stara ke ethaliton ke lie khela kota navika pravesha 02/2026 shuru kiya",
-      "summary_hinglish": "naee dilli: bharatiya nausena ne sportsa kota entri ke tahata navikon ke rupa men namankana ke lie utkrishta avivahita purusha aura mahila khiladaिyon se aavedana aamantrita kie hain।",
-      "category_hinglish": "Sports"
-    },
-    {
       "id": "ea636450a7e004bc",
       "title": "Ashok defends govt, Shambhavi seeks review of women’s safety laws",
       "summary": "Amid mounting concern over a series of crimes in Bihar, food and consumer protection minister Ashok Choudhary on Thursday said criminal incidents were not specific to the state and also occurred in developed countries such as the US and Japan. His daughter and LJP(RV) MP Shambhavi Choudhary, meanwhile, called for…",
@@ -1021,6 +1072,23 @@
       "title_hinglish": "ashoka ne sarakara ka bachava kiy, shanbhavi ne mahila suraksha kanunon ki samiksha ki manga ki",
       "summary_hinglish": "bihara men aparadhon ki shrrinkhala para badhati chinta ke bich, khadya aura upabhokta sanrakshana mantri ashoka chaudhari ne guruvara ko kaha ki aaparadhika ghatanaen kevala rajya taka hi simita nahin thin, balki amerika aura japana jaise vikasita deshon men bhi huee thin। isa bich, unaki beti aura elajepi (aaravi) sansada shanbhavi chaudhari ne kah...",
       "category_hinglish": "Crime aur Breaking News"
+    },
+    {
+      "id": "40255178710670de",
+      "title": "Indian Navy Opens Sports Quota Sailor Entry 02/2026 for National-Level Athletes",
+      "summary": "New Delhi: The Indian Navy has invited applications from outstanding unmarried male and female sportspersons for enrolment as sailors under Sports Quota Entry",
+      "category": "Sports",
+      "image": "https://media.ssbcrack.com/2026/09/indian-navy-sports-quota.webp",
+      "source": "SSBCrack",
+      "sourceUrl": "https://www.ssbcrack.com/2026/09/indian-navy-opens-sports-quota-sailor-entry-02-2026-for-national-level-athletes.html",
+      "publishedAt": "2026-09-27T06:25:34.000Z",
+      "fetchedAt": "2026-09-27T06:41:32.107Z",
+      "title_hi": "भारतीय नौसेना ने राष्ट्रीय स्तर के एथलीटों के लिए खेल कोटा नाविक प्रवेश 02/2026 शुरू किया",
+      "summary_hi": "नई दिल्ली: भारतीय नौसेना ने स्पोर्ट्स कोटा एंट्री के तहत नाविकों के रूप में नामांकन के लिए उत्कृष्ट अविवाहित पुरुष और महिला खिलाड़ियों से आवेदन आमंत्रित किए हैं।",
+      "category_hi": "खेल",
+      "title_hinglish": "bharatiya nausena ne rashtriya stara ke ethaliton ke lie khela kota navika pravesha 02/2026 shuru kiya",
+      "summary_hinglish": "naee dilli: bharatiya nausena ne sportsa kota entri ke tahata navikon ke rupa men namankana ke lie utkrishta avivahita purusha aura mahila khiladaिyon se aavedana aamantrita kie hain।",
+      "category_hinglish": "Sports"
     },
     {
       "id": "990e6d73510641be",
@@ -1040,23 +1108,6 @@
       "category_hinglish": "National aur Trending News"
     },
     {
-      "id": "5f05ccc564219f69",
-      "title": "India at the Centre of Suzuki’s Next 10-Year Strategy: Hybrids, CBG and 4 Million-Unit Capacity in Focus",
-      "summary": "Suzuki Motor Corporation has laid out its technology roadmap for the coming decade, and India occupies a central position in the Japanese automaker’s plans. Under its newly announced “Technology Strategy 2026 for 10 Years Ahead,” Suzuki intends to strengthen India as a major manufacturing and export hub while pursuing a…",
-      "category": "Technology",
-      "image": "https://static.wixstatic.com/media/1da610_0d0b82a46f874485977f29b0fd18b397~mv2.png/v1/fill/w_800,h_1000,al_c,q_90,usm_0.66_1.00_0.01/1da610_0d0b82a46f874485977f29b0fd18b397~mv2.png",
-      "source": "Autopunditz",
-      "sourceUrl": "https://www.autopunditz.com/post/suzuki-india-10-year-strategy-hybrid-cbg-4-million-production",
-      "publishedAt": "2026-09-27T06:17:50.000Z",
-      "fetchedAt": "2026-09-27T06:22:19.516Z",
-      "title_hi": "सुजुकी की अगली 10-वर्षीय रणनीति के केंद्र में भारत: हाइब्रिड, सीबीजी और 4 मिलियन-यूनिट क्षमता फोकस में",
-      "summary_hi": "सुजुकी मोटर कॉर्पोरेशन ने आने वाले दशक के लिए अपना प्रौद्योगिकी रोडमैप तैयार किया है, और भारत जापानी वाहन निर्माता की योजनाओं में एक केंद्रीय स्थान रखता है। अपनी नई घोषित \"आगे 10 वर्षों के लिए प्रौद्योगिकी रणनीति 2026\" के तहत, सुजुकी का इरादा भारत को एक प्रमुख विनिर्माण और निर्यात केंद्र के रूप में मजबूत करने का है...",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "sujuki ki agali 10-varshiya rananiti ke kendra men bharat: haibrid, sibiji aura 4 miliyana-yunita kshamata phokasa men",
-      "summary_hinglish": "sujuki motara korporeshana ne aane vale dashaka ke lie apana praudyogiki rodamaipa taiyara kiya hai, aura bharata japani vahana nirmata ki yojanaon men eka kendriya sthana rakhata hai। apani naee ghoshita \"aage 10 varshon ke lie praudyogiki rananiti 2026\" ke tahat, sujuki ka irada bharata ko eka pramukha vinirmana aura niryata kendra ke rupa men majabuta karane ka hai...",
-      "category_hinglish": "Technology"
-    },
-    {
       "id": "da401641f60b2e9a",
       "title": "HT Evening News Brief Sept 24: 9 dead in Greater Noida fire tragedy, another teen harassed in Bihar | India News",
       "summary": "Here’s your evening news brief with the day’s top stories from politics, world affairs, sports, and entertainment.",
@@ -1072,6 +1123,23 @@
       "title_hinglish": "echati ivaninga nyuja bripha 24 sitanbar: gretara noeda men aaga lagane se 9 logon ki maut, bihara men eka aura kishora ko pareshana kiya gaya | bharata samachara",
       "summary_hinglish": "rajaniti, vishva mamalon, khela aura manoranjana se dina ki shirsha kahaniyon ke satha yahan aapaki shama ki khabaren sankshipta hain।",
       "category_hinglish": "Politics aur Government"
+    },
+    {
+      "id": "5f05ccc564219f69",
+      "title": "India at the Centre of Suzuki’s Next 10-Year Strategy: Hybrids, CBG and 4 Million-Unit Capacity in Focus",
+      "summary": "Suzuki Motor Corporation has laid out its technology roadmap for the coming decade, and India occupies a central position in the Japanese automaker’s plans. Under its newly announced “Technology Strategy 2026 for 10 Years Ahead,” Suzuki intends to strengthen India as a major manufacturing and export hub while pursuing a…",
+      "category": "Technology",
+      "image": "https://static.wixstatic.com/media/1da610_0d0b82a46f874485977f29b0fd18b397~mv2.png/v1/fill/w_800,h_1000,al_c,q_90,usm_0.66_1.00_0.01/1da610_0d0b82a46f874485977f29b0fd18b397~mv2.png",
+      "source": "Autopunditz",
+      "sourceUrl": "https://www.autopunditz.com/post/suzuki-india-10-year-strategy-hybrid-cbg-4-million-production",
+      "publishedAt": "2026-09-27T06:17:50.000Z",
+      "fetchedAt": "2026-09-27T06:22:19.516Z",
+      "title_hi": "सुजुकी की अगली 10-वर्षीय रणनीति के केंद्र में भारत: हाइब्रिड, सीबीजी और 4 मिलियन-यूनिट क्षमता फोकस में",
+      "summary_hi": "सुजुकी मोटर कॉर्पोरेशन ने आने वाले दशक के लिए अपना प्रौद्योगिकी रोडमैप तैयार किया है, और भारत जापानी वाहन निर्माता की योजनाओं में एक केंद्रीय स्थान रखता है। अपनी नई घोषित \"आगे 10 वर्षों के लिए प्रौद्योगिकी रणनीति 2026\" के तहत, सुजुकी का इरादा भारत को एक प्रमुख विनिर्माण और निर्यात केंद्र के रूप में मजबूत करने का है...",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "sujuki ki agali 10-varshiya rananiti ke kendra men bharat: haibrid, sibiji aura 4 miliyana-yunita kshamata phokasa men",
+      "summary_hinglish": "sujuki motara korporeshana ne aane vale dashaka ke lie apana praudyogiki rodamaipa taiyara kiya hai, aura bharata japani vahana nirmata ki yojanaon men eka kendriya sthana rakhata hai। apani naee ghoshita \"aage 10 varshon ke lie praudyogiki rananiti 2026\" ke tahat, sujuki ka irada bharata ko eka pramukha vinirmana aura niryata kendra ke rupa men majabuta karane ka hai...",
+      "category_hinglish": "Technology"
     }
   ]
 }
