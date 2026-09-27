@@ -1,7 +1,24 @@
 {
-  "updatedAt": "2026-09-27T16:12:23.689Z",
-  "count": 60,
+  "updatedAt": "2026-09-27T16:29:49.618Z",
+  "count": 63,
   "articles": [
+    {
+      "id": "4910ac46e9f7d84a",
+      "title": "India’s Best Dancer Season 5 winner: Raipur’s Ritesh Pal takes home trophy with choreographer Pratik...",
+      "summary": "Raipur&rsquo;s Ritesh Pal, alongside choreographer Pratik Utekar, won India&rsquo;s Best Dancer Season 5 after a journey featuring versatile performances, three Battle trophy victories and a competitive Grand Finale.",
+      "category": "Entertainment",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260927160712_rie.jpg",
+      "source": "Moneycontrol.com",
+      "sourceUrl": "https://www.moneycontrol.com/entertainment/india-s-best-dancer-season-5-winner-raipur-s-ritesh-pal-takes-home-trophy-with-choreographer-pratik-utekar-article-14039418.html",
+      "publishedAt": "2026-09-27T16:08:36.000Z",
+      "fetchedAt": "2026-09-27T16:29:11.463Z",
+      "title_hi": "इंडियाज बेस्ट डांसर सीजन 5 के विजेता: रायपुर के रितेश पाल ने कोरियोग्राफर प्रतीक के साथ ट्रॉफी जीती...",
+      "summary_hi": "रायपुर के रितेश पाल ने कोरियोग्राफर प्रतीक उटेकर के साथ, बहुमुखी प्रदर्शन, तीन बैटल ट्रॉफी जीत और एक प्रतिस्पर्धी ग्रैंड फिनाले की यात्रा के बाद भारत का सर्वश्रेष्ठ डांसर सीजन 5 जीता।",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "indiyaja besta dansara sijana 5 ke vijet: rayapura ke ritesha pala ne koriyographara pratika ke satha trophi jiti...",
+      "summary_hinglish": "rayapura ke ritesha pala ne koriyographara pratika utekara ke sath, bahumukhi pradarshan, tina baitala trophi jita aura eka pratispardhi grainda phinale ki yatra ke bada bharata ka sarvashreshtha dansara sijana 5 jita।",
+      "category_hinglish": "Entertainment"
+    },
     {
       "id": "9935417e4e060c86",
       "title": "School assembly news headlines today- September 28: Top national, sports and world news curated for you",
@@ -17,23 +34,6 @@
       "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
       "title_hinglish": "skula asenbali samachara ki surkhiyan aaja - 28 sitanbar: shirsha rashtriy, khela aura vishva samachara aapake lie taiyara kie gae hain",
       "summary_hinglish": "aaja ki skula asenbali samachara men shirsha rashtriy, khela aura vishva ghatanaon para prakasha dala gaya hai, jisamen 28 sitanbara ke lie rajaniti, khela upalabdhiyon aura vaishvika surkhiyon se mahatvapurna apadeta shamila hain।",
-      "category_hinglish": "National aur Trending News"
-    },
-    {
-      "id": "857082cd992a2473",
-      "title": "India delivers medical supplies in Afghanistan, reaffirms humanitarian support",
-      "summary": "New Delhi/Kabul: India Sunday delivered another consignment of life-saving medicines and medical consumables in Kabul as part of its ongoing humanitarian assistance to Afghanistan. “India’s humanitarian assistance to the people of Afghanistan continues. Another consignment from India has reached Kabul, including life-saving medicines and medical consumables for government hospital in…",
-      "category": "National & Trending News",
-      "image": "https://www.orissapost.com/wp-content/uploads/2026/09/202609273957243.png",
-      "source": "orissapost.com",
-      "sourceUrl": "https://www.orissapost.com/india-delivers-medical-supplies-in-afghanistan-reaffirms-humanitarian-support/",
-      "publishedAt": "2026-09-27T15:24:49.000Z",
-      "fetchedAt": "2026-09-27T15:28:47.592Z",
-      "title_hi": "भारत अफगानिस्तान में चिकित्सा आपूर्ति पहुंचाता है, मानवीय सहायता की पुष्टि करता है",
-      "summary_hi": "नई दिल्ली/काबुल: भारत ने अफगानिस्तान को जारी मानवीय सहायता के तहत रविवार को काबुल में जीवन रक्षक दवाओं और चिकित्सा उपभोग्य सामग्रियों की एक और खेप पहुंचाई। \"अफगानिस्तान के लोगों के लिए भारत की मानवीय सहायता जारी है। भारत से एक और खेप काबुल पहुंच गई है, जिसमें सरकारी अस्पताल के लिए जीवन रक्षक दवाएं और चिकित्सा उपभोग्य वस्तुएं शामिल हैं...",
-      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
-      "title_hinglish": "bharata aphaganistana men chikitsa aapurti pahunchata hai, manaviya sahayata ki pushti karata hai",
-      "summary_hinglish": "naee dilli/kabul: bharata ne aphaganistana ko jari manaviya sahayata ke tahata ravivara ko kabula men jivana rakshaka davaon aura chikitsa upabhogya samagriyon ki eka aura khepa pahunchaee। \"aphaganistana ke logon ke lie bharata ki manaviya sahayata jari hai। bharata se eka aura khepa kabula pahuncha gaee hai, jisamen sarakari aspatala ke lie jivana rakshaka davaen aura chikitsa upabhogya vastuen shamila hain...",
       "category_hinglish": "National aur Trending News"
     },
     {
@@ -54,6 +54,23 @@
       "category_hinglish": "Crime aur Breaking News"
     },
     {
+      "id": "857082cd992a2473",
+      "title": "India delivers medical supplies in Afghanistan, reaffirms humanitarian support",
+      "summary": "New Delhi/Kabul: India Sunday delivered another consignment of life-saving medicines and medical consumables in Kabul as part of its ongoing humanitarian assistance to Afghanistan. “India’s humanitarian assistance to the people of Afghanistan continues. Another consignment from India has reached Kabul, including life-saving medicines and medical consumables for government hospital in…",
+      "category": "National & Trending News",
+      "image": "https://www.orissapost.com/wp-content/uploads/2026/09/202609273957243.png",
+      "source": "orissapost.com",
+      "sourceUrl": "https://www.orissapost.com/india-delivers-medical-supplies-in-afghanistan-reaffirms-humanitarian-support/",
+      "publishedAt": "2026-09-27T15:24:49.000Z",
+      "fetchedAt": "2026-09-27T15:28:47.592Z",
+      "title_hi": "भारत अफगानिस्तान में चिकित्सा आपूर्ति पहुंचाता है, मानवीय सहायता की पुष्टि करता है",
+      "summary_hi": "नई दिल्ली/काबुल: भारत ने अफगानिस्तान को जारी मानवीय सहायता के तहत रविवार को काबुल में जीवन रक्षक दवाओं और चिकित्सा उपभोग्य सामग्रियों की एक और खेप पहुंचाई। \"अफगानिस्तान के लोगों के लिए भारत की मानवीय सहायता जारी है। भारत से एक और खेप काबुल पहुंच गई है, जिसमें सरकारी अस्पताल के लिए जीवन रक्षक दवाएं और चिकित्सा उपभोग्य वस्तुएं शामिल हैं...",
+      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
+      "title_hinglish": "bharata aphaganistana men chikitsa aapurti pahunchata hai, manaviya sahayata ki pushti karata hai",
+      "summary_hinglish": "naee dilli/kabul: bharata ne aphaganistana ko jari manaviya sahayata ke tahata ravivara ko kabula men jivana rakshaka davaon aura chikitsa upabhogya samagriyon ki eka aura khepa pahunchaee। \"aphaganistana ke logon ke lie bharata ki manaviya sahayata jari hai। bharata se eka aura khepa kabula pahuncha gaee hai, jisamen sarakari aspatala ke lie jivana rakshaka davaen aura chikitsa upabhogya vastuen shamila hain...",
+      "category_hinglish": "National aur Trending News"
+    },
+    {
       "id": "f2552976ffbabe94",
       "title": "India at Asian Games 2026, Day 7: Kabaddi’s golden double; Sawan Barwal records marathon silver - as it happened",
       "summary": "India at Asian Games 2026, Day 7: Both kabaddi teams won gold, athletics added three medals, while shooting secured a silver and squash delivered bronze. As it happened.",
@@ -62,13 +79,30 @@
       "source": "olympics.com",
       "sourceUrl": "https://www.olympics.com/en/news/asian-games-2026-live-scores-updates-results-india-september-26",
       "publishedAt": "2026-09-27T15:18:52.000Z",
-      "fetchedAt": "2026-09-27T16:11:59.449Z",
+      "fetchedAt": "2026-09-27T16:29:08.926Z",
       "title_hi": "एशियाई खेल 2026 में भारत, दिन 7: कबड्डी का गोल्डन डबल; सावन बरवाल ने मैराथन में रजत पदक जीता - ऐसा ही हुआ",
       "summary_hi": "एशियाई खेल 2026 में भारत, दिन 7: दोनों कबड्डी टीमों ने स्वर्ण पदक जीता, एथलेटिक्स ने तीन पदक जीते, जबकि निशानेबाजी ने एक रजत और स्क्वैश ने कांस्य पदक हासिल किया। जैसा कि हुआ.",
       "category_hi": "खेल",
       "title_hinglish": "eshiyaee khela 2026 men bharat, dina 7: kabaddi ka goldana dabal; savana baravala ne mairathana men rajata padaka jita - aisa hi huaa",
       "summary_hinglish": "eshiyaee khela 2026 men bharat, dina 7: donon kabaddi timon ne svarna padaka jit, ethaletiksa ne tina padaka jite, jabaki nishanebaji ne eka rajata aura skvaisha ne kansya padaka hasila kiya। jaisa ki hua.",
       "category_hinglish": "Sports"
+    },
+    {
+      "id": "22411800cf75db2b",
+      "title": "Vvaan box office collection Day 2: Sidharth Malhotra’s mythological thriller sees a rise; here’s how much it earned",
+      "summary": "Sidharth Malhotra and Tamannaah Bhatia’s mythological film Vvaan sees a jump on Day 2 of its theatrical run. Take a look at the latest box office figures.",
+      "category": "Entertainment",
+      "image": "https://cdn3.wionews.com/prod/wion/images/2026/20260927/image-1790492370752.png?imwidth=1200&imheight=900",
+      "source": "WION",
+      "sourceUrl": "https://www.wionews.com/entertainment/bollywood/vvaan-box-office-collection-day-2-sidharth-malhotra-s-mythological-thriller-sees-a-rise-here-s-how-much-it-earns-1790492269938",
+      "publishedAt": "2026-09-27T10:24:25.000Z",
+      "fetchedAt": "2026-09-27T16:29:44.989Z",
+      "title_hi": "वावान बॉक्स ऑफिस कलेक्शन दिन 2: सिद्धार्थ मल्होत्रा ​​की पौराणिक थ्रिलर में वृद्धि देखी गई; यहां बताया गया है कि इसने कितनी कमाई की",
+      "summary_hi": "सिद्धार्थ मल्होत्रा और तमन्ना भाटिया की पौराणिक फिल्म 'व्वान' की सिनेमाघरों में रिलीज के दूसरे दिन उछाल देखा गया। नवीनतम बॉक्स ऑफिस आंकड़ों पर एक नज़र डालें।",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "vavana boksa ऑphisa kalekshana dina 2: siddhartha malhotra ​​ki pauranika thrilara men vriddhi dekhi gaee; yahan bataya gaya hai ki isane kitani kamaee ki",
+      "summary_hinglish": "siddhartha malhotra aura tamanna bhatiya ki pauranika philma 'vvana' ki sinemagharon men rilija ke dusare dina uchhala dekha gaya। navinatama boksa ऑphisa aankadaोn para eka najara dalen।",
+      "category_hinglish": "Entertainment"
     },
     {
       "id": "026b25755dd67c93",
@@ -86,23 +120,6 @@
       "title_hinglish": "39ven se 10ven sthana tak, bharata varldaskilsa shirsha liga men shamila ho gaya",
       "summary_hinglish": "pandraha sala pahale, bharata eka vaishvika pratiyogita men 39ven sthana para th, jisamen yaha parikshana kiya gaya tha ki kya yuva vastava men antararashtriya vyavasayika manakon ke anurupa nirman, marammat, dijain, nirmana aura vitarana kara sakate hain। ravivara ko yaha pahali bara shirsha 10 men shamila huaa।",
       "category_hinglish": "Technology"
-    },
-    {
-      "id": "03943fafde680d0a",
-      "title": "Samrat: Bihar, Centre to coordinate on cross-border crimes along Nepal border",
-      "summary": "Bihar govt and Centre will work in close coordination to curb infiltration, counterfeit currency, drug trafficking and other cross-border crimes along the sensitive India-Nepal border, CM Samrat Choudhary said here on Saturday after chairing a comprehensive high-level review meeting at the ‘Samvad’ hall in the Chief Minister’s Secretariat.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134507867,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/patna/samrat-bihar-centre-to-coordinate-on-cross-border-crimes-along-nepal-border/articleshow/134507868.cms",
-      "publishedAt": "2026-09-26T16:54:00.000Z",
-      "fetchedAt": "2026-09-26T17:15:41.433Z",
-      "title_hi": "सम्राट: बिहार, केंद्र नेपाल सीमा पर सीमा पार अपराधों पर समन्वय करें",
-      "summary_hi": "मुख्यमंत्री सम्राट चौधरी ने शनिवार को मुख्यमंत्री सचिवालय के 'संवाद' हॉल में एक व्यापक उच्च स्तरीय समीक्षा बैठक की अध्यक्षता करने के बाद कहा कि संवेदनशील भारत-नेपाल सीमा पर घुसपैठ, जाली मुद्रा, मादक पदार्थों की तस्करी और अन्य सीमा पार अपराधों को रोकने के लिए बिहार सरकार और केंद्र निकट समन्वय में काम करेंगे।",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "samrat: bihar, kendra nepala sima para sima para aparadhon para samanvaya karen",
-      "summary_hinglish": "mukhyamantri samrata chaudhari ne shanivara ko mukhyamantri sachivalaya ke 'sanvada' hola men eka vyapaka uchcha stariya samiksha baithaka ki adhyakshata karane ke bada kaha ki sanvedanashila bharata-nepala sima para ghusapaith, jali mudr, madaka padarthon ki taskari aura anya sima para aparadhon ko rokane ke lie bihara sarakara aura kendra nikata samanvaya men kama karenge।",
-      "category_hinglish": "Crime aur Breaking News"
     },
     {
       "id": "48647d4c799c8743",
@@ -139,6 +156,23 @@
       "category_hinglish": "Sports"
     },
     {
+      "id": "03943fafde680d0a",
+      "title": "Samrat: Bihar, Centre to coordinate on cross-border crimes along Nepal border",
+      "summary": "Bihar govt and Centre will work in close coordination to curb infiltration, counterfeit currency, drug trafficking and other cross-border crimes along the sensitive India-Nepal border, CM Samrat Choudhary said here on Saturday after chairing a comprehensive high-level review meeting at the ‘Samvad’ hall in the Chief Minister’s Secretariat.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134507867,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/patna/samrat-bihar-centre-to-coordinate-on-cross-border-crimes-along-nepal-border/articleshow/134507868.cms",
+      "publishedAt": "2026-09-26T16:54:00.000Z",
+      "fetchedAt": "2026-09-26T17:15:41.433Z",
+      "title_hi": "सम्राट: बिहार, केंद्र नेपाल सीमा पर सीमा पार अपराधों पर समन्वय करें",
+      "summary_hi": "मुख्यमंत्री सम्राट चौधरी ने शनिवार को मुख्यमंत्री सचिवालय के 'संवाद' हॉल में एक व्यापक उच्च स्तरीय समीक्षा बैठक की अध्यक्षता करने के बाद कहा कि संवेदनशील भारत-नेपाल सीमा पर घुसपैठ, जाली मुद्रा, मादक पदार्थों की तस्करी और अन्य सीमा पार अपराधों को रोकने के लिए बिहार सरकार और केंद्र निकट समन्वय में काम करेंगे।",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "samrat: bihar, kendra nepala sima para sima para aparadhon para samanvaya karen",
+      "summary_hinglish": "mukhyamantri samrata chaudhari ne shanivara ko mukhyamantri sachivalaya ke 'sanvada' hola men eka vyapaka uchcha stariya samiksha baithaka ki adhyakshata karane ke bada kaha ki sanvedanashila bharata-nepala sima para ghusapaith, jali mudr, madaka padarthon ki taskari aura anya sima para aparadhon ko rokane ke lie bihara sarakara aura kendra nikata samanvaya men kama karenge।",
+      "category_hinglish": "Crime aur Breaking News"
+    },
+    {
       "id": "e5f0a00df7583aaa",
       "title": "India flags off first LNG train",
       "summary": "Amit Shah says railways underwent major modernisation under Modi; Congress hits back in political remarks",
@@ -156,23 +190,6 @@
       "category_hinglish": "Politics aur Government"
     },
     {
-      "id": "5e8713d098d8808b",
-      "title": "Bihar Prepares For 2030 Women’s Hockey World Cup, Rajgir Set To Host Global Stars",
-      "summary": "Patna: Bihar has stepped up preparations to host the 2030 FIH Women’s Hockey World Cup in Rajgir, with Sports Minister",
-      "category": "Sports",
-      "image": "https://patnapress.com/wp-content/uploads/2026/09/14a6d003-b4b3-4864-8e5a-b9eb3204c175.jpeg",
-      "source": "Patna Press",
-      "sourceUrl": "https://patnapress.com/bihar-prepares-2030-womens-hockey-world-cup-rajgir/",
-      "publishedAt": "2026-09-26T16:29:12.000Z",
-      "fetchedAt": "2026-09-27T02:49:04.969Z",
-      "title_hi": "बिहार 2030 महिला हॉकी विश्व कप की तैयारी कर रहा है, राजगीर वैश्विक सितारों की मेजबानी के लिए तैयार है",
-      "summary_hi": "पटना: खेल मंत्री के साथ बिहार ने राजगीर में 2030 FIH महिला हॉकी विश्व कप की मेजबानी की तैयारी तेज कर दी है.",
-      "category_hi": "खेल",
-      "title_hinglish": "bihara 2030 mahila hoki vishva kapa ki taiyari kara raha hai, rajagira vaishvika sitaron ki mejabani ke lie taiyara hai",
-      "summary_hinglish": "patan: khela mantri ke satha bihara ne rajagira men 2030 FIH mahila hoki vishva kapa ki mejabani ki taiyari teja kara di hai.",
-      "category_hinglish": "Sports"
-    },
-    {
       "id": "21fb7fe7dd8158a5",
       "title": "Asian Games Medal Tally: Why India drop out of top 10 despite winning seven more medals",
       "summary": "India added seven more medals to its Asian Games 2026 tally on Sunday, but the haul was not enough to keep the country inside the top 10 of the medal standings.",
@@ -187,6 +204,23 @@
       "category_hi": "खेल",
       "title_hinglish": "eshiyaee khela padaka talik: sata aura padaka jitane ke bavajuda bharata shirsha 10 se kyon bahara ho gay?",
       "summary_hinglish": "bharata ne ravivara ko eshiyaee khelon 2026 men sata aura padaka jodaे, lekina yaha padaka desha ko padaka talika men shirsha 10 men banae rakhane ke lie paryapta nahin tha।",
+      "category_hinglish": "Sports"
+    },
+    {
+      "id": "5e8713d098d8808b",
+      "title": "Bihar Prepares For 2030 Women’s Hockey World Cup, Rajgir Set To Host Global Stars",
+      "summary": "Patna: Bihar has stepped up preparations to host the 2030 FIH Women’s Hockey World Cup in Rajgir, with Sports Minister",
+      "category": "Sports",
+      "image": "https://patnapress.com/wp-content/uploads/2026/09/14a6d003-b4b3-4864-8e5a-b9eb3204c175.jpeg",
+      "source": "Patna Press",
+      "sourceUrl": "https://patnapress.com/bihar-prepares-2030-womens-hockey-world-cup-rajgir/",
+      "publishedAt": "2026-09-26T16:29:12.000Z",
+      "fetchedAt": "2026-09-27T02:49:04.969Z",
+      "title_hi": "बिहार 2030 महिला हॉकी विश्व कप की तैयारी कर रहा है, राजगीर वैश्विक सितारों की मेजबानी के लिए तैयार है",
+      "summary_hi": "पटना: खेल मंत्री के साथ बिहार ने राजगीर में 2030 FIH महिला हॉकी विश्व कप की मेजबानी की तैयारी तेज कर दी है.",
+      "category_hi": "खेल",
+      "title_hinglish": "bihara 2030 mahila hoki vishva kapa ki taiyari kara raha hai, rajagira vaishvika sitaron ki mejabani ke lie taiyara hai",
+      "summary_hinglish": "patan: khela mantri ke satha bihara ne rajagira men 2030 FIH mahila hoki vishva kapa ki mejabani ki taiyari teja kara di hai.",
       "category_hinglish": "Sports"
     },
     {
@@ -207,23 +241,6 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "55d29fb029ceb324",
-      "title": "Bigg Boss 20: Mahhi Vij questions Isha Rikhi’s remarks after Qazi Touqeer clash mentions Badshah, 'Kaun sa tr",
-      "summary": "Mahhi Vij has weighed in on the latest Bigg Boss 20 controversy after Isha Rikhi spoke about her experience following her heated interaction with Qazi Touqeer.",
-      "category": "Entertainment",
-      "image": "https://static.india.com/wp-content/uploads/2026/09/Dhurandhar-2-Review-2026-09-26T145215.315.png",
-      "source": "India.com",
-      "sourceUrl": "https://www.india.com/entertainment/tv/bigg-boss-20-mahhi-vij-questions-isha-rikhis-remarks-after-qazi-touqeer-clash-mentions-badshah-kaun-sa-trauma-hit-ho-gaya-bhai-8530278/",
-      "publishedAt": "2026-09-26T09:46:10.000Z",
-      "fetchedAt": "2026-09-26T15:18:17.816Z",
-      "title_hi": "बिग बॉस 20: काजी तौकीर की झड़प के बाद माही विज ने ईशा रिखी की टिप्पणी पर सवाल उठाए, जिसमें बादशाह का जिक्र था, 'कौन सा ट्र'",
-      "summary_hi": "ईशा रिखी द्वारा काजी तौकीर के साथ तीखी बातचीत के बाद अपने अनुभव के बारे में बात करने के बाद माही विज ने नवीनतम बिग बॉस 20 विवाद पर जोर दिया है।",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "biga bosa 20: kaji taukira ki jhadapa ke bada mahi vija ne eesha rikhi ki tippani para savala uthae, jisamen badashaha ka jikra th, 'kauna sa tra'",
-      "summary_hinglish": "eesha rikhi dvara kaji taukira ke satha tikhi batachita ke bada apane anubhava ke bare men bata karane ke bada mahi vija ne navinatama biga bosa 20 vivada para jora diya hai।",
-      "category_hinglish": "Entertainment"
-    },
-    {
       "id": "5250a10bb30f090e",
       "title": "M.A. Baby meets Kejriwal ahead of INDIA bloc meeting on Election Commission",
       "summary": "CPI(M) leader M.A. Baby meets Kejriwal ahead of INDIA bloc talks on ECI, SIR, and coordinated opposition protests.",
@@ -241,6 +258,23 @@
       "category_hinglish": "National aur Trending News"
     },
     {
+      "id": "55d29fb029ceb324",
+      "title": "Bigg Boss 20: Mahhi Vij questions Isha Rikhi’s remarks after Qazi Touqeer clash mentions Badshah, 'Kaun sa tr",
+      "summary": "Mahhi Vij has weighed in on the latest Bigg Boss 20 controversy after Isha Rikhi spoke about her experience following her heated interaction with Qazi Touqeer.",
+      "category": "Entertainment",
+      "image": "https://static.india.com/wp-content/uploads/2026/09/Dhurandhar-2-Review-2026-09-26T145215.315.png",
+      "source": "India.com",
+      "sourceUrl": "https://www.india.com/entertainment/tv/bigg-boss-20-mahhi-vij-questions-isha-rikhis-remarks-after-qazi-touqeer-clash-mentions-badshah-kaun-sa-trauma-hit-ho-gaya-bhai-8530278/",
+      "publishedAt": "2026-09-26T09:46:10.000Z",
+      "fetchedAt": "2026-09-26T15:18:17.816Z",
+      "title_hi": "बिग बॉस 20: काजी तौकीर की झड़प के बाद माही विज ने ईशा रिखी की टिप्पणी पर सवाल उठाए, जिसमें बादशाह का जिक्र था, 'कौन सा ट्र'",
+      "summary_hi": "ईशा रिखी द्वारा काजी तौकीर के साथ तीखी बातचीत के बाद अपने अनुभव के बारे में बात करने के बाद माही विज ने नवीनतम बिग बॉस 20 विवाद पर जोर दिया है।",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "biga bosa 20: kaji taukira ki jhadapa ke bada mahi vija ne eesha rikhi ki tippani para savala uthae, jisamen badashaha ka jikra th, 'kauna sa tra'",
+      "summary_hinglish": "eesha rikhi dvara kaji taukira ke satha tikhi batachita ke bada apane anubhava ke bare men bata karane ke bada mahi vija ne navinatama biga bosa 20 vivada para jora diya hai।",
+      "category_hinglish": "Entertainment"
+    },
+    {
       "id": "cc68fb5da8520545",
       "title": "\"Gyanesh Kumar doesn't represent people but government\": NCP(SP)'s Rohit Pawar calls for abolishing EVMs amid CEC row",
       "summary": "Nationalist Congress Party (Sharadchandra Pawar) MLA Rohit Pawar launched a scathing attack on the Election Commission on Saturday, alleging that the poll body is acting as a representative of the central government rather than the citizens of India.",
@@ -255,23 +289,6 @@
       "category_hi": "राजनीति और सरकार",
       "title_hinglish": "\"jnyanesha kumara logon ka nahin balki sarakara ka pratinidhitva karate hain\": sieesi vivada ke bicha enasipi (esapi) ke rohita pavara ne eeviema ko khatma karane ka aahvana kiya",
       "summary_hinglish": "rashtravadi kangresa parti (sharadachandra pavara) ke vidhayaka rohita pavara ne shanivara ko chunava aayoga para tikha hamala kiya aura aaropa lagaya ki chunava aayoga bharata ke nagarikon ke bajaya kendra sarakara ke pratinidhi ke rupa men karya kara raha hai।",
-      "category_hinglish": "Politics aur Government"
-    },
-    {
-      "id": "0fd2b8e1e638217a",
-      "title": "After Bankipur win, Prashant Kishor's party weighs Delhi expansion | India News",
-      "summary": "Supporters of Jan Suraaj in the national capital have been pressing for the party to establish a presence in Delhi.",
-      "category": "Politics & Government",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/26/1600x900/logo/Jan-Suraaj-Party-leader-Prashant-Kishor-arrives-at_1786968217381_1790409260340_aOC4_2475f880-bb66-47fc-810e-aed3b59049be_7pnl.jpg",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/india-news/prashant-kishor-jan-suraaj-party-bankipur-delhi-expansion-news-bihar-101790409031247-amp.html",
-      "publishedAt": "2026-09-26T08:42:30.000Z",
-      "fetchedAt": "2026-09-26T09:45:07.085Z",
-      "title_hi": "बांकीपुर जीत के बाद प्रशांत किशोर की पार्टी दिल्ली विस्तार पर विचार कर रही है | भारत समाचार",
-      "summary_hi": "राष्ट्रीय राजधानी में जन सुराज के समर्थक पार्टी पर दिल्ली में उपस्थिति स्थापित करने के लिए दबाव डाल रहे हैं।",
-      "category_hi": "राजनीति और सरकार",
-      "title_hinglish": "bankipura jita ke bada prashanta kishora ki parti dilli vistara para vichara kara rahi hai | bharata samachara",
-      "summary_hinglish": "rashtriya rajadhani men jana suraja ke samarthaka parti para dilli men upasthiti sthapita karane ke lie dabava dala rahe hain।",
       "category_hinglish": "Politics aur Government"
     },
     {
@@ -309,6 +326,23 @@
       "category_hinglish": "Entertainment"
     },
     {
+      "id": "0fd2b8e1e638217a",
+      "title": "After Bankipur win, Prashant Kishor's party weighs Delhi expansion | India News",
+      "summary": "Supporters of Jan Suraaj in the national capital have been pressing for the party to establish a presence in Delhi.",
+      "category": "Politics & Government",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/26/1600x900/logo/Jan-Suraaj-Party-leader-Prashant-Kishor-arrives-at_1786968217381_1790409260340_aOC4_2475f880-bb66-47fc-810e-aed3b59049be_7pnl.jpg",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/prashant-kishor-jan-suraaj-party-bankipur-delhi-expansion-news-bihar-101790409031247-amp.html",
+      "publishedAt": "2026-09-26T08:42:30.000Z",
+      "fetchedAt": "2026-09-26T09:45:07.085Z",
+      "title_hi": "बांकीपुर जीत के बाद प्रशांत किशोर की पार्टी दिल्ली विस्तार पर विचार कर रही है | भारत समाचार",
+      "summary_hi": "राष्ट्रीय राजधानी में जन सुराज के समर्थक पार्टी पर दिल्ली में उपस्थिति स्थापित करने के लिए दबाव डाल रहे हैं।",
+      "category_hi": "राजनीति और सरकार",
+      "title_hinglish": "bankipura jita ke bada prashanta kishora ki parti dilli vistara para vichara kara rahi hai | bharata samachara",
+      "summary_hinglish": "rashtriya rajadhani men jana suraja ke samarthaka parti para dilli men upasthiti sthapita karane ke lie dabava dala rahe hain।",
+      "category_hinglish": "Politics aur Government"
+    },
+    {
       "id": "15181e5e4bba9e31",
       "title": "Tamil Nadu: Making space for a new seat of government",
       "summary": "Why must the new seat be located at Foreshore Estate? That question does not have any good answers",
@@ -324,23 +358,6 @@
       "title_hinglish": "tamilanadu: sarakara ki naee sita ke lie jagaha banana",
       "summary_hinglish": "naee sita phaोrashora esteta men kyon sthita honi chahie? usa prashna ka koee achchha uttara nahin hai",
       "category_hinglish": "Politics aur Government"
-    },
-    {
-      "id": "b2cee53f8a5cf9b2",
-      "title": "Kriti Sanon shares cryptic Instagram post amid Jamui harassment and Delhi rape case: ‘It’s women vs patriarch",
-      "summary": "Kriti Sanon’s latest Instagram activity has caught attention amid the ongoing discussion around the Jamui harassment case. Here’s what the actress shared and why it has sparked conversation.",
-      "category": "Entertainment",
-      "image": "https://static.india.com/wp-content/uploads/2026/09/Kriti-Sanon-.png",
-      "source": "India.com",
-      "sourceUrl": "https://www.india.com/entertainment/bollywood/kriti-sanon-shares-cryptic-instagram-post-amid-jamui-harassment-and-delhi-rape-case-8530229/",
-      "publishedAt": "2026-09-26T07:27:11.000Z",
-      "fetchedAt": "2026-09-26T10:54:04.762Z",
-      "title_hi": "जमुई उत्पीड़न और दिल्ली बलात्कार मामले के बीच कृति सनोन ने गुप्त इंस्टाग्राम पोस्ट साझा किया: 'यह महिला बनाम पितृसत्ता है",
-      "summary_hi": "जमुई उत्पीड़न मामले को लेकर चल रही चर्चा के बीच कृति सेनन की नवीनतम इंस्टाग्राम गतिविधि ने ध्यान खींचा है। यहां बताया गया है कि अभिनेत्री ने क्या साझा किया और क्यों इसने चर्चा को बढ़ावा दिया है।",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "jamuee utpidana aura dilli balatkara mamale ke bicha kriti sanona ne gupta instagrama posta sajha kiy: 'yaha mahila banama pitrisatta hai",
-      "summary_hinglish": "jamuee utpidana mamale ko lekara chala rahi charcha ke bicha kriti senana ki navinatama instagrama gatividhi ne dhyana khincha hai। yahan bataya gaya hai ki abhinetri ne kya sajha kiya aura kyon isane charcha ko badhaाva diya hai।",
-      "category_hinglish": "Entertainment"
     },
     {
       "id": "fcda53f3cc3bb034",
@@ -360,6 +377,23 @@
       "category_hinglish": "Business aur Finance"
     },
     {
+      "id": "b2cee53f8a5cf9b2",
+      "title": "Kriti Sanon shares cryptic Instagram post amid Jamui harassment and Delhi rape case: ‘It’s women vs patriarch",
+      "summary": "Kriti Sanon’s latest Instagram activity has caught attention amid the ongoing discussion around the Jamui harassment case. Here’s what the actress shared and why it has sparked conversation.",
+      "category": "Entertainment",
+      "image": "https://static.india.com/wp-content/uploads/2026/09/Kriti-Sanon-.png",
+      "source": "India.com",
+      "sourceUrl": "https://www.india.com/entertainment/bollywood/kriti-sanon-shares-cryptic-instagram-post-amid-jamui-harassment-and-delhi-rape-case-8530229/",
+      "publishedAt": "2026-09-26T07:27:11.000Z",
+      "fetchedAt": "2026-09-26T10:54:04.762Z",
+      "title_hi": "जमुई उत्पीड़न और दिल्ली बलात्कार मामले के बीच कृति सनोन ने गुप्त इंस्टाग्राम पोस्ट साझा किया: 'यह महिला बनाम पितृसत्ता है",
+      "summary_hi": "जमुई उत्पीड़न मामले को लेकर चल रही चर्चा के बीच कृति सेनन की नवीनतम इंस्टाग्राम गतिविधि ने ध्यान खींचा है। यहां बताया गया है कि अभिनेत्री ने क्या साझा किया और क्यों इसने चर्चा को बढ़ावा दिया है।",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "jamuee utpidana aura dilli balatkara mamale ke bicha kriti sanona ne gupta instagrama posta sajha kiy: 'yaha mahila banama pitrisatta hai",
+      "summary_hinglish": "jamuee utpidana mamale ko lekara chala rahi charcha ke bicha kriti senana ki navinatama instagrama gatividhi ne dhyana khincha hai। yahan bataya gaya hai ki abhinetri ne kya sajha kiya aura kyon isane charcha ko badhaाva diya hai।",
+      "category_hinglish": "Entertainment"
+    },
+    {
       "id": "328f6516ede2cc97",
       "title": "After backlash from Oppn & allies, Vijay govt revokes RTI exemption for law & order department",
       "summary": "The move had triggered serious concerns that it would lead to lesser transparency on senstive issues, like custodial deaths, police action during protests, etc.",
@@ -375,6 +409,23 @@
       "title_hinglish": "vipaksha aura sahayogiyon ke virodha ke bad, vijaya sarakara ne kanuna evan vyavastha vibhaga ke lie aaratiaaee chhuta radda kara di",
       "summary_hinglish": "isa kadama se ganbhira chintaen paida ho gaee thin ki isase hirasata men maut, virodha pradarshana ke daurana pulisa karravaee aadi jaise sanvedanashila muddon para kama paradarshita aaegi।",
       "category_hinglish": "Politics aur Government"
+    },
+    {
+      "id": "f0a8e399f94b8f2b",
+      "title": "Asian Games 2026: India medals tally and winners list - full table",
+      "summary": "Know list of India winners at the Asian Games 2026. Know medals tally and how many medals Indian athletes have won in each sport. Full table.",
+      "category": "Sports",
+      "image": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/v1790073400/primary/bu9ggjnikynkr9xbdl7g",
+      "source": "olympics.com",
+      "sourceUrl": "https://www.olympics.com/en/news/asian-games-2026-medal-tally-india-winners-table-list",
+      "publishedAt": "2026-09-27T12:43:00.000Z",
+      "fetchedAt": "2026-09-27T16:29:10.039Z",
+      "title_hi": "एशियाई खेल 2026: भारत की पदक तालिका और विजेताओं की सूची - पूरी तालिका",
+      "summary_hi": "एशियाई खेल 2026 में भारत के विजेताओं की सूची जानें। पदक तालिका जानें और भारतीय एथलीटों ने प्रत्येक खेल में कितने पदक जीते हैं। पूरी मेज.",
+      "category_hi": "खेल",
+      "title_hinglish": "eshiyaee khela 2026: bharata ki padaka talika aura vijetaon ki suchi - puri talika",
+      "summary_hinglish": "eshiyaee khela 2026 men bharata ke vijetaon ki suchi janen। padaka talika janen aura bharatiya ethaliton ne pratyeka khela men kitane padaka jite hain। puri mej.",
+      "category_hinglish": "Sports"
     },
     {
       "id": "75f8a86af71d4e53",
@@ -394,23 +445,6 @@
       "category_hinglish": "Entertainment"
     },
     {
-      "id": "f0a8e399f94b8f2b",
-      "title": "Asian Games 2026: India medals tally and winners list - full table",
-      "summary": "Know list of India winners at the Asian Games 2026. Know medals tally and how many medals Indian athletes have won in each sport. Full table.",
-      "category": "Sports",
-      "image": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/v1790073400/primary/bu9ggjnikynkr9xbdl7g",
-      "source": "olympics.com",
-      "sourceUrl": "https://www.olympics.com/en/news/asian-games-2026-medal-tally-india-winners-table-list",
-      "publishedAt": "2026-09-27T12:43:00.000Z",
-      "fetchedAt": "2026-09-27T16:11:58.506Z",
-      "title_hi": "एशियाई खेल 2026: भारत की पदक तालिका और विजेताओं की सूची - पूरी तालिका",
-      "summary_hi": "एशियाई खेल 2026 में भारत के विजेताओं की सूची जानें। पदक तालिका जानें और भारतीय एथलीटों ने प्रत्येक खेल में कितने पदक जीते हैं। पूरी मेज.",
-      "category_hi": "खेल",
-      "title_hinglish": "eshiyaee khela 2026: bharata ki padaka talika aura vijetaon ki suchi - puri talika",
-      "summary_hinglish": "eshiyaee khela 2026 men bharata ke vijetaon ki suchi janen। padaka talika janen aura bharatiya ethaliton ne pratyeka khela men kitane padaka jite hain। puri mej.",
-      "category_hinglish": "Sports"
-    },
-    {
       "id": "3cf66b30b9db31d5",
       "title": "Asian Games 2026: Tejaswin Shankar wins decathlon bronze after 1500m triumph",
       "summary": "Tejaswin Shankar capped a demanding two days of competition with a victory in the final event, the 1500m, to secure the decathlon bronze at the Asian Games in Aichi-Nagoya on Sunday.",
@@ -426,23 +460,6 @@
       "category_hinglish": "Sports",
       "title_hinglish": "eshiyaee khela 2026: tejasvina shankara ne 1500 mitara ki jita ke bada dikaithalona kansya padaka jita",
       "summary_hinglish": "tejasvina shankara ne ravivara ko aaichi-nagoya men eshiyaee khelon men dikaithalona kansya padaka surakshita karane ke lie antima spardh, 1500 mitara men jita ke satha do dinon ki kathina pratispardha ko samapta kiya।"
-    },
-    {
-      "id": "ca4a7bd9f0cb7546",
-      "title": "Woman hit with slipper, forced to transfer ₹1,500: Bihar sees another harassment case amid outrage | India News",
-      "summary": "The video shows several youths allegedly behaving indecently with the woman and hitting her with a slipper. One of the youths is also seen threatening her. | India News",
-      "category": "Politics & Government",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/25/1600x900/logo/bihar_banka_1790339464075_1yKO_1790339464243_SuDL_fbf1779f-3e56-49a1-97d2-9b29c98d4fc6_KrkV.png",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/india-news/banka-woman-hit-with-slipper-forced-to-transfer-rs-1-500-bihar-harassment-case-mandar-hill-101790339209803.html",
-      "publishedAt": "2026-09-25T14:49:14.000Z",
-      "fetchedAt": "2026-09-25T21:57:04.369Z",
-      "title_hi": "महिला को चप्पल से मारा गया, ₹1,500 ट्रांसफर करने के लिए मजबूर किया गया: आक्रोश के बीच बिहार में उत्पीड़न का एक और मामला सामने आया | भारत समाचार",
-      "summary_hi": "वीडियो में कई युवकों को कथित तौर पर महिला के साथ अभद्र व्यवहार करते और उसे चप्पल से मारते हुए दिखाया गया है। उनमें से एक युवक उसे धमकाता भी नजर आ रहा है. | भारत समाचार",
-      "category_hi": "राजनीति और सरकार",
-      "title_hinglish": "mahila ko chappala se mara gay, ₹1,500 transaphara karane ke lie majabura kiya gay: aakrosha ke bicha bihara men utpidana ka eka aura mamala samane aaya | bharata samachara",
-      "summary_hinglish": "vidiyo men kaee yuvakon ko kathita taura para mahila ke satha abhadra vyavahara karate aura use chappala se marate hue dikhaya gaya hai। unamen se eka yuvaka use dhamakata bhi najara aa raha hai. | bharata samachara",
-      "category_hinglish": "Politics aur Government"
     },
     {
       "id": "5f05ccc564219f69",
@@ -479,6 +496,23 @@
       "category_hinglish": "Sports"
     },
     {
+      "id": "ca4a7bd9f0cb7546",
+      "title": "Woman hit with slipper, forced to transfer ₹1,500: Bihar sees another harassment case amid outrage | India News",
+      "summary": "The video shows several youths allegedly behaving indecently with the woman and hitting her with a slipper. One of the youths is also seen threatening her. | India News",
+      "category": "Politics & Government",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/25/1600x900/logo/bihar_banka_1790339464075_1yKO_1790339464243_SuDL_fbf1779f-3e56-49a1-97d2-9b29c98d4fc6_KrkV.png",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/banka-woman-hit-with-slipper-forced-to-transfer-rs-1-500-bihar-harassment-case-mandar-hill-101790339209803.html",
+      "publishedAt": "2026-09-25T14:49:14.000Z",
+      "fetchedAt": "2026-09-25T21:57:04.369Z",
+      "title_hi": "महिला को चप्पल से मारा गया, ₹1,500 ट्रांसफर करने के लिए मजबूर किया गया: आक्रोश के बीच बिहार में उत्पीड़न का एक और मामला सामने आया | भारत समाचार",
+      "summary_hi": "वीडियो में कई युवकों को कथित तौर पर महिला के साथ अभद्र व्यवहार करते और उसे चप्पल से मारते हुए दिखाया गया है। उनमें से एक युवक उसे धमकाता भी नजर आ रहा है. | भारत समाचार",
+      "category_hi": "राजनीति और सरकार",
+      "title_hinglish": "mahila ko chappala se mara gay, ₹1,500 transaphara karane ke lie majabura kiya gay: aakrosha ke bicha bihara men utpidana ka eka aura mamala samane aaya | bharata samachara",
+      "summary_hinglish": "vidiyo men kaee yuvakon ko kathita taura para mahila ke satha abhadra vyavahara karate aura use chappala se marate hue dikhaya gaya hai। unamen se eka yuvaka use dhamakata bhi najara aa raha hai. | bharata samachara",
+      "category_hinglish": "Politics aur Government"
+    },
+    {
       "id": "2b7ac66ac63c3130",
       "title": "RBI net dollar purchases hit record $18.65 bn in July: Monthly bulletin",
       "summary": "The central bank's concessional swap facility drove dollar inflows, while its outstanding net short position in the forward market surged to a record $136.77 billion",
@@ -494,23 +528,6 @@
       "category_hinglish": "Business aur Finance",
       "title_hinglish": "julaee men RBI ki shuddha dolara kharidari rikorda $18.65 biliyana taka pahuncha gaee: masika buletina",
       "summary_hinglish": "kendriya bainka ki riyayati svaipa suvidha se dolara ka pravaha badhaा, jabaki vayada bajara men isaki bakaya shuddha shorta pojishana badhakara rikorda 136.77 biliyana dolara ho gaee।"
-    },
-    {
-      "id": "f606cc4dbdf8b5fe",
-      "title": "Poll panel's SIR orders for Bihar, other states and UTs were unanimous: EC sources amid row | India News",
-      "summary": "The approved SIR orders include Declaration Form to be submitted along with Form 6 for new voters to be added to reduce paper work and for the ease of citizens.",
-      "category": "Politics & Government",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/25/1600x900/logo/PTI04-08-2026-000216B-0_1778754545645_1790338110982_t8iU_df1353e8-b08b-48f9-ae79-083ef850b6e5_V1cb.jpg",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/india-news/poll-panels-sir-orders-for-bihar-other-states-and-uts-were-unanimous-ec-sources-amid-row-101790337602276-amp.html",
-      "publishedAt": "2026-09-25T12:09:23.000Z",
-      "fetchedAt": "2026-09-25T16:53:02.492Z",
-      "title_hi": "बिहार, अन्य राज्यों और केंद्रशासित प्रदेशों के लिए पोल पैनल के एसआईआर आदेश एकमत थे: विवाद के बीच चुनाव आयोग के सूत्र | भारत समाचार",
-      "summary_hi": "अनुमोदित एसआईआर आदेशों में कागजी काम को कम करने और नागरिकों की आसानी के लिए नए मतदाताओं को जोड़ने के लिए फॉर्म 6 के साथ जमा किया जाने वाला घोषणा पत्र शामिल है।",
-      "category_hi": "राजनीति और सरकार",
-      "title_hinglish": "bihar, anya rajyon aura kendrashasita pradeshon ke lie pola painala ke esaaaeeaara aadesha ekamata the: vivada ke bicha chunava aayoga ke sutra | bharata samachara",
-      "summary_hinglish": "anumodita esaaaeeaara aadeshon men kagaji kama ko kama karane aura nagarikon ki aasani ke lie nae matadataon ko jodane ke lie phorma 6 ke satha jama kiya jane vala ghoshana patra shamila hai।",
-      "category_hinglish": "Politics aur Government"
     },
     {
       "id": "428422d22e607336",
@@ -530,6 +547,23 @@
       "category_hinglish": "National aur Trending News"
     },
     {
+      "id": "f606cc4dbdf8b5fe",
+      "title": "Poll panel's SIR orders for Bihar, other states and UTs were unanimous: EC sources amid row | India News",
+      "summary": "The approved SIR orders include Declaration Form to be submitted along with Form 6 for new voters to be added to reduce paper work and for the ease of citizens.",
+      "category": "Politics & Government",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/25/1600x900/logo/PTI04-08-2026-000216B-0_1778754545645_1790338110982_t8iU_df1353e8-b08b-48f9-ae79-083ef850b6e5_V1cb.jpg",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/poll-panels-sir-orders-for-bihar-other-states-and-uts-were-unanimous-ec-sources-amid-row-101790337602276-amp.html",
+      "publishedAt": "2026-09-25T12:09:23.000Z",
+      "fetchedAt": "2026-09-25T16:53:02.492Z",
+      "title_hi": "बिहार, अन्य राज्यों और केंद्रशासित प्रदेशों के लिए पोल पैनल के एसआईआर आदेश एकमत थे: विवाद के बीच चुनाव आयोग के सूत्र | भारत समाचार",
+      "summary_hi": "अनुमोदित एसआईआर आदेशों में कागजी काम को कम करने और नागरिकों की आसानी के लिए नए मतदाताओं को जोड़ने के लिए फॉर्म 6 के साथ जमा किया जाने वाला घोषणा पत्र शामिल है।",
+      "category_hi": "राजनीति और सरकार",
+      "title_hinglish": "bihar, anya rajyon aura kendrashasita pradeshon ke lie pola painala ke esaaaeeaara aadesha ekamata the: vivada ke bicha chunava aayoga ke sutra | bharata samachara",
+      "summary_hinglish": "anumodita esaaaeeaara aadeshon men kagaji kama ko kama karane aura nagarikon ki aasani ke lie nae matadataon ko jodane ke lie phorma 6 ke satha jama kiya jane vala ghoshana patra shamila hai।",
+      "category_hinglish": "Politics aur Government"
+    },
+    {
       "id": "1cf9880d95d8b8ff",
       "title": "Asian Games: Ancy Sojan misses long jump gold by 2cm, Shaili Singh loses bronze on final attempt",
       "summary": "Ancy Sojan came agonisingly close to giving India its first athletics gold at the Asian Games 2026, but had to settle for silver after China’s Yingying Huang produced a decisive final jump in the women’s long jump in Aichi-Nagoya, Japan, on Sunday. Shaili Singh also missed out on a medal,…",
@@ -545,23 +579,6 @@
       "title_hinglish": "eshiyaee khel: ensi sojana 2 semi se lanbi kuda men svarna padaka se chukin, shaili sinha ne antima prayasa men kansya padaka ganvaya",
       "summary_hinglish": "ensi sojana eshiyaee khelon 2026 men bharata ko apana pahala ethaletiksa svarna dilane ke behada kariba pahuncha gaee thi, lekina ravivara ko japana ke aaichi-nagoya men mahilaon ki lanbi kuda men china ki yingayinga huaanga dvara nirnayaka antima chhalanga lagane ke bada unhen rajata padaka se santosha karana padaा। shaili sinha bhi padaka se chukin,...",
       "category_hinglish": "Sports"
-    },
-    {
-      "id": "03250ab691034ec5",
-      "title": "Sidharth Malhotra Once Called Bhojpuri A ‘Poop’ Feeling, Now He’s Selling Bihar’s Culture Controversy Explained",
-      "summary": "Sidharth Malhotra’s old Bhojpuri remark sparked controversy in 2018 after he appeared on Bigg Boss 11. Years later, the actor is starring in The VVAAN: Force Of The Forest, a Bihar-based film rooted in local folklore and beliefs.",
-      "category": "Entertainment",
-      "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/25/467070d34f79fa888aab677eb54c790217903326037291402_original.png?impolicy=abp_cdn&imwidth=1200",
-      "source": "ABP Live English",
-      "sourceUrl": "https://news.abplive.com/entertainment/celebrities/sidharth-malhotra-once-called-bhojpuri-a-poop-feeling-now-he-s-selling-bihar-s-culture-controversy-explained-1868295",
-      "publishedAt": "2026-09-25T11:02:14.000Z",
-      "fetchedAt": "2026-09-25T12:26:50.371Z",
-      "title_hi": "सिद्धार्थ मल्होत्रा ने कभी भोजपुरी को कहा था 'पूप' फीलिंग, अब बेच रहे हैं बिहार की संस्कृति विवाद",
-      "summary_hi": "सिद्धार्थ मल्होत्रा की पुरानी भोजपुरी टिप्पणी ने 2018 में बिग बॉस 11 में आने के बाद विवाद खड़ा कर दिया था। वर्षों बाद, अभिनेता द वीवीएएन: फोर्स ऑफ द फॉरेस्ट में अभिनय कर रहे हैं, जो स्थानीय लोककथाओं और मान्यताओं पर आधारित बिहार आधारित फिल्म है।",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "siddhartha malhotra ne kabhi bhojapuri ko kaha tha 'pupa' philing, aba becha rahe hain bihara ki sanskriti vivada",
-      "summary_hinglish": "siddhartha malhotra ki purani bhojapuri tippani ne 2018 men biga bosa 11 men aane ke bada vivada khadaा kara diya tha। varshon bad, abhineta da vivieen: phorsa ऑpha da phoresta men abhinaya kara rahe hain, jo sthaniya lokakathaon aura manyataon para aadharita bihara aadharita philma hai।",
-      "category_hinglish": "Entertainment"
     },
     {
       "id": "baf0c2dc20277eec",
@@ -581,6 +598,23 @@
       "category_hinglish": "Entertainment"
     },
     {
+      "id": "03250ab691034ec5",
+      "title": "Sidharth Malhotra Once Called Bhojpuri A ‘Poop’ Feeling, Now He’s Selling Bihar’s Culture Controversy Explained",
+      "summary": "Sidharth Malhotra’s old Bhojpuri remark sparked controversy in 2018 after he appeared on Bigg Boss 11. Years later, the actor is starring in The VVAAN: Force Of The Forest, a Bihar-based film rooted in local folklore and beliefs.",
+      "category": "Entertainment",
+      "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/25/467070d34f79fa888aab677eb54c790217903326037291402_original.png?impolicy=abp_cdn&imwidth=1200",
+      "source": "ABP Live English",
+      "sourceUrl": "https://news.abplive.com/entertainment/celebrities/sidharth-malhotra-once-called-bhojpuri-a-poop-feeling-now-he-s-selling-bihar-s-culture-controversy-explained-1868295",
+      "publishedAt": "2026-09-25T11:02:14.000Z",
+      "fetchedAt": "2026-09-25T12:26:50.371Z",
+      "title_hi": "सिद्धार्थ मल्होत्रा ने कभी भोजपुरी को कहा था 'पूप' फीलिंग, अब बेच रहे हैं बिहार की संस्कृति विवाद",
+      "summary_hi": "सिद्धार्थ मल्होत्रा की पुरानी भोजपुरी टिप्पणी ने 2018 में बिग बॉस 11 में आने के बाद विवाद खड़ा कर दिया था। वर्षों बाद, अभिनेता द वीवीएएन: फोर्स ऑफ द फॉरेस्ट में अभिनय कर रहे हैं, जो स्थानीय लोककथाओं और मान्यताओं पर आधारित बिहार आधारित फिल्म है।",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "siddhartha malhotra ne kabhi bhojapuri ko kaha tha 'pupa' philing, aba becha rahe hain bihara ki sanskriti vivada",
+      "summary_hinglish": "siddhartha malhotra ki purani bhojapuri tippani ne 2018 men biga bosa 11 men aane ke bada vivada khadaा kara diya tha। varshon bad, abhineta da vivieen: phorsa ऑpha da phoresta men abhinaya kara rahe hain, jo sthaniya lokakathaon aura manyataon para aadharita bihara aadharita philma hai।",
+      "category_hinglish": "Entertainment"
+    },
+    {
       "id": "58d27f9cc1d2eedb",
       "title": "ET Now Live TV: Business News Live TV Online, Finance & Market News Live Streaming",
       "summary": "ET Now Business News Live TV: Watch Live Business News, Finance & Market News Live TV Online, Today Latest Business News and Updates on ET Now Live TV.",
@@ -596,23 +630,6 @@
       "title_hinglish": "eeti nau laiva tivi: bijanesa nyuja laiva tivi ऑnalain, vitta aura bajara samachara laiva striminga",
       "summary_hinglish": "eeti nau bijanesa nyuja laiva tivi: laiva bijanesa nyuj, vitta aura bajara samachara laiva tivi ऑnalaina dekhen, aaja ke navinatama bijanesa samachara aura apadeta eeti nau laiva tivi para।",
       "category_hinglish": "Business aur Finance"
-    },
-    {
-      "id": "d3a3994e37b7c554",
-      "title": "'CEC must firmly present its side,' says Chirag Paswan as opposition demands Gyanesh Kumar's resignation",
-      "summary": "'CEC must firmly present its side,' says Chirag Paswan as opposition demands Gyanesh Kumar's resignation - Patna (Bihar) [India], September 25 : Union Minister Chirag Paswan on Friday said the Election Commission must firmly present ... Get Latest News on Politics only on lokmattimes.com",
-      "category": "Politics & Government",
-      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/ANI-20260925092530_202609.jpg",
-      "source": "lokmattimes.com",
-      "sourceUrl": "https://www.lokmattimes.com/politics/cec-must-firmly-present-its-side-says-chirag-paswan-as-opposition-demands-gyanesh-kumars-resignation/",
-      "publishedAt": "2026-09-25T09:37:05.000Z",
-      "fetchedAt": "2026-09-25T12:02:35.060Z",
-      "title_hi": "विपक्ष द्वारा ज्ञानेश कुमार के इस्तीफे की मांग पर चिराग पासवान ने कहा, 'सीईसी को अपना पक्ष मजबूती से रखना चाहिए।'",
-      "summary_hi": "विपक्ष द्वारा ज्ञानेश कुमार के इस्तीफे की मांग पर चिराग पासवान ने कहा, 'सीईसी को अपना पक्ष मजबूती से रखना चाहिए।'",
-      "category_hi": "राजनीति और सरकार",
-      "title_hinglish": "vipaksha dvara jnyanesha kumara ke istiphe ki manga para chiraga pasavana ne kah, 'sieesi ko apana paksha majabuti se rakhana chahie।'",
-      "summary_hinglish": "vipaksha dvara jnyanesha kumara ke istiphe ki manga para chiraga pasavana ne kah, 'sieesi ko apana paksha majabuti se rakhana chahie।'",
-      "category_hinglish": "Politics aur Government"
     },
     {
       "id": "10a894bc2a291a99",
@@ -649,6 +666,23 @@
       "category_hinglish": "Technology"
     },
     {
+      "id": "d3a3994e37b7c554",
+      "title": "'CEC must firmly present its side,' says Chirag Paswan as opposition demands Gyanesh Kumar's resignation",
+      "summary": "'CEC must firmly present its side,' says Chirag Paswan as opposition demands Gyanesh Kumar's resignation - Patna (Bihar) [India], September 25 : Union Minister Chirag Paswan on Friday said the Election Commission must firmly present ... Get Latest News on Politics only on lokmattimes.com",
+      "category": "Politics & Government",
+      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/ANI-20260925092530_202609.jpg",
+      "source": "lokmattimes.com",
+      "sourceUrl": "https://www.lokmattimes.com/politics/cec-must-firmly-present-its-side-says-chirag-paswan-as-opposition-demands-gyanesh-kumars-resignation/",
+      "publishedAt": "2026-09-25T09:37:05.000Z",
+      "fetchedAt": "2026-09-25T12:02:35.060Z",
+      "title_hi": "विपक्ष द्वारा ज्ञानेश कुमार के इस्तीफे की मांग पर चिराग पासवान ने कहा, 'सीईसी को अपना पक्ष मजबूती से रखना चाहिए।'",
+      "summary_hi": "विपक्ष द्वारा ज्ञानेश कुमार के इस्तीफे की मांग पर चिराग पासवान ने कहा, 'सीईसी को अपना पक्ष मजबूती से रखना चाहिए।'",
+      "category_hi": "राजनीति और सरकार",
+      "title_hinglish": "vipaksha dvara jnyanesha kumara ke istiphe ki manga para chiraga pasavana ne kah, 'sieesi ko apana paksha majabuti se rakhana chahie।'",
+      "summary_hinglish": "vipaksha dvara jnyanesha kumara ke istiphe ki manga para chiraga pasavana ne kah, 'sieesi ko apana paksha majabuti se rakhana chahie।'",
+      "category_hinglish": "Politics aur Government"
+    },
+    {
       "id": "21f7e3488ebc165e",
       "title": "India's China trade deficit may not tell the full story, FM Sitharaman explains why",
       "summary": "Our export account would say that we are still not adequately exporting to China. Actually, it is going to China, but it never gets accounted like that because it goes to Vietnam, says FM Sitharaman",
@@ -664,23 +698,6 @@
       "title_hinglish": "bharata ka china vyapara ghata puri kahani nahin bata sakat, vitta mantri sitaramana batati hain kyon",
       "summary_hinglish": "hamara niryata khata kahega ki hama abhi bhi china ko paryapta rupa se niryata nahin kara rahe hain। vastava men, yaha china ja raha hai, lekina isaka usa taraha hisaba-kitaba kabhi nahin kiya jata kyonki yaha viyatanama jata hai, aisa ephaema sitaramana ka kahana hai",
       "category_hinglish": "Business aur Finance"
-    },
-    {
-      "id": "e40637d4fb87586d",
-      "title": "The Vvaan - Force Of The Forrest Movie Review: Sidharth Malhotra and Tamannaah Bhatia Bring Bihar Folklore to the Big Screen",
-      "summary": "The Vvaan - Force Of The Forrest Movie review: Sidharth Malhotra and Tamannaah Bhatia lead a folklore-driven horror adventure rooted in Bihar.",
-      "category": "Entertainment",
-      "image": "https://www.oneworldnews.com/wp-content/uploads/2026/09/The-Vvaan-Force-Of-The-Forrest-Movie-review.webp",
-      "source": "oneworldnews.com",
-      "sourceUrl": "https://www.oneworldnews.com/entertainment/the-vvaan-force-of-the-forrest-movie-review/",
-      "publishedAt": "2026-09-25T06:21:28.000Z",
-      "fetchedAt": "2026-09-25T07:02:49.358Z",
-      "title_hi": "द व्वान - फ़ोर्स ऑफ़ द फ़ॉरेस्ट मूवी समीक्षा: सिद्धार्थ मल्होत्रा और तमन्ना भाटिया बिहार के लोकगीत को बड़े पर्दे पर लाएंगे",
-      "summary_hi": "द व्वान - फ़ोर्स ऑफ़ द फ़ॉरेस्ट मूवी समीक्षा: सिद्धार्थ मल्होत्रा और तमन्ना भाटिया बिहार में निहित लोककथाओं पर आधारित डरावनी साहसिक फिल्म का नेतृत्व करते हैं।",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "da vvana - phaोrsa ऑpha da phaॉresta muvi samiksh: siddhartha malhotra aura tamanna bhatiya bihara ke lokagita ko badaे parde para laenge",
-      "summary_hinglish": "da vvana - phaोrsa ऑpha da phaॉresta muvi samiksh: siddhartha malhotra aura tamanna bhatiya bihara men nihita lokakathaon para aadharita daravani sahasika philma ka netritva karate hain।",
-      "category_hinglish": "Entertainment"
     },
     {
       "id": "117d4d250ad54034",
@@ -700,6 +717,23 @@
       "summary_hinglish": "sarakara ke phaisale se rajanitika vivada shuru hone ke turanta bada yaha ulataphera huaa। kangresa sahita tivike ke gathabandhana sahayogiyon ne isa kadama ka kadaा virodha kiya tha। | bharata samachara"
     },
     {
+      "id": "e40637d4fb87586d",
+      "title": "The Vvaan - Force Of The Forrest Movie Review: Sidharth Malhotra and Tamannaah Bhatia Bring Bihar Folklore to the Big Screen",
+      "summary": "The Vvaan - Force Of The Forrest Movie review: Sidharth Malhotra and Tamannaah Bhatia lead a folklore-driven horror adventure rooted in Bihar.",
+      "category": "Entertainment",
+      "image": "https://www.oneworldnews.com/wp-content/uploads/2026/09/The-Vvaan-Force-Of-The-Forrest-Movie-review.webp",
+      "source": "oneworldnews.com",
+      "sourceUrl": "https://www.oneworldnews.com/entertainment/the-vvaan-force-of-the-forrest-movie-review/",
+      "publishedAt": "2026-09-25T06:21:28.000Z",
+      "fetchedAt": "2026-09-25T07:02:49.358Z",
+      "title_hi": "द व्वान - फ़ोर्स ऑफ़ द फ़ॉरेस्ट मूवी समीक्षा: सिद्धार्थ मल्होत्रा और तमन्ना भाटिया बिहार के लोकगीत को बड़े पर्दे पर लाएंगे",
+      "summary_hi": "द व्वान - फ़ोर्स ऑफ़ द फ़ॉरेस्ट मूवी समीक्षा: सिद्धार्थ मल्होत्रा और तमन्ना भाटिया बिहार में निहित लोककथाओं पर आधारित डरावनी साहसिक फिल्म का नेतृत्व करते हैं।",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "da vvana - phaोrsa ऑpha da phaॉresta muvi samiksh: siddhartha malhotra aura tamanna bhatiya bihara ke lokagita ko badaे parde para laenge",
+      "summary_hinglish": "da vvana - phaोrsa ऑpha da phaॉresta muvi samiksh: siddhartha malhotra aura tamanna bhatiya bihara men nihita lokakathaon para aadharita daravani sahasika philma ka netritva karate hain।",
+      "category_hinglish": "Entertainment"
+    },
+    {
       "id": "0e14b2eaa0709580",
       "title": "India, Canada preparing to take ties to 'higher level': Jaishankar",
       "summary": "India-Canada eye higher-level ties after productive UNGA talks; Jaishankar highlights energy diversification and broader cooperation.",
@@ -715,23 +749,6 @@
       "title_hinglish": "bharat, kanada sanbandhon ko 'uchcha stara' para le jane ki taiyari kara rahe hain: jayashankara",
       "summary_hinglish": "sarthaka yuenajie varta ke bada bharata-kanada uchcha stariya sanbandhon para najara gadaाe hue hain; jayashankara ne oorja vividhikarana aura vyapaka sahayoga para prakasha dala।",
       "category_hinglish": "National aur Trending News"
-    },
-    {
-      "id": "1549b65b6103c3f1",
-      "title": "The Vvaan: All about the 400-year-old Devi temple in Bihar that inspired the film",
-      "summary": "Sidharth Malhotra and Tamannaah Bhatia’s The Vvaan: Force of the Forest is a film inspired by the 400-year-old Maa Van Devi Temple near Bihta, Bihar. The movie draws on local legends and traditions, highlighting the temple's mysterious evening restrictions and its cultural significance in Bihar's religious heritage. .",
-      "category": "Entertainment",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/ektaa-kapoor--arunabh-kumar--the-vvaan-245545843-16x9_0.jpg?VersionId=NcuCO2y5inUHEwhHSjYi0wDaP9NyP1zy",
-      "source": "indiatoday.in",
-      "sourceUrl": "https://www.indiatoday.in/movies/bollywood/story/the-vvaan-inspiration-van-devi-temple-400-year-old-bihar-folklore-after-sunset-ban-3001808-2026-09-24",
-      "publishedAt": "2026-09-25T06:21:06.000Z",
-      "fetchedAt": "2026-09-25T08:43:55.781Z",
-      "title_hi": "द वावन: बिहार के 400 साल पुराने देवी मंदिर के बारे में सब कुछ जिसने फिल्म को प्रेरित किया",
-      "summary_hi": "सिद्धार्थ मल्होत्रा और तमन्ना भाटिया की द वावन: फोर्स ऑफ द फॉरेस्ट बिहार के बिहटा के पास 400 साल पुराने मां वन देवी मंदिर से प्रेरित फिल्म है। यह फिल्म स्थानीय किंवदंतियों और परंपराओं पर आधारित है, जो मंदिर की रहस्यमय शाम की बंदिशों और बिहार की धार्मिक विरासत में इसके सांस्कृतिक महत्व को उजागर करती है। .",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "da vavan: bihara ke 400 sala purane devi mandira ke bare men saba kuchha jisane philma ko prerita kiya",
-      "summary_hinglish": "siddhartha malhotra aura tamanna bhatiya ki da vavan: phorsa ऑpha da phoresta bihara ke bihata ke pasa 400 sala purane man vana devi mandira se prerita philma hai। yaha philma sthaniya kinvadantiyon aura paranparaon para aadharita hai, jo mandira ki rahasyamaya shama ki bandishon aura bihara ki dharmika virasata men isake sanskritika mahatva ko ujagara karati hai। .",
-      "category_hinglish": "Entertainment"
     },
     {
       "id": "a7b28b4a6ce427cb",
@@ -751,6 +768,23 @@
       "category_hinglish": "Sports"
     },
     {
+      "id": "1549b65b6103c3f1",
+      "title": "The Vvaan: All about the 400-year-old Devi temple in Bihar that inspired the film",
+      "summary": "Sidharth Malhotra and Tamannaah Bhatia’s The Vvaan: Force of the Forest is a film inspired by the 400-year-old Maa Van Devi Temple near Bihta, Bihar. The movie draws on local legends and traditions, highlighting the temple's mysterious evening restrictions and its cultural significance in Bihar's religious heritage. .",
+      "category": "Entertainment",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/ektaa-kapoor--arunabh-kumar--the-vvaan-245545843-16x9_0.jpg?VersionId=NcuCO2y5inUHEwhHSjYi0wDaP9NyP1zy",
+      "source": "indiatoday.in",
+      "sourceUrl": "https://www.indiatoday.in/movies/bollywood/story/the-vvaan-inspiration-van-devi-temple-400-year-old-bihar-folklore-after-sunset-ban-3001808-2026-09-24",
+      "publishedAt": "2026-09-25T06:21:06.000Z",
+      "fetchedAt": "2026-09-25T08:43:55.781Z",
+      "title_hi": "द वावन: बिहार के 400 साल पुराने देवी मंदिर के बारे में सब कुछ जिसने फिल्म को प्रेरित किया",
+      "summary_hi": "सिद्धार्थ मल्होत्रा और तमन्ना भाटिया की द वावन: फोर्स ऑफ द फॉरेस्ट बिहार के बिहटा के पास 400 साल पुराने मां वन देवी मंदिर से प्रेरित फिल्म है। यह फिल्म स्थानीय किंवदंतियों और परंपराओं पर आधारित है, जो मंदिर की रहस्यमय शाम की बंदिशों और बिहार की धार्मिक विरासत में इसके सांस्कृतिक महत्व को उजागर करती है। .",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "da vavan: bihara ke 400 sala purane devi mandira ke bare men saba kuchha jisane philma ko prerita kiya",
+      "summary_hinglish": "siddhartha malhotra aura tamanna bhatiya ki da vavan: phorsa ऑpha da phoresta bihara ke bihata ke pasa 400 sala purane man vana devi mandira se prerita philma hai। yaha philma sthaniya kinvadantiyon aura paranparaon para aadharita hai, jo mandira ki rahasyamaya shama ki bandishon aura bihara ki dharmika virasata men isake sanskritika mahatva ko ujagara karati hai। .",
+      "category_hinglish": "Entertainment"
+    },
+    {
       "id": "4df685874a14fc90",
       "title": "'Raandhuni Na Kaanduni’ marks Sony AATH’s foray into original unscripted entertainment",
       "summary": "Sony AATH expands its Bengali content slate with Raandhuni Na Kaanduni, an unscripted comedy cooking show hosted by Ankush Hazra, combining food, humour, celebrities and locally rooted entertainment.",
@@ -766,23 +800,6 @@
       "title_hinglish": "'randhuni na kanduni' soni eetiecha ke mula alikhita manoranjana men pravesha ka pratika hai",
       "summary_hinglish": "soni eetiecha ne ankusha hajara dvara hosta kie gae eka anaskripteda komedi kukinga sho randhuni na kanduni ke satha apane bangali kantenta ka vistara kiya hai, jisamen bhojan, hasy, mashahura hastiyon aura sthaniya stara para manoranjana ka sanyojana hai।",
       "category_hinglish": "Entertainment"
-    },
-    {
-      "id": "11df1a63ca080ea9",
-      "title": "'I give 30% of my income to Bengaluru': Techie's request to Bihar CM goes viral, sparks debate online",
-      "summary": "Rahul Kumar Yadav, an IT professional working in a hybrid role, urged Bihar Chief Minister Samrat Choudhary to build a strong IT ecosystem in the state, saying thousands of professionals are forced to spend a significant portion of their income outside Bihar for work.",
-      "category": "Business & Finance",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260925055539_Bihar-CM.png",
-      "source": "Moneycontrol.com",
-      "sourceUrl": "https://www.moneycontrol.com/news/trends/i-give-30-of-my-income-to-bengaluru-techie-s-request-to-bihar-cm-goes-viral-sparks-debate-online-14038076.html/amp",
-      "publishedAt": "2026-09-25T05:56:11.000Z",
-      "fetchedAt": "2026-09-25T07:02:52.209Z",
-      "title_hi": "'मैं अपनी आय का 30% बेंगलुरु को देता हूं': बिहार के मुख्यमंत्री से तकनीकी विशेषज्ञ का अनुरोध वायरल, ऑनलाइन बहस छिड़ गई",
-      "summary_hi": "हाइब्रिड भूमिका में काम करने वाले एक आईटी पेशेवर राहुल कुमार यादव ने बिहार के मुख्यमंत्री सम्राट चौधरी से राज्य में एक मजबूत आईटी पारिस्थितिकी तंत्र बनाने का आग्रह किया, उन्होंने कहा कि हजारों पेशेवर काम के लिए अपनी आय का एक महत्वपूर्ण हिस्सा बिहार के बाहर खर्च करने के लिए मजबूर हैं।",
-      "category_hi": "बिज़नेस और फाइनेंस",
-      "title_hinglish": "'main apani aaya ka 30% bengaluru ko deta hun': bihara ke mukhyamantri se takaniki visheshajnya ka anurodha vayaral, ऑnalaina bahasa chhida gaee",
-      "summary_hinglish": "haibrida bhumika men kama karane vale eka aaeeti peshevara rahula kumara yadava ne bihara ke mukhyamantri samrata chaudhari se rajya men eka majabuta aaeeti paristhitiki tantra banane ka aagraha kiy, unhonne kaha ki hajaron peshevara kama ke lie apani aaya ka eka mahatvapurna hissa bihara ke bahara kharcha karane ke lie majabura hain।",
-      "category_hinglish": "Business aur Finance"
     },
     {
       "id": "9b533a8261424cf7",
@@ -819,6 +836,23 @@
       "category_hinglish": "Technology"
     },
     {
+      "id": "11df1a63ca080ea9",
+      "title": "'I give 30% of my income to Bengaluru': Techie's request to Bihar CM goes viral, sparks debate online",
+      "summary": "Rahul Kumar Yadav, an IT professional working in a hybrid role, urged Bihar Chief Minister Samrat Choudhary to build a strong IT ecosystem in the state, saying thousands of professionals are forced to spend a significant portion of their income outside Bihar for work.",
+      "category": "Business & Finance",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260925055539_Bihar-CM.png",
+      "source": "Moneycontrol.com",
+      "sourceUrl": "https://www.moneycontrol.com/news/trends/i-give-30-of-my-income-to-bengaluru-techie-s-request-to-bihar-cm-goes-viral-sparks-debate-online-14038076.html/amp",
+      "publishedAt": "2026-09-25T05:56:11.000Z",
+      "fetchedAt": "2026-09-25T07:02:52.209Z",
+      "title_hi": "'मैं अपनी आय का 30% बेंगलुरु को देता हूं': बिहार के मुख्यमंत्री से तकनीकी विशेषज्ञ का अनुरोध वायरल, ऑनलाइन बहस छिड़ गई",
+      "summary_hi": "हाइब्रिड भूमिका में काम करने वाले एक आईटी पेशेवर राहुल कुमार यादव ने बिहार के मुख्यमंत्री सम्राट चौधरी से राज्य में एक मजबूत आईटी पारिस्थितिकी तंत्र बनाने का आग्रह किया, उन्होंने कहा कि हजारों पेशेवर काम के लिए अपनी आय का एक महत्वपूर्ण हिस्सा बिहार के बाहर खर्च करने के लिए मजबूर हैं।",
+      "category_hi": "बिज़नेस और फाइनेंस",
+      "title_hinglish": "'main apani aaya ka 30% bengaluru ko deta hun': bihara ke mukhyamantri se takaniki visheshajnya ka anurodha vayaral, ऑnalaina bahasa chhida gaee",
+      "summary_hinglish": "haibrida bhumika men kama karane vale eka aaeeti peshevara rahula kumara yadava ne bihara ke mukhyamantri samrata chaudhari se rajya men eka majabuta aaeeti paristhitiki tantra banane ka aagraha kiy, unhonne kaha ki hajaron peshevara kama ke lie apani aaya ka eka mahatvapurna hissa bihara ke bahara kharcha karane ke lie majabura hain।",
+      "category_hinglish": "Business aur Finance"
+    },
+    {
       "id": "4f999a4eb6e1136f",
       "title": "‘The Paradise’ box office collection Day 4 (Live): Nani and Srikanth Odela’s action thriller’s India gros",
       "summary": "Nani starrer ‘The Paradise’ opened strongly at the box office and became the actor’s biggest opener yet. The film crossed the Rs 75 crore mark on its first day.",
@@ -833,23 +867,6 @@
       "category_hi": "मनोरंजन",
       "title_hinglish": "'da pairadaija' boksa ऑphisa kalekshana dina 4 (laiva): nani aura shrikanta odela ki ekshana thrilara ne bharata men kamaee ki",
       "summary_hinglish": "nani starara 'da pairadaija' ne boksa ऑphisa para joradara shuruaata ki aura abhineta ki aba taka ki sabase badaी opanara bana gaee। philma ne pahale dina 75 karoda rupaye ka aankadaा para kara liya hai.",
-      "category_hinglish": "Entertainment"
-    },
-    {
-      "id": "c5f7e8ee9080ec31",
-      "title": "The Vvaan X Review: Why Is Sidharth Malhotra, Tamannaah Bhatia's Movie Being Hailed In UP, Bihar?",
-      "summary": "The Vvaan X Review: Sidharth Malhotra and Tamannaah Bhatia's The Vvaan: Force of the Forest is out in theatres. Early X reviews are largely positive, especially for its depiction of Chhath Puja and Bihar's culture.",
-      "category": "Entertainment",
-      "image": "https://images.thedailyjagran.com/images/2026/09/25/template/image/Vvan-movie-review-1790314619898.webp",
-      "source": "The Daily Jagran",
-      "sourceUrl": "https://www.thedailyjagran.com/entertainment/movie-reviews/the-vvaan-x-review-why-is-sidharth-malhotra-tamannaah-bhatia-movie-being-hailed-in-up-bihar-10330416",
-      "publishedAt": "2026-09-25T05:50:00.000Z",
-      "fetchedAt": "2026-09-25T06:28:40.006Z",
-      "title_hi": "द व्वान एक्स रिव्यू: सिद्धार्थ मल्होत्रा, तमन्ना भाटिया की फिल्म की यूपी, बिहार में क्यों हो रही है सराहना?",
-      "summary_hi": "द वावन एक्स रिव्यू: सिद्धार्थ मल्होत्रा और तमन्ना भाटिया की द वावान: फोर्स ऑफ द फॉरेस्ट सिनेमाघरों में रिलीज हो गई है। शुरुआती एक्स समीक्षाएँ काफी हद तक सकारात्मक हैं, खासकर छठ पूजा और बिहार की संस्कृति के चित्रण के लिए।",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "da vvana eksa rivyu: siddhartha malhotr, tamanna bhatiya ki philma ki yupi, bihara men kyon ho rahi hai sarahan?",
-      "summary_hinglish": "da vavana eksa rivyu: siddhartha malhotra aura tamanna bhatiya ki da vavan: phorsa ऑpha da phoresta sinemagharon men rilija ho gaee hai। shuruaati eksa samikshaen kaphi hada taka sakaratmaka hain, khasakara chhatha puja aura bihara ki sanskriti ke chitrana ke lie।",
       "category_hinglish": "Entertainment"
     },
     {
@@ -870,6 +887,23 @@
       "category_hinglish": "Politics aur Government"
     },
     {
+      "id": "c5f7e8ee9080ec31",
+      "title": "The Vvaan X Review: Why Is Sidharth Malhotra, Tamannaah Bhatia's Movie Being Hailed In UP, Bihar?",
+      "summary": "The Vvaan X Review: Sidharth Malhotra and Tamannaah Bhatia's The Vvaan: Force of the Forest is out in theatres. Early X reviews are largely positive, especially for its depiction of Chhath Puja and Bihar's culture.",
+      "category": "Entertainment",
+      "image": "https://images.thedailyjagran.com/images/2026/09/25/template/image/Vvan-movie-review-1790314619898.webp",
+      "source": "The Daily Jagran",
+      "sourceUrl": "https://www.thedailyjagran.com/entertainment/movie-reviews/the-vvaan-x-review-why-is-sidharth-malhotra-tamannaah-bhatia-movie-being-hailed-in-up-bihar-10330416",
+      "publishedAt": "2026-09-25T05:50:00.000Z",
+      "fetchedAt": "2026-09-25T06:28:40.006Z",
+      "title_hi": "द व्वान एक्स रिव्यू: सिद्धार्थ मल्होत्रा, तमन्ना भाटिया की फिल्म की यूपी, बिहार में क्यों हो रही है सराहना?",
+      "summary_hi": "द वावन एक्स रिव्यू: सिद्धार्थ मल्होत्रा और तमन्ना भाटिया की द वावान: फोर्स ऑफ द फॉरेस्ट सिनेमाघरों में रिलीज हो गई है। शुरुआती एक्स समीक्षाएँ काफी हद तक सकारात्मक हैं, खासकर छठ पूजा और बिहार की संस्कृति के चित्रण के लिए।",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "da vvana eksa rivyu: siddhartha malhotr, tamanna bhatiya ki philma ki yupi, bihara men kyon ho rahi hai sarahan?",
+      "summary_hinglish": "da vavana eksa rivyu: siddhartha malhotra aura tamanna bhatiya ki da vavan: phorsa ऑpha da phoresta sinemagharon men rilija ho gaee hai। shuruaati eksa samikshaen kaphi hada taka sakaratmaka hain, khasakara chhatha puja aura bihara ki sanskriti ke chitrana ke lie।",
+      "category_hinglish": "Entertainment"
+    },
+    {
       "id": "53e38dc996eccd7f",
       "title": "India’s soft stance in US mercenary VanDyke’s case only latest of many retreats",
       "summary": "Court relief to VanDyke reminiscent of Bhopal gas disaster and Purulia arms drop cases where India diluted criminal proceedings under diplomatic pressure",
@@ -885,23 +919,6 @@
       "title_hinglish": "ameriki bhadaे ke sainika vainadaika ke mamale men bharata ka narama rukha kaee pichhe hatane ki navinatama ghatana hai",
       "summary_hinglish": "vainadaika ko adalata se rahata ne bhopala gaisa trasadi aura puruliya hathiyara girane ke mamalon ki yada dila di, jahan bharata ne rajanayika dabava men aaparadhika karyavahi ko kamajora kara diya tha",
       "category_hinglish": "National aur Trending News"
-    },
-    {
-      "id": "fe630ec3977f4980",
-      "title": "Bihar sees third harassment case in a week, woman assaulted at tourist spot | India News",
-      "summary": "The video shows several youths mostly behaving indecently with the woman and assaulting her with a slipper. | India News",
-      "category": "Politics & Government",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/25/1600x900/logo/bihar_banka_1790311991337_jnDq_1790311991470_Hr8E_e9f69858-e366-45be-945a-fa045199bf58_qFW9.png",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/india-news/bihar-banka-mandar-hill-viral-video-woman-man-jamui-samastipur-101790311921188.html",
-      "publishedAt": "2026-09-25T04:58:50.000Z",
-      "fetchedAt": "2026-09-25T10:35:54.928Z",
-      "title_hi": "बिहार में एक हफ्ते में उत्पीड़न का तीसरा मामला, पर्यटन स्थल पर महिला से मारपीट | भारत समाचार",
-      "summary_hi": "वीडियो में दिखाया गया है कि कई युवक महिला के साथ अभद्र व्यवहार कर रहे हैं और उस पर चप्पल से हमला कर रहे हैं। | भारत समाचार",
-      "category_hi": "राजनीति और सरकार",
-      "title_hinglish": "bihara men eka haphte men utpidana ka tisara mamal, paryatana sthala para mahila se marapita | bharata samachara",
-      "summary_hinglish": "vidiyo men dikhaya gaya hai ki kaee yuvaka mahila ke satha abhadra vyavahara kara rahe hain aura usa para chappala se hamala kara rahe hain। | bharata samachara",
-      "category_hinglish": "Politics aur Government"
     },
     {
       "id": "c35b8906905b4058",
@@ -921,6 +938,23 @@
       "category_hinglish": "Technology"
     },
     {
+      "id": "fe630ec3977f4980",
+      "title": "Bihar sees third harassment case in a week, woman assaulted at tourist spot | India News",
+      "summary": "The video shows several youths mostly behaving indecently with the woman and assaulting her with a slipper. | India News",
+      "category": "Politics & Government",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/25/1600x900/logo/bihar_banka_1790311991337_jnDq_1790311991470_Hr8E_e9f69858-e366-45be-945a-fa045199bf58_qFW9.png",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/bihar-banka-mandar-hill-viral-video-woman-man-jamui-samastipur-101790311921188.html",
+      "publishedAt": "2026-09-25T04:58:50.000Z",
+      "fetchedAt": "2026-09-25T10:35:54.928Z",
+      "title_hi": "बिहार में एक हफ्ते में उत्पीड़न का तीसरा मामला, पर्यटन स्थल पर महिला से मारपीट | भारत समाचार",
+      "summary_hi": "वीडियो में दिखाया गया है कि कई युवक महिला के साथ अभद्र व्यवहार कर रहे हैं और उस पर चप्पल से हमला कर रहे हैं। | भारत समाचार",
+      "category_hi": "राजनीति और सरकार",
+      "title_hinglish": "bihara men eka haphte men utpidana ka tisara mamal, paryatana sthala para mahila se marapita | bharata samachara",
+      "summary_hinglish": "vidiyo men dikhaya gaya hai ki kaee yuvaka mahila ke satha abhadra vyavahara kara rahe hain aura usa para chappala se hamala kara rahe hain। | bharata samachara",
+      "category_hinglish": "Politics aur Government"
+    },
+    {
       "id": "09437d057bf28727",
       "title": "Mark Zuckerberg gives everyone their own personal Muse",
       "summary": "Most people who have used AI so far have done it through something like ChatGPT or Gemini. These are good AI chatbots but terrible AI agents unless you are extremely tech savvy. Mark Zuckerberg and Meta, however, have a plan to solve it with Muse. For now they are succeeding.",
@@ -936,23 +970,6 @@
       "title_hinglish": "marka jukarabarga hara kisi ko apana niji sangrahalaya dete hain",
       "summary_hinglish": "aba taka jina logon ne eaaee ka upayoga kiya hai, unamen se adhikansha ne ise chaitajipiti ya jemini jaisi kisi chija ke madhyama se kiya hai। ye achchhe eaaee chaitabota hain lekina bhayanaka eaaee ejenta hain jaba taka ki aapa atyadhika takanika premi na hon। halanki, marka jukarabarga aura meta ke pasa ise myuja ke satha hala karane ki yojana hai। philahala ve saphala ho rahe hain.",
       "category_hinglish": "Technology"
-    },
-    {
-      "id": "634ecb4091ac43ed",
-      "title": "Bihar Police raid Khanna house in Rs 35 lakh Bitcoin fraud case, accused duo missing",
-      "summary": "A team from Bihar Police conducted a raid at a house on Amloh Road in Khanna early Thursday in connection with an alleged Rs 35 lakh Bitcoin investment fraud case.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-131358489,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/ludhiana/bihar-police-raid-khanna-house-in-rs-35-lakh-bitcoin-fraud-case-accused-duo-missing/articleshow/134468508.cms",
-      "publishedAt": "2026-09-24T18:21:00.000Z",
-      "fetchedAt": "2026-09-24T18:39:29.347Z",
-      "title_hi": "35 लाख रुपये के बिटकॉइन धोखाधड़ी मामले में बिहार पुलिस ने खन्ना हाउस पर छापा मारा, आरोपी युगल गायब",
-      "summary_hi": "बिहार पुलिस की एक टीम ने कथित 35 लाख रुपये के बिटकॉइन निवेश धोखाधड़ी मामले में गुरुवार तड़के खन्ना के अमलोह रोड स्थित एक घर पर छापेमारी की।",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "35 lakha rupaye ke bitakoina dhokhadhadaी mamale men bihara pulisa ne khanna hausa para chhapa mar, aaropi yugala gayaba",
-      "summary_hinglish": "bihara pulisa ki eka tima ne kathita 35 lakha rupaye ke bitakoina nivesha dhokhadhadaी mamale men guruvara tadake khanna ke amaloha roda sthita eka ghara para chhapemari ki।",
-      "category_hinglish": "Crime aur Breaking News"
     },
     {
       "id": "b68efa27270027af",
@@ -989,6 +1006,23 @@
       "category_hinglish": "Crime aur Breaking News"
     },
     {
+      "id": "634ecb4091ac43ed",
+      "title": "Bihar Police raid Khanna house in Rs 35 lakh Bitcoin fraud case, accused duo missing",
+      "summary": "A team from Bihar Police conducted a raid at a house on Amloh Road in Khanna early Thursday in connection with an alleged Rs 35 lakh Bitcoin investment fraud case.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-131358489,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/ludhiana/bihar-police-raid-khanna-house-in-rs-35-lakh-bitcoin-fraud-case-accused-duo-missing/articleshow/134468508.cms",
+      "publishedAt": "2026-09-24T18:21:00.000Z",
+      "fetchedAt": "2026-09-24T18:39:29.347Z",
+      "title_hi": "35 लाख रुपये के बिटकॉइन धोखाधड़ी मामले में बिहार पुलिस ने खन्ना हाउस पर छापा मारा, आरोपी युगल गायब",
+      "summary_hi": "बिहार पुलिस की एक टीम ने कथित 35 लाख रुपये के बिटकॉइन निवेश धोखाधड़ी मामले में गुरुवार तड़के खन्ना के अमलोह रोड स्थित एक घर पर छापेमारी की।",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "35 lakha rupaye ke bitakoina dhokhadhadaी mamale men bihara pulisa ne khanna hausa para chhapa mar, aaropi yugala gayaba",
+      "summary_hinglish": "bihara pulisa ki eka tima ne kathita 35 lakha rupaye ke bitakoina nivesha dhokhadhadaी mamale men guruvara tadake khanna ke amaloha roda sthita eka ghara para chhapemari ki।",
+      "category_hinglish": "Crime aur Breaking News"
+    },
+    {
       "id": "030b2d188d19953c",
       "title": "As Google turns 28, here are 25 fun facts about the company's offices and data centers around the world",
       "summary": "Google’s offices around the world tell their own stories as the company turns 28. From a former flour mill in Dublin and a 19th-century residence in Paris to a data center built around a paper mill in Finland, the company’s workplaces reflect the places where they are located.",
@@ -1003,6 +1037,23 @@
       "category_hi": "टेक्नोलॉजी",
       "title_hinglish": "jaise hi Google 28 varsha ka ho gay, yahan duniya bhara men kanpani ke karyalayon aura deta kendron ke bare men 25 majedara tathya die gae hain",
       "summary_hinglish": "kanpani ke 28 sala pure hone para duniya bhara men Google ke karyalaya apani-apani kahaniyan sunate hain। dabalina men eka purva aata mila aura perisa men 19vin sadi ke nivasa se lekara phaिnalainda men eka pepara mila ke aasapasa bane deta sentara tak, kanpani ke karyasthala una sthanon ko darshate hain jahan ve sthita hain।",
+      "category_hinglish": "Technology"
+    },
+    {
+      "id": "b91678268cd1273c",
+      "title": "India will safeguard security and strategic autonomy when threatened: Rajnath Singh",
+      "summary": "Defence Minister Rajnath Singh on Sunday said India does not seek to occupy the territory of any country but will firmly safeguard its security and strategic autonomy when threatened, while asserting that national unity is essential to the country’s security. Addressing a Defence Conclave in New Delhi, Singh said India…",
+      "category": "Technology",
+      "image": "https://ddindia.co.in/wp-content/uploads/2025/10/202510071214-scaled.jpg",
+      "source": "ddindia.co.in",
+      "sourceUrl": "https://ddindia.co.in/2026/09/india-will-safeguard-security-and-strategic-autonomy-when-threatened-rajnath-singh/",
+      "publishedAt": "2026-09-27T09:24:16.000Z",
+      "fetchedAt": "2026-09-27T16:29:23.111Z",
+      "title_hi": "खतरा होने पर भारत सुरक्षा और रणनीतिक स्वायत्तता की रक्षा करेगा: राजनाथ सिंह",
+      "summary_hi": "रक्षा मंत्री राजनाथ सिंह ने रविवार को कहा कि भारत किसी भी देश के क्षेत्र पर कब्जा करने की कोशिश नहीं करता है, लेकिन खतरा होने पर अपनी सुरक्षा और रणनीतिक स्वायत्तता की दृढ़ता से रक्षा करेगा, साथ ही उन्होंने कहा कि देश की सुरक्षा के लिए राष्ट्रीय एकता आवश्यक है। नई दिल्ली में एक डिफेंस कॉन्क्लेव को संबोधित करते हुए सिंह ने कहा कि भारत...",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "khatara hone para bharata suraksha aura rananitika svayattata ki raksha kareg: rajanatha sinha",
+      "summary_hinglish": "raksha mantri rajanatha sinha ne ravivara ko kaha ki bharata kisi bhi desha ke kshetra para kabja karane ki koshisha nahin karata hai, lekina khatara hone para apani suraksha aura rananitika svayattata ki dridhata se raksha kareg, satha hi unhonne kaha ki desha ki suraksha ke lie rashtriya ekata aavashyaka hai। naee dilli men eka diphensa konkleva ko sanbodhita karate hue sinha ne kaha ki bharat...",
       "category_hinglish": "Technology"
     },
     {
