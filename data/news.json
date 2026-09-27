@@ -1,7 +1,58 @@
 {
-  "updatedAt": "2026-09-27T01:34:35.789Z",
-  "count": 77,
+  "updatedAt": "2026-09-27T01:47:50.181Z",
+  "count": 80,
   "articles": [
+    {
+      "id": "d460d68fce532ab3",
+      "title": "The Hidden Waste Challenge And Opportunity Behind India's Solar Growth",
+      "summary": "If India prepares before the waste curve rises sharply, a potential environmental burden can instead become a new circular economy industry.",
+      "category": "Technology",
+      "image": "https://imgs.etvbharat.com/etvbharat/prod-images/27-09-2026/1200-675-27725301-1063-27725301-1790416250708.jpg",
+      "source": "ETV Bharat",
+      "sourceUrl": "https://www.etvbharat.com/en/opinion/the-hidden-waste-challenge-and-opportunity-behind-india-solar-growth-enn26092603493",
+      "publishedAt": "2026-09-27T01:32:19.000Z",
+      "fetchedAt": "2026-09-27T01:47:35.184Z",
+      "title_hi": "भारत के सौर विकास के पीछे छिपी अपशिष्ट चुनौती और अवसर",
+      "summary_hi": "यदि भारत अपशिष्ट वक्र के तेजी से बढ़ने से पहले तैयारी करता है, तो संभावित पर्यावरणीय बोझ एक नया चक्रीय अर्थव्यवस्था उद्योग बन सकता है।",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "bharata ke saura vikasa ke pichhe chhipi apashishta chunauti aura avasara",
+      "summary_hinglish": "yadi bharata apashishta vakra ke teji se badhane se pahale taiyari karata hai, to sanbhavita paryavaraniya bojha eka naya chakriya arthavyavastha udyoga bana sakata hai।",
+      "category_hinglish": "Technology"
+    },
+    {
+      "id": "b09c672e4408b8f8",
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+      "category": "Technology",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1235830811-1.jpg?resize=1200,800",
+      "source": "techcrunch.com",
+      "sourceUrl": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "publishedAt": "2026-09-27T01:30:00.000Z",
+      "fetchedAt": "2026-09-27T01:47:32.009Z",
+      "title_hi": "Google भारत में जेमिनी और AI मोड के माध्यम से वॉलमार्ट के स्वामित्व वाले फ्लिपकार्ट से खरीदारी का परीक्षण कर रहा है",
+      "summary_hi": "सीमित परीक्षण में चुनिंदा उत्पादों और उपयोगकर्ताओं को शामिल किया गया है, बाद में अक्टूबर में व्यापक रोलआउट की योजना बनाई गई है।",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "Google bharata men jemini aura AI moda ke madhyama se volamarta ke svamitva vale phlipakarta se kharidari ka parikshana kara raha hai",
+      "summary_hinglish": "simita parikshana men chuninda utpadon aura upayogakartaon ko shamila kiya gaya hai, bada men aktubara men vyapaka rolaaauta ki yojana banaee gaee hai।",
+      "category_hinglish": "Technology"
+    },
+    {
+      "id": "03943fafde680d0a",
+      "title": "Samrat: Bihar, Centre to coordinate on cross-border crimes along Nepal border",
+      "summary": "Bihar govt and Centre will work in close coordination to curb infiltration, counterfeit currency, drug trafficking and other cross-border crimes along the sensitive India-Nepal border, CM Samrat Choudhary said here on Saturday after chairing a comprehensive high-level review meeting at the ‘Samvad’ hall in the Chief Minister’s Secretariat.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134507867,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/patna/samrat-bihar-centre-to-coordinate-on-cross-border-crimes-along-nepal-border/articleshow/134507868.cms",
+      "publishedAt": "2026-09-26T16:54:00.000Z",
+      "fetchedAt": "2026-09-26T17:15:41.433Z",
+      "title_hi": "सम्राट: बिहार, केंद्र नेपाल सीमा पर सीमा पार अपराधों पर समन्वय करें",
+      "summary_hi": "मुख्यमंत्री सम्राट चौधरी ने शनिवार को मुख्यमंत्री सचिवालय के 'संवाद' हॉल में एक व्यापक उच्च स्तरीय समीक्षा बैठक की अध्यक्षता करने के बाद कहा कि संवेदनशील भारत-नेपाल सीमा पर घुसपैठ, जाली मुद्रा, मादक पदार्थों की तस्करी और अन्य सीमा पार अपराधों को रोकने के लिए बिहार सरकार और केंद्र निकट समन्वय में काम करेंगे।",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "samrat: bihar, kendra nepala sima para sima para aparadhon para samanvaya karen",
+      "summary_hinglish": "mukhyamantri samrata chaudhari ne shanivara ko mukhyamantri sachivalaya ke 'sanvada' hola men eka vyapaka uchcha stariya samiksha baithaka ki adhyakshata karane ke bada kaha ki sanvedanashila bharata-nepala sima para ghusapaith, jali mudr, madaka padarthon ki taskari aura anya sima para aparadhon ko rokane ke lie bihara sarakara aura kendra nikata samanvaya men kama karenge।",
+      "category_hinglish": "Crime aur Breaking News"
+    },
     {
       "id": "9aaa5a078d61dbf5",
       "title": "‘Avengers Endgame: Encore’ box office collection day 2: Marvel re-release crosses Rs 15 crore mark in Ind",
@@ -37,21 +88,38 @@
       "category_hinglish": "Entertainment"
     },
     {
-      "id": "03943fafde680d0a",
-      "title": "Samrat: Bihar, Centre to coordinate on cross-border crimes along Nepal border",
-      "summary": "Bihar govt and Centre will work in close coordination to curb infiltration, counterfeit currency, drug trafficking and other cross-border crimes along the sensitive India-Nepal border, CM Samrat Choudhary said here on Saturday after chairing a comprehensive high-level review meeting at the ‘Samvad’ hall in the Chief Minister’s Secretariat.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134507867,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/patna/samrat-bihar-centre-to-coordinate-on-cross-border-crimes-along-nepal-border/articleshow/134507868.cms",
-      "publishedAt": "2026-09-26T16:54:00.000Z",
-      "fetchedAt": "2026-09-26T17:15:41.433Z",
-      "title_hi": "सम्राट: बिहार, केंद्र नेपाल सीमा पर सीमा पार अपराधों पर समन्वय करें",
-      "summary_hi": "मुख्यमंत्री सम्राट चौधरी ने शनिवार को मुख्यमंत्री सचिवालय के 'संवाद' हॉल में एक व्यापक उच्च स्तरीय समीक्षा बैठक की अध्यक्षता करने के बाद कहा कि संवेदनशील भारत-नेपाल सीमा पर घुसपैठ, जाली मुद्रा, मादक पदार्थों की तस्करी और अन्य सीमा पार अपराधों को रोकने के लिए बिहार सरकार और केंद्र निकट समन्वय में काम करेंगे।",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "samrat: bihar, kendra nepala sima para sima para aparadhon para samanvaya karen",
-      "summary_hinglish": "mukhyamantri samrata chaudhari ne shanivara ko mukhyamantri sachivalaya ke 'sanvada' hola men eka vyapaka uchcha stariya samiksha baithaka ki adhyakshata karane ke bada kaha ki sanvedanashila bharata-nepala sima para ghusapaith, jali mudr, madaka padarthon ki taskari aura anya sima para aparadhon ko rokane ke lie bihara sarakara aura kendra nikata samanvaya men kama karenge।",
-      "category_hinglish": "Crime aur Breaking News"
+      "id": "55d29fb029ceb324",
+      "title": "Bigg Boss 20: Mahhi Vij questions Isha Rikhi’s remarks after Qazi Touqeer clash mentions Badshah, 'Kaun sa tr",
+      "summary": "Mahhi Vij has weighed in on the latest Bigg Boss 20 controversy after Isha Rikhi spoke about her experience following her heated interaction with Qazi Touqeer.",
+      "category": "Entertainment",
+      "image": "https://static.india.com/wp-content/uploads/2026/09/Dhurandhar-2-Review-2026-09-26T145215.315.png",
+      "source": "India.com",
+      "sourceUrl": "https://www.india.com/entertainment/tv/bigg-boss-20-mahhi-vij-questions-isha-rikhis-remarks-after-qazi-touqeer-clash-mentions-badshah-kaun-sa-trauma-hit-ho-gaya-bhai-8530278/",
+      "publishedAt": "2026-09-26T09:46:10.000Z",
+      "fetchedAt": "2026-09-26T15:18:17.816Z",
+      "title_hi": "बिग बॉस 20: काजी तौकीर की झड़प के बाद माही विज ने ईशा रिखी की टिप्पणी पर सवाल उठाए, जिसमें बादशाह का जिक्र था, 'कौन सा ट्र'",
+      "summary_hi": "ईशा रिखी द्वारा काजी तौकीर के साथ तीखी बातचीत के बाद अपने अनुभव के बारे में बात करने के बाद माही विज ने नवीनतम बिग बॉस 20 विवाद पर जोर दिया है।",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "biga bosa 20: kaji taukira ki jhadapa ke bada mahi vija ne eesha rikhi ki tippani para savala uthae, jisamen badashaha ka jikra th, 'kauna sa tra'",
+      "summary_hinglish": "eesha rikhi dvara kaji taukira ke satha tikhi batachita ke bada apane anubhava ke bare men bata karane ke bada mahi vija ne navinatama biga bosa 20 vivada para jora diya hai।",
+      "category_hinglish": "Entertainment"
+    },
+    {
+      "id": "ceda43c888843e73",
+      "title": "2 hours in traffic: Christiansen admits Bengaluru travel, logistics affected Panama against India",
+      "summary": "Panama coach Thomas Christiansen pointed to Bengaluru’s traffic, travel and limited preparation after his side’s 1-1 draw with India, while also accepting responsibility for a transitional team that struggled to cope with the hosts’ intensity.",
+      "category": "Sports",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/india-vs-panama-263322709-16x9_0.png?VersionId=47uJ_QilyrFy0L_0rGidjPFb3mTsj_I6",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/sports/football/story/india-vs-panama-football-friendly-bengaluru-traffic-logistics-performance-1-1-draw-3003893-2026-09-27",
+      "publishedAt": "2026-09-27T00:00:04.000Z",
+      "fetchedAt": "2026-09-27T01:47:29.266Z",
+      "title_hi": "ट्रैफिक में 2 घंटे: क्रिस्टियनसेन ने स्वीकार किया कि बेंगलुरु यात्रा, भारत के खिलाफ पनामा में लॉजिस्टिक्स प्रभावित हुआ",
+      "summary_hi": "पनामा के कोच थॉमस क्रिस्टियनसेन ने भारत के साथ अपनी टीम के 1-1 से ड्रा के बाद बेंगलुरु के यातायात, यात्रा और सीमित तैयारी की ओर इशारा किया, साथ ही एक संक्रमणकालीन टीम की जिम्मेदारी भी स्वीकार की जो मेजबान टीम की तीव्रता से निपटने के लिए संघर्ष कर रही थी।",
+      "category_hi": "खेल",
+      "title_hinglish": "traiphika men 2 ghante: kristiyanasena ne svikara kiya ki bengaluru yatr, bharata ke khilapha panama men lojistiksa prabhavita huaa",
+      "summary_hinglish": "panama ke kocha thomasa kristiyanasena ne bharata ke satha apani tima ke 1-1 se dra ke bada bengaluru ke yatayat, yatra aura simita taiyari ki ora ishara kiy, satha hi eka sankramanakalina tima ki jimmedari bhi svikara ki jo mejabana tima ki tivrata se nipatane ke lie sangharsha kara rahi thi।",
+      "category_hinglish": "Sports"
     },
     {
       "id": "0332e713e611ca70",
@@ -88,21 +156,21 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "55d29fb029ceb324",
-      "title": "Bigg Boss 20: Mahhi Vij questions Isha Rikhi’s remarks after Qazi Touqeer clash mentions Badshah, 'Kaun sa tr",
-      "summary": "Mahhi Vij has weighed in on the latest Bigg Boss 20 controversy after Isha Rikhi spoke about her experience following her heated interaction with Qazi Touqeer.",
-      "category": "Entertainment",
-      "image": "https://static.india.com/wp-content/uploads/2026/09/Dhurandhar-2-Review-2026-09-26T145215.315.png",
-      "source": "India.com",
-      "sourceUrl": "https://www.india.com/entertainment/tv/bigg-boss-20-mahhi-vij-questions-isha-rikhis-remarks-after-qazi-touqeer-clash-mentions-badshah-kaun-sa-trauma-hit-ho-gaya-bhai-8530278/",
-      "publishedAt": "2026-09-26T09:46:10.000Z",
-      "fetchedAt": "2026-09-26T15:18:17.816Z",
-      "title_hi": "बिग बॉस 20: काजी तौकीर की झड़प के बाद माही विज ने ईशा रिखी की टिप्पणी पर सवाल उठाए, जिसमें बादशाह का जिक्र था, 'कौन सा ट्र'",
-      "summary_hi": "ईशा रिखी द्वारा काजी तौकीर के साथ तीखी बातचीत के बाद अपने अनुभव के बारे में बात करने के बाद माही विज ने नवीनतम बिग बॉस 20 विवाद पर जोर दिया है।",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "biga bosa 20: kaji taukira ki jhadapa ke bada mahi vija ne eesha rikhi ki tippani para savala uthae, jisamen badashaha ka jikra th, 'kauna sa tra'",
-      "summary_hinglish": "eesha rikhi dvara kaji taukira ke satha tikhi batachita ke bada apane anubhava ke bare men bata karane ke bada mahi vija ne navinatama biga bosa 20 vivada para jora diya hai।",
-      "category_hinglish": "Entertainment"
+      "id": "82305c5c0ae48a1f",
+      "title": "Bombay High Court Quashes Additional Commissioner's Order and Restores Removal of Police Patil for Engaging in Political Activities. Police Patil, a Government Servant Holding a Civil Post Under the Maharashtra Village Police Act, 1967, Violated Rule 5 of",
+      "summary": "The writ petition arose from a service dispute involving the removal of a Police Patil for engaging in political activities. The petitioner, a resident of village Wasi, objected before the Sub Divisional Magistrate, Umrer, that the respondent No.1, w... Keywords: Police Patil, political activities, government servant, civil post, Maharashtra Village…",
+      "category": "Politics & Government",
+      "image": "https://lawtext.in/admin/uploads/categoryimages/Bombay_High_Court_bombay_highcourt_LT.jpg",
+      "source": "lawtext.in",
+      "sourceUrl": "https://lawtext.in/judgement.php?bid=56291&ref=LT000009",
+      "publishedAt": "2026-09-26T09:15:00.000Z",
+      "fetchedAt": "2026-09-27T01:47:44.501Z",
+      "title_hi": "बॉम्बे हाई कोर्ट ने अतिरिक्त आयुक्त के आदेश को रद्द कर दिया और राजनीतिक गतिविधियों में शामिल होने के लिए पुलिस पाटिल को हटाने को बहाल कर दिया। महाराष्ट्र ग्राम पुलिस अधिनियम, 1967 के तहत सिविल पद पर कार्यरत एक सरकारी कर्मचारी पुलिस पाटिल ने नियम 5 का उल्लंघन किया।",
+      "summary_hi": "रिट याचिका राजनीतिक गतिविधियों में शामिल होने के कारण एक पुलिस पाटिल को हटाने से जुड़े एक सेवा विवाद से उत्पन्न हुई थी। वासी गांव के निवासी याचिकाकर्ता ने सब डिविजनल मजिस्ट्रेट, उमरेर के समक्ष आपत्ति जताई कि प्रतिवादी नंबर 1,... कीवर्ड: पुलिस पाटिल, राजनीतिक गतिविधियां, सरकारी कर्मचारी, सिविल पद, महाराष्ट्र गांव...",
+      "category_hi": "राजनीति और सरकार",
+      "title_hinglish": "bombe haee korta ne atirikta aayukta ke aadesha ko radda kara diya aura rajanitika gatividhiyon men shamila hone ke lie pulisa patila ko hatane ko bahala kara diya। maharashtra grama pulisa adhiniyam, 1967 ke tahata sivila pada para karyarata eka sarakari karmachari pulisa patila ne niyama 5 ka ullanghana kiya।",
+      "summary_hinglish": "rita yachika rajanitika gatividhiyon men shamila hone ke karana eka pulisa patila ko hatane se judaे eka seva vivada se utpanna huee thi। vasi ganva ke nivasi yachikakarta ne saba divijanala majistret, umarera ke samaksha aapatti jataee ki prativadi nanbara 1,... kivard: pulisa patil, rajanitika gatividhiyan, sarakari karmachari, sivila pad, maharashtra ganv...",
+      "category_hinglish": "Politics aur Government"
     },
     {
       "id": "c3647997e5908f06",
@@ -139,23 +207,6 @@
       "category_hinglish": "Sports"
     },
     {
-      "id": "a40b3f25355c9fdf",
-      "title": "DK Shivakumar struggles to keep government rifts and problems at bay",
-      "summary": "Since DK Shivakumar became Chief Minister of Karnataka, internal conflicts within Congress have surfaced. Recently, MLA Yashvantharayagowda Patil resigned over drought management issues affecting his constituency. Although his resignation was not accepted, the situation raised concerns about the party",
-      "category": "Politics & Government",
-      "image": "https://m.economictimes.com/thumb/width-1280,height-720,imgsize-66238,msid-134510276/cm-dk-dk-shivakumars-tenure-as-karnataka-chief-minister-has-faced-internal-congress-turmoil-highlighted-by-mla-resignations-and-assembly-clashes-.jpg",
-      "source": "The Economic Times",
-      "sourceUrl": "https://m.economictimes.com/news/politics-and-nation/dk-shivakumar-struggles-to-keep-government-rifts-and-problems-at-bay/amp_articleshow/134510263.cms",
-      "publishedAt": "2026-09-26T21:46:00.000Z",
-      "fetchedAt": "2026-09-26T23:24:26.030Z",
-      "title_hi": "डीके शिवकुमार सरकारी मतभेदों और समस्याओं को दूर रखने के लिए संघर्ष करते हैं",
-      "summary_hi": "डीके शिवकुमार के कर्नाटक के मुख्यमंत्री बनने के बाद से कांग्रेस के भीतर अंदरूनी कलह सतह पर आ गई है. हाल ही में, विधायक यशवंतरायगौड़ा पाटिल ने अपने निर्वाचन क्षेत्र को प्रभावित करने वाले सूखा प्रबंधन मुद्दों पर इस्तीफा दे दिया। हालांकि उनका इस्तीफा स्वीकार नहीं किया गया, लेकिन इस स्थिति ने पार्टी की चिंता बढ़ा दी है",
-      "category_hi": "राजनीति और सरकार",
-      "title_hinglish": "dike shivakumara sarakari matabhedon aura samasyaon ko dura rakhane ke lie sangharsha karate hain",
-      "summary_hinglish": "dike shivakumara ke karnataka ke mukhyamantri banane ke bada se kangresa ke bhitara andaruni kalaha sataha para aa gaee hai. hala hi men, vidhayaka yashavantarayagaudaा patila ne apane nirvachana kshetra ko prabhavita karane vale sukha prabandhana muddon para istipha de diya। halanki unaka istipha svikara nahin kiya gay, lekina isa sthiti ne parti ki chinta badhaा di hai",
-      "category_hinglish": "Politics aur Government"
-    },
-    {
       "id": "0fd2b8e1e638217a",
       "title": "After Bankipur win, Prashant Kishor's party weighs Delhi expansion | India News",
       "summary": "Supporters of Jan Suraaj in the national capital have been pressing for the party to establish a presence in Delhi.",
@@ -170,6 +221,23 @@
       "category_hi": "राजनीति और सरकार",
       "title_hinglish": "bankipura jita ke bada prashanta kishora ki parti dilli vistara para vichara kara rahi hai | bharata samachara",
       "summary_hinglish": "rashtriya rajadhani men jana suraja ke samarthaka parti para dilli men upasthiti sthapita karane ke lie dabava dala rahe hain।",
+      "category_hinglish": "Politics aur Government"
+    },
+    {
+      "id": "a40b3f25355c9fdf",
+      "title": "DK Shivakumar struggles to keep government rifts and problems at bay",
+      "summary": "Since DK Shivakumar became Chief Minister of Karnataka, internal conflicts within Congress have surfaced. Recently, MLA Yashvantharayagowda Patil resigned over drought management issues affecting his constituency. Although his resignation was not accepted, the situation raised concerns about the party",
+      "category": "Politics & Government",
+      "image": "https://m.economictimes.com/thumb/width-1280,height-720,imgsize-66238,msid-134510276/cm-dk-dk-shivakumars-tenure-as-karnataka-chief-minister-has-faced-internal-congress-turmoil-highlighted-by-mla-resignations-and-assembly-clashes-.jpg",
+      "source": "The Economic Times",
+      "sourceUrl": "https://m.economictimes.com/news/politics-and-nation/dk-shivakumar-struggles-to-keep-government-rifts-and-problems-at-bay/amp_articleshow/134510263.cms",
+      "publishedAt": "2026-09-26T21:46:00.000Z",
+      "fetchedAt": "2026-09-26T23:24:26.030Z",
+      "title_hi": "डीके शिवकुमार सरकारी मतभेदों और समस्याओं को दूर रखने के लिए संघर्ष करते हैं",
+      "summary_hi": "डीके शिवकुमार के कर्नाटक के मुख्यमंत्री बनने के बाद से कांग्रेस के भीतर अंदरूनी कलह सतह पर आ गई है. हाल ही में, विधायक यशवंतरायगौड़ा पाटिल ने अपने निर्वाचन क्षेत्र को प्रभावित करने वाले सूखा प्रबंधन मुद्दों पर इस्तीफा दे दिया। हालांकि उनका इस्तीफा स्वीकार नहीं किया गया, लेकिन इस स्थिति ने पार्टी की चिंता बढ़ा दी है",
+      "category_hi": "राजनीति और सरकार",
+      "title_hinglish": "dike shivakumara sarakari matabhedon aura samasyaon ko dura rakhane ke lie sangharsha karate hain",
+      "summary_hinglish": "dike shivakumara ke karnataka ke mukhyamantri banane ke bada se kangresa ke bhitara andaruni kalaha sataha para aa gaee hai. hala hi men, vidhayaka yashavantarayagaudaा patila ne apane nirvachana kshetra ko prabhavita karane vale sukha prabandhana muddon para istipha de diya। halanki unaka istipha svikara nahin kiya gay, lekina isa sthiti ne parti ki chinta badhaा di hai",
       "category_hinglish": "Politics aur Government"
     },
     {
@@ -190,23 +258,6 @@
       "category_hinglish": "Entertainment"
     },
     {
-      "id": "60281d7f3b54dde8",
-      "title": "“Engineers must learn to control the machine,not be controlled by it”:Deputy Chief Minister Dr.G. Parameshwara",
-      "summary": "Yogesh K Porwar *Karnataka must aspire to become one of the world’s great centres of innovation;engineers must prepare for the age of AI and AGI. Belagavi:Deputy Chief Minister Dr.G.Parameshwara called upon young engineers to prepare themselves for an era in which Artificial Intelligence will fundamentally transform industries,employment and society,and said…",
-      "category": "Technology",
-      "image": "https://www.countryandpolitics.in/wp-content/uploads/2026/09/1003212880.jpg",
-      "source": "Country and Politics",
-      "sourceUrl": "https://www.countryandpolitics.in/2026/09/27/engineers-must-learn-to-control-the-machinenot-be-controlled-by-itdeputy-chief-minister-dr-g-parameshwara/",
-      "publishedAt": "2026-09-26T20:14:35.000Z",
-      "fetchedAt": "2026-09-26T22:54:35.757Z",
-      "title_hi": "\"इंजीनियरों को मशीन को नियंत्रित करना सीखना चाहिए, न कि उससे नियंत्रित होना\": उपमुख्यमंत्री डॉ. जी. परमेश्वर",
-      "summary_hi": "योगेश के पोरवार *कर्नाटक को दुनिया के नवाचार के महान केंद्रों में से एक बनने की आकांक्षा रखनी चाहिए; इंजीनियरों को एआई और एजीआई के युग के लिए तैयार रहना चाहिए। बेलगावी: उपमुख्यमंत्री डॉ.जी.परमेश्वर ने युवा इंजीनियरों से खुद को एक ऐसे युग के लिए तैयार करने का आह्वान किया, जिसमें आर्टिफिशियल इंटेलिजेंस उद्योगों, रोजगार और समाज को मौलिक रूप से बदल देगा, और कहा...",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "\"injiniyaron ko mashina ko niyantrita karana sikhana chahie, na ki usase niyantrita hona\": upamukhyamantri do. ji. parameshvara",
-      "summary_hinglish": "yogesha ke poravara *karnataka ko duniya ke navachara ke mahana kendron men se eka banane ki aakanksha rakhani chahie; injiniyaron ko eaaee aura ejiaaee ke yuga ke lie taiyara rahana chahie। belagavi: upamukhyamantri do.ji.parameshvara ne yuva injiniyaron se khuda ko eka aise yuga ke lie taiyara karane ka aahvana kiy, jisamen aartiphishiyala intelijensa udyogon, rojagara aura samaja ko maulika rupa se badala deg, aura kah...",
-      "category_hinglish": "Technology"
-    },
-    {
       "id": "b2cee53f8a5cf9b2",
       "title": "Kriti Sanon shares cryptic Instagram post amid Jamui harassment and Delhi rape case: ‘It’s women vs patriarch",
       "summary": "Kriti Sanon’s latest Instagram activity has caught attention amid the ongoing discussion around the Jamui harassment case. Here’s what the actress shared and why it has sparked conversation.",
@@ -222,6 +273,23 @@
       "title_hinglish": "jamuee utpidana aura dilli balatkara mamale ke bicha kriti sanona ne gupta instagrama posta sajha kiy: 'yaha mahila banama pitrisatta hai",
       "summary_hinglish": "jamuee utpidana mamale ko lekara chala rahi charcha ke bicha kriti senana ki navinatama instagrama gatividhi ne dhyana khincha hai। yahan bataya gaya hai ki abhinetri ne kya sajha kiya aura kyon isane charcha ko badhaाva diya hai।",
       "category_hinglish": "Entertainment"
+    },
+    {
+      "id": "60281d7f3b54dde8",
+      "title": "“Engineers must learn to control the machine,not be controlled by it”:Deputy Chief Minister Dr.G. Parameshwara",
+      "summary": "Yogesh K Porwar *Karnataka must aspire to become one of the world’s great centres of innovation;engineers must prepare for the age of AI and AGI. Belagavi:Deputy Chief Minister Dr.G.Parameshwara called upon young engineers to prepare themselves for an era in which Artificial Intelligence will fundamentally transform industries,employment and society,and said…",
+      "category": "Technology",
+      "image": "https://www.countryandpolitics.in/wp-content/uploads/2026/09/1003212880.jpg",
+      "source": "Country and Politics",
+      "sourceUrl": "https://www.countryandpolitics.in/2026/09/27/engineers-must-learn-to-control-the-machinenot-be-controlled-by-itdeputy-chief-minister-dr-g-parameshwara/",
+      "publishedAt": "2026-09-26T20:14:35.000Z",
+      "fetchedAt": "2026-09-26T22:54:35.757Z",
+      "title_hi": "\"इंजीनियरों को मशीन को नियंत्रित करना सीखना चाहिए, न कि उससे नियंत्रित होना\": उपमुख्यमंत्री डॉ. जी. परमेश्वर",
+      "summary_hi": "योगेश के पोरवार *कर्नाटक को दुनिया के नवाचार के महान केंद्रों में से एक बनने की आकांक्षा रखनी चाहिए; इंजीनियरों को एआई और एजीआई के युग के लिए तैयार रहना चाहिए। बेलगावी: उपमुख्यमंत्री डॉ.जी.परमेश्वर ने युवा इंजीनियरों से खुद को एक ऐसे युग के लिए तैयार करने का आह्वान किया, जिसमें आर्टिफिशियल इंटेलिजेंस उद्योगों, रोजगार और समाज को मौलिक रूप से बदल देगा, और कहा...",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "\"injiniyaron ko mashina ko niyantrita karana sikhana chahie, na ki usase niyantrita hona\": upamukhyamantri do. ji. parameshvara",
+      "summary_hinglish": "yogesha ke poravara *karnataka ko duniya ke navachara ke mahana kendron men se eka banane ki aakanksha rakhani chahie; injiniyaron ko eaaee aura ejiaaee ke yuga ke lie taiyara rahana chahie। belagavi: upamukhyamantri do.ji.parameshvara ne yuva injiniyaron se khuda ko eka aise yuga ke lie taiyara karane ka aahvana kiy, jisamen aartiphishiyala intelijensa udyogon, rojagara aura samaja ko maulika rupa se badala deg, aura kah...",
+      "category_hinglish": "Technology"
     },
     {
       "id": "f56752d09cbc36d7",
@@ -309,23 +377,6 @@
       "category_hinglish": "Crime aur Breaking News"
     },
     {
-      "id": "5b6aff7715b2c144",
-      "title": "IIT Madras-backed Unicorn India Ventures raises ₹450 crore; to complete the fund at ₹1,000 crore by December",
-      "summary": "IIT Madras, its Research Park (IITMRP), and venture capital firm Unicorn India Ventures have announced a first close of ₹450 crore in three months. The final close of a ₹1,000 crore fund, dedicated to advanced technology startups, is expected by December, 2026.",
-      "category": "Technology",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
-      "source": "The Hindu",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/iit-madras-backed-unicorn-india-ventures-raises-450-crore-to-complete-the-fund-at-1000-crore-by-december/article71513812.ece",
-      "publishedAt": "2026-09-26T18:39:52.000Z",
-      "fetchedAt": "2026-09-26T19:00:15.279Z",
-      "title_hi": "आईआईटी मद्रास समर्थित यूनिकॉर्न इंडिया वेंचर्स ने ₹450 करोड़ जुटाए; दिसंबर तक ₹1,000 करोड़ का फंड पूरा करना",
-      "summary_hi": "आईआईटी मद्रास, इसके रिसर्च पार्क (आईआईटीएमआरपी) और उद्यम पूंजी फर्म यूनिकॉर्न इंडिया वेंचर्स ने तीन महीनों में ₹450 करोड़ के पहले समापन की घोषणा की है। उन्नत प्रौद्योगिकी स्टार्टअप के लिए समर्पित ₹1,000 करोड़ के फंड का अंतिम समापन दिसंबर, 2026 तक होने की उम्मीद है।",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "aaeeaaeeti madrasa samarthita yunikorna indiya vencharsa ne ₹450 karoda jutae; disanbara taka ₹1,000 karoda ka phanda pura karana",
-      "summary_hinglish": "aaeeaaeeti madras, isake risarcha parka (aaeeaaeetiemaaarapi) aura udyama punji pharma yunikorna indiya vencharsa ne tina mahinon men ₹450 karoda ke pahale samapana ki ghoshana ki hai। unnata praudyogiki startaapa ke lie samarpita ₹1,000 karoda ke phanda ka antima samapana disanbar, 2026 taka hone ki ummida hai।",
-      "category_hinglish": "Technology"
-    },
-    {
       "id": "ca4a7bd9f0cb7546",
       "title": "Woman hit with slipper, forced to transfer ₹1,500: Bihar sees another harassment case amid outrage | India News",
       "summary": "The video shows several youths allegedly behaving indecently with the woman and hitting her with a slipper. One of the youths is also seen threatening her. | India News",
@@ -341,6 +392,23 @@
       "title_hinglish": "mahila ko chappala se mara gay, ₹1,500 transaphara karane ke lie majabura kiya gay: aakrosha ke bicha bihara men utpidana ka eka aura mamala samane aaya | bharata samachara",
       "summary_hinglish": "vidiyo men kaee yuvakon ko kathita taura para mahila ke satha abhadra vyavahara karate aura use chappala se marate hue dikhaya gaya hai। unamen se eka yuvaka use dhamakata bhi najara aa raha hai. | bharata samachara",
       "category_hinglish": "Politics aur Government"
+    },
+    {
+      "id": "5b6aff7715b2c144",
+      "title": "IIT Madras-backed Unicorn India Ventures raises ₹450 crore; to complete the fund at ₹1,000 crore by December",
+      "summary": "IIT Madras, its Research Park (IITMRP), and venture capital firm Unicorn India Ventures have announced a first close of ₹450 crore in three months. The final close of a ₹1,000 crore fund, dedicated to advanced technology startups, is expected by December, 2026.",
+      "category": "Technology",
+      "image": "https://www.thehindu.com/theme/images/og-image.png",
+      "source": "The Hindu",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/iit-madras-backed-unicorn-india-ventures-raises-450-crore-to-complete-the-fund-at-1000-crore-by-december/article71513812.ece",
+      "publishedAt": "2026-09-26T18:39:52.000Z",
+      "fetchedAt": "2026-09-26T19:00:15.279Z",
+      "title_hi": "आईआईटी मद्रास समर्थित यूनिकॉर्न इंडिया वेंचर्स ने ₹450 करोड़ जुटाए; दिसंबर तक ₹1,000 करोड़ का फंड पूरा करना",
+      "summary_hi": "आईआईटी मद्रास, इसके रिसर्च पार्क (आईआईटीएमआरपी) और उद्यम पूंजी फर्म यूनिकॉर्न इंडिया वेंचर्स ने तीन महीनों में ₹450 करोड़ के पहले समापन की घोषणा की है। उन्नत प्रौद्योगिकी स्टार्टअप के लिए समर्पित ₹1,000 करोड़ के फंड का अंतिम समापन दिसंबर, 2026 तक होने की उम्मीद है।",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "aaeeaaeeti madrasa samarthita yunikorna indiya vencharsa ne ₹450 karoda jutae; disanbara taka ₹1,000 karoda ka phanda pura karana",
+      "summary_hinglish": "aaeeaaeeti madras, isake risarcha parka (aaeeaaeetiemaaarapi) aura udyama punji pharma yunikorna indiya vencharsa ne tina mahinon men ₹450 karoda ke pahale samapana ki ghoshana ki hai। unnata praudyogiki startaapa ke lie samarpita ₹1,000 karoda ke phanda ka antima samapana disanbar, 2026 taka hone ki ummida hai।",
+      "category_hinglish": "Technology"
     },
     {
       "id": "f06f892aafb44388",
@@ -360,23 +428,6 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "18dda7a77d0d6223",
-      "title": "Royapuram residents seek CCTV cameras amid crime concerns",
-      "summary": "Residents of Nehru Ninaivu Nagar, Royapuram, have urged Greater Chennai Corporation and police to install CCTV cameras at key locations in the locality, citing a spate of crimes, including chain-snatching and murder. Locals said the absence of cameras has left several areas vulnerable, with no visible steps taken to strengthen…",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134509222,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "timesofindia.indiatimes.com",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/chennai/royapuram-residents-seek-cctv-cameras-amid-crime-concerns/articleshow/134509223.cms",
-      "publishedAt": "2026-09-26T18:32:00.000Z",
-      "fetchedAt": "2026-09-26T18:49:04.300Z",
-      "title_hi": "अपराध संबंधी चिंताओं के बीच रोयापुरम निवासी सीसीटीवी कैमरे चाहते हैं",
-      "summary_hi": "नेहरू निनैवु नगर, रोयापुरम के निवासियों ने चेन-स्नैचिंग और हत्या सहित कई अपराधों का हवाला देते हुए ग्रेटर चेन्नई कॉर्पोरेशन और पुलिस से इलाके में प्रमुख स्थानों पर सीसीटीवी कैमरे लगाने का आग्रह किया है। स्थानीय लोगों ने कहा कि कैमरों की अनुपस्थिति ने कई क्षेत्रों को असुरक्षित बना दिया है, जिसे मजबूत करने के लिए कोई कदम नहीं उठाया गया है...",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "aparadha sanbandhi chintaon ke bicha royapurama nivasi sisitivi kaimare chahate hain",
-      "summary_hinglish": "neharu ninaivu nagar, royapurama ke nivasiyon ne chena-snaichinga aura hatya sahita kaee aparadhon ka havala dete hue gretara chennaee korporeshana aura pulisa se ilake men pramukha sthanon para sisitivi kaimare lagane ka aagraha kiya hai। sthaniya logon ne kaha ki kaimaron ki anupasthiti ne kaee kshetron ko asurakshita bana diya hai, jise majabuta karane ke lie koee kadama nahin uthaya gaya hai...",
-      "category_hinglish": "Crime aur Breaking News"
-    },
-    {
       "id": "f606cc4dbdf8b5fe",
       "title": "Poll panel's SIR orders for Bihar, other states and UTs were unanimous: EC sources amid row | India News",
       "summary": "The approved SIR orders include Declaration Form to be submitted along with Form 6 for new voters to be added to reduce paper work and for the ease of citizens.",
@@ -392,6 +443,23 @@
       "title_hinglish": "bihar, anya rajyon aura kendrashasita pradeshon ke lie pola painala ke esaaaeeaara aadesha ekamata the: vivada ke bicha chunava aayoga ke sutra | bharata samachara",
       "summary_hinglish": "anumodita esaaaeeaara aadeshon men kagaji kama ko kama karane aura nagarikon ki aasani ke lie nae matadataon ko jodane ke lie phorma 6 ke satha jama kiya jane vala ghoshana patra shamila hai।",
       "category_hinglish": "Politics aur Government"
+    },
+    {
+      "id": "18dda7a77d0d6223",
+      "title": "Royapuram residents seek CCTV cameras amid crime concerns",
+      "summary": "Residents of Nehru Ninaivu Nagar, Royapuram, have urged Greater Chennai Corporation and police to install CCTV cameras at key locations in the locality, citing a spate of crimes, including chain-snatching and murder. Locals said the absence of cameras has left several areas vulnerable, with no visible steps taken to strengthen…",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134509222,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "timesofindia.indiatimes.com",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/chennai/royapuram-residents-seek-cctv-cameras-amid-crime-concerns/articleshow/134509223.cms",
+      "publishedAt": "2026-09-26T18:32:00.000Z",
+      "fetchedAt": "2026-09-26T18:49:04.300Z",
+      "title_hi": "अपराध संबंधी चिंताओं के बीच रोयापुरम निवासी सीसीटीवी कैमरे चाहते हैं",
+      "summary_hi": "नेहरू निनैवु नगर, रोयापुरम के निवासियों ने चेन-स्नैचिंग और हत्या सहित कई अपराधों का हवाला देते हुए ग्रेटर चेन्नई कॉर्पोरेशन और पुलिस से इलाके में प्रमुख स्थानों पर सीसीटीवी कैमरे लगाने का आग्रह किया है। स्थानीय लोगों ने कहा कि कैमरों की अनुपस्थिति ने कई क्षेत्रों को असुरक्षित बना दिया है, जिसे मजबूत करने के लिए कोई कदम नहीं उठाया गया है...",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "aparadha sanbandhi chintaon ke bicha royapurama nivasi sisitivi kaimare chahate hain",
+      "summary_hinglish": "neharu ninaivu nagar, royapurama ke nivasiyon ne chena-snaichinga aura hatya sahita kaee aparadhon ka havala dete hue gretara chennaee korporeshana aura pulisa se ilake men pramukha sthanon para sisitivi kaimare lagane ka aagraha kiya hai। sthaniya logon ne kaha ki kaimaron ki anupasthiti ne kaee kshetron ko asurakshita bana diya hai, jise majabuta karane ke lie koee kadama nahin uthaya gaya hai...",
+      "category_hinglish": "Crime aur Breaking News"
     },
     {
       "id": "268a53062e9da0ec",
@@ -479,23 +547,6 @@
       "category_hinglish": "Crime aur Breaking News"
     },
     {
-      "id": "32dfe2481f7bf466",
-      "title": "How Ed Sheeran went 'Indian' & didn't mix politics with his entertainment",
-      "summary": "Ed Sheeran’s Gaza controversy highlights the uneasy relationship between artists, politics and money. The writer argues that artists may have a powerful public voice, but those who control venues and finances often have the final say.",
-      "category": "Entertainment",
-      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-117016,resizemode-75,msid-134507280/opinion/et-commentary/how-ed-sheeran-went-indian-didnt-mix-politics-with-his-entertainment.jpg",
-      "source": "The Economic Times",
-      "sourceUrl": "https://economictimes.indiatimes.com/opinion/et-commentary/how-ed-sheeran-went-indian-didnt-mix-politics-with-his-entertainment/articleshow/134507280.cms",
-      "publishedAt": "2026-09-26T17:30:00.000Z",
-      "fetchedAt": "2026-09-26T18:34:05.583Z",
-      "title_hi": "कैसे एड शीरन 'भारतीय' बन गए और उन्होंने अपने मनोरंजन के साथ राजनीति को नहीं जोड़ा",
-      "summary_hi": "एड शीरन का गाजा विवाद कलाकारों, राजनीति और पैसे के बीच असहज संबंधों को उजागर करता है। लेखक का तर्क है कि कलाकारों के पास एक शक्तिशाली सार्वजनिक आवाज़ हो सकती है, लेकिन जो लोग स्थानों और वित्त को नियंत्रित करते हैं, अक्सर अंतिम निर्णय उनका होता है।",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "kaise eda shirana 'bharatiya' bana gae aura unhonne apane manoranjana ke satha rajaniti ko nahin jodaा",
-      "summary_hinglish": "eda shirana ka gaja vivada kalakaron, rajaniti aura paise ke bicha asahaja sanbandhon ko ujagara karata hai। lekhaka ka tarka hai ki kalakaron ke pasa eka shaktishali sarvajanika aavaja ho sakati hai, lekina jo loga sthanon aura vitta ko niyantrita karate hain, aksara antima nirnaya unaka hota hai।",
-      "category_hinglish": "Entertainment"
-    },
-    {
       "id": "d3a3994e37b7c554",
       "title": "'CEC must firmly present its side,' says Chirag Paswan as opposition demands Gyanesh Kumar's resignation",
       "summary": "'CEC must firmly present its side,' says Chirag Paswan as opposition demands Gyanesh Kumar's resignation - Patna (Bihar) [India], September 25 : Union Minister Chirag Paswan on Friday said the Election Commission must firmly present ... Get Latest News on Politics only on lokmattimes.com",
@@ -511,6 +562,23 @@
       "title_hinglish": "vipaksha dvara jnyanesha kumara ke istiphe ki manga para chiraga pasavana ne kah, 'sieesi ko apana paksha majabuti se rakhana chahie।'",
       "summary_hinglish": "vipaksha dvara jnyanesha kumara ke istiphe ki manga para chiraga pasavana ne kah, 'sieesi ko apana paksha majabuti se rakhana chahie।'",
       "category_hinglish": "Politics aur Government"
+    },
+    {
+      "id": "32dfe2481f7bf466",
+      "title": "How Ed Sheeran went 'Indian' & didn't mix politics with his entertainment",
+      "summary": "Ed Sheeran’s Gaza controversy highlights the uneasy relationship between artists, politics and money. The writer argues that artists may have a powerful public voice, but those who control venues and finances often have the final say.",
+      "category": "Entertainment",
+      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-117016,resizemode-75,msid-134507280/opinion/et-commentary/how-ed-sheeran-went-indian-didnt-mix-politics-with-his-entertainment.jpg",
+      "source": "The Economic Times",
+      "sourceUrl": "https://economictimes.indiatimes.com/opinion/et-commentary/how-ed-sheeran-went-indian-didnt-mix-politics-with-his-entertainment/articleshow/134507280.cms",
+      "publishedAt": "2026-09-26T17:30:00.000Z",
+      "fetchedAt": "2026-09-26T18:34:05.583Z",
+      "title_hi": "कैसे एड शीरन 'भारतीय' बन गए और उन्होंने अपने मनोरंजन के साथ राजनीति को नहीं जोड़ा",
+      "summary_hi": "एड शीरन का गाजा विवाद कलाकारों, राजनीति और पैसे के बीच असहज संबंधों को उजागर करता है। लेखक का तर्क है कि कलाकारों के पास एक शक्तिशाली सार्वजनिक आवाज़ हो सकती है, लेकिन जो लोग स्थानों और वित्त को नियंत्रित करते हैं, अक्सर अंतिम निर्णय उनका होता है।",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "kaise eda shirana 'bharatiya' bana gae aura unhonne apane manoranjana ke satha rajaniti ko nahin jodaा",
+      "summary_hinglish": "eda shirana ka gaja vivada kalakaron, rajaniti aura paise ke bicha asahaja sanbandhon ko ujagara karata hai। lekhaka ka tarka hai ki kalakaron ke pasa eka shaktishali sarvajanika aavaja ho sakati hai, lekina jo loga sthanon aura vitta ko niyantrita karate hain, aksara antima nirnaya unaka hota hai।",
+      "category_hinglish": "Entertainment"
     },
     {
       "id": "3aa3f59f503889f4",
@@ -530,23 +598,6 @@
       "category_hinglish": "Crime aur Breaking News"
     },
     {
-      "id": "bffc35d2f1820dc9",
-      "title": "India at Asian Games 2026 September 27 schedule: Packed Day 8 awaits with gold medal clashes in squash, athletics",
-      "summary": "India will have medal opportunities in squash, athletics, weightlifting, equestrian and race walking at the Asian Games 2026 on September 27, along with high-stakes contests in badminton, archery, shooting and team sports.",
-      "category": "Sports",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/Anahat_Singh_1790443251479_HyZ7_1790443251708_5W1b_9e333798-7cc9-475b-93b3-01eeb03e71e8_2TdG.jpg",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/sports/news/india-at-asian-games-2026-september-27-schedule-packed-day-8-awaits-with-gold-medal-clashes-in-squash-athletics-11790441165836.html",
-      "publishedAt": "2026-09-26T17:22:58.000Z",
-      "fetchedAt": "2026-09-26T17:31:27.205Z",
-      "title_hi": "एशियाई खेल 2026 में भारत 27 सितंबर का कार्यक्रम: स्क्वैश, एथलेटिक्स में स्वर्ण पदक की भिड़ंत से भरा आठवां दिन",
-      "summary_hi": "भारत के पास 27 सितंबर को एशियाई खेल 2026 में स्क्वैश, एथलेटिक्स, भारोत्तोलन, घुड़सवारी और रेस वॉकिंग में पदक के अवसर होंगे, साथ ही बैडमिंटन, तीरंदाजी, शूटिंग और टीम खेलों में उच्च जोखिम वाली प्रतियोगिताएं होंगी।",
-      "category_hi": "खेल",
-      "title_hinglish": "eshiyaee khela 2026 men bharata 27 sitanbara ka karyakram: skvaish, ethaletiksa men svarna padaka ki bhidanta se bhara aathavan dina",
-      "summary_hinglish": "bharata ke pasa 27 sitanbara ko eshiyaee khela 2026 men skvaish, ethaletiks, bharottolan, ghudasavari aura resa vokinga men padaka ke avasara honge, satha hi baidamintan, tirandaji, shutinga aura tima khelon men uchcha jokhima vali pratiyogitaen hongi।",
-      "category_hinglish": "Sports"
-    },
-    {
       "id": "e40637d4fb87586d",
       "title": "The Vvaan - Force Of The Forrest Movie Review: Sidharth Malhotra and Tamannaah Bhatia Bring Bihar Folklore to the Big Screen",
       "summary": "The Vvaan - Force Of The Forrest Movie review: Sidharth Malhotra and Tamannaah Bhatia lead a folklore-driven horror adventure rooted in Bihar.",
@@ -562,6 +613,23 @@
       "title_hinglish": "da vvana - phaोrsa ऑpha da phaॉresta muvi samiksh: siddhartha malhotra aura tamanna bhatiya bihara ke lokagita ko badaे parde para laenge",
       "summary_hinglish": "da vvana - phaोrsa ऑpha da phaॉresta muvi samiksh: siddhartha malhotra aura tamanna bhatiya bihara men nihita lokakathaon para aadharita daravani sahasika philma ka netritva karate hain।",
       "category_hinglish": "Entertainment"
+    },
+    {
+      "id": "bffc35d2f1820dc9",
+      "title": "India at Asian Games 2026 September 27 schedule: Packed Day 8 awaits with gold medal clashes in squash, athletics",
+      "summary": "India will have medal opportunities in squash, athletics, weightlifting, equestrian and race walking at the Asian Games 2026 on September 27, along with high-stakes contests in badminton, archery, shooting and team sports.",
+      "category": "Sports",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/Anahat_Singh_1790443251479_HyZ7_1790443251708_5W1b_9e333798-7cc9-475b-93b3-01eeb03e71e8_2TdG.jpg",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/sports/news/india-at-asian-games-2026-september-27-schedule-packed-day-8-awaits-with-gold-medal-clashes-in-squash-athletics-11790441165836.html",
+      "publishedAt": "2026-09-26T17:22:58.000Z",
+      "fetchedAt": "2026-09-26T17:31:27.205Z",
+      "title_hi": "एशियाई खेल 2026 में भारत 27 सितंबर का कार्यक्रम: स्क्वैश, एथलेटिक्स में स्वर्ण पदक की भिड़ंत से भरा आठवां दिन",
+      "summary_hi": "भारत के पास 27 सितंबर को एशियाई खेल 2026 में स्क्वैश, एथलेटिक्स, भारोत्तोलन, घुड़सवारी और रेस वॉकिंग में पदक के अवसर होंगे, साथ ही बैडमिंटन, तीरंदाजी, शूटिंग और टीम खेलों में उच्च जोखिम वाली प्रतियोगिताएं होंगी।",
+      "category_hi": "खेल",
+      "title_hinglish": "eshiyaee khela 2026 men bharata 27 sitanbara ka karyakram: skvaish, ethaletiksa men svarna padaka ki bhidanta se bhara aathavan dina",
+      "summary_hinglish": "bharata ke pasa 27 sitanbara ko eshiyaee khela 2026 men skvaish, ethaletiks, bharottolan, ghudasavari aura resa vokinga men padaka ke avasara honge, satha hi baidamintan, tirandaji, shutinga aura tima khelon men uchcha jokhima vali pratiyogitaen hongi।",
+      "category_hinglish": "Sports"
     },
     {
       "id": "e97e51a3b48ce8b8",
@@ -649,23 +717,6 @@
       "category_hinglish": "Crime aur Breaking News"
     },
     {
-      "id": "8ebfa630e90de72b",
-      "title": "Sitharaman on India’s 10%+ growth potential: Startups and technology can drive next phase",
-      "summary": "Sitharaman said stronger economic growth would help the country move faster towards the objectives of Atmanirbhar Bharat and Viksit Bharat. However, she said reaching higher growth levels would require 'a lot more effort' from all sections of society",
-      "category": "Technology",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/logo/ANI-20260921224-0_1790435653836_Pp1t_1790435724193_M3mP_068b5da9-ad1f-472d-8cb9-3892ec3efc75_jBQV.jpg",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/economy/sitharaman-on-india-s-10-growth-potential-startups-and-technology-can-drive-next-phase-11790435377387.html",
-      "publishedAt": "2026-09-26T16:32:38.000Z",
-      "fetchedAt": "2026-09-26T16:47:40.978Z",
-      "title_hi": "भारत की 10%+ विकास क्षमता पर सीतारमण: स्टार्टअप और प्रौद्योगिकी अगले चरण को आगे बढ़ा सकते हैं",
-      "summary_hi": "सीतारमण ने कहा कि मजबूत आर्थिक वृद्धि से देश को आत्मनिर्भर भारत और विकसित भारत के लक्ष्यों की ओर तेजी से बढ़ने में मदद मिलेगी। हालाँकि, उन्होंने कहा कि उच्च विकास स्तर तक पहुँचने के लिए समाज के सभी वर्गों से 'बहुत अधिक प्रयास' की आवश्यकता होगी",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "bharata ki 10%+ vikasa kshamata para sitaraman: startaapa aura praudyogiki agale charana ko aage badhaा sakate hain",
-      "summary_hinglish": "sitaramana ne kaha ki majabuta aarthika vriddhi se desha ko aatmanirbhara bharata aura vikasita bharata ke lakshyon ki ora teji se badhane men madada milegi। halanki, unhonne kaha ki uchcha vikasa stara taka pahunchane ke lie samaja ke sabhi vargon se 'bahuta adhika prayasa' ki aavashyakata hogi",
-      "category_hinglish": "Technology"
-    },
-    {
       "id": "11df1a63ca080ea9",
       "title": "'I give 30% of my income to Bengaluru': Techie's request to Bihar CM goes viral, sparks debate online",
       "summary": "Rahul Kumar Yadav, an IT professional working in a hybrid role, urged Bihar Chief Minister Samrat Choudhary to build a strong IT ecosystem in the state, saying thousands of professionals are forced to spend a significant portion of their income outside Bihar for work.",
@@ -681,6 +732,23 @@
       "title_hinglish": "'main apani aaya ka 30% bengaluru ko deta hun': bihara ke mukhyamantri se takaniki visheshajnya ka anurodha vayaral, ऑnalaina bahasa chhida gaee",
       "summary_hinglish": "haibrida bhumika men kama karane vale eka aaeeti peshevara rahula kumara yadava ne bihara ke mukhyamantri samrata chaudhari se rajya men eka majabuta aaeeti paristhitiki tantra banane ka aagraha kiy, unhonne kaha ki hajaron peshevara kama ke lie apani aaya ka eka mahatvapurna hissa bihara ke bahara kharcha karane ke lie majabura hain।",
       "category_hinglish": "Business aur Finance"
+    },
+    {
+      "id": "8ebfa630e90de72b",
+      "title": "Sitharaman on India’s 10%+ growth potential: Startups and technology can drive next phase",
+      "summary": "Sitharaman said stronger economic growth would help the country move faster towards the objectives of Atmanirbhar Bharat and Viksit Bharat. However, she said reaching higher growth levels would require 'a lot more effort' from all sections of society",
+      "category": "Technology",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/logo/ANI-20260921224-0_1790435653836_Pp1t_1790435724193_M3mP_068b5da9-ad1f-472d-8cb9-3892ec3efc75_jBQV.jpg",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/economy/sitharaman-on-india-s-10-growth-potential-startups-and-technology-can-drive-next-phase-11790435377387.html",
+      "publishedAt": "2026-09-26T16:32:38.000Z",
+      "fetchedAt": "2026-09-26T16:47:40.978Z",
+      "title_hi": "भारत की 10%+ विकास क्षमता पर सीतारमण: स्टार्टअप और प्रौद्योगिकी अगले चरण को आगे बढ़ा सकते हैं",
+      "summary_hi": "सीतारमण ने कहा कि मजबूत आर्थिक वृद्धि से देश को आत्मनिर्भर भारत और विकसित भारत के लक्ष्यों की ओर तेजी से बढ़ने में मदद मिलेगी। हालाँकि, उन्होंने कहा कि उच्च विकास स्तर तक पहुँचने के लिए समाज के सभी वर्गों से 'बहुत अधिक प्रयास' की आवश्यकता होगी",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "bharata ki 10%+ vikasa kshamata para sitaraman: startaapa aura praudyogiki agale charana ko aage badhaा sakate hain",
+      "summary_hinglish": "sitaramana ne kaha ki majabuta aarthika vriddhi se desha ko aatmanirbhara bharata aura vikasita bharata ke lakshyon ki ora teji se badhane men madada milegi। halanki, unhonne kaha ki uchcha vikasa stara taka pahunchane ke lie samaja ke sabhi vargon se 'bahuta adhika prayasa' ki aavashyakata hogi",
+      "category_hinglish": "Technology"
     },
     {
       "id": "b4aec306d49806d9",
@@ -700,23 +768,6 @@
       "category_hinglish": "Crime aur Breaking News"
     },
     {
-      "id": "5310a960668438be",
-      "title": "‎Election Commission row must be taken up in Parliament: G N Azad",
-      "summary": "‎DPAP chairman says opposition parties should jointly raise concerns; says he does not compare his tenure with present government",
-      "category": "Politics & Government",
-      "image": "https://www.knskashmir.com/userfiles/image/s_639260367501621067_image_-_2026-09-26T215541.379.png",
-      "source": "KNS News",
-      "sourceUrl": "https://www.knskashmir.com/%E2%80%8Eelection-commission-row-must-be-taken-up-in-parliament--g-n-azad-207680",
-      "publishedAt": "2026-09-26T16:27:48.000Z",
-      "fetchedAt": "2026-09-26T19:42:19.411Z",
-      "title_hi": "चुनाव आयोग विवाद को संसद में उठाया जाना चाहिए: जीएन आज़ाद",
-      "summary_hi": "डीपीएपी अध्यक्ष का कहना है कि विपक्षी दलों को संयुक्त रूप से चिंताएं उठानी चाहिए; उनका कहना है कि वह अपने कार्यकाल की तुलना वर्तमान सरकार से नहीं करते हैं",
-      "category_hi": "राजनीति और सरकार",
-      "title_hinglish": "chunava aayoga vivada ko sansada men uthaya jana chahie: jiena aajaाda",
-      "summary_hinglish": "dipiepi adhyaksha ka kahana hai ki vipakshi dalon ko sanyukta rupa se chintaen uthani chahie; unaka kahana hai ki vaha apane karyakala ki tulana vartamana sarakara se nahin karate hain",
-      "category_hinglish": "Politics aur Government"
-    },
-    {
       "id": "c5f7e8ee9080ec31",
       "title": "The Vvaan X Review: Why Is Sidharth Malhotra, Tamannaah Bhatia's Movie Being Hailed In UP, Bihar?",
       "summary": "The Vvaan X Review: Sidharth Malhotra and Tamannaah Bhatia's The Vvaan: Force of the Forest is out in theatres. Early X reviews are largely positive, especially for its depiction of Chhath Puja and Bihar's culture.",
@@ -732,6 +783,23 @@
       "title_hinglish": "da vvana eksa rivyu: siddhartha malhotr, tamanna bhatiya ki philma ki yupi, bihara men kyon ho rahi hai sarahan?",
       "summary_hinglish": "da vavana eksa rivyu: siddhartha malhotra aura tamanna bhatiya ki da vavan: phorsa ऑpha da phoresta sinemagharon men rilija ho gaee hai। shuruaati eksa samikshaen kaphi hada taka sakaratmaka hain, khasakara chhatha puja aura bihara ki sanskriti ke chitrana ke lie।",
       "category_hinglish": "Entertainment"
+    },
+    {
+      "id": "5310a960668438be",
+      "title": "‎Election Commission row must be taken up in Parliament: G N Azad",
+      "summary": "‎DPAP chairman says opposition parties should jointly raise concerns; says he does not compare his tenure with present government",
+      "category": "Politics & Government",
+      "image": "https://www.knskashmir.com/userfiles/image/s_639260367501621067_image_-_2026-09-26T215541.379.png",
+      "source": "KNS News",
+      "sourceUrl": "https://www.knskashmir.com/%E2%80%8Eelection-commission-row-must-be-taken-up-in-parliament--g-n-azad-207680",
+      "publishedAt": "2026-09-26T16:27:48.000Z",
+      "fetchedAt": "2026-09-26T19:42:19.411Z",
+      "title_hi": "चुनाव आयोग विवाद को संसद में उठाया जाना चाहिए: जीएन आज़ाद",
+      "summary_hi": "डीपीएपी अध्यक्ष का कहना है कि विपक्षी दलों को संयुक्त रूप से चिंताएं उठानी चाहिए; उनका कहना है कि वह अपने कार्यकाल की तुलना वर्तमान सरकार से नहीं करते हैं",
+      "category_hi": "राजनीति और सरकार",
+      "title_hinglish": "chunava aayoga vivada ko sansada men uthaya jana chahie: jiena aajaाda",
+      "summary_hinglish": "dipiepi adhyaksha ka kahana hai ki vipakshi dalon ko sanyukta rupa se chintaen uthani chahie; unaka kahana hai ki vaha apane karyakala ki tulana vartamana sarakara se nahin karate hain",
+      "category_hinglish": "Politics aur Government"
     },
     {
       "id": "6ed3a5103e9980cb",
@@ -793,7 +861,7 @@
       "source": "olympics.com",
       "sourceUrl": "https://www.olympics.com/en/news/asian-games-2026-medal-tally-india-winners-table-list",
       "publishedAt": "2026-09-26T15:41:00.000Z",
-      "fetchedAt": "2026-09-27T01:33:53.732Z",
+      "fetchedAt": "2026-09-27T01:47:25.786Z",
       "title_hi": "एशियाई खेल 2026: भारत की पदक तालिका और विजेताओं की सूची - पूरी तालिका",
       "summary_hi": "एशियाई खेल 2026 में भारत के विजेताओं की सूची जानें। पदक तालिका जानें और भारतीय एथलीटों ने प्रत्येक खेल में कितने पदक जीते हैं। पूरी मेज.",
       "category_hi": "खेल",
@@ -819,23 +887,6 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "c2970baa9bb6b8e0",
-      "title": "Athletics at Asian Games 2026: Schedule, events, India results and medal winners - full list",
-      "summary": "Know all Asian Games 2026 athletics scores, times, marks, results and for Indian athletes along with medal winners list. Get full schedule for track and field events.",
-      "category": "Sports",
-      "image": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/pez7acqkjw1r5febnff6",
-      "source": "olympics.com",
-      "sourceUrl": "https://www.olympics.com/en/news/asian-games-2026-athletics-results-scores-india-schedule",
-      "publishedAt": "2026-09-26T15:25:00.000Z",
-      "fetchedAt": "2026-09-27T01:34:06.062Z",
-      "title_hi": "एशियाई खेल 2026 में एथलेटिक्स: कार्यक्रम, कार्यक्रम, भारत के परिणाम और पदक विजेता - पूरी सूची",
-      "summary_hi": "सभी एशियाई खेल 2026 एथलेटिक्स स्कोर, समय, अंक, परिणाम और पदक विजेताओं की सूची के साथ भारतीय एथलीटों के बारे में जानें। ट्रैक और फील्ड इवेंट का पूरा शेड्यूल प्राप्त करें।",
-      "category_hi": "खेल",
-      "title_hinglish": "eshiyaee khela 2026 men ethaletiks: karyakram, karyakram, bharata ke parinama aura padaka vijeta - puri suchi",
-      "summary_hinglish": "sabhi eshiyaee khela 2026 ethaletiksa skor, samay, ank, parinama aura padaka vijetaon ki suchi ke satha bharatiya ethaliton ke bare men janen। traika aura philda iventa ka pura shedyula prapta karen।",
-      "category_hinglish": "Sports"
-    },
-    {
       "id": "634ecb4091ac43ed",
       "title": "Bihar Police raid Khanna house in Rs 35 lakh Bitcoin fraud case, accused duo missing",
       "summary": "A team from Bihar Police conducted a raid at a house on Amloh Road in Khanna early Thursday in connection with an alleged Rs 35 lakh Bitcoin investment fraud case.",
@@ -851,6 +902,23 @@
       "title_hinglish": "35 lakha rupaye ke bitakoina dhokhadhadaी mamale men bihara pulisa ne khanna hausa para chhapa mar, aaropi yugala gayaba",
       "summary_hinglish": "bihara pulisa ki eka tima ne kathita 35 lakha rupaye ke bitakoina nivesha dhokhadhadaी mamale men guruvara tadake khanna ke amaloha roda sthita eka ghara para chhapemari ki।",
       "category_hinglish": "Crime aur Breaking News"
+    },
+    {
+      "id": "c2970baa9bb6b8e0",
+      "title": "Athletics at Asian Games 2026: Schedule, events, India results and medal winners - full list",
+      "summary": "Know all Asian Games 2026 athletics scores, times, marks, results and for Indian athletes along with medal winners list. Get full schedule for track and field events.",
+      "category": "Sports",
+      "image": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/pez7acqkjw1r5febnff6",
+      "source": "olympics.com",
+      "sourceUrl": "https://www.olympics.com/en/news/asian-games-2026-athletics-results-scores-india-schedule",
+      "publishedAt": "2026-09-26T15:25:00.000Z",
+      "fetchedAt": "2026-09-27T01:34:06.062Z",
+      "title_hi": "एशियाई खेल 2026 में एथलेटिक्स: कार्यक्रम, कार्यक्रम, भारत के परिणाम और पदक विजेता - पूरी सूची",
+      "summary_hi": "सभी एशियाई खेल 2026 एथलेटिक्स स्कोर, समय, अंक, परिणाम और पदक विजेताओं की सूची के साथ भारतीय एथलीटों के बारे में जानें। ट्रैक और फील्ड इवेंट का पूरा शेड्यूल प्राप्त करें।",
+      "category_hi": "खेल",
+      "title_hinglish": "eshiyaee khela 2026 men ethaletiks: karyakram, karyakram, bharata ke parinama aura padaka vijeta - puri suchi",
+      "summary_hinglish": "sabhi eshiyaee khela 2026 ethaletiksa skor, samay, ank, parinama aura padaka vijetaon ki suchi ke satha bharatiya ethaliton ke bare men janen। traika aura philda iventa ka pura shedyula prapta karen।",
+      "category_hinglish": "Sports"
     },
     {
       "id": "b9040ea2575cdacc",
@@ -870,23 +938,6 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "897c4f3f86685c19",
-      "title": "No Work, No Vote: The Power Voters Must Use",
-      "summary": "Mr Scindia is a long-standing friend of mine, a responsive public servant, and a competent minister. This incident is, therefore, not about him, but about the larger lesson to be derived from this...",
-      "category": "Politics & Government",
-      "image": "https://www.deccanchronicle.com/h-upload/2026/09/26/2093723-gram.jpg",
-      "source": "Deccan Chronicle",
-      "sourceUrl": "https://www.deccanchronicle.com/opinion/columnists/no-work-no-vote-the-power-voters-must-use-1990818",
-      "publishedAt": "2026-09-26T15:13:10.000Z",
-      "fetchedAt": "2026-09-26T22:12:01.143Z",
-      "title_hi": "काम नहीं, वोट नहीं: शक्ति का उपयोग मतदाताओं को अवश्य करना चाहिए",
-      "summary_hi": "श्री सिंधिया मेरे पुराने मित्र, एक उत्तरदायी लोक सेवक और एक सक्षम मंत्री हैं। इसलिए, यह घटना उसके बारे में नहीं है, बल्कि इससे मिलने वाले बड़े सबक के बारे में है...",
-      "category_hi": "राजनीति और सरकार",
-      "title_hinglish": "kama nahin, vota nahin: shakti ka upayoga matadataon ko avashya karana chahie",
-      "summary_hinglish": "shri sindhiya mere purane mitr, eka uttaradayi loka sevaka aura eka sakshama mantri hain। isalie, yaha ghatana usake bare men nahin hai, balki isase milane vale badaे sabaka ke bare men hai...",
-      "category_hinglish": "Politics aur Government"
-    },
-    {
       "id": "aef7c34b71cd6835",
       "title": "Patna school sports meet from Sept 30 to Oct 4",
       "summary": "The district-level school sports competition will be held from Sept 30 to Oct 4 at various sports grounds in Patna under the annual sports programme 2026-27. The event will give students an opportunity to showcase their sporting talent in competition.",
@@ -902,6 +953,23 @@
       "title_hinglish": "patana skula sportsa mita 30 sitanbara se 4 aktubara taka",
       "summary_hinglish": "varshika khela karyakrama 2026-27 ke tahata jila stariya vidyalaya khela pratiyogita 30 sitanbara se 4 aktubara taka patana ke vibhinna khela maidanon men aayojita ki jaegi। isa aayojana se chhatron ko pratiyogita men apani khela pratibha dikhane ka mauka milega।",
       "category_hinglish": "Sports"
+    },
+    {
+      "id": "897c4f3f86685c19",
+      "title": "No Work, No Vote: The Power Voters Must Use",
+      "summary": "Mr Scindia is a long-standing friend of mine, a responsive public servant, and a competent minister. This incident is, therefore, not about him, but about the larger lesson to be derived from this...",
+      "category": "Politics & Government",
+      "image": "https://www.deccanchronicle.com/h-upload/2026/09/26/2093723-gram.jpg",
+      "source": "Deccan Chronicle",
+      "sourceUrl": "https://www.deccanchronicle.com/opinion/columnists/no-work-no-vote-the-power-voters-must-use-1990818",
+      "publishedAt": "2026-09-26T15:13:10.000Z",
+      "fetchedAt": "2026-09-26T22:12:01.143Z",
+      "title_hi": "काम नहीं, वोट नहीं: शक्ति का उपयोग मतदाताओं को अवश्य करना चाहिए",
+      "summary_hi": "श्री सिंधिया मेरे पुराने मित्र, एक उत्तरदायी लोक सेवक और एक सक्षम मंत्री हैं। इसलिए, यह घटना उसके बारे में नहीं है, बल्कि इससे मिलने वाले बड़े सबक के बारे में है...",
+      "category_hi": "राजनीति और सरकार",
+      "title_hinglish": "kama nahin, vota nahin: shakti ka upayoga matadataon ko avashya karana chahie",
+      "summary_hinglish": "shri sindhiya mere purane mitr, eka uttaradayi loka sevaka aura eka sakshama mantri hain। isalie, yaha ghatana usake bare men nahin hai, balki isase milane vale badaे sabaka ke bare men hai...",
+      "category_hinglish": "Politics aur Government"
     },
     {
       "id": "97038ea93ac50a94",
@@ -989,23 +1057,6 @@
       "category_hinglish": "Crime aur Breaking News"
     },
     {
-      "id": "9fccc6c34b699e87",
-      "title": "When Congress MP Chandulal Chandrakar Suddenly Resigned Under the Rajiv Gandhi Government: Did Doordarshan’s Janvani Lead to His Downfall or Was It His Own Deed?",
-      "summary": "Key Points: TWO MONTHS AFTER former Education Minister Dharmendra Pradhan tendered his resignation on July 25, 2026, following the Cockroach Janata Party (CJP)-",
-      "category": "Politics & Government",
-      "image": "https://media.assettype.com/newsgram%2F2026-09-26%2Fgq6np616%2FScreenshot-2026-09-26-194528.webp?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "source": "newsgram.com",
-      "sourceUrl": "https://www.newsgram.com/india/2026/09/26/chandulal-chandrakar-resignation-reason",
-      "publishedAt": "2026-09-26T14:30:00.000Z",
-      "fetchedAt": "2026-09-26T17:44:37.520Z",
-      "title_hi": "जब कांग्रेस सांसद चंदूलाल चंद्राकर ने राजीव गांधी सरकार के तहत अचानक इस्तीफा दे दिया: क्या दूरदर्शन की जनवाणी उनके पतन का कारण बनी या यह उनका अपना काम था?",
-      "summary_hi": "मुख्य बिंदु: कॉकरोच जनता पार्टी (सीजेपी) के बाद पूर्व शिक्षा मंत्री धर्मेंद्र प्रधान द्वारा 25 जुलाई, 2026 को अपना इस्तीफा देने के दो महीने बाद-",
-      "category_hi": "राजनीति और सरकार",
-      "title_hinglish": "jaba kangresa sansada chandulala chandrakara ne rajiva gandhi sarakara ke tahata achanaka istipha de diy: kya duradarshana ki janavani unake patana ka karana bani ya yaha unaka apana kama th?",
-      "summary_hinglish": "mukhya bindu: kokarocha janata parti (sijepi) ke bada purva shiksha mantri dharmendra pradhana dvara 25 julaee, 2026 ko apana istipha dene ke do mahine bada-",
-      "category_hinglish": "Politics aur Government"
-    },
-    {
       "id": "da401641f60b2e9a",
       "title": "HT Evening News Brief Sept 24: 9 dead in Greater Noida fire tragedy, another teen harassed in Bihar | India News",
       "summary": "Here’s your evening news brief with the day’s top stories from politics, world affairs, sports, and entertainment.",
@@ -1020,6 +1071,23 @@
       "category_hi": "राजनीति और सरकार",
       "title_hinglish": "echati ivaninga nyuja bripha 24 sitanbar: gretara noeda men aaga lagane se 9 logon ki maut, bihara men eka aura kishora ko pareshana kiya gaya | bharata samachara",
       "summary_hinglish": "rajaniti, vishva mamalon, khela aura manoranjana se dina ki shirsha kahaniyon ke satha yahan aapaki shama ki khabaren sankshipta hain।",
+      "category_hinglish": "Politics aur Government"
+    },
+    {
+      "id": "9fccc6c34b699e87",
+      "title": "When Congress MP Chandulal Chandrakar Suddenly Resigned Under the Rajiv Gandhi Government: Did Doordarshan’s Janvani Lead to His Downfall or Was It His Own Deed?",
+      "summary": "Key Points: TWO MONTHS AFTER former Education Minister Dharmendra Pradhan tendered his resignation on July 25, 2026, following the Cockroach Janata Party (CJP)-",
+      "category": "Politics & Government",
+      "image": "https://media.assettype.com/newsgram%2F2026-09-26%2Fgq6np616%2FScreenshot-2026-09-26-194528.webp?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "newsgram.com",
+      "sourceUrl": "https://www.newsgram.com/india/2026/09/26/chandulal-chandrakar-resignation-reason",
+      "publishedAt": "2026-09-26T14:30:00.000Z",
+      "fetchedAt": "2026-09-26T17:44:37.520Z",
+      "title_hi": "जब कांग्रेस सांसद चंदूलाल चंद्राकर ने राजीव गांधी सरकार के तहत अचानक इस्तीफा दे दिया: क्या दूरदर्शन की जनवाणी उनके पतन का कारण बनी या यह उनका अपना काम था?",
+      "summary_hi": "मुख्य बिंदु: कॉकरोच जनता पार्टी (सीजेपी) के बाद पूर्व शिक्षा मंत्री धर्मेंद्र प्रधान द्वारा 25 जुलाई, 2026 को अपना इस्तीफा देने के दो महीने बाद-",
+      "category_hi": "राजनीति और सरकार",
+      "title_hinglish": "jaba kangresa sansada chandulala chandrakara ne rajiva gandhi sarakara ke tahata achanaka istipha de diy: kya duradarshana ki janavani unake patana ka karana bani ya yaha unaka apana kama th?",
+      "summary_hinglish": "mukhya bindu: kokarocha janata parti (sijepi) ke bada purva shiksha mantri dharmendra pradhana dvara 25 julaee, 2026 ko apana istipha dene ke do mahine bada-",
       "category_hinglish": "Politics aur Government"
     },
     {
@@ -1040,23 +1108,6 @@
       "category_hinglish": "National aur Trending News"
     },
     {
-      "id": "53bdb7b211342423",
-      "title": "Nirmala Sitharaman backs India’s 10% plus growth potential, highlights role of startups, technology",
-      "summary": "Sitharaman highlighted the rapid expansion of India's startup ecosystem since 2015 and said startups could play a major role in driving economic growth in the coming years",
-      "category": "Technology",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6ab7b1e7b31ac-nirmala-sitharaman-said-brics-participation-was-crucial-for-a-fair-and-durable-international-tax-fra-235807404-16x9.png",
-      "source": "businesstoday.in",
-      "sourceUrl": "https://www.businesstoday.in/india/story/nirmala-sitharaman-backs-indias-10-plus-growth-potential-highlights-role-of-startups-technology-558036-2026-09-26",
-      "publishedAt": "2026-09-26T14:10:06.000Z",
-      "fetchedAt": "2026-09-26T14:21:52.717Z",
-      "title_hi": "निर्मला सीतारमण ने भारत की 10% से अधिक विकास क्षमता का समर्थन किया, स्टार्टअप, प्रौद्योगिकी की भूमिका पर प्रकाश डाला",
-      "summary_hi": "सीतारमण ने 2015 के बाद से भारत के स्टार्टअप पारिस्थितिकी तंत्र के तेजी से विस्तार पर प्रकाश डाला और कहा कि स्टार्टअप आने वाले वर्षों में आर्थिक विकास को आगे बढ़ाने में प्रमुख भूमिका निभा सकते हैं।",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "nirmala sitaramana ne bharata ki 10% se adhika vikasa kshamata ka samarthana kiy, startaap, praudyogiki ki bhumika para prakasha dala",
-      "summary_hinglish": "sitaramana ne 2015 ke bada se bharata ke startaapa paristhitiki tantra ke teji se vistara para prakasha dala aura kaha ki startaapa aane vale varshon men aarthika vikasa ko aage badhaाne men pramukha bhumika nibha sakate hain।",
-      "category_hinglish": "Technology"
-    },
-    {
       "id": "cf0bfa78a67528df",
       "title": "Jamui Molestation Accused Nandan Yadav's Father Arrested In 2003 Double Murder Case After 23 Years",
       "summary": "Police said Ganauri Yadav had been absconding in the case for nearly 23 years and was the only one among the 11 accused who had remained outside jail.",
@@ -1072,6 +1123,23 @@
       "title_hinglish": "jamuee chhedachhada ke aaropi nandana yadava ke pita 23 sala bada 2003 dabala mardara kesa men giraphtara",
       "summary_hinglish": "pulisa ne kaha ki ganauri yadava isa mamale men lagabhaga 23 varshon se pharara tha aura 11 aaropiyon men se ekamatra tha jo jela se bahara raha tha।",
       "category_hinglish": "Crime aur Breaking News"
+    },
+    {
+      "id": "53bdb7b211342423",
+      "title": "Nirmala Sitharaman backs India’s 10% plus growth potential, highlights role of startups, technology",
+      "summary": "Sitharaman highlighted the rapid expansion of India's startup ecosystem since 2015 and said startups could play a major role in driving economic growth in the coming years",
+      "category": "Technology",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6ab7b1e7b31ac-nirmala-sitharaman-said-brics-participation-was-crucial-for-a-fair-and-durable-international-tax-fra-235807404-16x9.png",
+      "source": "businesstoday.in",
+      "sourceUrl": "https://www.businesstoday.in/india/story/nirmala-sitharaman-backs-indias-10-plus-growth-potential-highlights-role-of-startups-technology-558036-2026-09-26",
+      "publishedAt": "2026-09-26T14:10:06.000Z",
+      "fetchedAt": "2026-09-26T14:21:52.717Z",
+      "title_hi": "निर्मला सीतारमण ने भारत की 10% से अधिक विकास क्षमता का समर्थन किया, स्टार्टअप, प्रौद्योगिकी की भूमिका पर प्रकाश डाला",
+      "summary_hi": "सीतारमण ने 2015 के बाद से भारत के स्टार्टअप पारिस्थितिकी तंत्र के तेजी से विस्तार पर प्रकाश डाला और कहा कि स्टार्टअप आने वाले वर्षों में आर्थिक विकास को आगे बढ़ाने में प्रमुख भूमिका निभा सकते हैं।",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "nirmala sitaramana ne bharata ki 10% se adhika vikasa kshamata ka samarthana kiy, startaap, praudyogiki ki bhumika para prakasha dala",
+      "summary_hinglish": "sitaramana ne 2015 ke bada se bharata ke startaapa paristhitiki tantra ke teji se vistara para prakasha dala aura kaha ki startaapa aane vale varshon men aarthika vikasa ko aage badhaाne men pramukha bhumika nibha sakate hain।",
+      "category_hinglish": "Technology"
     },
     {
       "id": "7b0c4be02d815905",
@@ -1159,23 +1227,6 @@
       "category_hinglish": "Crime aur Breaking News"
     },
     {
-      "id": "5dbdb054713907d5",
-      "title": "Over 10% economic growth possible for India: Finance Minister",
-      "summary": "Finance Minister Sitharaman says India can exceed 10% growth with tech-driven reforms across startups, agriculture, and other sectors.",
-      "category": "Business & Finance",
-      "image": "https://th-i.thgim.com/public/incoming/bmgzsm/article71512921.ece/alternates/FREE_1200/PTI09_26_2026_000261A.jpg",
-      "source": "The Hindu",
-      "sourceUrl": "https://www.thehindu.com/business/Economy/over-10-economic-growth-possible-for-india-finance-minister/article71512767.ece/amp/",
-      "publishedAt": "2026-09-26T13:20:43.000Z",
-      "fetchedAt": "2026-09-26T14:36:41.232Z",
-      "title_hi": "भारत के लिए 10% से अधिक आर्थिक वृद्धि संभव: वित्त मंत्री",
-      "summary_hi": "वित्त मंत्री सीतारमण का कहना है कि स्टार्टअप, कृषि और अन्य क्षेत्रों में तकनीक-संचालित सुधारों के साथ भारत 10% की वृद्धि दर को पार कर सकता है।",
-      "category_hi": "बिज़नेस और फाइनेंस",
-      "title_hinglish": "bharata ke lie 10% se adhika aarthika vriddhi sanbhav: vitta mantri",
-      "summary_hinglish": "vitta mantri sitaramana ka kahana hai ki startaap, krishi aura anya kshetron men takanika-sanchalita sudharon ke satha bharata 10% ki vriddhi dara ko para kara sakata hai।",
-      "category_hinglish": "Business aur Finance"
-    },
-    {
       "id": "2866e0fdeea3c1a6",
       "title": "Removing salwar is not an attempt to rape: Supreme Court takes cognizance on Patna High Court’s judgment, cal",
       "summary": "In its July 9 judgment, the Patna High Court re-examined the evidence and concluded that the prosecution had failed to establish the necessary elements to prove the charge of attempted rape.",
@@ -1191,6 +1242,23 @@
       "title_hinglish": "salavara utarana repa ki koshisha nahin: suprima korta ne patana haee korta ke phaisale para liya sanjnyan, kaila",
       "summary_hinglish": "9 julaee ke apane phaisale men, patana uchcha nyayalaya ne sabuton ki phira se jancha ki aura nishkarsha nikala ki abhiyojana paksha balatkara ke prayasa ke aaropa ko sabita karane ke lie aavashyaka tatvon ko sthapita karane men viphala raha hai।",
       "category_hinglish": "Crime aur Breaking News"
+    },
+    {
+      "id": "5dbdb054713907d5",
+      "title": "Over 10% economic growth possible for India: Finance Minister",
+      "summary": "Finance Minister Sitharaman says India can exceed 10% growth with tech-driven reforms across startups, agriculture, and other sectors.",
+      "category": "Business & Finance",
+      "image": "https://th-i.thgim.com/public/incoming/bmgzsm/article71512921.ece/alternates/FREE_1200/PTI09_26_2026_000261A.jpg",
+      "source": "The Hindu",
+      "sourceUrl": "https://www.thehindu.com/business/Economy/over-10-economic-growth-possible-for-india-finance-minister/article71512767.ece/amp/",
+      "publishedAt": "2026-09-26T13:20:43.000Z",
+      "fetchedAt": "2026-09-26T14:36:41.232Z",
+      "title_hi": "भारत के लिए 10% से अधिक आर्थिक वृद्धि संभव: वित्त मंत्री",
+      "summary_hi": "वित्त मंत्री सीतारमण का कहना है कि स्टार्टअप, कृषि और अन्य क्षेत्रों में तकनीक-संचालित सुधारों के साथ भारत 10% की वृद्धि दर को पार कर सकता है।",
+      "category_hi": "बिज़नेस और फाइनेंस",
+      "title_hinglish": "bharata ke lie 10% se adhika aarthika vriddhi sanbhav: vitta mantri",
+      "summary_hinglish": "vitta mantri sitaramana ka kahana hai ki startaap, krishi aura anya kshetron men takanika-sanchalita sudharon ke satha bharata 10% ki vriddhi dara ko para kara sakata hai।",
+      "category_hinglish": "Business aur Finance"
     },
     {
       "id": "cde0af266c8c87be",
@@ -1210,23 +1278,6 @@
       "category_hinglish": "Sports"
     },
     {
-      "id": "b416f54ccf2cd640",
-      "title": "Sitharaman Calls For Major Investment In AI, Semiconductors, Quantum Tech",
-      "summary": "Union Finance Minister Nirmala Sitharaman has urged significant investment in AI infrastructure, semiconductors, and quantum technology, identifying them as India",
-      "category": "Technology",
-      "image": "https://im.rediff.com/1200-630/money/2019/sep/10nirmala-sitharaman1.jpg",
-      "source": "Rediff",
-      "sourceUrl": "https://www.rediff.com/news/report/ai-semiconductors-quantum-tech-indias-next-frontier/20260926.htm",
-      "publishedAt": "2026-09-26T13:13:39.000Z",
-      "fetchedAt": "2026-09-26T13:26:19.852Z",
-      "title_hi": "सीतारमण ने एआई, सेमीकंडक्टर्स, क्वांटम टेक में बड़े निवेश का आह्वान किया",
-      "summary_hi": "केंद्रीय वित्त मंत्री निर्मला सीतारमण ने एआई इंफ्रास्ट्रक्चर, सेमीकंडक्टर और क्वांटम टेक्नोलॉजी को भारत के रूप में पहचानते हुए इसमें महत्वपूर्ण निवेश का आग्रह किया है",
-      "category_hi": "टेक्नोलॉजी",
-      "category_hinglish": "Technology",
-      "title_hinglish": "sitaramana ne eaaee, semikandaktars, kvantama teka men badaे nivesha ka aahvana kiya",
-      "summary_hinglish": "kendriya vitta mantri nirmala sitaramana ne eaaee inphrastrakchar, semikandaktara aura kvantama teknoloji ko bharata ke rupa men pahachanate hue isamen mahatvapurna nivesha ka aagraha kiya hai"
-    },
-    {
       "id": "2636c75b9ef58a40",
       "title": "Bhagalpur’s Sandis Compound Set to Host BCCI Domestic Cricket Matches, Preparations Underway",
       "summary": "Bhagalpur/Patna : The Sandis Compound Stadium in Bhagalpur is being prepared to host BCCI domestic cricket matches, marking a significant",
@@ -1242,6 +1293,23 @@
       "category_hinglish": "Sports",
       "title_hinglish": "bhagalapura ka saindisa kanpaunda bisisiaaee ke gharelu kriketa maichon ki mejabani ke lie taiyar, taiyari chala rahi hai",
       "summary_hinglish": "bhagalapura/patana : bhagalapura ke saindisa kanpaunda stediyama ko bisisiaaee ke gharelu kriketa maichon ki mejabani ke lie taiyara kiya ja raha hai, jo eka mahatvapurna upalabdhi hai"
+    },
+    {
+      "id": "b416f54ccf2cd640",
+      "title": "Sitharaman Calls For Major Investment In AI, Semiconductors, Quantum Tech",
+      "summary": "Union Finance Minister Nirmala Sitharaman has urged significant investment in AI infrastructure, semiconductors, and quantum technology, identifying them as India",
+      "category": "Technology",
+      "image": "https://im.rediff.com/1200-630/money/2019/sep/10nirmala-sitharaman1.jpg",
+      "source": "Rediff",
+      "sourceUrl": "https://www.rediff.com/news/report/ai-semiconductors-quantum-tech-indias-next-frontier/20260926.htm",
+      "publishedAt": "2026-09-26T13:13:39.000Z",
+      "fetchedAt": "2026-09-26T13:26:19.852Z",
+      "title_hi": "सीतारमण ने एआई, सेमीकंडक्टर्स, क्वांटम टेक में बड़े निवेश का आह्वान किया",
+      "summary_hi": "केंद्रीय वित्त मंत्री निर्मला सीतारमण ने एआई इंफ्रास्ट्रक्चर, सेमीकंडक्टर और क्वांटम टेक्नोलॉजी को भारत के रूप में पहचानते हुए इसमें महत्वपूर्ण निवेश का आग्रह किया है",
+      "category_hi": "टेक्नोलॉजी",
+      "category_hinglish": "Technology",
+      "title_hinglish": "sitaramana ne eaaee, semikandaktars, kvantama teka men badaे nivesha ka aahvana kiya",
+      "summary_hinglish": "kendriya vitta mantri nirmala sitaramana ne eaaee inphrastrakchar, semikandaktara aura kvantama teknoloji ko bharata ke rupa men pahachanate hue isamen mahatvapurna nivesha ka aagraha kiya hai"
     },
     {
       "id": "ed9fa73a42d563db",
@@ -1293,23 +1361,6 @@
       "category_hinglish": "Crime aur Breaking News",
       "title_hinglish": "jamuee gropinga mamale men beta giraphtar, pita 23 sala taka chhipane ke bada 2003 ke dohare hatyakanda men pakadaा gay: pulisa ne use kaise paya",
       "summary_hinglish": "jamuee chhedachhada mamal: pulisa ne aaropi nandana yadava ke aaparadhika itihasa ka pata lagane ke bada 2003 ke dohare hatyakanda men usake pita ganori yadava ko giraphtara kara liya।"
-    },
-    {
-      "id": "f1e9d6e808a78fcc",
-      "title": "Guwahati Shocker: 22-year-old female student found dead at homestay, police detain boyfriend",
-      "summary": "A 22-year-old female student was found dead at a homestay in Guwahati's Azara area on Saturday.",
-      "category": "Crime & Breaking News",
-      "image": "https://s3.india.com/wp-content/uploads/2026/09/Nimisha-Thakuria-found-dead-Rudras-Kitchen-guwahati-suicide.jpg",
-      "source": "India.com",
-      "sourceUrl": "https://www.india.com/news/india/guwahati-shocker-22-year-old-female-student-found-dead-at-homestay-police-detain-boyfriend-crime-news-murder-suicide-gauhati-university-8530360/amp/",
-      "publishedAt": "2026-09-26T12:53:18.000Z",
-      "fetchedAt": "2026-09-26T14:04:43.905Z",
-      "title_hi": "गुवाहाटी शॉकर: होमस्टे में मृत मिली 22 वर्षीय छात्रा, पुलिस ने प्रेमी को हिरासत में लिया",
-      "summary_hi": "गुवाहाटी के अज़ारा इलाके में शनिवार को एक होमस्टे में 22 वर्षीय एक छात्रा मृत पाई गई।",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "guvahati shokar: homaste men mrita mili 22 varshiya chhatr, pulisa ne premi ko hirasata men liya",
-      "summary_hinglish": "guvahati ke ajaाra ilake men shanivara ko eka homaste men 22 varshiya eka chhatra mrita paee gaee।",
-      "category_hinglish": "Crime aur Breaking News"
     }
   ]
 }
