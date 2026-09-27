@@ -1,7 +1,24 @@
 {
-  "updatedAt": "2026-09-27T14:16:47.410Z",
+  "updatedAt": "2026-09-27T14:31:25.823Z",
   "count": 60,
   "articles": [
+    {
+      "id": "fca0a051533e8a7f",
+      "title": "India's Asian Games Journey: Silvers, Bronzes, And Unfulfilled Olympic Dreams",
+      "summary": "India added significantly to its Asian Games medal tally with strong performances across athletics, squash, and boxing. Ancy Sojan and Sarvesh Kushare secured silver medals in long jump and high jump respectively, while Parul Chaudhary and Harita Bhadra earned bronzes. Despite high hopes, Indian squash players missed out on Olympic…",
+      "category": "Sports",
+      "image": "https://im.rediff.com/1200-630/sports/2026/sep/27kushare.JPG",
+      "source": "Rediff",
+      "sourceUrl": "https://www.rediff.com/sports/report/indias-asian-games-medal-haul-athletics-squash-boxing/20260927.htm",
+      "publishedAt": "2026-09-27T14:14:50.000Z",
+      "fetchedAt": "2026-09-27T14:30:44.385Z",
+      "title_hi": "भारत की एशियाई खेलों की यात्रा: रजत, कांस्य और अधूरे ओलंपिक सपने",
+      "summary_hi": "भारत ने एथलेटिक्स, स्क्वैश और मुक्केबाजी में मजबूत प्रदर्शन के साथ एशियाई खेलों की पदक तालिका में महत्वपूर्ण योगदान दिया। एंसी सोजन और सर्वेश कुशारे ने क्रमशः लंबी कूद और ऊंची कूद में रजत पदक हासिल किए, जबकि पारुल चौधरी और हरिता भद्रा ने कांस्य पदक अर्जित किया। भारी उम्मीदों के बावजूद भारतीय स्क्वैश खिलाड़ी ओलिंपिक से चूक गए...",
+      "category_hi": "खेल",
+      "title_hinglish": "bharata ki eshiyaee khelon ki yatr: rajat, kansya aura adhure olanpika sapane",
+      "summary_hinglish": "bharata ne ethaletiks, skvaisha aura mukkebaji men majabuta pradarshana ke satha eshiyaee khelon ki padaka talika men mahatvapurna yogadana diya। ensi sojana aura sarvesha kushare ne kramashah lanbi kuda aura oonchi kuda men rajata padaka hasila kie, jabaki parula chaudhari aura harita bhadra ne kansya padaka arjita kiya। bhari ummidon ke bavajuda bharatiya skvaisha khiladaी olinpika se chuka gae...",
+      "category_hinglish": "Sports"
+    },
     {
       "id": "21fb7fe7dd8158a5",
       "title": "Asian Games Medal Tally: Why India drop out of top 10 despite winning seven more medals",
@@ -18,23 +35,6 @@
       "title_hinglish": "eshiyaee khela padaka talik: sata aura padaka jitane ke bavajuda bharata shirsha 10 se kyon bahara ho gay?",
       "summary_hinglish": "bharata ne ravivara ko eshiyaee khelon 2026 men sata aura padaka jodaे, lekina yaha padaka desha ko padaka talika men shirsha 10 men banae rakhane ke lie paryapta nahin tha।",
       "category_hinglish": "Sports"
-    },
-    {
-      "id": "94e005545cbf4fb9",
-      "title": "India ranks in ‘low’ category in AI adoption curve despite high search interest",
-      "summary": "India shows low AI adoption despite high search interest, highlighting an interest-to-use gap and infrastructure barriers in emerging economies.",
-      "category": "Technology",
-      "image": "https://bl-i.thgim.com/public/incoming/g3o90j/article71516431.ece/alternates/LANDSCAPE_1200/IMG_iStock-2207141986_2_1_00GJ4R81.jpg",
-      "source": "BusinessLine",
-      "sourceUrl": "https://www.thehindubusinessline.com/info-tech/india-ranks-in-low-category-in-ai-adoption-curve-despite-high-search-interest/article71516354.ece",
-      "publishedAt": "2026-09-27T13:57:54.000Z",
-      "fetchedAt": "2026-09-27T14:16:28.175Z",
-      "title_hi": "उच्च खोज रुचि के बावजूद भारत एआई अपनाने के मामले में 'निम्न' श्रेणी में है",
-      "summary_hi": "उच्च खोज रुचि के बावजूद भारत में एआई अपनाने की दर कम है, जो उभरती अर्थव्यवस्थाओं में उपयोग में रुचि के अंतर और बुनियादी ढांचे की बाधाओं को उजागर करता है।",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "uchcha khoja ruchi ke bavajuda bharata eaaee apanane ke mamale men 'nimna' shreni men hai",
-      "summary_hinglish": "uchcha khoja ruchi ke bavajuda bharata men eaaee apanane ki dara kama hai, jo ubharati arthavyavasthaon men upayoga men ruchi ke antara aura buniyadi dhanche ki badhaon ko ujagara karata hai।",
-      "category_hinglish": "Technology"
     },
     {
       "id": "4911f7e5a341b5b9",
@@ -54,6 +54,23 @@
       "category_hinglish": "Crime aur Breaking News"
     },
     {
+      "id": "94e005545cbf4fb9",
+      "title": "India ranks in ‘low’ category in AI adoption curve despite high search interest",
+      "summary": "India shows low AI adoption despite high search interest, highlighting an interest-to-use gap and infrastructure barriers in emerging economies.",
+      "category": "Technology",
+      "image": "https://bl-i.thgim.com/public/incoming/g3o90j/article71516431.ece/alternates/LANDSCAPE_1200/IMG_iStock-2207141986_2_1_00GJ4R81.jpg",
+      "source": "BusinessLine",
+      "sourceUrl": "https://www.thehindubusinessline.com/info-tech/india-ranks-in-low-category-in-ai-adoption-curve-despite-high-search-interest/article71516354.ece",
+      "publishedAt": "2026-09-27T13:57:54.000Z",
+      "fetchedAt": "2026-09-27T14:16:28.175Z",
+      "title_hi": "उच्च खोज रुचि के बावजूद भारत एआई अपनाने के मामले में 'निम्न' श्रेणी में है",
+      "summary_hi": "उच्च खोज रुचि के बावजूद भारत में एआई अपनाने की दर कम है, जो उभरती अर्थव्यवस्थाओं में उपयोग में रुचि के अंतर और बुनियादी ढांचे की बाधाओं को उजागर करता है।",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "uchcha khoja ruchi ke bavajuda bharata eaaee apanane ke mamale men 'nimna' shreni men hai",
+      "summary_hinglish": "uchcha khoja ruchi ke bavajuda bharata men eaaee apanane ki dara kama hai, jo ubharati arthavyavasthaon men upayoga men ruchi ke antara aura buniyadi dhanche ki badhaon ko ujagara karata hai।",
+      "category_hinglish": "Technology"
+    },
+    {
       "id": "cc68fb5da8520545",
       "title": "\"Gyanesh Kumar doesn't represent people but government\": NCP(SP)'s Rohit Pawar calls for abolishing EVMs amid CEC row",
       "summary": "Nationalist Congress Party (Sharadchandra Pawar) MLA Rohit Pawar launched a scathing attack on the Election Commission on Saturday, alleging that the poll body is acting as a representative of the central government rather than the citizens of India.",
@@ -71,23 +88,6 @@
       "category_hinglish": "Politics aur Government"
     },
     {
-      "id": "fcda53f3cc3bb034",
-      "title": "Unions to go on 3-day nationwide bank strike from September 28, services to be impacted",
-      "summary": "Nationwide 3-day bank strike from Sep 28 may disrupt core services; digital channels likely stay available and public banks most affected.",
-      "category": "Business & Finance",
-      "image": "https://th-i.thgim.com/public/incoming/eof77l/article71516112.ece/alternates/LANDSCAPE_1200/9604_27_9_2026_18_4_39_3_VSP28_BANK3.JPG",
-      "source": "The Hindu",
-      "sourceUrl": "https://www.thehindu.com/business/Industry/unions-to-go-on-3-day-nationwide-bank-strike-from-september-28-services-to-be-impacted/article71516034.ece",
-      "publishedAt": "2026-09-27T12:49:04.000Z",
-      "fetchedAt": "2026-09-27T13:34:19.947Z",
-      "title_hi": "यूनियनें 28 सितंबर से 3 दिवसीय राष्ट्रव्यापी बैंक हड़ताल पर जाएंगी, सेवाएं प्रभावित होंगी",
-      "summary_hi": "28 सितंबर से राष्ट्रव्यापी 3 दिवसीय बैंक हड़ताल से मुख्य सेवाएं बाधित हो सकती हैं; डिजिटल चैनल उपलब्ध रहने की संभावना है और सार्वजनिक बैंक सबसे अधिक प्रभावित होंगे।",
-      "category_hi": "बिज़नेस और फाइनेंस",
-      "title_hinglish": "yuniyanen 28 sitanbara se 3 divasiya rashtravyapi bainka hadatala para jaengi, sevaen prabhavita hongi",
-      "summary_hinglish": "28 sitanbara se rashtravyapi 3 divasiya bainka hadatala se mukhya sevaen badhita ho sakati hain; dijitala chainala upalabdha rahane ki sanbhavana hai aura sarvajanika bainka sabase adhika prabhavita honge।",
-      "category_hinglish": "Business aur Finance"
-    },
-    {
       "id": "03943fafde680d0a",
       "title": "Samrat: Bihar, Centre to coordinate on cross-border crimes along Nepal border",
       "summary": "Bihar govt and Centre will work in close coordination to curb infiltration, counterfeit currency, drug trafficking and other cross-border crimes along the sensitive India-Nepal border, CM Samrat Choudhary said here on Saturday after chairing a comprehensive high-level review meeting at the ‘Samvad’ hall in the Chief Minister’s Secretariat.",
@@ -103,6 +103,23 @@
       "title_hinglish": "samrat: bihar, kendra nepala sima para sima para aparadhon para samanvaya karen",
       "summary_hinglish": "mukhyamantri samrata chaudhari ne shanivara ko mukhyamantri sachivalaya ke 'sanvada' hola men eka vyapaka uchcha stariya samiksha baithaka ki adhyakshata karane ke bada kaha ki sanvedanashila bharata-nepala sima para ghusapaith, jali mudr, madaka padarthon ki taskari aura anya sima para aparadhon ko rokane ke lie bihara sarakara aura kendra nikata samanvaya men kama karenge।",
       "category_hinglish": "Crime aur Breaking News"
+    },
+    {
+      "id": "fcda53f3cc3bb034",
+      "title": "Unions to go on 3-day nationwide bank strike from September 28, services to be impacted",
+      "summary": "Nationwide 3-day bank strike from Sep 28 may disrupt core services; digital channels likely stay available and public banks most affected.",
+      "category": "Business & Finance",
+      "image": "https://th-i.thgim.com/public/incoming/eof77l/article71516112.ece/alternates/LANDSCAPE_1200/9604_27_9_2026_18_4_39_3_VSP28_BANK3.JPG",
+      "source": "The Hindu",
+      "sourceUrl": "https://www.thehindu.com/business/Industry/unions-to-go-on-3-day-nationwide-bank-strike-from-september-28-services-to-be-impacted/article71516034.ece",
+      "publishedAt": "2026-09-27T12:49:04.000Z",
+      "fetchedAt": "2026-09-27T13:34:19.947Z",
+      "title_hi": "यूनियनें 28 सितंबर से 3 दिवसीय राष्ट्रव्यापी बैंक हड़ताल पर जाएंगी, सेवाएं प्रभावित होंगी",
+      "summary_hi": "28 सितंबर से राष्ट्रव्यापी 3 दिवसीय बैंक हड़ताल से मुख्य सेवाएं बाधित हो सकती हैं; डिजिटल चैनल उपलब्ध रहने की संभावना है और सार्वजनिक बैंक सबसे अधिक प्रभावित होंगे।",
+      "category_hi": "बिज़नेस और फाइनेंस",
+      "title_hinglish": "yuniyanen 28 sitanbara se 3 divasiya rashtravyapi bainka hadatala para jaengi, sevaen prabhavita hongi",
+      "summary_hinglish": "28 sitanbara se rashtravyapi 3 divasiya bainka hadatala se mukhya sevaen badhita ho sakati hain; dijitala chainala upalabdha rahane ki sanbhavana hai aura sarvajanika bainka sabase adhika prabhavita honge।",
+      "category_hinglish": "Business aur Finance"
     },
     {
       "id": "328f6516ede2cc97",
@@ -139,23 +156,6 @@
       "summary_hinglish": "tejasvina shankara ne ravivara ko aaichi-nagoya men eshiyaee khelon men dikaithalona kansya padaka surakshita karane ke lie antima spardh, 1500 mitara men jita ke satha do dinon ki kathina pratispardha ko samapta kiya।"
     },
     {
-      "id": "5f05ccc564219f69",
-      "title": "India at the Centre of Suzuki’s Next 10-Year Strategy: Hybrids, CBG and 4 Million-Unit Capacity in Focus",
-      "summary": "Suzuki Motor Corporation has laid out its technology roadmap for the coming decade, and India occupies a central position in the Japanese automaker’s plans. Under its newly announced “Technology Strategy 2026 for 10 Years Ahead,” Suzuki intends to strengthen India as a major manufacturing and export hub while pursuing a…",
-      "category": "Technology",
-      "image": "https://static.wixstatic.com/media/1da610_0d0b82a46f874485977f29b0fd18b397~mv2.png/v1/fill/w_800,h_1000,al_c,q_90,usm_0.66_1.00_0.01/1da610_0d0b82a46f874485977f29b0fd18b397~mv2.png",
-      "source": "Autopunditz",
-      "sourceUrl": "https://www.autopunditz.com/post/suzuki-india-10-year-strategy-hybrid-cbg-4-million-production",
-      "publishedAt": "2026-09-27T12:17:50.000Z",
-      "fetchedAt": "2026-09-27T12:33:41.067Z",
-      "title_hi": "सुजुकी की अगली 10-वर्षीय रणनीति के केंद्र में भारत: हाइब्रिड, सीबीजी और 4 मिलियन-यूनिट क्षमता फोकस में",
-      "summary_hi": "सुजुकी मोटर कॉर्पोरेशन ने आने वाले दशक के लिए अपना प्रौद्योगिकी रोडमैप तैयार किया है, और भारत जापानी वाहन निर्माता की योजनाओं में एक केंद्रीय स्थान रखता है। अपनी नई घोषित \"आगे 10 वर्षों के लिए प्रौद्योगिकी रणनीति 2026\" के तहत, सुजुकी का इरादा भारत को एक प्रमुख विनिर्माण और निर्यात केंद्र के रूप में मजबूत करने का है...",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "sujuki ki agali 10-varshiya rananiti ke kendra men bharat: haibrid, sibiji aura 4 miliyana-yunita kshamata phokasa men",
-      "summary_hinglish": "sujuki motara korporeshana ne aane vale dashaka ke lie apana praudyogiki rodamaipa taiyara kiya hai, aura bharata japani vahana nirmata ki yojanaon men eka kendriya sthana rakhata hai। apani naee ghoshita \"aage 10 varshon ke lie praudyogiki rananiti 2026\" ke tahat, sujuki ka irada bharata ko eka pramukha vinirmana aura niryata kendra ke rupa men majabuta karane ka hai...",
-      "category_hinglish": "Technology"
-    },
-    {
       "id": "5e8713d098d8808b",
       "title": "Bihar Prepares For 2030 Women’s Hockey World Cup, Rajgir Set To Host Global Stars",
       "summary": "Patna: Bihar has stepped up preparations to host the 2030 FIH Women’s Hockey World Cup in Rajgir, with Sports Minister",
@@ -171,6 +171,23 @@
       "title_hinglish": "bihara 2030 mahila hoki vishva kapa ki taiyari kara raha hai, rajagira vaishvika sitaron ki mejabani ke lie taiyara hai",
       "summary_hinglish": "patan: khela mantri ke satha bihara ne rajagira men 2030 FIH mahila hoki vishva kapa ki mejabani ki taiyari teja kara di hai.",
       "category_hinglish": "Sports"
+    },
+    {
+      "id": "5f05ccc564219f69",
+      "title": "India at the Centre of Suzuki’s Next 10-Year Strategy: Hybrids, CBG and 4 Million-Unit Capacity in Focus",
+      "summary": "Suzuki Motor Corporation has laid out its technology roadmap for the coming decade, and India occupies a central position in the Japanese automaker’s plans. Under its newly announced “Technology Strategy 2026 for 10 Years Ahead,” Suzuki intends to strengthen India as a major manufacturing and export hub while pursuing a…",
+      "category": "Technology",
+      "image": "https://static.wixstatic.com/media/1da610_0d0b82a46f874485977f29b0fd18b397~mv2.png/v1/fill/w_800,h_1000,al_c,q_90,usm_0.66_1.00_0.01/1da610_0d0b82a46f874485977f29b0fd18b397~mv2.png",
+      "source": "Autopunditz",
+      "sourceUrl": "https://www.autopunditz.com/post/suzuki-india-10-year-strategy-hybrid-cbg-4-million-production",
+      "publishedAt": "2026-09-27T12:17:50.000Z",
+      "fetchedAt": "2026-09-27T12:33:41.067Z",
+      "title_hi": "सुजुकी की अगली 10-वर्षीय रणनीति के केंद्र में भारत: हाइब्रिड, सीबीजी और 4 मिलियन-यूनिट क्षमता फोकस में",
+      "summary_hi": "सुजुकी मोटर कॉर्पोरेशन ने आने वाले दशक के लिए अपना प्रौद्योगिकी रोडमैप तैयार किया है, और भारत जापानी वाहन निर्माता की योजनाओं में एक केंद्रीय स्थान रखता है। अपनी नई घोषित \"आगे 10 वर्षों के लिए प्रौद्योगिकी रणनीति 2026\" के तहत, सुजुकी का इरादा भारत को एक प्रमुख विनिर्माण और निर्यात केंद्र के रूप में मजबूत करने का है...",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "sujuki ki agali 10-varshiya rananiti ke kendra men bharat: haibrid, sibiji aura 4 miliyana-yunita kshamata phokasa men",
+      "summary_hinglish": "sujuki motara korporeshana ne aane vale dashaka ke lie apana praudyogiki rodamaipa taiyara kiya hai, aura bharata japani vahana nirmata ki yojanaon men eka kendriya sthana rakhata hai। apani naee ghoshita \"aage 10 varshon ke lie praudyogiki rananiti 2026\" ke tahat, sujuki ka irada bharata ko eka pramukha vinirmana aura niryata kendra ke rupa men majabuta karane ka hai...",
+      "category_hinglish": "Technology"
     },
     {
       "id": "5667160bbebef861",
@@ -190,23 +207,6 @@
       "category_hinglish": "Sports"
     },
     {
-      "id": "2b7ac66ac63c3130",
-      "title": "RBI net dollar purchases hit record $18.65 bn in July: Monthly bulletin",
-      "summary": "The central bank's concessional swap facility drove dollar inflows, while its outstanding net short position in the forward market surged to a record $136.77 billion",
-      "category": "Business & Finance",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/18/thumb/fitandfill/1200X628/1781760926-072.jpg",
-      "source": "Business Standard",
-      "sourceUrl": "https://www.business-standard.com/amp/finance/news/rbi-net-dollar-purchases-hit-record-18-65-bn-in-july-monthly-bulletin-126092700511_1.html",
-      "publishedAt": "2026-09-27T12:15:09.000Z",
-      "fetchedAt": "2026-09-27T13:47:15.271Z",
-      "title_hi": "जुलाई में RBI की शुद्ध डॉलर खरीदारी रिकॉर्ड $18.65 बिलियन तक पहुंच गई: मासिक बुलेटिन",
-      "summary_hi": "केंद्रीय बैंक की रियायती स्वैप सुविधा से डॉलर का प्रवाह बढ़ा, जबकि वायदा बाजार में इसकी बकाया शुद्ध शॉर्ट पोजीशन बढ़कर रिकॉर्ड 136.77 बिलियन डॉलर हो गई।",
-      "category_hi": "बिज़नेस और फाइनेंस",
-      "category_hinglish": "Business aur Finance",
-      "title_hinglish": "julaee men RBI ki shuddha dolara kharidari rikorda $18.65 biliyana taka pahuncha gaee: masika buletina",
-      "summary_hinglish": "kendriya bainka ki riyayati svaipa suvidha se dolara ka pravaha badhaा, jabaki vayada bajara men isaki bakaya shuddha shorta pojishana badhakara rikorda 136.77 biliyana dolara ho gaee।"
-    },
-    {
       "id": "55d29fb029ceb324",
       "title": "Bigg Boss 20: Mahhi Vij questions Isha Rikhi’s remarks after Qazi Touqeer clash mentions Badshah, 'Kaun sa tr",
       "summary": "Mahhi Vij has weighed in on the latest Bigg Boss 20 controversy after Isha Rikhi spoke about her experience following her heated interaction with Qazi Touqeer.",
@@ -222,6 +222,23 @@
       "title_hinglish": "biga bosa 20: kaji taukira ki jhadapa ke bada mahi vija ne eesha rikhi ki tippani para savala uthae, jisamen badashaha ka jikra th, 'kauna sa tra'",
       "summary_hinglish": "eesha rikhi dvara kaji taukira ke satha tikhi batachita ke bada apane anubhava ke bare men bata karane ke bada mahi vija ne navinatama biga bosa 20 vivada para jora diya hai।",
       "category_hinglish": "Entertainment"
+    },
+    {
+      "id": "2b7ac66ac63c3130",
+      "title": "RBI net dollar purchases hit record $18.65 bn in July: Monthly bulletin",
+      "summary": "The central bank's concessional swap facility drove dollar inflows, while its outstanding net short position in the forward market surged to a record $136.77 billion",
+      "category": "Business & Finance",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/18/thumb/fitandfill/1200X628/1781760926-072.jpg",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/amp/finance/news/rbi-net-dollar-purchases-hit-record-18-65-bn-in-july-monthly-bulletin-126092700511_1.html",
+      "publishedAt": "2026-09-27T12:15:09.000Z",
+      "fetchedAt": "2026-09-27T13:47:15.271Z",
+      "title_hi": "जुलाई में RBI की शुद्ध डॉलर खरीदारी रिकॉर्ड $18.65 बिलियन तक पहुंच गई: मासिक बुलेटिन",
+      "summary_hi": "केंद्रीय बैंक की रियायती स्वैप सुविधा से डॉलर का प्रवाह बढ़ा, जबकि वायदा बाजार में इसकी बकाया शुद्ध शॉर्ट पोजीशन बढ़कर रिकॉर्ड 136.77 बिलियन डॉलर हो गई।",
+      "category_hi": "बिज़नेस और फाइनेंस",
+      "category_hinglish": "Business aur Finance",
+      "title_hinglish": "julaee men RBI ki shuddha dolara kharidari rikorda $18.65 biliyana taka pahuncha gaee: masika buletina",
+      "summary_hinglish": "kendriya bainka ki riyayati svaipa suvidha se dolara ka pravaha badhaा, jabaki vayada bajara men isaki bakaya shuddha shorta pojishana badhakara rikorda 136.77 biliyana dolara ho gaee।"
     },
     {
       "id": "1cf9880d95d8b8ff",
@@ -241,23 +258,6 @@
       "category_hinglish": "Sports"
     },
     {
-      "id": "baf0c2dc20277eec",
-      "title": "Fatima Sana Shaikh praises Salman Khan for shutting down trolls on Bigg Boss 20",
-      "summary": "A new promo for Bigg Boss 20 shows actor Fatima Sana Shaikh praising host Salman Khan for shutting down online trolls. Her remarks highlighted the significant impact of public figures taking a stand against cyberbullying.",
-      "category": "Entertainment",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/fatima-sana-shaikh-praises-salman-khan-for-shutting-down-trolls-on-bigg-boss-20-275046358-16x9_0.jpg?VersionId=gR9pT4gdncGacTv2MUgdxzBa8j7cHkgI",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/amp/entertainment/television/story/fatima-sana-shaikh-praises-salman-khan-for-shutting-down-trolls-on-bigg-boss-20-3004118-2026-09-27",
-      "publishedAt": "2026-09-27T11:54:29.000Z",
-      "fetchedAt": "2026-09-27T12:11:51.923Z",
-      "title_hi": "फातिमा सना शेख ने बिग बॉस 20 में ट्रोल्स को बंद करने के लिए सलमान खान की प्रशंसा की",
-      "summary_hi": "बिग बॉस 20 के एक नए प्रोमो में अभिनेत्री फातिमा सना शेख ऑनलाइन ट्रोल्स को बंद करने के लिए मेजबान सलमान खान की प्रशंसा करती नजर आ रही हैं। उनकी टिप्पणियों ने साइबरबुलिंग के खिलाफ सार्वजनिक हस्तियों के रुख अपनाने के महत्वपूर्ण प्रभाव पर प्रकाश डाला।",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "phatima sana shekha ne biga bosa 20 men trolsa ko banda karane ke lie salamana khana ki prashansa ki",
-      "summary_hinglish": "biga bosa 20 ke eka nae promo men abhinetri phatima sana shekha ऑnalaina trolsa ko banda karane ke lie mejabana salamana khana ki prashansa karati najara aa rahi hain। unaki tippaniyon ne saibarabulinga ke khilapha sarvajanika hastiyon ke rukha apanane ke mahatvapurna prabhava para prakasha dala।",
-      "category_hinglish": "Entertainment"
-    },
-    {
       "id": "0fd2b8e1e638217a",
       "title": "After Bankipur win, Prashant Kishor's party weighs Delhi expansion | India News",
       "summary": "Supporters of Jan Suraaj in the national capital have been pressing for the party to establish a presence in Delhi.",
@@ -273,6 +273,23 @@
       "title_hinglish": "bankipura jita ke bada prashanta kishora ki parti dilli vistara para vichara kara rahi hai | bharata samachara",
       "summary_hinglish": "rashtriya rajadhani men jana suraja ke samarthaka parti para dilli men upasthiti sthapita karane ke lie dabava dala rahe hain।",
       "category_hinglish": "Politics aur Government"
+    },
+    {
+      "id": "baf0c2dc20277eec",
+      "title": "Fatima Sana Shaikh praises Salman Khan for shutting down trolls on Bigg Boss 20",
+      "summary": "A new promo for Bigg Boss 20 shows actor Fatima Sana Shaikh praising host Salman Khan for shutting down online trolls. Her remarks highlighted the significant impact of public figures taking a stand against cyberbullying.",
+      "category": "Entertainment",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/fatima-sana-shaikh-praises-salman-khan-for-shutting-down-trolls-on-bigg-boss-20-275046358-16x9_0.jpg?VersionId=gR9pT4gdncGacTv2MUgdxzBa8j7cHkgI",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/amp/entertainment/television/story/fatima-sana-shaikh-praises-salman-khan-for-shutting-down-trolls-on-bigg-boss-20-3004118-2026-09-27",
+      "publishedAt": "2026-09-27T11:54:29.000Z",
+      "fetchedAt": "2026-09-27T12:11:51.923Z",
+      "title_hi": "फातिमा सना शेख ने बिग बॉस 20 में ट्रोल्स को बंद करने के लिए सलमान खान की प्रशंसा की",
+      "summary_hi": "बिग बॉस 20 के एक नए प्रोमो में अभिनेत्री फातिमा सना शेख ऑनलाइन ट्रोल्स को बंद करने के लिए मेजबान सलमान खान की प्रशंसा करती नजर आ रही हैं। उनकी टिप्पणियों ने साइबरबुलिंग के खिलाफ सार्वजनिक हस्तियों के रुख अपनाने के महत्वपूर्ण प्रभाव पर प्रकाश डाला।",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "phatima sana shekha ne biga bosa 20 men trolsa ko banda karane ke lie salamana khana ki prashansa ki",
+      "summary_hinglish": "biga bosa 20 ke eka nae promo men abhinetri phatima sana shekha ऑnalaina trolsa ko banda karane ke lie mejabana salamana khana ki prashansa karati najara aa rahi hain। unaki tippaniyon ne saibarabulinga ke khilapha sarvajanika hastiyon ke rukha apanane ke mahatvapurna prabhava para prakasha dala।",
+      "category_hinglish": "Entertainment"
     },
     {
       "id": "10a894bc2a291a99",
@@ -309,23 +326,6 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "21f7e3488ebc165e",
-      "title": "India's China trade deficit may not tell the full story, FM Sitharaman explains why",
-      "summary": "Our export account would say that we are still not adequately exporting to China. Actually, it is going to China, but it never gets accounted like that because it goes to Vietnam, says FM Sitharaman",
-      "category": "Business & Finance",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6ab8f6426f888-finance-minister-nirmala-sitharaman-at-plf-2026-275600690-16x9.jpeg",
-      "source": "Business Today",
-      "sourceUrl": "https://www.businesstoday.in/latest/economy/story/indias-china-trade-deficit-may-not-tell-the-full-story-fm-sitharaman-explains-why-558089-2026-09-27",
-      "publishedAt": "2026-09-27T11:00:20.000Z",
-      "fetchedAt": "2026-09-27T11:54:29.484Z",
-      "title_hi": "भारत का चीन व्यापार घाटा पूरी कहानी नहीं बता सकता, वित्त मंत्री सीतारमण बताती हैं क्यों",
-      "summary_hi": "हमारा निर्यात खाता कहेगा कि हम अभी भी चीन को पर्याप्त रूप से निर्यात नहीं कर रहे हैं। वास्तव में, यह चीन जा रहा है, लेकिन इसका उस तरह हिसाब-किताब कभी नहीं किया जाता क्योंकि यह वियतनाम जाता है, ऐसा एफएम सीतारमण का कहना है",
-      "category_hi": "बिज़नेस और फाइनेंस",
-      "title_hinglish": "bharata ka china vyapara ghata puri kahani nahin bata sakat, vitta mantri sitaramana batati hain kyon",
-      "summary_hinglish": "hamara niryata khata kahega ki hama abhi bhi china ko paryapta rupa se niryata nahin kara rahe hain। vastava men, yaha china ja raha hai, lekina isaka usa taraha hisaba-kitaba kabhi nahin kiya jata kyonki yaha viyatanama jata hai, aisa ephaema sitaramana ka kahana hai",
-      "category_hinglish": "Business aur Finance"
-    },
-    {
       "id": "b2cee53f8a5cf9b2",
       "title": "Kriti Sanon shares cryptic Instagram post amid Jamui harassment and Delhi rape case: ‘It’s women vs patriarch",
       "summary": "Kriti Sanon’s latest Instagram activity has caught attention amid the ongoing discussion around the Jamui harassment case. Here’s what the actress shared and why it has sparked conversation.",
@@ -341,6 +341,23 @@
       "title_hinglish": "jamuee utpidana aura dilli balatkara mamale ke bicha kriti sanona ne gupta instagrama posta sajha kiy: 'yaha mahila banama pitrisatta hai",
       "summary_hinglish": "jamuee utpidana mamale ko lekara chala rahi charcha ke bicha kriti senana ki navinatama instagrama gatividhi ne dhyana khincha hai। yahan bataya gaya hai ki abhinetri ne kya sajha kiya aura kyon isane charcha ko badhaाva diya hai।",
       "category_hinglish": "Entertainment"
+    },
+    {
+      "id": "21f7e3488ebc165e",
+      "title": "India's China trade deficit may not tell the full story, FM Sitharaman explains why",
+      "summary": "Our export account would say that we are still not adequately exporting to China. Actually, it is going to China, but it never gets accounted like that because it goes to Vietnam, says FM Sitharaman",
+      "category": "Business & Finance",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6ab8f6426f888-finance-minister-nirmala-sitharaman-at-plf-2026-275600690-16x9.jpeg",
+      "source": "Business Today",
+      "sourceUrl": "https://www.businesstoday.in/latest/economy/story/indias-china-trade-deficit-may-not-tell-the-full-story-fm-sitharaman-explains-why-558089-2026-09-27",
+      "publishedAt": "2026-09-27T11:00:20.000Z",
+      "fetchedAt": "2026-09-27T11:54:29.484Z",
+      "title_hi": "भारत का चीन व्यापार घाटा पूरी कहानी नहीं बता सकता, वित्त मंत्री सीतारमण बताती हैं क्यों",
+      "summary_hi": "हमारा निर्यात खाता कहेगा कि हम अभी भी चीन को पर्याप्त रूप से निर्यात नहीं कर रहे हैं। वास्तव में, यह चीन जा रहा है, लेकिन इसका उस तरह हिसाब-किताब कभी नहीं किया जाता क्योंकि यह वियतनाम जाता है, ऐसा एफएम सीतारमण का कहना है",
+      "category_hi": "बिज़नेस और फाइनेंस",
+      "title_hinglish": "bharata ka china vyapara ghata puri kahani nahin bata sakat, vitta mantri sitaramana batati hain kyon",
+      "summary_hinglish": "hamara niryata khata kahega ki hama abhi bhi china ko paryapta rupa se niryata nahin kara rahe hain। vastava men, yaha china ja raha hai, lekina isaka usa taraha hisaba-kitaba kabhi nahin kiya jata kyonki yaha viyatanama jata hai, aisa ephaema sitaramana ka kahana hai",
+      "category_hinglish": "Business aur Finance"
     },
     {
       "id": "117d4d250ad54034",
@@ -360,23 +377,6 @@
       "summary_hinglish": "sarakara ke phaisale se rajanitika vivada shuru hone ke turanta bada yaha ulataphera huaa। kangresa sahita tivike ke gathabandhana sahayogiyon ne isa kadama ka kadaा virodha kiya tha। | bharata samachara"
     },
     {
-      "id": "0e14b2eaa0709580",
-      "title": "India, Canada preparing to take ties to 'higher level': Jaishankar",
-      "summary": "India-Canada eye higher-level ties after productive UNGA talks; Jaishankar highlights energy diversification and broader cooperation.",
-      "category": "National & Trending News",
-      "image": "https://th-i.thgim.com/public/incoming/q2quzr/article71515798.ece/alternates/LANDSCAPE_1200/2026-09-26T173608Z_1815602545_RC25RNAKWIBG_RTRMADP_3_UN-ASSEMBLY.JPG",
-      "source": "thehindu.com",
-      "sourceUrl": "https://www.thehindu.com/news/national/india-canada-preparing-to-take-ties-to-higher-level-jaishankar/article71515782.ece",
-      "publishedAt": "2026-09-27T10:51:19.000Z",
-      "fetchedAt": "2026-09-27T11:12:14.118Z",
-      "title_hi": "भारत, कनाडा संबंधों को 'उच्च स्तर' पर ले जाने की तैयारी कर रहे हैं: जयशंकर",
-      "summary_hi": "सार्थक यूएनजीए वार्ता के बाद भारत-कनाडा उच्च स्तरीय संबंधों पर नजर गड़ाए हुए हैं; जयशंकर ने ऊर्जा विविधीकरण और व्यापक सहयोग पर प्रकाश डाला।",
-      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
-      "title_hinglish": "bharat, kanada sanbandhon ko 'uchcha stara' para le jane ki taiyari kara rahe hain: jayashankara",
-      "summary_hinglish": "sarthaka yuenajie varta ke bada bharata-kanada uchcha stariya sanbandhon para najara gadaाe hue hain; jayashankara ne oorja vividhikarana aura vyapaka sahayoga para prakasha dala।",
-      "category_hinglish": "National aur Trending News"
-    },
-    {
       "id": "75f8a86af71d4e53",
       "title": "'Vvan: Force of the Forrest' box office collection day 1: Sidharth Malhotra and Tamannaah Bhatia's film o",
       "summary": "Force of the Forest ', starring Sidharth Malhotra and Tamannaah Bhatia, opened in theatres on September 25, 2026. The fantasy thriller takes place in an ancestral village in Bihar.",
@@ -392,6 +392,23 @@
       "title_hinglish": "'vvan: phorsa ऑpha da phoresta' ka boksa ऑphisa kalekshana dina 1: siddhartha malhotra aura tamanna bhatiya ki philma o",
       "summary_hinglish": "siddhartha malhotra aura tamanna bhatiya abhinita phorsa ऑpha da phoresta 25 sitanbar, 2026 ko sinemagharon men rilija huee। phantasi thrilara bihara ke eka paitrika ganva men hoti hai।",
       "category_hinglish": "Entertainment"
+    },
+    {
+      "id": "0e14b2eaa0709580",
+      "title": "India, Canada preparing to take ties to 'higher level': Jaishankar",
+      "summary": "India-Canada eye higher-level ties after productive UNGA talks; Jaishankar highlights energy diversification and broader cooperation.",
+      "category": "National & Trending News",
+      "image": "https://th-i.thgim.com/public/incoming/q2quzr/article71515798.ece/alternates/LANDSCAPE_1200/2026-09-26T173608Z_1815602545_RC25RNAKWIBG_RTRMADP_3_UN-ASSEMBLY.JPG",
+      "source": "thehindu.com",
+      "sourceUrl": "https://www.thehindu.com/news/national/india-canada-preparing-to-take-ties-to-higher-level-jaishankar/article71515782.ece",
+      "publishedAt": "2026-09-27T10:51:19.000Z",
+      "fetchedAt": "2026-09-27T11:12:14.118Z",
+      "title_hi": "भारत, कनाडा संबंधों को 'उच्च स्तर' पर ले जाने की तैयारी कर रहे हैं: जयशंकर",
+      "summary_hi": "सार्थक यूएनजीए वार्ता के बाद भारत-कनाडा उच्च स्तरीय संबंधों पर नजर गड़ाए हुए हैं; जयशंकर ने ऊर्जा विविधीकरण और व्यापक सहयोग पर प्रकाश डाला।",
+      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
+      "title_hinglish": "bharat, kanada sanbandhon ko 'uchcha stara' para le jane ki taiyari kara rahe hain: jayashankara",
+      "summary_hinglish": "sarthaka yuenajie varta ke bada bharata-kanada uchcha stariya sanbandhon para najara gadaाe hue hain; jayashankara ne oorja vividhikarana aura vyapaka sahayoga para prakasha dala।",
+      "category_hinglish": "National aur Trending News"
     },
     {
       "id": "a7b28b4a6ce427cb",
@@ -411,23 +428,6 @@
       "category_hinglish": "Sports"
     },
     {
-      "id": "9b533a8261424cf7",
-      "title": "India's renewable energy boom outpaces power grid capacity",
-      "summary": "Renewable capacity has reached 300GW, but transmission constraints, limited battery storage and financing difficulties are leaving part of India’s clean power unused.",
-      "category": "Business & Finance",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/09/23/d3dcf584-8fee-4521-8745-be9e8af10b83_0.jpg",
-      "source": "The Business Standard",
-      "sourceUrl": "https://www.tbsnews.net/world/south-asia/indias-renewable-energy-boom-outpaces-power-grid-capacity-1551676",
-      "publishedAt": "2026-09-27T10:45:57.000Z",
-      "fetchedAt": "2026-09-27T13:58:01.021Z",
-      "title_hi": "भारत की नवीकरणीय ऊर्जा में उछाल ने पावर ग्रिड क्षमता को पीछे छोड़ दिया है",
-      "summary_hi": "नवीकरणीय क्षमता 300GW तक पहुंच गई है, लेकिन ट्रांसमिशन बाधाएं, सीमित बैटरी भंडारण और वित्तपोषण कठिनाइयों के कारण भारत की स्वच्छ ऊर्जा का कुछ हिस्सा अप्रयुक्त रह जा रहा है।",
-      "category_hi": "बिज़नेस और फाइनेंस",
-      "title_hinglish": "bharata ki navikaraniya oorja men uchhala ne pavara grida kshamata ko pichhe chhoda diya hai",
-      "summary_hinglish": "navikaraniya kshamata 300GW taka pahuncha gaee hai, lekina transamishana badhaen, simita baitari bhandarana aura vittaposhana kathinaiyon ke karana bharata ki svachchha oorja ka kuchha hissa aprayukta raha ja raha hai।",
-      "category_hinglish": "Business aur Finance"
-    },
-    {
       "id": "ca4a7bd9f0cb7546",
       "title": "Woman hit with slipper, forced to transfer ₹1,500: Bihar sees another harassment case amid outrage | India News",
       "summary": "The video shows several youths allegedly behaving indecently with the woman and hitting her with a slipper. One of the youths is also seen threatening her. | India News",
@@ -443,6 +443,23 @@
       "title_hinglish": "mahila ko chappala se mara gay, ₹1,500 transaphara karane ke lie majabura kiya gay: aakrosha ke bicha bihara men utpidana ka eka aura mamala samane aaya | bharata samachara",
       "summary_hinglish": "vidiyo men kaee yuvakon ko kathita taura para mahila ke satha abhadra vyavahara karate aura use chappala se marate hue dikhaya gaya hai। unamen se eka yuvaka use dhamakata bhi najara aa raha hai. | bharata samachara",
       "category_hinglish": "Politics aur Government"
+    },
+    {
+      "id": "9b533a8261424cf7",
+      "title": "India's renewable energy boom outpaces power grid capacity",
+      "summary": "Renewable capacity has reached 300GW, but transmission constraints, limited battery storage and financing difficulties are leaving part of India’s clean power unused.",
+      "category": "Business & Finance",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2026/09/23/d3dcf584-8fee-4521-8745-be9e8af10b83_0.jpg",
+      "source": "The Business Standard",
+      "sourceUrl": "https://www.tbsnews.net/world/south-asia/indias-renewable-energy-boom-outpaces-power-grid-capacity-1551676",
+      "publishedAt": "2026-09-27T10:45:57.000Z",
+      "fetchedAt": "2026-09-27T13:58:01.021Z",
+      "title_hi": "भारत की नवीकरणीय ऊर्जा में उछाल ने पावर ग्रिड क्षमता को पीछे छोड़ दिया है",
+      "summary_hi": "नवीकरणीय क्षमता 300GW तक पहुंच गई है, लेकिन ट्रांसमिशन बाधाएं, सीमित बैटरी भंडारण और वित्तपोषण कठिनाइयों के कारण भारत की स्वच्छ ऊर्जा का कुछ हिस्सा अप्रयुक्त रह जा रहा है।",
+      "category_hi": "बिज़नेस और फाइनेंस",
+      "title_hinglish": "bharata ki navikaraniya oorja men uchhala ne pavara grida kshamata ko pichhe chhoda diya hai",
+      "summary_hinglish": "navikaraniya kshamata 300GW taka pahuncha gaee hai, lekina transamishana badhaen, simita baitari bhandarana aura vittaposhana kathinaiyon ke karana bharata ki svachchha oorja ka kuchha hissa aprayukta raha ja raha hai।",
+      "category_hinglish": "Business aur Finance"
     },
     {
       "id": "1e6a4adb01c25630",
@@ -470,30 +487,13 @@
       "source": "olympics.com",
       "sourceUrl": "https://www.olympics.com/en/news/asian-games-2026-medal-tally-india-winners-table-list",
       "publishedAt": "2026-09-27T10:40:00.000Z",
-      "fetchedAt": "2026-09-27T14:16:20.889Z",
+      "fetchedAt": "2026-09-27T14:30:41.143Z",
       "title_hi": "एशियाई खेल 2026: भारत की पदक तालिका और विजेताओं की सूची - पूरी तालिका",
       "summary_hi": "एशियाई खेल 2026 में भारत के विजेताओं की सूची जानें। पदक तालिका जानें और भारतीय एथलीटों ने प्रत्येक खेल में कितने पदक जीते हैं। पूरी मेज.",
       "category_hi": "खेल",
       "title_hinglish": "eshiyaee khela 2026: bharata ki padaka talika aura vijetaon ki suchi - puri talika",
       "summary_hinglish": "eshiyaee khela 2026 men bharata ke vijetaon ki suchi janen। padaka talika janen aura bharatiya ethaliton ne pratyeka khela men kitane padaka jite hain। puri mej.",
       "category_hinglish": "Sports"
-    },
-    {
-      "id": "4f999a4eb6e1136f",
-      "title": "‘The Paradise’ box office collection Day 4 (Live): Nani and Srikanth Odela’s action thriller’s India gros",
-      "summary": "Nani starrer ‘The Paradise’ opened strongly at the box office and became the actor’s biggest opener yet. The film crossed the Rs 75 crore mark on its first day.",
-      "category": "Entertainment",
-      "image": "https://static.toiimg.com/thumb/msid-134518539,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/the-paradise-box-office-collection-day-4-live-nani-and-srikanth-odelas-action-thrillers-india-gross-nears-rs-100-crore/articleshow/134518526.cms",
-      "publishedAt": "2026-09-27T10:37:00.000Z",
-      "fetchedAt": "2026-09-27T11:11:40.861Z",
-      "title_hi": "'द पैराडाइज़' बॉक्स ऑफिस कलेक्शन दिन 4 (लाइव): नानी और श्रीकांत ओडेला की एक्शन थ्रिलर ने भारत में कमाई की",
-      "summary_hi": "नानी स्टारर 'द पैराडाइज़' ने बॉक्स ऑफिस पर जोरदार शुरुआत की और अभिनेता की अब तक की सबसे बड़ी ओपनर बन गई। फिल्म ने पहले दिन 75 करोड़ रुपये का आंकड़ा पार कर लिया है.",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "'da pairadaija' boksa ऑphisa kalekshana dina 4 (laiva): nani aura shrikanta odela ki ekshana thrilara ne bharata men kamaee ki",
-      "summary_hinglish": "nani starara 'da pairadaija' ne boksa ऑphisa para joradara shuruaata ki aura abhineta ki aba taka ki sabase badaी opanara bana gaee। philma ne pahale dina 75 karoda rupaye ka aankadaा para kara liya hai.",
-      "category_hinglish": "Entertainment"
     },
     {
       "id": "f606cc4dbdf8b5fe",
@@ -513,6 +513,23 @@
       "category_hinglish": "Politics aur Government"
     },
     {
+      "id": "4f999a4eb6e1136f",
+      "title": "‘The Paradise’ box office collection Day 4 (Live): Nani and Srikanth Odela’s action thriller’s India gros",
+      "summary": "Nani starrer ‘The Paradise’ opened strongly at the box office and became the actor’s biggest opener yet. The film crossed the Rs 75 crore mark on its first day.",
+      "category": "Entertainment",
+      "image": "https://static.toiimg.com/thumb/msid-134518539,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/the-paradise-box-office-collection-day-4-live-nani-and-srikanth-odelas-action-thrillers-india-gross-nears-rs-100-crore/articleshow/134518526.cms",
+      "publishedAt": "2026-09-27T10:37:00.000Z",
+      "fetchedAt": "2026-09-27T11:11:40.861Z",
+      "title_hi": "'द पैराडाइज़' बॉक्स ऑफिस कलेक्शन दिन 4 (लाइव): नानी और श्रीकांत ओडेला की एक्शन थ्रिलर ने भारत में कमाई की",
+      "summary_hi": "नानी स्टारर 'द पैराडाइज़' ने बॉक्स ऑफिस पर जोरदार शुरुआत की और अभिनेता की अब तक की सबसे बड़ी ओपनर बन गई। फिल्म ने पहले दिन 75 करोड़ रुपये का आंकड़ा पार कर लिया है.",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "'da pairadaija' boksa ऑphisa kalekshana dina 4 (laiva): nani aura shrikanta odela ki ekshana thrilara ne bharata men kamaee ki",
+      "summary_hinglish": "nani starara 'da pairadaija' ne boksa ऑphisa para joradara shuruaata ki aura abhineta ki aba taka ki sabase badaी opanara bana gaee। philma ne pahale dina 75 karoda rupaye ka aankadaा para kara liya hai.",
+      "category_hinglish": "Entertainment"
+    },
+    {
       "id": "a8ba4b8ae95b7e6b",
       "title": "'There's need for substantial financial aid, govt should take decisions on war footing': Opposition on drought situation in Maharashtra",
       "summary": "Maharashtra drought: Opposition parties criticize government relief as hollow, demanding Rs 1 lakh per hectare compensation and swift financial aid for distressed farmers facing severe water and fodder shortages.",
@@ -528,23 +545,6 @@
       "title_hinglish": "'paryapta vittiya sahayata ki jarurata hai, sarakara ko yuddhastara para phaisale lene chahie': maharashtra men sukhe ki sthiti para vipaksha",
       "summary_hinglish": "maharashtra sukh: vipakshi dalon ne sarakari rahata ko khokhala batate hue aalochana ki, pani aura chare ki ganbhira kami ka samana kara rahe sankatagrasta kisanon ke lie 1 lakha rupaye prati hekteyara muaavaja aura tvarita vittiya sahayata ki manga ki।",
       "category_hinglish": "Politics aur Government"
-    },
-    {
-      "id": "53e38dc996eccd7f",
-      "title": "India’s soft stance in US mercenary VanDyke’s case only latest of many retreats",
-      "summary": "Court relief to VanDyke reminiscent of Bhopal gas disaster and Purulia arms drop cases where India diluted criminal proceedings under diplomatic pressure",
-      "category": "National & Trending News",
-      "image": "https://thefederal.com/h-upload/2026/09/27/633014-matthew-vandyke.jfif",
-      "source": "The Federal",
-      "sourceUrl": "https://thefederal.com/category/opinion/matthew-vandyke-india-us-relations-257838",
-      "publishedAt": "2026-09-27T10:30:00.000Z",
-      "fetchedAt": "2026-09-27T10:44:42.931Z",
-      "title_hi": "अमेरिकी भाड़े के सैनिक वैनडाइक के मामले में भारत का नरम रुख कई पीछे हटने की नवीनतम घटना है",
-      "summary_hi": "वैनडाइक को अदालत से राहत ने भोपाल गैस त्रासदी और पुरुलिया हथियार गिराने के मामलों की याद दिला दी, जहां भारत ने राजनयिक दबाव में आपराधिक कार्यवाही को कमजोर कर दिया था",
-      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
-      "title_hinglish": "ameriki bhadaे ke sainika vainadaika ke mamale men bharata ka narama rukha kaee pichhe hatane ki navinatama ghatana hai",
-      "summary_hinglish": "vainadaika ko adalata se rahata ne bhopala gaisa trasadi aura puruliya hathiyara girane ke mamalon ki yada dila di, jahan bharata ne rajanayika dabava men aaparadhika karyavahi ko kamajora kara diya tha",
-      "category_hinglish": "National aur Trending News"
     },
     {
       "id": "03250ab691034ec5",
@@ -564,6 +564,23 @@
       "category_hinglish": "Entertainment"
     },
     {
+      "id": "53e38dc996eccd7f",
+      "title": "India’s soft stance in US mercenary VanDyke’s case only latest of many retreats",
+      "summary": "Court relief to VanDyke reminiscent of Bhopal gas disaster and Purulia arms drop cases where India diluted criminal proceedings under diplomatic pressure",
+      "category": "National & Trending News",
+      "image": "https://thefederal.com/h-upload/2026/09/27/633014-matthew-vandyke.jfif",
+      "source": "The Federal",
+      "sourceUrl": "https://thefederal.com/category/opinion/matthew-vandyke-india-us-relations-257838",
+      "publishedAt": "2026-09-27T10:30:00.000Z",
+      "fetchedAt": "2026-09-27T10:44:42.931Z",
+      "title_hi": "अमेरिकी भाड़े के सैनिक वैनडाइक के मामले में भारत का नरम रुख कई पीछे हटने की नवीनतम घटना है",
+      "summary_hi": "वैनडाइक को अदालत से राहत ने भोपाल गैस त्रासदी और पुरुलिया हथियार गिराने के मामलों की याद दिला दी, जहां भारत ने राजनयिक दबाव में आपराधिक कार्यवाही को कमजोर कर दिया था",
+      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
+      "title_hinglish": "ameriki bhadaे ke sainika vainadaika ke mamale men bharata ka narama rukha kaee pichhe hatane ki navinatama ghatana hai",
+      "summary_hinglish": "vainadaika ko adalata se rahata ne bhopala gaisa trasadi aura puruliya hathiyara girane ke mamalon ki yada dila di, jahan bharata ne rajanayika dabava men aaparadhika karyavahi ko kamajora kara diya tha",
+      "category_hinglish": "National aur Trending News"
+    },
+    {
       "id": "c35b8906905b4058",
       "title": "India Launches LNG Train and Rail Safety Upgrades in Ahmedabad",
       "summary": "India has launched its first liquefied natural gas (LNG)-powered train and inaugurated a series of rail infrastructure projects in Ahmedabad aimed at",
@@ -581,23 +598,6 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "27d3cb4fe9449088",
-      "title": "Asian Games 2026 live, September 27: Know India scores, updates and results from Day 8",
-      "summary": "Asian Games 2026 live, India updates from September 27, Sunday. Squash, athletics and badminton in focus. Get scores, athletes’ results and medal winners from today, Day 8.",
-      "category": "Sports",
-      "image": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/v1790495866/primary/mjrxr4gjr3s2n6e12aeh",
-      "source": "olympics.com",
-      "sourceUrl": "https://www.olympics.com/en/news/asian-games-2026-live-scores-updates-results-india-september-27",
-      "publishedAt": "2026-09-27T10:17:00.000Z",
-      "fetchedAt": "2026-09-27T11:27:25.793Z",
-      "title_hi": "एशियाई खेल 2026 लाइव, 27 सितंबर: आठवें दिन से भारत के स्कोर, अपडेट और परिणाम जानें",
-      "summary_hi": "एशियाई खेल 2026 लाइव, 27 सितंबर, रविवार से भारत अपडेट। फोकस में स्क्वैश, एथलेटिक्स और बैडमिंटन। आज, आठवें दिन से स्कोर, एथलीटों के परिणाम और पदक विजेता प्राप्त करें।",
-      "category_hi": "खेल",
-      "title_hinglish": "eshiyaee khela 2026 laiv, 27 sitanbar: aathaven dina se bharata ke skor, apadeta aura parinama janen",
-      "summary_hinglish": "eshiyaee khela 2026 laiv, 27 sitanbar, ravivara se bharata apadeta। phokasa men skvaish, ethaletiksa aura baidamintana। aaj, aathaven dina se skor, ethaliton ke parinama aura padaka vijeta prapta karen।",
-      "category_hinglish": "Sports"
-    },
-    {
       "id": "d3a3994e37b7c554",
       "title": "'CEC must firmly present its side,' says Chirag Paswan as opposition demands Gyanesh Kumar's resignation",
       "summary": "'CEC must firmly present its side,' says Chirag Paswan as opposition demands Gyanesh Kumar's resignation - Patna (Bihar) [India], September 25 : Union Minister Chirag Paswan on Friday said the Election Commission must firmly present ... Get Latest News on Politics only on lokmattimes.com",
@@ -613,6 +613,23 @@
       "title_hinglish": "vipaksha dvara jnyanesha kumara ke istiphe ki manga para chiraga pasavana ne kah, 'sieesi ko apana paksha majabuti se rakhana chahie।'",
       "summary_hinglish": "vipaksha dvara jnyanesha kumara ke istiphe ki manga para chiraga pasavana ne kah, 'sieesi ko apana paksha majabuti se rakhana chahie।'",
       "category_hinglish": "Politics aur Government"
+    },
+    {
+      "id": "27d3cb4fe9449088",
+      "title": "Asian Games 2026 live, September 27: Know India scores, updates and results from Day 8",
+      "summary": "Asian Games 2026 live, India updates from September 27, Sunday. Squash, athletics and badminton in focus. Get scores, athletes’ results and medal winners from today, Day 8.",
+      "category": "Sports",
+      "image": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/v1790495866/primary/mjrxr4gjr3s2n6e12aeh",
+      "source": "olympics.com",
+      "sourceUrl": "https://www.olympics.com/en/news/asian-games-2026-live-scores-updates-results-india-september-27",
+      "publishedAt": "2026-09-27T10:17:00.000Z",
+      "fetchedAt": "2026-09-27T11:27:25.793Z",
+      "title_hi": "एशियाई खेल 2026 लाइव, 27 सितंबर: आठवें दिन से भारत के स्कोर, अपडेट और परिणाम जानें",
+      "summary_hi": "एशियाई खेल 2026 लाइव, 27 सितंबर, रविवार से भारत अपडेट। फोकस में स्क्वैश, एथलेटिक्स और बैडमिंटन। आज, आठवें दिन से स्कोर, एथलीटों के परिणाम और पदक विजेता प्राप्त करें।",
+      "category_hi": "खेल",
+      "title_hinglish": "eshiyaee khela 2026 laiv, 27 sitanbar: aathaven dina se bharata ke skor, apadeta aura parinama janen",
+      "summary_hinglish": "eshiyaee khela 2026 laiv, 27 sitanbar, ravivara se bharata apadeta। phokasa men skvaish, ethaletiksa aura baidamintana। aaj, aathaven dina se skor, ethaliton ke parinama aura padaka vijeta prapta karen।",
+      "category_hinglish": "Sports"
     },
     {
       "id": "09437d057bf28727",
@@ -649,23 +666,6 @@
       "category_hinglish": "Entertainment"
     },
     {
-      "id": "83756a967072a72f",
-      "title": "Pakistan Crime Agency Mulls Action Against Mohammad Rizwan For 'Not Copperating'",
-      "summary": "Mohammad Rizwan is accused of not cooperating with NCCIA's investigation into alleged online betting and info leaks during Pakistan's Test tour of England.",
-      "category": "Crime & Breaking News",
-      "image": "https://images.news18.com/ibnlive/uploads/2026/09/Imam-ul-Haq-Mohammad-Rizwan-2026-09-dc0f217fa1f2de64c95741239e949c5c-1200x675.png",
-      "source": "News18",
-      "sourceUrl": "https://www.news18.com/amp/cricket/pakistan-crime-agency-mulls-action-against-mohammad-rizwan-for-not-copperating-ws-l-10355496.html",
-      "publishedAt": "2026-09-27T09:45:28.000Z",
-      "fetchedAt": "2026-09-27T11:54:02.353Z",
-      "title_hi": "पाकिस्तान अपराध एजेंसी 'कॉपरेटिंग नहीं करने' के लिए मोहम्मद रिज़वान के खिलाफ कार्रवाई पर विचार कर रही है",
-      "summary_hi": "मोहम्मद रिज़वान पर पाकिस्तान के इंग्लैंड के टेस्ट दौरे के दौरान कथित ऑनलाइन सट्टेबाजी और जानकारी लीक होने की एनसीसीआईए की जांच में सहयोग नहीं करने का आरोप है।",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "pakistana aparadha ejensi 'koparetinga nahin karane' ke lie mohammada rijavana ke khilapha karravaee para vichara kara rahi hai",
-      "summary_hinglish": "mohammada rijavana para pakistana ke inglainda ke testa daure ke daurana kathita ऑnalaina sattebaji aura janakari lika hone ki enasisiaaeee ki jancha men sahayoga nahin karane ka aaropa hai।",
-      "category_hinglish": "Crime aur Breaking News"
-    },
-    {
       "id": "e40637d4fb87586d",
       "title": "The Vvaan - Force Of The Forrest Movie Review: Sidharth Malhotra and Tamannaah Bhatia Bring Bihar Folklore to the Big Screen",
       "summary": "The Vvaan - Force Of The Forrest Movie review: Sidharth Malhotra and Tamannaah Bhatia lead a folklore-driven horror adventure rooted in Bihar.",
@@ -683,6 +683,23 @@
       "category_hinglish": "Entertainment"
     },
     {
+      "id": "83756a967072a72f",
+      "title": "Pakistan Crime Agency Mulls Action Against Mohammad Rizwan For 'Not Copperating'",
+      "summary": "Mohammad Rizwan is accused of not cooperating with NCCIA's investigation into alleged online betting and info leaks during Pakistan's Test tour of England.",
+      "category": "Crime & Breaking News",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/09/Imam-ul-Haq-Mohammad-Rizwan-2026-09-dc0f217fa1f2de64c95741239e949c5c-1200x675.png",
+      "source": "News18",
+      "sourceUrl": "https://www.news18.com/amp/cricket/pakistan-crime-agency-mulls-action-against-mohammad-rizwan-for-not-copperating-ws-l-10355496.html",
+      "publishedAt": "2026-09-27T09:45:28.000Z",
+      "fetchedAt": "2026-09-27T11:54:02.353Z",
+      "title_hi": "पाकिस्तान अपराध एजेंसी 'कॉपरेटिंग नहीं करने' के लिए मोहम्मद रिज़वान के खिलाफ कार्रवाई पर विचार कर रही है",
+      "summary_hi": "मोहम्मद रिज़वान पर पाकिस्तान के इंग्लैंड के टेस्ट दौरे के दौरान कथित ऑनलाइन सट्टेबाजी और जानकारी लीक होने की एनसीसीआईए की जांच में सहयोग नहीं करने का आरोप है।",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "pakistana aparadha ejensi 'koparetinga nahin karane' ke lie mohammada rijavana ke khilapha karravaee para vichara kara rahi hai",
+      "summary_hinglish": "mohammada rijavana para pakistana ke inglainda ke testa daure ke daurana kathita ऑnalaina sattebaji aura janakari lika hone ki enasisiaaeee ki jancha men sahayoga nahin karane ka aaropa hai।",
+      "category_hinglish": "Crime aur Breaking News"
+    },
+    {
       "id": "22411800cf75db2b",
       "title": "Vvaan box office collection Day 2: Sidharth Malhotra’s mythological thriller sees a rise; here’s how much it earned",
       "summary": "Sidharth Malhotra and Tamannaah Bhatia’s mythological film Vvaan sees a jump on Day 2 of its theatrical run. Take a look at the latest box office figures.",
@@ -697,23 +714,6 @@
       "category_hi": "मनोरंजन",
       "title_hinglish": "vavana boksa ऑphisa kalekshana dina 2: siddhartha malhotra ​​ki pauranika thrilara men vriddhi dekhi gaee; yahan bataya gaya hai ki isane kitani kamaee ki",
       "summary_hinglish": "siddhartha malhotra aura tamanna bhatiya ki pauranika philma 'vvana' ki sinemagharon men rilija ke dusare dina uchhala dekha gaya। navinatama boksa ऑphisa aankadaोn para eka najara dalen।",
-      "category_hinglish": "Entertainment"
-    },
-    {
-      "id": "016b4e89188ab3e9",
-      "title": "From 90-second fad to MEGA BUSINESS: Microdramas get a dedicated spotlight at FICCI FRAMES alongside cinema, OTT, AI and reality TV",
-      "summary": "From 90-second fad to MEGA BUSINESS: Microdramas get a dedicated spotlight at FICCI FRAMES alongside cinema, OTT, AI and reality TV : Bollywood News - Bollywood Hungama. Bollywood News: Latest Bollywood News, Bollywood News Today, Bollywood Celebrity News, Breaking News, Celeb News, Celebrities News, Bollywood News Hindi, Hindi Bollywood News…",
-      "category": "Entertainment",
-      "image": "https://stat4.bollywoodhungama.in/wp-content/uploads/2026/09/From-90-second-413x300.jpeg",
-      "source": "Bollywood Hungama",
-      "sourceUrl": "https://www.bollywoodhungama.com/amp/news/bollywood/from-90-second-fad-to-mega-business-microdramas-get-a-dedicated-spotlight-at-ficci-frames-alongside-cinema-ott-ai-and-reality-tv/",
-      "publishedAt": "2026-09-27T09:24:27.000Z",
-      "fetchedAt": "2026-09-27T10:30:55.000Z",
-      "title_hi": "90 सेकंड की सनक से लेकर मेगा बिजनेस तक: माइक्रोड्रामा को सिनेमा, ओटीटी, एआई और रियलिटी टीवी के साथ-साथ फिक्की फ्रेम्स में एक समर्पित स्पॉटलाइट मिलती है।",
-      "summary_hi": "90 सेकंड की सनक से लेकर मेगा बिजनेस तक: माइक्रोड्रामा को सिनेमा, ओटीटी, एआई और रियलिटी टीवी के साथ-साथ फिक्की फ्रेम्स में एक समर्पित स्पॉटलाइट मिलती है: बॉलीवुड समाचार - बॉलीवुड हंगामा। बॉलीवुड समाचार: नवीनतम बॉलीवुड समाचार, बॉलीवुड समाचार आज, बॉलीवुड सेलिब्रिटी समाचार, ब्रेकिंग न्यूज, सेलिब्रिटी समाचार, सेलिब्रिटी समाचार, बॉलीवुड समाचार हिंदी, हिंदी बॉलीवुड समाचार...",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "90 sekanda ki sanaka se lekara mega bijanesa tak: maikrodrama ko sinem, otiti, eaaee aura riyaliti tivi ke satha-satha phikki phremsa men eka samarpita spotalaita milati hai।",
-      "summary_hinglish": "90 sekanda ki sanaka se lekara mega bijanesa tak: maikrodrama ko sinem, otiti, eaaee aura riyaliti tivi ke satha-satha phikki phremsa men eka samarpita spotalaita milati hai: bolivuda samachara - bolivuda hangama। bolivuda samachar: navinatama bolivuda samachar, bolivuda samachara aaj, bolivuda selibriti samachar, brekinga nyuj, selibriti samachar, selibriti samachar, bolivuda samachara hindi, hindi bolivuda samachar...",
       "category_hinglish": "Entertainment"
     },
     {
@@ -734,6 +734,23 @@
       "category_hinglish": "Entertainment"
     },
     {
+      "id": "016b4e89188ab3e9",
+      "title": "From 90-second fad to MEGA BUSINESS: Microdramas get a dedicated spotlight at FICCI FRAMES alongside cinema, OTT, AI and reality TV",
+      "summary": "From 90-second fad to MEGA BUSINESS: Microdramas get a dedicated spotlight at FICCI FRAMES alongside cinema, OTT, AI and reality TV : Bollywood News - Bollywood Hungama. Bollywood News: Latest Bollywood News, Bollywood News Today, Bollywood Celebrity News, Breaking News, Celeb News, Celebrities News, Bollywood News Hindi, Hindi Bollywood News…",
+      "category": "Entertainment",
+      "image": "https://stat4.bollywoodhungama.in/wp-content/uploads/2026/09/From-90-second-413x300.jpeg",
+      "source": "Bollywood Hungama",
+      "sourceUrl": "https://www.bollywoodhungama.com/amp/news/bollywood/from-90-second-fad-to-mega-business-microdramas-get-a-dedicated-spotlight-at-ficci-frames-alongside-cinema-ott-ai-and-reality-tv/",
+      "publishedAt": "2026-09-27T09:24:27.000Z",
+      "fetchedAt": "2026-09-27T10:30:55.000Z",
+      "title_hi": "90 सेकंड की सनक से लेकर मेगा बिजनेस तक: माइक्रोड्रामा को सिनेमा, ओटीटी, एआई और रियलिटी टीवी के साथ-साथ फिक्की फ्रेम्स में एक समर्पित स्पॉटलाइट मिलती है।",
+      "summary_hi": "90 सेकंड की सनक से लेकर मेगा बिजनेस तक: माइक्रोड्रामा को सिनेमा, ओटीटी, एआई और रियलिटी टीवी के साथ-साथ फिक्की फ्रेम्स में एक समर्पित स्पॉटलाइट मिलती है: बॉलीवुड समाचार - बॉलीवुड हंगामा। बॉलीवुड समाचार: नवीनतम बॉलीवुड समाचार, बॉलीवुड समाचार आज, बॉलीवुड सेलिब्रिटी समाचार, ब्रेकिंग न्यूज, सेलिब्रिटी समाचार, सेलिब्रिटी समाचार, बॉलीवुड समाचार हिंदी, हिंदी बॉलीवुड समाचार...",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "90 sekanda ki sanaka se lekara mega bijanesa tak: maikrodrama ko sinem, otiti, eaaee aura riyaliti tivi ke satha-satha phikki phremsa men eka samarpita spotalaita milati hai।",
+      "summary_hinglish": "90 sekanda ki sanaka se lekara mega bijanesa tak: maikrodrama ko sinem, otiti, eaaee aura riyaliti tivi ke satha-satha phikki phremsa men eka samarpita spotalaita milati hai: bolivuda samachara - bolivuda hangama। bolivuda samachar: navinatama bolivuda samachar, bolivuda samachara aaj, bolivuda selibriti samachar, brekinga nyuj, selibriti samachar, selibriti samachar, bolivuda samachara hindi, hindi bolivuda samachar...",
+      "category_hinglish": "Entertainment"
+    },
+    {
       "id": "b91678268cd1273c",
       "title": "India will safeguard security and strategic autonomy when threatened: Rajnath Singh",
       "summary": "Defence Minister Rajnath Singh on Sunday said India does not seek to occupy the territory of any country but will firmly safeguard its security and strategic autonomy when threatened, while asserting that national unity is essential to the country’s security. Addressing a Defence Conclave in New Delhi, Singh said India…",
@@ -748,23 +765,6 @@
       "category_hi": "टेक्नोलॉजी",
       "title_hinglish": "khatara hone para bharata suraksha aura rananitika svayattata ki raksha kareg: rajanatha sinha",
       "summary_hinglish": "raksha mantri rajanatha sinha ne ravivara ko kaha ki bharata kisi bhi desha ke kshetra para kabja karane ki koshisha nahin karata hai, lekina khatara hone para apani suraksha aura rananitika svayattata ki dridhata se raksha kareg, satha hi unhonne kaha ki desha ki suraksha ke lie rashtriya ekata aavashyaka hai। naee dilli men eka raksha sammelana ko sanbodhita karate hue sinha ne kaha ki bharat...",
-      "category_hinglish": "Technology"
-    },
-    {
-      "id": "1e9fb1eaa4669365",
-      "title": "India does not seek to occupy territory, but will safeguard security, strategic autonomy: Rajnath Singh",
-      "summary": "“India believes in peace and does not seek to occupy the territory of any country. However, peace should not be mistaken for weakness. We seek global stability, but not at the cost of our strategic autonomy. We are firmly committed to safeguarding our security and strategic autonomy when threatened,” said…",
-      "category": "Technology",
-      "image": "https://img-cdn.publive.online/fit-in/1200x675/greater-kashmir/media/media_files/2026/09/09/rajnath-singh-2026-09-09-17-31-57.jpg",
-      "source": "Greater Kashmir",
-      "sourceUrl": "https://www.greaterkashmir.com/national/india-does-not-seek-to-occupy-territory-but-will-safeguard-security-strategic-autonomy-rajnath-singh-12581574",
-      "publishedAt": "2026-09-27T09:20:26.000Z",
-      "fetchedAt": "2026-09-27T10:15:28.845Z",
-      "title_hi": "भारत क्षेत्र पर कब्जा नहीं करना चाहता, बल्कि सुरक्षा, रणनीतिक स्वायत्तता की रक्षा करेगा: राजनाथ सिंह",
-      "summary_hi": "\"भारत शांति में विश्वास करता है और किसी भी देश के क्षेत्र पर कब्जा करना नहीं चाहता है। हालांकि, शांति को कमजोरी समझने की गलती नहीं की जानी चाहिए। हम वैश्विक स्थिरता चाहते हैं, लेकिन अपनी रणनीतिक स्वायत्तता की कीमत पर नहीं। हम खतरे में पड़ने पर अपनी सुरक्षा और रणनीतिक स्वायत्तता की रक्षा के लिए दृढ़ता से प्रतिबद्ध हैं,\" कहा...",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "bharata kshetra para kabja nahin karana chahat, balki suraksh, rananitika svayattata ki raksha kareg: rajanatha sinha",
-      "summary_hinglish": "\"bharata shanti men vishvasa karata hai aura kisi bhi desha ke kshetra para kabja karana nahin chahata hai। halanki, shanti ko kamajori samajhane ki galati nahin ki jani chahie। hama vaishvika sthirata chahate hain, lekina apani rananitika svayattata ki kimata para nahin। hama khatare men padane para apani suraksha aura rananitika svayattata ki raksha ke lie dridhata se pratibaddha hain,\" kah...",
       "category_hinglish": "Technology"
     },
     {
@@ -783,6 +783,23 @@
       "title_hinglish": "'main apani aaya ka 30% bengaluru ko deta hun': bihara ke mukhyamantri se takaniki visheshajnya ka anurodha vayaral, ऑnalaina bahasa chhida gaee",
       "summary_hinglish": "haibrida bhumika men kama karane vale eka aaeeti peshevara rahula kumara yadava ne bihara ke mukhyamantri samrata chaudhari se rajya men eka majabuta aaeeti paristhitiki tantra banane ka aagraha kiy, unhonne kaha ki hajaron peshevara kama ke lie apani aaya ka eka mahatvapurna hissa bihara ke bahara kharcha karane ke lie majabura hain।",
       "category_hinglish": "Business aur Finance"
+    },
+    {
+      "id": "1e9fb1eaa4669365",
+      "title": "India does not seek to occupy territory, but will safeguard security, strategic autonomy: Rajnath Singh",
+      "summary": "“India believes in peace and does not seek to occupy the territory of any country. However, peace should not be mistaken for weakness. We seek global stability, but not at the cost of our strategic autonomy. We are firmly committed to safeguarding our security and strategic autonomy when threatened,” said…",
+      "category": "Technology",
+      "image": "https://img-cdn.publive.online/fit-in/1200x675/greater-kashmir/media/media_files/2026/09/09/rajnath-singh-2026-09-09-17-31-57.jpg",
+      "source": "Greater Kashmir",
+      "sourceUrl": "https://www.greaterkashmir.com/national/india-does-not-seek-to-occupy-territory-but-will-safeguard-security-strategic-autonomy-rajnath-singh-12581574",
+      "publishedAt": "2026-09-27T09:20:26.000Z",
+      "fetchedAt": "2026-09-27T10:15:28.845Z",
+      "title_hi": "भारत क्षेत्र पर कब्जा नहीं करना चाहता, बल्कि सुरक्षा, रणनीतिक स्वायत्तता की रक्षा करेगा: राजनाथ सिंह",
+      "summary_hi": "\"भारत शांति में विश्वास करता है और किसी भी देश के क्षेत्र पर कब्जा करना नहीं चाहता है। हालांकि, शांति को कमजोरी समझने की गलती नहीं की जानी चाहिए। हम वैश्विक स्थिरता चाहते हैं, लेकिन अपनी रणनीतिक स्वायत्तता की कीमत पर नहीं। हम खतरे में पड़ने पर अपनी सुरक्षा और रणनीतिक स्वायत्तता की रक्षा के लिए दृढ़ता से प्रतिबद्ध हैं,\" कहा...",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "bharata kshetra para kabja nahin karana chahat, balki suraksh, rananitika svayattata ki raksha kareg: rajanatha sinha",
+      "summary_hinglish": "\"bharata shanti men vishvasa karata hai aura kisi bhi desha ke kshetra para kabja karana nahin chahata hai। halanki, shanti ko kamajori samajhane ki galati nahin ki jani chahie। hama vaishvika sthirata chahate hain, lekina apani rananitika svayattata ki kimata para nahin। hama khatare men padane para apani suraksha aura rananitika svayattata ki raksha ke lie dridhata se pratibaddha hain,\" kah...",
+      "category_hinglish": "Technology"
     },
     {
       "id": "ab0b872f3da669ff",
@@ -819,23 +836,6 @@
       "category_hinglish": "Politics aur Government"
     },
     {
-      "id": "dfb7fcd421db992d",
-      "title": "Beyond The Big Tech Bubble: Why Jefferies' Chris Wood Is Bullish On India, Gold, And Local AI",
-      "summary": "Jefferies' Chris Wood looks beyond AI hype, favouring India's energy boom, local AI models, and gold for lucrative structural growth investments.",
-      "category": "Technology",
-      "image": "https://media.assettype.com/outlookmoney/2026-08-20/3xslv7aa/portfolio-mistakes-pix.jpg?w=1200",
-      "source": "Outlook Money",
-      "sourceUrl": "https://www.outlookmoney.com/invest/beyond-the-big-tech-bubble-why-jefferies-chris-wood-is-bullish-on-india-gold-and-local-ai",
-      "publishedAt": "2026-09-27T09:02:45.000Z",
-      "fetchedAt": "2026-09-27T14:16:32.520Z",
-      "title_hi": "बिग टेक बबल से परे: जेफ़रीज़ के क्रिस वुड भारत, सोने और स्थानीय एआई को लेकर उत्साहित क्यों हैं",
-      "summary_hi": "जेफ़रीज़ के क्रिस वुड एआई प्रचार से परे दिखते हैं, भारत के ऊर्जा उछाल, स्थानीय एआई मॉडल और आकर्षक संरचनात्मक विकास निवेश के लिए सोने का पक्ष लेते हैं।",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "biga teka babala se pare: jepharija ke krisa vuda bharat, sone aura sthaniya eaaee ko lekara utsahita kyon hain",
-      "summary_hinglish": "jepharija ke krisa vuda eaaee prachara se pare dikhate hain, bharata ke oorja uchhal, sthaniya eaaee modala aura aakarshaka sanrachanatmaka vikasa nivesha ke lie sone ka paksha lete hain।",
-      "category_hinglish": "Technology"
-    },
-    {
       "id": "c5f7e8ee9080ec31",
       "title": "The Vvaan X Review: Why Is Sidharth Malhotra, Tamannaah Bhatia's Movie Being Hailed In UP, Bihar?",
       "summary": "The Vvaan X Review: Sidharth Malhotra and Tamannaah Bhatia's The Vvaan: Force of the Forest is out in theatres. Early X reviews are largely positive, especially for its depiction of Chhath Puja and Bihar's culture.",
@@ -853,6 +853,23 @@
       "category_hinglish": "Entertainment"
     },
     {
+      "id": "dfb7fcd421db992d",
+      "title": "Beyond The Big Tech Bubble: Why Jefferies' Chris Wood Is Bullish On India, Gold, And Local AI",
+      "summary": "Jefferies' Chris Wood looks beyond AI hype, favouring India's energy boom, local AI models, and gold for lucrative structural growth investments.",
+      "category": "Technology",
+      "image": "https://media.assettype.com/outlookmoney/2026-08-20/3xslv7aa/portfolio-mistakes-pix.jpg?w=1200",
+      "source": "Outlook Money",
+      "sourceUrl": "https://www.outlookmoney.com/invest/beyond-the-big-tech-bubble-why-jefferies-chris-wood-is-bullish-on-india-gold-and-local-ai",
+      "publishedAt": "2026-09-27T09:02:45.000Z",
+      "fetchedAt": "2026-09-27T14:16:32.520Z",
+      "title_hi": "बिग टेक बबल से परे: जेफ़रीज़ के क्रिस वुड भारत, सोने और स्थानीय एआई को लेकर उत्साहित क्यों हैं",
+      "summary_hi": "जेफ़रीज़ के क्रिस वुड एआई प्रचार से परे दिखते हैं, भारत के ऊर्जा उछाल, स्थानीय एआई मॉडल और आकर्षक संरचनात्मक विकास निवेश के लिए सोने का पक्ष लेते हैं।",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "biga teka babala se pare: jepharija ke krisa vuda bharat, sone aura sthaniya eaaee ko lekara utsahita kyon hain",
+      "summary_hinglish": "jepharija ke krisa vuda eaaee prachara se pare dikhate hain, bharata ke oorja uchhal, sthaniya eaaee modala aura aakarshaka sanrachanatmaka vikasa nivesha ke lie sone ka paksha lete hain।",
+      "category_hinglish": "Technology"
+    },
+    {
       "id": "4c4dd9e6c50398fe",
       "title": "NTA office to get CISF security in Delhi after NEET paper leak controversy | India News",
       "summary": "The new NTA premises on Minto Road will have 39 CISF personnel for access control, frisking and screening in confidential areas.",
@@ -867,23 +884,6 @@
       "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
       "title_hinglish": "NEET pepara lika vivada ke bada dilli men NTA karyalaya ko milegi CISF suraksha | bharata samachara",
       "summary_hinglish": "minto roda para nae enatie parisara men gopaniya kshetron men pahuncha niyantran, talashi aura skrininga ke lie 39 siaaeeesaepha karmi honge।",
-      "category_hinglish": "National aur Trending News"
-    },
-    {
-      "id": "69c407c7ee29838f",
-      "title": "CSIR expands multilingual science outreach with magazines in five Indian languages",
-      "summary": "On the occasion of the 85th Foundation Day of the Council of Scientific and Industrial Research (CSIR), Dr Jitendra Singh, Union Minister of State (Independent Charge), Ministry of Science & Technology, launched five new popular science magazines in Tamil, Telugu, Marathi, Bengali and Assamese, published by the CSIR-National Institute of…",
-      "category": "National & Trending News",
-      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260927085142-thumbnail-320x180-70.jpg",
-      "source": "ANI News",
-      "sourceUrl": "https://www.aninews.in/news/national/politics/csir-expands-multilingual-science-outreach-with-magazines-in-five-indian-languages20260927142209/",
-      "publishedAt": "2026-09-27T08:52:00.000Z",
-      "fetchedAt": "2026-09-27T12:51:32.985Z",
-      "title_hi": "सीएसआईआर ने पांच भारतीय भाषाओं में पत्रिकाओं के साथ बहुभाषी विज्ञान पहुंच का विस्तार किया है",
-      "summary_hi": "वैज्ञानिक और औद्योगिक अनुसंधान परिषद (सीएसआईआर) के 85वें स्थापना दिवस के अवसर पर, विज्ञान और प्रौद्योगिकी मंत्रालय के केंद्रीय राज्य मंत्री (स्वतंत्र प्रभार) डॉ. जितेंद्र सिंह ने सीएसआईआर-राष्ट्रीय संस्थान द्वारा प्रकाशित तमिल, तेलुगु, मराठी, बंगाली और असमिया में पांच नई लोकप्रिय विज्ञान पत्रिकाएं लॉन्च कीं…",
-      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
-      "title_hinglish": "siesaaaeeaara ne pancha bharatiya bhashaon men patrikaon ke satha bahubhashi vijnyana pahuncha ka vistara kiya hai",
-      "summary_hinglish": "vaijnyanika aura audyogika anusandhana parishada (siesaaaeeaara) ke 85ven sthapana divasa ke avasara par, vijnyana aura praudyogiki mantralaya ke kendriya rajya mantri (svatantra prabhara) do. jitendra sinha ne siesaaaeeaara-rashtriya sansthana dvara prakashita tamil, telugu, marathi, bangali aura asamiya men pancha naee lokapriya vijnyana patrikaen loncha kin…",
       "category_hinglish": "National aur Trending News"
     },
     {
@@ -904,6 +904,23 @@
       "category_hinglish": "Politics aur Government"
     },
     {
+      "id": "69c407c7ee29838f",
+      "title": "CSIR expands multilingual science outreach with magazines in five Indian languages",
+      "summary": "On the occasion of the 85th Foundation Day of the Council of Scientific and Industrial Research (CSIR), Dr Jitendra Singh, Union Minister of State (Independent Charge), Ministry of Science & Technology, launched five new popular science magazines in Tamil, Telugu, Marathi, Bengali and Assamese, published by the CSIR-National Institute of…",
+      "category": "National & Trending News",
+      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260927085142-thumbnail-320x180-70.jpg",
+      "source": "ANI News",
+      "sourceUrl": "https://www.aninews.in/news/national/politics/csir-expands-multilingual-science-outreach-with-magazines-in-five-indian-languages20260927142209/",
+      "publishedAt": "2026-09-27T08:52:00.000Z",
+      "fetchedAt": "2026-09-27T12:51:32.985Z",
+      "title_hi": "सीएसआईआर ने पांच भारतीय भाषाओं में पत्रिकाओं के साथ बहुभाषी विज्ञान पहुंच का विस्तार किया है",
+      "summary_hi": "वैज्ञानिक और औद्योगिक अनुसंधान परिषद (सीएसआईआर) के 85वें स्थापना दिवस के अवसर पर, विज्ञान और प्रौद्योगिकी मंत्रालय के केंद्रीय राज्य मंत्री (स्वतंत्र प्रभार) डॉ. जितेंद्र सिंह ने सीएसआईआर-राष्ट्रीय संस्थान द्वारा प्रकाशित तमिल, तेलुगु, मराठी, बंगाली और असमिया में पांच नई लोकप्रिय विज्ञान पत्रिकाएं लॉन्च कीं…",
+      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
+      "title_hinglish": "siesaaaeeaara ne pancha bharatiya bhashaon men patrikaon ke satha bahubhashi vijnyana pahuncha ka vistara kiya hai",
+      "summary_hinglish": "vaijnyanika aura audyogika anusandhana parishada (siesaaaeeaara) ke 85ven sthapana divasa ke avasara par, vijnyana aura praudyogiki mantralaya ke kendriya rajya mantri (svatantra prabhara) do. jitendra sinha ne siesaaaeeaara-rashtriya sansthana dvara prakashita tamil, telugu, marathi, bangali aura asamiya men pancha naee lokapriya vijnyana patrikaen loncha kin…",
+      "category_hinglish": "National aur Trending News"
+    },
+    {
       "id": "331f0bc4c5a2fb25",
       "title": "India's consumer durables market to touch ₹3-3.25 trillion by 2030",
       "summary": "In comparison, China, the world's largest market, is expected to grow at 1-2 per cent annually through 2030, while the US is projected to expand by 3 per cent and Japan by 1-3 per cent",
@@ -918,23 +935,6 @@
       "category_hi": "बिज़नेस और फाइनेंस",
       "title_hinglish": "bharata ka upabhokta tikaoo vastu bajara 2030 taka ₹3-3.25 triliyana taka pahuncha jaega",
       "summary_hinglish": "isaki tulana men, chin, duniya ka sabase badaा bajar, 2030 taka salana 1-2 pratishata ki dara se badhane ki ummida hai, jabaki amerika ko 3 pratishata aura japana ko 1-3 pratishata ki vriddhi ka anumana hai।",
-      "category_hinglish": "Business aur Finance"
-    },
-    {
-      "id": "58d27f9cc1d2eedb",
-      "title": "ET Now Live TV: Business News Live TV Online, Finance & Market News Live Streaming",
-      "summary": "ET Now LIVE TV: Watch ET Now Live TV for the latest Business News and stock market updates. Stay updated with live Business Today News on TV, top market stories, latest news clips by market experts on ET Now and real-time stock market coverage.",
-      "category": "Business & Finance",
-      "image": "https://images.etnownews.com/photo/msid-95762555/95762555.jpg",
-      "source": "etnownews.com",
-      "sourceUrl": "https://www.etnownews.com/live-tv",
-      "publishedAt": "2026-09-27T08:43:40.000Z",
-      "fetchedAt": "2026-09-27T08:47:26.248Z",
-      "title_hi": "ईटी नाउ लाइव टीवी: बिजनेस न्यूज लाइव टीवी ऑनलाइन, वित्त और बाजार समाचार लाइव स्ट्रीमिंग",
-      "summary_hi": "ईटी नाउ लाइव टीवी: नवीनतम बिजनेस समाचार और शेयर बाजार अपडेट के लिए ईटी नाउ लाइव टीवी देखें। टीवी पर लाइव बिजनेस टुडे समाचार, शीर्ष बाजार की कहानियां, ईटी नाउ पर बाजार विशेषज्ञों द्वारा नवीनतम समाचार क्लिप और वास्तविक समय शेयर बाजार कवरेज से अपडेट रहें।",
-      "category_hi": "बिज़नेस और फाइनेंस",
-      "title_hinglish": "eeti nau laiva tivi: bijanesa nyuja laiva tivi ऑnalain, vitta aura bajara samachara laiva striminga",
-      "summary_hinglish": "eeti nau laiva tivi: navinatama bijanesa samachara aura sheyara bajara apadeta ke lie eeti nau laiva tivi dekhen। tivi para laiva bijanesa tude samachar, shirsha bajara ki kahaniyan, eeti nau para bajara visheshajnyon dvara navinatama samachara klipa aura vastavika samaya sheyara bajara kavareja se apadeta rahen।",
       "category_hinglish": "Business aur Finance"
     },
     {
@@ -953,6 +953,23 @@
       "title_hinglish": "35 lakha rupaye ke bitakoina dhokhadhadaी mamale men bihara pulisa ne khanna hausa para chhapa mar, aaropi yugala gayaba",
       "summary_hinglish": "bihara pulisa ki eka tima ne kathita 35 lakha rupaye ke bitakoina nivesha dhokhadhadaी mamale men guruvara tadake khanna ke amaloha roda sthita eka ghara para chhapemari ki।",
       "category_hinglish": "Crime aur Breaking News"
+    },
+    {
+      "id": "58d27f9cc1d2eedb",
+      "title": "ET Now Live TV: Business News Live TV Online, Finance & Market News Live Streaming",
+      "summary": "ET Now LIVE TV: Watch ET Now Live TV for the latest Business News and stock market updates. Stay updated with live Business Today News on TV, top market stories, latest news clips by market experts on ET Now and real-time stock market coverage.",
+      "category": "Business & Finance",
+      "image": "https://images.etnownews.com/photo/msid-95762555/95762555.jpg",
+      "source": "etnownews.com",
+      "sourceUrl": "https://www.etnownews.com/live-tv",
+      "publishedAt": "2026-09-27T08:43:40.000Z",
+      "fetchedAt": "2026-09-27T08:47:26.248Z",
+      "title_hi": "ईटी नाउ लाइव टीवी: बिजनेस न्यूज लाइव टीवी ऑनलाइन, वित्त और बाजार समाचार लाइव स्ट्रीमिंग",
+      "summary_hi": "ईटी नाउ लाइव टीवी: नवीनतम बिजनेस समाचार और शेयर बाजार अपडेट के लिए ईटी नाउ लाइव टीवी देखें। टीवी पर लाइव बिजनेस टुडे समाचार, शीर्ष बाजार की कहानियां, ईटी नाउ पर बाजार विशेषज्ञों द्वारा नवीनतम समाचार क्लिप और वास्तविक समय शेयर बाजार कवरेज से अपडेट रहें।",
+      "category_hi": "बिज़नेस और फाइनेंस",
+      "title_hinglish": "eeti nau laiva tivi: bijanesa nyuja laiva tivi ऑnalain, vitta aura bajara samachara laiva striminga",
+      "summary_hinglish": "eeti nau laiva tivi: navinatama bijanesa samachara aura sheyara bajara apadeta ke lie eeti nau laiva tivi dekhen। tivi para laiva bijanesa tude samachar, shirsha bajara ki kahaniyan, eeti nau para bajara visheshajnyon dvara navinatama samachara klipa aura vastavika samaya sheyara bajara kavareja se apadeta rahen।",
+      "category_hinglish": "Business aur Finance"
     },
     {
       "id": "ea036db77fc5966d",
@@ -987,23 +1004,6 @@
       "title_hinglish": "rajanatha sinha ne rananitika svayattata ke lie gharelu raksha vinirmana para jora diya",
       "summary_hinglish": "raksha mantri rajanatha sinha ne rananitika svayattata hasila karane ke lie gharelu raksha vinirmana ko majabuta karane aura mahatvapurna praudyogikiyon men maharata hasila karane ki aavashyakata para bala diya। enaditivi raksha shikhara sammelana men, unhonne bhavishya ke yuddha ki kunji ke rupa men eaaee, kvantama praudyogiki, robotiks, svayatta pranali aura saibara suraksha para prakasha dala।",
       "category_hinglish": "Technology"
-    },
-    {
-      "id": "2dd90e3066abea63",
-      "title": "Bigg Boss 20: Fatima Sana Shaikh praises Salman Khan for taking a dig at trolls over body-shaming remarks, 'M",
-      "summary": "Fatima Sana Shaikh praised Salman Khan for addressing online trolling and body-shaming on Bigg Boss 20, saying that people in his position speaking up can make a difference.",
-      "category": "Entertainment",
-      "image": "https://static.india.com/wp-content/uploads/2026/09/Fatima-Sana-Shaikh-reacts-to-Salman-Khans-trolls-remark-on-Bigg-Boss-20-.png",
-      "source": "India.com",
-      "sourceUrl": "https://www.india.com/entertainment/tv/bigg-boss-20-fatima-sana-shaikh-praises-salman-khan-for-taking-a-dig-at-trolls-over-body-shaming-remarks-watch-promo-8530544/",
-      "publishedAt": "2026-09-27T08:22:26.000Z",
-      "fetchedAt": "2026-09-27T11:43:09.468Z",
-      "title_hi": "बिग बॉस 20: फातिमा सना शेख ने बॉडी शेमिंग टिप्पणी पर ट्रोल्स पर कटाक्ष करने के लिए सलमान खान की प्रशंसा की, 'एम'",
-      "summary_hi": "फातिमा सना शेख ने बिग बॉस 20 में ऑनलाइन ट्रोलिंग और बॉडी शेमिंग को संबोधित करने के लिए सलमान खान की प्रशंसा करते हुए कहा कि उनकी स्थिति में बोलने वाले लोग फर्क ला सकते हैं।",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "biga bosa 20: phatima sana shekha ne bodi sheminga tippani para trolsa para kataksha karane ke lie salamana khana ki prashansa ki, 'ema'",
-      "summary_hinglish": "phatima sana shekha ne biga bosa 20 men ऑnalaina trolinga aura bodi sheminga ko sanbodhita karane ke lie salamana khana ki prashansa karate hue kaha ki unaki sthiti men bolane vale loga pharka la sakate hain।",
-      "category_hinglish": "Entertainment"
     },
     {
       "id": "aef7c34b71cd6835",
