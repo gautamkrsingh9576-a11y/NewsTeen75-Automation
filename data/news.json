@@ -1,7 +1,24 @@
 {
-  "updatedAt": "2026-09-28T11:44:08.588Z",
-  "count": 40,
+  "updatedAt": "2026-09-28T11:58:08.322Z",
+  "count": 43,
   "articles": [
+    {
+      "id": "943bca94be2f5066",
+      "title": "JetSynthesys, MIXI sign MOU to explore game development, publishing and esports in India",
+      "summary": "Pune: JetSynthesys, a global digital entertainment and technology company, has signed a Memorandum of Understanding (MOU) with MIXI, Inc., a",
+      "category": "Entertainment",
+      "image": "https://www.medianews4u.com/wp-content/uploads/2026/09/JetSynthesys-2.jpg",
+      "source": "MediaNews4U",
+      "sourceUrl": "https://www.medianews4u.com/jetsynthesys-mixi-sign-mou-to-explore-game-development-publishing-and-esports-in-india/",
+      "publishedAt": "2026-09-28T11:40:15.000Z",
+      "fetchedAt": "2026-09-28T11:57:39.477Z",
+      "title_hi": "JetSynthesys, MIXI ने भारत में खेल विकास, प्रकाशन और ई-स्पोर्ट्स का पता लगाने के लिए समझौता ज्ञापन पर हस्ताक्षर किए",
+      "summary_hi": "पुणे: वैश्विक डिजिटल मनोरंजन और प्रौद्योगिकी कंपनी JetSynthesys ने MIXI, Inc. के साथ एक समझौता ज्ञापन (MOU) पर हस्ताक्षर किए हैं।",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "JetSynthesys, MIXI ne bharata men khela vikas, prakashana aura ee-sportsa ka pata lagane ke lie samajhauta jnyapana para hastakshara kie",
+      "summary_hinglish": "pune: vaishvika dijitala manoranjana aura praudyogiki kanpani JetSynthesys ne MIXI, Inc. ke satha eka samajhauta jnyapana (MOU) para hastakshara kie hain।",
+      "category_hinglish": "Entertainment"
+    },
     {
       "id": "58d27f9cc1d2eedb",
       "title": "ET Now Live TV: Business News Live TV Online, Finance & Market News Live Streaming",
@@ -18,23 +35,6 @@
       "title_hinglish": "eeti nau laiva tivi: bijanesa nyuja laiva tivi ऑnalain, vitta aura bajara samachara laiva striminga",
       "summary_hinglish": "eeti nau laiva tivi: navinatama bijanesa samachara aura sheyara bajara apadeta ke lie eeti nau laiva tivi dekhen। tivi para laiva bijanesa tude samachar, shirsha bajara ki kahaniyan, eeti nau para bajara visheshajnyon dvara navinatama samachara klipa aura vastavika samaya sheyara bajara kavareja se apadeta rahen।",
       "category_hinglish": "Business aur Finance"
-    },
-    {
-      "id": "32a5cac4c27cd264",
-      "title": "Make in India drives a new era of manufacturing growth",
-      "summary": "Twelve years after its launch, Make in India stands as an important part of Prime Minister Narendra Modi’s vision of building a stronger, more self-reliant and globally competitive India. The initiative, launched on September 25, 2014, was conceived to make India a global hub for manufacturing, design and innovation. Over…",
-      "category": "Technology",
-      "image": "https://ddindia.co.in/wp-content/uploads/2024/09/Make_In_India.png",
-      "source": "DD India",
-      "sourceUrl": "https://ddindia.co.in/2026/09/make-in-india-drives-a-new-era-of-manufacturing-growth/",
-      "publishedAt": "2026-09-28T11:15:31.000Z",
-      "fetchedAt": "2026-09-28T11:25:02.981Z",
-      "title_hi": "मेक इन इंडिया विनिर्माण विकास के एक नए युग को आगे बढ़ाता है",
-      "summary_hi": "अपने लॉन्च के बारह साल बाद, मेक इन इंडिया प्रधान मंत्री नरेंद्र मोदी के एक मजबूत, अधिक आत्मनिर्भर और विश्व स्तर पर प्रतिस्पर्धी भारत के निर्माण के दृष्टिकोण का एक महत्वपूर्ण हिस्सा है। 25 सितंबर 2014 को शुरू की गई इस पहल की कल्पना भारत को विनिर्माण, डिजाइन और नवाचार के लिए एक वैश्विक केंद्र बनाने के लिए की गई थी। ऊपर…",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "meka ina indiya vinirmana vikasa ke eka nae yuga ko aage badhaाta hai",
-      "summary_hinglish": "apane loncha ke baraha sala bad, meka ina indiya pradhana mantri narendra modi ke eka majabut, adhika aatmanirbhara aura vishva stara para pratispardhi bharata ke nirmana ke drishtikona ka eka mahatvapurna hissa hai। 25 sitanbara 2014 ko shuru ki gaee isa pahala ki kalpana bharata ko vinirman, dijaina aura navachara ke lie eka vaishvika kendra banane ke lie ki gaee thi। oopara…",
-      "category_hinglish": "Technology"
     },
     {
       "id": "4c6826da4d201796",
@@ -54,6 +54,23 @@
       "category_hinglish": "National aur Trending News"
     },
     {
+      "id": "32a5cac4c27cd264",
+      "title": "Make in India drives a new era of manufacturing growth",
+      "summary": "Twelve years after its launch, Make in India stands as an important part of Prime Minister Narendra Modi’s vision of building a stronger, more self-reliant and globally competitive India. The initiative, launched on September 25, 2014, was conceived to make India a global hub for manufacturing, design and innovation. Over…",
+      "category": "Technology",
+      "image": "https://ddindia.co.in/wp-content/uploads/2024/09/Make_In_India.png",
+      "source": "DD India",
+      "sourceUrl": "https://ddindia.co.in/2026/09/make-in-india-drives-a-new-era-of-manufacturing-growth/",
+      "publishedAt": "2026-09-28T11:15:31.000Z",
+      "fetchedAt": "2026-09-28T11:25:02.981Z",
+      "title_hi": "मेक इन इंडिया विनिर्माण विकास के एक नए युग को आगे बढ़ाता है",
+      "summary_hi": "अपने लॉन्च के बारह साल बाद, मेक इन इंडिया प्रधान मंत्री नरेंद्र मोदी के एक मजबूत, अधिक आत्मनिर्भर और विश्व स्तर पर प्रतिस्पर्धी भारत के निर्माण के दृष्टिकोण का एक महत्वपूर्ण हिस्सा है। 25 सितंबर 2014 को शुरू की गई इस पहल की कल्पना भारत को विनिर्माण, डिजाइन और नवाचार के लिए एक वैश्विक केंद्र बनाने के लिए की गई थी। ऊपर…",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "meka ina indiya vinirmana vikasa ke eka nae yuga ko aage badhaाta hai",
+      "summary_hinglish": "apane loncha ke baraha sala bad, meka ina indiya pradhana mantri narendra modi ke eka majabut, adhika aatmanirbhara aura vishva stara para pratispardhi bharata ke nirmana ke drishtikona ka eka mahatvapurna hissa hai। 25 sitanbara 2014 ko shuru ki gaee isa pahala ki kalpana bharata ko vinirman, dijaina aura navachara ke lie eka vaishvika kendra banane ke lie ki gaee thi। oopara…",
+      "category_hinglish": "Technology"
+    },
+    {
       "id": "7a7b6428bafd33e7",
       "title": "JetSynthesys and Japan’s MIXI sign MOU to explore gaming collaboration in India",
       "summary": "The two companies will explore game development, publishing, marketing, esports and digital entertainment in one of the world",
@@ -69,6 +86,21 @@
       "category_hinglish": "Entertainment",
       "title_hinglish": "jetasinthesisa aura japana ki MIXI ne bharata men geminga sahayoga ka pata lagane ke lie samajhauta jnyapana para hastakshara kie",
       "summary_hinglish": "donon kanpaniyan duniya bhara men gema devalapament, pablishing, marketing, eesportsa aura dijitala manoranjana ka pata lagaengi"
+    },
+    {
+      "id": "5b8a95986db19279",
+      "title": "The Vvaan's Chhath scenes are winning Bihari hearts. Here's what feels so real",
+      "summary": "The Vvaan's Chhath Puja sequence has drawn strong emotional reactions from viewers online. Audiences say the rituals, visuals and Sharda Sinha's song make it feel personal and rooted.",
+      "category": "Entertainment",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/the-vvaan--chhath-puja-282146821-16x9_0.png?VersionId=E9w3I6gZvguvKa_mdkWMRtz..rG9VEs1",
+      "source": "indiatoday.in",
+      "sourceUrl": "https://www.indiatoday.in/movies/bollywood/story/the-vvaan-chhath-puja-scenes-sharda-sinha-song-winning-bihari-hearts-3004629-2026-09-28",
+      "publishedAt": "2026-09-28T07:23:55.000Z",
+      "fetchedAt": "2026-09-28T11:58:04.763Z",
+      "title_hi": "",
+      "summary_hi": "",
+      "category_hi": "मनोरंजन",
+      "category_hinglish": "Entertainment"
     },
     {
       "id": "e381bf1894193d8c",
@@ -88,6 +120,38 @@
       "category_hinglish": "National aur Trending News"
     },
     {
+      "id": "55df58b2271b04a8",
+      "title": "'Crushed man's head with stones': How Delhi murder accused evaded arrest for 24 years",
+      "summary": "A 24-year-long manhunt, which began with a highly decomposed body being found in a DDA forest, ended with the accused being arrested from Gurgaon by Delhi Police's Crime Branch. The accused, Firoj, had been absconding for over two decades after murdering a man to avenge an old family-related vendetta.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134529602,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/delhi/crushed-mans-head-with-stones-in-2002-how-accused-evaded-arrest-for-24-years-before-gurgaon-arrest/articleshow/134529574.cms",
+      "publishedAt": "2026-09-28T10:36:00.000Z",
+      "fetchedAt": "2026-09-28T11:06:08.769Z",
+      "title_hi": "'पत्थरों से कुचला आदमी का सिर': कैसे 24 साल तक गिरफ्तारी से बचते रहे दिल्ली हत्याकांड के आरोपी?",
+      "summary_hi": "24 साल की लंबी तलाश, जो डीडीए जंगल में एक अत्यधिक क्षत-विक्षत शव मिलने से शुरू हुई, दिल्ली पुलिस की अपराध शाखा द्वारा आरोपी को गुड़गांव से गिरफ्तार किए जाने के साथ समाप्त हुई। आरोपी फिरोज, पुराने पारिवारिक प्रतिशोध का बदला लेने के लिए एक व्यक्ति की हत्या करने के बाद दो दशकों से अधिक समय से फरार था।",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "category_hinglish": "Crime aur Breaking News",
+      "title_hinglish": "'pattharon se kuchala aadami ka sira': kaise 24 sala taka giraphtari se bachate rahe dilli hatyakanda ke aaropi?",
+      "summary_hinglish": "24 sala ki lanbi talash, jo didie jangala men eka atyadhika kshata-vikshata shava milane se shuru huee, dilli pulisa ki aparadha shakha dvara aaropi ko gudaganva se giraphtara kie jane ke satha samapta huee। aaropi phiroj, purane parivarika pratishodha ka badala lene ke lie eka vyakti ki hatya karane ke bada do dashakon se adhika samaya se pharara tha।"
+    },
+    {
+      "id": "f0a8e399f94b8f2b",
+      "title": "Asian Games 2026: India medal tally and winners list - full table",
+      "summary": "Know list of India winners at the Asian Games 2026. Know medal tally and how many medals Indian athletes have won in each sport. Full table.",
+      "category": "Sports",
+      "image": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/v1790073400/primary/bu9ggjnikynkr9xbdl7g",
+      "source": "olympics.com",
+      "sourceUrl": "https://www.olympics.com/en/news/asian-games-2026-medal-tally-india-winners-table-list",
+      "publishedAt": "2026-09-28T10:32:00.000Z",
+      "fetchedAt": "2026-09-28T11:57:36.975Z",
+      "title_hi": "",
+      "summary_hi": "",
+      "category_hi": "खेल",
+      "category_hinglish": "Sports"
+    },
+    {
       "id": "be70c7c038ab373d",
       "title": "330 archers compete in state championship",
       "summary": "The three-day Raja Karna Bihar State Archery Championship ‘Lakshya’ 2026 began at Pataliputra Sports Complex on Sunday with 330 archers from across Bihar competing for honours. Organised by the sports department and Bihar State Sports Authority, the championship has 180 boys and 150 girls competing in Under-10, Under-13, Under-15, sub-junior…",
@@ -102,38 +166,6 @@
       "category_hi": "खेल",
       "title_hinglish": "rajya chaimpiyanashipa men 330 tirandaja pratispardha karate hain",
       "summary_hinglish": "tina divasiya raja karna bihara rajya tirandaji chainpiyanashipa 'lakshya' 2026 ravivara ko pataliputra sportsa kompleksa men shuru huee, jisamen pure bihara ke 330 tirandaja sammana ke lie pratispardha kara rahe the। khela vibhaga aura bihara rajya khela pradhikarana dvara aayojita isa chainpiyanashipa men 180 ladake aura 150 ladakiyan andara-10, andara-13, andara-15, saba-juniyar...",
-      "category_hinglish": "Sports"
-    },
-    {
-      "id": "55df58b2271b04a8",
-      "title": "'Crushed man's head with stones': How Delhi murder accused evaded arrest for 24 years",
-      "summary": "A 24-year-long manhunt, which began with a highly decomposed body being found in a DDA forest, ended with the accused being arrested from Gurgaon by Delhi Police's Crime Branch. The accused, Firoj, had been absconding for over two decades after murdering a man to avenge an old family-related vendetta.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134529602,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/delhi/crushed-mans-head-with-stones-in-2002-how-accused-evaded-arrest-for-24-years-before-gurgaon-arrest/articleshow/134529574.cms",
-      "publishedAt": "2026-09-28T10:36:00.000Z",
-      "fetchedAt": "2026-09-28T11:06:08.769Z",
-      "title_hi": "",
-      "summary_hi": "",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "category_hinglish": "Crime aur Breaking News"
-    },
-    {
-      "id": "f0a8e399f94b8f2b",
-      "title": "Asian Games 2026: India medal tally and winners list - full table",
-      "summary": "Know list of India winners at the Asian Games 2026. Know medal tally and how many medals Indian athletes have won in each sport. Full table.",
-      "category": "Sports",
-      "image": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/v1790073400/primary/bu9ggjnikynkr9xbdl7g",
-      "source": "olympics.com",
-      "sourceUrl": "https://www.olympics.com/en/news/asian-games-2026-medal-tally-india-winners-table-list",
-      "publishedAt": "2026-09-28T10:32:00.000Z",
-      "fetchedAt": "2026-09-28T11:43:43.717Z",
-      "title_hi": "एशियाई खेल 2026: भारत की पदक तालिका और विजेताओं की सूची - पूरी तालिका",
-      "summary_hi": "एशियाई खेल 2026 में भारत के विजेताओं की सूची जानें। पदक तालिका जानें और भारतीय एथलीटों ने प्रत्येक खेल में कितने पदक जीते हैं। पूरी मेज.",
-      "category_hi": "खेल",
-      "title_hinglish": "eshiyaee khela 2026: bharata ki padaka talika aura vijetaon ki suchi - puri talika",
-      "summary_hinglish": "eshiyaee khela 2026 men bharata ke vijetaon ki suchi janen। padaka talika janen aura bharatiya ethaliton ne pratyeka khela men kitane padaka jite hain। puri mej.",
       "category_hinglish": "Sports"
     },
     {
@@ -154,23 +186,6 @@
       "category_hinglish": "National aur Trending News"
     },
     {
-      "id": "feeef1c1c55ee87e",
-      "title": "'Regret supporting': Chirag Paswan attacks Bihar govt over rising crimes against women",
-      "summary": "Bihar crime: Union Minister Chirag Paswan expresses shame over the deteriorating law and order situation, criticising the state administration for failing to curb rising crimes against women and demanding strict action.",
-      "category": "Politics & Government",
-      "image": "https://cf-images.assettype.com/deccanherald%2F2026-09-27%2Fy768eua9%2FImages-1.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "source": "Deccan Herald",
-      "sourceUrl": "https://www.deccanherald.com/amp/story/india/bihar/regret-supporting-chirag-paswan-attacks-bihar-govt-over-rising-crimes-against-women-4161778",
-      "publishedAt": "2026-09-27T15:44:00.000Z",
-      "fetchedAt": "2026-09-27T17:12:28.090Z",
-      "title_hi": "'समर्थन करने का अफसोस': महिलाओं के खिलाफ बढ़ते अपराध को लेकर चिराग पासवान ने बिहार सरकार पर हमला बोला",
-      "summary_hi": "बिहार अपराध: केंद्रीय मंत्री चिराग पासवान ने बिगड़ती कानून-व्यवस्था की स्थिति पर शर्मिंदगी व्यक्त की, महिलाओं के खिलाफ बढ़ते अपराधों पर अंकुश लगाने में विफल रहने के लिए राज्य प्रशासन की आलोचना की और सख्त कार्रवाई की मांग की।",
-      "category_hi": "राजनीति और सरकार",
-      "title_hinglish": "'samarthana karane ka aphasosa': mahilaon ke khilapha badhate aparadha ko lekara chiraga pasavana ne bihara sarakara para hamala bola",
-      "summary_hinglish": "bihara aparadh: kendriya mantri chiraga pasavana ne bigadati kanuna-vyavastha ki sthiti para sharmindagi vyakta ki, mahilaon ke khilapha badhate aparadhon para ankusha lagane men viphala rahane ke lie rajya prashasana ki aalochana ki aura sakhta karravaee ki manga ki।",
-      "category_hinglish": "Politics aur Government"
-    },
-    {
       "id": "b297e0c52f08c081",
       "title": "Airtel's AI-powered cybersecurity tech blocked 1.42 million malicious links in spam messages in India",
       "summary": "Airtel AI cybersecurity blocks millions of malicious links and spam messages across India. New OTP fraud protection and Cloud Plus subscription launched for postpaid smartphone users with Apple devices.",
@@ -186,6 +201,23 @@
       "title_hinglish": "eyaratela ki eaaee-sanchalita saibara suraksha takanika ne bharata men spaima sandeshon men 1.42 miliyana durbhavanapurna linka ko avaruddha kara diya",
       "summary_hinglish": "eyaratela eaaee saibara suraksha pure bharata men lakhon durbhavanapurna linka aura spaima sandeshon ko bloka karati hai। aippala divaisa vale postapeda smartaphona upayogakartaon ke lie naee otipi dhokhadhadaी suraksha aura klauda plasa sadasyata loncha ki gaee।",
       "category_hinglish": "Technology"
+    },
+    {
+      "id": "feeef1c1c55ee87e",
+      "title": "'Regret supporting': Chirag Paswan attacks Bihar govt over rising crimes against women",
+      "summary": "Bihar crime: Union Minister Chirag Paswan expresses shame over the deteriorating law and order situation, criticising the state administration for failing to curb rising crimes against women and demanding strict action.",
+      "category": "Politics & Government",
+      "image": "https://cf-images.assettype.com/deccanherald%2F2026-09-27%2Fy768eua9%2FImages-1.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "Deccan Herald",
+      "sourceUrl": "https://www.deccanherald.com/amp/story/india/bihar/regret-supporting-chirag-paswan-attacks-bihar-govt-over-rising-crimes-against-women-4161778",
+      "publishedAt": "2026-09-27T15:44:00.000Z",
+      "fetchedAt": "2026-09-27T17:12:28.090Z",
+      "title_hi": "'समर्थन करने का अफसोस': महिलाओं के खिलाफ बढ़ते अपराध को लेकर चिराग पासवान ने बिहार सरकार पर हमला बोला",
+      "summary_hi": "बिहार अपराध: केंद्रीय मंत्री चिराग पासवान ने बिगड़ती कानून-व्यवस्था की स्थिति पर शर्मिंदगी व्यक्त की, महिलाओं के खिलाफ बढ़ते अपराधों पर अंकुश लगाने में विफल रहने के लिए राज्य प्रशासन की आलोचना की और सख्त कार्रवाई की मांग की।",
+      "category_hi": "राजनीति और सरकार",
+      "title_hinglish": "'samarthana karane ka aphasosa': mahilaon ke khilapha badhate aparadha ko lekara chiraga pasavana ne bihara sarakara para hamala bola",
+      "summary_hinglish": "bihara aparadh: kendriya mantri chiraga pasavana ne bigadati kanuna-vyavastha ki sthiti para sharmindagi vyakta ki, mahilaon ke khilapha badhate aparadhon para ankusha lagane men viphala rahane ke lie rajya prashasana ki aalochana ki aura sakhta karravaee ki manga ki।",
+      "category_hinglish": "Politics aur Government"
     },
     {
       "id": "86cf33c556e8e725",
@@ -205,23 +237,6 @@
       "category_hinglish": "Sports"
     },
     {
-      "id": "4911f7e5a341b5b9",
-      "title": "Caught With Pistol, Bhagalpur Criminal Pushes Cop, Jumps Into River To Escape Police; What Happened Next Goes Viral",
-      "summary": "The accused, identified as Santosh Yadav, had allegedly been arrested after police recovered a country-made pistol and cartridges from him.",
-      "category": "Crime & Breaking News",
-      "image": "https://www.newsx.com/wp-content/uploads/2026/09/professor-dulla_2.png",
-      "source": "NewsX",
-      "sourceUrl": "https://www.newsx.com/regionals/caught-with-pistol-bhagalpur-criminal-pushes-cop-jumps-into-river-to-escape-police-what-happened-next-goes-viral-276545/amp/",
-      "publishedAt": "2026-09-27T10:52:24.000Z",
-      "fetchedAt": "2026-09-27T12:34:21.951Z",
-      "title_hi": "पिस्तौल के साथ पकड़ा गया, भागलपुर अपराधी ने पुलिस को धक्का दिया, पुलिस से बचने के लिए नदी में कूद गया; आगे जो हुआ वह वायरल हो गया",
-      "summary_hi": "संतोष यादव के रूप में पहचाने गए आरोपी को कथित तौर पर पुलिस द्वारा उसके पास से एक देशी पिस्तौल और कारतूस बरामद करने के बाद गिरफ्तार कर लिया गया था।",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "pistaula ke satha pakadaा gay, bhagalapura aparadhi ne pulisa ko dhakka diy, pulisa se bachane ke lie nadi men kuda gay; aage jo huaa vaha vayarala ho gaya",
-      "summary_hinglish": "santosha yadava ke rupa men pahachane gae aaropi ko kathita taura para pulisa dvara usake pasa se eka deshi pistaula aura karatusa baramada karane ke bada giraphtara kara liya gaya tha।",
-      "category_hinglish": "Crime aur Breaking News"
-    },
-    {
       "id": "93d9395e24ec07ce",
       "title": "Manoj Tiwari reacts to claims he used influence for daughter Rhiti's Bigg Boss entry",
       "summary": "Manoj Tiwari has denied using his influence to get daughter Rhiti Tiwari into Bigg Boss 20. His remarks came after Rhiti's clashes in the house sparked questions about privilege and conduct.",
@@ -237,6 +252,23 @@
       "category_hinglish": "Entertainment",
       "title_hinglish": "manoja tivari ne una davon para pratikriya di, jinamen unhonne beti riti ki biga bosa men entri ke lie prabhava ka istemala kiya tha",
       "summary_hinglish": "manoja tivari ne beti riti tivari ko biga bosa 20 men lane ke lie apane prabhava ka istemala karane se inakara kiya hai। unaki tippani ghara men riti ki jhadapon ke bada visheshadhikara aura aacharana ke bare men savala uthane ke bada aaee hai।"
+    },
+    {
+      "id": "4911f7e5a341b5b9",
+      "title": "Caught With Pistol, Bhagalpur Criminal Pushes Cop, Jumps Into River To Escape Police; What Happened Next Goes Viral",
+      "summary": "The accused, identified as Santosh Yadav, had allegedly been arrested after police recovered a country-made pistol and cartridges from him.",
+      "category": "Crime & Breaking News",
+      "image": "https://www.newsx.com/wp-content/uploads/2026/09/professor-dulla_2.png",
+      "source": "NewsX",
+      "sourceUrl": "https://www.newsx.com/regionals/caught-with-pistol-bhagalpur-criminal-pushes-cop-jumps-into-river-to-escape-police-what-happened-next-goes-viral-276545/amp/",
+      "publishedAt": "2026-09-27T10:52:24.000Z",
+      "fetchedAt": "2026-09-27T12:34:21.951Z",
+      "title_hi": "पिस्तौल के साथ पकड़ा गया, भागलपुर अपराधी ने पुलिस को धक्का दिया, पुलिस से बचने के लिए नदी में कूद गया; आगे जो हुआ वह वायरल हो गया",
+      "summary_hi": "संतोष यादव के रूप में पहचाने गए आरोपी को कथित तौर पर पुलिस द्वारा उसके पास से एक देशी पिस्तौल और कारतूस बरामद करने के बाद गिरफ्तार कर लिया गया था।",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "pistaula ke satha pakadaा gay, bhagalapura aparadhi ne pulisa ko dhakka diy, pulisa se bachane ke lie nadi men kuda gay; aage jo huaa vaha vayarala ho gaya",
+      "summary_hinglish": "santosha yadava ke rupa men pahachane gae aaropi ko kathita taura para pulisa dvara usake pasa se eka deshi pistaula aura karatusa baramada karane ke bada giraphtara kara liya gaya tha।",
+      "category_hinglish": "Crime aur Breaking News"
     },
     {
       "id": "8a6cc10ec33aaaf6",
@@ -256,21 +288,21 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "03943fafde680d0a",
-      "title": "Samrat: Bihar, Centre to coordinate on cross-border crimes along Nepal border",
-      "summary": "Bihar govt and Centre will work in close coordination to curb infiltration, counterfeit currency, drug trafficking and other cross-border crimes along the sensitive India-Nepal border, CM Samrat Choudhary said here on Saturday after chairing a comprehensive high-level review meeting at the ‘Samvad’ hall in the Chief Minister’s Secretariat.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134507867,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/patna/samrat-bihar-centre-to-coordinate-on-cross-border-crimes-along-nepal-border/articleshow/134507868.cms",
-      "publishedAt": "2026-09-26T16:54:00.000Z",
-      "fetchedAt": "2026-09-26T17:15:41.433Z",
-      "title_hi": "सम्राट: बिहार, केंद्र नेपाल सीमा पर सीमा पार अपराधों पर समन्वय करें",
-      "summary_hi": "मुख्यमंत्री सम्राट चौधरी ने शनिवार को मुख्यमंत्री सचिवालय के 'संवाद' हॉल में एक व्यापक उच्च स्तरीय समीक्षा बैठक की अध्यक्षता करने के बाद कहा कि संवेदनशील भारत-नेपाल सीमा पर घुसपैठ, जाली मुद्रा, मादक पदार्थों की तस्करी और अन्य सीमा पार अपराधों को रोकने के लिए बिहार सरकार और केंद्र निकट समन्वय में काम करेंगे।",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "samrat: bihar, kendra nepala sima para sima para aparadhon para samanvaya karen",
-      "summary_hinglish": "mukhyamantri samrata chaudhari ne shanivara ko mukhyamantri sachivalaya ke 'sanvada' hola men eka vyapaka uchcha stariya samiksha baithaka ki adhyakshata karane ke bada kaha ki sanvedanashila bharata-nepala sima para ghusapaith, jali mudr, madaka padarthon ki taskari aura anya sima para aparadhon ko rokane ke lie bihara sarakara aura kendra nikata samanvaya men kama karenge।",
-      "category_hinglish": "Crime aur Breaking News"
+      "id": "87132b6f37084293",
+      "title": "Fab Capital, a debt financing and capital solutions platform for Indian businesses, facilitated over ₹40 c..",
+      "summary": "Fab Capital facilitates over ₹40 crore in monthly debt financing for businesses across India, helping them access growth capital without giving up ownership. The platform connects companies with a vast lender network, including banks and fintechs, to provide various customized debt solutions.",
+      "category": "Business & Finance",
+      "image": "https://etimg.etb2bimg.com/thumb/msid-134538449,imgsize-64636,width-1200,height=627,overlay-etbfsi,resizemode-75/fintech/fab-capital-a-debt-financing-and-capital-solutions-platform-for-indian-businesses-facilitated-over-40-crore-in-monthly-debt-financing-via-its-lender-network-marking-its-growing-footprint.jpg",
+      "source": "bfsi.economictimes.indiatimes.com",
+      "sourceUrl": "https://bfsi.economictimes.indiatimes.com/amp/news/fintech/fab-capital-a-debt-financing-and-capital-solutions-platform-for-indian-businesses-facilitated-over-40-crore-in-monthly-debt-financing-via-its-lender-network-marking-its-growing-footprint/134538449",
+      "publishedAt": "2026-09-28T10:00:05.000Z",
+      "fetchedAt": "2026-09-28T11:57:57.397Z",
+      "title_hi": "फैब कैपिटल, भारतीय व्यवसायों के लिए एक ऋण वित्तपोषण और पूंजी समाधान मंच, ₹40 करोड़ से अधिक की सुविधा प्रदान करता है।",
+      "summary_hi": "फैब कैपिटल पूरे भारत में व्यवसायों के लिए मासिक ऋण वित्तपोषण में ₹40 करोड़ से अधिक की सुविधा प्रदान करता है, जिससे उन्हें स्वामित्व छोड़े बिना विकास पूंजी तक पहुंचने में मदद मिलती है। यह प्लेटफ़ॉर्म विभिन्न अनुकूलित ऋण समाधान प्रदान करने के लिए कंपनियों को बैंकों और फिनटेक सहित एक विशाल ऋणदाता नेटवर्क से जोड़ता है।",
+      "category_hi": "बिज़नेस और फाइनेंस",
+      "title_hinglish": "phaiba kaipital, bharatiya vyavasayon ke lie eka rina vittaposhana aura punji samadhana manch, ₹40 karoda se adhika ki suvidha pradana karata hai।",
+      "summary_hinglish": "phaiba kaipitala pure bharata men vyavasayon ke lie masika rina vittaposhana men ₹40 karoda se adhika ki suvidha pradana karata hai, jisase unhen svamitva chhodaे bina vikasa punji taka pahunchane men madada milati hai। yaha pletaphaॉrma vibhinna anukulita rina samadhana pradana karane ke lie kanpaniyon ko bainkon aura phinateka sahita eka vishala rinadata netavarka se jodata hai।",
+      "category_hinglish": "Business aur Finance"
     },
     {
       "id": "4ae27bb376fadb1e",
@@ -286,6 +318,23 @@
       "summary_hi": "",
       "category_hi": "खेल",
       "category_hinglish": "Sports"
+    },
+    {
+      "id": "03943fafde680d0a",
+      "title": "Samrat: Bihar, Centre to coordinate on cross-border crimes along Nepal border",
+      "summary": "Bihar govt and Centre will work in close coordination to curb infiltration, counterfeit currency, drug trafficking and other cross-border crimes along the sensitive India-Nepal border, CM Samrat Choudhary said here on Saturday after chairing a comprehensive high-level review meeting at the ‘Samvad’ hall in the Chief Minister’s Secretariat.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134507867,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/patna/samrat-bihar-centre-to-coordinate-on-cross-border-crimes-along-nepal-border/articleshow/134507868.cms",
+      "publishedAt": "2026-09-26T16:54:00.000Z",
+      "fetchedAt": "2026-09-26T17:15:41.433Z",
+      "title_hi": "सम्राट: बिहार, केंद्र नेपाल सीमा पर सीमा पार अपराधों पर समन्वय करें",
+      "summary_hi": "मुख्यमंत्री सम्राट चौधरी ने शनिवार को मुख्यमंत्री सचिवालय के 'संवाद' हॉल में एक व्यापक उच्च स्तरीय समीक्षा बैठक की अध्यक्षता करने के बाद कहा कि संवेदनशील भारत-नेपाल सीमा पर घुसपैठ, जाली मुद्रा, मादक पदार्थों की तस्करी और अन्य सीमा पार अपराधों को रोकने के लिए बिहार सरकार और केंद्र निकट समन्वय में काम करेंगे।",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "samrat: bihar, kendra nepala sima para sima para aparadhon para samanvaya karen",
+      "summary_hinglish": "mukhyamantri samrata chaudhari ne shanivara ko mukhyamantri sachivalaya ke 'sanvada' hola men eka vyapaka uchcha stariya samiksha baithaka ki adhyakshata karane ke bada kaha ki sanvedanashila bharata-nepala sima para ghusapaith, jali mudr, madaka padarthon ki taskari aura anya sima para aparadhon ko rokane ke lie bihara sarakara aura kendra nikata samanvaya men kama karenge।",
+      "category_hinglish": "Crime aur Breaking News"
     },
     {
       "id": "fff2f289224e54d1",
@@ -424,23 +473,6 @@
       "summary_hinglish": "jaba kullu ne adanana sami ka jikra kiya to aayushmana khurana ne indiyaja gota letenta para udata tira ka varnana kiya। isa chutaki ne hansi udaाee aura philma ki pahachana-badali ke aadhara ko rekhankita kiya।"
     },
     {
-      "id": "0fd2b8e1e638217a",
-      "title": "After Bankipur win, Prashant Kishor's party weighs Delhi expansion | India News",
-      "summary": "Supporters of Jan Suraaj in the national capital have been pressing for the party to establish a presence in Delhi.",
-      "category": "Politics & Government",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/26/1600x900/logo/Jan-Suraaj-Party-leader-Prashant-Kishor-arrives-at_1786968217381_1790409260340_aOC4_2475f880-bb66-47fc-810e-aed3b59049be_7pnl.jpg",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/india-news/prashant-kishor-jan-suraaj-party-bankipur-delhi-expansion-news-bihar-101790409031247-amp.html",
-      "publishedAt": "2026-09-26T08:42:30.000Z",
-      "fetchedAt": "2026-09-26T09:45:07.085Z",
-      "title_hi": "बांकीपुर जीत के बाद प्रशांत किशोर की पार्टी दिल्ली विस्तार पर विचार कर रही है | भारत समाचार",
-      "summary_hi": "राष्ट्रीय राजधानी में जन सुराज के समर्थक पार्टी पर दिल्ली में उपस्थिति स्थापित करने के लिए दबाव डाल रहे हैं।",
-      "category_hi": "राजनीति और सरकार",
-      "title_hinglish": "bankipura jita ke bada prashanta kishora ki parti dilli vistara para vichara kara rahi hai | bharata samachara",
-      "summary_hinglish": "rashtriya rajadhani men jana suraja ke samarthaka parti para dilli men upasthiti sthapita karane ke lie dabava dala rahe hain।",
-      "category_hinglish": "Politics aur Government"
-    },
-    {
       "id": "63875bf98c851d6f",
       "title": "India: LPU suspends classes after violent protests over alleged campus rape",
       "summary": "A university in Punjab has suspended classes after protests over a rumored sexual assault took a violent turn. Separately, the Supreme Court has taken suo motu cognizance of recent rape cases in Delhi. DW has more.",
@@ -456,6 +488,23 @@
       "title_hinglish": "bharat: kathita kainpasa balatkara para hinsaka virodha ke bada elapiyu ne kakshaen nilanbita kara din",
       "summary_hinglish": "yauna utpidana ki aphavaha para virodha pradarshana ke hinsaka rupa lene ke bada panjaba ke eka vishvavidyalaya ne kakshaen nilanbita kara di hain। suprima korta ne dilli men hala hi men hue balatkara ke mamalon para svat: sanjnyana liya hai। didablyu ke pasa aura bhi bahuta kuchha hai.",
       "category_hinglish": "Crime aur Breaking News"
+    },
+    {
+      "id": "0fd2b8e1e638217a",
+      "title": "After Bankipur win, Prashant Kishor's party weighs Delhi expansion | India News",
+      "summary": "Supporters of Jan Suraaj in the national capital have been pressing for the party to establish a presence in Delhi.",
+      "category": "Politics & Government",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/26/1600x900/logo/Jan-Suraaj-Party-leader-Prashant-Kishor-arrives-at_1786968217381_1790409260340_aOC4_2475f880-bb66-47fc-810e-aed3b59049be_7pnl.jpg",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/prashant-kishor-jan-suraaj-party-bankipur-delhi-expansion-news-bihar-101790409031247-amp.html",
+      "publishedAt": "2026-09-26T08:42:30.000Z",
+      "fetchedAt": "2026-09-26T09:45:07.085Z",
+      "title_hi": "बांकीपुर जीत के बाद प्रशांत किशोर की पार्टी दिल्ली विस्तार पर विचार कर रही है | भारत समाचार",
+      "summary_hi": "राष्ट्रीय राजधानी में जन सुराज के समर्थक पार्टी पर दिल्ली में उपस्थिति स्थापित करने के लिए दबाव डाल रहे हैं।",
+      "category_hi": "राजनीति और सरकार",
+      "title_hinglish": "bankipura jita ke bada prashanta kishora ki parti dilli vistara para vichara kara rahi hai | bharata samachara",
+      "summary_hinglish": "rashtriya rajadhani men jana suraja ke samarthaka parti para dilli men upasthiti sthapita karane ke lie dabava dala rahe hain।",
+      "category_hinglish": "Politics aur Government"
     },
     {
       "id": "1d4c335d9cc2e8e7",
@@ -577,40 +626,6 @@
       "category_hinglish": "Sports"
     },
     {
-      "id": "e19ffbb8cbe30e5d",
-      "title": "Fab Capital, a debt financing and capital solutions platform for Indian businesses, facilitated over ₹40 crore in monthly debt financing via its lender network, marking its growing footprint",
-      "summary": "/PRNewswire/ -- Fab Capital helps diverse businesses, including Shark Tank India-featured companies, access debt capital for growth, working capital, and other...",
-      "category": "Business & Finance",
-      "image": "https://mma.prnewswire.com/media/3009079/Banoth_Shabari_Nadh.jpg?p=facebook",
-      "source": "PR Newswire",
-      "sourceUrl": "https://www.prnewswire.com/in/news-releases/fab-capital-a-debt-financing-and-capital-solutions-platform-for-indian-businesses-facilitated-over-40-crore-in-monthly-debt-financing-via-its-lender-network-marking-its-growing-footprint-302891280.html",
-      "publishedAt": "2026-09-28T07:55:00.000Z",
-      "fetchedAt": "2026-09-28T08:25:28.677Z",
-      "title_hi": "फैब कैपिटल, भारतीय व्यवसायों के लिए एक ऋण वित्तपोषण और पूंजी समाधान मंच है, जिसने अपने ऋणदाता नेटवर्क के माध्यम से मासिक ऋण वित्तपोषण में ₹40 करोड़ से अधिक की सुविधा प्रदान की है, जो इसके बढ़ते प्रभाव को दर्शाता है।",
-      "summary_hi": "/PRNewswire/ -- फैब कैपिटल विभिन्न व्यवसायों को मदद करता है, जिसमें शार्क टैंक इंडिया-फीचर्ड कंपनियां, विकास के लिए ऋण पूंजी तक पहुंच, कार्यशील पूंजी और अन्य शामिल हैं...",
-      "category_hi": "बिज़नेस और फाइनेंस",
-      "title_hinglish": "phaiba kaipital, bharatiya vyavasayon ke lie eka rina vittaposhana aura punji samadhana mancha hai, jisane apane rinadata netavarka ke madhyama se masika rina vittaposhana men ₹40 karoda se adhika ki suvidha pradana ki hai, jo isake badhate prabhava ko darshata hai।",
-      "summary_hinglish": "/PRNewswire/ -- phaiba kaipitala vibhinna vyavasayon ko madada karata hai, jisamen sharka tainka indiya-phicharda kanpaniyan, vikasa ke lie rina punji taka pahunch, karyashila punji aura anya shamila hain...",
-      "category_hinglish": "Business aur Finance"
-    },
-    {
-      "id": "ca4a7bd9f0cb7546",
-      "title": "Woman hit with slipper, forced to transfer ₹1,500: Bihar sees another harassment case amid outrage | India News",
-      "summary": "The video shows several youths allegedly behaving indecently with the woman and hitting her with a slipper. One of the youths is also seen threatening her. | India News",
-      "category": "Politics & Government",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/25/1600x900/logo/bihar_banka_1790339464075_1yKO_1790339464243_SuDL_fbf1779f-3e56-49a1-97d2-9b29c98d4fc6_KrkV.png",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/india-news/banka-woman-hit-with-slipper-forced-to-transfer-rs-1-500-bihar-harassment-case-mandar-hill-101790339209803.html",
-      "publishedAt": "2026-09-25T14:49:14.000Z",
-      "fetchedAt": "2026-09-25T21:57:04.369Z",
-      "title_hi": "महिला को चप्पल से मारा गया, ₹1,500 ट्रांसफर करने के लिए मजबूर किया गया: आक्रोश के बीच बिहार में उत्पीड़न का एक और मामला सामने आया | भारत समाचार",
-      "summary_hi": "वीडियो में कई युवकों को कथित तौर पर महिला के साथ अभद्र व्यवहार करते और उसे चप्पल से मारते हुए दिखाया गया है। उनमें से एक युवक उसे धमकाता भी नजर आ रहा है. | भारत समाचार",
-      "category_hi": "राजनीति और सरकार",
-      "title_hinglish": "mahila ko chappala se mara gay, ₹1,500 transaphara karane ke lie majabura kiya gay: aakrosha ke bicha bihara men utpidana ka eka aura mamala samane aaya | bharata samachara",
-      "summary_hinglish": "vidiyo men kaee yuvakon ko kathita taura para mahila ke satha abhadra vyavahara karate aura use chappala se marate hue dikhaya gaya hai। unamen se eka yuvaka use dhamakata bhi najara aa raha hai. | bharata samachara",
-      "category_hinglish": "Politics aur Government"
-    },
-    {
       "id": "0e167fb30f7dfad0",
       "title": "Renault India Sees Hybrids As Major Volume-Generating Powertrain In Medium Term",
       "summary": "The automaker is betting on strong hybrids as it expands its product portfolio and prepares for a shift in India's powertrain mix.",
@@ -645,6 +660,23 @@
       "summary_hinglish": "altimeta rulara resa ke daurana shahajada punavala ke satha sharirika jhadapa ke bada siveta tomara ko raija enda phola 2 se bahara kara diya gaya tha। isa ladaाee ke karana svara bhaskara aura karana patela bhi vokaaauta kara gae, jinhonne vivada badhane ke lie ukasave ko jimmedara thaharaya।"
     },
     {
+      "id": "ca4a7bd9f0cb7546",
+      "title": "Woman hit with slipper, forced to transfer ₹1,500: Bihar sees another harassment case amid outrage | India News",
+      "summary": "The video shows several youths allegedly behaving indecently with the woman and hitting her with a slipper. One of the youths is also seen threatening her. | India News",
+      "category": "Politics & Government",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/25/1600x900/logo/bihar_banka_1790339464075_1yKO_1790339464243_SuDL_fbf1779f-3e56-49a1-97d2-9b29c98d4fc6_KrkV.png",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/banka-woman-hit-with-slipper-forced-to-transfer-rs-1-500-bihar-harassment-case-mandar-hill-101790339209803.html",
+      "publishedAt": "2026-09-25T14:49:14.000Z",
+      "fetchedAt": "2026-09-25T21:57:04.369Z",
+      "title_hi": "महिला को चप्पल से मारा गया, ₹1,500 ट्रांसफर करने के लिए मजबूर किया गया: आक्रोश के बीच बिहार में उत्पीड़न का एक और मामला सामने आया | भारत समाचार",
+      "summary_hi": "वीडियो में कई युवकों को कथित तौर पर महिला के साथ अभद्र व्यवहार करते और उसे चप्पल से मारते हुए दिखाया गया है। उनमें से एक युवक उसे धमकाता भी नजर आ रहा है. | भारत समाचार",
+      "category_hi": "राजनीति और सरकार",
+      "title_hinglish": "mahila ko chappala se mara gay, ₹1,500 transaphara karane ke lie majabura kiya gay: aakrosha ke bicha bihara men utpidana ka eka aura mamala samane aaya | bharata samachara",
+      "summary_hinglish": "vidiyo men kaee yuvakon ko kathita taura para mahila ke satha abhadra vyavahara karate aura use chappala se marate hue dikhaya gaya hai। unamen se eka yuvaka use dhamakata bhi najara aa raha hai. | bharata samachara",
+      "category_hinglish": "Politics aur Government"
+    },
+    {
       "id": "d33bea50fcf2a7b9",
       "title": "Indian Startup IPO Tracker 2026",
       "summary": "As per Inc42 data, 29 startups have already filed their DRHPs, while another 25 are in various stages of finalising their IPO plans.",
@@ -659,6 +691,23 @@
       "category_hi": "बिज़नेस और फाइनेंस",
       "title_hinglish": "bharatiya startaapa aaeepio traikara 2026",
       "summary_hinglish": "Inc42 deta ke anusar, 29 startaapa pahale hi apane DRHP dakhila kara chuke hain, jabaki anya 25 apani IPO yojanaon ko antima rupa dene ke vibhinna charanon men hain।",
+      "category_hinglish": "Business aur Finance"
+    },
+    {
+      "id": "3d2c71eebedd4970",
+      "title": "PTC India Financial Services Ltd Share Price Today NSE/BSE Charts",
+      "summary": "PTC India Financial Services Ltd share price today, NSE/BSE updates, price charts, market cap, PE ratio, financials, news and key stock details on Alice Blue now",
+      "category": "Business & Finance",
+      "image": "https://alicebluewebsite.s3.ap-south-1.amazonaws.com/wp-content/uploads/2026/04/21131109/aliceblue-online-trading-platform-investing.png",
+      "source": "Alice Blue",
+      "sourceUrl": "https://aliceblueonline.com/investment/stocks/ptc-india-financial-services-ltd",
+      "publishedAt": "2026-09-28T07:28:59.000Z",
+      "fetchedAt": "2026-09-28T11:57:58.919Z",
+      "title_hi": "पीटीसी इंडिया फाइनेंशियल सर्विसेज लिमिटेड शेयर मूल्य आज एनएसई/बीएसई चार्ट",
+      "summary_hi": "पीटीसी इंडिया फाइनेंशियल सर्विसेज लिमिटेड का शेयर मूल्य आज, एनएसई/बीएसई अपडेट, मूल्य चार्ट, मार्केट कैप, पीई अनुपात, वित्तीय, समाचार और ऐलिस ब्लू पर प्रमुख स्टॉक विवरण।",
+      "category_hi": "बिज़नेस और फाइनेंस",
+      "title_hinglish": "pitisi indiya phainenshiyala sarviseja limiteda sheyara mulya aaja enaesaee/biesaee charta",
+      "summary_hinglish": "pitisi indiya phainenshiyala sarviseja limiteda ka sheyara mulya aaj, enaesaee/biesaee apadet, mulya chart, marketa kaip, piee anupat, vittiy, samachara aura ailisa blu para pramukha stoka vivarana।",
       "category_hinglish": "Business aur Finance"
     },
     {
