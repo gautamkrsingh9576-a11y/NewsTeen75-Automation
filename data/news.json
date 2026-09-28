@@ -1,7 +1,24 @@
 {
-  "updatedAt": "2026-09-28T02:20:24.465Z",
-  "count": 60,
+  "updatedAt": "2026-09-28T02:37:19.891Z",
+  "count": 63,
   "articles": [
+    {
+      "id": "f51a4a301a1e659c",
+      "title": "Veeramani targeted poor kids through charitable foundation, lured with cash, smartphones: Police | India News",
+      "summary": "A quiet bungalow in Chennai’s upscale Alwarpet, marked only by a plaque reading ‘VISHNU 266’, has emerged as the centre of an alleged child sex racket in which 84-year-old granite baron R Veeramani allegedly lured and assaulted minor girls under the guise of a charitable foundation for underprivileged students |…",
+      "category": "Crime & Breaking News",
+      "image": "https://www.hindustantimes.com/ht-img/img/2025/06/30/1600x900/ht-generic_india1_1751287243850_1751287256749.jpg",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/veeramani-targeted-poor-kids-through-charitable-foundation-lured-with-cash-smartphonespolice-101790536256819.html",
+      "publishedAt": "2026-09-28T02:20:10.000Z",
+      "fetchedAt": "2026-09-28T02:36:28.979Z",
+      "title_hi": "वीरमणि ने चैरिटेबल फाउंडेशन के माध्यम से गरीब बच्चों को निशाना बनाया, नकदी, स्मार्टफोन का लालच दिया: पुलिस | भारत समाचार",
+      "summary_hi": "चेन्नई के पॉश इलाके अलवरपेट में एक शांत बंगला, जिस पर केवल 'विष्णु 266' लिखी पट्टिका है, एक कथित बाल सेक्स रैकेट के केंद्र के रूप में उभरा है, जिसमें 84 वर्षीय ग्रेनाइट व्यापारी आर वीरमणि ने कथित तौर पर वंचित छात्रों के लिए एक धर्मार्थ फाउंडेशन की आड़ में नाबालिग लड़कियों को लालच दिया और उन पर हमला किया।",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "viramani ne chairitebala phaundeshana ke madhyama se gariba bachchon ko nishana banay, nakadi, smartaphona ka lalacha diy: pulisa | bharata samachara",
+      "summary_hinglish": "chennaee ke posha ilake alavarapeta men eka shanta bangal, jisa para kevala 'vishnu 266' likhi pattika hai, eka kathita bala seksa raiketa ke kendra ke rupa men ubhara hai, jisamen 84 varshiya grenaita vyapari aara viramani ne kathita taura para vanchita chhatron ke lie eka dharmartha phaundeshana ki aada men nabaliga ladakiyon ko lalacha diya aura una para hamala kiya।",
+      "category_hinglish": "Crime aur Breaking News"
+    },
     {
       "id": "597a4b5e4fa1c687",
       "title": "Asian rivals closing gap on India, kabaddi coach BC Ramesh calls for greater professionalism",
@@ -20,23 +37,6 @@
       "category_hinglish": "Sports"
     },
     {
-      "id": "69b56facf1a66083",
-      "title": "Making every second count: The creation of Indian Standard Time at Delhi’s NPL",
-      "summary": "IST becomes India’s legal time from 2027, realized at NPL Delhi with an 8-clock atomic ensemble and enforced nationwide audits.",
-      "category": "National & Trending News",
-      "image": "https://th-i.thgim.com/public/incoming/ar1wpx/article71512234.ece/alternates/LANDSCAPE_1200/SPOTLIGHT_NPL_DELHI_1_.JPG",
-      "source": "The Hindu",
-      "sourceUrl": "https://www.thehindu.com/news/cities/Delhi/creation-of-indian-standard-time-at-delhi-npl/article71512224.ece",
-      "publishedAt": "2026-09-28T01:12:00.000Z",
-      "fetchedAt": "2026-09-28T01:34:25.137Z",
-      "title_hi": "हर सेकंड की गिनती करना: दिल्ली के एनपीएल में भारतीय मानक समय का निर्माण",
-      "summary_hi": "2027 से आईएसटी भारत का कानूनी समय बन गया है, जिसे एनपीएल दिल्ली में 8-घड़ी परमाणु समूह के साथ लागू किया गया और राष्ट्रव्यापी ऑडिट लागू किया गया।",
-      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
-      "title_hinglish": "hara sekanda ki ginati karan: dilli ke enapiela men bharatiya manaka samaya ka nirmana",
-      "summary_hinglish": "2027 se aaeeesati bharata ka kanuni samaya bana gaya hai, jise enapiela dilli men 8-ghadaी paramanu samuha ke satha lagu kiya gaya aura rashtravyapi ऑdita lagu kiya gaya।",
-      "category_hinglish": "National aur Trending News"
-    },
-    {
       "id": "be70c7c038ab373d",
       "title": "330 archers compete in state championship",
       "summary": "The three-day Raja Karna Bihar State Archery Championship ‘Lakshya’ 2026 began at Pataliputra Sports Complex on Sunday with 330 archers from across Bihar competing for honours. Organised by the sports department and Bihar State Sports Authority, the championship has 180 boys and 150 girls competing in Under-10, Under-13, Under-15, sub-junior…",
@@ -52,6 +52,72 @@
       "title_hinglish": "rajya chaimpiyanashipa men 330 tirandaja pratispardha karate hain",
       "summary_hinglish": "tina divasiya raja karna bihara rajya tirandaji chainpiyanashipa 'lakshya' 2026 ravivara ko pataliputra sportsa kompleksa men shuru huee, jisamen pure bihara ke 330 tirandaja sammana ke lie pratispardha kara rahe the। khela vibhaga aura bihara rajya khela pradhikarana dvara aayojita isa chainpiyanashipa men 180 ladake aura 150 ladakiyan andara-10, andara-13, andara-15, saba-juniyar...",
       "category_hinglish": "Sports"
+    },
+    {
+      "id": "eb3c042d45edceb5",
+      "title": "“Rukna nahi hai”: How two climbers who stumbled into the sport are now flying India’s flag in Japan",
+      "summary": "Sport climbing is often considered a niche sport in India, but the discipline has existed in the country since the 90’s. India has had representation in this discipline since the sport debuted at the Asiad in the 2018 edition.",
+      "category": "Sports",
+      "image": "https://ss-i.thgim.com/public/incoming/pikkla/article71517418.ece/alternates/LANDSCAPE_1200/Joga%20and%20Deepu.jpeg",
+      "source": "Sportstar",
+      "sourceUrl": "https://sportstar.thehindu.com/other-sports/asian-games-2026-india-sports-climbing-deepu-mallesh-joga-purty-tata-sports-jamshedpur-hub-infrastructure-explainer/article71517302.ece",
+      "publishedAt": "2026-09-28T01:52:32.000Z",
+      "fetchedAt": "2026-09-28T02:36:49.819Z",
+      "title_hi": "",
+      "summary_hi": "",
+      "category_hi": "खेल",
+      "category_hinglish": "Sports"
+    },
+    {
+      "id": "55df58b2271b04a8",
+      "title": "'Crushed man's head with stones': How Delhi murder accused evaded arrest for 24 years",
+      "summary": "A 24-year-long manhunt, which began with a highly decomposed body being found in a DDA forest, ended with the accused being arrested from Gurgaon by Delhi Police's Crime Branch. The accused, Firoj, had been absconding for over two decades after murdering a man to avenge an old family-related vendetta.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134529602,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/delhi/crushed-mans-head-with-stones-in-2002-how-accused-evaded-arrest-for-24-years-before-gurgaon-arrest/articleshow/134529574.cms",
+      "publishedAt": "2026-09-28T01:50:00.000Z",
+      "fetchedAt": "2026-09-28T02:36:27.620Z",
+      "title_hi": "'पत्थरों से कुचला आदमी का सिर': कैसे 24 साल तक गिरफ्तारी से बचते रहे दिल्ली हत्याकांड के आरोपी?",
+      "summary_hi": "24 साल की लंबी तलाश, जो डीडीए जंगल में एक अत्यधिक क्षत-विक्षत शव मिलने से शुरू हुई, दिल्ली पुलिस की अपराध शाखा द्वारा आरोपी को गुड़गांव से गिरफ्तार किए जाने के साथ समाप्त हुई। आरोपी फिरोज, पुराने पारिवारिक प्रतिशोध का बदला लेने के लिए एक व्यक्ति की हत्या करने के बाद दो दशकों से अधिक समय से फरार था।",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "'pattharon se kuchala aadami ka sira': kaise 24 sala taka giraphtari se bachate rahe dilli hatyakanda ke aaropi?",
+      "summary_hinglish": "24 sala ki lanbi talash, jo didie jangala men eka atyadhika kshata-vikshata shava milane se shuru huee, dilli pulisa ki aparadha shakha dvara aaropi ko gudaganva se giraphtara kie jane ke satha samapta huee। aaropi phiroj, purane parivarika pratishodha ka badala lene ke lie eka vyakti ki hatya karane ke bada do dashakon se adhika samaya se pharara tha।",
+      "category_hinglish": "Crime aur Breaking News"
+    },
+    {
+      "id": "feeef1c1c55ee87e",
+      "title": "'Regret supporting': Chirag Paswan attacks Bihar govt over rising crimes against women",
+      "summary": "Bihar crime: Union Minister Chirag Paswan expresses shame over the deteriorating law and order situation, criticising the state administration for failing to curb rising crimes against women and demanding strict action.",
+      "category": "Politics & Government",
+      "image": "https://cf-images.assettype.com/deccanherald%2F2026-09-27%2Fy768eua9%2FImages-1.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "Deccan Herald",
+      "sourceUrl": "https://www.deccanherald.com/amp/story/india/bihar/regret-supporting-chirag-paswan-attacks-bihar-govt-over-rising-crimes-against-women-4161778",
+      "publishedAt": "2026-09-27T15:44:00.000Z",
+      "fetchedAt": "2026-09-27T17:12:28.090Z",
+      "title_hi": "'समर्थन करने का अफसोस': महिलाओं के खिलाफ बढ़ते अपराध को लेकर चिराग पासवान ने बिहार सरकार पर हमला बोला",
+      "summary_hi": "बिहार अपराध: केंद्रीय मंत्री चिराग पासवान ने बिगड़ती कानून-व्यवस्था की स्थिति पर शर्मिंदगी व्यक्त की, महिलाओं के खिलाफ बढ़ते अपराधों पर अंकुश लगाने में विफल रहने के लिए राज्य प्रशासन की आलोचना की और सख्त कार्रवाई की मांग की।",
+      "category_hi": "राजनीति और सरकार",
+      "title_hinglish": "'samarthana karane ka aphasosa': mahilaon ke khilapha badhate aparadha ko lekara chiraga pasavana ne bihara sarakara para hamala bola",
+      "summary_hinglish": "bihara aparadh: kendriya mantri chiraga pasavana ne bigadati kanuna-vyavastha ki sthiti para sharmindagi vyakta ki, mahilaon ke khilapha badhate aparadhon para ankusha lagane men viphala rahane ke lie rajya prashasana ki aalochana ki aura sakhta karravaee ki manga ki।",
+      "category_hinglish": "Politics aur Government"
+    },
+    {
+      "id": "69b56facf1a66083",
+      "title": "Making every second count: The creation of Indian Standard Time at Delhi’s NPL",
+      "summary": "IST becomes India’s legal time from 2027, realized at NPL Delhi with an 8-clock atomic ensemble and enforced nationwide audits.",
+      "category": "National & Trending News",
+      "image": "https://th-i.thgim.com/public/incoming/ar1wpx/article71512234.ece/alternates/LANDSCAPE_1200/SPOTLIGHT_NPL_DELHI_1_.JPG",
+      "source": "The Hindu",
+      "sourceUrl": "https://www.thehindu.com/news/cities/Delhi/creation-of-indian-standard-time-at-delhi-npl/article71512224.ece",
+      "publishedAt": "2026-09-28T01:12:00.000Z",
+      "fetchedAt": "2026-09-28T01:34:25.137Z",
+      "title_hi": "हर सेकंड की गिनती करना: दिल्ली के एनपीएल में भारतीय मानक समय का निर्माण",
+      "summary_hi": "2027 से आईएसटी भारत का कानूनी समय बन गया है, जिसे एनपीएल दिल्ली में 8-घड़ी परमाणु समूह के साथ लागू किया गया और राष्ट्रव्यापी ऑडिट लागू किया गया।",
+      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
+      "title_hinglish": "hara sekanda ki ginati karan: dilli ke enapiela men bharatiya manaka samaya ka nirmana",
+      "summary_hinglish": "2027 se aaeeesati bharata ka kanuni samaya bana gaya hai, jise enapiela dilli men 8-ghadaी paramanu samuha ke satha lagu kiya gaya aura rashtravyapi ऑdita lagu kiya gaya।",
+      "category_hinglish": "National aur Trending News"
     },
     {
       "id": "cfa86a0fb2c89771",
@@ -88,21 +154,21 @@
       "category_hinglish": "Entertainment"
     },
     {
-      "id": "feeef1c1c55ee87e",
-      "title": "'Regret supporting': Chirag Paswan attacks Bihar govt over rising crimes against women",
-      "summary": "Bihar crime: Union Minister Chirag Paswan expresses shame over the deteriorating law and order situation, criticising the state administration for failing to curb rising crimes against women and demanding strict action.",
-      "category": "Politics & Government",
-      "image": "https://cf-images.assettype.com/deccanherald%2F2026-09-27%2Fy768eua9%2FImages-1.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "source": "Deccan Herald",
-      "sourceUrl": "https://www.deccanherald.com/amp/story/india/bihar/regret-supporting-chirag-paswan-attacks-bihar-govt-over-rising-crimes-against-women-4161778",
-      "publishedAt": "2026-09-27T15:44:00.000Z",
-      "fetchedAt": "2026-09-27T17:12:28.090Z",
-      "title_hi": "'समर्थन करने का अफसोस': महिलाओं के खिलाफ बढ़ते अपराध को लेकर चिराग पासवान ने बिहार सरकार पर हमला बोला",
-      "summary_hi": "बिहार अपराध: केंद्रीय मंत्री चिराग पासवान ने बिगड़ती कानून-व्यवस्था की स्थिति पर शर्मिंदगी व्यक्त की, महिलाओं के खिलाफ बढ़ते अपराधों पर अंकुश लगाने में विफल रहने के लिए राज्य प्रशासन की आलोचना की और सख्त कार्रवाई की मांग की।",
-      "category_hi": "राजनीति और सरकार",
-      "title_hinglish": "'samarthana karane ka aphasosa': mahilaon ke khilapha badhate aparadha ko lekara chiraga pasavana ne bihara sarakara para hamala bola",
-      "summary_hinglish": "bihara aparadh: kendriya mantri chiraga pasavana ne bigadati kanuna-vyavastha ki sthiti para sharmindagi vyakta ki, mahilaon ke khilapha badhate aparadhon para ankusha lagane men viphala rahane ke lie rajya prashasana ki aalochana ki aura sakhta karravaee ki manga ki।",
-      "category_hinglish": "Politics aur Government"
+      "id": "4911f7e5a341b5b9",
+      "title": "Caught With Pistol, Bhagalpur Criminal Pushes Cop, Jumps Into River To Escape Police; What Happened Next Goes Viral",
+      "summary": "The accused, identified as Santosh Yadav, had allegedly been arrested after police recovered a country-made pistol and cartridges from him.",
+      "category": "Crime & Breaking News",
+      "image": "https://www.newsx.com/wp-content/uploads/2026/09/professor-dulla_2.png",
+      "source": "NewsX",
+      "sourceUrl": "https://www.newsx.com/regionals/caught-with-pistol-bhagalpur-criminal-pushes-cop-jumps-into-river-to-escape-police-what-happened-next-goes-viral-276545/amp/",
+      "publishedAt": "2026-09-27T10:52:24.000Z",
+      "fetchedAt": "2026-09-27T12:34:21.951Z",
+      "title_hi": "पिस्तौल के साथ पकड़ा गया, भागलपुर अपराधी ने पुलिस को धक्का दिया, पुलिस से बचने के लिए नदी में कूद गया; आगे जो हुआ वह वायरल हो गया",
+      "summary_hi": "संतोष यादव के रूप में पहचाने गए आरोपी को कथित तौर पर पुलिस द्वारा उसके पास से एक देशी पिस्तौल और कारतूस बरामद करने के बाद गिरफ्तार कर लिया गया था।",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "pistaula ke satha pakadaा gay, bhagalapura aparadhi ne pulisa ko dhakka diy, pulisa se bachane ke lie nadi men kuda gay; aage jo huaa vaha vayarala ho gaya",
+      "summary_hinglish": "santosha yadava ke rupa men pahachane gae aaropi ko kathita taura para pulisa dvara usake pasa se eka deshi pistaula aura karatusa baramada karane ke bada giraphtara kara liya gaya tha।",
+      "category_hinglish": "Crime aur Breaking News"
     },
     {
       "id": "a1eb3c5aee2c9615",
@@ -139,6 +205,21 @@
       "category_hinglish": "Sports"
     },
     {
+      "id": "22411800cf75db2b",
+      "title": "Vvaan box office collection Day 2: Sidharth Malhotra’s mythological thriller sees a rise; here’s how much it earned",
+      "summary": "Sidharth Malhotra and Tamannaah Bhatia’s mythological film Vvaan sees a jump on Day 2 of its theatrical run. Take a look at the latest box office figures.",
+      "category": "Entertainment",
+      "image": "https://cdn3.wionews.com/prod/wion/images/2026/20260927/image-1790492370752.png?imwidth=1200&imheight=900",
+      "source": "WION",
+      "sourceUrl": "https://www.wionews.com/entertainment/bollywood/vvaan-box-office-collection-day-2-sidharth-malhotra-s-mythological-thriller-sees-a-rise-here-s-how-much-it-earns-1790492269938",
+      "publishedAt": "2026-09-27T10:24:25.000Z",
+      "fetchedAt": "2026-09-28T02:37:14.475Z",
+      "title_hi": "",
+      "summary_hi": "",
+      "category_hi": "मनोरंजन",
+      "category_hinglish": "Entertainment"
+    },
+    {
       "id": "5ac83b0765d033c2",
       "title": "‘Baseless allegations’ against EC not in national interest: CM Rekha",
       "summary": "Delhi Chief Minister Rekha Gupta on Sunday hit out at the Opposition over its allegations against the Election Commission (EC) and the country’s electoral process, saying such claims were aimed at misleading the public and creating distrust in constitutional institutions.",
@@ -154,23 +235,6 @@
       "category_hinglish": "National aur Trending News",
       "title_hinglish": "chunava aayoga ke khilapha 'niradhara aaropa' rashtriya hita men nahin: siema rekha",
       "summary_hinglish": "dilli ki mukhyamantri rekha gupta ne ravivara ko chunava aayoga (eesi) aura desha ki chunavi prakriya ke khilapha vipaksha ke aaropon para nishana sadhate hue kaha ki aise davon ka uddeshya janata ko gumaraha karana aura sanvaidhanika sansthanon men avishvasa paida karana hai।"
-    },
-    {
-      "id": "4911f7e5a341b5b9",
-      "title": "Caught With Pistol, Bhagalpur Criminal Pushes Cop, Jumps Into River To Escape Police; What Happened Next Goes Viral",
-      "summary": "The accused, identified as Santosh Yadav, had allegedly been arrested after police recovered a country-made pistol and cartridges from him.",
-      "category": "Crime & Breaking News",
-      "image": "https://www.newsx.com/wp-content/uploads/2026/09/professor-dulla_2.png",
-      "source": "NewsX",
-      "sourceUrl": "https://www.newsx.com/regionals/caught-with-pistol-bhagalpur-criminal-pushes-cop-jumps-into-river-to-escape-police-what-happened-next-goes-viral-276545/amp/",
-      "publishedAt": "2026-09-27T10:52:24.000Z",
-      "fetchedAt": "2026-09-27T12:34:21.951Z",
-      "title_hi": "पिस्तौल के साथ पकड़ा गया, भागलपुर अपराधी ने पुलिस को धक्का दिया, पुलिस से बचने के लिए नदी में कूद गया; आगे जो हुआ वह वायरल हो गया",
-      "summary_hi": "संतोष यादव के रूप में पहचाने गए आरोपी को कथित तौर पर पुलिस द्वारा उसके पास से एक देशी पिस्तौल और कारतूस बरामद करने के बाद गिरफ्तार कर लिया गया था।",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "pistaula ke satha pakadaा gay, bhagalapura aparadhi ne pulisa ko dhakka diy, pulisa se bachane ke lie nadi men kuda gay; aage jo huaa vaha vayarala ho gaya",
-      "summary_hinglish": "santosha yadava ke rupa men pahachane gae aaropi ko kathita taura para pulisa dvara usake pasa se eka deshi pistaula aura karatusa baramada karane ke bada giraphtara kara liya gaya tha।",
-      "category_hinglish": "Crime aur Breaking News"
     },
     {
       "id": "d211127519b00718",
@@ -190,23 +254,6 @@
       "category_hinglish": "Entertainment"
     },
     {
-      "id": "91c9f257e5f3e3f1",
-      "title": "Kohli joins Tendulkar in 15,000-run club as India thump West Indies in ODI series opener",
-      "summary": "India's Virat Kohli on Sunday went past 15,000 one-day international runs and became only the second batter after cricket icon Sachin Tendulkar to achieve the feat.",
-      "category": "Sports",
-      "image": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-09/AFP__20260927__C9GY3HG__v1__HighRes__CricketIndWisOdi.jpg",
-      "source": "The Daily Star",
-      "sourceUrl": "https://www.thedailystar.net/sports/cricket/news/kohli-joins-tendulkar-15000-run-club-odis-4284446",
-      "publishedAt": "2026-09-27T21:33:45.000Z",
-      "fetchedAt": "2026-09-27T22:17:36.715Z",
-      "title_hi": "वनडे सीरीज के पहले मैच में भारत ने वेस्टइंडीज को हराया, कोहली 15,000 रन के क्लब में तेंदुलकर के साथ शामिल हो गए",
-      "summary_hi": "भारत के विराट कोहली ने रविवार को 15,000 एकदिवसीय अंतरराष्ट्रीय रन पूरे कर लिए और यह उपलब्धि हासिल करने वाले महान क्रिकेटर सचिन तेंदुलकर के बाद दूसरे बल्लेबाज बन गए।",
-      "category_hi": "खेल",
-      "title_hinglish": "vanade sirija ke pahale maicha men bharata ne vestaindija ko haray, kohali 15,000 rana ke klaba men tendulakara ke satha shamila ho gae",
-      "summary_hinglish": "bharata ke virata kohali ne ravivara ko 15,000 ekadivasiya antararashtriya rana pure kara lie aura yaha upalabdhi hasila karane vale mahana kriketara sachina tendulakara ke bada dusare ballebaja bana gae।",
-      "category_hinglish": "Sports"
-    },
-    {
       "id": "03943fafde680d0a",
       "title": "Samrat: Bihar, Centre to coordinate on cross-border crimes along Nepal border",
       "summary": "Bihar govt and Centre will work in close coordination to curb infiltration, counterfeit currency, drug trafficking and other cross-border crimes along the sensitive India-Nepal border, CM Samrat Choudhary said here on Saturday after chairing a comprehensive high-level review meeting at the ‘Samvad’ hall in the Chief Minister’s Secretariat.",
@@ -222,6 +269,23 @@
       "title_hinglish": "samrat: bihar, kendra nepala sima para sima para aparadhon para samanvaya karen",
       "summary_hinglish": "mukhyamantri samrata chaudhari ne shanivara ko mukhyamantri sachivalaya ke 'sanvada' hola men eka vyapaka uchcha stariya samiksha baithaka ki adhyakshata karane ke bada kaha ki sanvedanashila bharata-nepala sima para ghusapaith, jali mudr, madaka padarthon ki taskari aura anya sima para aparadhon ko rokane ke lie bihara sarakara aura kendra nikata samanvaya men kama karenge।",
       "category_hinglish": "Crime aur Breaking News"
+    },
+    {
+      "id": "91c9f257e5f3e3f1",
+      "title": "Kohli joins Tendulkar in 15,000-run club as India thump West Indies in ODI series opener",
+      "summary": "India's Virat Kohli on Sunday went past 15,000 one-day international runs and became only the second batter after cricket icon Sachin Tendulkar to achieve the feat.",
+      "category": "Sports",
+      "image": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-09/AFP__20260927__C9GY3HG__v1__HighRes__CricketIndWisOdi.jpg",
+      "source": "The Daily Star",
+      "sourceUrl": "https://www.thedailystar.net/sports/cricket/news/kohli-joins-tendulkar-15000-run-club-odis-4284446",
+      "publishedAt": "2026-09-27T21:33:45.000Z",
+      "fetchedAt": "2026-09-27T22:17:36.715Z",
+      "title_hi": "वनडे सीरीज के पहले मैच में भारत ने वेस्टइंडीज को हराया, कोहली 15,000 रन के क्लब में तेंदुलकर के साथ शामिल हो गए",
+      "summary_hi": "भारत के विराट कोहली ने रविवार को 15,000 एकदिवसीय अंतरराष्ट्रीय रन पूरे कर लिए और यह उपलब्धि हासिल करने वाले महान क्रिकेटर सचिन तेंदुलकर के बाद दूसरे बल्लेबाज बन गए।",
+      "category_hi": "खेल",
+      "title_hinglish": "vanade sirija ke pahale maicha men bharata ne vestaindija ko haray, kohali 15,000 rana ke klaba men tendulakara ke satha shamila ho gae",
+      "summary_hinglish": "bharata ke virata kohali ne ravivara ko 15,000 ekadivasiya antararashtriya rana pure kara lie aura yaha upalabdhi hasila karane vale mahana kriketara sachina tendulakara ke bada dusare ballebaja bana gae।",
+      "category_hinglish": "Sports"
     },
     {
       "id": "fe038020c5b12331",
@@ -309,23 +373,6 @@
       "category_hinglish": "National aur Trending News"
     },
     {
-      "id": "4818fe0fe334a6fa",
-      "title": "Clubs exchanged views with Jamil, assured help in building national team: Satyanarayan",
-      "summary": "Khalid Jamil was careful with his team selection for the high-profile friendlies during this FIFA international match window.",
-      "category": "National & Trending News",
-      "image": "https://static.toiimg.com/thumb/msid-134525736,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/goa/clubs-exchanged-views-with-jamil-assured-help-in-building-national-team-satyanarayan/articleshow/134525718.cms",
-      "publishedAt": "2026-09-27T19:12:00.000Z",
-      "fetchedAt": "2026-09-27T19:43:19.288Z",
-      "title_hi": "क्लबों ने जमील के साथ विचारों का आदान-प्रदान किया, राष्ट्रीय टीम के निर्माण में मदद का आश्वासन दिया: सत्यनारायण",
-      "summary_hi": "खालिद जमील इस फीफा अंतर्राष्ट्रीय मैच विंडो के दौरान हाई-प्रोफाइल मैत्री मैचों के लिए अपनी टीम के चयन में सावधानी बरत रहे थे।",
-      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
-      "title_hinglish": "klabon ne jamila ke satha vicharon ka aadana-pradana kiy, rashtriya tima ke nirmana men madada ka aashvasana diy: satyanarayana",
-      "summary_hinglish": "khalida jamila isa phipha antarrashtriya maicha vindo ke daurana haee-prophaila maitri maichon ke lie apani tima ke chayana men savadhani barata rahe the।",
-      "category_hinglish": "National aur Trending News"
-    },
-    {
       "id": "55d29fb029ceb324",
       "title": "Bigg Boss 20: Mahhi Vij questions Isha Rikhi’s remarks after Qazi Touqeer clash mentions Badshah, 'Kaun sa tr",
       "summary": "Mahhi Vij has weighed in on the latest Bigg Boss 20 controversy after Isha Rikhi spoke about her experience following her heated interaction with Qazi Touqeer.",
@@ -341,6 +388,23 @@
       "title_hinglish": "biga bosa 20: kaji taukira ki jhadapa ke bada mahi vija ne eesha rikhi ki tippani para savala uthae, jisamen badashaha ka jikra th, 'kauna sa tra'",
       "summary_hinglish": "eesha rikhi dvara kaji taukira ke satha tikhi batachita ke bada apane anubhava ke bare men bata karane ke bada mahi vija ne navinatama biga bosa 20 vivada para jora diya hai।",
       "category_hinglish": "Entertainment"
+    },
+    {
+      "id": "4818fe0fe334a6fa",
+      "title": "Clubs exchanged views with Jamil, assured help in building national team: Satyanarayan",
+      "summary": "Khalid Jamil was careful with his team selection for the high-profile friendlies during this FIFA international match window.",
+      "category": "National & Trending News",
+      "image": "https://static.toiimg.com/thumb/msid-134525736,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/goa/clubs-exchanged-views-with-jamil-assured-help-in-building-national-team-satyanarayan/articleshow/134525718.cms",
+      "publishedAt": "2026-09-27T19:12:00.000Z",
+      "fetchedAt": "2026-09-27T19:43:19.288Z",
+      "title_hi": "क्लबों ने जमील के साथ विचारों का आदान-प्रदान किया, राष्ट्रीय टीम के निर्माण में मदद का आश्वासन दिया: सत्यनारायण",
+      "summary_hi": "खालिद जमील इस फीफा अंतर्राष्ट्रीय मैच विंडो के दौरान हाई-प्रोफाइल मैत्री मैचों के लिए अपनी टीम के चयन में सावधानी बरत रहे थे।",
+      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
+      "title_hinglish": "klabon ne jamila ke satha vicharon ka aadana-pradana kiy, rashtriya tima ke nirmana men madada ka aashvasana diy: satyanarayana",
+      "summary_hinglish": "khalida jamila isa phipha antarrashtriya maicha vindo ke daurana haee-prophaila maitri maichon ke lie apani tima ke chayana men savadhani barata rahe the।",
+      "category_hinglish": "National aur Trending News"
     },
     {
       "id": "ac8a12afb813e31b",
@@ -360,23 +424,6 @@
       "category_hinglish": "Crime aur Breaking News"
     },
     {
-      "id": "6c032a3671d99109",
-      "title": "Fake APK files used to defraud 6 of Rs 5L; crime branch secures full refund",
-      "summary": "Indore Crime Branch helped six victims recover Rs 4.9 lakh lost in cyber frauds via fake APKs shared on WhatsApp/messages; police urge reporting to 1930.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/indore/fake-apk-files-used-to-defraud-6-of-rs-5l-crime-branch-secures-full-refund/articleshow/134525530.cms",
-      "publishedAt": "2026-09-27T18:57:00.000Z",
-      "fetchedAt": "2026-09-27T19:15:37.783Z",
-      "title_hi": "6 लोगों से 5 लाख रुपये की ठगी करने के लिए नकली एपीके फाइलों का इस्तेमाल किया गया; क्राइम ब्रांच ने पूरा रिफंड सुरक्षित किया",
-      "summary_hi": "इंदौर क्राइम ब्रांच ने छह पीड़ितों को व्हाट्सएप/संदेशों पर साझा किए गए नकली एपीके के माध्यम से साइबर धोखाधड़ी में खोए गए 4.9 लाख रुपये वापस पाने में मदद की; पुलिस ने 1930 को रिपोर्ट करने का आग्रह किया।",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "category_hinglish": "Crime aur Breaking News",
-      "title_hinglish": "6 logon se 5 lakha rupaye ki thagi karane ke lie nakali epike phailon ka istemala kiya gay; kraima brancha ne pura riphanda surakshita kiya",
-      "summary_hinglish": "indaura kraima brancha ne chhaha pidaिton ko vhatsaepa/sandeshon para sajha kie gae nakali epike ke madhyama se saibara dhokhadhadaी men khoe gae 4.9 lakha rupaye vapasa pane men madada ki; pulisa ne 1930 ko riporta karane ka aagraha kiya।"
-    },
-    {
       "id": "0fd2b8e1e638217a",
       "title": "After Bankipur win, Prashant Kishor's party weighs Delhi expansion | India News",
       "summary": "Supporters of Jan Suraaj in the national capital have been pressing for the party to establish a presence in Delhi.",
@@ -392,6 +439,23 @@
       "title_hinglish": "bankipura jita ke bada prashanta kishora ki parti dilli vistara para vichara kara rahi hai | bharata samachara",
       "summary_hinglish": "rashtriya rajadhani men jana suraja ke samarthaka parti para dilli men upasthiti sthapita karane ke lie dabava dala rahe hain।",
       "category_hinglish": "Politics aur Government"
+    },
+    {
+      "id": "6c032a3671d99109",
+      "title": "Fake APK files used to defraud 6 of Rs 5L; crime branch secures full refund",
+      "summary": "Indore Crime Branch helped six victims recover Rs 4.9 lakh lost in cyber frauds via fake APKs shared on WhatsApp/messages; police urge reporting to 1930.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/indore/fake-apk-files-used-to-defraud-6-of-rs-5l-crime-branch-secures-full-refund/articleshow/134525530.cms",
+      "publishedAt": "2026-09-27T18:57:00.000Z",
+      "fetchedAt": "2026-09-27T19:15:37.783Z",
+      "title_hi": "6 लोगों से 5 लाख रुपये की ठगी करने के लिए नकली एपीके फाइलों का इस्तेमाल किया गया; क्राइम ब्रांच ने पूरा रिफंड सुरक्षित किया",
+      "summary_hi": "इंदौर क्राइम ब्रांच ने छह पीड़ितों को व्हाट्सएप/संदेशों पर साझा किए गए नकली एपीके के माध्यम से साइबर धोखाधड़ी में खोए गए 4.9 लाख रुपये वापस पाने में मदद की; पुलिस ने 1930 को रिपोर्ट करने का आग्रह किया।",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "category_hinglish": "Crime aur Breaking News",
+      "title_hinglish": "6 logon se 5 lakha rupaye ki thagi karane ke lie nakali epike phailon ka istemala kiya gay; kraima brancha ne pura riphanda surakshita kiya",
+      "summary_hinglish": "indaura kraima brancha ne chhaha pidaिton ko vhatsaepa/sandeshon para sajha kie gae nakali epike ke madhyama se saibara dhokhadhadaी men khoe gae 4.9 lakha rupaye vapasa pane men madada ki; pulisa ne 1930 ko riporta karane ka aagraha kiya।"
     },
     {
       "id": "a2d608d5ca4fdbf6",
@@ -479,23 +543,6 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "79a04cf9d3d16ba8",
-      "title": "UT razes illegal structures in Ram Darbar, 13 linked to crimes",
-      "summary": "The UT administration razed illegal structures built on govt land. Among those who lost their dwellings during the drive were people allegedly involved in crimes such as drug peddling.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134525108,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/chandigarh/ut-razes-illegal-structures-in-ram-darbar-13-linked-to-crimes/articleshow/134525110.cms",
-      "publishedAt": "2026-09-27T18:30:00.000Z",
-      "fetchedAt": "2026-09-27T19:43:02.047Z",
-      "title_hi": "यूटी ने राम दरबार में अवैध ढांचों को तोड़ा, 13 अपराध से जुड़े",
-      "summary_hi": "यूटी प्रशासन ने सरकारी जमीन पर बने अवैध ढांचे को ढहा दिया। अभियान के दौरान जिन लोगों ने अपना घर खोया, उनमें कथित तौर पर नशीली दवाओं की तस्करी जैसे अपराधों में शामिल लोग शामिल थे।",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "category_hinglish": "Crime aur Breaking News",
-      "title_hinglish": "yuti ne rama darabara men avaidha dhanchon ko todaा, 13 aparadha se judaे",
-      "summary_hinglish": "yuti prashasana ne sarakari jamina para bane avaidha dhanche ko dhaha diya। abhiyana ke daurana jina logon ne apana ghara khoy, unamen kathita taura para nashili davaon ki taskari jaise aparadhon men shamila loga shamila the।"
-    },
-    {
       "id": "75f8a86af71d4e53",
       "title": "'Vvan: Force of the Forrest' box office collection day 1: Sidharth Malhotra and Tamannaah Bhatia's film o",
       "summary": "Force of the Forest ', starring Sidharth Malhotra and Tamannaah Bhatia, opened in theatres on September 25, 2026. The fantasy thriller takes place in an ancestral village in Bihar.",
@@ -511,6 +558,23 @@
       "title_hinglish": "'vvan: phorsa ऑpha da phoresta' ka boksa ऑphisa kalekshana dina 1: siddhartha malhotra aura tamanna bhatiya ki philma o",
       "summary_hinglish": "siddhartha malhotra aura tamanna bhatiya abhinita phorsa ऑpha da phoresta 25 sitanbar, 2026 ko sinemagharon men rilija huee। phantasi thrilara bihara ke eka paitrika ganva men hoti hai।",
       "category_hinglish": "Entertainment"
+    },
+    {
+      "id": "79a04cf9d3d16ba8",
+      "title": "UT razes illegal structures in Ram Darbar, 13 linked to crimes",
+      "summary": "The UT administration razed illegal structures built on govt land. Among those who lost their dwellings during the drive were people allegedly involved in crimes such as drug peddling.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134525108,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/chandigarh/ut-razes-illegal-structures-in-ram-darbar-13-linked-to-crimes/articleshow/134525110.cms",
+      "publishedAt": "2026-09-27T18:30:00.000Z",
+      "fetchedAt": "2026-09-27T19:43:02.047Z",
+      "title_hi": "यूटी ने राम दरबार में अवैध ढांचों को तोड़ा, 13 अपराध से जुड़े",
+      "summary_hi": "यूटी प्रशासन ने सरकारी जमीन पर बने अवैध ढांचे को ढहा दिया। अभियान के दौरान जिन लोगों ने अपना घर खोया, उनमें कथित तौर पर नशीली दवाओं की तस्करी जैसे अपराधों में शामिल लोग शामिल थे।",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "category_hinglish": "Crime aur Breaking News",
+      "title_hinglish": "yuti ne rama darabara men avaidha dhanchon ko todaा, 13 aparadha se judaे",
+      "summary_hinglish": "yuti prashasana ne sarakari jamina para bane avaidha dhanche ko dhaha diya। abhiyana ke daurana jina logon ne apana ghara khoy, unamen kathita taura para nashili davaon ki taskari jaise aparadhon men shamila loga shamila the।"
     },
     {
       "id": "d40652e0e0bcdfbe",
@@ -530,23 +594,6 @@
       "summary_hinglish": "panchakula pulisa ne shahara men vahana chori ke mamalon para badaी karravaee karate hue eka kathita vahana chora ko giraphtara kiya hai aura 12 motarasaikila aura eka skutara sahita chori ke 13 dopahiya vahana baramada kie hain।"
     },
     {
-      "id": "81af00cbefc36854",
-      "title": "Dormant mobile number used to access bank account, Rs 32L siphoned off in Gurgaon",
-      "summary": "Dormant mobile number linked to bank account exploited in Gurgaon; Delhi quartet arrested for siphoning Rs 32.1 lakh via net banking and debit card.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-      "source": "timesofindia.indiatimes.com",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/gurgaon/dormant-mobile-number-used-to-access-bank-account-rs-32l-siphoned-off-in-gurgaon/articleshow/134525074.cms",
-      "publishedAt": "2026-09-27T18:28:00.000Z",
-      "fetchedAt": "2026-09-27T20:52:42.691Z",
-      "title_hi": "बैंक खाते तक पहुंचने के लिए निष्क्रिय मोबाइल नंबर का इस्तेमाल, गुड़गांव में 32 लाख रुपये उड़ाए गए",
-      "summary_hi": "गुड़गांव में बैंक खाते से जुड़े निष्क्रिय मोबाइल नंबर का फायदा उठाया गया; नेट बैंकिंग और डेबिट कार्ड के जरिए 32.1 लाख रुपये निकालने के आरोप में दिल्ली चौकड़ी गिरफ्तार।",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "bainka khate taka pahunchane ke lie nishkriya mobaila nanbara ka istemal, gudaganva men 32 lakha rupaye udaाe gae",
-      "summary_hinglish": "gudaganva men bainka khate se judaे nishkriya mobaila nanbara ka phayada uthaya gay; neta bainkinga aura debita karda ke jarie 32.1 lakha rupaye nikalane ke aaropa men dilli chaukadaी giraphtara।",
-      "category_hinglish": "Crime aur Breaking News"
-    },
-    {
       "id": "ca4a7bd9f0cb7546",
       "title": "Woman hit with slipper, forced to transfer ₹1,500: Bihar sees another harassment case amid outrage | India News",
       "summary": "The video shows several youths allegedly behaving indecently with the woman and hitting her with a slipper. One of the youths is also seen threatening her. | India News",
@@ -562,6 +609,23 @@
       "title_hinglish": "mahila ko chappala se mara gay, ₹1,500 transaphara karane ke lie majabura kiya gay: aakrosha ke bicha bihara men utpidana ka eka aura mamala samane aaya | bharata samachara",
       "summary_hinglish": "vidiyo men kaee yuvakon ko kathita taura para mahila ke satha abhadra vyavahara karate aura use chappala se marate hue dikhaya gaya hai। unamen se eka yuvaka use dhamakata bhi najara aa raha hai. | bharata samachara",
       "category_hinglish": "Politics aur Government"
+    },
+    {
+      "id": "81af00cbefc36854",
+      "title": "Dormant mobile number used to access bank account, Rs 32L siphoned off in Gurgaon",
+      "summary": "Dormant mobile number linked to bank account exploited in Gurgaon; Delhi quartet arrested for siphoning Rs 32.1 lakh via net banking and debit card.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "source": "timesofindia.indiatimes.com",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/gurgaon/dormant-mobile-number-used-to-access-bank-account-rs-32l-siphoned-off-in-gurgaon/articleshow/134525074.cms",
+      "publishedAt": "2026-09-27T18:28:00.000Z",
+      "fetchedAt": "2026-09-27T20:52:42.691Z",
+      "title_hi": "बैंक खाते तक पहुंचने के लिए निष्क्रिय मोबाइल नंबर का इस्तेमाल, गुड़गांव में 32 लाख रुपये उड़ाए गए",
+      "summary_hi": "गुड़गांव में बैंक खाते से जुड़े निष्क्रिय मोबाइल नंबर का फायदा उठाया गया; नेट बैंकिंग और डेबिट कार्ड के जरिए 32.1 लाख रुपये निकालने के आरोप में दिल्ली चौकड़ी गिरफ्तार।",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "bainka khate taka pahunchane ke lie nishkriya mobaila nanbara ka istemal, gudaganva men 32 lakha rupaye udaाe gae",
+      "summary_hinglish": "gudaganva men bainka khate se judaे nishkriya mobaila nanbara ka phayada uthaya gay; neta bainkinga aura debita karda ke jarie 32.1 lakha rupaye nikalane ke aaropa men dilli chaukadaी giraphtara।",
+      "category_hinglish": "Crime aur Breaking News"
     },
     {
       "id": "d5c055c11812267c",
@@ -649,23 +713,6 @@
       "category_hinglish": "Sports"
     },
     {
-      "id": "fd1c4d9ce6428959",
-      "title": "Why some men commit sexual crimes? No easy answers to this",
-      "summary": "Astha Kunj case prompts experts to explain why some men commit sexual assault: entitlement, deviant thinking, impulsivity, violence, drugs, and weak legal deterrence.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/delhi/why-some-men-commit-sexual-crimes-no-easy-answers-to-this/articleshow/134524838.cms",
-      "publishedAt": "2026-09-27T18:09:00.000Z",
-      "fetchedAt": "2026-09-27T18:28:58.993Z",
-      "title_hi": "कुछ पुरुष यौन अपराध क्यों करते हैं? इसका कोई आसान जवाब नहीं",
-      "summary_hi": "आस्था कुंज मामला विशेषज्ञों को यह समझाने के लिए प्रेरित करता है कि कुछ पुरुष यौन उत्पीड़न क्यों करते हैं: अधिकार, विकृत सोच, आवेग, हिंसा, ड्रग्स और कमजोर कानूनी प्रतिरोध।",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "kuchha purusha yauna aparadha kyon karate hain? isaka koee aasana javaba nahin",
-      "summary_hinglish": "aastha kunja mamala visheshajnyon ko yaha samajhane ke lie prerita karata hai ki kuchha purusha yauna utpidana kyon karate hain: adhikar, vikrita soch, aaveg, hins, dragsa aura kamajora kanuni pratirodha।",
-      "category_hinglish": "Crime aur Breaking News"
-    },
-    {
       "id": "03250ab691034ec5",
       "title": "Sidharth Malhotra Once Called Bhojpuri A ‘Poop’ Feeling, Now He’s Selling Bihar’s Culture Controversy Explained",
       "summary": "Sidharth Malhotra’s old Bhojpuri remark sparked controversy in 2018 after he appeared on Bigg Boss 11. Years later, the actor is starring in The VVAAN: Force Of The Forest, a Bihar-based film rooted in local folklore and beliefs.",
@@ -681,6 +728,23 @@
       "title_hinglish": "siddhartha malhotra ne kabhi bhojapuri ko kaha tha 'pupa' philing, aba becha rahe hain bihara ki sanskriti vivada",
       "summary_hinglish": "siddhartha malhotra ki purani bhojapuri tippani ne 2018 men biga bosa 11 men aane ke bada vivada khadaा kara diya tha। varshon bad, abhineta da vivieen: phorsa ऑpha da phoresta men abhinaya kara rahe hain, jo sthaniya lokakathaon aura manyataon para aadharita bihara aadharita philma hai।",
       "category_hinglish": "Entertainment"
+    },
+    {
+      "id": "fd1c4d9ce6428959",
+      "title": "Why some men commit sexual crimes? No easy answers to this",
+      "summary": "Astha Kunj case prompts experts to explain why some men commit sexual assault: entitlement, deviant thinking, impulsivity, violence, drugs, and weak legal deterrence.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/delhi/why-some-men-commit-sexual-crimes-no-easy-answers-to-this/articleshow/134524838.cms",
+      "publishedAt": "2026-09-27T18:09:00.000Z",
+      "fetchedAt": "2026-09-27T18:28:58.993Z",
+      "title_hi": "कुछ पुरुष यौन अपराध क्यों करते हैं? इसका कोई आसान जवाब नहीं",
+      "summary_hi": "आस्था कुंज मामला विशेषज्ञों को यह समझाने के लिए प्रेरित करता है कि कुछ पुरुष यौन उत्पीड़न क्यों करते हैं: अधिकार, विकृत सोच, आवेग, हिंसा, ड्रग्स और कमजोर कानूनी प्रतिरोध।",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "kuchha purusha yauna aparadha kyon karate hain? isaka koee aasana javaba nahin",
+      "summary_hinglish": "aastha kunja mamala visheshajnyon ko yaha samajhane ke lie prerita karata hai ki kuchha purusha yauna utpidana kyon karate hain: adhikar, vikrita soch, aaveg, hins, dragsa aura kamajora kanuni pratirodha।",
+      "category_hinglish": "Crime aur Breaking News"
     },
     {
       "id": "8d5332cfa411eabd",
@@ -700,23 +764,6 @@
       "category_hinglish": "Crime aur Breaking News"
     },
     {
-      "id": "e03fa02261920ed1",
-      "title": "Friend says IIT-B student told her in ‘last call’ he cheated: Cops",
-      "summary": "Mumbai Police say an IIT-B student told a friend in his last call he was caught cheating after a poor exam; CCTV and locked iPhone data are being probed.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/mumbai/friend-says-iit-b-student-told-her-in-last-call-he-cheated-cops/articleshow/134523624.cms",
-      "publishedAt": "2026-09-27T18:00:00.000Z",
-      "fetchedAt": "2026-09-27T18:08:48.435Z",
-      "title_hi": "दोस्त का कहना है कि आईआईटी-बी के छात्र ने 'आखिरी कॉल' में उसे बताया था कि उसने धोखा दिया है: पुलिस",
-      "summary_hi": "मुंबई पुलिस का कहना है कि आईआईटी-बी के एक छात्र ने अपने आखिरी कॉल में एक दोस्त को बताया कि वह खराब परीक्षा के बाद नकल करते पकड़ा गया है; सीसीटीवी और लॉक आईफोन डेटा की जांच की जा रही है.",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "dosta ka kahana hai ki aaeeaaeeti-bi ke chhatra ne 'aakhiri kola' men use bataya tha ki usane dhokha diya hai: pulisa",
-      "summary_hinglish": "munbaee pulisa ka kahana hai ki aaeeaaeeti-bi ke eka chhatra ne apane aakhiri kola men eka dosta ko bataya ki vaha kharaba pariksha ke bada nakala karate pakadaा gaya hai; sisitivi aura loka aaeephona deta ki jancha ki ja rahi hai.",
-      "category_hinglish": "Crime aur Breaking News"
-    },
-    {
       "id": "d3a3994e37b7c554",
       "title": "'CEC must firmly present its side,' says Chirag Paswan as opposition demands Gyanesh Kumar's resignation",
       "summary": "'CEC must firmly present its side,' says Chirag Paswan as opposition demands Gyanesh Kumar's resignation - Patna (Bihar) [India], September 25 : Union Minister Chirag Paswan on Friday said the Election Commission must firmly present ... Get Latest News on Politics only on lokmattimes.com",
@@ -732,6 +779,23 @@
       "title_hinglish": "vipaksha dvara jnyanesha kumara ke istiphe ki manga para chiraga pasavana ne kah, 'sieesi ko apana paksha majabuti se rakhana chahie।'",
       "summary_hinglish": "vipaksha dvara jnyanesha kumara ke istiphe ki manga para chiraga pasavana ne kah, 'sieesi ko apana paksha majabuti se rakhana chahie।'",
       "category_hinglish": "Politics aur Government"
+    },
+    {
+      "id": "e03fa02261920ed1",
+      "title": "Friend says IIT-B student told her in ‘last call’ he cheated: Cops",
+      "summary": "Mumbai Police say an IIT-B student told a friend in his last call he was caught cheating after a poor exam; CCTV and locked iPhone data are being probed.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/mumbai/friend-says-iit-b-student-told-her-in-last-call-he-cheated-cops/articleshow/134523624.cms",
+      "publishedAt": "2026-09-27T18:00:00.000Z",
+      "fetchedAt": "2026-09-27T18:08:48.435Z",
+      "title_hi": "दोस्त का कहना है कि आईआईटी-बी के छात्र ने 'आखिरी कॉल' में उसे बताया था कि उसने धोखा दिया है: पुलिस",
+      "summary_hi": "मुंबई पुलिस का कहना है कि आईआईटी-बी के एक छात्र ने अपने आखिरी कॉल में एक दोस्त को बताया कि वह खराब परीक्षा के बाद नकल करते पकड़ा गया है; सीसीटीवी और लॉक आईफोन डेटा की जांच की जा रही है.",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "dosta ka kahana hai ki aaeeaaeeti-bi ke chhatra ne 'aakhiri kola' men use bataya tha ki usane dhokha diya hai: pulisa",
+      "summary_hinglish": "munbaee pulisa ka kahana hai ki aaeeaaeeti-bi ke eka chhatra ne apane aakhiri kola men eka dosta ko bataya ki vaha kharaba pariksha ke bada nakala karate pakadaा gaya hai; sisitivi aura loka aaeephona deta ki jancha ki ja rahi hai.",
+      "category_hinglish": "Crime aur Breaking News"
     },
     {
       "id": "5c9b2559e815f37c",
@@ -819,23 +883,6 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "e4debcb28d2fddd0",
-      "title": "Motiwala Homoeopathic Medical College to host national CME",
-      "summary": "Motiwala Homoeopathic Medical College and Hospital will host a six-day national-level Continuing Medical Education (CME) programme on ‘Practice of Medicine – Module I’ from Sept 28 to Oct 3.",
-      "category": "National & Trending News",
-      "image": "https://static.toiimg.com/thumb/msid-134524258,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/nashik/motiwala-homoeopathic-medical-college-to-host-national-cme/articleshow/134524259.cms",
-      "publishedAt": "2026-09-27T17:29:00.000Z",
-      "fetchedAt": "2026-09-27T17:53:34.607Z",
-      "title_hi": "मोतीवाला होम्योपैथिक मेडिकल कॉलेज राष्ट्रीय सीएमई की मेजबानी करेगा",
-      "summary_hi": "मोतीवाला होम्योपैथिक मेडिकल कॉलेज और अस्पताल 28 सितंबर से 3 अक्टूबर तक 'प्रैक्टिस ऑफ मेडिसिन - मॉड्यूल I' पर छह दिवसीय राष्ट्रीय स्तर के सतत चिकित्सा शिक्षा (सीएमई) कार्यक्रम की मेजबानी करेगा।",
-      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
-      "title_hinglish": "motivala homyopaithika medikala koleja rashtriya siemaee ki mejabani karega",
-      "summary_hinglish": "motivala homyopaithika medikala koleja aura aspatala 28 sitanbara se 3 aktubara taka 'praiktisa ऑpha medisina - modyula I' para chhaha divasiya rashtriya stara ke satata chikitsa shiksha (siemaee) karyakrama ki mejabani karega।",
-      "category_hinglish": "National aur Trending News"
-    },
-    {
       "id": "1549b65b6103c3f1",
       "title": "The Vvaan: All about the 400-year-old Devi temple in Bihar that inspired the film",
       "summary": "Sidharth Malhotra and Tamannaah Bhatia’s The Vvaan: Force of the Forest is a film inspired by the 400-year-old Maa Van Devi Temple near Bihta, Bihar. The movie draws on local legends and traditions, highlighting the temple's mysterious evening restrictions and its cultural significance in Bihar's religious heritage. .",
@@ -851,6 +898,23 @@
       "title_hinglish": "da vavan: bihara ke 400 sala purane devi mandira ke bare men saba kuchha jisane philma ko prerita kiya",
       "summary_hinglish": "siddhartha malhotra aura tamanna bhatiya ki da vavan: phorsa ऑpha da phoresta bihara ke bihata ke pasa 400 sala purane man vana devi mandira se prerita philma hai। yaha philma sthaniya kinvadantiyon aura paranparaon para aadharita hai, jo mandira ki rahasyamaya shama ki bandishon aura bihara ki dharmika virasata men isake sanskritika mahatva ko ujagara karati hai। .",
       "category_hinglish": "Entertainment"
+    },
+    {
+      "id": "e4debcb28d2fddd0",
+      "title": "Motiwala Homoeopathic Medical College to host national CME",
+      "summary": "Motiwala Homoeopathic Medical College and Hospital will host a six-day national-level Continuing Medical Education (CME) programme on ‘Practice of Medicine – Module I’ from Sept 28 to Oct 3.",
+      "category": "National & Trending News",
+      "image": "https://static.toiimg.com/thumb/msid-134524258,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/nashik/motiwala-homoeopathic-medical-college-to-host-national-cme/articleshow/134524259.cms",
+      "publishedAt": "2026-09-27T17:29:00.000Z",
+      "fetchedAt": "2026-09-27T17:53:34.607Z",
+      "title_hi": "मोतीवाला होम्योपैथिक मेडिकल कॉलेज राष्ट्रीय सीएमई की मेजबानी करेगा",
+      "summary_hi": "मोतीवाला होम्योपैथिक मेडिकल कॉलेज और अस्पताल 28 सितंबर से 3 अक्टूबर तक 'प्रैक्टिस ऑफ मेडिसिन - मॉड्यूल I' पर छह दिवसीय राष्ट्रीय स्तर के सतत चिकित्सा शिक्षा (सीएमई) कार्यक्रम की मेजबानी करेगा।",
+      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
+      "title_hinglish": "motivala homyopaithika medikala koleja rashtriya siemaee ki mejabani karega",
+      "summary_hinglish": "motivala homyopaithika medikala koleja aura aspatala 28 sitanbara se 3 aktubara taka 'praiktisa ऑpha medisina - modyula I' para chhaha divasiya rashtriya stara ke satata chikitsa shiksha (siemaee) karyakrama ki mejabani karega।",
+      "category_hinglish": "National aur Trending News"
     },
     {
       "id": "1122a0186b3819f7",
@@ -870,23 +934,6 @@
       "summary_hinglish": "vivada taba shuru huaa jaba paravesha varma dvara sadaka nirikshana ke daurana eka vyakti ko kathita taura para thappada marane ka vidiyo soshala midiya para vayarala ho gaya। | bharata samachara"
     },
     {
-      "id": "44c9d0bfb7cc0b25",
-      "title": "World Tourism Day: Centre launches Dekho Apna Desh 2.0 campaign",
-      "summary": "Union Minister of Tourism Gajendra Singh Shekhawat on Sept 27 launched Dekho Apna Desh 2.0 campaign on World Tourism Day 2026.",
-      "category": "National & Trending News",
-      "image": "https://cdn.siasat.com/wp-content/uploads/2026/09/World-Tourism.jpg",
-      "source": "The Siasat Daily",
-      "sourceUrl": "https://www.siasat.com/world-tourism-day-centre-launches-dekho-apna-desh-2-0-campaign-3549191/",
-      "publishedAt": "2026-09-27T17:14:06.000Z",
-      "fetchedAt": "2026-09-27T17:27:34.211Z",
-      "title_hi": "विश्व पर्यटन दिवस: केंद्र ने देखो अपना देश 2.0 अभियान शुरू किया",
-      "summary_hi": "केंद्रीय पर्यटन मंत्री गजेंद्र सिंह शेखावत ने 27 सितंबर को विश्व पर्यटन दिवस 2026 पर देखो अपना देश 2.0 अभियान शुरू किया।",
-      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
-      "title_hinglish": "vishva paryatana divas: kendra ne dekho apana desha 2.0 abhiyana shuru kiya",
-      "summary_hinglish": "kendriya paryatana mantri gajendra sinha shekhavata ne 27 sitanbara ko vishva paryatana divasa 2026 para dekho apana desha 2.0 abhiyana shuru kiya।",
-      "category_hinglish": "National aur Trending News"
-    },
-    {
       "id": "11df1a63ca080ea9",
       "title": "'I give 30% of my income to Bengaluru': Techie's request to Bihar CM goes viral, sparks debate online",
       "summary": "Rahul Kumar Yadav, an IT professional working in a hybrid role, urged Bihar Chief Minister Samrat Choudhary to build a strong IT ecosystem in the state, saying thousands of professionals are forced to spend a significant portion of their income outside Bihar for work.",
@@ -902,6 +949,23 @@
       "title_hinglish": "'main apani aaya ka 30% bengaluru ko deta hun': bihara ke mukhyamantri se takaniki visheshajnya ka anurodha vayaral, ऑnalaina bahasa chhida gaee",
       "summary_hinglish": "haibrida bhumika men kama karane vale eka aaeeti peshevara rahula kumara yadava ne bihara ke mukhyamantri samrata chaudhari se rajya men eka majabuta aaeeti paristhitiki tantra banane ka aagraha kiy, unhonne kaha ki hajaron peshevara kama ke lie apani aaya ka eka mahatvapurna hissa bihara ke bahara kharcha karane ke lie majabura hain।",
       "category_hinglish": "Business aur Finance"
+    },
+    {
+      "id": "44c9d0bfb7cc0b25",
+      "title": "World Tourism Day: Centre launches Dekho Apna Desh 2.0 campaign",
+      "summary": "Union Minister of Tourism Gajendra Singh Shekhawat on Sept 27 launched Dekho Apna Desh 2.0 campaign on World Tourism Day 2026.",
+      "category": "National & Trending News",
+      "image": "https://cdn.siasat.com/wp-content/uploads/2026/09/World-Tourism.jpg",
+      "source": "The Siasat Daily",
+      "sourceUrl": "https://www.siasat.com/world-tourism-day-centre-launches-dekho-apna-desh-2-0-campaign-3549191/",
+      "publishedAt": "2026-09-27T17:14:06.000Z",
+      "fetchedAt": "2026-09-27T17:27:34.211Z",
+      "title_hi": "विश्व पर्यटन दिवस: केंद्र ने देखो अपना देश 2.0 अभियान शुरू किया",
+      "summary_hi": "केंद्रीय पर्यटन मंत्री गजेंद्र सिंह शेखावत ने 27 सितंबर को विश्व पर्यटन दिवस 2026 पर देखो अपना देश 2.0 अभियान शुरू किया।",
+      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
+      "title_hinglish": "vishva paryatana divas: kendra ne dekho apana desha 2.0 abhiyana shuru kiya",
+      "summary_hinglish": "kendriya paryatana mantri gajendra sinha shekhavata ne 27 sitanbara ko vishva paryatana divasa 2026 para dekho apana desha 2.0 abhiyana shuru kiya।",
+      "category_hinglish": "National aur Trending News"
     },
     {
       "id": "c8bf0b4d8e13e9ef",
@@ -930,10 +994,12 @@
       "sourceUrl": "https://www.hindustantimes.com/india-news/ashutosh-ranka-says-illegal-detention-by-assam-police-finally-ended-cjp-team-chief-dipke-reacts-101790527524604.html",
       "publishedAt": "2026-09-27T16:53:20.000Z",
       "fetchedAt": "2026-09-28T02:19:45.791Z",
-      "title_hi": "",
-      "summary_hi": "",
+      "title_hi": "आशुतोष रांका का कहना है कि टीम सीजेपी की असम पुलिस द्वारा 'अवैध हिरासत' 'आखिरकार समाप्त हुई'; डुबके की प्रतिक्रिया | भारत समाचार",
+      "summary_hi": "सीजेपी प्रमुख अभिजीत डुबके ने रांका की पोस्ट पर प्रतिक्रिया व्यक्त करते हुए कहा, “अबे यार… मैं वास्तव में कल पुलिस स्टेशन पर आपके धरने में शामिल होने के लिए उत्सुक था।” | भारत समाचार",
       "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "category_hinglish": "Crime aur Breaking News"
+      "category_hinglish": "Crime aur Breaking News",
+      "title_hinglish": "aashutosha ranka ka kahana hai ki tima sijepi ki asama pulisa dvara 'avaidha hirasata' 'aakhirakara samapta huee'; dubake ki pratikriya | bharata samachara",
+      "summary_hinglish": "sijepi pramukha abhijita dubake ne ranka ki posta para pratikriya vyakta karate hue kah, “abe yara… main vastava men kala pulisa steshana para aapake dharane men shamila hone ke lie utsuka tha।” | bharata samachara"
     },
     {
       "id": "c5f7e8ee9080ec31",
@@ -985,23 +1051,6 @@
       "title_hinglish": "lanbe yuddhon ke madhyama se bharata ko aatmanirbharata banae rakhani chahie: sena pramukha",
       "summary_hinglish": "\"praudyogiki ladaाiyon ko chhota kara sakati hai, lekina jaruri nahin ki yaha yuddhon ko bhi chhota kara rahi ho\": thala senadhyaksha janarala dhiraja setha",
       "category_hinglish": "Technology"
-    },
-    {
-      "id": "512a1e1347198fa3",
-      "title": "3 held with 240g MDMA worth ₹24L in Mangaluru",
-      "summary": "City Crime Branch (CCB) arrested three persons allegedly involved in selling MDMA in the city and seized 240g of the synthetic drug valued at around Rs 24 lakh, Saturday evening.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134523545,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/mangaluru/3-held-with-240g-mdma-worth-24l-in-mangaluru/articleshow/134523546.cms",
-      "publishedAt": "2026-09-27T16:41:00.000Z",
-      "fetchedAt": "2026-09-27T21:36:27.311Z",
-      "title_hi": "मंगलुरु में ₹24 लाख मूल्य की 240 ग्राम एमडीएमए के साथ 3 लोग गिरफ्तार",
-      "summary_hi": "सिटी क्राइम ब्रांच (सीसीबी) ने शनिवार शाम शहर में एमडीएमए बेचने में कथित तौर पर शामिल तीन लोगों को गिरफ्तार किया और लगभग 24 लाख रुपये मूल्य की 240 ग्राम सिंथेटिक दवा जब्त की।",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "mangaluru men ₹24 lakha mulya ki 240 grama emadiemae ke satha 3 loga giraphtara",
-      "summary_hinglish": "siti kraima brancha (sisibi) ne shanivara shama shahara men emadiemae bechane men kathita taura para shamila tina logon ko giraphtara kiya aura lagabhaga 24 lakha rupaye mulya ki 240 grama sinthetika dava jabta ki।",
-      "category_hinglish": "Crime aur Breaking News"
     },
     {
       "id": "fe630ec3977f4980",
