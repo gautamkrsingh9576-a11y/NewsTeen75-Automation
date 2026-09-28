@@ -1,7 +1,24 @@
 {
-  "updatedAt": "2026-09-28T12:46:45.401Z",
+  "updatedAt": "2026-09-28T13:02:11.886Z",
   "count": 43,
   "articles": [
+    {
+      "id": "acc5c7d85dee5b77",
+      "title": "RBI completes ₹1 lakh crore net debt sale for first time in a decade",
+      "summary": "RBI has net sold ₹1 lakh crore worth of bonds so far this financial year, the biggest annual net sale in more than a decade, as it drains surplus liquidity. Market participants expect another ₹1-1.5 lakh crore in sales.",
+      "category": "Business & Finance",
+      "image": "https://images.cnbctv18.com/uploads/2026/09/rbi-shutterstock-2170895819-2026-09-115e5a8b4100e267d4bd5adeaa737ee8.jpg?im=FitAndFill,width=1200,height=675",
+      "source": "CNBC TV18",
+      "sourceUrl": "https://www.cnbctv18.com/business/finance/rbi-completes-rs-1-lakh-crore-net-debt-sale-for-first-time-in-a-decade-20000238.htm",
+      "publishedAt": "2026-09-28T12:50:46.000Z",
+      "fetchedAt": "2026-09-28T13:01:58.290Z",
+      "title_hi": "RBI ने एक दशक में पहली बार ₹1 लाख करोड़ की शुद्ध ऋण बिक्री पूरी की",
+      "summary_hi": "आरबीआई ने इस वित्तीय वर्ष में अब तक ₹1 लाख करोड़ मूल्य के बांड की शुद्ध बिक्री की है, जो एक दशक से अधिक समय में सबसे बड़ी वार्षिक शुद्ध बिक्री है, क्योंकि इससे अधिशेष तरलता समाप्त हो जाती है। बाजार सहभागियों को बिक्री में 1-1.5 लाख करोड़ रुपये और आने की उम्मीद है।",
+      "category_hi": "बिज़नेस और फाइनेंस",
+      "title_hinglish": "RBI ne eka dashaka men pahali bara ₹1 lakha karoda ki shuddha rina bikri puri ki",
+      "summary_hinglish": "aarabiaaee ne isa vittiya varsha men aba taka ₹1 lakha karoda mulya ke banda ki shuddha bikri ki hai, jo eka dashaka se adhika samaya men sabase badaी varshika shuddha bikri hai, kyonki isase adhishesha taralata samapta ho jati hai। bajara sahabhagiyon ko bikri men 1-1.5 lakha karoda rupaye aura aane ki ummida hai।",
+      "category_hinglish": "Business aur Finance"
+    },
     {
       "id": "50fd9e4c0a904367",
       "title": "Expert view: India has an opportunity to become the innovation lab in deep tech",
@@ -18,21 +35,6 @@
       "title_hinglish": "visheshajnya ki ray: bharata ke pasa gahana takanika men inoveshana laiba banane ka avasara hai",
       "summary_hinglish": "bharata ke pasa gahana takaniki navachara men khuda ko vaishvika neta ke rupa men sthapita karane ka eka anutha avasara hai। apane vividha bajaron, kushala pratibha pula aura badhate punji nivesha ka labha uthakar, desha vaishvika mangon ko pura karane ke lie atyadhunika takanikon ka nirman, parikshana aura paimane kara sakata hai। kya yaha isa kshana ka labha uthaeg?",
       "category_hinglish": "Technology"
-    },
-    {
-      "id": "d8b7c1f05f163708",
-      "title": "Adnan Sami responds to Pakistani spy joke on 'India's Got Latent 2' with Ayushmann Khurrana as panellist:",
-      "summary": "View this post on Instagram A post shared by India’s Got Latent (@indiasgotlatent)",
-      "category": "Entertainment",
-      "image": "https://static.toiimg.com/thumb/msid-134542358,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/adnan-sami-responds-to-pakistani-spy-joke-on-indias-got-latent-2-with-ayushmann-khurrana-as-panellist-pehle-mujhse-permission-lo/articleshow/134542064.cms",
-      "publishedAt": "2026-09-28T12:11:00.000Z",
-      "fetchedAt": "2026-09-28T12:46:25.140Z",
-      "title_hi": "",
-      "summary_hi": "",
-      "category_hi": "मनोरंजन",
-      "category_hinglish": "Entertainment"
     },
     {
       "id": "52f8be9b290ab20a",
@@ -52,6 +54,21 @@
       "category_hinglish": "Technology"
     },
     {
+      "id": "d8b7c1f05f163708",
+      "title": "Adnan Sami responds to Pakistani spy joke on 'India's Got Latent 2' with Ayushmann Khurrana as panellist:",
+      "summary": "View this post on Instagram A post shared by India’s Got Latent (@indiasgotlatent)",
+      "category": "Entertainment",
+      "image": "https://static.toiimg.com/thumb/msid-134542358,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/adnan-sami-responds-to-pakistani-spy-joke-on-indias-got-latent-2-with-ayushmann-khurrana-as-panellist-pehle-mujhse-permission-lo/articleshow/134542064.cms",
+      "publishedAt": "2026-09-28T12:11:00.000Z",
+      "fetchedAt": "2026-09-28T12:46:25.140Z",
+      "title_hi": "",
+      "summary_hi": "",
+      "category_hi": "मनोरंजन",
+      "category_hinglish": "Entertainment"
+    },
+    {
       "id": "c0254bf44bc59084",
       "title": "India, Egypt Discuss Sports And Youth Cooperation",
       "summary": "India and Egypt discuss sports and youth cooperation, including cricket, football and Egypt’s participation in BRICS Indigenous Games 2026.",
@@ -69,23 +86,6 @@
       "category_hinglish": "Sports"
     },
     {
-      "id": "a584dc3aa017b63e",
-      "title": "Muthoot Finances Sri Lankan Subsidiary Asia Asset Finance Raises LKR 1.5 Billion through Rights Issue",
-      "summary": "Kochi (Kerala) [India], September 28: Asia Asset Finance PLC (AAF), a listed subsidiary of Muthoot Finance Ltd., has successfully completed its Rights Issue 2026, raising LKR 1.5 billion. The Rights Issue was oversubscribed by approximately 1.3 times, reflecting strong participation from shareholders and providing the company with additional capital to…",
-      "category": "Business & Finance",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTdkOTg0MjYwLWJiMzQtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
-      "source": "The Tribune",
-      "sourceUrl": "https://www.tribuneindia.com/news/business/muthoot-finances-sri-lankan-subsidiary-asia-asset-finance-raises-lkr-1-5-billion-through-rights-issue/",
-      "publishedAt": "2026-09-28T12:02:27.000Z",
-      "fetchedAt": "2026-09-28T12:22:59.153Z",
-      "title_hi": "मुथूट फाइनेंस की श्रीलंकाई सहायक कंपनी एशिया एसेट फाइनेंस ने राइट्स इश्यू के माध्यम से एलकेआर 1.5 बिलियन जुटाए",
-      "summary_hi": "कोच्चि (केरल) [भारत], 28 सितंबर: मुथूट फाइनेंस लिमिटेड की सूचीबद्ध सहायक कंपनी एशिया एसेट फाइनेंस पीएलसी (एएएफ) ने एलकेआर 1.5 बिलियन जुटाकर अपना राइट्स इश्यू 2026 सफलतापूर्वक पूरा कर लिया है। राइट्स इश्यू को लगभग 1.3 गुना अधिक सब्सक्राइब किया गया था, जो शेयरधारकों की मजबूत भागीदारी को दर्शाता है और कंपनी को अतिरिक्त पूंजी प्रदान करता है…",
-      "category_hi": "बिज़नेस और फाइनेंस",
-      "category_hinglish": "Business aur Finance",
-      "title_hinglish": "muthuta phainensa ki shrilankaee sahayaka kanpani eshiya eseta phainensa ne raitsa ishyu ke madhyama se elakeaara 1.5 biliyana jutae",
-      "summary_hinglish": "kochchi (kerala) [bharata], 28 sitanbar: muthuta phainensa limiteda ki suchibaddha sahayaka kanpani eshiya eseta phainensa pielasi (eeepha) ne elakeaara 1.5 biliyana jutakara apana raitsa ishyu 2026 saphalatapurvaka pura kara liya hai। raitsa ishyu ko lagabhaga 1.3 guna adhika sabsakraiba kiya gaya th, jo sheyaradharakon ki majabuta bhagidari ko darshata hai aura kanpani ko atirikta punji pradana karata hai…"
-    },
-    {
       "id": "4c6826da4d201796",
       "title": "Tanya Mishra, the Bihar-born model-actress fans are calling India's new 'national crush'",
       "summary": "Viral photographs have pushed the 27-year-old into the spotlight. She has modelled for Femina and Grazia, placed at a Miss India pageant and appeared in the web series Chidiya Udd.",
@@ -101,6 +101,23 @@
       "title_hinglish": "bihara men janmi modala-abhinetri tanya mishra ko prashansaka bharata ki naee 'neshanala krasha' kaha rahe hain",
       "summary_hinglish": "vayarala tasviron ne 27 varshiya ko surkhiyon men la diya hai। unhonne phemina aura grajaिya ke lie modalinga ki hai, misa indiya pratiyogita men bhaga liya hai aura veba shrrinkhala chidaिya uda men dikhaee di hain।",
       "category_hinglish": "National aur Trending News"
+    },
+    {
+      "id": "a584dc3aa017b63e",
+      "title": "Muthoot Finances Sri Lankan Subsidiary Asia Asset Finance Raises LKR 1.5 Billion through Rights Issue",
+      "summary": "Kochi (Kerala) [India], September 28: Asia Asset Finance PLC (AAF), a listed subsidiary of Muthoot Finance Ltd., has successfully completed its Rights Issue 2026, raising LKR 1.5 billion. The Rights Issue was oversubscribed by approximately 1.3 times, reflecting strong participation from shareholders and providing the company with additional capital to…",
+      "category": "Business & Finance",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTdkOTg0MjYwLWJiMzQtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
+      "source": "The Tribune",
+      "sourceUrl": "https://www.tribuneindia.com/news/business/muthoot-finances-sri-lankan-subsidiary-asia-asset-finance-raises-lkr-1-5-billion-through-rights-issue/",
+      "publishedAt": "2026-09-28T12:02:27.000Z",
+      "fetchedAt": "2026-09-28T12:22:59.153Z",
+      "title_hi": "मुथूट फाइनेंस की श्रीलंकाई सहायक कंपनी एशिया एसेट फाइनेंस ने राइट्स इश्यू के माध्यम से एलकेआर 1.5 बिलियन जुटाए",
+      "summary_hi": "कोच्चि (केरल) [भारत], 28 सितंबर: मुथूट फाइनेंस लिमिटेड की सूचीबद्ध सहायक कंपनी एशिया एसेट फाइनेंस पीएलसी (एएएफ) ने एलकेआर 1.5 बिलियन जुटाकर अपना राइट्स इश्यू 2026 सफलतापूर्वक पूरा कर लिया है। राइट्स इश्यू को लगभग 1.3 गुना अधिक सब्सक्राइब किया गया था, जो शेयरधारकों की मजबूत भागीदारी को दर्शाता है और कंपनी को अतिरिक्त पूंजी प्रदान करता है…",
+      "category_hi": "बिज़नेस और फाइनेंस",
+      "category_hinglish": "Business aur Finance",
+      "title_hinglish": "muthuta phainensa ki shrilankaee sahayaka kanpani eshiya eseta phainensa ne raitsa ishyu ke madhyama se elakeaara 1.5 biliyana jutae",
+      "summary_hinglish": "kochchi (kerala) [bharata], 28 sitanbar: muthuta phainensa limiteda ki suchibaddha sahayaka kanpani eshiya eseta phainensa pielasi (eeepha) ne elakeaara 1.5 biliyana jutakara apana raitsa ishyu 2026 saphalatapurvaka pura kara liya hai। raitsa ishyu ko lagabhaga 1.3 guna adhika sabsakraiba kiya gaya th, jo sheyaradharakon ki majabuta bhagidari ko darshata hai aura kanpani ko atirikta punji pradana karata hai…"
     },
     {
       "id": "943bca94be2f5066",
@@ -129,10 +146,27 @@
       "sourceUrl": "https://theprint.in/world/the-old-master-of-british-politics-is-worth-a-listen-martin-ivens/3055614/",
       "publishedAt": "2026-09-28T11:33:14.000Z",
       "fetchedAt": "2026-09-28T12:22:36.209Z",
+      "title_hi": "ब्रिटिश राजनीति के पुराने मास्टर सुनने लायक हैं: मार्टिन इवेंस",
+      "summary_hi": "घरेलू राजनीति पर पुराने स्वामी और वर्तमान स्वामी के मतभेदों को बेहतर स्थानीय सरकार पर संतुलन की आवश्यकता है।",
+      "category_hi": "राजनीति और सरकार",
+      "category_hinglish": "Politics aur Government",
+      "title_hinglish": "britisha rajaniti ke purane mastara sunane layaka hain: martina ivensa",
+      "summary_hinglish": "gharelu rajaniti para purane svami aura vartamana svami ke matabhedon ko behatara sthaniya sarakara para santulana ki aavashyakata hai।"
+    },
+    {
+      "id": "3e072af4993f48ce",
+      "title": "The Vvaan Box Office Collection: Sidharth Malhotra, Tamannaah Bhatias Film Mints Rs 33.25 Cr In Opening Weekend",
+      "summary": "The Vvaan starring Sidharth Malhotra and Tamannaah Bhatia earns Rs 33.25 crore in three days. The film has surpassed the lifetime collections of 26 films.",
+      "category": "Entertainment",
+      "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/28/5ce93e1466e1c5b8612b4d5f542296ae17905615596311090_original.png?impolicy=abp_cdn&imwidth=1200",
+      "source": "ABP Live English",
+      "sourceUrl": "https://news.abplive.com/entertainment/movies/the-vvaan-box-office-collection-day-3-sidharth-malhotra-tamannaah-bhatia-opening-weekend-1868637",
+      "publishedAt": "2026-09-28T02:13:47.000Z",
+      "fetchedAt": "2026-09-28T13:02:05.967Z",
       "title_hi": "",
       "summary_hi": "",
-      "category_hi": "राजनीति और सरकार",
-      "category_hinglish": "Politics aur Government"
+      "category_hi": "मनोरंजन",
+      "category_hinglish": "Entertainment"
     },
     {
       "id": "58d27f9cc1d2eedb",
@@ -152,23 +186,6 @@
       "category_hinglish": "Business aur Finance"
     },
     {
-      "id": "5b8a95986db19279",
-      "title": "The Vvaan's Chhath scenes are winning Bihari hearts. Here's what feels so real",
-      "summary": "The Vvaan's Chhath Puja sequence has drawn strong emotional reactions from viewers online. Audiences say the rituals, visuals and Sharda Sinha's song make it feel personal and rooted.",
-      "category": "Entertainment",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/the-vvaan--chhath-puja-282146821-16x9_0.png?VersionId=E9w3I6gZvguvKa_mdkWMRtz..rG9VEs1",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/movies/bollywood/story/the-vvaan-chhath-puja-scenes-sharda-sinha-song-winning-bihari-hearts-3004629-2026-09-28",
-      "publishedAt": "2026-09-28T07:23:55.000Z",
-      "fetchedAt": "2026-09-28T12:46:40.560Z",
-      "title_hi": "वाण के छठ दृश्य बिहारियों का दिल जीत रहे हैं. यहाँ वह है जो बहुत वास्तविक लगता है",
-      "summary_hi": "व्वान के छठ पूजा सीक्वेंस पर ऑनलाइन दर्शकों की ओर से तीखी भावनात्मक प्रतिक्रियाएं आई हैं। दर्शकों का कहना है कि अनुष्ठान, दृश्य और शारदा सिन्हा का गीत इसे व्यक्तिगत और निहित बनाता है।",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "vana ke chhatha drishya bihariyon ka dila jita rahe hain. yahan vaha hai jo bahuta vastavika lagata hai",
-      "summary_hinglish": "vvana ke chhatha puja sikvensa para ऑnalaina darshakon ki ora se tikhi bhavanatmaka pratikriyaen aaee hain। darshakon ka kahana hai ki anushthan, drishya aura sharada sinha ka gita ise vyaktigata aura nihita banata hai।",
-      "category_hinglish": "Entertainment"
-    },
-    {
       "id": "32a5cac4c27cd264",
       "title": "Make in India drives a new era of manufacturing growth",
       "summary": "Twelve years after its launch, Make in India stands as an important part of Prime Minister Narendra Modi’s vision of building a stronger, more self-reliant and globally competitive India. The initiative, launched on September 25, 2014, was conceived to make India a global hub for manufacturing, design and innovation. Over…",
@@ -184,23 +201,6 @@
       "title_hinglish": "meka ina indiya vinirmana vikasa ke eka nae yuga ko aage badhaाta hai",
       "summary_hinglish": "apane loncha ke baraha sala bad, meka ina indiya pradhana mantri narendra modi ke eka majabut, adhika aatmanirbhara aura vishva stara para pratispardhi bharata ke nirmana ke drishtikona ka eka mahatvapurna hissa hai। 25 sitanbara 2014 ko shuru ki gaee isa pahala ki kalpana bharata ko vinirman, dijaina aura navachara ke lie eka vaishvika kendra banane ke lie ki gaee thi। oopara…",
       "category_hinglish": "Technology"
-    },
-    {
-      "id": "7a7b6428bafd33e7",
-      "title": "JetSynthesys and Japan’s MIXI sign MOU to explore gaming collaboration in India",
-      "summary": "The two companies will explore game development, publishing, marketing, esports and digital entertainment in one of the world",
-      "category": "Entertainment",
-      "image": "https://indiantelevision.com/wp-content/uploads/2026/09/MIXI-1000x600.jpg",
-      "source": "Indian Television Dot Com",
-      "sourceUrl": "https://indiantelevision.com/iworld/jetsynthesys-and-japans-mixi-sign-mou-to-explore-gaming-collaboration-in-india/",
-      "publishedAt": "2026-09-28T11:05:16.000Z",
-      "fetchedAt": "2026-09-28T11:24:46.937Z",
-      "title_hi": "जेटसिंथेसिस और जापान की MIXI ने भारत में गेमिंग सहयोग का पता लगाने के लिए समझौता ज्ञापन पर हस्ताक्षर किए",
-      "summary_hi": "दोनों कंपनियां दुनिया भर में गेम डेवलपमेंट, पब्लिशिंग, मार्केटिंग, ईस्पोर्ट्स और डिजिटल मनोरंजन का पता लगाएंगी",
-      "category_hi": "मनोरंजन",
-      "category_hinglish": "Entertainment",
-      "title_hinglish": "jetasinthesisa aura japana ki MIXI ne bharata men geminga sahayoga ka pata lagane ke lie samajhauta jnyapana para hastakshara kie",
-      "summary_hinglish": "donon kanpaniyan duniya bhara men gema devalapament, pablishing, marketing, eesportsa aura dijitala manoranjana ka pata lagaengi"
     },
     {
       "id": "be70c7c038ab373d",
@@ -220,6 +220,23 @@
       "category_hinglish": "Sports"
     },
     {
+      "id": "7a7b6428bafd33e7",
+      "title": "JetSynthesys and Japan’s MIXI sign MOU to explore gaming collaboration in India",
+      "summary": "The two companies will explore game development, publishing, marketing, esports and digital entertainment in one of the world",
+      "category": "Entertainment",
+      "image": "https://indiantelevision.com/wp-content/uploads/2026/09/MIXI-1000x600.jpg",
+      "source": "Indian Television Dot Com",
+      "sourceUrl": "https://indiantelevision.com/iworld/jetsynthesys-and-japans-mixi-sign-mou-to-explore-gaming-collaboration-in-india/",
+      "publishedAt": "2026-09-28T11:05:16.000Z",
+      "fetchedAt": "2026-09-28T11:24:46.937Z",
+      "title_hi": "जेटसिंथेसिस और जापान की MIXI ने भारत में गेमिंग सहयोग का पता लगाने के लिए समझौता ज्ञापन पर हस्ताक्षर किए",
+      "summary_hi": "दोनों कंपनियां दुनिया भर में गेम डेवलपमेंट, पब्लिशिंग, मार्केटिंग, ईस्पोर्ट्स और डिजिटल मनोरंजन का पता लगाएंगी",
+      "category_hi": "मनोरंजन",
+      "category_hinglish": "Entertainment",
+      "title_hinglish": "jetasinthesisa aura japana ki MIXI ne bharata men geminga sahayoga ka pata lagane ke lie samajhauta jnyapana para hastakshara kie",
+      "summary_hinglish": "donon kanpaniyan duniya bhara men gema devalapament, pablishing, marketing, eesportsa aura dijitala manoranjana ka pata lagaengi"
+    },
+    {
       "id": "e381bf1894193d8c",
       "title": "School assembly news headlines today- September 29: Top national, sports and world news curated for you",
       "summary": "Today’s school assembly news highlights top national, sports, and world events, covering important updates from politics, sports achievements, and global headlines for September 29.",
@@ -237,21 +254,6 @@
       "category_hinglish": "National aur Trending News"
     },
     {
-      "id": "f9df16f58208fbde",
-      "title": "India’s AIESL To Gain Financial Strength That Will Unlock Growth, CEO Says",
-      "summary": "India's largest MRO provider AIESL is strengthening its finances and now plans to invest in next-generation engine MRO, CEO Sharad Agarwal told Aviation Week.",
-      "category": "Business & Finance",
-      "image": "https://aviationweek.com/sites/default/files/2026-09/credit_aiesl.jpg",
-      "source": "Aviation Week",
-      "sourceUrl": "https://aviationweek.com/mro/supply-chain/indias-aiesl-gain-financial-strength-will-unlock-growth-ceo-says",
-      "publishedAt": "2026-09-28T10:37:43.000Z",
-      "fetchedAt": "2026-09-28T12:22:59.632Z",
-      "title_hi": "",
-      "summary_hi": "",
-      "category_hi": "बिज़नेस और फाइनेंस",
-      "category_hinglish": "Business aur Finance"
-    },
-    {
       "id": "feeef1c1c55ee87e",
       "title": "'Regret supporting': Chirag Paswan attacks Bihar govt over rising crimes against women",
       "summary": "Bihar crime: Union Minister Chirag Paswan expresses shame over the deteriorating law and order situation, criticising the state administration for failing to curb rising crimes against women and demanding strict action.",
@@ -267,6 +269,23 @@
       "title_hinglish": "'samarthana karane ka aphasosa': mahilaon ke khilapha badhate aparadha ko lekara chiraga pasavana ne bihara sarakara para hamala bola",
       "summary_hinglish": "bihara aparadh: kendriya mantri chiraga pasavana ne bigadati kanuna-vyavastha ki sthiti para sharmindagi vyakta ki, mahilaon ke khilapha badhate aparadhon para ankusha lagane men viphala rahane ke lie rajya prashasana ki aalochana ki aura sakhta karravaee ki manga ki।",
       "category_hinglish": "Politics aur Government"
+    },
+    {
+      "id": "f9df16f58208fbde",
+      "title": "India’s AIESL To Gain Financial Strength That Will Unlock Growth, CEO Says",
+      "summary": "India's largest MRO provider AIESL is strengthening its finances and now plans to invest in next-generation engine MRO, CEO Sharad Agarwal told Aviation Week.",
+      "category": "Business & Finance",
+      "image": "https://aviationweek.com/sites/default/files/2026-09/credit_aiesl.jpg",
+      "source": "Aviation Week",
+      "sourceUrl": "https://aviationweek.com/mro/supply-chain/indias-aiesl-gain-financial-strength-will-unlock-growth-ceo-says",
+      "publishedAt": "2026-09-28T10:37:43.000Z",
+      "fetchedAt": "2026-09-28T12:22:59.632Z",
+      "title_hi": "सीईओ का कहना है कि भारत की एआईईएसएल वित्तीय ताकत हासिल करेगी, जिससे विकास की राह खुलेगी",
+      "summary_hi": "सीईओ शरद अग्रवाल ने एविएशन वीक को बताया कि भारत का सबसे बड़ा एमआरओ प्रदाता एआईईएसएल अपने वित्त को मजबूत कर रहा है और अब अगली पीढ़ी के इंजन एमआरओ में निवेश करने की योजना बना रहा है।",
+      "category_hi": "बिज़नेस और फाइनेंस",
+      "category_hinglish": "Business aur Finance",
+      "title_hinglish": "sieeo ka kahana hai ki bharata ki eaaeeeeesaela vittiya takata hasila karegi, jisase vikasa ki raha khulegi",
+      "summary_hinglish": "sieeo sharada agravala ne evieshana vika ko bataya ki bharata ka sabase badaा emaaarao pradata eaaeeeeesaela apane vitta ko majabuta kara raha hai aura aba agali pidhaी ke injana emaaarao men nivesha karane ki yojana bana raha hai।"
     },
     {
       "id": "55df58b2271b04a8",
@@ -294,30 +313,11 @@
       "source": "olympics.com",
       "sourceUrl": "https://www.olympics.com/en/news/asian-games-2026-medal-tally-india-winners-table-list",
       "publishedAt": "2026-09-28T10:32:00.000Z",
-      "fetchedAt": "2026-09-28T12:46:18.867Z",
-      "title_hi": "एशियाई खेल 2026: भारत की पदक तालिका और विजेताओं की सूची - पूरी तालिका",
-      "summary_hi": "एशियाई खेल 2026 में भारत के विजेताओं की सूची जानें। पदक तालिका जानें और भारतीय एथलीटों ने प्रत्येक खेल में कितने पदक जीते हैं। पूरी मेज.",
+      "fetchedAt": "2026-09-28T13:01:40.921Z",
+      "title_hi": "",
+      "summary_hi": "",
       "category_hi": "खेल",
-      "title_hinglish": "eshiyaee khela 2026: bharata ki padaka talika aura vijetaon ki suchi - puri talika",
-      "summary_hinglish": "eshiyaee khela 2026 men bharata ke vijetaon ki suchi janen। padaka talika janen aura bharatiya ethaliton ne pratyeka khela men kitane padaka jite hain। puri mej.",
       "category_hinglish": "Sports"
-    },
-    {
-      "id": "03e72c9c3517f5f7",
-      "title": "Not Rashmika Mandanna, Tanya Mishra is India’s national crush now",
-      "summary": "Tanya Mishra is being called the new National Crush of India. Know more about the actress and model, her career, Instagram, age and photos",
-      "category": "National & Trending News",
-      "image": "https://cdn.siasat.com/wp-content/uploads/2026/09/national-crush.jpg",
-      "source": "The Siasat Daily",
-      "sourceUrl": "https://www.siasat.com/tanya-mishra-national-crush-of-india-photos-instagram-age-3549365/",
-      "publishedAt": "2026-09-28T10:26:02.000Z",
-      "fetchedAt": "2026-09-28T10:52:19.946Z",
-      "title_hi": "रश्मिका मंदाना नहीं, तान्या मिश्रा अब भारत की नेशनल क्रश हैं",
-      "summary_hi": "तान्या मिश्रा को भारत का नया नेशनल क्रश कहा जा रहा है। अभिनेत्री और मॉडल, उनके करियर, इंस्टाग्राम, उम्र और तस्वीरों के बारे में और जानें",
-      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
-      "title_hinglish": "rashmika mandana nahin, tanya mishra aba bharata ki neshanala krasha hain",
-      "summary_hinglish": "tanya mishra ko bharata ka naya neshanala krasha kaha ja raha hai। abhinetri aura modal, unake kariyar, instagram, umra aura tasviron ke bare men aura janen",
-      "category_hinglish": "National aur Trending News"
     },
     {
       "id": "4911f7e5a341b5b9",
@@ -337,6 +337,23 @@
       "category_hinglish": "Crime aur Breaking News"
     },
     {
+      "id": "03e72c9c3517f5f7",
+      "title": "Not Rashmika Mandanna, Tanya Mishra is India’s national crush now",
+      "summary": "Tanya Mishra is being called the new National Crush of India. Know more about the actress and model, her career, Instagram, age and photos",
+      "category": "National & Trending News",
+      "image": "https://cdn.siasat.com/wp-content/uploads/2026/09/national-crush.jpg",
+      "source": "The Siasat Daily",
+      "sourceUrl": "https://www.siasat.com/tanya-mishra-national-crush-of-india-photos-instagram-age-3549365/",
+      "publishedAt": "2026-09-28T10:26:02.000Z",
+      "fetchedAt": "2026-09-28T10:52:19.946Z",
+      "title_hi": "रश्मिका मंदाना नहीं, तान्या मिश्रा अब भारत की नेशनल क्रश हैं",
+      "summary_hi": "तान्या मिश्रा को भारत का नया नेशनल क्रश कहा जा रहा है। अभिनेत्री और मॉडल, उनके करियर, इंस्टाग्राम, उम्र और तस्वीरों के बारे में और जानें",
+      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
+      "title_hinglish": "rashmika mandana nahin, tanya mishra aba bharata ki neshanala krasha hain",
+      "summary_hinglish": "tanya mishra ko bharata ka naya neshanala krasha kaha ja raha hai। abhinetri aura modal, unake kariyar, instagram, umra aura tasviron ke bare men aura janen",
+      "category_hinglish": "National aur Trending News"
+    },
+    {
       "id": "b297e0c52f08c081",
       "title": "Airtel's AI-powered cybersecurity tech blocked 1.42 million malicious links in spam messages in India",
       "summary": "Airtel AI cybersecurity blocks millions of malicious links and spam messages across India. New OTP fraud protection and Cloud Plus subscription launched for postpaid smartphone users with Apple devices.",
@@ -352,23 +369,6 @@
       "title_hinglish": "eyaratela ki eaaee-sanchalita saibara suraksha takanika ne bharata men spaima sandeshon men 1.42 miliyana durbhavanapurna linka ko avaruddha kara diya",
       "summary_hinglish": "eyaratela eaaee saibara suraksha pure bharata men lakhon durbhavanapurna linka aura spaima sandeshon ko bloka karati hai। aippala divaisa vale postapeda smartaphona upayogakartaon ke lie naee otipi dhokhadhadaी suraksha aura klauda plasa sadasyata loncha ki gaee।",
       "category_hinglish": "Technology"
-    },
-    {
-      "id": "86cf33c556e8e725",
-      "title": "‘We did not expect this from Japan’: Pakistan volleyball team taken to wrong venue as logistical woes mou",
-      "summary": "Pakistan’s volleyball team was taken to the wrong venue ahead of its crucial Pool A match against Uzbekistan at the Asian Games 2026, adding to growing complaints over logistical arrangements at the multi-sport event in Aichi-Nagoya.",
-      "category": "Sports",
-      "image": "https://static.toiimg.com/thumb/msid-134539092,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/we-did-not-expect-this-from-japan-pakistan-volleyball-team-taken-to-wrong-venue-as-logistical-woes-mount-at-asian-games/articleshow/134538987.cms",
-      "publishedAt": "2026-09-28T10:20:00.000Z",
-      "fetchedAt": "2026-09-28T11:06:11.511Z",
-      "title_hi": "'हमें जापान से इसकी उम्मीद नहीं थी': पाकिस्तान की वॉलीबॉल टीम को साजो-सामान की समस्या के कारण गलत स्थान पर ले जाया गया",
-      "summary_hi": "एशियाई खेल 2026 में उज्बेकिस्तान के खिलाफ अपने महत्वपूर्ण पूल ए मैच से पहले पाकिस्तान की वॉलीबॉल टीम को गलत स्थान पर ले जाया गया, जिससे आइची-नागोया में बहु-खेल आयोजन में साजो-सामान व्यवस्था को लेकर शिकायतें बढ़ गईं।",
-      "category_hi": "खेल",
-      "title_hinglish": "'hamen japana se isaki ummida nahin thi': pakistana ki volibola tima ko sajo-samana ki samasya ke karana galata sthana para le jaya gaya",
-      "summary_hinglish": "eshiyaee khela 2026 men ujbekistana ke khilapha apane mahatvapurna pula e maicha se pahale pakistana ki volibola tima ko galata sthana para le jaya gay, jisase aaichi-nagoya men bahu-khela aayojana men sajo-samana vyavastha ko lekara shikayaten badha gaeen।",
-      "category_hinglish": "Sports"
     },
     {
       "id": "03943fafde680d0a",
@@ -388,6 +388,23 @@
       "category_hinglish": "Crime aur Breaking News"
     },
     {
+      "id": "86cf33c556e8e725",
+      "title": "‘We did not expect this from Japan’: Pakistan volleyball team taken to wrong venue as logistical woes mou",
+      "summary": "Pakistan’s volleyball team was taken to the wrong venue ahead of its crucial Pool A match against Uzbekistan at the Asian Games 2026, adding to growing complaints over logistical arrangements at the multi-sport event in Aichi-Nagoya.",
+      "category": "Sports",
+      "image": "https://static.toiimg.com/thumb/msid-134539092,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/we-did-not-expect-this-from-japan-pakistan-volleyball-team-taken-to-wrong-venue-as-logistical-woes-mount-at-asian-games/articleshow/134538987.cms",
+      "publishedAt": "2026-09-28T10:20:00.000Z",
+      "fetchedAt": "2026-09-28T11:06:11.511Z",
+      "title_hi": "'हमें जापान से इसकी उम्मीद नहीं थी': पाकिस्तान की वॉलीबॉल टीम को साजो-सामान की समस्या के कारण गलत स्थान पर ले जाया गया",
+      "summary_hi": "एशियाई खेल 2026 में उज्बेकिस्तान के खिलाफ अपने महत्वपूर्ण पूल ए मैच से पहले पाकिस्तान की वॉलीबॉल टीम को गलत स्थान पर ले जाया गया, जिससे आइची-नागोया में बहु-खेल आयोजन में साजो-सामान व्यवस्था को लेकर शिकायतें बढ़ गईं।",
+      "category_hi": "खेल",
+      "title_hinglish": "'hamen japana se isaki ummida nahin thi': pakistana ki volibola tima ko sajo-samana ki samasya ke karana galata sthana para le jaya gaya",
+      "summary_hinglish": "eshiyaee khela 2026 men ujbekistana ke khilapha apane mahatvapurna pula e maicha se pahale pakistana ki volibola tima ko galata sthana para le jaya gay, jisase aaichi-nagoya men bahu-khela aayojana men sajo-samana vyavastha ko lekara shikayaten badha gaeen।",
+      "category_hinglish": "Sports"
+    },
+    {
       "id": "93d9395e24ec07ce",
       "title": "Manoj Tiwari reacts to claims he used influence for daughter Rhiti's Bigg Boss entry",
       "summary": "Manoj Tiwari has denied using his influence to get daughter Rhiti Tiwari into Bigg Boss 20. His remarks came after Rhiti's clashes in the house sparked questions about privilege and conduct.",
@@ -405,23 +422,6 @@
       "summary_hinglish": "manoja tivari ne beti riti tivari ko biga bosa 20 men lane ke lie apane prabhava ka istemala karane se inakara kiya hai। unaki tippani ghara men riti ki jhadapon ke bada visheshadhikara aura aacharana ke bare men savala uthane ke bada aaee hai।"
     },
     {
-      "id": "8a6cc10ec33aaaf6",
-      "title": "India needs investment in AI, semiconductors and quantum computing – minister",
-      "summary": "India needs to attract and make substantial investments in infrastructure related to artificial intelligence (AI), semiconductors and quantum computing.",
-      "category": "Technology",
-      "image": "https://tvbrics.com/upload/dev2fun.imagecompress/webp/resize_cache/iblock/3ee/300_300_1/boiw5ye3pme8csoyj5o80xpgcft7eajk.webp",
-      "source": "TV BRICS",
-      "sourceUrl": "https://tvbrics.com/en/news/india-needs-investment-in-ai-semiconductors-and-quantum-computing-minister/",
-      "publishedAt": "2026-09-28T10:00:25.000Z",
-      "fetchedAt": "2026-09-28T10:17:00.282Z",
-      "title_hi": "भारत को एआई, सेमीकंडक्टर और क्वांटम कंप्यूटिंग में निवेश की जरूरत है- मंत्री",
-      "summary_hi": "भारत को कृत्रिम बुद्धिमत्ता (एआई), सेमीकंडक्टर और क्वांटम कंप्यूटिंग से संबंधित बुनियादी ढांचे में पर्याप्त निवेश आकर्षित करने और करने की आवश्यकता है।",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "bharata ko eaaee, semikandaktara aura kvantama kanpyutinga men nivesha ki jarurata hai- mantri",
-      "summary_hinglish": "bharata ko kritrima buddhimatta (eaaee), semikandaktara aura kvantama kanpyutinga se sanbandhita buniyadi dhanche men paryapta nivesha aakarshita karane aura karane ki aavashyakata hai।",
-      "category_hinglish": "Technology"
-    },
-    {
       "id": "5e8713d098d8808b",
       "title": "Bihar Prepares For 2030 Women’s Hockey World Cup, Rajgir Set To Host Global Stars",
       "summary": "Patna: Bihar has stepped up preparations to host the 2030 FIH Women’s Hockey World Cup in Rajgir, with Sports Minister",
@@ -437,6 +437,23 @@
       "title_hinglish": "bihara 2030 mahila hoki vishva kapa ki taiyari kara raha hai, rajagira vaishvika sitaron ki mejabani ke lie taiyara hai",
       "summary_hinglish": "patan: khela mantri ke satha bihara ne rajagira men 2030 FIH mahila hoki vishva kapa ki mejabani ki taiyari teja kara di hai.",
       "category_hinglish": "Sports"
+    },
+    {
+      "id": "8a6cc10ec33aaaf6",
+      "title": "India needs investment in AI, semiconductors and quantum computing – minister",
+      "summary": "India needs to attract and make substantial investments in infrastructure related to artificial intelligence (AI), semiconductors and quantum computing.",
+      "category": "Technology",
+      "image": "https://tvbrics.com/upload/dev2fun.imagecompress/webp/resize_cache/iblock/3ee/300_300_1/boiw5ye3pme8csoyj5o80xpgcft7eajk.webp",
+      "source": "TV BRICS",
+      "sourceUrl": "https://tvbrics.com/en/news/india-needs-investment-in-ai-semiconductors-and-quantum-computing-minister/",
+      "publishedAt": "2026-09-28T10:00:25.000Z",
+      "fetchedAt": "2026-09-28T10:17:00.282Z",
+      "title_hi": "भारत को एआई, सेमीकंडक्टर और क्वांटम कंप्यूटिंग में निवेश की जरूरत है- मंत्री",
+      "summary_hi": "भारत को कृत्रिम बुद्धिमत्ता (एआई), सेमीकंडक्टर और क्वांटम कंप्यूटिंग से संबंधित बुनियादी ढांचे में पर्याप्त निवेश आकर्षित करने और करने की आवश्यकता है।",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "bharata ko eaaee, semikandaktara aura kvantama kanpyutinga men nivesha ki jarurata hai- mantri",
+      "summary_hinglish": "bharata ko kritrima buddhimatta (eaaee), semikandaktara aura kvantama kanpyutinga se sanbandhita buniyadi dhanche men paryapta nivesha aakarshita karane aura karane ki aavashyakata hai।",
+      "category_hinglish": "Technology"
     },
     {
       "id": "87132b6f37084293",
@@ -465,27 +482,12 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/last-minute-dash-accomodation-chaos-weight-cut-attempt-how-varun-sanyals-asian-games-nightmare-unfolded/articleshow/134537547.cms",
       "publishedAt": "2026-09-28T09:34:00.000Z",
       "fetchedAt": "2026-09-28T11:43:45.088Z",
-      "title_hi": "",
-      "summary_hi": "",
+      "title_hi": "आखिरी मिनट की भागदौड़, आवास की अव्यवस्था, वजन घटाने का प्रयास: कैसे वरुण सान्याल का एशियाई खेलों का दुःस्वप्न सामने आया",
+      "summary_hi": "जब वरुण सान्याल अंततः नागोया में अपने कमरे में पहुंचे, तब तक जापान में उतरने के लगभग 12 घंटे बीत चुके थे। उन्होंने लंदन से मुंबई तक उड़ान भरी, अपना एशियाई खेलों का मान्यता कार्ड लिया, सिंगापुर से यात्रा की, यह साबित करने में घंटों बिताए कि वह एक पंजीकृत एथलीट थे, और फिर खुद को एक साझा करते हुए पाया...",
       "category_hi": "खेल",
-      "category_hinglish": "Sports"
-    },
-    {
-      "id": "fff2f289224e54d1",
-      "title": "MRUCI re-elects Vikram Sakhuja, Dhruba Mukherjee as Chairman, Vice Chairman",
-      "summary": "MRUCI re-elects Vikram Sakhuja as Chairman, Dhruba Mukherjee as Vice Chairman, and appoints new board members. The council prepares for the revival of the India",
-      "category": "Entertainment",
-      "image": "https://images.storyboard18.com/storyboard18/2026/09/Untitled-design-2026-09-28T144302.555-2026-09-5d1f747cf0698070e7109896514f368f-1019x573.jpg",
-      "source": "Storyboard18",
-      "sourceUrl": "https://www.storyboard18.com/amp/media-and-entertainment/mruci-re-elects-sakhuja-as-chairman-mukherjee-as-vice-chairman-ws-l-111536.htm",
-      "publishedAt": "2026-09-28T09:17:29.000Z",
-      "fetchedAt": "2026-09-28T09:56:53.856Z",
-      "title_hi": "एमआरयूसीआई ने विक्रम सखुजा, ध्रुबा मुखर्जी को फिर से अध्यक्ष, उपाध्यक्ष चुना",
-      "summary_hi": "एमआरयूसीआई ने विक्रम सखुजा को फिर से अध्यक्ष, ध्रुबा मुखर्जी को उपाध्यक्ष चुना और नए बोर्ड सदस्यों की नियुक्ति की। परिषद भारत के पुनरुत्थान की तैयारी करती है",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "emaaarayusiaaee ne vikrama sakhuj, dhruba mukharji ko phira se adhyaksh, upadhyaksha chuna",
-      "summary_hinglish": "emaaarayusiaaee ne vikrama sakhuja ko phira se adhyaksh, dhruba mukharji ko upadhyaksha chuna aura nae borda sadasyon ki niyukti ki। parishada bharata ke punarutthana ki taiyari karati hai",
-      "category_hinglish": "Entertainment"
+      "category_hinglish": "Sports",
+      "title_hinglish": "aakhiri minata ki bhagadaud, aavasa ki avyavasth, vajana ghatane ka prayas: kaise varuna sanyala ka eshiyaee khelon ka duhsvapna samane aaya",
+      "summary_hinglish": "jaba varuna sanyala antatah nagoya men apane kamare men pahunche, taba taka japana men utarane ke lagabhaga 12 ghante bita chuke the। unhonne landana se munbaee taka udaाna bhari, apana eshiyaee khelon ka manyata karda liy, singapura se yatra ki, yaha sabita karane men ghanton bitae ki vaha eka panjikrita ethalita the, aura phira khuda ko eka sajha karate hue pay..."
     },
     {
       "id": "55d29fb029ceb324",
@@ -502,6 +504,23 @@
       "category_hi": "मनोरंजन",
       "title_hinglish": "biga bosa 20: kaji taukira ki jhadapa ke bada mahi vija ne eesha rikhi ki tippani para savala uthae, jisamen badashaha ka jikra th, 'kauna sa tra'",
       "summary_hinglish": "eesha rikhi dvara kaji taukira ke satha tikhi batachita ke bada apane anubhava ke bare men bata karane ke bada mahi vija ne navinatama biga bosa 20 vivada para jora diya hai।",
+      "category_hinglish": "Entertainment"
+    },
+    {
+      "id": "fff2f289224e54d1",
+      "title": "MRUCI re-elects Vikram Sakhuja, Dhruba Mukherjee as Chairman, Vice Chairman",
+      "summary": "MRUCI re-elects Vikram Sakhuja as Chairman, Dhruba Mukherjee as Vice Chairman, and appoints new board members. The council prepares for the revival of the India",
+      "category": "Entertainment",
+      "image": "https://images.storyboard18.com/storyboard18/2026/09/Untitled-design-2026-09-28T144302.555-2026-09-5d1f747cf0698070e7109896514f368f-1019x573.jpg",
+      "source": "Storyboard18",
+      "sourceUrl": "https://www.storyboard18.com/amp/media-and-entertainment/mruci-re-elects-sakhuja-as-chairman-mukherjee-as-vice-chairman-ws-l-111536.htm",
+      "publishedAt": "2026-09-28T09:17:29.000Z",
+      "fetchedAt": "2026-09-28T09:56:53.856Z",
+      "title_hi": "एमआरयूसीआई ने विक्रम सखुजा, ध्रुबा मुखर्जी को फिर से अध्यक्ष, उपाध्यक्ष चुना",
+      "summary_hi": "एमआरयूसीआई ने विक्रम सखुजा को फिर से अध्यक्ष, ध्रुबा मुखर्जी को उपाध्यक्ष चुना और नए बोर्ड सदस्यों की नियुक्ति की। परिषद भारत के पुनरुत्थान की तैयारी करती है",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "emaaarayusiaaee ne vikrama sakhuj, dhruba mukharji ko phira se adhyaksh, upadhyaksha chuna",
+      "summary_hinglish": "emaaarayusiaaee ne vikrama sakhuja ko phira se adhyaksh, dhruba mukharji ko upadhyaksha chuna aura nae borda sadasyon ki niyukti ki। parishada bharata ke punarutthana ki taiyari karati hai",
       "category_hinglish": "Entertainment"
     },
     {
@@ -522,23 +541,6 @@
       "summary_hinglish": "bengaluru (karnataka) [bharata], 28 sitanbar: harbalaipha indiy, eka pramukha svasthya aura kalyana kanpani, samudaya aura mancha ne 19 sitanbara se japana men aayojita 20ven eshiyaee khelon, aaichi-nagoya 2026 men bharatiya dala ke lie aadhikarika poshana bhagidara ke rupa men bharatiya olanpika sangha (aaeeoe) ke satha apani sajhedari ki ghoshana ki hai…"
     },
     {
-      "id": "2d9f2a846588298d",
-      "title": "India wins five medals in athletics at Asian Games",
-      "summary": "NEW DELHI (SHABD): India’s Sarvesh Kushare and Ancy Sojan settled for silver medals in the men’s high jump and women’s long jump finals, respectively, at the",
-      "category": "Sports",
-      "image": "https://i0.wp.com/ukhrultimes.com/wp-content/uploads/2026/09/India-wins-five-medals-in-athletics-at-Asian-Games.jpg",
-      "source": "ukhrultimes.com",
-      "sourceUrl": "https://ukhrultimes.com/india-wins-five-medals-in-athletics-at-asian-games/",
-      "publishedAt": "2026-09-28T08:47:38.000Z",
-      "fetchedAt": "2026-09-28T09:56:49.362Z",
-      "title_hi": "भारत ने एशियाई खेलों में एथलेटिक्स में पांच पदक जीते",
-      "summary_hi": "नई दिल्ली (शब्दश): भारत के सर्वेश कुशारे और एंसी सोजन ने क्रमशः पुरुषों की ऊंची कूद और महिलाओं की लंबी कूद के फाइनल में रजत पदक जीते।",
-      "category_hi": "खेल",
-      "category_hinglish": "Sports",
-      "title_hinglish": "bharata ne eshiyaee khelon men ethaletiksa men pancha padaka jite",
-      "summary_hinglish": "naee dilli (shabdasha): bharata ke sarvesha kushare aura ensi sojana ne kramashah purushon ki oonchi kuda aura mahilaon ki lanbi kuda ke phainala men rajata padaka jite।"
-    },
-    {
       "id": "0fd2b8e1e638217a",
       "title": "After Bankipur win, Prashant Kishor's party weighs Delhi expansion | India News",
       "summary": "Supporters of Jan Suraaj in the national capital have been pressing for the party to establish a presence in Delhi.",
@@ -554,6 +556,23 @@
       "title_hinglish": "bankipura jita ke bada prashanta kishora ki parti dilli vistara para vichara kara rahi hai | bharata samachara",
       "summary_hinglish": "rashtriya rajadhani men jana suraja ke samarthaka parti para dilli men upasthiti sthapita karane ke lie dabava dala rahe hain।",
       "category_hinglish": "Politics aur Government"
+    },
+    {
+      "id": "2d9f2a846588298d",
+      "title": "India wins five medals in athletics at Asian Games",
+      "summary": "NEW DELHI (SHABD): India’s Sarvesh Kushare and Ancy Sojan settled for silver medals in the men’s high jump and women’s long jump finals, respectively, at the",
+      "category": "Sports",
+      "image": "https://i0.wp.com/ukhrultimes.com/wp-content/uploads/2026/09/India-wins-five-medals-in-athletics-at-Asian-Games.jpg",
+      "source": "ukhrultimes.com",
+      "sourceUrl": "https://ukhrultimes.com/india-wins-five-medals-in-athletics-at-asian-games/",
+      "publishedAt": "2026-09-28T08:47:38.000Z",
+      "fetchedAt": "2026-09-28T09:56:49.362Z",
+      "title_hi": "भारत ने एशियाई खेलों में एथलेटिक्स में पांच पदक जीते",
+      "summary_hi": "नई दिल्ली (शब्दश): भारत के सर्वेश कुशारे और एंसी सोजन ने क्रमशः पुरुषों की ऊंची कूद और महिलाओं की लंबी कूद के फाइनल में रजत पदक जीते।",
+      "category_hi": "खेल",
+      "category_hinglish": "Sports",
+      "title_hinglish": "bharata ne eshiyaee khelon men ethaletiksa men pancha padaka jite",
+      "summary_hinglish": "naee dilli (shabdasha): bharata ke sarvesha kushare aura ensi sojana ne kramashah purushon ki oonchi kuda aura mahilaon ki lanbi kuda ke phainala men rajata padaka jite।"
     },
     {
       "id": "8923781a943eb639",
@@ -573,23 +592,6 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "0bdcb2201ab0ba5a",
-      "title": "Keystone To Launch India Business With Bengaluru As First Hub, Plans To Hire Talent & Increase Workforce Over Next Two Years",
-      "summary": "Keystone, a global advisory firm that guides the most critical technology and science-based platforms and ecosystems, announced it is establishing Keystone India, with Bengaluru as its first hub in the country. The company plans to hire talent and expand its workforce in India over the next two years.",
-      "category": "Technology",
-      "image": "https://techrseries.com/wp-content/uploads/2026/09/Keystone-To-Launch-India-Business-With-Bengaluru-As-First-Hub-Plans-To-Hire-Talent-Increase-Workforce-Over-Next-Two-Years.jpg",
-      "source": "HRTech Series",
-      "sourceUrl": "https://techrseries.com/artificial-intelligence/keystone-to-launch-india-business-with-bengaluru-as-first-hub-plans-to-hire-talent-increase-workforce-over-next-two-years/",
-      "publishedAt": "2026-09-28T08:25:32.000Z",
-      "fetchedAt": "2026-09-28T08:44:15.504Z",
-      "title_hi": "कीस्टोन बेंगलुरु को पहला केंद्र बनाकर भारतीय कारोबार शुरू करेगा, अगले दो वर्षों में प्रतिभाओं को नियुक्त करने और कार्यबल बढ़ाने की योजना है",
-      "summary_hi": "कीस्टोन, एक वैश्विक सलाहकार फर्म जो सबसे महत्वपूर्ण प्रौद्योगिकी और विज्ञान-आधारित प्लेटफार्मों और पारिस्थितिकी प्रणालियों का मार्गदर्शन करती है, ने घोषणा की है कि वह कीस्टोन इंडिया की स्थापना कर रही है, जिसका देश में पहला केंद्र बेंगलुरु होगा। कंपनी की योजना अगले दो वर्षों में भारत में प्रतिभावान लोगों को नियुक्त करने और अपने कार्यबल का विस्तार करने की है।",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "kistona bengaluru ko pahala kendra banakara bharatiya karobara shuru kareg, agale do varshon men pratibhaon ko niyukta karane aura karyabala badhaाne ki yojana hai",
-      "summary_hinglish": "kiston, eka vaishvika salahakara pharma jo sabase mahatvapurna praudyogiki aura vijnyana-aadharita pletapharmon aura paristhitiki pranaliyon ka margadarshana karati hai, ne ghoshana ki hai ki vaha kistona indiya ki sthapana kara rahi hai, jisaka desha men pahala kendra bengaluru hoga। kanpani ki yojana agale do varshon men bharata men pratibhavana logon ko niyukta karane aura apane karyabala ka vistara karane ki hai।",
-      "category_hinglish": "Technology"
-    },
-    {
       "id": "b2cee53f8a5cf9b2",
       "title": "Kriti Sanon shares cryptic Instagram post amid Jamui harassment and Delhi rape case: ‘It’s women vs patriarch",
       "summary": "Kriti Sanon’s latest Instagram activity has caught attention amid the ongoing discussion around the Jamui harassment case. Here’s what the actress shared and why it has sparked conversation.",
@@ -605,6 +607,23 @@
       "title_hinglish": "jamuee utpidana aura dilli balatkara mamale ke bicha kriti sanona ne gupta instagrama posta sajha kiy: 'yaha mahila banama pitrisatta hai",
       "summary_hinglish": "jamuee utpidana mamale ko lekara chala rahi charcha ke bicha kriti senana ki navinatama instagrama gatividhi ne dhyana khincha hai। yahan bataya gaya hai ki abhinetri ne kya sajha kiya aura kyon isane charcha ko badhaाva diya hai।",
       "category_hinglish": "Entertainment"
+    },
+    {
+      "id": "0bdcb2201ab0ba5a",
+      "title": "Keystone To Launch India Business With Bengaluru As First Hub, Plans To Hire Talent & Increase Workforce Over Next Two Years",
+      "summary": "Keystone, a global advisory firm that guides the most critical technology and science-based platforms and ecosystems, announced it is establishing Keystone India, with Bengaluru as its first hub in the country. The company plans to hire talent and expand its workforce in India over the next two years.",
+      "category": "Technology",
+      "image": "https://techrseries.com/wp-content/uploads/2026/09/Keystone-To-Launch-India-Business-With-Bengaluru-As-First-Hub-Plans-To-Hire-Talent-Increase-Workforce-Over-Next-Two-Years.jpg",
+      "source": "HRTech Series",
+      "sourceUrl": "https://techrseries.com/artificial-intelligence/keystone-to-launch-india-business-with-bengaluru-as-first-hub-plans-to-hire-talent-increase-workforce-over-next-two-years/",
+      "publishedAt": "2026-09-28T08:25:32.000Z",
+      "fetchedAt": "2026-09-28T08:44:15.504Z",
+      "title_hi": "कीस्टोन बेंगलुरु को पहला केंद्र बनाकर भारतीय कारोबार शुरू करेगा, अगले दो वर्षों में प्रतिभाओं को नियुक्त करने और कार्यबल बढ़ाने की योजना है",
+      "summary_hi": "कीस्टोन, एक वैश्विक सलाहकार फर्म जो सबसे महत्वपूर्ण प्रौद्योगिकी और विज्ञान-आधारित प्लेटफार्मों और पारिस्थितिकी प्रणालियों का मार्गदर्शन करती है, ने घोषणा की है कि वह कीस्टोन इंडिया की स्थापना कर रही है, जिसका देश में पहला केंद्र बेंगलुरु होगा। कंपनी की योजना अगले दो वर्षों में भारत में प्रतिभावान लोगों को नियुक्त करने और अपने कार्यबल का विस्तार करने की है।",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "kistona bengaluru ko pahala kendra banakara bharatiya karobara shuru kareg, agale do varshon men pratibhaon ko niyukta karane aura karyabala badhaाne ki yojana hai",
+      "summary_hinglish": "kiston, eka vaishvika salahakara pharma jo sabase mahatvapurna praudyogiki aura vijnyana-aadharita pletapharmon aura paristhitiki pranaliyon ka margadarshana karati hai, ne ghoshana ki hai ki vaha kistona indiya ki sthapana kara rahi hai, jisaka desha men pahala kendra bengaluru hoga। kanpani ki yojana agale do varshon men bharata men pratibhavana logon ko niyukta karane aura apane karyabala ka vistara karane ki hai।",
+      "category_hinglish": "Technology"
     },
     {
       "id": "2ce217b99d433fd2",
@@ -641,23 +660,6 @@
       "category_hinglish": "Crime aur Breaking News"
     },
     {
-      "id": "1d4c335d9cc2e8e7",
-      "title": "Linux Foundation Launches LF India",
-      "summary": "LF India will support developers, startups and enterprises with open-source collaboration, training and regional programmes across AI",
-      "category": "Technology",
-      "image": "https://www.opensourceforu.com/wp-content/uploads/2026/09/linux_foundation_20241211164559_original_image_33.webp",
-      "source": "Open Source For You",
-      "sourceUrl": "https://www.opensourceforu.com/2026/09/linux-foundation-launches-lf-india/",
-      "publishedAt": "2026-09-28T08:13:25.000Z",
-      "fetchedAt": "2026-09-28T08:25:27.733Z",
-      "title_hi": "लिनक्स फाउंडेशन ने एलएफ इंडिया लॉन्च किया",
-      "summary_hi": "एलएफ इंडिया एआई में ओपन-सोर्स सहयोग, प्रशिक्षण और क्षेत्रीय कार्यक्रमों के साथ डेवलपर्स, स्टार्टअप और उद्यमों का समर्थन करेगा",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "linaksa phaundeshana ne elaepha indiya loncha kiya",
-      "summary_hinglish": "elaepha indiya eaaee men opana-sorsa sahayog, prashikshana aura kshetriya karyakramon ke satha devalapars, startaapa aura udyamon ka samarthana karega",
-      "category_hinglish": "Technology"
-    },
-    {
       "id": "75f8a86af71d4e53",
       "title": "'Vvan: Force of the Forrest' box office collection day 1: Sidharth Malhotra and Tamannaah Bhatia's film o",
       "summary": "Force of the Forest ', starring Sidharth Malhotra and Tamannaah Bhatia, opened in theatres on September 25, 2026. The fantasy thriller takes place in an ancestral village in Bihar.",
@@ -675,6 +677,23 @@
       "category_hinglish": "Entertainment"
     },
     {
+      "id": "1d4c335d9cc2e8e7",
+      "title": "Linux Foundation Launches LF India",
+      "summary": "LF India will support developers, startups and enterprises with open-source collaboration, training and regional programmes across AI",
+      "category": "Technology",
+      "image": "https://www.opensourceforu.com/wp-content/uploads/2026/09/linux_foundation_20241211164559_original_image_33.webp",
+      "source": "Open Source For You",
+      "sourceUrl": "https://www.opensourceforu.com/2026/09/linux-foundation-launches-lf-india/",
+      "publishedAt": "2026-09-28T08:13:25.000Z",
+      "fetchedAt": "2026-09-28T08:25:27.733Z",
+      "title_hi": "लिनक्स फाउंडेशन ने एलएफ इंडिया लॉन्च किया",
+      "summary_hi": "एलएफ इंडिया एआई में ओपन-सोर्स सहयोग, प्रशिक्षण और क्षेत्रीय कार्यक्रमों के साथ डेवलपर्स, स्टार्टअप और उद्यमों का समर्थन करेगा",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "linaksa phaundeshana ne elaepha indiya loncha kiya",
+      "summary_hinglish": "elaepha indiya eaaee men opana-sorsa sahayog, prashikshana aura kshetriya karyakramon ke satha devalapars, startaapa aura udyamon ka samarthana karega",
+      "category_hinglish": "Technology"
+    },
+    {
       "id": "c9802deff500786f",
       "title": "Nirmala Sitharaman in Qatar: India eyes investment, infrastructure opportunities at AIIB meet; FM to meet Qatari leaders, investors",
       "summary": "Union Finance Minister Nirmala Sitharaman’s three-day visit to Qatar focuses on boosting India-Qatar investment ties, infrastructure financing and AIIB cooperation. Learn how India, as the second-largest AIIB shareholder, is engaging Qatari leaders, global investors and finance ministers to attract long-term capital for infrastructure and sustainable development.",
@@ -690,23 +709,6 @@
       "title_hinglish": "katara men nirmala sitaraman: eaaeeaaeebi baithaka men bharata ki najara nivesh, buniyadi dhanche ke avasaron para hai; katara ke netaon, niveshakon se milenge vitta mantri",
       "summary_hinglish": "kendriya vitta mantri nirmala sitaramana ki katara ki tina divasiya yatra bharata-katara nivesha sanbandhon, buniyadi dhanche ke vittaposhana aura eaaeeaaeebi sahayoga ko badhaाva dene para kendrita hai। janen ki dusare sabase badaे eaaeeaaeebi sheyaradharaka ke rupa men bharata buniyadi dhanche aura satata vikasa ke lie dirghakalika punji ko aakarshita karane ke lie katari netaon, vaishvika niveshakon aura vitta mantriyon ko kaise shamila kara raha hai।",
       "category_hinglish": "Business aur Finance"
-    },
-    {
-      "id": "ca601800ead03f04",
-      "title": "India’s Job Market Strengthens as Data Centre Expansion Drives Hiring Beyond Tech",
-      "summary": "Surging AI infrastructure demand generates diverse roles across engineering, management, and healthcare, boosting formal sector employment.",
-      "category": "Technology",
-      "image": "https://www.electronicsforyou.biz/wp-content/uploads/2022/12/data-centre.jpg",
-      "source": "Electronics For You BUSINESS",
-      "sourceUrl": "https://www.electronicsforyou.biz/industry-buzz/indias-job-market-strengthens-as-data-centre-expansion-drives-hiring-beyond-tech/",
-      "publishedAt": "2026-09-28T08:05:01.000Z",
-      "fetchedAt": "2026-09-28T08:25:27.280Z",
-      "title_hi": "डेटा सेंटर के विस्तार के कारण टेक से परे नियुक्तियां होने से भारत का जॉब मार्केट मजबूत हुआ है",
-      "summary_hi": "एआई बुनियादी ढांचे की बढ़ती मांग इंजीनियरिंग, प्रबंधन और स्वास्थ्य सेवा में विविध भूमिकाएं उत्पन्न करती है, जिससे औपचारिक क्षेत्र में रोजगार को बढ़ावा मिलता है।",
-      "category_hi": "टेक्नोलॉजी",
-      "category_hinglish": "Technology",
-      "title_hinglish": "deta sentara ke vistara ke karana teka se pare niyuktiyan hone se bharata ka joba marketa majabuta huaa hai",
-      "summary_hinglish": "eaaee buniyadi dhanche ki badhati manga injiniyaring, prabandhana aura svasthya seva men vividha bhumikaen utpanna karati hai, jisase aupacharika kshetra men rojagara ko badhaाva milata hai।"
     },
     {
       "id": "ca4a7bd9f0cb7546",
