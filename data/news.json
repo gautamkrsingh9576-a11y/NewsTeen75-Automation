@@ -1,7 +1,24 @@
 {
-  "updatedAt": "2026-09-28T23:13:47.086Z",
+  "updatedAt": "2026-09-28T23:30:06.135Z",
   "count": 43,
   "articles": [
+    {
+      "id": "de75e62b846667f2",
+      "title": "India Expands Tech Strategy Beyond Manufacturing Into Chips and Cloud",
+      "summary": "The country's technology push now spans electronics production, semiconductor development, cloud infrastructure and talent acquisition as global supply chains deepen ties with domestic players.",
+      "category": "Technology",
+      "image": "https://apcg-cms.vercel.app/api/media/file/india-expands-tech-strategy-beyond-manufacturing-chips-cloud.jpeg?prefix=brief-asia",
+      "source": "briefasia.com",
+      "sourceUrl": "https://www.briefasia.com/article/india-expands-tech-strategy-beyond-manufacturing-chips-cloud",
+      "publishedAt": "2026-09-28T22:01:34.000Z",
+      "fetchedAt": "2026-09-28T23:29:52.172Z",
+      "title_hi": "भारत ने विनिर्माण से परे चिप्स और क्लाउड तक तकनीकी रणनीति का विस्तार किया",
+      "summary_hi": "देश की प्रौद्योगिकी पर जोर अब इलेक्ट्रॉनिक्स उत्पादन, सेमीकंडक्टर विकास, क्लाउड इंफ्रास्ट्रक्चर और प्रतिभा अधिग्रहण तक फैल गया है क्योंकि वैश्विक आपूर्ति श्रृंखला घरेलू खिलाड़ियों के साथ संबंधों को गहरा कर रही है।",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "bharata ne vinirmana se pare chipsa aura klauda taka takaniki rananiti ka vistara kiya",
+      "summary_hinglish": "desha ki praudyogiki para jora aba ilektroniksa utpadan, semikandaktara vikas, klauda inphrastrakchara aura pratibha adhigrahana taka phaila gaya hai kyonki vaishvika aapurti shrrinkhala gharelu khiladaिyon ke satha sanbandhon ko gahara kara rahi hai।",
+      "category_hinglish": "Technology"
+    },
     {
       "id": "025050395d357ad6",
       "title": "Carney says he cannot guarantee India will no longer be involved in crimes in Canada",
@@ -16,23 +33,6 @@
       "summary_hi": "",
       "category_hi": "अपराध और ब्रेकिंग न्यूज़",
       "category_hinglish": "Crime aur Breaking News"
-    },
-    {
-      "id": "b87f56b694c07467",
-      "title": "FanDuel’s Parent Can’t Buy a Break",
-      "summary": "Brazil's about-face around online betting delivers the second blow to Flutter in a major market in two years.",
-      "category": "Entertainment",
-      "image": "https://www.sportico.com/wp-content/uploads/2026/09/flutter-brazil.png?w=1024",
-      "source": "Sportico.com",
-      "sourceUrl": "https://www.sportico.com/business/sports-betting/2026/flutter-brazil-india-ban-stock-fanduel-1234945940/",
-      "publishedAt": "2026-09-28T19:47:48.000Z",
-      "fetchedAt": "2026-09-28T19:50:34.125Z",
-      "title_hi": "फैनडुएल के माता-पिता ब्रेक नहीं खरीद सकते",
-      "summary_hi": "ऑनलाइन सट्टेबाजी को लेकर ब्राज़ील की बुरी स्थिति ने फ़्लटर को एक प्रमुख बाज़ार में दो वर्षों में दूसरा झटका दिया है।",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "phainaduela ke mata-pita breka nahin kharida sakate",
-      "summary_hinglish": "ऑnalaina sattebaji ko lekara brajaीla ki buri sthiti ne phalatara ko eka pramukha bajaाra men do varshon men dusara jhataka diya hai।",
-      "category_hinglish": "Entertainment"
     },
     {
       "id": "23b384d13c862939",
@@ -52,6 +52,23 @@
       "summary_hinglish": "pashchimi chanparana men eka mahila kanstebala ko eka vidiyo men sivila kapadaोn men sarakara dvara jari hathiyara le jate hue dikhae jane ke bada nilanbita kara diya gaya। jancha men bihara pulisa ke soshala midiya niyamon ka ullanghana paya gay, jisake karana anushasanatmaka karyavahi ki gaee aura vyapaka chetavani di gaee।"
     },
     {
+      "id": "b87f56b694c07467",
+      "title": "FanDuel’s Parent Can’t Buy a Break",
+      "summary": "Brazil's about-face around online betting delivers the second blow to Flutter in a major market in two years.",
+      "category": "Entertainment",
+      "image": "https://www.sportico.com/wp-content/uploads/2026/09/flutter-brazil.png?w=1024",
+      "source": "Sportico.com",
+      "sourceUrl": "https://www.sportico.com/business/sports-betting/2026/flutter-brazil-india-ban-stock-fanduel-1234945940/",
+      "publishedAt": "2026-09-28T19:47:48.000Z",
+      "fetchedAt": "2026-09-28T19:50:34.125Z",
+      "title_hi": "फैनडुएल के माता-पिता ब्रेक नहीं खरीद सकते",
+      "summary_hi": "ऑनलाइन सट्टेबाजी को लेकर ब्राज़ील की बुरी स्थिति ने फ़्लटर को एक प्रमुख बाज़ार में दो वर्षों में दूसरा झटका दिया है।",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "phainaduela ke mata-pita breka nahin kharida sakate",
+      "summary_hinglish": "ऑnalaina sattebaji ko lekara brajaीla ki buri sthiti ne phalatara ko eka pramukha bajaाra men do varshon men dusara jhataka diya hai।",
+      "category_hinglish": "Entertainment"
+    },
+    {
       "id": "3d2c71eebedd4970",
       "title": "PTC India Financial Services Ltd Share Price Today NSE/BSE Charts",
       "summary": "PTC India Financial Services Ltd share price today, NSE/BSE updates, price charts, market cap, PE ratio, financials, news and key stock details on Alice Blue now",
@@ -61,25 +78,12 @@
       "sourceUrl": "https://aliceblueonline.com/investment/stocks/ptc-india-financial-services-ltd",
       "publishedAt": "2026-09-28T19:28:59.000Z",
       "fetchedAt": "2026-09-28T21:43:12.477Z",
-      "title_hi": "",
-      "summary_hi": "",
+      "title_hi": "पीटीसी इंडिया फाइनेंशियल सर्विसेज लिमिटेड शेयर मूल्य आज एनएसई/बीएसई चार्ट",
+      "summary_hi": "पीटीसी इंडिया फाइनेंशियल सर्विसेज लिमिटेड का शेयर मूल्य आज, एनएसई/बीएसई अपडेट, मूल्य चार्ट, मार्केट कैप, पीई अनुपात, वित्तीय, समाचार और ऐलिस ब्लू पर प्रमुख स्टॉक विवरण।",
       "category_hi": "बिज़नेस और फाइनेंस",
-      "category_hinglish": "Business aur Finance"
-    },
-    {
-      "id": "826aa011d3e81367",
-      "title": "US Adds Gangster Goldy Brar To FBI's Top 10 Most Wanted List, Offers $1 Million Bounty",
-      "summary": "The FBI said Brar is believed to live in California and parts of Canada and should be considered armed and dangerous.",
-      "category": "Crime & Breaking News",
-      "image": "https://images.news18.com/ibnlive/uploads/2026/09/fbi-2026-09-a65ef9531c3df315b1789215516a1fad-1200x675.jpg",
-      "source": "News18",
-      "sourceUrl": "https://www.news18.com/amp/world/us-adds-gangster-goldy-brar-to-fbis-top-10-most-wanted-list-offers-1-million-bounty-ws-l-10358112.html",
-      "publishedAt": "2026-09-28T19:28:32.000Z",
-      "fetchedAt": "2026-09-28T21:27:06.850Z",
-      "title_hi": "",
-      "summary_hi": "",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "category_hinglish": "Crime aur Breaking News"
+      "category_hinglish": "Business aur Finance",
+      "title_hinglish": "pitisi indiya phainenshiyala sarviseja limiteda sheyara mulya aaja enaesaee/biesaee charta",
+      "summary_hinglish": "pitisi indiya phainenshiyala sarviseja limiteda ka sheyara mulya aaj, enaesaee/biesaee apadet, mulya chart, marketa kaip, piee anupat, vittiy, samachara aura ailisa blu para pramukha stoka vivarana।"
     },
     {
       "id": "52f8be9b290ab20a",
@@ -97,6 +101,21 @@
       "title_hinglish": "bihara bijali vitarana 2030 taka dijitala aura smarta praudyogikiyon ko apanaeg: enabipidisiela emadi",
       "summary_hinglish": "patan: bharata 2030 taka eka aadhunik, dijitala aura smarta bijali vitarana pranali vikasita karane ke lie pratibaddha hai, enabipidisiela ke prabandha nideshaka rahula",
       "category_hinglish": "Technology"
+    },
+    {
+      "id": "826aa011d3e81367",
+      "title": "US Adds Gangster Goldy Brar To FBI's Top 10 Most Wanted List, Offers $1 Million Bounty",
+      "summary": "The FBI said Brar is believed to live in California and parts of Canada and should be considered armed and dangerous.",
+      "category": "Crime & Breaking News",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/09/fbi-2026-09-a65ef9531c3df315b1789215516a1fad-1200x675.jpg",
+      "source": "News18",
+      "sourceUrl": "https://www.news18.com/amp/world/us-adds-gangster-goldy-brar-to-fbis-top-10-most-wanted-list-offers-1-million-bounty-ws-l-10358112.html",
+      "publishedAt": "2026-09-28T19:28:32.000Z",
+      "fetchedAt": "2026-09-28T21:27:06.850Z",
+      "title_hi": "",
+      "summary_hi": "",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "category_hinglish": "Crime aur Breaking News"
     },
     {
       "id": "55d03ef187dfe49a",
@@ -133,21 +152,6 @@
       "summary_hinglish": "maithyu vanadaika aura chhaha yukreniyana para bharata se ladane vale sashastra jatiya samuhon ke lie hathiyaron aura drona ki taskari ka aaropa lagaya gaya tha।"
     },
     {
-      "id": "837c6a05e132b6d2",
-      "title": "FBI puts gangster Goldy Brar on Ten Most Wanted Fugitives list",
-      "summary": "Federal Bureau of Investigation (FBI) has officially placed notorious gangster Satinderjeet Singh aka Goldy Brar, on its famed Ten Most Wanted Fugitives list, offering a reward of up to $1 million for information leading to his arrest.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134549750,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/fbi-puts-gangster-goldy-brar-on-ten-most-wanted-fugitives-list/articleshow/134549606.cms",
-      "publishedAt": "2026-09-28T19:09:00.000Z",
-      "fetchedAt": "2026-09-28T22:44:10.692Z",
-      "title_hi": "",
-      "summary_hi": "",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "category_hinglish": "Crime aur Breaking News"
-    },
-    {
       "id": "4c6826da4d201796",
       "title": "Tanya Mishra, the Bihar-born model-actress fans are calling India's new 'national crush'",
       "summary": "Viral photographs have pushed the 27-year-old into the spotlight. She has modelled for Femina and Grazia, placed at a Miss India pageant and appeared in the web series Chidiya Udd.",
@@ -165,6 +169,23 @@
       "category_hinglish": "National aur Trending News"
     },
     {
+      "id": "837c6a05e132b6d2",
+      "title": "FBI puts gangster Goldy Brar on Ten Most Wanted Fugitives list",
+      "summary": "Federal Bureau of Investigation (FBI) has officially placed notorious gangster Satinderjeet Singh aka Goldy Brar, on its famed Ten Most Wanted Fugitives list, offering a reward of up to $1 million for information leading to his arrest.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134549750,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/fbi-puts-gangster-goldy-brar-on-ten-most-wanted-fugitives-list/articleshow/134549606.cms",
+      "publishedAt": "2026-09-28T19:09:00.000Z",
+      "fetchedAt": "2026-09-28T22:44:10.692Z",
+      "title_hi": "एफबीआई ने गैंगस्टर गोल्डी बरार को दस सर्वाधिक वांछित भगोड़ों की सूची में रखा",
+      "summary_hi": "संघीय जांच ब्यूरो (एफबीआई) ने आधिकारिक तौर पर कुख्यात गैंगस्टर सतिंदरजीत सिंह उर्फ गोल्डी बरार को अपनी प्रसिद्ध दस सर्वाधिक वांछित भगोड़ों की सूची में रखा है और उसकी गिरफ्तारी के लिए सूचना देने वाले को 1 मिलियन डॉलर तक का इनाम देने की पेशकश की है।",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "category_hinglish": "Crime aur Breaking News",
+      "title_hinglish": "ephabiaaee ne gaingastara goldi barara ko dasa sarvadhika vanchhita bhagodaोn ki suchi men rakha",
+      "summary_hinglish": "sanghiya jancha byuro (ephabiaaee) ne aadhikarika taura para kukhyata gaingastara satindarajita sinha urpha goldi barara ko apani prasiddha dasa sarvadhika vanchhita bhagodaोn ki suchi men rakha hai aura usaki giraphtari ke lie suchana dene vale ko 1 miliyana dolara taka ka inama dene ki peshakasha ki hai।"
+    },
+    {
       "id": "e9166dea13d21666",
       "title": "Fab Capital, a debt financing and capital solutions platform for Indian businesses, facilitated over ₹40 crore in monthly debt financing via its lender network, marking its growing footprint",
       "summary": "Hyderabad (Telangana) [India], September 28: Fab Capital helps diverse businesses, including Shark Tank India-featured companies, access debt capital for growth, working capital, and other needs. Unlike equity fundraising platforms, Fab Capital deals exclusively in debt, allowing businesses to raise capital without giving up ownership.",
@@ -178,6 +199,23 @@
       "summary_hi": "",
       "category_hi": "बिज़नेस और फाइनेंस",
       "category_hinglish": "Business aur Finance"
+    },
+    {
+      "id": "3e072af4993f48ce",
+      "title": "The Vvaan Box Office Collection: Sidharth Malhotra, Tamannaah Bhatias Film Mints Rs 33.25 Cr In Opening Weekend",
+      "summary": "The Vvaan starring Sidharth Malhotra and Tamannaah Bhatia earns Rs 33.25 crore in three days. The film has surpassed the lifetime collections of 26 films.",
+      "category": "Entertainment",
+      "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/28/5ce93e1466e1c5b8612b4d5f542296ae17905615596311090_original.png?impolicy=abp_cdn&imwidth=1200",
+      "source": "ABP Live English",
+      "sourceUrl": "https://news.abplive.com/entertainment/movies/the-vvaan-box-office-collection-day-3-sidharth-malhotra-tamannaah-bhatia-opening-weekend-1868637",
+      "publishedAt": "2026-09-28T02:13:47.000Z",
+      "fetchedAt": "2026-09-28T23:29:58.977Z",
+      "title_hi": "द वावान बॉक्स ऑफिस कलेक्शन: सिद्धार्थ मल्होत्रा, तमन्ना भाटिया की फिल्म ने शुरुआती सप्ताहांत में 33.25 करोड़ रुपये कमाए",
+      "summary_hi": "सिद्धार्थ मल्होत्रा और तमन्ना भाटिया अभिनीत द वावान ने तीन दिनों में 33.25 करोड़ रुपये कमाए। इस फिल्म ने 26 फिल्मों के लाइफटाइम कलेक्शन को पीछे छोड़ दिया है।",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "da vavana boksa ऑphisa kalekshan: siddhartha malhotr, tamanna bhatiya ki philma ne shuruaati saptahanta men 33.25 karoda rupaye kamae",
+      "summary_hinglish": "siddhartha malhotra aura tamanna bhatiya abhinita da vavana ne tina dinon men 33.25 karoda rupaye kamae। isa philma ne 26 philmon ke laiphataima kalekshana ko pichhe chhoda diya hai।",
+      "category_hinglish": "Entertainment"
     },
     {
       "id": "2404ea1494bd9fc3",
@@ -197,21 +235,6 @@
       "category_hinglish": "National aur Trending News"
     },
     {
-      "id": "5b8a95986db19279",
-      "title": "The Vvaan's Chhath scenes are winning Bihari hearts. Here's what feels so real",
-      "summary": "The Vvaan's Chhath Puja sequence has drawn strong emotional reactions from viewers online. Audiences say the rituals, visuals and Sharda Sinha's song make it feel personal and rooted.",
-      "category": "Entertainment",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/the-vvaan--chhath-puja-282146821-16x9_0.png?VersionId=E9w3I6gZvguvKa_mdkWMRtz..rG9VEs1",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/movies/bollywood/story/the-vvaan-chhath-puja-scenes-sharda-sinha-song-winning-bihari-hearts-3004629-2026-09-28",
-      "publishedAt": "2026-09-28T07:23:55.000Z",
-      "fetchedAt": "2026-09-28T23:13:43.237Z",
-      "title_hi": "",
-      "summary_hi": "",
-      "category_hi": "मनोरंजन",
-      "category_hinglish": "Entertainment"
-    },
-    {
       "id": "36c1af20963f2b50",
       "title": "Ahmedabad crime branch adds 2 new field units, 2 more in pipeline",
       "summary": "Ahmedabad city crime branch has expanded its field presence with launch of two new units and two more in the pipeline to strengthen surveillance and keep closer watch on criminals and antisocial elements.",
@@ -226,23 +249,6 @@
       "category_hi": "अपराध और ब्रेकिंग न्यूज़",
       "title_hinglish": "ahamadabada aparadha shakha ne 2 naee philda ikaiyan jodaीn, 2 aura paipalaina men hain",
       "summary_hinglish": "ahamadabada shahara ki aparadha shakha ne nigarani ko majabuta karane aura aparadhiyon aura asamajika tatvon para kadaी najara rakhane ke lie do naee ikaiyon ki shuruaata ke satha apani kshetriya upasthiti ka vistara kiya hai aura do aura paipalaina men hain।",
-      "category_hinglish": "Crime aur Breaking News"
-    },
-    {
-      "id": "e20bf996a6e15548",
-      "title": "BREAKING: FBI puts Goldy Brar, accused of ordering Hardeep Singh Nijjar's assassination, on its Ten Most Wanted list with a $1 million reward",
-      "summary": "LOS ANGELES — The Federal Bureau of Investigation on Monday added Satinderjeet Singh, known as “Goldy Brar,” to its Ten Most Wanted Fugitives list and announced a $1 million reward for information leading to his capture.",
-      "category": "Crime & Breaking News",
-      "image": "https://substackcdn.com/image/fetch/$s_!ZUtj!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1279f88a-2504-40f9-9cad-38325b88a2fa_422x400.png",
-      "source": "The Bureau | Sam Cooper | Substack",
-      "sourceUrl": "https://www.thebureau.news/p/breaking-fbi-puts-goldy-brar-accused",
-      "publishedAt": "2026-09-28T18:32:09.000Z",
-      "fetchedAt": "2026-09-28T18:42:57.427Z",
-      "title_hi": "ब्रेकिंग: हरदीप सिंह निज्जर की हत्या का आदेश देने के आरोपी गोल्डी बरार को एफबीआई ने 1 मिलियन डॉलर के इनाम के साथ अपनी दस मोस्ट वांटेड सूची में रखा है।",
-      "summary_hi": "लॉस एंजिल्स - संघीय जांच ब्यूरो ने सोमवार को \"गोल्डी बरार\" के नाम से जाने जाने वाले सतिंदरजीत सिंह को अपनी दस सर्वाधिक वांछित भगोड़ों की सूची में शामिल किया और उसे पकड़ने के लिए सूचना देने वाले को 1 मिलियन डॉलर का इनाम देने की घोषणा की।",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "breking: haradipa sinha nijjara ki hatya ka aadesha dene ke aaropi goldi barara ko ephabiaaee ne 1 miliyana dolara ke inama ke satha apani dasa mosta vanteda suchi men rakha hai।",
-      "summary_hinglish": "losa enjilsa - sanghiya jancha byuro ne somavara ko \"goldi barara\" ke nama se jane jane vale satindarajita sinha ko apani dasa sarvadhika vanchhita bhagodaोn ki suchi men shamila kiya aura use pakadane ke lie suchana dene vale ko 1 miliyana dolara ka inama dene ki ghoshana ki।",
       "category_hinglish": "Crime aur Breaking News"
     },
     {
@@ -261,6 +267,23 @@
       "title_hinglish": "rajya chaimpiyanashipa men 330 tirandaja pratispardha karate hain",
       "summary_hinglish": "tina divasiya raja karna bihara rajya tirandaji chainpiyanashipa 'lakshya' 2026 ravivara ko pataliputra sportsa kompleksa men shuru huee, jisamen pure bihara ke 330 tirandaja sammana ke lie pratispardha kara rahe the। khela vibhaga aura bihara rajya khela pradhikarana dvara aayojita isa chainpiyanashipa men 180 ladake aura 150 ladakiyan andara-10, andara-13, andara-15, saba-juniyar...",
       "category_hinglish": "Sports"
+    },
+    {
+      "id": "e20bf996a6e15548",
+      "title": "BREAKING: FBI puts Goldy Brar, accused of ordering Hardeep Singh Nijjar's assassination, on its Ten Most Wanted list with a $1 million reward",
+      "summary": "LOS ANGELES — The Federal Bureau of Investigation on Monday added Satinderjeet Singh, known as “Goldy Brar,” to its Ten Most Wanted Fugitives list and announced a $1 million reward for information leading to his capture.",
+      "category": "Crime & Breaking News",
+      "image": "https://substackcdn.com/image/fetch/$s_!ZUtj!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1279f88a-2504-40f9-9cad-38325b88a2fa_422x400.png",
+      "source": "The Bureau | Sam Cooper | Substack",
+      "sourceUrl": "https://www.thebureau.news/p/breaking-fbi-puts-goldy-brar-accused",
+      "publishedAt": "2026-09-28T18:32:09.000Z",
+      "fetchedAt": "2026-09-28T18:42:57.427Z",
+      "title_hi": "ब्रेकिंग: हरदीप सिंह निज्जर की हत्या का आदेश देने के आरोपी गोल्डी बरार को एफबीआई ने 1 मिलियन डॉलर के इनाम के साथ अपनी दस मोस्ट वांटेड सूची में रखा है।",
+      "summary_hi": "लॉस एंजिल्स - संघीय जांच ब्यूरो ने सोमवार को \"गोल्डी बरार\" के नाम से जाने जाने वाले सतिंदरजीत सिंह को अपनी दस सर्वाधिक वांछित भगोड़ों की सूची में शामिल किया और उसे पकड़ने के लिए सूचना देने वाले को 1 मिलियन डॉलर का इनाम देने की घोषणा की।",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "breking: haradipa sinha nijjara ki hatya ka aadesha dene ke aaropi goldi barara ko ephabiaaee ne 1 miliyana dolara ke inama ke satha apani dasa mosta vanteda suchi men rakha hai।",
+      "summary_hinglish": "losa enjilsa - sanghiya jancha byuro ne somavara ko \"goldi barara\" ke nama se jane jane vale satindarajita sinha ko apani dasa sarvadhika vanchhita bhagodaोn ki suchi men shamila kiya aura use pakadane ke lie suchana dene vale ko 1 miliyana dolara ka inama dene ki ghoshana ki।",
+      "category_hinglish": "Crime aur Breaking News"
     },
     {
       "id": "a7f1df23ef4a0300",
@@ -287,25 +310,12 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/operator-chairs-reshape-mid-cap-it-boardrooms/articleshow/134548809.cms",
       "publishedAt": "2026-09-28T18:09:00.000Z",
       "fetchedAt": "2026-09-28T21:09:52.902Z",
-      "title_hi": "",
-      "summary_hi": "",
+      "title_hi": "ऑपरेटर-चेयर मिड-कैप आईटी बोर्डरूम को नया आकार देते हैं",
+      "summary_hi": "भारत के मिड-कैप आईटी क्षेत्र में बोर्ड नेतृत्व में मंथन देखा जा रहा है, 2026 में कम से कम पांच अध्यक्ष-स्तर के बदलावों के साथ कंपनियां एक व्यवधान ट्राइफेक्टा को नेविगेट कर रही हैं - एआई सेवा मॉडल को फिर से आकार दे रहा है, पीई विकास और पैमाने पर जोर दे रहा है, और समेकन प्रतिस्पर्धी परिदृश्य को फिर से तैयार कर रहा है।",
       "category_hi": "टेक्नोलॉजी",
-      "category_hinglish": "Technology"
-    },
-    {
-      "id": "5f1ceb0887e637d6",
-      "title": "In 2006, Matt Damon started a water nonprofit after seeing a Zambian village struggle; 20 years later, hi",
-      "summary": "View this post on Instagram A post shared by Get Blue (@getblueforwater)",
-      "category": "Entertainment",
-      "image": "https://static.toiimg.com/thumb/msid-134500192,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-2006-matt-damon-started-a-water-nonprofit-after-seeing-a-zambian-village-struggle-20-years-later-his-mission-has-reached-more-than-92-million-people/articleshow/134499663.cms",
-      "publishedAt": "2026-09-28T17:55:00.000Z",
-      "fetchedAt": "2026-09-28T22:13:02.032Z",
-      "title_hi": "",
-      "summary_hi": "",
-      "category_hi": "मनोरंजन",
-      "category_hinglish": "Entertainment"
+      "category_hinglish": "Technology",
+      "title_hinglish": "ऑparetara-cheyara mida-kaipa aaeeti bordaruma ko naya aakara dete hain",
+      "summary_hinglish": "bharata ke mida-kaipa aaeeti kshetra men borda netritva men manthana dekha ja raha hai, 2026 men kama se kama pancha adhyaksha-stara ke badalavon ke satha kanpaniyan eka vyavadhana traiphekta ko nevigeta kara rahi hain - eaaee seva modala ko phira se aakara de raha hai, piee vikasa aura paimane para jora de raha hai, aura samekana pratispardhi paridrishya ko phira se taiyara kara raha hai।"
     },
     {
       "id": "feeef1c1c55ee87e",
@@ -325,6 +335,21 @@
       "category_hinglish": "Politics aur Government"
     },
     {
+      "id": "5f1ceb0887e637d6",
+      "title": "In 2006, Matt Damon started a water nonprofit after seeing a Zambian village struggle; 20 years later, hi",
+      "summary": "View this post on Instagram A post shared by Get Blue (@getblueforwater)",
+      "category": "Entertainment",
+      "image": "https://static.toiimg.com/thumb/msid-134500192,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-2006-matt-damon-started-a-water-nonprofit-after-seeing-a-zambian-village-struggle-20-years-later-his-mission-has-reached-more-than-92-million-people/articleshow/134499663.cms",
+      "publishedAt": "2026-09-28T17:55:00.000Z",
+      "fetchedAt": "2026-09-28T22:13:02.032Z",
+      "title_hi": "",
+      "summary_hi": "",
+      "category_hi": "मनोरंजन",
+      "category_hinglish": "Entertainment"
+    },
+    {
       "id": "87f850788f219b23",
       "title": "Shakira announces first global concert livestream. When and where to watch in India",
       "summary": "Shakira will livestream her Madrid concert worldwide on October 3 as her world tour nears its final leg. The free broadcast opens a personal tour chapter to a wider audience and anchors a larger programme celebrating women in Latin music.",
@@ -340,23 +365,6 @@
       "title_hinglish": "shakira ne pahale vaishvika konsarta laivastrima ki ghoshana ki। bharata men kaba aura kahan dekhana hai",
       "summary_hinglish": "shakira 3 aktubara ko duniya bhara men apane maidrida konsarta ka sidha prasarana karengi kyonki unaka vishva daura apane antima charana ke kariba hai। muphata prasarana vyapaka darshakon ke lie eka vyaktigata daure ka adhyaya kholata hai aura laitina sangita men mahilaon ka jashna manane vale eka badaे karyakrama ki mejabani karata hai।",
       "category_hinglish": "Entertainment"
-    },
-    {
-      "id": "1b1918778ba03e68",
-      "title": "Pickpockets target festive shoppers in Gariahat",
-      "summary": "An organised pickpocket gang, comprised of women, has allegedly become active in key retail corridors like Gariahat, targeting the crowd of puja shoppers. Kolkata Police has made extensive security arrangements and stepped up anti-crime vigilance to curb the wave of pickpocketing, burglaries, and thefts in major shopping hubs across south…",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134548468,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/kolkata/pickpockets-target-festive-shoppers-in-gariahat/articleshow/134548470.cms",
-      "publishedAt": "2026-09-28T17:42:00.000Z",
-      "fetchedAt": "2026-09-28T17:59:38.243Z",
-      "title_hi": "गरियाहाट में जेबकतरों ने त्योहारी खरीदारी करने वालों को निशाना बनाया",
-      "summary_hi": "महिलाओं से युक्त एक संगठित पॉकेटमार गिरोह कथित तौर पर गरियाहाट जैसे प्रमुख खुदरा गलियारों में सक्रिय हो गया है, जो पूजा खरीदने वालों की भीड़ को निशाना बना रहा है। कोलकाता पुलिस ने दक्षिण भर के प्रमुख शॉपिंग केंद्रों में जेबतराशी, सेंधमारी और चोरी की घटनाओं पर अंकुश लगाने के लिए व्यापक सुरक्षा व्यवस्था की है और अपराध-विरोधी सतर्कता बढ़ा दी है...",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "category_hinglish": "Crime aur Breaking News",
-      "title_hinglish": "gariyahata men jebakataron ne tyohari kharidari karane valon ko nishana banaya",
-      "summary_hinglish": "mahilaon se yukta eka sangathita poketamara giroha kathita taura para gariyahata jaise pramukha khudara galiyaron men sakriya ho gaya hai, jo puja kharidane valon ki bhida ko nishana bana raha hai। kolakata pulisa ne dakshina bhara ke pramukha shopinga kendron men jebatarashi, sendhamari aura chori ki ghatanaon para ankusha lagane ke lie vyapaka suraksha vyavastha ki hai aura aparadha-virodhi satarkata badhaा di hai..."
     },
     {
       "id": "4911f7e5a341b5b9",
@@ -376,6 +384,23 @@
       "category_hinglish": "Crime aur Breaking News"
     },
     {
+      "id": "1b1918778ba03e68",
+      "title": "Pickpockets target festive shoppers in Gariahat",
+      "summary": "An organised pickpocket gang, comprised of women, has allegedly become active in key retail corridors like Gariahat, targeting the crowd of puja shoppers. Kolkata Police has made extensive security arrangements and stepped up anti-crime vigilance to curb the wave of pickpocketing, burglaries, and thefts in major shopping hubs across south…",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134548468,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/kolkata/pickpockets-target-festive-shoppers-in-gariahat/articleshow/134548470.cms",
+      "publishedAt": "2026-09-28T17:42:00.000Z",
+      "fetchedAt": "2026-09-28T17:59:38.243Z",
+      "title_hi": "गरियाहाट में जेबकतरों ने त्योहारी खरीदारी करने वालों को निशाना बनाया",
+      "summary_hi": "महिलाओं से युक्त एक संगठित पॉकेटमार गिरोह कथित तौर पर गरियाहाट जैसे प्रमुख खुदरा गलियारों में सक्रिय हो गया है, जो पूजा खरीदने वालों की भीड़ को निशाना बना रहा है। कोलकाता पुलिस ने दक्षिण भर के प्रमुख शॉपिंग केंद्रों में जेबतराशी, सेंधमारी और चोरी की घटनाओं पर अंकुश लगाने के लिए व्यापक सुरक्षा व्यवस्था की है और अपराध-विरोधी सतर्कता बढ़ा दी है...",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "category_hinglish": "Crime aur Breaking News",
+      "title_hinglish": "gariyahata men jebakataron ne tyohari kharidari karane valon ko nishana banaya",
+      "summary_hinglish": "mahilaon se yukta eka sangathita poketamara giroha kathita taura para gariyahata jaise pramukha khudara galiyaron men sakriya ho gaya hai, jo puja kharidane valon ki bhida ko nishana bana raha hai। kolakata pulisa ne dakshina bhara ke pramukha shopinga kendron men jebatarashi, sendhamari aura chori ki ghatanaon para ankusha lagane ke lie vyapaka suraksha vyavastha ki hai aura aparadha-virodhi satarkata badhaा di hai..."
+    },
+    {
       "id": "00c04d563e046277",
       "title": "HC relief for man denied constable job over criminal trial",
       "summary": "In an interim relief to a person denied posting as a police constable owing to criminal antecedent, Madhya Pradesh high court on Monday directed the police department to keep one constable’s post vacant till the final disposal of his petition.",
@@ -390,6 +415,23 @@
       "category_hi": "अपराध और ब्रेकिंग न्यूज़",
       "title_hinglish": "aaparadhika mukadame ke karana kanstebala ki naukari se vanchita vyakti ko uchcha nyayalaya se rahata",
       "summary_hinglish": "aaparadhika prishthabhumi ke karana pulisa kanstebala ke rupa men niyukti se vanchita eka vyakti ko antarima rahata dete hue, madhya pradesha uchcha nyayalaya ne somavara ko pulisa vibhaga ko usaki yachika ke antima nipatana taka eka kanstebala ka pada khali rakhane ka nirdesha diya।",
+      "category_hinglish": "Crime aur Breaking News"
+    },
+    {
+      "id": "03943fafde680d0a",
+      "title": "Samrat: Bihar, Centre to coordinate on cross-border crimes along Nepal border",
+      "summary": "Bihar govt and Centre will work in close coordination to curb infiltration, counterfeit currency, drug trafficking and other cross-border crimes along the sensitive India-Nepal border, CM Samrat Choudhary said here on Saturday after chairing a comprehensive high-level review meeting at the ‘Samvad’ hall in the Chief Minister’s Secretariat.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134507867,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/patna/samrat-bihar-centre-to-coordinate-on-cross-border-crimes-along-nepal-border/articleshow/134507868.cms",
+      "publishedAt": "2026-09-26T16:54:00.000Z",
+      "fetchedAt": "2026-09-26T17:15:41.433Z",
+      "title_hi": "सम्राट: बिहार, केंद्र नेपाल सीमा पर सीमा पार अपराधों पर समन्वय करें",
+      "summary_hi": "मुख्यमंत्री सम्राट चौधरी ने शनिवार को मुख्यमंत्री सचिवालय के 'संवाद' हॉल में एक व्यापक उच्च स्तरीय समीक्षा बैठक की अध्यक्षता करने के बाद कहा कि संवेदनशील भारत-नेपाल सीमा पर घुसपैठ, जाली मुद्रा, मादक पदार्थों की तस्करी और अन्य सीमा पार अपराधों को रोकने के लिए बिहार सरकार और केंद्र निकट समन्वय में काम करेंगे।",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "samrat: bihar, kendra nepala sima para sima para aparadhon para samanvaya karen",
+      "summary_hinglish": "mukhyamantri samrata chaudhari ne shanivara ko mukhyamantri sachivalaya ke 'sanvada' hola men eka vyapaka uchcha stariya samiksha baithaka ki adhyakshata karane ke bada kaha ki sanvedanashila bharata-nepala sima para ghusapaith, jali mudr, madaka padarthon ki taskari aura anya sima para aparadhon ko rokane ke lie bihara sarakara aura kendra nikata samanvaya men kama karenge।",
       "category_hinglish": "Crime aur Breaking News"
     },
     {
@@ -408,23 +450,6 @@
       "title_hinglish": "rusa ki dienae teknoloji ki najara bharata ikaee ke lie yupi medikala parka para hai | adhika janane ke lie taipa karen | inashortsa",
       "summary_hinglish": "rusi pharma dienae teknoloji uttara pradesha men noeda antarrashtriya havaee adde ke pasa 350 ekada ke medikala divaisa parka men apani pahali videshi vinirmana ikaee sthapita karane ke lie unnata batachita kara rahi hai। yaha suvidha meka ina indiya ke tahata naidanika ​​upakarana aura abhikarmakon ka utpadana karegi। kanpani ne investa yupi ke satha charcha shuru kara di hai aura…",
       "category_hinglish": "Technology"
-    },
-    {
-      "id": "03943fafde680d0a",
-      "title": "Samrat: Bihar, Centre to coordinate on cross-border crimes along Nepal border",
-      "summary": "Bihar govt and Centre will work in close coordination to curb infiltration, counterfeit currency, drug trafficking and other cross-border crimes along the sensitive India-Nepal border, CM Samrat Choudhary said here on Saturday after chairing a comprehensive high-level review meeting at the ‘Samvad’ hall in the Chief Minister’s Secretariat.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134507867,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/patna/samrat-bihar-centre-to-coordinate-on-cross-border-crimes-along-nepal-border/articleshow/134507868.cms",
-      "publishedAt": "2026-09-26T16:54:00.000Z",
-      "fetchedAt": "2026-09-26T17:15:41.433Z",
-      "title_hi": "सम्राट: बिहार, केंद्र नेपाल सीमा पर सीमा पार अपराधों पर समन्वय करें",
-      "summary_hi": "मुख्यमंत्री सम्राट चौधरी ने शनिवार को मुख्यमंत्री सचिवालय के 'संवाद' हॉल में एक व्यापक उच्च स्तरीय समीक्षा बैठक की अध्यक्षता करने के बाद कहा कि संवेदनशील भारत-नेपाल सीमा पर घुसपैठ, जाली मुद्रा, मादक पदार्थों की तस्करी और अन्य सीमा पार अपराधों को रोकने के लिए बिहार सरकार और केंद्र निकट समन्वय में काम करेंगे।",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "samrat: bihar, kendra nepala sima para sima para aparadhon para samanvaya karen",
-      "summary_hinglish": "mukhyamantri samrata chaudhari ne shanivara ko mukhyamantri sachivalaya ke 'sanvada' hola men eka vyapaka uchcha stariya samiksha baithaka ki adhyakshata karane ke bada kaha ki sanvedanashila bharata-nepala sima para ghusapaith, jali mudr, madaka padarthon ki taskari aura anya sima para aparadhon ko rokane ke lie bihara sarakara aura kendra nikata samanvaya men kama karenge।",
-      "category_hinglish": "Crime aur Breaking News"
     },
     {
       "id": "58d27f9cc1d2eedb",
@@ -461,23 +486,6 @@
       "category_hinglish": "National aur Trending News"
     },
     {
-      "id": "bbded6e833947080",
-      "title": "'SP, Congress ki Lanka jalaoge?' UP minister's remarks to new govt recruits spark row",
-      "summary": "Uttar Pradesh minister Om Prakash Rajbhar's remarks asking newly appointed government officials to help \"burn the Lanka\" of the Samajwadi Party (SP) and Congress at a government programme on Monday sparked a political row, with the opposition accusing him of misusing a government platform to target rivals.",
-      "category": "Politics & Government",
-      "image": "https://static.toiimg.com/thumb/msid-134547515,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/sp-congress-ki-lanka-jalaoge-up-ministers-remarks-to-new-govt-recruits-spark-row/articleshow/134547323.cms",
-      "publishedAt": "2026-09-28T16:57:00.000Z",
-      "fetchedAt": "2026-09-28T17:10:36.365Z",
-      "title_hi": "'सपा, कांग्रेस की लंका जलाओगे?' नई सरकारी भर्तियों पर यूपी के मंत्री की टिप्पणी से विवाद छिड़ गया",
-      "summary_hi": "उत्तर प्रदेश के मंत्री ओम प्रकाश राजभर की टिप्पणी ने सोमवार को एक सरकारी कार्यक्रम में नवनियुक्त सरकारी अधिकारियों से समाजवादी पार्टी (सपा) और कांग्रेस की \"लंका को जलाने\" में मदद करने के लिए कहा, जिससे राजनीतिक विवाद पैदा हो गया, विपक्ष ने उन पर प्रतिद्वंद्वियों को निशाना बनाने के लिए सरकारी मंच का दुरुपयोग करने का आरोप लगाया।",
-      "category_hi": "राजनीति और सरकार",
-      "title_hinglish": "'sap, kangresa ki lanka jalaoge?' naee sarakari bhartiyon para yupi ke mantri ki tippani se vivada chhida gaya",
-      "summary_hinglish": "uttara pradesha ke mantri oma prakasha rajabhara ki tippani ne somavara ko eka sarakari karyakrama men navaniyukta sarakari adhikariyon se samajavadi parti (sapa) aura kangresa ki \"lanka ko jalane\" men madada karane ke lie kah, jisase rajanitika vivada paida ho gay, vipaksha ne una para pratidvandviyon ko nishana banane ke lie sarakari mancha ka durupayoga karane ka aaropa lagaya।",
-      "category_hinglish": "Politics aur Government"
-    },
-    {
       "id": "5e8713d098d8808b",
       "title": "Bihar Prepares For 2030 Women’s Hockey World Cup, Rajgir Set To Host Global Stars",
       "summary": "Patna: Bihar has stepped up preparations to host the 2030 FIH Women’s Hockey World Cup in Rajgir, with Sports Minister",
@@ -493,6 +501,23 @@
       "title_hinglish": "bihara 2030 mahila hoki vishva kapa ki taiyari kara raha hai, rajagira vaishvika sitaron ki mejabani ke lie taiyara hai",
       "summary_hinglish": "patan: khela mantri ke satha bihara ne rajagira men 2030 FIH mahila hoki vishva kapa ki mejabani ki taiyari teja kara di hai.",
       "category_hinglish": "Sports"
+    },
+    {
+      "id": "bbded6e833947080",
+      "title": "'SP, Congress ki Lanka jalaoge?' UP minister's remarks to new govt recruits spark row",
+      "summary": "Uttar Pradesh minister Om Prakash Rajbhar's remarks asking newly appointed government officials to help \"burn the Lanka\" of the Samajwadi Party (SP) and Congress at a government programme on Monday sparked a political row, with the opposition accusing him of misusing a government platform to target rivals.",
+      "category": "Politics & Government",
+      "image": "https://static.toiimg.com/thumb/msid-134547515,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/sp-congress-ki-lanka-jalaoge-up-ministers-remarks-to-new-govt-recruits-spark-row/articleshow/134547323.cms",
+      "publishedAt": "2026-09-28T16:57:00.000Z",
+      "fetchedAt": "2026-09-28T17:10:36.365Z",
+      "title_hi": "'सपा, कांग्रेस की लंका जलाओगे?' नई सरकारी भर्तियों पर यूपी के मंत्री की टिप्पणी से विवाद छिड़ गया",
+      "summary_hi": "उत्तर प्रदेश के मंत्री ओम प्रकाश राजभर की टिप्पणी ने सोमवार को एक सरकारी कार्यक्रम में नवनियुक्त सरकारी अधिकारियों से समाजवादी पार्टी (सपा) और कांग्रेस की \"लंका को जलाने\" में मदद करने के लिए कहा, जिससे राजनीतिक विवाद पैदा हो गया, विपक्ष ने उन पर प्रतिद्वंद्वियों को निशाना बनाने के लिए सरकारी मंच का दुरुपयोग करने का आरोप लगाया।",
+      "category_hi": "राजनीति और सरकार",
+      "title_hinglish": "'sap, kangresa ki lanka jalaoge?' naee sarakari bhartiyon para yupi ke mantri ki tippani se vivada chhida gaya",
+      "summary_hinglish": "uttara pradesha ke mantri oma prakasha rajabhara ki tippani ne somavara ko eka sarakari karyakrama men navaniyukta sarakari adhikariyon se samajavadi parti (sapa) aura kangresa ki \"lanka ko jalane\" men madada karane ke lie kah, jisase rajanitika vivada paida ho gay, vipaksha ne una para pratidvandviyon ko nishana banane ke lie sarakari mancha ka durupayoga karane ka aaropa lagaya।",
+      "category_hinglish": "Politics aur Government"
     },
     {
       "id": "afbd6c93e83b8260",
@@ -512,23 +537,6 @@
       "category_hinglish": "Business aur Finance"
     },
     {
-      "id": "b1abf99498f338e5",
-      "title": "Ankur Rathee, Kareena Kapoor lead this week’s 'IMDb's Trending People In India' list",
-      "summary": "The ‘IMDb Trending People in India’ list this week puts the spotlight on actors and filmmakers who are trending among fans with their recent releases.Ankur Rathee of ‘Best of the Best’ leads the...",
-      "category": "Entertainment",
-      "image": "https://www.millenniumpost.in/h-upload/2026/09/28/1059017-kareena-kapoor-khan-1.jpg",
-      "source": "MillenniumPost",
-      "sourceUrl": "https://www.millenniumpost.in/entertainment/ankur-rathee-kareena-kapoor-lead-this-weeks-imdbs-trending-people-in-india-list-677706",
-      "publishedAt": "2026-09-28T16:47:31.000Z",
-      "fetchedAt": "2026-09-28T17:29:32.045Z",
-      "title_hi": "अंकुर राठी, करीना कपूर इस सप्ताह की 'आईएमडीबी की ट्रेंडिंग पीपल इन इंडिया' सूची में सबसे आगे हैं",
-      "summary_hi": "इस सप्ताह 'आईएमडीबी ट्रेंडिंग पीपल इन इंडिया' सूची उन अभिनेताओं और फिल्म निर्माताओं पर प्रकाश डालती है जो अपनी हालिया रिलीज के साथ प्रशंसकों के बीच ट्रेंड कर रहे हैं। 'बेस्ट ऑफ द बेस्ट' के अंकुर राठी सबसे आगे हैं...",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "ankura rathi, karina kapura isa saptaha ki 'aaeeemadibi ki trendinga pipala ina indiya' suchi men sabase aage hain",
-      "summary_hinglish": "isa saptaha 'aaeeemadibi trendinga pipala ina indiya' suchi una abhinetaon aura philma nirmataon para prakasha dalati hai jo apani haliya rilija ke satha prashansakon ke bicha trenda kara rahe hain। 'besta ऑpha da besta' ke ankura rathi sabase aage hain...",
-      "category_hinglish": "Entertainment"
-    },
-    {
       "id": "55d29fb029ceb324",
       "title": "Bigg Boss 20: Mahhi Vij questions Isha Rikhi’s remarks after Qazi Touqeer clash mentions Badshah, 'Kaun sa tr",
       "summary": "Mahhi Vij has weighed in on the latest Bigg Boss 20 controversy after Isha Rikhi spoke about her experience following her heated interaction with Qazi Touqeer.",
@@ -543,6 +551,23 @@
       "category_hi": "मनोरंजन",
       "title_hinglish": "biga bosa 20: kaji taukira ki jhadapa ke bada mahi vija ne eesha rikhi ki tippani para savala uthae, jisamen badashaha ka jikra th, 'kauna sa tra'",
       "summary_hinglish": "eesha rikhi dvara kaji taukira ke satha tikhi batachita ke bada apane anubhava ke bare men bata karane ke bada mahi vija ne navinatama biga bosa 20 vivada para jora diya hai।",
+      "category_hinglish": "Entertainment"
+    },
+    {
+      "id": "b1abf99498f338e5",
+      "title": "Ankur Rathee, Kareena Kapoor lead this week’s 'IMDb's Trending People In India' list",
+      "summary": "The ‘IMDb Trending People in India’ list this week puts the spotlight on actors and filmmakers who are trending among fans with their recent releases.Ankur Rathee of ‘Best of the Best’ leads the...",
+      "category": "Entertainment",
+      "image": "https://www.millenniumpost.in/h-upload/2026/09/28/1059017-kareena-kapoor-khan-1.jpg",
+      "source": "MillenniumPost",
+      "sourceUrl": "https://www.millenniumpost.in/entertainment/ankur-rathee-kareena-kapoor-lead-this-weeks-imdbs-trending-people-in-india-list-677706",
+      "publishedAt": "2026-09-28T16:47:31.000Z",
+      "fetchedAt": "2026-09-28T17:29:32.045Z",
+      "title_hi": "अंकुर राठी, करीना कपूर इस सप्ताह की 'आईएमडीबी की ट्रेंडिंग पीपल इन इंडिया' सूची में सबसे आगे हैं",
+      "summary_hi": "इस सप्ताह 'आईएमडीबी ट्रेंडिंग पीपल इन इंडिया' सूची उन अभिनेताओं और फिल्म निर्माताओं पर प्रकाश डालती है जो अपनी हालिया रिलीज के साथ प्रशंसकों के बीच ट्रेंड कर रहे हैं। 'बेस्ट ऑफ द बेस्ट' के अंकुर राठी सबसे आगे हैं...",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "ankura rathi, karina kapura isa saptaha ki 'aaeeemadibi ki trendinga pipala ina indiya' suchi men sabase aage hain",
+      "summary_hinglish": "isa saptaha 'aaeeemadibi trendinga pipala ina indiya' suchi una abhinetaon aura philma nirmataon para prakasha dalati hai jo apani haliya rilija ke satha prashansakon ke bicha trenda kara rahe hain। 'besta ऑpha da besta' ke ankura rathi sabase aage hain...",
       "category_hinglish": "Entertainment"
     },
     {
@@ -563,21 +588,6 @@
       "category_hinglish": "Sports"
     },
     {
-      "id": "f0a8e399f94b8f2b",
-      "title": "Asian Games 2026: India medal tally and winners list - full table",
-      "summary": "Know list of India winners at the Asian Games 2026. Know medal tally and how many medals Indian athletes have won in each sport. Full table.",
-      "category": "Sports",
-      "image": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/v1790073400/primary/bu9ggjnikynkr9xbdl7g",
-      "source": "olympics.com",
-      "sourceUrl": "https://www.olympics.com/en/news/asian-games-2026-medal-tally-india-winners-table-list",
-      "publishedAt": "2026-09-28T15:57:00.000Z",
-      "fetchedAt": "2026-09-28T23:13:25.009Z",
-      "title_hi": "",
-      "summary_hi": "",
-      "category_hi": "खेल",
-      "category_hinglish": "Sports"
-    },
-    {
       "id": "0fd2b8e1e638217a",
       "title": "After Bankipur win, Prashant Kishor's party weighs Delhi expansion | India News",
       "summary": "Supporters of Jan Suraaj in the national capital have been pressing for the party to establish a presence in Delhi.",
@@ -593,6 +603,23 @@
       "title_hinglish": "bankipura jita ke bada prashanta kishora ki parti dilli vistara para vichara kara rahi hai | bharata samachara",
       "summary_hinglish": "rashtriya rajadhani men jana suraja ke samarthaka parti para dilli men upasthiti sthapita karane ke lie dabava dala rahe hain।",
       "category_hinglish": "Politics aur Government"
+    },
+    {
+      "id": "f0a8e399f94b8f2b",
+      "title": "Asian Games 2026: India medal tally and winners list - full table",
+      "summary": "Know list of India winners at the Asian Games 2026. Know medal tally and how many medals Indian athletes have won in each sport. Full table.",
+      "category": "Sports",
+      "image": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/v1790073400/primary/bu9ggjnikynkr9xbdl7g",
+      "source": "olympics.com",
+      "sourceUrl": "https://www.olympics.com/en/news/asian-games-2026-medal-tally-india-winners-table-list",
+      "publishedAt": "2026-09-28T15:57:00.000Z",
+      "fetchedAt": "2026-09-28T23:29:41.272Z",
+      "title_hi": "एशियाई खेल 2026: भारत की पदक तालिका और विजेताओं की सूची - पूरी तालिका",
+      "summary_hi": "एशियाई खेल 2026 में भारत के विजेताओं की सूची जानें। पदक तालिका जानें और भारतीय एथलीटों ने प्रत्येक खेल में कितने पदक जीते हैं। पूरी मेज.",
+      "category_hi": "खेल",
+      "title_hinglish": "eshiyaee khela 2026: bharata ki padaka talika aura vijetaon ki suchi - puri talika",
+      "summary_hinglish": "eshiyaee khela 2026 men bharata ke vijetaon ki suchi janen। padaka talika janen aura bharatiya ethaliton ne pratyeka khela men kitane padaka jite hain। puri mej.",
+      "category_hinglish": "Sports"
     },
     {
       "id": "b3e2b215998c0679",
@@ -629,23 +656,6 @@
       "category_hinglish": "Sports"
     },
     {
-      "id": "14af60cb46c0dd0f",
-      "title": "With God by her side, Vithya breaks oldest Indian athletics record to win bronze",
-      "summary": "NAGOYA: HER initial target to break the women's 400m hurdles national record -- the country's longest-standing and one of its most famous athletics records -- w",
-      "category": "Sports",
-      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-09-28%2Fcv1npf71%2FVithya.JPG?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "source": "The New Indian Express",
-      "sourceUrl": "https://www.newindianexpress.com/sport/sports-news/2026/Sep/28/with-god-by-her-side-vithya-breaks-oldest-indian-athletics-record-to-win-bronze",
-      "publishedAt": "2026-09-28T15:15:01.000Z",
-      "fetchedAt": "2026-09-28T17:46:50.427Z",
-      "title_hi": "ईश्वर के साथ, विथ्या ने कांस्य पदक जीतने का सबसे पुराना भारतीय एथलेटिक्स रिकॉर्ड तोड़ दिया",
-      "summary_hi": "नागोया: उनका प्रारंभिक लक्ष्य महिलाओं की 400 मीटर बाधा दौड़ के राष्ट्रीय रिकॉर्ड को तोड़ना है - जो देश का सबसे लंबे समय तक चलने वाला और सबसे प्रसिद्ध एथलेटिक्स रिकॉर्ड में से एक है।",
-      "category_hi": "खेल",
-      "title_hinglish": "eeshvara ke sath, vithya ne kansya padaka jitane ka sabase purana bharatiya ethaletiksa rikorda toda diya",
-      "summary_hinglish": "nagoy: unaka praranbhika lakshya mahilaon ki 400 mitara badha dauda ke rashtriya rikorda ko todana hai - jo desha ka sabase lanbe samaya taka chalane vala aura sabase prasiddha ethaletiksa rikorda men se eka hai।",
-      "category_hinglish": "Sports"
-    },
-    {
       "id": "b2cee53f8a5cf9b2",
       "title": "Kriti Sanon shares cryptic Instagram post amid Jamui harassment and Delhi rape case: ‘It’s women vs patriarch",
       "summary": "Kriti Sanon’s latest Instagram activity has caught attention amid the ongoing discussion around the Jamui harassment case. Here’s what the actress shared and why it has sparked conversation.",
@@ -663,6 +673,23 @@
       "category_hinglish": "Entertainment"
     },
     {
+      "id": "14af60cb46c0dd0f",
+      "title": "With God by her side, Vithya breaks oldest Indian athletics record to win bronze",
+      "summary": "NAGOYA: HER initial target to break the women's 400m hurdles national record -- the country's longest-standing and one of its most famous athletics records -- w",
+      "category": "Sports",
+      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-09-28%2Fcv1npf71%2FVithya.JPG?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "The New Indian Express",
+      "sourceUrl": "https://www.newindianexpress.com/sport/sports-news/2026/Sep/28/with-god-by-her-side-vithya-breaks-oldest-indian-athletics-record-to-win-bronze",
+      "publishedAt": "2026-09-28T15:15:01.000Z",
+      "fetchedAt": "2026-09-28T17:46:50.427Z",
+      "title_hi": "ईश्वर के साथ, विथ्या ने कांस्य पदक जीतने का सबसे पुराना भारतीय एथलेटिक्स रिकॉर्ड तोड़ दिया",
+      "summary_hi": "नागोया: उनका प्रारंभिक लक्ष्य महिलाओं की 400 मीटर बाधा दौड़ के राष्ट्रीय रिकॉर्ड को तोड़ना है - जो देश का सबसे लंबे समय तक चलने वाला और सबसे प्रसिद्ध एथलेटिक्स रिकॉर्ड में से एक है।",
+      "category_hi": "खेल",
+      "title_hinglish": "eeshvara ke sath, vithya ne kansya padaka jitane ka sabase purana bharatiya ethaletiksa rikorda toda diya",
+      "summary_hinglish": "nagoy: unaka praranbhika lakshya mahilaon ki 400 mitara badha dauda ke rashtriya rikorda ko todana hai - jo desha ka sabase lanbe samaya taka chalane vala aura sabase prasiddha ethaletiksa rikorda men se eka hai।",
+      "category_hinglish": "Sports"
+    },
+    {
       "id": "757a4ad1f54a89e8",
       "title": "The Paradise Box Office Collection Day 5: Nani's Film Nears Rs 100 Crore In India After Strong Weekend",
       "summary": "The Paradise sees a Monday drop after a strong weekend, but Nani's film remains close to crossing a major box office milestone in India.",
@@ -678,23 +705,6 @@
       "category_hinglish": "Entertainment",
       "title_hinglish": "da pairadaija boksa ऑphisa kalekshana dina 5: majabuta saptahanta ke bada nani ki philma bharata men 100 karoda rupaye ke kariba",
       "summary_hinglish": "majabuta saptahanta ke bada somavara ko da pairadaija men giravata dekhi gaee, lekina nani ki philma bharata men boksa ऑphisa para eka badaी upalabdhi hasila karane ke kariba hai।"
-    },
-    {
-      "id": "4853af16c12a0c61",
-      "title": "Home Minister Amit Shah calls for tech-driven counter-terror response under PRAHAAR strategy",
-      "summary": "NEW DELHI: Union Home Minister Amit Shah on Monday launched a new ‘Extradition Portal’ to streamline and speed up efforts to bring fugitives back to India, whil",
-      "category": "Technology",
-      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-09-28%2Fq2hi2bfc%2FANI_20250726032532.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "source": "The New Indian Express",
-      "sourceUrl": "https://www.newindianexpress.com/india/2026/Sep/28/home-minister-amit-shah-calls-for-tech-driven-counter-terror-response-under-prahaar-strategy",
-      "publishedAt": "2026-09-28T14:56:14.000Z",
-      "fetchedAt": "2026-09-28T15:23:04.697Z",
-      "title_hi": "गृह मंत्री अमित शाह ने प्रहार रणनीति के तहत तकनीक-संचालित आतंकवाद विरोधी प्रतिक्रिया का आह्वान किया",
-      "summary_hi": "नई दिल्ली: केंद्रीय गृह मंत्री अमित शाह ने भगोड़ों को भारत वापस लाने के प्रयासों को सुव्यवस्थित और तेज करने के लिए सोमवार को एक नया 'प्रत्यर्पण पोर्टल' लॉन्च किया।",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "griha mantri amita shaha ne prahara rananiti ke tahata takanika-sanchalita aatankavada virodhi pratikriya ka aahvana kiya",
-      "summary_hinglish": "naee dilli: kendriya griha mantri amita shaha ne bhagodaोn ko bharata vapasa lane ke prayason ko suvyavasthita aura teja karane ke lie somavara ko eka naya 'pratyarpana portala' loncha kiya।",
-      "category_hinglish": "Technology"
     },
     {
       "id": "75f8a86af71d4e53",
