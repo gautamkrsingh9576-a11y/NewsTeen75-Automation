@@ -1,7 +1,24 @@
 {
-  "updatedAt": "2026-09-28T08:44:35.587Z",
-  "count": 47,
+  "updatedAt": "2026-09-28T08:59:46.945Z",
+  "count": 50,
   "articles": [
+    {
+      "id": "8923781a943eb639",
+      "title": "Watch: VB SenseGuard on Building Technology for Earlier Support",
+      "summary": "The official communications channel of Samsung Electronics, providing all the latest stories regarding the company's products, people and businesses.",
+      "category": "Technology",
+      "image": "https://img.global.news.samsung.com/in/wp-content/uploads/2026/09/17151124/2-VB-SenseGuard_Delhi-1.jpg",
+      "source": "Samsung Global Newsroom",
+      "sourceUrl": "https://news.samsung.com/in/watch-vb-senseguard-on-building-technology-for-earlier-support",
+      "publishedAt": "2026-09-28T08:31:34.000Z",
+      "fetchedAt": "2026-09-28T08:59:28.502Z",
+      "title_hi": "देखें: शुरुआती सहायता के लिए बिल्डिंग टेक्नोलॉजी पर वीबी सेंसगार्ड",
+      "summary_hi": "सैमसंग इलेक्ट्रॉनिक्स का आधिकारिक संचार चैनल, कंपनी के उत्पादों, लोगों और व्यवसायों के बारे में सभी नवीनतम कहानियाँ प्रदान करता है।",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "dekhen: shuruaati sahayata ke lie bildinga teknoloji para vibi sensagarda",
+      "summary_hinglish": "saimasanga ilektroniksa ka aadhikarika sanchara chainal, kanpani ke utpadon, logon aura vyavasayon ke bare men sabhi navinatama kahaniyan pradana karata hai।",
+      "category_hinglish": "Technology"
+    },
     {
       "id": "0bdcb2201ab0ba5a",
       "title": "Keystone To Launch India Business With Bengaluru As First Hub, Plans To Hire Talent & Increase Workforce Over Next Two Years",
@@ -20,6 +37,21 @@
       "category_hinglish": "Technology"
     },
     {
+      "id": "f5ec97f7d9a0efa3",
+      "title": "Who is Tanya Mishra? All about Bihar-born model-actress fans are calling the new ‘National Crush of India",
+      "summary": "Tanya Mishra, also known as Tanyaa Mishra, has recently been attracting considerable attention on social media, with fans increasingly referring to her as the new ‘National Crush of India’. While her online popularity has grown rapidly, the model and actress has already been building a career across television, films, web…",
+      "category": "National & Trending News",
+      "image": "https://static.toiimg.com/thumb/msid-134537024,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "timesofindia.indiatimes.com",
+      "sourceUrl": "https://timesofindia.indiatimes.com/web-series/news/hindi/who-is-tanya-mishra-all-about-bihar-born-model-actress-fans-are-calling-the-new-national-crush-of-india/articleshow/134536983.cms",
+      "publishedAt": "2026-09-28T08:45:00.000Z",
+      "fetchedAt": "2026-09-28T08:59:34.619Z",
+      "title_hi": "",
+      "summary_hi": "",
+      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
+      "category_hinglish": "National aur Trending News"
+    },
+    {
       "id": "2ce217b99d433fd2",
       "title": "Adnan Sami reacts to Latent joke on Ayushmann's Pakistani spy-turned-Indian patriot",
       "summary": "Ayushmann Khurrana described Udta Teer on India's Got Latent when Kullu cut in with an Adnan Sami reference. The quip drew laughter and underlined the film's identity-swap premise.",
@@ -29,27 +61,12 @@
       "sourceUrl": "https://www.indiatoday.in/entertainment/ott/story/ayushmann-khurrana-indias-got-latent-kullu-adnan-sami-joke-udta-teer-samay-raina-3004644-2026-09-28",
       "publishedAt": "2026-09-28T08:24:52.000Z",
       "fetchedAt": "2026-09-28T08:44:11.967Z",
-      "title_hi": "",
-      "summary_hi": "",
-      "category_hi": "मनोरंजन",
-      "category_hinglish": "Entertainment"
-    },
-    {
-      "id": "5e6ae9913f95e609",
-      "title": "Who is Tanya Mishra? All about Bihar born model-actress fans are calling the new ‘National Crush of...",
-      "summary": "Tanya Mishra has been gaining attention on social media, with fans calling her the new &lsquo;National Crush of India&rsquo;. Here&rsquo;s a look at the model-actress, her career, films, web series and music videos.",
-      "category": "Entertainment",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260928073708_Tanya-Mishra-is-going-viral-on-social-media.png",
-      "source": "Moneycontrol.com",
-      "sourceUrl": "https://www.moneycontrol.com/entertainment/who-is-tanya-mishra-all-about-bihar-born-model-actress-fans-are-calling-the-new-national-crush-of-india-article-14039913.html",
-      "publishedAt": "2026-09-28T07:39:26.000Z",
-      "fetchedAt": "2026-09-28T07:48:13.678Z",
-      "title_hi": "कौन हैं तान्या मिश्रा? बिहार में जन्मी मॉडल-अभिनेत्री के प्रशंसक नई 'नेशनल क्रश ऑफ...' कह रहे हैं",
-      "summary_hi": "तान्या मिश्रा सोशल मीडिया पर ध्यान आकर्षित कर रही हैं, प्रशंसक उन्हें नया 'नेशनल क्रश ऑफ इंडिया' कह रहे हैं। यहां मॉडल-अभिनेत्री, उनके करियर, फिल्मों, वेब श्रृंखला और संगीत वीडियो पर एक नज़र डालें।",
+      "title_hi": "अदनान सामी ने आयुष्मान के पाकिस्तानी जासूस से भारतीय देशभक्त बनने पर गुप्त मजाक पर प्रतिक्रिया दी",
+      "summary_hi": "जब कुल्लू ने अदनान सामी का जिक्र किया तो आयुष्मान खुराना ने इंडियाज गॉट लेटेंट पर उड़ता तीर का वर्णन किया। इस चुटकी ने हंसी उड़ाई और फिल्म की पहचान-बदली के आधार को रेखांकित किया।",
       "category_hi": "मनोरंजन",
       "category_hinglish": "Entertainment",
-      "title_hinglish": "kauna hain tanya mishr? bihara men janmi modala-abhinetri ke prashansaka naee 'neshanala krasha ऑph...' kaha rahe hain",
-      "summary_hinglish": "tanya mishra soshala midiya para dhyana aakarshita kara rahi hain, prashansaka unhen naya 'neshanala krasha ऑpha indiya' kaha rahe hain। yahan modala-abhinetri, unake kariyar, philmon, veba shrrinkhala aura sangita vidiyo para eka najara dalen।"
+      "title_hinglish": "adanana sami ne aayushmana ke pakistani jasusa se bharatiya deshabhakta banane para gupta majaka para pratikriya di",
+      "summary_hinglish": "jaba kullu ne adanana sami ka jikra kiya to aayushmana khurana ne indiyaja gota letenta para udata tira ka varnana kiya। isa chutaki ne hansi udaाee aura philma ki pahachana-badali ke aadhara ko rekhankita kiya।"
     },
     {
       "id": "63875bf98c851d6f",
@@ -69,23 +86,6 @@
       "category_hinglish": "Crime aur Breaking News"
     },
     {
-      "id": "1d4c335d9cc2e8e7",
-      "title": "Linux Foundation Launches LF India",
-      "summary": "LF India will support developers, startups and enterprises with open-source collaboration, training and regional programmes across AI",
-      "category": "Technology",
-      "image": "https://www.opensourceforu.com/wp-content/uploads/2026/09/linux_foundation_20241211164559_original_image_33.webp",
-      "source": "Open Source For You",
-      "sourceUrl": "https://www.opensourceforu.com/2026/09/linux-foundation-launches-lf-india/",
-      "publishedAt": "2026-09-28T08:13:25.000Z",
-      "fetchedAt": "2026-09-28T08:25:27.733Z",
-      "title_hi": "लिनक्स फाउंडेशन ने एलएफ इंडिया लॉन्च किया",
-      "summary_hi": "एलएफ इंडिया एआई में ओपन-सोर्स सहयोग, प्रशिक्षण और क्षेत्रीय कार्यक्रमों के साथ डेवलपर्स, स्टार्टअप और उद्यमों का समर्थन करेगा",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "linaksa phaundeshana ne elaepha indiya loncha kiya",
-      "summary_hinglish": "elaepha indiya eaaee men opana-sorsa sahayog, prashikshana aura kshetriya karyakramon ke satha devalapars, startaapa aura udyamon ka samarthana karega",
-      "category_hinglish": "Technology"
-    },
-    {
       "id": "be70c7c038ab373d",
       "title": "330 archers compete in state championship",
       "summary": "The three-day Raja Karna Bihar State Archery Championship ‘Lakshya’ 2026 began at Pataliputra Sports Complex on Sunday with 330 archers from across Bihar competing for honours. Organised by the sports department and Bihar State Sports Authority, the championship has 180 boys and 150 girls competing in Under-10, Under-13, Under-15, sub-junior…",
@@ -101,6 +101,23 @@
       "title_hinglish": "rajya chaimpiyanashipa men 330 tirandaja pratispardha karate hain",
       "summary_hinglish": "tina divasiya raja karna bihara rajya tirandaji chainpiyanashipa 'lakshya' 2026 ravivara ko pataliputra sportsa kompleksa men shuru huee, jisamen pure bihara ke 330 tirandaja sammana ke lie pratispardha kara rahe the। khela vibhaga aura bihara rajya khela pradhikarana dvara aayojita isa chainpiyanashipa men 180 ladake aura 150 ladakiyan andara-10, andara-13, andara-15, saba-juniyar...",
       "category_hinglish": "Sports"
+    },
+    {
+      "id": "1d4c335d9cc2e8e7",
+      "title": "Linux Foundation Launches LF India",
+      "summary": "LF India will support developers, startups and enterprises with open-source collaboration, training and regional programmes across AI",
+      "category": "Technology",
+      "image": "https://www.opensourceforu.com/wp-content/uploads/2026/09/linux_foundation_20241211164559_original_image_33.webp",
+      "source": "Open Source For You",
+      "sourceUrl": "https://www.opensourceforu.com/2026/09/linux-foundation-launches-lf-india/",
+      "publishedAt": "2026-09-28T08:13:25.000Z",
+      "fetchedAt": "2026-09-28T08:25:27.733Z",
+      "title_hi": "लिनक्स फाउंडेशन ने एलएफ इंडिया लॉन्च किया",
+      "summary_hi": "एलएफ इंडिया एआई में ओपन-सोर्स सहयोग, प्रशिक्षण और क्षेत्रीय कार्यक्रमों के साथ डेवलपर्स, स्टार्टअप और उद्यमों का समर्थन करेगा",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "linaksa phaundeshana ne elaepha indiya loncha kiya",
+      "summary_hinglish": "elaepha indiya eaaee men opana-sorsa sahayog, prashikshana aura kshetriya karyakramon ke satha devalapars, startaapa aura udyamon ka samarthana karega",
+      "category_hinglish": "Technology"
     },
     {
       "id": "ca601800ead03f04",
@@ -135,23 +152,6 @@
       "category_hinglish": "Sports"
     },
     {
-      "id": "e19ffbb8cbe30e5d",
-      "title": "Fab Capital, a debt financing and capital solutions platform for Indian businesses, facilitated over ₹40 crore in monthly debt financing via its lender network, marking its growing footprint",
-      "summary": "/PRNewswire/ -- Fab Capital helps diverse businesses, including Shark Tank India-featured companies, access debt capital for growth, working capital, and other...",
-      "category": "Business & Finance",
-      "image": "https://mma.prnewswire.com/media/3009079/Banoth_Shabari_Nadh.jpg?p=facebook",
-      "source": "PR Newswire",
-      "sourceUrl": "https://www.prnewswire.com/in/news-releases/fab-capital-a-debt-financing-and-capital-solutions-platform-for-indian-businesses-facilitated-over-40-crore-in-monthly-debt-financing-via-its-lender-network-marking-its-growing-footprint-302891280.html",
-      "publishedAt": "2026-09-28T07:55:00.000Z",
-      "fetchedAt": "2026-09-28T08:25:28.677Z",
-      "title_hi": "फैब कैपिटल, भारतीय व्यवसायों के लिए एक ऋण वित्तपोषण और पूंजी समाधान मंच है, जिसने अपने ऋणदाता नेटवर्क के माध्यम से मासिक ऋण वित्तपोषण में ₹40 करोड़ से अधिक की सुविधा प्रदान की है, जो इसके बढ़ते प्रभाव को दर्शाता है।",
-      "summary_hi": "/PRNewswire/ -- फैब कैपिटल विभिन्न व्यवसायों को मदद करता है, जिसमें शार्क टैंक इंडिया-फीचर्ड कंपनियां, विकास के लिए ऋण पूंजी तक पहुंच, कार्यशील पूंजी और अन्य शामिल हैं...",
-      "category_hi": "बिज़नेस और फाइनेंस",
-      "title_hinglish": "phaiba kaipital, bharatiya vyavasayon ke lie eka rina vittaposhana aura punji samadhana mancha hai, jisane apane rinadata netavarka ke madhyama se masika rina vittaposhana men ₹40 karoda se adhika ki suvidha pradana ki hai, jo isake badhate prabhava ko darshata hai।",
-      "summary_hinglish": "/PRNewswire/ -- phaiba kaipitala vibhinna vyavasayon ko madada karata hai, jisamen sharka tainka indiya-phicharda kanpaniyan, vikasa ke lie rina punji taka pahunch, karyashila punji aura anya shamila hain...",
-      "category_hinglish": "Business aur Finance"
-    },
-    {
       "id": "feeef1c1c55ee87e",
       "title": "'Regret supporting': Chirag Paswan attacks Bihar govt over rising crimes against women",
       "summary": "Bihar crime: Union Minister Chirag Paswan expresses shame over the deteriorating law and order situation, criticising the state administration for failing to curb rising crimes against women and demanding strict action.",
@@ -167,6 +167,23 @@
       "title_hinglish": "'samarthana karane ka aphasosa': mahilaon ke khilapha badhate aparadha ko lekara chiraga pasavana ne bihara sarakara para hamala bola",
       "summary_hinglish": "bihara aparadh: kendriya mantri chiraga pasavana ne bigadati kanuna-vyavastha ki sthiti para sharmindagi vyakta ki, mahilaon ke khilapha badhate aparadhon para ankusha lagane men viphala rahane ke lie rajya prashasana ki aalochana ki aura sakhta karravaee ki manga ki।",
       "category_hinglish": "Politics aur Government"
+    },
+    {
+      "id": "e19ffbb8cbe30e5d",
+      "title": "Fab Capital, a debt financing and capital solutions platform for Indian businesses, facilitated over ₹40 crore in monthly debt financing via its lender network, marking its growing footprint",
+      "summary": "/PRNewswire/ -- Fab Capital helps diverse businesses, including Shark Tank India-featured companies, access debt capital for growth, working capital, and other...",
+      "category": "Business & Finance",
+      "image": "https://mma.prnewswire.com/media/3009079/Banoth_Shabari_Nadh.jpg?p=facebook",
+      "source": "PR Newswire",
+      "sourceUrl": "https://www.prnewswire.com/in/news-releases/fab-capital-a-debt-financing-and-capital-solutions-platform-for-indian-businesses-facilitated-over-40-crore-in-monthly-debt-financing-via-its-lender-network-marking-its-growing-footprint-302891280.html",
+      "publishedAt": "2026-09-28T07:55:00.000Z",
+      "fetchedAt": "2026-09-28T08:25:28.677Z",
+      "title_hi": "फैब कैपिटल, भारतीय व्यवसायों के लिए एक ऋण वित्तपोषण और पूंजी समाधान मंच है, जिसने अपने ऋणदाता नेटवर्क के माध्यम से मासिक ऋण वित्तपोषण में ₹40 करोड़ से अधिक की सुविधा प्रदान की है, जो इसके बढ़ते प्रभाव को दर्शाता है।",
+      "summary_hi": "/PRNewswire/ -- फैब कैपिटल विभिन्न व्यवसायों को मदद करता है, जिसमें शार्क टैंक इंडिया-फीचर्ड कंपनियां, विकास के लिए ऋण पूंजी तक पहुंच, कार्यशील पूंजी और अन्य शामिल हैं...",
+      "category_hi": "बिज़नेस और फाइनेंस",
+      "title_hinglish": "phaiba kaipital, bharatiya vyavasayon ke lie eka rina vittaposhana aura punji samadhana mancha hai, jisane apane rinadata netavarka ke madhyama se masika rina vittaposhana men ₹40 karoda se adhika ki suvidha pradana ki hai, jo isake badhate prabhava ko darshata hai।",
+      "summary_hinglish": "/PRNewswire/ -- phaiba kaipitala vibhinna vyavasayon ko madada karata hai, jisamen sharka tainka indiya-phicharda kanpaniyan, vikasa ke lie rina punji taka pahunch, karyashila punji aura anya shamila hain...",
+      "category_hinglish": "Business aur Finance"
     },
     {
       "id": "0e167fb30f7dfad0",
@@ -186,21 +203,6 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "6d1b0a763a8732e5",
-      "title": "JetSynthesys, Japan’s MIXI sign MOU to explore gaming collaboration in India",
-      "summary": "JetSynthesys has signed an MoU with Japans MIXI to explore collaboration across gaming, esports, digital entertainment, marketing and potential strategic investments in India. The partnership aims to combine JetSynthesys local market expertise with MIXIs global gaming experience as India emerges as a key growth market for digital entertainment.",
-      "category": "Entertainment",
-      "image": "https://img.etimg.com/thumb/msid-134535696,width-1200,height-630,imgsize-164980,overlay-economictimes/articleshow.jpg",
-      "source": "economictimes.com",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/media/entertainment/jetsynthesys-japans-mixi-sign-mou-to-explore-gaming-collaboration-in-india/articleshow/134535658.cms?from=mdr",
-      "publishedAt": "2026-09-28T07:35:37.000Z",
-      "fetchedAt": "2026-09-28T08:01:40.658Z",
-      "title_hi": "",
-      "summary_hi": "",
-      "category_hi": "मनोरंजन",
-      "category_hinglish": "Entertainment"
-    },
-    {
       "id": "4911f7e5a341b5b9",
       "title": "Caught With Pistol, Bhagalpur Criminal Pushes Cop, Jumps Into River To Escape Police; What Happened Next Goes Viral",
       "summary": "The accused, identified as Santosh Yadav, had allegedly been arrested after police recovered a country-made pistol and cartridges from him.",
@@ -216,6 +218,23 @@
       "title_hinglish": "pistaula ke satha pakadaा gay, bhagalapura aparadhi ne pulisa ko dhakka diy, pulisa se bachane ke lie nadi men kuda gay; aage jo huaa vaha vayarala ho gaya",
       "summary_hinglish": "santosha yadava ke rupa men pahachane gae aaropi ko kathita taura para pulisa dvara usake pasa se eka deshi pistaula aura karatusa baramada karane ke bada giraphtara kara liya gaya tha।",
       "category_hinglish": "Crime aur Breaking News"
+    },
+    {
+      "id": "6d1b0a763a8732e5",
+      "title": "JetSynthesys, Japan’s MIXI sign MOU to explore gaming collaboration in India",
+      "summary": "JetSynthesys has signed an MoU with Japans MIXI to explore collaboration across gaming, esports, digital entertainment, marketing and potential strategic investments in India. The partnership aims to combine JetSynthesys local market expertise with MIXIs global gaming experience as India emerges as a key growth market for digital entertainment.",
+      "category": "Entertainment",
+      "image": "https://img.etimg.com/thumb/msid-134535696,width-1200,height-630,imgsize-164980,overlay-economictimes/articleshow.jpg",
+      "source": "economictimes.com",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/media/entertainment/jetsynthesys-japans-mixi-sign-mou-to-explore-gaming-collaboration-in-india/articleshow/134535658.cms?from=mdr",
+      "publishedAt": "2026-09-28T07:35:37.000Z",
+      "fetchedAt": "2026-09-28T08:01:40.658Z",
+      "title_hi": "जेटसिंथेसिस, जापान की मिक्सी ने भारत में गेमिंग सहयोग का पता लगाने के लिए समझौता ज्ञापन पर हस्ताक्षर किए",
+      "summary_hi": "JetSynthesys ने भारत में गेमिंग, ईस्पोर्ट्स, डिजिटल मनोरंजन, मार्केटिंग और संभावित रणनीतिक निवेश में सहयोग का पता लगाने के लिए जापान के MIXI के साथ एक समझौता ज्ञापन पर हस्ताक्षर किए हैं। साझेदारी का उद्देश्य जेटसिंथेसिस के स्थानीय बाजार विशेषज्ञता को MIXI के वैश्विक गेमिंग अनुभव के साथ जोड़ना है क्योंकि भारत डिजिटल मनोरंजन के लिए एक प्रमुख विकास बाजार के रूप में उभर रहा है।",
+      "category_hi": "मनोरंजन",
+      "category_hinglish": "Entertainment",
+      "title_hinglish": "jetasinthesis, japana ki miksi ne bharata men geminga sahayoga ka pata lagane ke lie samajhauta jnyapana para hastakshara kie",
+      "summary_hinglish": "JetSynthesys ne bharata men geming, eesports, dijitala manoranjan, marketinga aura sanbhavita rananitika nivesha men sahayoga ka pata lagane ke lie japana ke MIXI ke satha eka samajhauta jnyapana para hastakshara kie hain। sajhedari ka uddeshya jetasinthesisa ke sthaniya bajara visheshajnyata ko MIXI ke vaishvika geminga anubhava ke satha jodana hai kyonki bharata dijitala manoranjana ke lie eka pramukha vikasa bajara ke rupa men ubhara raha hai।"
     },
     {
       "id": "3d2c71eebedd4970",
@@ -235,6 +254,21 @@
       "category_hinglish": "Business aur Finance"
     },
     {
+      "id": "22411800cf75db2b",
+      "title": "Vvaan box office collection Day 2: Sidharth Malhotra’s mythological thriller sees a rise; here’s how much it earned",
+      "summary": "Sidharth Malhotra and Tamannaah Bhatia’s mythological film Vvaan sees a jump on Day 2 of its theatrical run. Take a look at the latest box office figures.",
+      "category": "Entertainment",
+      "image": "https://cdn3.wionews.com/prod/wion/images/2026/20260927/image-1790492370752.png?imwidth=1200&imheight=900",
+      "source": "WION",
+      "sourceUrl": "https://www.wionews.com/entertainment/bollywood/vvaan-box-office-collection-day-2-sidharth-malhotra-s-mythological-thriller-sees-a-rise-here-s-how-much-it-earns-1790492269938",
+      "publishedAt": "2026-09-27T10:24:25.000Z",
+      "fetchedAt": "2026-09-28T08:59:39.158Z",
+      "title_hi": "",
+      "summary_hi": "",
+      "category_hi": "मनोरंजन",
+      "category_hinglish": "Entertainment"
+    },
+    {
       "id": "c318464dbd600fb6",
       "title": "Nag Ashwin on Indian cinema: Technology can unlock stories rooted in our unique philosophies",
       "summary": "Telugu filmmaker Nag Ashwin believes accessible technology can create new possibilities for Indian cinema by helping filmmakers combine ambitious visual storytelling with uniquely Indian stories and philosophies. He also said technology could empower diverse and original voices to tell their stories.",
@@ -244,27 +278,12 @@
       "sourceUrl": "https://telanganatoday.com/nag-ashwin-on-indian-cinema-technology-can-unlock-stories-rooted-in-our-unique-philosophies",
       "publishedAt": "2026-09-28T07:25:19.000Z",
       "fetchedAt": "2026-09-28T08:44:16.128Z",
-      "title_hi": "",
-      "summary_hi": "",
+      "title_hi": "भारतीय सिनेमा पर नाग अश्विन: प्रौद्योगिकी हमारे अद्वितीय दर्शन में निहित कहानियों को खोल सकती है",
+      "summary_hi": "तेलुगु फिल्म निर्माता नाग अश्विन का मानना है कि सुलभ तकनीक फिल्म निर्माताओं को विशिष्ट भारतीय कहानियों और दर्शन के साथ महत्वाकांक्षी दृश्य कहानी कहने में मदद करके भारतीय सिनेमा के लिए नई संभावनाएं पैदा कर सकती है। उन्होंने यह भी कहा कि प्रौद्योगिकी विविध और मौलिक आवाजों को अपनी कहानियां बताने के लिए सशक्त बना सकती है।",
       "category_hi": "टेक्नोलॉजी",
-      "category_hinglish": "Technology"
-    },
-    {
-      "id": "03943fafde680d0a",
-      "title": "Samrat: Bihar, Centre to coordinate on cross-border crimes along Nepal border",
-      "summary": "Bihar govt and Centre will work in close coordination to curb infiltration, counterfeit currency, drug trafficking and other cross-border crimes along the sensitive India-Nepal border, CM Samrat Choudhary said here on Saturday after chairing a comprehensive high-level review meeting at the ‘Samvad’ hall in the Chief Minister’s Secretariat.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134507867,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/patna/samrat-bihar-centre-to-coordinate-on-cross-border-crimes-along-nepal-border/articleshow/134507868.cms",
-      "publishedAt": "2026-09-26T16:54:00.000Z",
-      "fetchedAt": "2026-09-26T17:15:41.433Z",
-      "title_hi": "सम्राट: बिहार, केंद्र नेपाल सीमा पर सीमा पार अपराधों पर समन्वय करें",
-      "summary_hi": "मुख्यमंत्री सम्राट चौधरी ने शनिवार को मुख्यमंत्री सचिवालय के 'संवाद' हॉल में एक व्यापक उच्च स्तरीय समीक्षा बैठक की अध्यक्षता करने के बाद कहा कि संवेदनशील भारत-नेपाल सीमा पर घुसपैठ, जाली मुद्रा, मादक पदार्थों की तस्करी और अन्य सीमा पार अपराधों को रोकने के लिए बिहार सरकार और केंद्र निकट समन्वय में काम करेंगे।",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "samrat: bihar, kendra nepala sima para sima para aparadhon para samanvaya karen",
-      "summary_hinglish": "mukhyamantri samrata chaudhari ne shanivara ko mukhyamantri sachivalaya ke 'sanvada' hola men eka vyapaka uchcha stariya samiksha baithaka ki adhyakshata karane ke bada kaha ki sanvedanashila bharata-nepala sima para ghusapaith, jali mudr, madaka padarthon ki taskari aura anya sima para aparadhon ko rokane ke lie bihara sarakara aura kendra nikata samanvaya men kama karenge।",
-      "category_hinglish": "Crime aur Breaking News"
+      "category_hinglish": "Technology",
+      "title_hinglish": "bharatiya sinema para naga ashvin: praudyogiki hamare advitiya darshana men nihita kahaniyon ko khola sakati hai",
+      "summary_hinglish": "telugu philma nirmata naga ashvina ka manana hai ki sulabha takanika philma nirmataon ko vishishta bharatiya kahaniyon aura darshana ke satha mahatvakankshi drishya kahani kahane men madada karake bharatiya sinema ke lie naee sanbhavanaen paida kara sakati hai। unhonne yaha bhi kaha ki praudyogiki vividha aura maulika aavajon ko apani kahaniyan batane ke lie sashakta bana sakati hai।"
     },
     {
       "id": "5b8a95986db19279",
@@ -299,6 +318,38 @@
       "category_hinglish": "Technology",
       "title_hinglish": "vhatsaepa jalda hi endroida yujarsa ke lie dobara dijaina kiya gaya nevigeshana bara la sakata hai: riporta",
       "summary_hinglish": "meta ke svamitva vala maisejinga pletaphorma vhatsaepa kathita taura para apane endroida aipa ke lie eka tajaा dijaाina para kama kara raha hai। WaBetaInfo ke eka navinatama lika ke anusar, vhatsaepa gola konon aura eka phlotinga leaauta ke satha mukhya intaraphaेsa se alaga eka nae botama nevigeshana bara ka parikshana kara raha hai।"
+    },
+    {
+      "id": "03943fafde680d0a",
+      "title": "Samrat: Bihar, Centre to coordinate on cross-border crimes along Nepal border",
+      "summary": "Bihar govt and Centre will work in close coordination to curb infiltration, counterfeit currency, drug trafficking and other cross-border crimes along the sensitive India-Nepal border, CM Samrat Choudhary said here on Saturday after chairing a comprehensive high-level review meeting at the ‘Samvad’ hall in the Chief Minister’s Secretariat.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134507867,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/patna/samrat-bihar-centre-to-coordinate-on-cross-border-crimes-along-nepal-border/articleshow/134507868.cms",
+      "publishedAt": "2026-09-26T16:54:00.000Z",
+      "fetchedAt": "2026-09-26T17:15:41.433Z",
+      "title_hi": "सम्राट: बिहार, केंद्र नेपाल सीमा पर सीमा पार अपराधों पर समन्वय करें",
+      "summary_hi": "मुख्यमंत्री सम्राट चौधरी ने शनिवार को मुख्यमंत्री सचिवालय के 'संवाद' हॉल में एक व्यापक उच्च स्तरीय समीक्षा बैठक की अध्यक्षता करने के बाद कहा कि संवेदनशील भारत-नेपाल सीमा पर घुसपैठ, जाली मुद्रा, मादक पदार्थों की तस्करी और अन्य सीमा पार अपराधों को रोकने के लिए बिहार सरकार और केंद्र निकट समन्वय में काम करेंगे।",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "samrat: bihar, kendra nepala sima para sima para aparadhon para samanvaya karen",
+      "summary_hinglish": "mukhyamantri samrata chaudhari ne shanivara ko mukhyamantri sachivalaya ke 'sanvada' hola men eka vyapaka uchcha stariya samiksha baithaka ki adhyakshata karane ke bada kaha ki sanvedanashila bharata-nepala sima para ghusapaith, jali mudr, madaka padarthon ki taskari aura anya sima para aparadhon ko rokane ke lie bihara sarakara aura kendra nikata samanvaya men kama karenge।",
+      "category_hinglish": "Crime aur Breaking News"
+    },
+    {
+      "id": "1d004016ae1b3fd0",
+      "title": "Asian Games 2026 medal tally today (28/09/2026): India rank and full medals table",
+      "summary": "India’s medal tally at the 2026 Asian Games in Aichi-Nagoya climbed to 39 medals on Monday, with the country adding a silver and a bronze to its haul on Day 10.",
+      "category": "Sports",
+      "image": "https://static.toiimg.com/thumb/msid-134534946,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "timesofindia.indiatimes.com",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-medal-tally-today-28/09/2026-india-rank-and-full-medals-table/articleshow/134534404.cms",
+      "publishedAt": "2026-09-28T07:01:00.000Z",
+      "fetchedAt": "2026-09-28T08:59:20.660Z",
+      "title_hi": "",
+      "summary_hi": "",
+      "category_hi": "खेल",
+      "category_hinglish": "Sports"
     },
     {
       "id": "9614298ff3d95861",
@@ -412,27 +463,12 @@
       "sourceUrl": "https://agrospectrumindia.com/news/7/33593/agrospectrum-technovate-2026-highlights-future-of-digital-agriculture-in-india.html",
       "publishedAt": "2026-09-28T05:55:55.000Z",
       "fetchedAt": "2026-09-28T07:48:18.364Z",
-      "title_hi": "",
-      "summary_hi": "",
+      "title_hi": "एग्रोस्पेक्ट्रम टेक्नोवेट 2026 भारत में डिजिटल कृषि के भविष्य पर प्रकाश डालता है",
+      "summary_hi": "वक्ताओं ने भारतीय राज्यों में उभर रहे एआई-संचालित कृषि मॉडल और जलवायु-स्मार्ट डिजिटल टूल, अगली पीढ़ी की कृषि प्रतिभा और किसान-केंद्रित नवाचार की आवश्यकता पर चर्चा की।",
       "category_hi": "टेक्नोलॉजी",
-      "category_hinglish": "Technology"
-    },
-    {
-      "id": "0fd2b8e1e638217a",
-      "title": "After Bankipur win, Prashant Kishor's party weighs Delhi expansion | India News",
-      "summary": "Supporters of Jan Suraaj in the national capital have been pressing for the party to establish a presence in Delhi.",
-      "category": "Politics & Government",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/26/1600x900/logo/Jan-Suraaj-Party-leader-Prashant-Kishor-arrives-at_1786968217381_1790409260340_aOC4_2475f880-bb66-47fc-810e-aed3b59049be_7pnl.jpg",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/india-news/prashant-kishor-jan-suraaj-party-bankipur-delhi-expansion-news-bihar-101790409031247-amp.html",
-      "publishedAt": "2026-09-26T08:42:30.000Z",
-      "fetchedAt": "2026-09-26T09:45:07.085Z",
-      "title_hi": "बांकीपुर जीत के बाद प्रशांत किशोर की पार्टी दिल्ली विस्तार पर विचार कर रही है | भारत समाचार",
-      "summary_hi": "राष्ट्रीय राजधानी में जन सुराज के समर्थक पार्टी पर दिल्ली में उपस्थिति स्थापित करने के लिए दबाव डाल रहे हैं।",
-      "category_hi": "राजनीति और सरकार",
-      "title_hinglish": "bankipura jita ke bada prashanta kishora ki parti dilli vistara para vichara kara rahi hai | bharata samachara",
-      "summary_hinglish": "rashtriya rajadhani men jana suraja ke samarthaka parti para dilli men upasthiti sthapita karane ke lie dabava dala rahe hain।",
-      "category_hinglish": "Politics aur Government"
+      "category_hinglish": "Technology",
+      "title_hinglish": "egrospektrama teknoveta 2026 bharata men dijitala krishi ke bhavishya para prakasha dalata hai",
+      "summary_hinglish": "vaktaon ne bharatiya rajyon men ubhara rahe eaaee-sanchalita krishi modala aura jalavayu-smarta dijitala tul, agali pidhaी ki krishi pratibha aura kisana-kendrita navachara ki aavashyakata para charcha ki।"
     },
     {
       "id": "1a739f17fbf53ca2",
@@ -450,6 +486,23 @@
       "category_hinglish": "Technology",
       "title_hinglish": "kaise praudyogiki bharatiya nirmataon ke dhatu kharidane ke tarike ko badala rahi hai",
       "summary_hinglish": "dijitala takanika bharata men dhatu kharida men badalava la rahi hai, jisase nirmataon ko kimaton ki tulana karane, aapurtikartaon ki khoja karane, lagata ko niyantrita karane aura lachili aapurti shrrinkhala banane men madada mila rahi hai। vinirmana | inaphokasa | lekhakiya lekha"
+    },
+    {
+      "id": "0fd2b8e1e638217a",
+      "title": "After Bankipur win, Prashant Kishor's party weighs Delhi expansion | India News",
+      "summary": "Supporters of Jan Suraaj in the national capital have been pressing for the party to establish a presence in Delhi.",
+      "category": "Politics & Government",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/26/1600x900/logo/Jan-Suraaj-Party-leader-Prashant-Kishor-arrives-at_1786968217381_1790409260340_aOC4_2475f880-bb66-47fc-810e-aed3b59049be_7pnl.jpg",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/prashant-kishor-jan-suraaj-party-bankipur-delhi-expansion-news-bihar-101790409031247-amp.html",
+      "publishedAt": "2026-09-26T08:42:30.000Z",
+      "fetchedAt": "2026-09-26T09:45:07.085Z",
+      "title_hi": "बांकीपुर जीत के बाद प्रशांत किशोर की पार्टी दिल्ली विस्तार पर विचार कर रही है | भारत समाचार",
+      "summary_hi": "राष्ट्रीय राजधानी में जन सुराज के समर्थक पार्टी पर दिल्ली में उपस्थिति स्थापित करने के लिए दबाव डाल रहे हैं।",
+      "category_hi": "राजनीति और सरकार",
+      "title_hinglish": "bankipura jita ke bada prashanta kishora ki parti dilli vistara para vichara kara rahi hai | bharata samachara",
+      "summary_hinglish": "rashtriya rajadhani men jana suraja ke samarthaka parti para dilli men upasthiti sthapita karane ke lie dabava dala rahe hain।",
+      "category_hinglish": "Politics aur Government"
     },
     {
       "id": "7f9ff5ee5af3d0ea",
@@ -588,23 +641,6 @@
       "category_hinglish": "Entertainment"
     },
     {
-      "id": "ca4a7bd9f0cb7546",
-      "title": "Woman hit with slipper, forced to transfer ₹1,500: Bihar sees another harassment case amid outrage | India News",
-      "summary": "The video shows several youths allegedly behaving indecently with the woman and hitting her with a slipper. One of the youths is also seen threatening her. | India News",
-      "category": "Politics & Government",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/25/1600x900/logo/bihar_banka_1790339464075_1yKO_1790339464243_SuDL_fbf1779f-3e56-49a1-97d2-9b29c98d4fc6_KrkV.png",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/india-news/banka-woman-hit-with-slipper-forced-to-transfer-rs-1-500-bihar-harassment-case-mandar-hill-101790339209803.html",
-      "publishedAt": "2026-09-25T14:49:14.000Z",
-      "fetchedAt": "2026-09-25T21:57:04.369Z",
-      "title_hi": "महिला को चप्पल से मारा गया, ₹1,500 ट्रांसफर करने के लिए मजबूर किया गया: आक्रोश के बीच बिहार में उत्पीड़न का एक और मामला सामने आया | भारत समाचार",
-      "summary_hi": "वीडियो में कई युवकों को कथित तौर पर महिला के साथ अभद्र व्यवहार करते और उसे चप्पल से मारते हुए दिखाया गया है। उनमें से एक युवक उसे धमकाता भी नजर आ रहा है. | भारत समाचार",
-      "category_hi": "राजनीति और सरकार",
-      "title_hinglish": "mahila ko chappala se mara gay, ₹1,500 transaphara karane ke lie majabura kiya gay: aakrosha ke bicha bihara men utpidana ka eka aura mamala samane aaya | bharata samachara",
-      "summary_hinglish": "vidiyo men kaee yuvakon ko kathita taura para mahila ke satha abhadra vyavahara karate aura use chappala se marate hue dikhaya gaya hai। unamen se eka yuvaka use dhamakata bhi najara aa raha hai. | bharata samachara",
-      "category_hinglish": "Politics aur Government"
-    },
-    {
       "id": "f711958f717e07bc",
       "title": "Athletics to Shooting: India's gold medal crisis deepens in Asiad 2026",
       "summary": "India have 37 medals but only four golds at Asiad 2026. Compare athletics, shooting and badminton with Hangzhou 2023 as more finals approach on Monday.",
@@ -620,6 +656,23 @@
       "title_hinglish": "ethaletiksa se shutinga tak: eshiyada 2026 men bharata ke golda medala ka sankata gahara gaya hai",
       "summary_hinglish": "eshiyada 2026 men bharata ke pasa 37 padaka hain lekina kevala chara svarna hain। ethaletiks, shutinga aura baidamintana ki tulana hangjo 2023 se karen kyonki somavara ko aura adhika phainala kariba hain।",
       "category_hinglish": "Sports"
+    },
+    {
+      "id": "ca4a7bd9f0cb7546",
+      "title": "Woman hit with slipper, forced to transfer ₹1,500: Bihar sees another harassment case amid outrage | India News",
+      "summary": "The video shows several youths allegedly behaving indecently with the woman and hitting her with a slipper. One of the youths is also seen threatening her. | India News",
+      "category": "Politics & Government",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/25/1600x900/logo/bihar_banka_1790339464075_1yKO_1790339464243_SuDL_fbf1779f-3e56-49a1-97d2-9b29c98d4fc6_KrkV.png",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/banka-woman-hit-with-slipper-forced-to-transfer-rs-1-500-bihar-harassment-case-mandar-hill-101790339209803.html",
+      "publishedAt": "2026-09-25T14:49:14.000Z",
+      "fetchedAt": "2026-09-25T21:57:04.369Z",
+      "title_hi": "महिला को चप्पल से मारा गया, ₹1,500 ट्रांसफर करने के लिए मजबूर किया गया: आक्रोश के बीच बिहार में उत्पीड़न का एक और मामला सामने आया | भारत समाचार",
+      "summary_hi": "वीडियो में कई युवकों को कथित तौर पर महिला के साथ अभद्र व्यवहार करते और उसे चप्पल से मारते हुए दिखाया गया है। उनमें से एक युवक उसे धमकाता भी नजर आ रहा है. | भारत समाचार",
+      "category_hi": "राजनीति और सरकार",
+      "title_hinglish": "mahila ko chappala se mara gay, ₹1,500 transaphara karane ke lie majabura kiya gay: aakrosha ke bicha bihara men utpidana ka eka aura mamala samane aaya | bharata samachara",
+      "summary_hinglish": "vidiyo men kaee yuvakon ko kathita taura para mahila ke satha abhadra vyavahara karate aura use chappala se marate hue dikhaya gaya hai। unamen se eka yuvaka use dhamakata bhi najara aa raha hai. | bharata samachara",
+      "category_hinglish": "Politics aur Government"
     },
     {
       "id": "3d89062465c6982e",
@@ -698,12 +751,10 @@
       "source": "olympics.com",
       "sourceUrl": "https://www.olympics.com/en/news/asian-games-2026-medal-tally-india-winners-table-list",
       "publishedAt": "2026-09-28T04:46:00.000Z",
-      "fetchedAt": "2026-09-28T08:44:06.202Z",
-      "title_hi": "एशियाई खेल 2026: भारत की पदक तालिका और विजेताओं की सूची - पूरी तालिका",
-      "summary_hi": "एशियाई खेल 2026 में भारत के विजेताओं की सूची जानें। पदक तालिका जानें और भारतीय एथलीटों ने प्रत्येक खेल में कितने पदक जीते हैं। पूरी मेज.",
+      "fetchedAt": "2026-09-28T08:59:20.476Z",
+      "title_hi": "",
+      "summary_hi": "",
       "category_hi": "खेल",
-      "title_hinglish": "eshiyaee khela 2026: bharata ki padaka talika aura vijetaon ki suchi - puri talika",
-      "summary_hinglish": "eshiyaee khela 2026 men bharata ke vijetaon ki suchi janen। padaka talika janen aura bharatiya ethaliton ne pratyeka khela men kitane padaka jite hain। puri mej.",
       "category_hinglish": "Sports"
     },
     {
@@ -758,6 +809,23 @@
       "category_hinglish": "Technology"
     },
     {
+      "id": "c37a692ab749fcb5",
+      "title": "Asian Games 2026: India, Pakistan through to semis without playing a ball - setup for a blockbuster final?",
+      "summary": "India and Pakistan reached the Asian Games cricket semis after rain abandoned their QFs against Afghanistan and Hong Kong. Higher rankings advanced both teams; they can only meet in the final.",
+      "category": "Sports",
+      "image": "https://cdn3.wionews.com/prod/wion/images/2026/20260928/image-1790569894973.jpg?imwidth=1200&imheight=900",
+      "source": "WION",
+      "sourceUrl": "https://www.wionews.com/sports/asian-games-2026-india-pakistan-through-to-semis-without-playing-a-ball-1790569585127",
+      "publishedAt": "2026-09-28T04:32:00.000Z",
+      "fetchedAt": "2026-09-28T08:25:17.616Z",
+      "title_hi": "एशियाई खेल 2026: भारत, पाकिस्तान एक भी गेंद खेले बिना सेमीफाइनल में - एक ब्लॉकबस्टर फाइनल के लिए सेटअप?",
+      "summary_hi": "अफगानिस्तान और हांगकांग के खिलाफ क्यूएफ बारिश के कारण रद्द होने के बाद भारत और पाकिस्तान एशियाई खेलों के क्रिकेट सेमीफाइनल में पहुंच गए। उच्च रैंकिंग ने दोनों टीमों को आगे बढ़ाया; वे केवल फाइनल में ही मिल सकते हैं।",
+      "category_hi": "खेल",
+      "category_hinglish": "Sports",
+      "title_hinglish": "eshiyaee khela 2026: bharat, pakistana eka bhi genda khele bina semiphainala men - eka blokabastara phainala ke lie setaap?",
+      "summary_hinglish": "aphaganistana aura hangakanga ke khilapha kyuepha barisha ke karana radda hone ke bada bharata aura pakistana eshiyaee khelon ke kriketa semiphainala men pahuncha gae। uchcha rainkinga ne donon timon ko aage badhaाy; ve kevala phainala men hi mila sakate hain।"
+    },
+    {
       "id": "d3a3994e37b7c554",
       "title": "'CEC must firmly present its side,' says Chirag Paswan as opposition demands Gyanesh Kumar's resignation",
       "summary": "'CEC must firmly present its side,' says Chirag Paswan as opposition demands Gyanesh Kumar's resignation - Patna (Bihar) [India], September 25 : Union Minister Chirag Paswan on Friday said the Election Commission must firmly present ... Get Latest News on Politics only on lokmattimes.com",
@@ -773,21 +841,6 @@
       "title_hinglish": "vipaksha dvara jnyanesha kumara ke istiphe ki manga para chiraga pasavana ne kah, 'sieesi ko apana paksha majabuti se rakhana chahie।'",
       "summary_hinglish": "vipaksha dvara jnyanesha kumara ke istiphe ki manga para chiraga pasavana ne kah, 'sieesi ko apana paksha majabuti se rakhana chahie।'",
       "category_hinglish": "Politics aur Government"
-    },
-    {
-      "id": "c37a692ab749fcb5",
-      "title": "Asian Games 2026: India, Pakistan through to semis without playing a ball - setup for a blockbuster final?",
-      "summary": "India and Pakistan reached the Asian Games cricket semis after rain abandoned their QFs against Afghanistan and Hong Kong. Higher rankings advanced both teams; they can only meet in the final.",
-      "category": "Sports",
-      "image": "https://cdn3.wionews.com/prod/wion/images/2026/20260928/image-1790569894973.jpg?imwidth=1200&imheight=900",
-      "source": "WION",
-      "sourceUrl": "https://www.wionews.com/sports/asian-games-2026-india-pakistan-through-to-semis-without-playing-a-ball-1790569585127",
-      "publishedAt": "2026-09-28T04:32:00.000Z",
-      "fetchedAt": "2026-09-28T08:25:17.616Z",
-      "title_hi": "",
-      "summary_hi": "",
-      "category_hi": "खेल",
-      "category_hinglish": "Sports"
     }
   ]
 }
