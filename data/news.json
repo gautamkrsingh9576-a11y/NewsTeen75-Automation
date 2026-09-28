@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-28T05:13:56.403Z",
-  "count": 57,
+  "updatedAt": "2026-09-28T05:32:31.576Z",
+  "count": 60,
   "articles": [
     {
       "id": "4a4a8a68962d5db5",
@@ -71,19 +71,21 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "22f6940b0cbb9547",
-      "title": "Lata Mangeshkar birth anniversary: PM Narendra Modi pays tribute; says 'Her contribution to Indian music",
-      "summary": "अपनी दिव्य गायन प्रतिभा से विश्व में देश का नाम रोशन करने वालीं आदरणीया लता दीदी को उनकी जयंती पर सादर नमन। उन्होंने भारतवर्ष को न केवल अपने सुमधुर सुरों से सजाया-संवारा, बल्कि देश की समृद्धि से जुड़ी हर पहल को भी सदैव प्रोत्साहित किया। भारतीय संगीत जगत में उनका…",
-      "category": "Entertainment",
-      "image": "https://static.toiimg.com/thumb/msid-134531201,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/lata-mangeshkar-birth-anniversary-pm-narendra-modi-pays-tribute-says-her-contribution-to-indian-music-will-remain-memorable/articleshow/134531161.cms",
-      "publishedAt": "2026-09-28T03:54:00.000Z",
-      "fetchedAt": "2026-09-28T04:55:41.677Z",
-      "title_hi": "",
-      "summary_hi": "",
-      "category_hi": "मनोरंजन",
-      "category_hinglish": "Entertainment"
+      "id": "c37a692ab749fcb5",
+      "title": "Asian Games 2026: India, Pakistan through to semis without playing a ball - setup for a blockbuster final?",
+      "summary": "India and Pakistan reached the Asian Games cricket semis after rain abandoned their QFs against Afghanistan and Hong Kong. Higher rankings advanced both teams; they can only meet in the final.",
+      "category": "Sports",
+      "image": "https://cdn3.wionews.com/prod/wion/images/2026/20260928/image-1790569894973.jpg?imwidth=1200&imheight=900",
+      "source": "WION",
+      "sourceUrl": "https://www.wionews.com/sports/asian-games-2026-india-pakistan-through-to-semis-without-playing-a-ball-1790569585127",
+      "publishedAt": "2026-09-28T04:32:00.000Z",
+      "fetchedAt": "2026-09-28T05:31:50.340Z",
+      "title_hi": "एशियाई खेल 2026: भारत, पाकिस्तान एक भी गेंद खेले बिना सेमीफाइनल में - एक ब्लॉकबस्टर फाइनल के लिए सेटअप?",
+      "summary_hi": "अफगानिस्तान और हांगकांग के खिलाफ क्यूएफ बारिश के कारण रद्द होने के बाद भारत और पाकिस्तान एशियाई खेलों के क्रिकेट सेमीफाइनल में पहुंच गए। उच्च रैंकिंग ने दोनों टीमों को आगे बढ़ाया; वे केवल फाइनल में ही मिल सकते हैं।",
+      "category_hi": "खेल",
+      "title_hinglish": "eshiyaee khela 2026: bharat, pakistana eka bhi genda khele bina semiphainala men - eka blokabastara phainala ke lie setaap?",
+      "summary_hinglish": "aphaganistana aura hangakanga ke khilapha kyuepha barisha ke karana radda hone ke bada bharata aura pakistana eshiyaee khelon ke kriketa semiphainala men pahuncha gae। uchcha rainkinga ne donon timon ko aage badhaाy; ve kevala phainala men hi mila sakate hain।",
+      "category_hinglish": "Sports"
     },
     {
       "id": "feeef1c1c55ee87e",
@@ -101,6 +103,21 @@
       "title_hinglish": "'samarthana karane ka aphasosa': mahilaon ke khilapha badhate aparadha ko lekara chiraga pasavana ne bihara sarakara para hamala bola",
       "summary_hinglish": "bihara aparadh: kendriya mantri chiraga pasavana ne bigadati kanuna-vyavastha ki sthiti para sharmindagi vyakta ki, mahilaon ke khilapha badhate aparadhon para ankusha lagane men viphala rahane ke lie rajya prashasana ki aalochana ki aura sakhta karravaee ki manga ki।",
       "category_hinglish": "Politics aur Government"
+    },
+    {
+      "id": "22f6940b0cbb9547",
+      "title": "Lata Mangeshkar birth anniversary: PM Narendra Modi pays tribute; says 'Her contribution to Indian music",
+      "summary": "अपनी दिव्य गायन प्रतिभा से विश्व में देश का नाम रोशन करने वालीं आदरणीया लता दीदी को उनकी जयंती पर सादर नमन। उन्होंने भारतवर्ष को न केवल अपने सुमधुर सुरों से सजाया-संवारा, बल्कि देश की समृद्धि से जुड़ी हर पहल को भी सदैव प्रोत्साहित किया। भारतीय संगीत जगत में उनका…",
+      "category": "Entertainment",
+      "image": "https://static.toiimg.com/thumb/msid-134531201,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/lata-mangeshkar-birth-anniversary-pm-narendra-modi-pays-tribute-says-her-contribution-to-indian-music-will-remain-memorable/articleshow/134531161.cms",
+      "publishedAt": "2026-09-28T03:54:00.000Z",
+      "fetchedAt": "2026-09-28T04:55:41.677Z",
+      "title_hi": "",
+      "summary_hi": "",
+      "category_hi": "मनोरंजन",
+      "category_hinglish": "Entertainment"
     },
     {
       "id": "3d5bc330bdb3db83",
@@ -137,23 +154,6 @@
       "category_hinglish": "Business aur Finance"
     },
     {
-      "id": "9789a4aba53f8b98",
-      "title": "₹17,600 crore and counting: India's retail media boom meets its first big transparency test",
-      "summary": "India's e-commerce market sees new rules from Jan 2027 to boost transparency, curb dark patterns, and ensure fair pricing. Quick commerce thrives amid rising on",
-      "category": "Entertainment",
-      "image": "https://images.storyboard18.com/storyboard18/2025/07/Untitled-design-2025-07-29T175913.262-2025-07-5c0bff015b9e3994886f93e01157cd32-1019x573.jpg",
-      "source": "Storyboard18",
-      "sourceUrl": "https://www.storyboard18.com/amp/how-it-works/indias-ecommerce-rules-tighten-focus-on-transparency-and-consumer-protection-ws-lo-111509.htm",
-      "publishedAt": "2026-09-28T03:37:58.000Z",
-      "fetchedAt": "2026-09-28T04:55:42.208Z",
-      "title_hi": "₹17,600 करोड़ और गिनती: भारत का खुदरा मीडिया बूम अपनी पहली बड़ी पारदर्शिता परीक्षा में खरा उतरा है",
-      "summary_hi": "भारत के ई-कॉमर्स बाजार में पारदर्शिता को बढ़ावा देने, डार्क पैटर्न पर अंकुश लगाने और उचित मूल्य निर्धारण सुनिश्चित करने के लिए जनवरी 2027 से नए नियम लागू होंगे। बढ़ते समय के बीच त्वरित व्यापार फलता-फूलता है",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "₹17,600 karoda aura ginati: bharata ka khudara midiya buma apani pahali badaी paradarshita pariksha men khara utara hai",
-      "summary_hinglish": "bharata ke ee-komarsa bajara men paradarshita ko badhaाva dene, darka paitarna para ankusha lagane aura uchita mulya nirdharana sunishchita karane ke lie janavari 2027 se nae niyama lagu honge। badhate samaya ke bicha tvarita vyapara phalata-phulata hai",
-      "category_hinglish": "Entertainment"
-    },
-    {
       "id": "4911f7e5a341b5b9",
       "title": "Caught With Pistol, Bhagalpur Criminal Pushes Cop, Jumps Into River To Escape Police; What Happened Next Goes Viral",
       "summary": "The accused, identified as Santosh Yadav, had allegedly been arrested after police recovered a country-made pistol and cartridges from him.",
@@ -171,6 +171,23 @@
       "category_hinglish": "Crime aur Breaking News"
     },
     {
+      "id": "9789a4aba53f8b98",
+      "title": "₹17,600 crore and counting: India's retail media boom meets its first big transparency test",
+      "summary": "India's e-commerce market sees new rules from Jan 2027 to boost transparency, curb dark patterns, and ensure fair pricing. Quick commerce thrives amid rising on",
+      "category": "Entertainment",
+      "image": "https://images.storyboard18.com/storyboard18/2025/07/Untitled-design-2025-07-29T175913.262-2025-07-5c0bff015b9e3994886f93e01157cd32-1019x573.jpg",
+      "source": "Storyboard18",
+      "sourceUrl": "https://www.storyboard18.com/amp/how-it-works/indias-ecommerce-rules-tighten-focus-on-transparency-and-consumer-protection-ws-lo-111509.htm",
+      "publishedAt": "2026-09-28T03:37:58.000Z",
+      "fetchedAt": "2026-09-28T04:55:42.208Z",
+      "title_hi": "₹17,600 करोड़ और गिनती: भारत का खुदरा मीडिया बूम अपनी पहली बड़ी पारदर्शिता परीक्षा में खरा उतरा है",
+      "summary_hi": "भारत के ई-कॉमर्स बाजार में पारदर्शिता को बढ़ावा देने, डार्क पैटर्न पर अंकुश लगाने और उचित मूल्य निर्धारण सुनिश्चित करने के लिए जनवरी 2027 से नए नियम लागू होंगे। बढ़ते समय के बीच त्वरित व्यापार फलता-फूलता है",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "₹17,600 karoda aura ginati: bharata ka khudara midiya buma apani pahali badaी paradarshita pariksha men khara utara hai",
+      "summary_hinglish": "bharata ke ee-komarsa bajara men paradarshita ko badhaाva dene, darka paitarna para ankusha lagane aura uchita mulya nirdharana sunishchita karane ke lie janavari 2027 se nae niyama lagu honge। badhate samaya ke bicha tvarita vyapara phalata-phulata hai",
+      "category_hinglish": "Entertainment"
+    },
+    {
       "id": "f535eacfe01e09ce",
       "title": "India's Pincky Balhara Guarantees Bronze In Asian Games Kurash",
       "summary": "Pincky Balhara has secured at least a bronze medal for India in the women",
@@ -186,6 +203,38 @@
       "category_hinglish": "Sports",
       "title_hinglish": "eshiyaee khelon kurasha men bharata ki pinki balahara ne kansya padaka pakka kiya",
       "summary_hinglish": "mahilaon men pinki balahara ne bharata ke lie kama se kama kansya padaka pakka kara liya hai"
+    },
+    {
+      "id": "22411800cf75db2b",
+      "title": "Vvaan box office collection Day 2: Sidharth Malhotra’s mythological thriller sees a rise; here’s how much it earned",
+      "summary": "Sidharth Malhotra and Tamannaah Bhatia’s mythological film Vvaan sees a jump on Day 2 of its theatrical run. Take a look at the latest box office figures.",
+      "category": "Entertainment",
+      "image": "https://cdn3.wionews.com/prod/wion/images/2026/20260927/image-1790492370752.png?imwidth=1200&imheight=900",
+      "source": "WION",
+      "sourceUrl": "https://www.wionews.com/entertainment/bollywood/vvaan-box-office-collection-day-2-sidharth-malhotra-s-mythological-thriller-sees-a-rise-here-s-how-much-it-earns-1790492269938",
+      "publishedAt": "2026-09-27T10:24:25.000Z",
+      "fetchedAt": "2026-09-28T05:32:28.078Z",
+      "title_hi": "वावान बॉक्स ऑफिस कलेक्शन दिन 2: सिद्धार्थ मल्होत्रा ​​की पौराणिक थ्रिलर में वृद्धि देखी गई; यहां बताया गया है कि इसने कितनी कमाई की",
+      "summary_hi": "सिद्धार्थ मल्होत्रा और तमन्ना भाटिया की पौराणिक फिल्म 'व्वान' की सिनेमाघरों में रिलीज के दूसरे दिन उछाल देखा गया। नवीनतम बॉक्स ऑफिस आंकड़ों पर एक नज़र डालें।",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "vavana boksa ऑphisa kalekshana dina 2: siddhartha malhotra ​​ki pauranika thrilara men vriddhi dekhi gaee; yahan bataya gaya hai ki isane kitani kamaee ki",
+      "summary_hinglish": "siddhartha malhotra aura tamanna bhatiya ki pauranika philma 'vvana' ki sinemagharon men rilija ke dusare dina uchhala dekha gaya। navinatama boksa ऑphisa aankadaोn para eka najara dalen।",
+      "category_hinglish": "Entertainment"
+    },
+    {
+      "id": "cf1abafa28c9788f",
+      "title": "Hanuman Ansh crosses ₹300 crore in India, ₹400 crore worldwide; beats all-time hits 3 Idiots, Kantara, Krrish 3 | Bollywood",
+      "summary": "Hanuman Ansh, made on a ₹2 crore budget, has now grossed over ₹400 crore worldwide, and is still going strong at the Indian box office. | Bollywood",
+      "category": "Entertainment",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/28/1600x900/logo/hanuman_ansh__1790564833699_evUh_1790564833820_gu8U_b0144b19-6d92-4206-961e-a15e434cd258_PisX.jpg",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/entertainment/bollywood/hanuman-ansh-box-office-300-crore-in-india-400-crore-worldwide-beats-all-time-hits-3-idiots-kantara-krrish-3-101790564657593.html",
+      "publishedAt": "2026-09-28T03:23:49.000Z",
+      "fetchedAt": "2026-09-28T05:31:53.156Z",
+      "title_hi": "",
+      "summary_hi": "",
+      "category_hi": "मनोरंजन",
+      "category_hinglish": "Entertainment"
     },
     {
       "id": "8bc506e1881a90ab",
@@ -231,10 +280,12 @@
       "sourceUrl": "https://www.business-standard.com/amp/finance/personal-finance/india-s-housing-market-hits-plateau-sales-flat-at-3-6-lakh-cr-in-h1-2026-126092800084_1.html",
       "publishedAt": "2026-09-28T03:00:09.000Z",
       "fetchedAt": "2026-09-28T04:56:06.191Z",
-      "title_hi": "",
-      "summary_hi": "",
+      "title_hi": "भारत का आवास बाज़ार चरमरा गया: 2026 की पहली छमाही में बिक्री ₹3.6 लाख करोड़ पर स्थिर",
+      "summary_hi": "एमएमआर भारत के सबसे बड़े आवास बाजार के रूप में एनसीआर से आगे निकल गया; बेंगलुरु में 25% की बढ़ोतरी",
       "category_hi": "बिज़नेस और फाइनेंस",
-      "category_hinglish": "Business aur Finance"
+      "category_hinglish": "Business aur Finance",
+      "title_hinglish": "bharata ka aavasa bajaाra charamara gay: 2026 ki pahali chhamahi men bikri ₹3.6 lakha karoda para sthira",
+      "summary_hinglish": "emaemaaara bharata ke sabase badaे aavasa bajara ke rupa men enasiaara se aage nikala gay; bengaluru men 25% ki badhaोtari"
     },
     {
       "id": "2342abaf52756618",
@@ -254,23 +305,6 @@
       "summary_hinglish": "uttari montenegro se bhumi ghonghe ki do naee prajatiyon ki pahachana ki gaee hai, jo jinasa koklostoma ki jnyata vividhata ko jodati hai। do prajatiyan, koklostoma dobrido aura koklostoma komarnik, ki khoja dyuramitora neshanala parka aura komarnika kainyana ke nagarika-vijnyana abhiyanon ke daurana ki gaee thi।"
     },
     {
-      "id": "5e8713d098d8808b",
-      "title": "Bihar Prepares For 2030 Women’s Hockey World Cup, Rajgir Set To Host Global Stars",
-      "summary": "Patna: Bihar has stepped up preparations to host the 2030 FIH Women’s Hockey World Cup in Rajgir, with Sports Minister",
-      "category": "Sports",
-      "image": "https://patnapress.com/wp-content/uploads/2026/09/14a6d003-b4b3-4864-8e5a-b9eb3204c175.jpeg",
-      "source": "Patna Press",
-      "sourceUrl": "https://patnapress.com/bihar-prepares-2030-womens-hockey-world-cup-rajgir/",
-      "publishedAt": "2026-09-26T16:29:12.000Z",
-      "fetchedAt": "2026-09-27T02:49:04.969Z",
-      "title_hi": "बिहार 2030 महिला हॉकी विश्व कप की तैयारी कर रहा है, राजगीर वैश्विक सितारों की मेजबानी के लिए तैयार है",
-      "summary_hi": "पटना: खेल मंत्री के साथ बिहार ने राजगीर में 2030 FIH महिला हॉकी विश्व कप की मेजबानी की तैयारी तेज कर दी है.",
-      "category_hi": "खेल",
-      "title_hinglish": "bihara 2030 mahila hoki vishva kapa ki taiyari kara raha hai, rajagira vaishvika sitaron ki mejabani ke lie taiyara hai",
-      "summary_hinglish": "patan: khela mantri ke satha bihara ne rajagira men 2030 FIH mahila hoki vishva kapa ki mejabani ki taiyari teja kara di hai.",
-      "category_hinglish": "Sports"
-    },
-    {
       "id": "8350edd3ad50a37a",
       "title": "Asiad 2026 IND vs AFG cricket: Nisshin weather & hourly rain forecast today",
       "summary": "Rain and a soaked outfield have already washed out the first men's quarter-final at Korogi Sports Park. India's match faces a drier start but a wetter afternoon.",
@@ -285,6 +319,23 @@
       "category_hi": "खेल",
       "title_hinglish": "eshiyada 2026 IND banama AFG kriket: nishinna mausama aura aaja prati ghanta barisha ka purvanumana",
       "summary_hinglish": "barisha aura gili aautaphilda ke karana korogi sportsa parka men pahala purusha kvartara phainala pahale hi radda ho chuka hai। bharata ke maicha ki shuruaata shushka lekina dopahara gili rahegi।",
+      "category_hinglish": "Sports"
+    },
+    {
+      "id": "5e8713d098d8808b",
+      "title": "Bihar Prepares For 2030 Women’s Hockey World Cup, Rajgir Set To Host Global Stars",
+      "summary": "Patna: Bihar has stepped up preparations to host the 2030 FIH Women’s Hockey World Cup in Rajgir, with Sports Minister",
+      "category": "Sports",
+      "image": "https://patnapress.com/wp-content/uploads/2026/09/14a6d003-b4b3-4864-8e5a-b9eb3204c175.jpeg",
+      "source": "Patna Press",
+      "sourceUrl": "https://patnapress.com/bihar-prepares-2030-womens-hockey-world-cup-rajgir/",
+      "publishedAt": "2026-09-26T16:29:12.000Z",
+      "fetchedAt": "2026-09-27T02:49:04.969Z",
+      "title_hi": "बिहार 2030 महिला हॉकी विश्व कप की तैयारी कर रहा है, राजगीर वैश्विक सितारों की मेजबानी के लिए तैयार है",
+      "summary_hi": "पटना: खेल मंत्री के साथ बिहार ने राजगीर में 2030 FIH महिला हॉकी विश्व कप की मेजबानी की तैयारी तेज कर दी है.",
+      "category_hi": "खेल",
+      "title_hinglish": "bihara 2030 mahila hoki vishva kapa ki taiyari kara raha hai, rajagira vaishvika sitaron ki mejabani ke lie taiyara hai",
+      "summary_hinglish": "patan: khela mantri ke satha bihara ne rajagira men 2030 FIH mahila hoki vishva kapa ki mejabani ki taiyari teja kara di hai.",
       "category_hinglish": "Sports"
     },
     {
@@ -424,23 +475,6 @@
       "category_hinglish": "Crime aur Breaking News"
     },
     {
-      "id": "b2cee53f8a5cf9b2",
-      "title": "Kriti Sanon shares cryptic Instagram post amid Jamui harassment and Delhi rape case: ‘It’s women vs patriarch",
-      "summary": "Kriti Sanon’s latest Instagram activity has caught attention amid the ongoing discussion around the Jamui harassment case. Here’s what the actress shared and why it has sparked conversation.",
-      "category": "Entertainment",
-      "image": "https://static.india.com/wp-content/uploads/2026/09/Kriti-Sanon-.png",
-      "source": "India.com",
-      "sourceUrl": "https://www.india.com/entertainment/bollywood/kriti-sanon-shares-cryptic-instagram-post-amid-jamui-harassment-and-delhi-rape-case-8530229/",
-      "publishedAt": "2026-09-26T07:27:11.000Z",
-      "fetchedAt": "2026-09-26T10:54:04.762Z",
-      "title_hi": "जमुई उत्पीड़न और दिल्ली बलात्कार मामले के बीच कृति सनोन ने गुप्त इंस्टाग्राम पोस्ट साझा किया: 'यह महिला बनाम पितृसत्ता है",
-      "summary_hi": "जमुई उत्पीड़न मामले को लेकर चल रही चर्चा के बीच कृति सेनन की नवीनतम इंस्टाग्राम गतिविधि ने ध्यान खींचा है। यहां बताया गया है कि अभिनेत्री ने क्या साझा किया और क्यों इसने चर्चा को बढ़ावा दिया है।",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "jamuee utpidana aura dilli balatkara mamale ke bicha kriti sanona ne gupta instagrama posta sajha kiy: 'yaha mahila banama pitrisatta hai",
-      "summary_hinglish": "jamuee utpidana mamale ko lekara chala rahi charcha ke bicha kriti senana ki navinatama instagrama gatividhi ne dhyana khincha hai। yahan bataya gaya hai ki abhinetri ne kya sajha kiya aura kyon isane charcha ko badhaाva diya hai।",
-      "category_hinglish": "Entertainment"
-    },
-    {
       "id": "f6e5d7af6e691540",
       "title": "Microdrama’s $300 million moment: 10 shifts reshaping the next entertainment economy",
       "summary": "India’s microdrama market has scaled rapidly in a year, drawing OTT platforms, content companies, broadcasters and brands into a battle for short-form IP, audiences and monetisation.",
@@ -455,6 +489,23 @@
       "category_hi": "मनोरंजन",
       "title_hinglish": "maikrodrama ka $300 miliyana ka kshan: agali manoranjana arthavyavastha ko naya aakara dene vale 10 badalava",
       "summary_hinglish": "bharata ka maikrodrama bajara eka sala men teji se badhaा hai, jisase otiti pletaphorm, kantenta kanpaniyan, brodakastarsa aura branda shorta-phorma aaeepi, ऑdiyansa aura mudrikarana ki ladaाee men shamila ho gae hain।",
+      "category_hinglish": "Entertainment"
+    },
+    {
+      "id": "b2cee53f8a5cf9b2",
+      "title": "Kriti Sanon shares cryptic Instagram post amid Jamui harassment and Delhi rape case: ‘It’s women vs patriarch",
+      "summary": "Kriti Sanon’s latest Instagram activity has caught attention amid the ongoing discussion around the Jamui harassment case. Here’s what the actress shared and why it has sparked conversation.",
+      "category": "Entertainment",
+      "image": "https://static.india.com/wp-content/uploads/2026/09/Kriti-Sanon-.png",
+      "source": "India.com",
+      "sourceUrl": "https://www.india.com/entertainment/bollywood/kriti-sanon-shares-cryptic-instagram-post-amid-jamui-harassment-and-delhi-rape-case-8530229/",
+      "publishedAt": "2026-09-26T07:27:11.000Z",
+      "fetchedAt": "2026-09-26T10:54:04.762Z",
+      "title_hi": "जमुई उत्पीड़न और दिल्ली बलात्कार मामले के बीच कृति सनोन ने गुप्त इंस्टाग्राम पोस्ट साझा किया: 'यह महिला बनाम पितृसत्ता है",
+      "summary_hi": "जमुई उत्पीड़न मामले को लेकर चल रही चर्चा के बीच कृति सेनन की नवीनतम इंस्टाग्राम गतिविधि ने ध्यान खींचा है। यहां बताया गया है कि अभिनेत्री ने क्या साझा किया और क्यों इसने चर्चा को बढ़ावा दिया है।",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "jamuee utpidana aura dilli balatkara mamale ke bicha kriti sanona ne gupta instagrama posta sajha kiy: 'yaha mahila banama pitrisatta hai",
+      "summary_hinglish": "jamuee utpidana mamale ko lekara chala rahi charcha ke bicha kriti senana ki navinatama instagrama gatividhi ne dhyana khincha hai। yahan bataya gaya hai ki abhinetri ne kya sajha kiya aura kyon isane charcha ko badhaाva diya hai।",
       "category_hinglish": "Entertainment"
     },
     {
@@ -594,23 +645,6 @@
       "category_hinglish": "Entertainment"
     },
     {
-      "id": "f606cc4dbdf8b5fe",
-      "title": "Poll panel's SIR orders for Bihar, other states and UTs were unanimous: EC sources amid row | India News",
-      "summary": "The approved SIR orders include Declaration Form to be submitted along with Form 6 for new voters to be added to reduce paper work and for the ease of citizens.",
-      "category": "Politics & Government",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/25/1600x900/logo/PTI04-08-2026-000216B-0_1778754545645_1790338110982_t8iU_df1353e8-b08b-48f9-ae79-083ef850b6e5_V1cb.jpg",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/india-news/poll-panels-sir-orders-for-bihar-other-states-and-uts-were-unanimous-ec-sources-amid-row-101790337602276-amp.html",
-      "publishedAt": "2026-09-25T12:09:23.000Z",
-      "fetchedAt": "2026-09-25T16:53:02.492Z",
-      "title_hi": "बिहार, अन्य राज्यों और केंद्रशासित प्रदेशों के लिए पोल पैनल के एसआईआर आदेश एकमत थे: विवाद के बीच चुनाव आयोग के सूत्र | भारत समाचार",
-      "summary_hi": "अनुमोदित एसआईआर आदेशों में कागजी काम को कम करने और नागरिकों की आसानी के लिए नए मतदाताओं को जोड़ने के लिए फॉर्म 6 के साथ जमा किया जाने वाला घोषणा पत्र शामिल है।",
-      "category_hi": "राजनीति और सरकार",
-      "title_hinglish": "bihar, anya rajyon aura kendrashasita pradeshon ke lie pola painala ke esaaaeeaara aadesha ekamata the: vivada ke bicha chunava aayoga ke sutra | bharata samachara",
-      "summary_hinglish": "anumodita esaaaeeaara aadeshon men kagaji kama ko kama karane aura nagarikon ki aasani ke lie nae matadataon ko jodane ke lie phorma 6 ke satha jama kiya jane vala ghoshana patra shamila hai।",
-      "category_hinglish": "Politics aur Government"
-    },
-    {
       "id": "e2085bdde54052d0",
       "title": "Moving from UAE to India? 6-step financial homecoming guidebook to manage tax residency, bank accounts, Du",
       "summary": "Tax residency, bank accounts, Dubai property and gratuity all need sorting before and after you fly home.",
@@ -626,6 +660,23 @@
       "title_hinglish": "yueee se bharata ja rahe hain? taiksa rejidensi, bainka khaton ka prabandhana karane ke lie 6-charaniya vittiya ghara vapasi gaidabuk, du",
       "summary_hinglish": "taiksa rejidensi, bainka khate, dubaee ki sanpatti aura grechyuti sabhi ko aapake ghara jane se pahale aura bada men chhantane ki jarurata hai।",
       "category_hinglish": "Business aur Finance"
+    },
+    {
+      "id": "f606cc4dbdf8b5fe",
+      "title": "Poll panel's SIR orders for Bihar, other states and UTs were unanimous: EC sources amid row | India News",
+      "summary": "The approved SIR orders include Declaration Form to be submitted along with Form 6 for new voters to be added to reduce paper work and for the ease of citizens.",
+      "category": "Politics & Government",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/25/1600x900/logo/PTI04-08-2026-000216B-0_1778754545645_1790338110982_t8iU_df1353e8-b08b-48f9-ae79-083ef850b6e5_V1cb.jpg",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/poll-panels-sir-orders-for-bihar-other-states-and-uts-were-unanimous-ec-sources-amid-row-101790337602276-amp.html",
+      "publishedAt": "2026-09-25T12:09:23.000Z",
+      "fetchedAt": "2026-09-25T16:53:02.492Z",
+      "title_hi": "बिहार, अन्य राज्यों और केंद्रशासित प्रदेशों के लिए पोल पैनल के एसआईआर आदेश एकमत थे: विवाद के बीच चुनाव आयोग के सूत्र | भारत समाचार",
+      "summary_hi": "अनुमोदित एसआईआर आदेशों में कागजी काम को कम करने और नागरिकों की आसानी के लिए नए मतदाताओं को जोड़ने के लिए फॉर्म 6 के साथ जमा किया जाने वाला घोषणा पत्र शामिल है।",
+      "category_hi": "राजनीति और सरकार",
+      "title_hinglish": "bihar, anya rajyon aura kendrashasita pradeshon ke lie pola painala ke esaaaeeaara aadesha ekamata the: vivada ke bicha chunava aayoga ke sutra | bharata samachara",
+      "summary_hinglish": "anumodita esaaaeeaara aadeshon men kagaji kama ko kama karane aura nagarikon ki aasani ke lie nae matadataon ko jodane ke lie phorma 6 ke satha jama kiya jane vala ghoshana patra shamila hai।",
+      "category_hinglish": "Politics aur Government"
     },
     {
       "id": "e14c04cbe3323585",
@@ -764,23 +815,6 @@
       "category_hinglish": "Sports"
     },
     {
-      "id": "e40637d4fb87586d",
-      "title": "The Vvaan - Force Of The Forrest Movie Review: Sidharth Malhotra and Tamannaah Bhatia Bring Bihar Folklore to the Big Screen",
-      "summary": "The Vvaan - Force Of The Forrest Movie review: Sidharth Malhotra and Tamannaah Bhatia lead a folklore-driven horror adventure rooted in Bihar.",
-      "category": "Entertainment",
-      "image": "https://www.oneworldnews.com/wp-content/uploads/2026/09/The-Vvaan-Force-Of-The-Forrest-Movie-review.webp",
-      "source": "oneworldnews.com",
-      "sourceUrl": "https://www.oneworldnews.com/entertainment/the-vvaan-force-of-the-forrest-movie-review/",
-      "publishedAt": "2026-09-25T06:21:28.000Z",
-      "fetchedAt": "2026-09-25T07:02:49.358Z",
-      "title_hi": "द व्वान - फ़ोर्स ऑफ़ द फ़ॉरेस्ट मूवी समीक्षा: सिद्धार्थ मल्होत्रा और तमन्ना भाटिया बिहार के लोकगीत को बड़े पर्दे पर लाएंगे",
-      "summary_hi": "द व्वान - फ़ोर्स ऑफ़ द फ़ॉरेस्ट मूवी समीक्षा: सिद्धार्थ मल्होत्रा और तमन्ना भाटिया बिहार में निहित लोककथाओं पर आधारित डरावनी साहसिक फिल्म का नेतृत्व करते हैं।",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "da vvana - phaोrsa ऑpha da phaॉresta muvi samiksh: siddhartha malhotra aura tamanna bhatiya bihara ke lokagita ko badaे parde para laenge",
-      "summary_hinglish": "da vvana - phaोrsa ऑpha da phaॉresta muvi samiksh: siddhartha malhotra aura tamanna bhatiya bihara men nihita lokakathaon para aadharita daravani sahasika philma ka netritva karate hain।",
-      "category_hinglish": "Entertainment"
-    },
-    {
       "id": "fe038020c5b12331",
       "title": "CBI arrests 2 for 11cr 'digital arrest loot'",
       "summary": "Following Supreme Court's directions to investigate major 'digital arrest scam' cases, CBI has arrested two individuals connected to a massive cyber fraud network that siphoned off Rs 11.4 crore from a Gujarat victim who was held under 'digital arrest' for three months.",
@@ -796,6 +830,23 @@
       "title_hinglish": "11 karoda ki 'dijitala giraphtari luta' mamale men sibiaaee ne 2 ko giraphtara kiya",
       "summary_hinglish": "pramukha 'dijitala giraphtari ghotala' mamalon ki jancha ke lie suprima korta ke nirdeshon ke bad, sibiaaee ne eka badaे saibara dhokhadhadaी netavarka se judaे do vyaktiyon ko giraphtara kiya hai, jinhonne gujarata ke eka pidaिta se 11.4 karoda rupaye ki herapheri ki thi, jise tina mahine taka 'dijitala giraphtari' ke tahata rakha gaya tha।",
       "category_hinglish": "Crime aur Breaking News"
+    },
+    {
+      "id": "e40637d4fb87586d",
+      "title": "The Vvaan - Force Of The Forrest Movie Review: Sidharth Malhotra and Tamannaah Bhatia Bring Bihar Folklore to the Big Screen",
+      "summary": "The Vvaan - Force Of The Forrest Movie review: Sidharth Malhotra and Tamannaah Bhatia lead a folklore-driven horror adventure rooted in Bihar.",
+      "category": "Entertainment",
+      "image": "https://www.oneworldnews.com/wp-content/uploads/2026/09/The-Vvaan-Force-Of-The-Forrest-Movie-review.webp",
+      "source": "oneworldnews.com",
+      "sourceUrl": "https://www.oneworldnews.com/entertainment/the-vvaan-force-of-the-forrest-movie-review/",
+      "publishedAt": "2026-09-25T06:21:28.000Z",
+      "fetchedAt": "2026-09-25T07:02:49.358Z",
+      "title_hi": "द व्वान - फ़ोर्स ऑफ़ द फ़ॉरेस्ट मूवी समीक्षा: सिद्धार्थ मल्होत्रा और तमन्ना भाटिया बिहार के लोकगीत को बड़े पर्दे पर लाएंगे",
+      "summary_hi": "द व्वान - फ़ोर्स ऑफ़ द फ़ॉरेस्ट मूवी समीक्षा: सिद्धार्थ मल्होत्रा और तमन्ना भाटिया बिहार में निहित लोककथाओं पर आधारित डरावनी साहसिक फिल्म का नेतृत्व करते हैं।",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "da vvana - phaोrsa ऑpha da phaॉresta muvi samiksh: siddhartha malhotra aura tamanna bhatiya bihara ke lokagita ko badaे parde para laenge",
+      "summary_hinglish": "da vvana - phaोrsa ऑpha da phaॉresta muvi samiksh: siddhartha malhotra aura tamanna bhatiya bihara men nihita lokakathaon para aadharita daravani sahasika philma ka netritva karate hain।",
+      "category_hinglish": "Entertainment"
     },
     {
       "id": "bb4a3cf058f00af7",
@@ -932,23 +983,6 @@
       "summary_hinglish": "virata kohali ne 88 gendon men 10 chaukon aura nau chhakkon ki madada se nabada 139 rana banae, jisase bharata ne 296 rana ke lakshya ko kevala 41.4 ovara men saphalatapurvaka hasila kara liya aura pahale vanade men vestaindija ko aatha viketa se hara diy; 37 varshiya khiladaी aba testa aura ti20ee se sannyasa lene ke bada antararashtriya stara para kevala ekadivasiya kriketa khelate hain"
     },
     {
-      "id": "c5f7e8ee9080ec31",
-      "title": "The Vvaan X Review: Why Is Sidharth Malhotra, Tamannaah Bhatia's Movie Being Hailed In UP, Bihar?",
-      "summary": "The Vvaan X Review: Sidharth Malhotra and Tamannaah Bhatia's The Vvaan: Force of the Forest is out in theatres. Early X reviews are largely positive, especially for its depiction of Chhath Puja and Bihar's culture.",
-      "category": "Entertainment",
-      "image": "https://images.thedailyjagran.com/images/2026/09/25/template/image/Vvan-movie-review-1790314619898.webp",
-      "source": "The Daily Jagran",
-      "sourceUrl": "https://www.thedailyjagran.com/entertainment/movie-reviews/the-vvaan-x-review-why-is-sidharth-malhotra-tamannaah-bhatia-movie-being-hailed-in-up-bihar-10330416",
-      "publishedAt": "2026-09-25T05:50:00.000Z",
-      "fetchedAt": "2026-09-25T06:28:40.006Z",
-      "title_hi": "द व्वान एक्स रिव्यू: सिद्धार्थ मल्होत्रा, तमन्ना भाटिया की फिल्म की यूपी, बिहार में क्यों हो रही है सराहना?",
-      "summary_hi": "द वावन एक्स रिव्यू: सिद्धार्थ मल्होत्रा और तमन्ना भाटिया की द वावान: फोर्स ऑफ द फॉरेस्ट सिनेमाघरों में रिलीज हो गई है। शुरुआती एक्स समीक्षाएँ काफी हद तक सकारात्मक हैं, खासकर छठ पूजा और बिहार की संस्कृति के चित्रण के लिए।",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "da vvana eksa rivyu: siddhartha malhotr, tamanna bhatiya ki philma ki yupi, bihara men kyon ho rahi hai sarahan?",
-      "summary_hinglish": "da vavana eksa rivyu: siddhartha malhotra aura tamanna bhatiya ki da vavan: phorsa ऑpha da phoresta sinemagharon men rilija ho gaee hai। shuruaati eksa samikshaen kaphi hada taka sakaratmaka hain, khasakara chhatha puja aura bihara ki sanskriti ke chitrana ke lie।",
-      "category_hinglish": "Entertainment"
-    },
-    {
       "id": "ac8a12afb813e31b",
       "title": "Two held for displaying criminal’s photo during Ganesh visarjan",
       "summary": "Sayajigunj police have arrested two men for displaying the image of a criminal on an LED screen during a Ganesh immersion procession in the city.",
@@ -964,6 +998,23 @@
       "title_hinglish": "ganesha visarjana ke daurana aparadhi ki tasvira pradarshita karane para do giraphtara",
       "summary_hinglish": "sayajiganja pulisa ne shahara men ganesha visarjana julusa ke daurana elaeedi skrina para eka aparadhi ki chhavi pradarshita karane ke aaropa men do logon ko giraphtara kiya hai।",
       "category_hinglish": "Crime aur Breaking News"
+    },
+    {
+      "id": "c5f7e8ee9080ec31",
+      "title": "The Vvaan X Review: Why Is Sidharth Malhotra, Tamannaah Bhatia's Movie Being Hailed In UP, Bihar?",
+      "summary": "The Vvaan X Review: Sidharth Malhotra and Tamannaah Bhatia's The Vvaan: Force of the Forest is out in theatres. Early X reviews are largely positive, especially for its depiction of Chhath Puja and Bihar's culture.",
+      "category": "Entertainment",
+      "image": "https://images.thedailyjagran.com/images/2026/09/25/template/image/Vvan-movie-review-1790314619898.webp",
+      "source": "The Daily Jagran",
+      "sourceUrl": "https://www.thedailyjagran.com/entertainment/movie-reviews/the-vvaan-x-review-why-is-sidharth-malhotra-tamannaah-bhatia-movie-being-hailed-in-up-bihar-10330416",
+      "publishedAt": "2026-09-25T05:50:00.000Z",
+      "fetchedAt": "2026-09-25T06:28:40.006Z",
+      "title_hi": "द व्वान एक्स रिव्यू: सिद्धार्थ मल्होत्रा, तमन्ना भाटिया की फिल्म की यूपी, बिहार में क्यों हो रही है सराहना?",
+      "summary_hi": "द वावन एक्स रिव्यू: सिद्धार्थ मल्होत्रा और तमन्ना भाटिया की द वावान: फोर्स ऑफ द फॉरेस्ट सिनेमाघरों में रिलीज हो गई है। शुरुआती एक्स समीक्षाएँ काफी हद तक सकारात्मक हैं, खासकर छठ पूजा और बिहार की संस्कृति के चित्रण के लिए।",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "da vvana eksa rivyu: siddhartha malhotr, tamanna bhatiya ki philma ki yupi, bihara men kyon ho rahi hai sarahan?",
+      "summary_hinglish": "da vavana eksa rivyu: siddhartha malhotra aura tamanna bhatiya ki da vavan: phorsa ऑpha da phoresta sinemagharon men rilija ho gaee hai। shuruaati eksa samikshaen kaphi hada taka sakaratmaka hain, khasakara chhatha puja aura bihara ki sanskriti ke chitrana ke lie।",
+      "category_hinglish": "Entertainment"
     }
   ]
 }
