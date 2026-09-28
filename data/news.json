@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T14:23:08.985Z",
+  "updatedAt": "2026-09-28T14:41:53.478Z",
   "count": 43,
   "articles": [
     {
@@ -29,10 +29,12 @@
       "sourceUrl": "https://www.hindustantimes.com/india-news/tn-central-crime-branch-registers-another-pocso-case-against-r-veeramani-101790597830251.html",
       "publishedAt": "2026-09-28T13:47:15.000Z",
       "fetchedAt": "2026-09-28T14:22:40.970Z",
-      "title_hi": "",
-      "summary_hi": "",
+      "title_hi": "तमिलनाडु केंद्रीय अपराध शाखा ने आर वीरमणि के खिलाफ एक और पोक्सो मामला दर्ज किया | भारत समाचार",
+      "summary_hi": "वीरमणि पर उसके साथी गणेशन, शांति और महंद्र सिम्हन के साथ पहले से ही पोक्सो मामले में मामला दर्ज किया गया था | भारत समाचार",
       "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "category_hinglish": "Crime aur Breaking News"
+      "category_hinglish": "Crime aur Breaking News",
+      "title_hinglish": "tamilanadu kendriya aparadha shakha ne aara viramani ke khilapha eka aura pokso mamala darja kiya | bharata samachara",
+      "summary_hinglish": "viramani para usake sathi ganeshan, shanti aura mahandra simhana ke satha pahale se hi pokso mamale men mamala darja kiya gaya tha | bharata samachara"
     },
     {
       "id": "52f8be9b290ab20a",
@@ -77,12 +79,10 @@
       "source": "India Today",
       "sourceUrl": "https://www.indiatoday.in/amp/entertainment/video/ranbir-kapoor-celebrates-44th-birthday-with-paparazzi-at-bandra-residence-3004982-2026-09-28",
       "publishedAt": "2026-09-28T13:07:51.000Z",
-      "fetchedAt": "2026-09-28T14:22:51.202Z",
-      "title_hi": "रणबीर कपूर ने बांद्रा स्थित आवास पर पापराज़ी के साथ 44वां जन्मदिन मनाया - इंडिया टुडे",
-      "summary_hi": "अभिनेता रणबीर कपूर 28 सितंबर को 44 साल के हो गए, उन्होंने अपने बांद्रा बंगले के बाहर मीडिया के लिए एक आउटडोर सभा के साथ इस मील के पत्थर का जश्न मनाया। साधारण कपड़े पहनकर, अभिनेता ने मोमबत्तियाँ बुझाने, अनुकूलित केक काटने और प्रेस कोर के साथ समूह तस्वीरों के लिए पोज़ देने के लिए समय निकाला।",
+      "fetchedAt": "2026-09-28T14:41:29.711Z",
+      "title_hi": "",
+      "summary_hi": "",
       "category_hi": "मनोरंजन",
-      "title_hinglish": "ranabira kapura ne bandra sthita aavasa para paparajaी ke satha 44van janmadina manaya - indiya tude",
-      "summary_hinglish": "abhineta ranabira kapura 28 sitanbara ko 44 sala ke ho gae, unhonne apane bandra bangale ke bahara midiya ke lie eka aautadora sabha ke satha isa mila ke patthara ka jashna manaya। sadharana kapadaे pahanakar, abhineta ne momabattiyan bujhane, anukulita keka katane aura presa kora ke satha samuha tasviron ke lie poja dene ke lie samaya nikala।",
       "category_hinglish": "Entertainment"
     },
     {
@@ -154,18 +154,20 @@
       "category_hinglish": "Business aur Finance"
     },
     {
-      "id": "3e072af4993f48ce",
-      "title": "The Vvaan Box Office Collection: Sidharth Malhotra, Tamannaah Bhatias Film Mints Rs 33.25 Cr In Opening Weekend",
-      "summary": "The Vvaan starring Sidharth Malhotra and Tamannaah Bhatia earns Rs 33.25 crore in three days. The film has surpassed the lifetime collections of 26 films.",
+      "id": "5b8a95986db19279",
+      "title": "The Vvaan's Chhath scenes are winning Bihari hearts. Here's what feels so real",
+      "summary": "The Vvaan's Chhath Puja sequence has drawn strong emotional reactions from viewers online. Audiences say the rituals, visuals and Sharda Sinha's song make it feel personal and rooted.",
       "category": "Entertainment",
-      "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/28/5ce93e1466e1c5b8612b4d5f542296ae17905615596311090_original.png?impolicy=abp_cdn&imwidth=1200",
-      "source": "ABP Live English",
-      "sourceUrl": "https://news.abplive.com/entertainment/movies/the-vvaan-box-office-collection-day-3-sidharth-malhotra-tamannaah-bhatia-opening-weekend-1868637",
-      "publishedAt": "2026-09-28T02:13:47.000Z",
-      "fetchedAt": "2026-09-28T14:23:06.417Z",
-      "title_hi": "",
-      "summary_hi": "",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/the-vvaan--chhath-puja-282146821-16x9_0.png?VersionId=E9w3I6gZvguvKa_mdkWMRtz..rG9VEs1",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/movies/bollywood/story/the-vvaan-chhath-puja-scenes-sharda-sinha-song-winning-bihari-hearts-3004629-2026-09-28",
+      "publishedAt": "2026-09-28T07:23:55.000Z",
+      "fetchedAt": "2026-09-28T14:41:48.599Z",
+      "title_hi": "वाण के छठ दृश्य बिहारियों का दिल जीत रहे हैं. यहाँ वह है जो बहुत वास्तविक लगता है",
+      "summary_hi": "व्वान के छठ पूजा सीक्वेंस पर ऑनलाइन दर्शकों की ओर से तीखी भावनात्मक प्रतिक्रियाएं आई हैं। दर्शकों का कहना है कि अनुष्ठान, दृश्य और शारदा सिन्हा का गीत इसे व्यक्तिगत और निहित बनाता है।",
       "category_hi": "मनोरंजन",
+      "title_hinglish": "vana ke chhatha drishya bihariyon ka dila jita rahe hain. yahan vaha hai jo bahuta vastavika lagata hai",
+      "summary_hinglish": "vvana ke chhatha puja sikvensa para ऑnalaina darshakon ki ora se tikhi bhavanatmaka pratikriyaen aaee hain। darshakon ka kahana hai ki anushthan, drishya aura sharada sinha ka gita ise vyaktigata aura nihita banata hai।",
       "category_hinglish": "Entertainment"
     },
     {
@@ -466,12 +468,10 @@
       "source": "olympics.com",
       "sourceUrl": "https://www.olympics.com/en/news/asian-games-2026-medal-tally-india-winners-table-list",
       "publishedAt": "2026-09-28T10:32:00.000Z",
-      "fetchedAt": "2026-09-28T14:22:42.509Z",
-      "title_hi": "एशियाई खेल 2026: भारत की पदक तालिका और विजेताओं की सूची - पूरी तालिका",
-      "summary_hi": "एशियाई खेल 2026 में भारत के विजेताओं की सूची जानें। पदक तालिका जानें और भारतीय एथलीटों ने प्रत्येक खेल में कितने पदक जीते हैं। पूरी मेज.",
+      "fetchedAt": "2026-09-28T14:41:26.853Z",
+      "title_hi": "",
+      "summary_hi": "",
       "category_hi": "खेल",
-      "title_hinglish": "eshiyaee khela 2026: bharata ki padaka talika aura vijetaon ki suchi - puri talika",
-      "summary_hinglish": "eshiyaee khela 2026 men bharata ke vijetaon ki suchi janen। padaka talika janen aura bharatiya ethaliton ne pratyeka khela men kitane padaka jite hain। puri mej.",
       "category_hinglish": "Sports"
     },
     {
@@ -629,17 +629,19 @@
     },
     {
       "id": "63875bf98c851d6f",
-      "title": "India: LPU suspends classes after violent protests over alleged campus rape",
+      "title": "India: LPU suspends classes after unrest over alleged rape",
       "summary": "A university in Punjab has suspended classes after protests over a rumored sexual assault took a violent turn. Separately, the Supreme Court has taken suo motu cognizance of recent rape cases in Delhi. DW has more.",
       "category": "Crime & Breaking News",
       "image": "https://static.dw.com/image/79453995_6.jpg",
       "source": "DW.com",
       "sourceUrl": "https://www.dw.com/en/india-lpu-suspends-classes-after-violent-protests-over-alleged-campus-rape/live-79454038",
       "publishedAt": "2026-09-28T09:43:07.000Z",
-      "fetchedAt": "2026-09-28T14:22:39.818Z",
-      "title_hi": "",
-      "summary_hi": "",
+      "fetchedAt": "2026-09-28T14:41:24.571Z",
+      "title_hi": "भारत: कथित बलात्कार पर अशांति के बाद एलपीयू ने कक्षाएं निलंबित कर दीं",
+      "summary_hi": "यौन उत्पीड़न की अफवाह पर विरोध प्रदर्शन के हिंसक रूप लेने के बाद पंजाब के एक विश्वविद्यालय ने कक्षाएं निलंबित कर दी हैं। सुप्रीम कोर्ट ने दिल्ली में हाल ही में हुए बलात्कार के मामलों पर स्वत: संज्ञान लिया है। डीडब्ल्यू के पास और भी बहुत कुछ है.",
       "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "bharat: kathita balatkara para ashanti ke bada elapiyu ne kakshaen nilanbita kara din",
+      "summary_hinglish": "yauna utpidana ki aphavaha para virodha pradarshana ke hinsaka rupa lene ke bada panjaba ke eka vishvavidyalaya ne kakshaen nilanbita kara di hain। suprima korta ne dilli men hala hi men hue balatkara ke mamalon para svat: sanjnyana liya hai। didablyu ke pasa aura bhi bahuta kuchha hai.",
       "category_hinglish": "Crime aur Breaking News"
     },
     {
