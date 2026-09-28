@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T21:10:02.594Z",
+  "updatedAt": "2026-09-28T21:27:29.485Z",
   "count": 43,
   "articles": [
     {
@@ -52,6 +52,21 @@
       "summary_hinglish": "pashchimi chanparana men eka mahila kanstebala ko eka vidiyo men sivila kapadaोn men sarakara dvara jari hathiyara le jate hue dikhae jane ke bada nilanbita kara diya gaya। jancha men bihara pulisa ke soshala midiya niyamon ka ullanghana paya gay, jisake karana anushasanatmaka karyavahi ki gaee aura vyapaka chetavani di gaee।"
     },
     {
+      "id": "826aa011d3e81367",
+      "title": "US Adds Gangster Goldy Brar To FBI's Top 10 Most Wanted List, Offers $1 Million Bounty",
+      "summary": "The FBI said Brar is believed to live in California and parts of Canada and should be considered armed and dangerous.",
+      "category": "Crime & Breaking News",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/09/fbi-2026-09-a65ef9531c3df315b1789215516a1fad-1200x675.jpg",
+      "source": "News18",
+      "sourceUrl": "https://www.news18.com/amp/world/us-adds-gangster-goldy-brar-to-fbis-top-10-most-wanted-list-offers-1-million-bounty-ws-l-10358112.html",
+      "publishedAt": "2026-09-28T19:28:32.000Z",
+      "fetchedAt": "2026-09-28T21:27:06.850Z",
+      "title_hi": "",
+      "summary_hi": "",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "category_hinglish": "Crime aur Breaking News"
+    },
+    {
       "id": "55d03ef187dfe49a",
       "title": "Lohagad murder: Ketan, Siya, Chetan spotted at crime scene in tourists’ photos",
       "summary": "The Pune rural police have submitted pictures procured from tourists who had visited Lohgad Fort on June 18 and inadvertently captured Ketan Agarwal, Siya Goyal and Chetan Choudhary in the background to the court along with a 5,300-page chargesheet.",
@@ -69,23 +84,6 @@
       "category_hinglish": "Crime aur Breaking News"
     },
     {
-      "id": "420a9175606323d6",
-      "title": "American and six Ukrainians released by India after six months in jail",
-      "summary": "Matthew VanDyke and six Ukrainians were accused of smuggling weapons and drones to armed ethnic groups fighting India.",
-      "category": "Crime & Breaking News",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6abab9a65c-1790622118.jpg?resize=1920%2C1440",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/news/2026/9/28/american-and-six-ukrainians-released-by-india-after-six-months-in-jail",
-      "publishedAt": "2026-09-28T19:17:23.000Z",
-      "fetchedAt": "2026-09-28T19:50:30.045Z",
-      "title_hi": "छह महीने जेल में रहने के बाद भारत ने अमेरिकी और छह यूक्रेनियन को रिहा कर दिया",
-      "summary_hi": "मैथ्यू वानडाइक और छह यूक्रेनियन पर भारत से लड़ने वाले सशस्त्र जातीय समूहों के लिए हथियारों और ड्रोन की तस्करी का आरोप लगाया गया था।",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "category_hinglish": "Crime aur Breaking News",
-      "title_hinglish": "chhaha mahine jela men rahane ke bada bharata ne ameriki aura chhaha yukreniyana ko riha kara diya",
-      "summary_hinglish": "maithyu vanadaika aura chhaha yukreniyana para bharata se ladane vale sashastra jatiya samuhon ke lie hathiyaron aura drona ki taskari ka aaropa lagaya gaya tha।"
-    },
-    {
       "id": "52f8be9b290ab20a",
       "title": "Bihar Power Distribution To Embrace Digital And Smart Technologies By 2030: NBPDCL MD",
       "summary": "Patna: India is committed to developing a modern, digital and smart power distribution system by 2030, NBPDCL managing director Rahul",
@@ -101,6 +99,23 @@
       "title_hinglish": "bihara bijali vitarana 2030 taka dijitala aura smarta praudyogikiyon ko apanaeg: enabipidisiela emadi",
       "summary_hinglish": "patan: bharata 2030 taka eka aadhunik, dijitala aura smarta bijali vitarana pranali vikasita karane ke lie pratibaddha hai, enabipidisiela ke prabandha nideshaka rahula",
       "category_hinglish": "Technology"
+    },
+    {
+      "id": "420a9175606323d6",
+      "title": "American and six Ukrainians released by India after six months in jail",
+      "summary": "Matthew VanDyke and six Ukrainians were accused of smuggling weapons and drones to armed ethnic groups fighting India.",
+      "category": "Crime & Breaking News",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6abab9a65c-1790622118.jpg?resize=1920%2C1440",
+      "source": "Al Jazeera",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/9/28/american-and-six-ukrainians-released-by-india-after-six-months-in-jail",
+      "publishedAt": "2026-09-28T19:17:23.000Z",
+      "fetchedAt": "2026-09-28T19:50:30.045Z",
+      "title_hi": "छह महीने जेल में रहने के बाद भारत ने अमेरिकी और छह यूक्रेनियन को रिहा कर दिया",
+      "summary_hi": "मैथ्यू वानडाइक और छह यूक्रेनियन पर भारत से लड़ने वाले सशस्त्र जातीय समूहों के लिए हथियारों और ड्रोन की तस्करी का आरोप लगाया गया था।",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "category_hinglish": "Crime aur Breaking News",
+      "title_hinglish": "chhaha mahine jela men rahane ke bada bharata ne ameriki aura chhaha yukreniyana ko riha kara diya",
+      "summary_hinglish": "maithyu vanadaika aura chhaha yukreniyana para bharata se ladane vale sashastra jatiya samuhon ke lie hathiyaron aura drona ki taskari ka aaropa lagaya gaya tha।"
     },
     {
       "id": "e9166dea13d21666",
@@ -137,23 +152,6 @@
       "category_hinglish": "National aur Trending News"
     },
     {
-      "id": "36c1af20963f2b50",
-      "title": "Ahmedabad crime branch adds 2 new field units, 2 more in pipeline",
-      "summary": "Ahmedabad city crime branch has expanded its field presence with launch of two new units and two more in the pipeline to strengthen surveillance and keep closer watch on criminals and antisocial elements.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134549212,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/ahmedabad/ahmedabad-crime-branch-adds-2-new-field-units-2-more-in-pipeline/articleshow/134549213.cms",
-      "publishedAt": "2026-09-28T18:41:00.000Z",
-      "fetchedAt": "2026-09-28T18:59:48.435Z",
-      "title_hi": "अहमदाबाद अपराध शाखा ने 2 नई फील्ड इकाइयाँ जोड़ीं, 2 और पाइपलाइन में हैं",
-      "summary_hi": "अहमदाबाद शहर की अपराध शाखा ने निगरानी को मजबूत करने और अपराधियों और असामाजिक तत्वों पर कड़ी नजर रखने के लिए दो नई इकाइयों की शुरुआत के साथ अपनी क्षेत्रीय उपस्थिति का विस्तार किया है और दो और पाइपलाइन में हैं।",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "ahamadabada aparadha shakha ne 2 naee philda ikaiyan jodaीn, 2 aura paipalaina men hain",
-      "summary_hinglish": "ahamadabada shahara ki aparadha shakha ne nigarani ko majabuta karane aura aparadhiyon aura asamajika tatvon para kadaी najara rakhane ke lie do naee ikaiyon ki shuruaata ke satha apani kshetriya upasthiti ka vistara kiya hai aura do aura paipalaina men hain।",
-      "category_hinglish": "Crime aur Breaking News"
-    },
-    {
       "id": "4c6826da4d201796",
       "title": "Tanya Mishra, the Bihar-born model-actress fans are calling India's new 'national crush'",
       "summary": "Viral photographs have pushed the 27-year-old into the spotlight. She has modelled for Femina and Grazia, placed at a Miss India pageant and appeared in the web series Chidiya Udd.",
@@ -169,6 +167,23 @@
       "title_hinglish": "bihara men janmi modala-abhinetri tanya mishra ko prashansaka bharata ki naee 'neshanala krasha' kaha rahe hain",
       "summary_hinglish": "vayarala tasviron ne 27 varshiya ko surkhiyon men la diya hai। unhonne phemina aura grajaिya ke lie modalinga ki hai, misa indiya pratiyogita men bhaga liya hai aura veba shrrinkhala chidaिya uda men dikhaee di hain।",
       "category_hinglish": "National aur Trending News"
+    },
+    {
+      "id": "36c1af20963f2b50",
+      "title": "Ahmedabad crime branch adds 2 new field units, 2 more in pipeline",
+      "summary": "Ahmedabad city crime branch has expanded its field presence with launch of two new units and two more in the pipeline to strengthen surveillance and keep closer watch on criminals and antisocial elements.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134549212,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/ahmedabad/ahmedabad-crime-branch-adds-2-new-field-units-2-more-in-pipeline/articleshow/134549213.cms",
+      "publishedAt": "2026-09-28T18:41:00.000Z",
+      "fetchedAt": "2026-09-28T18:59:48.435Z",
+      "title_hi": "अहमदाबाद अपराध शाखा ने 2 नई फील्ड इकाइयाँ जोड़ीं, 2 और पाइपलाइन में हैं",
+      "summary_hi": "अहमदाबाद शहर की अपराध शाखा ने निगरानी को मजबूत करने और अपराधियों और असामाजिक तत्वों पर कड़ी नजर रखने के लिए दो नई इकाइयों की शुरुआत के साथ अपनी क्षेत्रीय उपस्थिति का विस्तार किया है और दो और पाइपलाइन में हैं।",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "ahamadabada aparadha shakha ne 2 naee philda ikaiyan jodaीn, 2 aura paipalaina men hain",
+      "summary_hinglish": "ahamadabada shahara ki aparadha shakha ne nigarani ko majabuta karane aura aparadhiyon aura asamajika tatvon para kadaी najara rakhane ke lie do naee ikaiyon ki shuruaata ke satha apani kshetriya upasthiti ka vistara kiya hai aura do aura paipalaina men hain।",
+      "category_hinglish": "Crime aur Breaking News"
     },
     {
       "id": "e20bf996a6e15548",
@@ -188,6 +203,21 @@
       "category_hinglish": "Crime aur Breaking News"
     },
     {
+      "id": "3e072af4993f48ce",
+      "title": "The Vvaan Box Office Collection: Sidharth Malhotra, Tamannaah Bhatias Film Mints Rs 33.25 Cr In Opening Weekend",
+      "summary": "The Vvaan starring Sidharth Malhotra and Tamannaah Bhatia earns Rs 33.25 crore in three days. The film has surpassed the lifetime collections of 26 films.",
+      "category": "Entertainment",
+      "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/28/5ce93e1466e1c5b8612b4d5f542296ae17905615596311090_original.png?impolicy=abp_cdn&imwidth=1200",
+      "source": "ABP Live English",
+      "sourceUrl": "https://news.abplive.com/entertainment/movies/the-vvaan-box-office-collection-day-3-sidharth-malhotra-tamannaah-bhatia-opening-weekend-1868637",
+      "publishedAt": "2026-09-28T02:13:47.000Z",
+      "fetchedAt": "2026-09-28T21:27:26.732Z",
+      "title_hi": "",
+      "summary_hi": "",
+      "category_hi": "मनोरंजन",
+      "category_hinglish": "Entertainment"
+    },
+    {
       "id": "098cfc83c57c3799",
       "title": "Operator-chairs reshape mid-cap IT boardrooms",
       "summary": "India’s mid-cap IT sector is seeing a churn in board leadership, with at least five chairman-level changes in 2026 as companies navigate a disruption trifecta — AI reshaping the services model, PE pushing for growth and scale, and consolidation redrawing the competitive landscape.",
@@ -201,21 +231,6 @@
       "summary_hi": "",
       "category_hi": "टेक्नोलॉजी",
       "category_hinglish": "Technology"
-    },
-    {
-      "id": "5b8a95986db19279",
-      "title": "The Vvaan's Chhath scenes are winning Bihari hearts. Here's what feels so real",
-      "summary": "The Vvaan's Chhath Puja sequence has drawn strong emotional reactions from viewers online. Audiences say the rituals, visuals and Sharda Sinha's song make it feel personal and rooted.",
-      "category": "Entertainment",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/the-vvaan--chhath-puja-282146821-16x9_0.png?VersionId=E9w3I6gZvguvKa_mdkWMRtz..rG9VEs1",
-      "source": "indiatoday.in",
-      "sourceUrl": "https://www.indiatoday.in/movies/bollywood/story/the-vvaan-chhath-puja-scenes-sharda-sinha-song-winning-bihari-hearts-3004629-2026-09-28",
-      "publishedAt": "2026-09-28T07:23:55.000Z",
-      "fetchedAt": "2026-09-28T21:10:00.306Z",
-      "title_hi": "",
-      "summary_hi": "",
-      "category_hi": "मनोरंजन",
-      "category_hinglish": "Entertainment"
     },
     {
       "id": "87f850788f219b23",
@@ -235,23 +250,6 @@
       "category_hinglish": "Entertainment"
     },
     {
-      "id": "1b1918778ba03e68",
-      "title": "Pickpockets target festive shoppers in Gariahat",
-      "summary": "An organised pickpocket gang, comprised of women, has allegedly become active in key retail corridors like Gariahat, targeting the crowd of puja shoppers. Kolkata Police has made extensive security arrangements and stepped up anti-crime vigilance to curb the wave of pickpocketing, burglaries, and thefts in major shopping hubs across south…",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134548468,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/kolkata/pickpockets-target-festive-shoppers-in-gariahat/articleshow/134548470.cms",
-      "publishedAt": "2026-09-28T17:42:00.000Z",
-      "fetchedAt": "2026-09-28T17:59:38.243Z",
-      "title_hi": "गरियाहाट में जेबकतरों ने त्योहारी खरीदारी करने वालों को निशाना बनाया",
-      "summary_hi": "महिलाओं से युक्त एक संगठित पॉकेटमार गिरोह कथित तौर पर गरियाहाट जैसे प्रमुख खुदरा गलियारों में सक्रिय हो गया है, जो पूजा खरीदने वालों की भीड़ को निशाना बना रहा है। कोलकाता पुलिस ने दक्षिण भर के प्रमुख शॉपिंग केंद्रों में जेबतराशी, सेंधमारी और चोरी की घटनाओं पर अंकुश लगाने के लिए व्यापक सुरक्षा व्यवस्था की है और अपराध-विरोधी सतर्कता बढ़ा दी है...",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "category_hinglish": "Crime aur Breaking News",
-      "title_hinglish": "gariyahata men jebakataron ne tyohari kharidari karane valon ko nishana banaya",
-      "summary_hinglish": "mahilaon se yukta eka sangathita poketamara giroha kathita taura para gariyahata jaise pramukha khudara galiyaron men sakriya ho gaya hai, jo puja kharidane valon ki bhida ko nishana bana raha hai। kolakata pulisa ne dakshina bhara ke pramukha shopinga kendron men jebatarashi, sendhamari aura chori ki ghatanaon para ankusha lagane ke lie vyapaka suraksha vyavastha ki hai aura aparadha-virodhi satarkata badhaा di hai..."
-    },
-    {
       "id": "be70c7c038ab373d",
       "title": "330 archers compete in state championship",
       "summary": "The three-day Raja Karna Bihar State Archery Championship ‘Lakshya’ 2026 began at Pataliputra Sports Complex on Sunday with 330 archers from across Bihar competing for honours. Organised by the sports department and Bihar State Sports Authority, the championship has 180 boys and 150 girls competing in Under-10, Under-13, Under-15, sub-junior…",
@@ -267,6 +265,23 @@
       "title_hinglish": "rajya chaimpiyanashipa men 330 tirandaja pratispardha karate hain",
       "summary_hinglish": "tina divasiya raja karna bihara rajya tirandaji chainpiyanashipa 'lakshya' 2026 ravivara ko pataliputra sportsa kompleksa men shuru huee, jisamen pure bihara ke 330 tirandaja sammana ke lie pratispardha kara rahe the। khela vibhaga aura bihara rajya khela pradhikarana dvara aayojita isa chainpiyanashipa men 180 ladake aura 150 ladakiyan andara-10, andara-13, andara-15, saba-juniyar...",
       "category_hinglish": "Sports"
+    },
+    {
+      "id": "1b1918778ba03e68",
+      "title": "Pickpockets target festive shoppers in Gariahat",
+      "summary": "An organised pickpocket gang, comprised of women, has allegedly become active in key retail corridors like Gariahat, targeting the crowd of puja shoppers. Kolkata Police has made extensive security arrangements and stepped up anti-crime vigilance to curb the wave of pickpocketing, burglaries, and thefts in major shopping hubs across south…",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134548468,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/kolkata/pickpockets-target-festive-shoppers-in-gariahat/articleshow/134548470.cms",
+      "publishedAt": "2026-09-28T17:42:00.000Z",
+      "fetchedAt": "2026-09-28T17:59:38.243Z",
+      "title_hi": "गरियाहाट में जेबकतरों ने त्योहारी खरीदारी करने वालों को निशाना बनाया",
+      "summary_hi": "महिलाओं से युक्त एक संगठित पॉकेटमार गिरोह कथित तौर पर गरियाहाट जैसे प्रमुख खुदरा गलियारों में सक्रिय हो गया है, जो पूजा खरीदने वालों की भीड़ को निशाना बना रहा है। कोलकाता पुलिस ने दक्षिण भर के प्रमुख शॉपिंग केंद्रों में जेबतराशी, सेंधमारी और चोरी की घटनाओं पर अंकुश लगाने के लिए व्यापक सुरक्षा व्यवस्था की है और अपराध-विरोधी सतर्कता बढ़ा दी है...",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "category_hinglish": "Crime aur Breaking News",
+      "title_hinglish": "gariyahata men jebakataron ne tyohari kharidari karane valon ko nishana banaya",
+      "summary_hinglish": "mahilaon se yukta eka sangathita poketamara giroha kathita taura para gariyahata jaise pramukha khudara galiyaron men sakriya ho gaya hai, jo puja kharidane valon ki bhida ko nishana bana raha hai। kolakata pulisa ne dakshina bhara ke pramukha shopinga kendron men jebatarashi, sendhamari aura chori ki ghatanaon para ankusha lagane ke lie vyapaka suraksha vyavastha ki hai aura aparadha-virodhi satarkata badhaा di hai..."
     },
     {
       "id": "00c04d563e046277",
@@ -303,23 +318,6 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "58d27f9cc1d2eedb",
-      "title": "ET Now Live TV: Business News Live TV Online, Finance & Market News Live Streaming",
-      "summary": "ET Now LIVE TV: Watch ET Now Live TV for the latest Business News and stock market updates. Stay updated with live Business Today News on TV, top market stories, latest news clips by market experts on ET Now and real-time stock market coverage.",
-      "category": "Business & Finance",
-      "image": "https://images.etnownews.com/photo/msid-95762555/95762555.jpg",
-      "source": "ET Now",
-      "sourceUrl": "https://www.etnownews.com/live-tv",
-      "publishedAt": "2026-09-28T17:21:23.000Z",
-      "fetchedAt": "2026-09-28T18:00:17.959Z",
-      "title_hi": "ईटी नाउ लाइव टीवी: बिजनेस न्यूज लाइव टीवी ऑनलाइन, वित्त और बाजार समाचार लाइव स्ट्रीमिंग",
-      "summary_hi": "ईटी नाउ लाइव टीवी: नवीनतम बिजनेस समाचार और शेयर बाजार अपडेट के लिए ईटी नाउ लाइव टीवी देखें। टीवी पर लाइव बिजनेस टुडे समाचार, शीर्ष बाजार की कहानियां, ईटी नाउ पर बाजार विशेषज्ञों द्वारा नवीनतम समाचार क्लिप और वास्तविक समय शेयर बाजार कवरेज से अपडेट रहें।",
-      "category_hi": "बिज़नेस और फाइनेंस",
-      "title_hinglish": "eeti nau laiva tivi: bijanesa nyuja laiva tivi ऑnalain, vitta aura bajara samachara laiva striminga",
-      "summary_hinglish": "eeti nau laiva tivi: navinatama bijanesa samachara aura sheyara bajara apadeta ke lie eeti nau laiva tivi dekhen। tivi para laiva bijanesa tude samachar, shirsha bajara ki kahaniyan, eeti nau para bajara visheshajnyon dvara navinatama samachara klipa aura vastavika samaya sheyara bajara kavareja se apadeta rahen।",
-      "category_hinglish": "Business aur Finance"
-    },
-    {
       "id": "feeef1c1c55ee87e",
       "title": "'Regret supporting': Chirag Paswan attacks Bihar govt over rising crimes against women",
       "summary": "Bihar crime: Union Minister Chirag Paswan expresses shame over the deteriorating law and order situation, criticising the state administration for failing to curb rising crimes against women and demanding strict action.",
@@ -335,6 +333,23 @@
       "title_hinglish": "'samarthana karane ka aphasosa': mahilaon ke khilapha badhate aparadha ko lekara chiraga pasavana ne bihara sarakara para hamala bola",
       "summary_hinglish": "bihara aparadh: kendriya mantri chiraga pasavana ne bigadati kanuna-vyavastha ki sthiti para sharmindagi vyakta ki, mahilaon ke khilapha badhate aparadhon para ankusha lagane men viphala rahane ke lie rajya prashasana ki aalochana ki aura sakhta karravaee ki manga ki।",
       "category_hinglish": "Politics aur Government"
+    },
+    {
+      "id": "58d27f9cc1d2eedb",
+      "title": "ET Now Live TV: Business News Live TV Online, Finance & Market News Live Streaming",
+      "summary": "ET Now LIVE TV: Watch ET Now Live TV for the latest Business News and stock market updates. Stay updated with live Business Today News on TV, top market stories, latest news clips by market experts on ET Now and real-time stock market coverage.",
+      "category": "Business & Finance",
+      "image": "https://images.etnownews.com/photo/msid-95762555/95762555.jpg",
+      "source": "ET Now",
+      "sourceUrl": "https://www.etnownews.com/live-tv",
+      "publishedAt": "2026-09-28T17:21:23.000Z",
+      "fetchedAt": "2026-09-28T18:00:17.959Z",
+      "title_hi": "ईटी नाउ लाइव टीवी: बिजनेस न्यूज लाइव टीवी ऑनलाइन, वित्त और बाजार समाचार लाइव स्ट्रीमिंग",
+      "summary_hi": "ईटी नाउ लाइव टीवी: नवीनतम बिजनेस समाचार और शेयर बाजार अपडेट के लिए ईटी नाउ लाइव टीवी देखें। टीवी पर लाइव बिजनेस टुडे समाचार, शीर्ष बाजार की कहानियां, ईटी नाउ पर बाजार विशेषज्ञों द्वारा नवीनतम समाचार क्लिप और वास्तविक समय शेयर बाजार कवरेज से अपडेट रहें।",
+      "category_hi": "बिज़नेस और फाइनेंस",
+      "title_hinglish": "eeti nau laiva tivi: bijanesa nyuja laiva tivi ऑnalain, vitta aura bajara samachara laiva striminga",
+      "summary_hinglish": "eeti nau laiva tivi: navinatama bijanesa samachara aura sheyara bajara apadeta ke lie eeti nau laiva tivi dekhen। tivi para laiva bijanesa tude samachar, shirsha bajara ki kahaniyan, eeti nau para bajara visheshajnyon dvara navinatama samachara klipa aura vastavika samaya sheyara bajara kavareja se apadeta rahen।",
+      "category_hinglish": "Business aur Finance"
     },
     {
       "id": "112b513f7be57140",
@@ -354,23 +369,6 @@
       "category_hinglish": "National aur Trending News"
     },
     {
-      "id": "bbded6e833947080",
-      "title": "'SP, Congress ki Lanka jalaoge?' UP minister's remarks to new govt recruits spark row",
-      "summary": "Uttar Pradesh minister Om Prakash Rajbhar's remarks asking newly appointed government officials to help \"burn the Lanka\" of the Samajwadi Party (SP) and Congress at a government programme on Monday sparked a political row, with the opposition accusing him of misusing a government platform to target rivals.",
-      "category": "Politics & Government",
-      "image": "https://static.toiimg.com/thumb/msid-134547515,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/sp-congress-ki-lanka-jalaoge-up-ministers-remarks-to-new-govt-recruits-spark-row/articleshow/134547323.cms",
-      "publishedAt": "2026-09-28T16:57:00.000Z",
-      "fetchedAt": "2026-09-28T17:10:36.365Z",
-      "title_hi": "'सपा, कांग्रेस की लंका जलाओगे?' नई सरकारी भर्तियों पर यूपी के मंत्री की टिप्पणी से विवाद छिड़ गया",
-      "summary_hi": "उत्तर प्रदेश के मंत्री ओम प्रकाश राजभर की टिप्पणी ने सोमवार को एक सरकारी कार्यक्रम में नवनियुक्त सरकारी अधिकारियों से समाजवादी पार्टी (सपा) और कांग्रेस की \"लंका को जलाने\" में मदद करने के लिए कहा, जिससे राजनीतिक विवाद पैदा हो गया, विपक्ष ने उन पर प्रतिद्वंद्वियों को निशाना बनाने के लिए सरकारी मंच का दुरुपयोग करने का आरोप लगाया।",
-      "category_hi": "राजनीति और सरकार",
-      "title_hinglish": "'sap, kangresa ki lanka jalaoge?' naee sarakari bhartiyon para yupi ke mantri ki tippani se vivada chhida gaya",
-      "summary_hinglish": "uttara pradesha ke mantri oma prakasha rajabhara ki tippani ne somavara ko eka sarakari karyakrama men navaniyukta sarakari adhikariyon se samajavadi parti (sapa) aura kangresa ki \"lanka ko jalane\" men madada karane ke lie kah, jisase rajanitika vivada paida ho gay, vipaksha ne una para pratidvandviyon ko nishana banane ke lie sarakari mancha ka durupayoga karane ka aaropa lagaya।",
-      "category_hinglish": "Politics aur Government"
-    },
-    {
       "id": "4911f7e5a341b5b9",
       "title": "Caught With Pistol, Bhagalpur Criminal Pushes Cop, Jumps Into River To Escape Police; What Happened Next Goes Viral",
       "summary": "The accused, identified as Santosh Yadav, had allegedly been arrested after police recovered a country-made pistol and cartridges from him.",
@@ -386,6 +384,23 @@
       "title_hinglish": "pistaula ke satha pakadaा gay, bhagalapura aparadhi ne pulisa ko dhakka diy, pulisa se bachane ke lie nadi men kuda gay; aage jo huaa vaha vayarala ho gaya",
       "summary_hinglish": "santosha yadava ke rupa men pahachane gae aaropi ko kathita taura para pulisa dvara usake pasa se eka deshi pistaula aura karatusa baramada karane ke bada giraphtara kara liya gaya tha।",
       "category_hinglish": "Crime aur Breaking News"
+    },
+    {
+      "id": "bbded6e833947080",
+      "title": "'SP, Congress ki Lanka jalaoge?' UP minister's remarks to new govt recruits spark row",
+      "summary": "Uttar Pradesh minister Om Prakash Rajbhar's remarks asking newly appointed government officials to help \"burn the Lanka\" of the Samajwadi Party (SP) and Congress at a government programme on Monday sparked a political row, with the opposition accusing him of misusing a government platform to target rivals.",
+      "category": "Politics & Government",
+      "image": "https://static.toiimg.com/thumb/msid-134547515,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/sp-congress-ki-lanka-jalaoge-up-ministers-remarks-to-new-govt-recruits-spark-row/articleshow/134547323.cms",
+      "publishedAt": "2026-09-28T16:57:00.000Z",
+      "fetchedAt": "2026-09-28T17:10:36.365Z",
+      "title_hi": "'सपा, कांग्रेस की लंका जलाओगे?' नई सरकारी भर्तियों पर यूपी के मंत्री की टिप्पणी से विवाद छिड़ गया",
+      "summary_hi": "उत्तर प्रदेश के मंत्री ओम प्रकाश राजभर की टिप्पणी ने सोमवार को एक सरकारी कार्यक्रम में नवनियुक्त सरकारी अधिकारियों से समाजवादी पार्टी (सपा) और कांग्रेस की \"लंका को जलाने\" में मदद करने के लिए कहा, जिससे राजनीतिक विवाद पैदा हो गया, विपक्ष ने उन पर प्रतिद्वंद्वियों को निशाना बनाने के लिए सरकारी मंच का दुरुपयोग करने का आरोप लगाया।",
+      "category_hi": "राजनीति और सरकार",
+      "title_hinglish": "'sap, kangresa ki lanka jalaoge?' naee sarakari bhartiyon para yupi ke mantri ki tippani se vivada chhida gaya",
+      "summary_hinglish": "uttara pradesha ke mantri oma prakasha rajabhara ki tippani ne somavara ko eka sarakari karyakrama men navaniyukta sarakari adhikariyon se samajavadi parti (sapa) aura kangresa ki \"lanka ko jalane\" men madada karane ke lie kah, jisase rajanitika vivada paida ho gay, vipaksha ne una para pratidvandviyon ko nishana banane ke lie sarakari mancha ka durupayoga karane ka aaropa lagaya।",
+      "category_hinglish": "Politics aur Government"
     },
     {
       "id": "afbd6c93e83b8260",
@@ -405,23 +420,6 @@
       "category_hinglish": "Business aur Finance"
     },
     {
-      "id": "b1abf99498f338e5",
-      "title": "Ankur Rathee, Kareena Kapoor lead this week’s 'IMDb's Trending People In India' list",
-      "summary": "The ‘IMDb Trending People in India’ list this week puts the spotlight on actors and filmmakers who are trending among fans with their recent releases.Ankur Rathee of ‘Best of the Best’ leads the...",
-      "category": "Entertainment",
-      "image": "https://www.millenniumpost.in/h-upload/2026/09/28/1059017-kareena-kapoor-khan-1.jpg",
-      "source": "MillenniumPost",
-      "sourceUrl": "https://www.millenniumpost.in/entertainment/ankur-rathee-kareena-kapoor-lead-this-weeks-imdbs-trending-people-in-india-list-677706",
-      "publishedAt": "2026-09-28T16:47:31.000Z",
-      "fetchedAt": "2026-09-28T17:29:32.045Z",
-      "title_hi": "अंकुर राठी, करीना कपूर इस सप्ताह की 'आईएमडीबी की ट्रेंडिंग पीपल इन इंडिया' सूची में सबसे आगे हैं",
-      "summary_hi": "इस सप्ताह 'आईएमडीबी ट्रेंडिंग पीपल इन इंडिया' सूची उन अभिनेताओं और फिल्म निर्माताओं पर प्रकाश डालती है जो अपनी हालिया रिलीज के साथ प्रशंसकों के बीच ट्रेंड कर रहे हैं। 'बेस्ट ऑफ द बेस्ट' के अंकुर राठी सबसे आगे हैं...",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "ankura rathi, karina kapura isa saptaha ki 'aaeeemadibi ki trendinga pipala ina indiya' suchi men sabase aage hain",
-      "summary_hinglish": "isa saptaha 'aaeeemadibi trendinga pipala ina indiya' suchi una abhinetaon aura philma nirmataon para prakasha dalati hai jo apani haliya rilija ke satha prashansakon ke bicha trenda kara rahe hain। 'besta ऑpha da besta' ke ankura rathi sabase aage hain...",
-      "category_hinglish": "Entertainment"
-    },
-    {
       "id": "03943fafde680d0a",
       "title": "Samrat: Bihar, Centre to coordinate on cross-border crimes along Nepal border",
       "summary": "Bihar govt and Centre will work in close coordination to curb infiltration, counterfeit currency, drug trafficking and other cross-border crimes along the sensitive India-Nepal border, CM Samrat Choudhary said here on Saturday after chairing a comprehensive high-level review meeting at the ‘Samvad’ hall in the Chief Minister’s Secretariat.",
@@ -437,6 +435,23 @@
       "title_hinglish": "samrat: bihar, kendra nepala sima para sima para aparadhon para samanvaya karen",
       "summary_hinglish": "mukhyamantri samrata chaudhari ne shanivara ko mukhyamantri sachivalaya ke 'sanvada' hola men eka vyapaka uchcha stariya samiksha baithaka ki adhyakshata karane ke bada kaha ki sanvedanashila bharata-nepala sima para ghusapaith, jali mudr, madaka padarthon ki taskari aura anya sima para aparadhon ko rokane ke lie bihara sarakara aura kendra nikata samanvaya men kama karenge।",
       "category_hinglish": "Crime aur Breaking News"
+    },
+    {
+      "id": "b1abf99498f338e5",
+      "title": "Ankur Rathee, Kareena Kapoor lead this week’s 'IMDb's Trending People In India' list",
+      "summary": "The ‘IMDb Trending People in India’ list this week puts the spotlight on actors and filmmakers who are trending among fans with their recent releases.Ankur Rathee of ‘Best of the Best’ leads the...",
+      "category": "Entertainment",
+      "image": "https://www.millenniumpost.in/h-upload/2026/09/28/1059017-kareena-kapoor-khan-1.jpg",
+      "source": "MillenniumPost",
+      "sourceUrl": "https://www.millenniumpost.in/entertainment/ankur-rathee-kareena-kapoor-lead-this-weeks-imdbs-trending-people-in-india-list-677706",
+      "publishedAt": "2026-09-28T16:47:31.000Z",
+      "fetchedAt": "2026-09-28T17:29:32.045Z",
+      "title_hi": "अंकुर राठी, करीना कपूर इस सप्ताह की 'आईएमडीबी की ट्रेंडिंग पीपल इन इंडिया' सूची में सबसे आगे हैं",
+      "summary_hi": "इस सप्ताह 'आईएमडीबी ट्रेंडिंग पीपल इन इंडिया' सूची उन अभिनेताओं और फिल्म निर्माताओं पर प्रकाश डालती है जो अपनी हालिया रिलीज के साथ प्रशंसकों के बीच ट्रेंड कर रहे हैं। 'बेस्ट ऑफ द बेस्ट' के अंकुर राठी सबसे आगे हैं...",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "ankura rathi, karina kapura isa saptaha ki 'aaeeemadibi ki trendinga pipala ina indiya' suchi men sabase aage hain",
+      "summary_hinglish": "isa saptaha 'aaeeemadibi trendinga pipala ina indiya' suchi una abhinetaon aura philma nirmataon para prakasha dalati hai jo apani haliya rilija ke satha prashansakon ke bicha trenda kara rahe hain। 'besta ऑpha da besta' ke ankura rathi sabase aage hain...",
+      "category_hinglish": "Entertainment"
     },
     {
       "id": "68ee1b0a093a02f0",
@@ -464,10 +479,27 @@
       "source": "olympics.com",
       "sourceUrl": "https://www.olympics.com/en/news/asian-games-2026-medal-tally-india-winners-table-list",
       "publishedAt": "2026-09-28T15:57:00.000Z",
-      "fetchedAt": "2026-09-28T21:09:46.349Z",
+      "fetchedAt": "2026-09-28T21:27:08.149Z",
       "title_hi": "",
       "summary_hi": "",
       "category_hi": "खेल",
+      "category_hinglish": "Sports"
+    },
+    {
+      "id": "5e8713d098d8808b",
+      "title": "Bihar Prepares For 2030 Women’s Hockey World Cup, Rajgir Set To Host Global Stars",
+      "summary": "Patna: Bihar has stepped up preparations to host the 2030 FIH Women’s Hockey World Cup in Rajgir, with Sports Minister",
+      "category": "Sports",
+      "image": "https://patnapress.com/wp-content/uploads/2026/09/14a6d003-b4b3-4864-8e5a-b9eb3204c175.jpeg",
+      "source": "Patna Press",
+      "sourceUrl": "https://patnapress.com/bihar-prepares-2030-womens-hockey-world-cup-rajgir/",
+      "publishedAt": "2026-09-26T16:29:12.000Z",
+      "fetchedAt": "2026-09-27T02:49:04.969Z",
+      "title_hi": "बिहार 2030 महिला हॉकी विश्व कप की तैयारी कर रहा है, राजगीर वैश्विक सितारों की मेजबानी के लिए तैयार है",
+      "summary_hi": "पटना: खेल मंत्री के साथ बिहार ने राजगीर में 2030 FIH महिला हॉकी विश्व कप की मेजबानी की तैयारी तेज कर दी है.",
+      "category_hi": "खेल",
+      "title_hinglish": "bihara 2030 mahila hoki vishva kapa ki taiyari kara raha hai, rajagira vaishvika sitaron ki mejabani ke lie taiyara hai",
+      "summary_hinglish": "patan: khela mantri ke satha bihara ne rajagira men 2030 FIH mahila hoki vishva kapa ki mejabani ki taiyari teja kara di hai.",
       "category_hinglish": "Sports"
     },
     {
@@ -488,23 +520,6 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "5e8713d098d8808b",
-      "title": "Bihar Prepares For 2030 Women’s Hockey World Cup, Rajgir Set To Host Global Stars",
-      "summary": "Patna: Bihar has stepped up preparations to host the 2030 FIH Women’s Hockey World Cup in Rajgir, with Sports Minister",
-      "category": "Sports",
-      "image": "https://patnapress.com/wp-content/uploads/2026/09/14a6d003-b4b3-4864-8e5a-b9eb3204c175.jpeg",
-      "source": "Patna Press",
-      "sourceUrl": "https://patnapress.com/bihar-prepares-2030-womens-hockey-world-cup-rajgir/",
-      "publishedAt": "2026-09-26T16:29:12.000Z",
-      "fetchedAt": "2026-09-27T02:49:04.969Z",
-      "title_hi": "बिहार 2030 महिला हॉकी विश्व कप की तैयारी कर रहा है, राजगीर वैश्विक सितारों की मेजबानी के लिए तैयार है",
-      "summary_hi": "पटना: खेल मंत्री के साथ बिहार ने राजगीर में 2030 FIH महिला हॉकी विश्व कप की मेजबानी की तैयारी तेज कर दी है.",
-      "category_hi": "खेल",
-      "title_hinglish": "bihara 2030 mahila hoki vishva kapa ki taiyari kara raha hai, rajagira vaishvika sitaron ki mejabani ke lie taiyara hai",
-      "summary_hinglish": "patan: khela mantri ke satha bihara ne rajagira men 2030 FIH mahila hoki vishva kapa ki mejabani ki taiyari teja kara di hai.",
-      "category_hinglish": "Sports"
-    },
-    {
       "id": "2a6e451fd15eef48",
       "title": "Asian Games, Day 9: India clinch 8 medals as athletics & javelin stars shine",
       "summary": "India enjoyed a prolific Day 9 at the 2026 Asian Games, winning eight medals led by a javelin double podium and Vithya Ramraj's record-breaking run.",
@@ -519,23 +534,6 @@
       "category_hi": "खेल",
       "title_hinglish": "eshiyaee khel, dina 9: ethaletiksa aura bhala phenka sitaron ki chamaka se bharata ne 8 padaka jite",
       "summary_hinglish": "bharata ne 2026 eshiyaee khelon men 9ven dina shanadara pradarshana kiy, bhala phenka dabala podiyama aura vithya ramaraja ki rikorda-brekinga dauda ke netritva men aatha padaka jite।",
-      "category_hinglish": "Sports"
-    },
-    {
-      "id": "14af60cb46c0dd0f",
-      "title": "With God by her side, Vithya breaks oldest Indian athletics record to win bronze",
-      "summary": "NAGOYA: HER initial target to break the women's 400m hurdles national record -- the country's longest-standing and one of its most famous athletics records -- w",
-      "category": "Sports",
-      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-09-28%2Fcv1npf71%2FVithya.JPG?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "source": "The New Indian Express",
-      "sourceUrl": "https://www.newindianexpress.com/sport/sports-news/2026/Sep/28/with-god-by-her-side-vithya-breaks-oldest-indian-athletics-record-to-win-bronze",
-      "publishedAt": "2026-09-28T15:15:01.000Z",
-      "fetchedAt": "2026-09-28T17:46:50.427Z",
-      "title_hi": "ईश्वर के साथ, विथ्या ने कांस्य पदक जीतने का सबसे पुराना भारतीय एथलेटिक्स रिकॉर्ड तोड़ दिया",
-      "summary_hi": "नागोया: उनका प्रारंभिक लक्ष्य महिलाओं की 400 मीटर बाधा दौड़ के राष्ट्रीय रिकॉर्ड को तोड़ना है - जो देश का सबसे लंबे समय तक चलने वाला और सबसे प्रसिद्ध एथलेटिक्स रिकॉर्ड में से एक है।",
-      "category_hi": "खेल",
-      "title_hinglish": "eeshvara ke sath, vithya ne kansya padaka jitane ka sabase purana bharatiya ethaletiksa rikorda toda diya",
-      "summary_hinglish": "nagoy: unaka praranbhika lakshya mahilaon ki 400 mitara badha dauda ke rashtriya rikorda ko todana hai - jo desha ka sabase lanbe samaya taka chalane vala aura sabase prasiddha ethaletiksa rikorda men se eka hai।",
       "category_hinglish": "Sports"
     },
     {
@@ -556,6 +554,23 @@
       "category_hinglish": "Entertainment"
     },
     {
+      "id": "14af60cb46c0dd0f",
+      "title": "With God by her side, Vithya breaks oldest Indian athletics record to win bronze",
+      "summary": "NAGOYA: HER initial target to break the women's 400m hurdles national record -- the country's longest-standing and one of its most famous athletics records -- w",
+      "category": "Sports",
+      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-09-28%2Fcv1npf71%2FVithya.JPG?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "The New Indian Express",
+      "sourceUrl": "https://www.newindianexpress.com/sport/sports-news/2026/Sep/28/with-god-by-her-side-vithya-breaks-oldest-indian-athletics-record-to-win-bronze",
+      "publishedAt": "2026-09-28T15:15:01.000Z",
+      "fetchedAt": "2026-09-28T17:46:50.427Z",
+      "title_hi": "ईश्वर के साथ, विथ्या ने कांस्य पदक जीतने का सबसे पुराना भारतीय एथलेटिक्स रिकॉर्ड तोड़ दिया",
+      "summary_hi": "नागोया: उनका प्रारंभिक लक्ष्य महिलाओं की 400 मीटर बाधा दौड़ के राष्ट्रीय रिकॉर्ड को तोड़ना है - जो देश का सबसे लंबे समय तक चलने वाला और सबसे प्रसिद्ध एथलेटिक्स रिकॉर्ड में से एक है।",
+      "category_hi": "खेल",
+      "title_hinglish": "eeshvara ke sath, vithya ne kansya padaka jitane ka sabase purana bharatiya ethaletiksa rikorda toda diya",
+      "summary_hinglish": "nagoy: unaka praranbhika lakshya mahilaon ki 400 mitara badha dauda ke rashtriya rikorda ko todana hai - jo desha ka sabase lanbe samaya taka chalane vala aura sabase prasiddha ethaletiksa rikorda men se eka hai।",
+      "category_hinglish": "Sports"
+    },
+    {
       "id": "757a4ad1f54a89e8",
       "title": "The Paradise Box Office Collection Day 5: Nani's Film Nears Rs 100 Crore In India After Strong Weekend",
       "summary": "The Paradise sees a Monday drop after a strong weekend, but Nani's film remains close to crossing a major box office milestone in India.",
@@ -573,23 +588,6 @@
       "summary_hinglish": "majabuta saptahanta ke bada somavara ko da pairadaija men giravata dekhi gaee, lekina nani ki philma bharata men boksa ऑphisa para eka badaी upalabdhi hasila karane ke kariba hai।"
     },
     {
-      "id": "4853af16c12a0c61",
-      "title": "Home Minister Amit Shah calls for tech-driven counter-terror response under PRAHAAR strategy",
-      "summary": "NEW DELHI: Union Home Minister Amit Shah on Monday launched a new ‘Extradition Portal’ to streamline and speed up efforts to bring fugitives back to India, whil",
-      "category": "Technology",
-      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-09-28%2Fq2hi2bfc%2FANI_20250726032532.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "source": "The New Indian Express",
-      "sourceUrl": "https://www.newindianexpress.com/india/2026/Sep/28/home-minister-amit-shah-calls-for-tech-driven-counter-terror-response-under-prahaar-strategy",
-      "publishedAt": "2026-09-28T14:56:14.000Z",
-      "fetchedAt": "2026-09-28T15:23:04.697Z",
-      "title_hi": "गृह मंत्री अमित शाह ने प्रहार रणनीति के तहत तकनीक-संचालित आतंकवाद विरोधी प्रतिक्रिया का आह्वान किया",
-      "summary_hi": "नई दिल्ली: केंद्रीय गृह मंत्री अमित शाह ने भगोड़ों को भारत वापस लाने के प्रयासों को सुव्यवस्थित और तेज करने के लिए सोमवार को एक नया 'प्रत्यर्पण पोर्टल' लॉन्च किया।",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "griha mantri amita shaha ne prahara rananiti ke tahata takanika-sanchalita aatankavada virodhi pratikriya ka aahvana kiya",
-      "summary_hinglish": "naee dilli: kendriya griha mantri amita shaha ne bhagodaोn ko bharata vapasa lane ke prayason ko suvyavasthita aura teja karane ke lie somavara ko eka naya 'pratyarpana portala' loncha kiya।",
-      "category_hinglish": "Technology"
-    },
-    {
       "id": "0fd2b8e1e638217a",
       "title": "After Bankipur win, Prashant Kishor's party weighs Delhi expansion | India News",
       "summary": "Supporters of Jan Suraaj in the national capital have been pressing for the party to establish a presence in Delhi.",
@@ -605,6 +603,23 @@
       "title_hinglish": "bankipura jita ke bada prashanta kishora ki parti dilli vistara para vichara kara rahi hai | bharata samachara",
       "summary_hinglish": "rashtriya rajadhani men jana suraja ke samarthaka parti para dilli men upasthiti sthapita karane ke lie dabava dala rahe hain।",
       "category_hinglish": "Politics aur Government"
+    },
+    {
+      "id": "4853af16c12a0c61",
+      "title": "Home Minister Amit Shah calls for tech-driven counter-terror response under PRAHAAR strategy",
+      "summary": "NEW DELHI: Union Home Minister Amit Shah on Monday launched a new ‘Extradition Portal’ to streamline and speed up efforts to bring fugitives back to India, whil",
+      "category": "Technology",
+      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-09-28%2Fq2hi2bfc%2FANI_20250726032532.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "The New Indian Express",
+      "sourceUrl": "https://www.newindianexpress.com/india/2026/Sep/28/home-minister-amit-shah-calls-for-tech-driven-counter-terror-response-under-prahaar-strategy",
+      "publishedAt": "2026-09-28T14:56:14.000Z",
+      "fetchedAt": "2026-09-28T15:23:04.697Z",
+      "title_hi": "गृह मंत्री अमित शाह ने प्रहार रणनीति के तहत तकनीक-संचालित आतंकवाद विरोधी प्रतिक्रिया का आह्वान किया",
+      "summary_hi": "नई दिल्ली: केंद्रीय गृह मंत्री अमित शाह ने भगोड़ों को भारत वापस लाने के प्रयासों को सुव्यवस्थित और तेज करने के लिए सोमवार को एक नया 'प्रत्यर्पण पोर्टल' लॉन्च किया।",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "griha mantri amita shaha ne prahara rananiti ke tahata takanika-sanchalita aatankavada virodhi pratikriya ka aahvana kiya",
+      "summary_hinglish": "naee dilli: kendriya griha mantri amita shaha ne bhagodaोn ko bharata vapasa lane ke prayason ko suvyavasthita aura teja karane ke lie somavara ko eka naya 'pratyarpana portala' loncha kiya।",
+      "category_hinglish": "Technology"
     },
     {
       "id": "88c4142d03481bcc",
@@ -641,23 +656,6 @@
       "summary_hinglish": "yauna utpidana ki aphavaha para virodha pradarshana ke hinsaka rupa lene ke bada panjaba ke eka vishvavidyalaya ne kakshaen nilanbita kara di hain। suprima korta ne dilli men hala hi men hue balatkara ke mamalon para svat: sanjnyana liya hai। didablyu ke pasa aura bhi bahuta kuchha hai."
     },
     {
-      "id": "acda31530fba0253",
-      "title": "Indian Athletes Gear Up For Action-Packed Day At Asian Games",
-      "summary": "A comprehensive schedule detailing the events and timings for Indian athletes participating in the Asian Games on Tuesday, September 29, across various sports including archery, athletics, boxing, shooting, tennis, and more, with numerous medal events highlighted.",
-      "category": "Sports",
-      "image": "https://im.rediff.com/1200-630/sports/2023/oct/03neeraj-schedule.jpg",
-      "source": "Rediff",
-      "sourceUrl": "https://www.rediff.com/sports/report/india-schedule-for-asian-games-september-29/20260928.htm",
-      "publishedAt": "2026-09-28T14:21:49.000Z",
-      "fetchedAt": "2026-09-28T15:22:44.973Z",
-      "title_hi": "भारतीय एथलीट एशियाई खेलों में एक्शन से भरपूर दिन के लिए तैयार हैं",
-      "summary_hi": "तीरंदाजी, एथलेटिक्स, मुक्केबाजी, निशानेबाजी, टेनिस और अन्य सहित विभिन्न खेलों में मंगलवार, 29 सितंबर को एशियाई खेलों में भाग लेने वाले भारतीय एथलीटों के लिए घटनाओं और समय का विवरण देने वाला एक व्यापक कार्यक्रम, जिसमें कई पदक स्पर्धाओं पर प्रकाश डाला गया है।",
-      "category_hi": "खेल",
-      "title_hinglish": "bharatiya ethalita eshiyaee khelon men ekshana se bharapura dina ke lie taiyara hain",
-      "summary_hinglish": "tirandaji, ethaletiks, mukkebaji, nishanebaji, tenisa aura anya sahita vibhinna khelon men mangalavar, 29 sitanbara ko eshiyaee khelon men bhaga lene vale bharatiya ethaliton ke lie ghatanaon aura samaya ka vivarana dene vala eka vyapaka karyakram, jisamen kaee padaka spardhaon para prakasha dala gaya hai।",
-      "category_hinglish": "Sports"
-    },
-    {
       "id": "b2cee53f8a5cf9b2",
       "title": "Kriti Sanon shares cryptic Instagram post amid Jamui harassment and Delhi rape case: ‘It’s women vs patriarch",
       "summary": "Kriti Sanon’s latest Instagram activity has caught attention amid the ongoing discussion around the Jamui harassment case. Here’s what the actress shared and why it has sparked conversation.",
@@ -675,6 +673,23 @@
       "category_hinglish": "Entertainment"
     },
     {
+      "id": "acda31530fba0253",
+      "title": "Indian Athletes Gear Up For Action-Packed Day At Asian Games",
+      "summary": "A comprehensive schedule detailing the events and timings for Indian athletes participating in the Asian Games on Tuesday, September 29, across various sports including archery, athletics, boxing, shooting, tennis, and more, with numerous medal events highlighted.",
+      "category": "Sports",
+      "image": "https://im.rediff.com/1200-630/sports/2023/oct/03neeraj-schedule.jpg",
+      "source": "Rediff",
+      "sourceUrl": "https://www.rediff.com/sports/report/india-schedule-for-asian-games-september-29/20260928.htm",
+      "publishedAt": "2026-09-28T14:21:49.000Z",
+      "fetchedAt": "2026-09-28T15:22:44.973Z",
+      "title_hi": "भारतीय एथलीट एशियाई खेलों में एक्शन से भरपूर दिन के लिए तैयार हैं",
+      "summary_hi": "तीरंदाजी, एथलेटिक्स, मुक्केबाजी, निशानेबाजी, टेनिस और अन्य सहित विभिन्न खेलों में मंगलवार, 29 सितंबर को एशियाई खेलों में भाग लेने वाले भारतीय एथलीटों के लिए घटनाओं और समय का विवरण देने वाला एक व्यापक कार्यक्रम, जिसमें कई पदक स्पर्धाओं पर प्रकाश डाला गया है।",
+      "category_hi": "खेल",
+      "title_hinglish": "bharatiya ethalita eshiyaee khelon men ekshana se bharapura dina ke lie taiyara hain",
+      "summary_hinglish": "tirandaji, ethaletiks, mukkebaji, nishanebaji, tenisa aura anya sahita vibhinna khelon men mangalavar, 29 sitanbara ko eshiyaee khelon men bhaga lene vale bharatiya ethaliton ke lie ghatanaon aura samaya ka vivarana dene vala eka vyapaka karyakram, jisamen kaee padaka spardhaon para prakasha dala gaya hai।",
+      "category_hinglish": "Sports"
+    },
+    {
       "id": "e73b0cccf6043dc7",
       "title": "India’s ARV drug shipment to Botswana not linked to 8 cheetahs, says govt official",
       "summary": "A Botswana publication called the shipment 'Cheetah diplomacy pays off', linking India’s supply of antiretroviral drugs to Botswana’s gift of eight cheetahs.",
@@ -690,23 +705,6 @@
       "category_hinglish": "Politics aur Government",
       "title_hinglish": "sarakari adhikari ka kahana hai ki botsavana ko bharata ki eaaravi dava shipamenta 8 chiton se judaी nahin hai",
       "summary_hinglish": "botsavana ke eka prakashana ne shipamenta ko 'chita kutaniti ka phala' kah, jisamen bharata ki entiretrovayarala davaon ki aapurti ko botsavana ke aatha chiton ke upahara se jodaा gaya।"
-    },
-    {
-      "id": "3af88ef6d79912d0",
-      "title": "India’s Finance Minister Places Quantum Among Next Major Infrastructure Investment Priorities",
-      "summary": "India’s next major infrastructure investments will include quantum technology, AI and semiconductor chips.",
-      "category": "Technology",
-      "image": "https://thequantuminsider.com/wp-content/uploads/2026/09/g-8imdqeeec.jpg",
-      "source": "The Quantum Insider",
-      "sourceUrl": "https://thequantuminsider.com/2026/09/28/indias-finance-minister-places-quantum-among-next-major-infrastructure-investment-priorities/",
-      "publishedAt": "2026-09-28T14:14:14.000Z",
-      "fetchedAt": "2026-09-28T14:22:56.641Z",
-      "title_hi": "भारत के वित्त मंत्री ने क्वांटम को अगली प्रमुख बुनियादी ढांचागत निवेश प्राथमिकताओं में रखा है",
-      "summary_hi": "भारत के अगले प्रमुख बुनियादी ढांचा निवेश में क्वांटम प्रौद्योगिकी, एआई और सेमीकंडक्टर चिप्स शामिल होंगे।",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "bharata ke vitta mantri ne kvantama ko agali pramukha buniyadi dhanchagata nivesha prathamikataon men rakha hai",
-      "summary_hinglish": "bharata ke agale pramukha buniyadi dhancha nivesha men kvantama praudyogiki, eaaee aura semikandaktara chipsa shamila honge।",
-      "category_hinglish": "Technology"
     },
     {
       "id": "75f8a86af71d4e53",
