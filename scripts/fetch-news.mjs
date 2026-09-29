@@ -628,6 +628,25 @@ function isHttpUrl(value = "") {
   }
 }
 
+function isFacebookSource(article = {}) {
+  const values = [
+    article?.source,
+    article?.sourceUrl,
+    article?.url,
+    article?.link,
+  ]
+    .filter(Boolean)
+    .map((value) => String(value).toLowerCase());
+
+  return values.some(
+    (value) =>
+      value.includes("facebook.com") ||
+      value.includes("fb.com") ||
+      value.includes("m.facebook.com") ||
+      value.includes("facebook")
+  );
+}
+
 function isUsableImageUrl(value = "") {
   if (!isHttpUrl(value)) return false;
 
@@ -724,6 +743,7 @@ function articleHasArchiveQuality(article) {
   const publishedAt = new Date(article?.publishedAt).getTime();
 
   return (
+    !isFacebookSource(article) &&
     countWords(title) === HEADLINE_WORDS &&
     hasRequiredSummary(article) &&
     isHttpUrl(sourceUrl) &&
@@ -739,6 +759,7 @@ function articleHasRequiredQuality(article) {
   const sourceUrl = article?.sourceUrl || article?.url || article?.link || "";
 
   return (
+    !isFacebookSource(article) &&
     countWords(title) === HEADLINE_WORDS &&
     hasRequiredSummary(article) &&
     source.length >= 2 &&
@@ -1054,6 +1075,10 @@ async function fetchCategory(category, knownLinks, knownTitles, maxNew, scope) {
         : "";
 
     if (
+      isFacebookSource({
+        source: item.source,
+        sourceUrl,
+      }) ||
       !isHttpUrl(sourceUrl) ||
       !headline ||
       countWords(headline) !== HEADLINE_WORDS ||
