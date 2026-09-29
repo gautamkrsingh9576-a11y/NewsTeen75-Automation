@@ -1,7 +1,24 @@
 {
-  "updatedAt": "2026-09-29T13:08:52.603Z",
-  "count": 30,
+  "updatedAt": "2026-09-29T13:32:29.912Z",
+  "count": 33,
   "articles": [
+    {
+      "id": "9a495bca1f59eae5",
+      "title": "Entertainment can be India’s next IT export: Saurabh Pandey at FICCI FRAMES",
+      "summary": "At FICCI FRAMES, EloElo’s Saurabh Pandey discussed India’s microdrama growth, AI-led production and entertainment’s potential as a global export.",
+      "category": "Entertainment",
+      "image": "https://mediabrief.com/wp-content/uploads/2026/09/Image-Saurabh-Pandey-at-FICCI-FRAMES-MediaBrief.jpg",
+      "source": "MediaBrief",
+      "sourceUrl": "https://mediabrief.com/saurabh-pandey-entertainment-ficci-frames/",
+      "publishedAt": "2026-09-29T13:20:14.000Z",
+      "fetchedAt": "2026-09-29T13:31:39.549Z",
+      "title_hi": "मनोरंजन भारत का अगला आईटी निर्यात हो सकता है: फिक्की फ्रेम्स में सौरभ पांडे",
+      "summary_hi": "फिक्की फ्रेम्स में, एलोएलो के सौरभ पांडे ने भारत के माइक्रोड्रामा विकास, एआई के नेतृत्व वाले उत्पादन और वैश्विक निर्यात के रूप में मनोरंजन की क्षमता पर चर्चा की।",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "manoranjana bharata ka agala aaeeti niryata ho sakata hai: phikki phremsa men saurabha pande",
+      "summary_hinglish": "phikki phremsa men, eloelo ke saurabha pande ne bharata ke maikrodrama vikas, eaaee ke netritva vale utpadana aura vaishvika niryata ke rupa men manoranjana ki kshamata para charcha ki।",
+      "category_hinglish": "Entertainment"
+    },
     {
       "id": "58d27f9cc1d2eedb",
       "title": "ET Now Live TV: Business News Live TV Online, Finance & Market News Live Streaming",
@@ -18,21 +35,6 @@
       "category_hinglish": "Business aur Finance",
       "title_hinglish": "eeti nau laiva tivi: bijanesa nyuja laiva tivi ऑnalain, vitta aura bajara samachara laiva striminga",
       "summary_hinglish": "eeti nau bijanesa nyuja laiva tivi: laiva bijanesa nyuj, vitta aura bajara samachara laiva tivi ऑnalaina dekhen, aaja ke navinatama bijanesa samachara aura apadeta eeti nau laiva tivi para।"
-    },
-    {
-      "id": "a0022cc6694db992",
-      "title": "India women strike 4x400m relay gold, deliver country’s first athletics title at Asian Games 2026",
-      "summary": "India’s quartet of Kiran, Machettira Poovamma, Prachi and Vithya Ramraj clinch the gold medal",
-      "category": "Sports",
-      "image": "https://assets.telegraphindia.com/telegraph/2026/Sep/1790684907_relay.jpg",
-      "source": "Telegraph India",
-      "sourceUrl": "https://www.telegraphindia.com/sports/india-women-strike-4x400m-relay-gold-deliver-countrys-first-athletics-title-at-asian-games-2026/cid/2182264",
-      "publishedAt": "2026-09-29T12:30:01.000Z",
-      "fetchedAt": "2026-09-29T13:08:18.036Z",
-      "title_hi": "",
-      "summary_hi": "",
-      "category_hi": "खेल",
-      "category_hinglish": "Sports"
     },
     {
       "id": "efc546612ceba7be",
@@ -52,6 +54,21 @@
       "summary_hinglish": "bijepi ne chunava se pahale bihara ki chara vidhana parishada siton ke lie apane ummidavaron ki ghoshana kara di hai. tina maujuda emaelasi parti ka anusarana karate hue apane-apane nirvachana kshetron se phira se chunava ladaेnge"
     },
     {
+      "id": "a0022cc6694db992",
+      "title": "India women strike 4x400m relay gold, deliver country’s first athletics title at Asian Games 2026",
+      "summary": "India’s quartet of Kiran, Machettira Poovamma, Prachi and Vithya Ramraj clinch the gold medal",
+      "category": "Sports",
+      "image": "https://assets.telegraphindia.com/telegraph/2026/Sep/1790684907_relay.jpg",
+      "source": "Telegraph India",
+      "sourceUrl": "https://www.telegraphindia.com/sports/india-women-strike-4x400m-relay-gold-deliver-countrys-first-athletics-title-at-asian-games-2026/cid/2182264",
+      "publishedAt": "2026-09-29T12:30:01.000Z",
+      "fetchedAt": "2026-09-29T13:08:18.036Z",
+      "title_hi": "",
+      "summary_hi": "",
+      "category_hi": "खेल",
+      "category_hinglish": "Sports"
+    },
+    {
       "id": "d20061c788d0995f",
       "title": "AU Small Finance Bank crosses 1,000 microfinance branches, expands rural reach across 17 states",
       "summary": "The bank’s microfinance and financial inclusion network serves over 20 lakh customers across rural and semi-urban India.",
@@ -67,6 +84,38 @@
       "title_hinglish": "eyu smola phainensa bainka ne 1,000 maikrophainensa shakhaon ko para kiy, 17 rajyon men gramina pahuncha ka vistara kiya",
       "summary_hinglish": "bainka ka maikrophainensa aura vittiya samaveshana netavarka gramina aura ardha-shahari bharata men 20 lakha se adhika grahakon ko seva pradana karata hai।",
       "category_hinglish": "Business aur Finance"
+    },
+    {
+      "id": "877a10fd8987a508",
+      "title": "Pune Lohagad Fort Murder: Ketan Agarwal, Siya Goyal, Chetan Chaudhary Spotted In Tourists’ Photos",
+      "summary": "Pune Rural Superintendent of Police Sandeep Singh Gill said these photographs show all three individuals at the exact location on the fort from which Ketan was pushed to death",
+      "category": "Crime & Breaking News",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/06/lohagad-murder-ketan-agarwal-siya-goyal-chetan-chaudhary-2026-06-74c54735580a3d061c299e76a2d72c5f-1200x675.png",
+      "source": "News18",
+      "sourceUrl": "https://www.news18.com/amp/india/pune-lohagad-fort-murder-ketan-agarwal-siya-goyal-chetan-chaudhary-seen-in-tourists-photos-ws-klrt-10358734.html",
+      "publishedAt": "2026-09-29T06:48:23.000Z",
+      "fetchedAt": "2026-09-29T13:32:14.000Z",
+      "title_hi": "पुणे लोहागढ़ किला हत्याकांड: केतन अग्रवाल, सिया गोयल, चेतन चौधरी पर्यटकों की तस्वीरों में दिखे",
+      "summary_hi": "पुणे ग्रामीण के पुलिस अधीक्षक संदीप सिंह गिल ने कहा कि ये तस्वीरें तीनों व्यक्तियों को किले के ठीक उसी स्थान पर दिखाती हैं जहां से केतन को मौत के घाट उतार दिया गया था।",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "pune lohagadha kila hatyakand: ketana agraval, siya goyal, chetana chaudhari paryatakon ki tasviron men dikhe",
+      "summary_hinglish": "pune gramina ke pulisa adhikshaka sandipa sinha gila ne kaha ki ye tasviren tinon vyaktiyon ko kile ke thika usi sthana para dikhati hain jahan se ketana ko mauta ke ghata utara diya gaya tha।",
+      "category_hinglish": "Crime aur Breaking News"
+    },
+    {
+      "id": "220dcdafcb639b28",
+      "title": "ET Awards for Enterprise Tech Excellence 2026: Recognizing the Technology Leaders Shaping India’s Digital ..",
+      "summary": "Join the ET Awards for Enterprise Tech Excellence 2026, recognizing the visionaries and organizations leading India",
+      "category": "Technology",
+      "image": "https://etimg.etb2bimg.com/thumb/msid-134565000,imgsize-60838,width-1200,height=627,overlay-etcio,resizemode-75/next-gen-technologies/et-awards-for-enterprise-tech-excellence-2026-recognizing-the-technology-leaders-shaping-indias-digital-future.jpg",
+      "source": "ET CIO",
+      "sourceUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/et-awards-for-enterprise-tech-excellence-2026-recognizing-the-technology-leaders-shaping-indias-digital-future/134565000",
+      "publishedAt": "2026-09-29T11:49:35.000Z",
+      "fetchedAt": "2026-09-29T13:31:56.437Z",
+      "title_hi": "",
+      "summary_hi": "",
+      "category_hi": "टेक्नोलॉजी",
+      "category_hinglish": "Technology"
     },
     {
       "id": "9a5139a4de19d442",
@@ -86,6 +135,23 @@
       "category_hinglish": "Technology"
     },
     {
+      "id": "64206b805b1c7f5e",
+      "title": "Reliance's JioStar bets India’s sports fans will do more than just watch the game",
+      "summary": "JioStar is betting that Indias next phase of sports viewing will combine live matches with AI, commerce, regional languages and interactive features. With Indian-language viewing accounting for 90% of watch time and integrations such as Swiggy driving transactions, the broadcaster is looking beyond eyeballs to turn its growing sports audience…",
+      "category": "Sports",
+      "image": "https://img.etimg.com/thumb/msid-134564871,width-1200,height-630,imgsize-1597564,overlay-economictimes/articleshow.jpg",
+      "source": "The Economic Times",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/media/entertainment/media/reliances-jiostar-betting-indias-sports-fans-will-do-more-than-just-watch-the-game/articleshow/134564522.cms?from=mdr",
+      "publishedAt": "2026-09-29T11:19:59.000Z",
+      "fetchedAt": "2026-09-29T11:47:28.783Z",
+      "title_hi": "रिलायंस के JioStar का दांव, भारत के खेल प्रशंसक खेल देखने के अलावा और भी बहुत कुछ करेंगे",
+      "summary_hi": "JioStar शर्त लगा रहा है कि भारत के खेल देखने के अगले चरण में लाइव मैचों को AI, वाणिज्य, क्षेत्रीय भाषाओं और इंटरैक्टिव सुविधाओं के साथ जोड़ा जाएगा। देखे जाने के कुल समय का 90% हिस्सा भारतीय भाषा में देखने और स्विगी ड्राइविंग लेनदेन जैसे एकीकरण के साथ, ब्रॉडकास्टर अपने बढ़ते खेल दर्शकों को देखने के लिए नजरों से परे देख रहा है...",
+      "category_hi": "खेल",
+      "title_hinglish": "rilayansa ke JioStar ka danv, bharata ke khela prashansaka khela dekhane ke alava aura bhi bahuta kuchha karenge",
+      "summary_hinglish": "JioStar sharta laga raha hai ki bharata ke khela dekhane ke agale charana men laiva maichon ko AI, vanijy, kshetriya bhashaon aura intaraiktiva suvidhaon ke satha jodaा jaega। dekhe jane ke kula samaya ka 90% hissa bharatiya bhasha men dekhane aura svigi draivinga lenadena jaise ekikarana ke sath, brodakastara apane badhate khela darshakon ko dekhane ke lie najaron se pare dekha raha hai...",
+      "category_hinglish": "Sports"
+    },
+    {
       "id": "23b384d13c862939",
       "title": "Gun in hand, civilian clothes: Bihar woman constable suspended over social media reel",
       "summary": "A woman constable in West Champaran was suspended after a video showed her in civilian clothes carrying a government-issued weapon. The inquiry found violations of Bihar Police social media rules, prompting disciplinary proceedings and a wider warning.",
@@ -103,21 +169,21 @@
       "summary_hinglish": "pashchimi chanparana men eka mahila kanstebala ko eka vidiyo men sivila kapadaोn men sarakara dvara jari hathiyara le jate hue dikhae jane ke bada nilanbita kara diya gaya। jancha men bihara pulisa ke soshala midiya niyamon ka ullanghana paya gay, jisake karana anushasanatmaka karyavahi ki gaee aura vyapaka chetavani di gaee।"
     },
     {
-      "id": "64206b805b1c7f5e",
-      "title": "Reliance's JioStar bets India’s sports fans will do more than just watch the game",
-      "summary": "JioStar is betting that Indias next phase of sports viewing will combine live matches with AI, commerce, regional languages and interactive features. With Indian-language viewing accounting for 90% of watch time and integrations such as Swiggy driving transactions, the broadcaster is looking beyond eyeballs to turn its growing sports audience…",
-      "category": "Sports",
-      "image": "https://img.etimg.com/thumb/msid-134564871,width-1200,height-630,imgsize-1597564,overlay-economictimes/articleshow.jpg",
-      "source": "The Economic Times",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/media/entertainment/media/reliances-jiostar-betting-indias-sports-fans-will-do-more-than-just-watch-the-game/articleshow/134564522.cms?from=mdr",
-      "publishedAt": "2026-09-29T11:19:59.000Z",
-      "fetchedAt": "2026-09-29T11:47:28.783Z",
-      "title_hi": "रिलायंस के JioStar का दांव, भारत के खेल प्रशंसक खेल देखने के अलावा और भी बहुत कुछ करेंगे",
-      "summary_hi": "JioStar शर्त लगा रहा है कि भारत के खेल देखने के अगले चरण में लाइव मैचों को AI, वाणिज्य, क्षेत्रीय भाषाओं और इंटरैक्टिव सुविधाओं के साथ जोड़ा जाएगा। देखे जाने के कुल समय का 90% हिस्सा भारतीय भाषा में देखने और स्विगी ड्राइविंग लेनदेन जैसे एकीकरण के साथ, ब्रॉडकास्टर अपने बढ़ते खेल दर्शकों को देखने के लिए नजरों से परे देख रहा है...",
-      "category_hi": "खेल",
-      "title_hinglish": "rilayansa ke JioStar ka danv, bharata ke khela prashansaka khela dekhane ke alava aura bhi bahuta kuchha karenge",
-      "summary_hinglish": "JioStar sharta laga raha hai ki bharata ke khela dekhane ke agale charana men laiva maichon ko AI, vanijy, kshetriya bhashaon aura intaraiktiva suvidhaon ke satha jodaा jaega। dekhe jane ke kula samaya ka 90% hissa bharatiya bhasha men dekhane aura svigi draivinga lenadena jaise ekikarana ke sath, brodakastara apane badhate khela darshakon ko dekhane ke lie najaron se pare dekha raha hai...",
-      "category_hinglish": "Sports"
+      "id": "ae67a8cf9760c061",
+      "title": "Mohammad Rizwan Accuses Mohsin Naqvi's Crime Agency Of Lying About Returning His Phone",
+      "summary": "Mohammad Rizwan has accused Pakistani crime agency NCCIA of lying about his phone inquiry, seeking written details and return of the device.",
+      "category": "Crime & Breaking News",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/09/Mohammad-Rizwan-Mohsin-Naqvi-2026-09-534b4fccfb62c903e2a421b0a25b3a4e-1200x675.png",
+      "source": "News18",
+      "sourceUrl": "https://www.news18.com/amp/cricket/mohammad-rizwan-accuses-mohsin-naqvis-crime-agency-of-lying-about-returning-his-phone-ws-l-10359389.html",
+      "publishedAt": "2026-09-29T10:51:27.000Z",
+      "fetchedAt": "2026-09-29T13:31:34.923Z",
+      "title_hi": "मोहम्मद रिज़वान ने मोहसिन नकवी की क्राइम एजेंसी पर उनका फोन लौटाने के बारे में झूठ बोलने का आरोप लगाया",
+      "summary_hi": "मोहम्मद रिज़वान ने पाकिस्तानी अपराध एजेंसी एनसीसीआईए पर उनके फोन की जांच के बारे में झूठ बोलने, लिखित विवरण मांगने और डिवाइस वापस करने का आरोप लगाया है।",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "mohammada rijavana ne mohasina nakavi ki kraima ejensi para unaka phona lautane ke bare men jhutha bolane ka aaropa lagaya",
+      "summary_hinglish": "mohammada rijavana ne pakistani aparadha ejensi enasisiaaeee para unake phona ki jancha ke bare men jhutha bolane, likhita vivarana mangane aura divaisa vapasa karane ka aaropa lagaya hai।",
+      "category_hinglish": "Crime aur Breaking News"
     },
     {
       "id": "c9787eda91599f33",
@@ -137,23 +203,6 @@
       "summary_hinglish": "bharata ki kredita stori apane agale charana men pravesha kara rahi hai। aadhar, kredita byuro, akaunta egrigetara aura yuelaaaee jaise dijitala buniyadi dhanche ke majabuta aadhara taiyara karane ke sath, aba rina dene ko adhika buddhiman, paradarshi aura samaveshi banane ka avasara hai। vartisa pletaphormsa aura lenadenaklaba ke saha-sansthapaka aura sieeo bhavina patela ka manana ​​hai ki agala parivartana hog..."
     },
     {
-      "id": "66be8fbca5d0620b",
-      "title": "India could add 100 million new long-term investors by 2035: EY",
-      "summary": "India could add more than 100 million long-term investors by 2035, with the next wave expected to come from smaller cities, women, young professionals and digitally connected households. EY says the challenge is now to convert widespread digital financial access into sustained, informed and diversified investing.",
-      "category": "Business & Finance",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6abb969a46b7e-the-next-wave-of-investors-is-expected-to-emerge-from-several-groups--including-salaried-households-29444178-16x9.jpg",
-      "source": "Business Today",
-      "sourceUrl": "https://www.businesstoday.in/personal-finance/story/india-could-add-100-million-new-long-term-investors-by-2035-ey-558574-2026-09-29",
-      "publishedAt": "2026-09-29T10:44:55.000Z",
-      "fetchedAt": "2026-09-29T10:54:33.211Z",
-      "title_hi": "भारत 2035 तक 100 मिलियन नए दीर्घकालिक निवेशक जोड़ सकता है: EY",
-      "summary_hi": "भारत 2035 तक 100 मिलियन से अधिक दीर्घकालिक निवेशकों को जोड़ सकता है, अगली लहर छोटे शहरों, महिलाओं, युवा पेशेवरों और डिजिटल रूप से जुड़े घरों से आने की उम्मीद है। ईवाई का कहना है कि चुनौती अब व्यापक डिजिटल वित्तीय पहुंच को निरंतर, सूचित और विविध निवेश में बदलने की है।",
-      "category_hi": "बिज़नेस और फाइनेंस",
-      "category_hinglish": "Business aur Finance",
-      "title_hinglish": "bharata 2035 taka 100 miliyana nae dirghakalika niveshaka joda sakata hai: EY",
-      "summary_hinglish": "bharata 2035 taka 100 miliyana se adhika dirghakalika niveshakon ko joda sakata hai, agali lahara chhote shaharon, mahilaon, yuva peshevaron aura dijitala rupa se judaे gharon se aane ki ummida hai। eevaee ka kahana hai ki chunauti aba vyapaka dijitala vittiya pahuncha ko nirantar, suchita aura vividha nivesha men badalane ki hai।"
-    },
-    {
       "id": "52f8be9b290ab20a",
       "title": "Bihar Power Distribution To Embrace Digital And Smart Technologies By 2030: NBPDCL MD",
       "summary": "Patna: India is committed to developing a modern, digital and smart power distribution system by 2030, NBPDCL managing director Rahul",
@@ -169,6 +218,23 @@
       "title_hinglish": "bihara bijali vitarana 2030 taka dijitala aura smarta praudyogikiyon ko apanaeg: enabipidisiela emadi",
       "summary_hinglish": "patan: bharata 2030 taka eka aadhunik, dijitala aura smarta bijali vitarana pranali vikasita karane ke lie pratibaddha hai, enabipidisiela ke prabandha nideshaka rahula",
       "category_hinglish": "Technology"
+    },
+    {
+      "id": "66be8fbca5d0620b",
+      "title": "India could add 100 million new long-term investors by 2035: EY",
+      "summary": "India could add more than 100 million long-term investors by 2035, with the next wave expected to come from smaller cities, women, young professionals and digitally connected households. EY says the challenge is now to convert widespread digital financial access into sustained, informed and diversified investing.",
+      "category": "Business & Finance",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6abb969a46b7e-the-next-wave-of-investors-is-expected-to-emerge-from-several-groups--including-salaried-households-29444178-16x9.jpg",
+      "source": "Business Today",
+      "sourceUrl": "https://www.businesstoday.in/personal-finance/story/india-could-add-100-million-new-long-term-investors-by-2035-ey-558574-2026-09-29",
+      "publishedAt": "2026-09-29T10:44:55.000Z",
+      "fetchedAt": "2026-09-29T10:54:33.211Z",
+      "title_hi": "भारत 2035 तक 100 मिलियन नए दीर्घकालिक निवेशक जोड़ सकता है: EY",
+      "summary_hi": "भारत 2035 तक 100 मिलियन से अधिक दीर्घकालिक निवेशकों को जोड़ सकता है, अगली लहर छोटे शहरों, महिलाओं, युवा पेशेवरों और डिजिटल रूप से जुड़े घरों से आने की उम्मीद है। ईवाई का कहना है कि चुनौती अब व्यापक डिजिटल वित्तीय पहुंच को निरंतर, सूचित और विविध निवेश में बदलने की है।",
+      "category_hi": "बिज़नेस और फाइनेंस",
+      "category_hinglish": "Business aur Finance",
+      "title_hinglish": "bharata 2035 taka 100 miliyana nae dirghakalika niveshaka joda sakata hai: EY",
+      "summary_hinglish": "bharata 2035 taka 100 miliyana se adhika dirghakalika niveshakon ko joda sakata hai, agali lahara chhote shaharon, mahilaon, yuva peshevaron aura dijitala rupa se judaे gharon se aane ki ummida hai। eevaee ka kahana hai ki chunauti aba vyapaka dijitala vittiya pahuncha ko nirantar, suchita aura vividha nivesha men badalane ki hai।"
     },
     {
       "id": "6f12ff134a55f835",
@@ -188,23 +254,6 @@
       "summary_hinglish": "phikki phremsa 2026 men aayushmana khurana ne bharata ke midiya aura manoranjana udyoga men matra se adhika mulya para jora diy, vaishvika pahuncha aura nirmata ki pratikriya para prakasha dala।"
     },
     {
-      "id": "b15dc3fa1147712d",
-      "title": "India can add over 100 million long-term investors by 2035 as wealth creation expands beyond metros: EY Report",
-      "summary": "India can add over 100 million long-term investors by 2035 as wealth creation expands beyond metros according to the EY report.",
-      "category": "Technology",
-      "image": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/newsroom/2026/09/ey-wealth-inclusion-report-website-banner-v1.jpg",
-      "source": "ey.com",
-      "sourceUrl": "https://www.ey.com/en_in/newsroom/2026/09/india-can-add-over-100-million-long-term-investors-by-2035-as-wealth-creation-expands-beyond-metros",
-      "publishedAt": "2026-09-29T10:38:40.000Z",
-      "fetchedAt": "2026-09-29T10:54:29.917Z",
-      "title_hi": "महानगरों से परे धन सृजन के विस्तार के कारण भारत 2035 तक 100 मिलियन से अधिक दीर्घकालिक निवेशकों को जोड़ सकता है: ईवाई रिपोर्ट",
-      "summary_hi": "ईवाई रिपोर्ट के अनुसार, भारत 2035 तक 100 मिलियन से अधिक दीर्घकालिक निवेशकों को जोड़ सकता है क्योंकि धन सृजन का विस्तार महानगरों से परे है।",
-      "category_hi": "टेक्नोलॉजी",
-      "category_hinglish": "Technology",
-      "title_hinglish": "mahanagaron se pare dhana srijana ke vistara ke karana bharata 2035 taka 100 miliyana se adhika dirghakalika niveshakon ko joda sakata hai: eevaee riporta",
-      "summary_hinglish": "eevaee riporta ke anusar, bharata 2035 taka 100 miliyana se adhika dirghakalika niveshakon ko joda sakata hai kyonki dhana srijana ka vistara mahanagaron se pare hai।"
-    },
-    {
       "id": "4c6826da4d201796",
       "title": "Tanya Mishra, the Bihar-born model-actress fans are calling India's new 'national crush'",
       "summary": "Viral photographs have pushed the 27-year-old into the spotlight. She has modelled for Femina and Grazia, placed at a Miss India pageant and appeared in the web series Chidiya Udd.",
@@ -220,6 +269,23 @@
       "title_hinglish": "bihara men janmi modala-abhinetri tanya mishra ko prashansaka bharata ki naee 'neshanala krasha' kaha rahe hain",
       "summary_hinglish": "vayarala tasviron ne 27 varshiya ko surkhiyon men la diya hai। unhonne phemina aura grajaिya ke lie modalinga ki hai, misa indiya pratiyogita men bhaga liya hai aura veba shrrinkhala chidaिya uda men dikhaee di hain।",
       "category_hinglish": "National aur Trending News"
+    },
+    {
+      "id": "b15dc3fa1147712d",
+      "title": "India can add over 100 million long-term investors by 2035 as wealth creation expands beyond metros: EY Report",
+      "summary": "India can add over 100 million long-term investors by 2035 as wealth creation expands beyond metros according to the EY report.",
+      "category": "Technology",
+      "image": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/newsroom/2026/09/ey-wealth-inclusion-report-website-banner-v1.jpg",
+      "source": "ey.com",
+      "sourceUrl": "https://www.ey.com/en_in/newsroom/2026/09/india-can-add-over-100-million-long-term-investors-by-2035-as-wealth-creation-expands-beyond-metros",
+      "publishedAt": "2026-09-29T10:38:40.000Z",
+      "fetchedAt": "2026-09-29T10:54:29.917Z",
+      "title_hi": "महानगरों से परे धन सृजन के विस्तार के कारण भारत 2035 तक 100 मिलियन से अधिक दीर्घकालिक निवेशकों को जोड़ सकता है: ईवाई रिपोर्ट",
+      "summary_hi": "ईवाई रिपोर्ट के अनुसार, भारत 2035 तक 100 मिलियन से अधिक दीर्घकालिक निवेशकों को जोड़ सकता है क्योंकि धन सृजन का विस्तार महानगरों से परे है।",
+      "category_hi": "टेक्नोलॉजी",
+      "category_hinglish": "Technology",
+      "title_hinglish": "mahanagaron se pare dhana srijana ke vistara ke karana bharata 2035 taka 100 miliyana se adhika dirghakalika niveshakon ko joda sakata hai: eevaee riporta",
+      "summary_hinglish": "eevaee riporta ke anusar, bharata 2035 taka 100 miliyana se adhika dirghakalika niveshakon ko joda sakata hai kyonki dhana srijana ka vistara mahanagaron se pare hai।"
     },
     {
       "id": "06bc3887c721f49e",
@@ -307,23 +373,6 @@
       "summary_hinglish": "kapila venu ne kaha ki eka shrilankaee nirdeshaka ne unhen instagrama para khoja aura unhen nilira men kasta kiya। unhonne kaha ki philmi bhumikaon men kabhi-kabhara badalava aata rahata hai kyonki vaha kudiyattama se judaी rahati hain।"
     },
     {
-      "id": "b83b3b81195cc1cf",
-      "title": "Rao Narbir Singh Inaugurates 7th Rama Atray Women's T20 Cricket Tournament in Chandigarh",
-      "summary": "Five state teams, one stage: women's cricket takes center field in Chandigarh.",
-      "category": "Sports",
-      "image": "https://www.rozanaspokesman.com/cover/prev/64d34665f393907a4acf26abf5d2c145-20260929145357.Medi.jpeg",
-      "source": "Rozana Spokesman",
-      "sourceUrl": "https://www.rozanaspokesman.com/amp/news/haryana/290926/rao-narbir-singh-inaugurates-7th-rama-atray-womens-t20-cricket-tourna.html",
-      "publishedAt": "2026-09-29T09:57:03.000Z",
-      "fetchedAt": "2026-09-29T12:01:19.099Z",
-      "title_hi": "राव नरबीर सिंह ने चंडीगढ़ में 7वें रामा अत्रे महिला टी20 क्रिकेट टूर्नामेंट का उद्घाटन किया",
-      "summary_hi": "पांच राज्यों की टीमें, एक मंच: महिला क्रिकेट का केंद्र बिंदु चंडीगढ़।",
-      "category_hi": "खेल",
-      "category_hinglish": "Sports",
-      "title_hinglish": "rava narabira sinha ne chandigadha men 7ven rama atre mahila ti20 kriketa turnamenta ka udghatana kiya",
-      "summary_hinglish": "pancha rajyon ki timen, eka manch: mahila kriketa ka kendra bindu chandigadha।"
-    },
-    {
       "id": "feeef1c1c55ee87e",
       "title": "'Regret supporting': Chirag Paswan attacks Bihar govt over rising crimes against women",
       "summary": "Bihar crime: Union Minister Chirag Paswan expresses shame over the deteriorating law and order situation, criticising the state administration for failing to curb rising crimes against women and demanding strict action.",
@@ -339,6 +388,23 @@
       "title_hinglish": "'samarthana karane ka aphasosa': mahilaon ke khilapha badhate aparadha ko lekara chiraga pasavana ne bihara sarakara para hamala bola",
       "summary_hinglish": "bihara aparadh: kendriya mantri chiraga pasavana ne bigadati kanuna-vyavastha ki sthiti para sharmindagi vyakta ki, mahilaon ke khilapha badhate aparadhon para ankusha lagane men viphala rahane ke lie rajya prashasana ki aalochana ki aura sakhta karravaee ki manga ki।",
       "category_hinglish": "Politics aur Government"
+    },
+    {
+      "id": "b83b3b81195cc1cf",
+      "title": "Rao Narbir Singh Inaugurates 7th Rama Atray Women's T20 Cricket Tournament in Chandigarh",
+      "summary": "Five state teams, one stage: women's cricket takes center field in Chandigarh.",
+      "category": "Sports",
+      "image": "https://www.rozanaspokesman.com/cover/prev/64d34665f393907a4acf26abf5d2c145-20260929145357.Medi.jpeg",
+      "source": "Rozana Spokesman",
+      "sourceUrl": "https://www.rozanaspokesman.com/amp/news/haryana/290926/rao-narbir-singh-inaugurates-7th-rama-atray-womens-t20-cricket-tourna.html",
+      "publishedAt": "2026-09-29T09:57:03.000Z",
+      "fetchedAt": "2026-09-29T12:01:19.099Z",
+      "title_hi": "राव नरबीर सिंह ने चंडीगढ़ में 7वें रामा अत्रे महिला टी20 क्रिकेट टूर्नामेंट का उद्घाटन किया",
+      "summary_hi": "पांच राज्यों की टीमें, एक मंच: महिला क्रिकेट का केंद्र बिंदु चंडीगढ़।",
+      "category_hi": "खेल",
+      "category_hinglish": "Sports",
+      "title_hinglish": "rava narabira sinha ne chandigadha men 7ven rama atre mahila ti20 kriketa turnamenta ka udghatana kiya",
+      "summary_hinglish": "pancha rajyon ki timen, eka manch: mahila kriketa ka kendra bindu chandigadha।"
     },
     {
       "id": "482eb35135b09ef2",
@@ -358,23 +424,6 @@
       "category_hinglish": "Entertainment"
     },
     {
-      "id": "e4304b56b23fd8c8",
-      "title": "India’s first World Happpiness Summit concludes in Bengaluru",
-      "summary": "India’s first World Happpiness Summit concluded in Bengaluru, bringing together personalities from entertainment, entrepreneurship, spirituality, wellness and social leadership. The day-long event explored happiness through Pleasure, Peace and Purpose and concluded with a collective resolve to make Bengaluru the world’s happiest city.",
-      "category": "Entertainment",
-      "image": "https://media.telanganatoday.com/wp-content/uploads/2026/09/Shilpa.jpg",
-      "source": "Telangana Today",
-      "sourceUrl": "https://telanganatoday.com/indias-first-world-happpiness-summit-concludes-in-bengaluru",
-      "publishedAt": "2026-09-29T09:32:27.000Z",
-      "fetchedAt": "2026-09-29T11:47:30.894Z",
-      "title_hi": "भारत का पहला विश्व प्रसन्नता शिखर सम्मेलन बेंगलुरु में संपन्न हुआ",
-      "summary_hi": "भारत का पहला विश्व हैप्पीनेस शिखर सम्मेलन बेंगलुरु में संपन्न हुआ, जिसमें मनोरंजन, उद्यमिता, आध्यात्मिकता, कल्याण और सामाजिक नेतृत्व से जुड़ी हस्तियां एक साथ आईं। दिन भर चले इस कार्यक्रम में खुशी, शांति और उद्देश्य के माध्यम से खुशी की खोज की गई और बेंगलुरु को दुनिया का सबसे खुशहाल शहर बनाने के सामूहिक संकल्प के साथ समापन हुआ।",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "bharata ka pahala vishva prasannata shikhara sammelana bengaluru men sanpanna huaa",
-      "summary_hinglish": "bharata ka pahala vishva haippinesa shikhara sammelana bengaluru men sanpanna hua, jisamen manoranjan, udyamit, aadhyatmikat, kalyana aura samajika netritva se judaी hastiyan eka satha aaeen। dina bhara chale isa karyakrama men khushi, shanti aura uddeshya ke madhyama se khushi ki khoja ki gaee aura bengaluru ko duniya ka sabase khushahala shahara banane ke samuhika sankalpa ke satha samapana huaa।",
-      "category_hinglish": "Entertainment"
-    },
-    {
       "id": "4911f7e5a341b5b9",
       "title": "Caught With Pistol, Bhagalpur Criminal Pushes Cop, Jumps Into River To Escape Police; What Happened Next Goes Viral",
       "summary": "The accused, identified as Santosh Yadav, had allegedly been arrested after police recovered a country-made pistol and cartridges from him.",
@@ -390,6 +439,23 @@
       "title_hinglish": "pistaula ke satha pakadaा gay, bhagalapura aparadhi ne pulisa ko dhakka diy, pulisa se bachane ke lie nadi men kuda gay; aage jo huaa vaha vayarala ho gaya",
       "summary_hinglish": "santosha yadava ke rupa men pahachane gae aaropi ko kathita taura para pulisa dvara usake pasa se eka deshi pistaula aura karatusa baramada karane ke bada giraphtara kara liya gaya tha।",
       "category_hinglish": "Crime aur Breaking News"
+    },
+    {
+      "id": "e4304b56b23fd8c8",
+      "title": "India’s first World Happpiness Summit concludes in Bengaluru",
+      "summary": "India’s first World Happpiness Summit concluded in Bengaluru, bringing together personalities from entertainment, entrepreneurship, spirituality, wellness and social leadership. The day-long event explored happiness through Pleasure, Peace and Purpose and concluded with a collective resolve to make Bengaluru the world’s happiest city.",
+      "category": "Entertainment",
+      "image": "https://media.telanganatoday.com/wp-content/uploads/2026/09/Shilpa.jpg",
+      "source": "Telangana Today",
+      "sourceUrl": "https://telanganatoday.com/indias-first-world-happpiness-summit-concludes-in-bengaluru",
+      "publishedAt": "2026-09-29T09:32:27.000Z",
+      "fetchedAt": "2026-09-29T11:47:30.894Z",
+      "title_hi": "भारत का पहला विश्व प्रसन्नता शिखर सम्मेलन बेंगलुरु में संपन्न हुआ",
+      "summary_hi": "भारत का पहला विश्व हैप्पीनेस शिखर सम्मेलन बेंगलुरु में संपन्न हुआ, जिसमें मनोरंजन, उद्यमिता, आध्यात्मिकता, कल्याण और सामाजिक नेतृत्व से जुड़ी हस्तियां एक साथ आईं। दिन भर चले इस कार्यक्रम में खुशी, शांति और उद्देश्य के माध्यम से खुशी की खोज की गई और बेंगलुरु को दुनिया का सबसे खुशहाल शहर बनाने के सामूहिक संकल्प के साथ समापन हुआ।",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "bharata ka pahala vishva prasannata shikhara sammelana bengaluru men sanpanna huaa",
+      "summary_hinglish": "bharata ka pahala vishva haippinesa shikhara sammelana bengaluru men sanpanna hua, jisamen manoranjan, udyamit, aadhyatmikat, kalyana aura samajika netritva se judaी hastiyan eka satha aaeen। dina bhara chale isa karyakrama men khushi, shanti aura uddeshya ke madhyama se khushi ki khoja ki gaee aura bengaluru ko duniya ka sabase khushahala shahara banane ke samuhika sankalpa ke satha samapana huaa।",
+      "category_hinglish": "Entertainment"
     },
     {
       "id": "14d42fedee00f601",
@@ -475,23 +541,6 @@
       "title_hinglish": "ephaema sitaramana ne saoodi arab, svitjaralainda aura anya deshon ke satha dvipakshiya baithaken kin",
       "summary_hinglish": "doh: vitta mantri nirmala sitaramana ne eaaee se itara saoodi arab, svitjaralaind, jordana aura nepala ke mantriyon ke satha dvipakshiya baithaken ki hain।",
       "category_hinglish": "Business aur Finance"
-    },
-    {
-      "id": "9b522f22db4f95f4",
-      "title": "'Hanuman Ansh' box office collection Day 54 [LIVE]: Vishal Chaturvedi and Shobhinaw Satyaa's spiritual bi",
-      "summary": "'Hanuman Ansh' posted a surprising late-stage surge as it enters Day 54 of its theatrical run with the Vishal Chaturvedi-directed spiritual drama on Neem Karoli Baba, led by Shobhinaw Satyaa, continuing to attract audiences well into its eighth week. After a modest opening, the film has now crossed the Rs.",
-      "category": "Entertainment",
-      "image": "https://static.toiimg.com/thumb/msid-134561201,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/hanuman-ansh-box-office-collection-day-54-live-vishal-chaturvedi-and-shobhinaw-satyaas-spiritual-biopic-on-neem-kaorli-baba-sustains-eight-week-run-eyes-rs-315-crore-india-net-mark-after-tapping-the-rs-400-crore-worldwide-gross-milestone/articleshow/134561090.cms",
-      "publishedAt": "2026-09-29T08:45:00.000Z",
-      "fetchedAt": "2026-09-29T09:01:52.156Z",
-      "title_hi": "'हनुमान अंश' बॉक्स ऑफिस कलेक्शन दिन 54 [लाइव]: विशाल चतुर्वेदी और शोभिनव सत्या की आध्यात्मिक जीवनी",
-      "summary_hi": "शोभिनव सत्या के नेतृत्व में नीम करोली बाबा पर विशाल चतुर्वेदी द्वारा निर्देशित आध्यात्मिक नाटक के साथ अपने नाटकीय प्रदर्शन के 54वें दिन में प्रवेश करते ही 'हनुमान अंश' ने देर से मंच पर आश्चर्यजनक उछाल दर्ज किया, जिसने अपने आठवें सप्ताह में भी दर्शकों को अच्छी तरह से आकर्षित करना जारी रखा है। मामूली ओपनिंग के बाद अब फिल्म ने 10 करोड़ रुपये का आंकड़ा पार कर लिया है।",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "'hanumana ansha' boksa ऑphisa kalekshana dina 54 [laiva]: vishala chaturvedi aura shobhinava satya ki aadhyatmika jivani",
-      "summary_hinglish": "shobhinava satya ke netritva men nima karoli baba para vishala chaturvedi dvara nirdeshita aadhyatmika nataka ke satha apane natakiya pradarshana ke 54ven dina men pravesha karate hi 'hanumana ansha' ne dera se mancha para aashcharyajanaka uchhala darja kiy, jisane apane aathaven saptaha men bhi darshakon ko achchhi taraha se aakarshita karana jari rakha hai। mamuli opaninga ke bada aba philma ne 10 karoda rupaye ka aankadaा para kara liya hai।",
-      "category_hinglish": "Entertainment"
     },
     {
       "id": "5e8713d098d8808b",
