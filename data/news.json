@@ -1,7 +1,24 @@
 {
-  "updatedAt": "2026-09-29T06:12:55.765Z",
-  "count": 37,
+  "updatedAt": "2026-09-29T06:37:10.694Z",
+  "count": 40,
   "articles": [
+    {
+      "id": "05c5585b2819d1e6",
+      "title": "India's TV industry urges I&B Ministry to restore BARC ratings immediately, Kevin Vaz says",
+      "summary": "Kevin Vaz emphasized the importance of restoring BARC audience ratings to ensure stability in the broadcasting sector. He noted the vital role of reliable measurement during the festive season for campaign planning. Vaz highlighted the growth of India",
+      "category": "Entertainment",
+      "image": "https://img.etimg.com/thumb/msid-134558375,width-1200,height-630,imgsize-66910,overlay-economictimes/articleshow.jpg",
+      "source": "The Economic Times",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/media/entertainment/media/indias-tv-industry-urges-ib-ministry-to-restore-barc-ratings-immediately-kevin-vaz-says/articleshow/134558272.cms?from=mdr",
+      "publishedAt": "2026-09-29T06:25:58.000Z",
+      "fetchedAt": "2026-09-29T06:36:53.339Z",
+      "title_hi": "केविन वाज़ का कहना है कि भारत का टीवी उद्योग I&B मंत्रालय से BARC रेटिंग तुरंत बहाल करने का आग्रह करता है",
+      "summary_hi": "केविन वाज़ ने प्रसारण क्षेत्र में स्थिरता सुनिश्चित करने के लिए BARC दर्शकों की रेटिंग बहाल करने के महत्व पर जोर दिया। उन्होंने अभियान योजना के लिए त्योहारी सीज़न के दौरान विश्वसनीय माप की महत्वपूर्ण भूमिका का उल्लेख किया। वाज़ ने भारत के विकास पर प्रकाश डाला",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "kevina vaja ka kahana hai ki bharata ka tivi udyoga I&B mantralaya se BARC retinga turanta bahala karane ka aagraha karata hai",
+      "summary_hinglish": "kevina vaja ne prasarana kshetra men sthirata sunishchita karane ke lie BARC darshakon ki retinga bahala karane ke mahatva para jora diya। unhonne abhiyana yojana ke lie tyohari sijana ke daurana vishvasaniya mapa ki mahatvapurna bhumika ka ullekha kiya। vaja ne bharata ke vikasa para prakasha dala",
+      "category_hinglish": "Entertainment"
+    },
     {
       "id": "1c98b9e6358c758f",
       "title": "Former IAS Divya Mittal to enter politics, wants to fix education and jobs",
@@ -17,6 +34,38 @@
       "category_hi": "राजनीति और सरकार",
       "title_hinglish": "rajaniti men utarengi purva aaeeeesa divya mittal, shiksha aura naukariyan durusta karana chahati hain",
       "summary_hinglish": "uttara pradesha kaidara ki purva aaeeeesa adhikari divya mittala ne seva se hatane ke mahinon bada apani rajanitika yojanaon ki ghoshana ki hai। unhonne kisi rajanitika dala men shamila hone se inakara kara diya hai aura vaha yuvaon ke lie shiksh, pariksha sudhara aura rojagara ke avasaron para dhyana kendrita karana chahati hain।",
+      "category_hinglish": "Politics aur Government"
+    },
+    {
+      "id": "23b384d13c862939",
+      "title": "Gun in hand, civilian clothes: Bihar woman constable suspended over social media reel",
+      "summary": "A woman constable in West Champaran was suspended after a video showed her in civilian clothes carrying a government-issued weapon. The inquiry found violations of Bihar Police social media rules, prompting disciplinary proceedings and a wider warning.",
+      "category": "Politics & Government",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/social-media-reel-with-government-gun-lands-bihar-constable-in-soup-28083424-16x9_0.jpg?VersionId=MxAd9OoIvSusayKNaPZNvgWdKvCDBK5T",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/amp/india/bihar/story/bihar-woman-constable-suspended-social-media-video-government-issued-weapon-3005135-2026-09-28",
+      "publishedAt": "2026-09-28T16:08:53.000Z",
+      "fetchedAt": "2026-09-28T17:11:12.888Z",
+      "title_hi": "हाथ में बंदूक, सादे कपड़े: सोशल मीडिया रील पर बिहार की महिला कांस्टेबल निलंबित",
+      "summary_hi": "पश्चिमी चंपारण में एक महिला कांस्टेबल को एक वीडियो में सिविल कपड़ों में सरकार द्वारा जारी हथियार ले जाते हुए दिखाए जाने के बाद निलंबित कर दिया गया। जांच में बिहार पुलिस के सोशल मीडिया नियमों का उल्लंघन पाया गया, जिसके कारण अनुशासनात्मक कार्यवाही की गई और व्यापक चेतावनी दी गई।",
+      "category_hi": "राजनीति और सरकार",
+      "category_hinglish": "Politics aur Government",
+      "title_hinglish": "hatha men banduk, sade kapadaे: soshala midiya rila para bihara ki mahila kanstebala nilanbita",
+      "summary_hinglish": "pashchimi chanparana men eka mahila kanstebala ko eka vidiyo men sivila kapadaोn men sarakara dvara jari hathiyara le jate hue dikhae jane ke bada nilanbita kara diya gaya। jancha men bihara pulisa ke soshala midiya niyamon ka ullanghana paya gay, jisake karana anushasanatmaka karyavahi ki gaee aura vyapaka chetavani di gaee।"
+    },
+    {
+      "id": "65376f88eb9ea475",
+      "title": "Congress' revival hinges on more than Rahul Gandhi's charisma",
+      "summary": "Why Congress needs robust organisational overhaul, clear ideological policy stances, and internal institutional democracy to truly challenge the ruling BJP.",
+      "category": "Politics & Government",
+      "image": "https://cf-images.assettype.com/deccanherald%2F2026-09-29%2Fa38tvom2%2Ffile820828b7rz7ms22zaco.jpg?rect=0%2C0%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "Deccan Herald",
+      "sourceUrl": "https://www.deccanherald.com/amp/story/opinion/congress-revival-hinges-on-more-than-rahul-gandhis-charisma-4163545",
+      "publishedAt": "2026-09-29T05:22:00.000Z",
+      "fetchedAt": "2026-09-29T06:36:42.846Z",
+      "title_hi": "",
+      "summary_hi": "",
+      "category_hi": "राजनीति और सरकार",
       "category_hinglish": "Politics aur Government"
     },
     {
@@ -37,21 +86,21 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "23b384d13c862939",
-      "title": "Gun in hand, civilian clothes: Bihar woman constable suspended over social media reel",
-      "summary": "A woman constable in West Champaran was suspended after a video showed her in civilian clothes carrying a government-issued weapon. The inquiry found violations of Bihar Police social media rules, prompting disciplinary proceedings and a wider warning.",
-      "category": "Politics & Government",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/social-media-reel-with-government-gun-lands-bihar-constable-in-soup-28083424-16x9_0.jpg?VersionId=MxAd9OoIvSusayKNaPZNvgWdKvCDBK5T",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/amp/india/bihar/story/bihar-woman-constable-suspended-social-media-video-government-issued-weapon-3005135-2026-09-28",
-      "publishedAt": "2026-09-28T16:08:53.000Z",
-      "fetchedAt": "2026-09-28T17:11:12.888Z",
-      "title_hi": "हाथ में बंदूक, सादे कपड़े: सोशल मीडिया रील पर बिहार की महिला कांस्टेबल निलंबित",
-      "summary_hi": "पश्चिमी चंपारण में एक महिला कांस्टेबल को एक वीडियो में सिविल कपड़ों में सरकार द्वारा जारी हथियार ले जाते हुए दिखाए जाने के बाद निलंबित कर दिया गया। जांच में बिहार पुलिस के सोशल मीडिया नियमों का उल्लंघन पाया गया, जिसके कारण अनुशासनात्मक कार्यवाही की गई और व्यापक चेतावनी दी गई।",
-      "category_hi": "राजनीति और सरकार",
-      "category_hinglish": "Politics aur Government",
-      "title_hinglish": "hatha men banduk, sade kapadaे: soshala midiya rila para bihara ki mahila kanstebala nilanbita",
-      "summary_hinglish": "pashchimi chanparana men eka mahila kanstebala ko eka vidiyo men sivila kapadaोn men sarakara dvara jari hathiyara le jate hue dikhae jane ke bada nilanbita kara diya gaya। jancha men bihara pulisa ke soshala midiya niyamon ka ullanghana paya gay, jisake karana anushasanatmaka karyavahi ki gaee aura vyapaka chetavani di gaee।"
+      "id": "52f8be9b290ab20a",
+      "title": "Bihar Power Distribution To Embrace Digital And Smart Technologies By 2030: NBPDCL MD",
+      "summary": "Patna: India is committed to developing a modern, digital and smart power distribution system by 2030, NBPDCL managing director Rahul",
+      "category": "Technology",
+      "image": "https://patnapress.com/wp-content/uploads/2026/09/befunky_2026-8-1_17-19-27.jpg",
+      "source": "Patna Press",
+      "sourceUrl": "https://patnapress.com/bihar-power-distribution-digital-smart-technologies-2030/",
+      "publishedAt": "2026-09-28T11:57:37.000Z",
+      "fetchedAt": "2026-09-28T12:23:05.821Z",
+      "title_hi": "बिहार बिजली वितरण 2030 तक डिजिटल और स्मार्ट प्रौद्योगिकियों को अपनाएगा: एनबीपीडीसीएल एमडी",
+      "summary_hi": "पटना: भारत 2030 तक एक आधुनिक, डिजिटल और स्मार्ट बिजली वितरण प्रणाली विकसित करने के लिए प्रतिबद्ध है, एनबीपीडीसीएल के प्रबंध निदेशक राहुल",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "bihara bijali vitarana 2030 taka dijitala aura smarta praudyogikiyon ko apanaeg: enabipidisiela emadi",
+      "summary_hinglish": "patan: bharata 2030 taka eka aadhunik, dijitala aura smarta bijali vitarana pranali vikasita karane ke lie pratibaddha hai, enabipidisiela ke prabandha nideshaka rahula",
+      "category_hinglish": "Technology"
     },
     {
       "id": "1766690e41f32f70",
@@ -88,23 +137,6 @@
       "category_hinglish": "Business aur Finance"
     },
     {
-      "id": "52f8be9b290ab20a",
-      "title": "Bihar Power Distribution To Embrace Digital And Smart Technologies By 2030: NBPDCL MD",
-      "summary": "Patna: India is committed to developing a modern, digital and smart power distribution system by 2030, NBPDCL managing director Rahul",
-      "category": "Technology",
-      "image": "https://patnapress.com/wp-content/uploads/2026/09/befunky_2026-8-1_17-19-27.jpg",
-      "source": "Patna Press",
-      "sourceUrl": "https://patnapress.com/bihar-power-distribution-digital-smart-technologies-2030/",
-      "publishedAt": "2026-09-28T11:57:37.000Z",
-      "fetchedAt": "2026-09-28T12:23:05.821Z",
-      "title_hi": "बिहार बिजली वितरण 2030 तक डिजिटल और स्मार्ट प्रौद्योगिकियों को अपनाएगा: एनबीपीडीसीएल एमडी",
-      "summary_hi": "पटना: भारत 2030 तक एक आधुनिक, डिजिटल और स्मार्ट बिजली वितरण प्रणाली विकसित करने के लिए प्रतिबद्ध है, एनबीपीडीसीएल के प्रबंध निदेशक राहुल",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "bihara bijali vitarana 2030 taka dijitala aura smarta praudyogikiyon ko apanaeg: enabipidisiela emadi",
-      "summary_hinglish": "patan: bharata 2030 taka eka aadhunik, dijitala aura smarta bijali vitarana pranali vikasita karane ke lie pratibaddha hai, enabipidisiela ke prabandha nideshaka rahula",
-      "category_hinglish": "Technology"
-    },
-    {
       "id": "d3483bc39267f8a2",
       "title": "Amid the Korean wave, is India set to host a new K-pop music event? - Mid-Day",
       "summary": "Amid this craze and love for BTS and many other boy and girl bands, sources have informed us that Hybe India is set to host a music festival in the near future",
@@ -122,6 +154,40 @@
       "category_hinglish": "Entertainment"
     },
     {
+      "id": "4c6826da4d201796",
+      "title": "Tanya Mishra, the Bihar-born model-actress fans are calling India's new 'national crush'",
+      "summary": "Viral photographs have pushed the 27-year-old into the spotlight. She has modelled for Femina and Grazia, placed at a Miss India pageant and appeared in the web series Chidiya Udd.",
+      "category": "National & Trending News",
+      "image": "https://images.firstpost.com/uploads/2026/09/Tanyaa-Mishra-2026-09-c5db892c195ba9c7239cc41e3ebf2acb-1200x675.jpg?im=FitAndFill,width=1200,height=675",
+      "source": "Firstpost",
+      "sourceUrl": "https://www.firstpost.com/lifestyle/tanya-mishra-the-bihar-born-model-actress-fans-are-calling-indias-new-national-crush-14048853.html",
+      "publishedAt": "2026-09-28T11:04:52.000Z",
+      "fetchedAt": "2026-09-28T11:25:07.389Z",
+      "title_hi": "बिहार में जन्मी मॉडल-अभिनेत्री तान्या मिश्रा को प्रशंसक भारत की नई 'नेशनल क्रश' कह रहे हैं",
+      "summary_hi": "वायरल तस्वीरों ने 27 वर्षीय को सुर्खियों में ला दिया है। उन्होंने फेमिना और ग्राज़िया के लिए मॉडलिंग की है, मिस इंडिया प्रतियोगिता में भाग लिया है और वेब श्रृंखला चिड़िया उड़ में दिखाई दी हैं।",
+      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
+      "title_hinglish": "bihara men janmi modala-abhinetri tanya mishra ko prashansaka bharata ki naee 'neshanala krasha' kaha rahe hain",
+      "summary_hinglish": "vayarala tasviron ne 27 varshiya ko surkhiyon men la diya hai। unhonne phemina aura grajaिya ke lie modalinga ki hai, misa indiya pratiyogita men bhaga liya hai aura veba shrrinkhala chidaिya uda men dikhaee di hain।",
+      "category_hinglish": "National aur Trending News"
+    },
+    {
+      "id": "1c481ac1c6999e27",
+      "title": "Asian Games 2026: Sri Lanka to face India and Bangladesh up against Pakistan in semis",
+      "summary": "Rain washed out the Asian Games 2026 men's cricket quarter-finals. Sri Lanka and Bangladesh advanced via higher rankings. India face Sri Lanka and Pakistan play Bangladesh in the semis on Oct 1.",
+      "category": "Sports",
+      "image": "https://cdn3.wionews.com/prod/wion/images/2026/20260929/image-1790655245302.jpg?imwidth=1200&imheight=900",
+      "source": "WION",
+      "sourceUrl": "https://www.wionews.com/sports/asian-games-2026-sri-lanka-to-face-india-and-bangladesh-up-against-pakistan-in-semis-1790655097664",
+      "publishedAt": "2026-09-29T04:15:00.000Z",
+      "fetchedAt": "2026-09-29T06:36:49.896Z",
+      "title_hi": "एशियन गेम्स 2026: सेमीफाइनल में श्रीलंका का मुकाबला भारत से और बांग्लादेश का मुकाबला पाकिस्तान से",
+      "summary_hi": "एशियाई खेल 2026 पुरुष क्रिकेट क्वार्टर फाइनल बारिश के कारण रद्द हो गया। श्रीलंका और बांग्लादेश उच्च रैंकिंग के माध्यम से आगे बढ़े। 1 अक्टूबर को सेमीफाइनल में भारत का सामना श्रीलंका से और पाकिस्तान का बांग्लादेश से मुकाबला होगा।",
+      "category_hi": "खेल",
+      "title_hinglish": "eshiyana gemsa 2026: semiphainala men shrilanka ka mukabala bharata se aura bangladesha ka mukabala pakistana se",
+      "summary_hinglish": "eshiyaee khela 2026 purusha kriketa kvartara phainala barisha ke karana radda ho gaya। shrilanka aura bangladesha uchcha rainkinga ke madhyama se aage badhaे। 1 aktubara ko semiphainala men bharata ka samana shrilanka se aura pakistana ka bangladesha se mukabala hoga।",
+      "category_hinglish": "Sports"
+    },
+    {
       "id": "cce9758927410596",
       "title": "Hanuman Ansh box office collection Day 53: Neem Karoli Baba film nears Rs 310 crore India net, continues stro",
       "summary": "Hanuman Ansh continues its theatrical run in its eighth week. The film recorded a drop on Day 53 but remained part of the box office conversation after crossing Rs 400 crore worldwide.",
@@ -134,6 +200,23 @@
       "title_hi": "",
       "summary_hi": "",
       "category_hi": "मनोरंजन",
+      "category_hinglish": "Entertainment"
+    },
+    {
+      "id": "5b8a95986db19279",
+      "title": "The Vvaan's Chhath scenes are winning Bihari hearts. Here's what feels so real",
+      "summary": "The Vvaan's Chhath Puja sequence has drawn strong emotional reactions from viewers online. Audiences say the rituals, visuals and Sharda Sinha's song make it feel personal and rooted.",
+      "category": "Entertainment",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/the-vvaan--chhath-puja-282146821-16x9_0.png?VersionId=E9w3I6gZvguvKa_mdkWMRtz..rG9VEs1",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/movies/bollywood/story/the-vvaan-chhath-puja-scenes-sharda-sinha-song-winning-bihari-hearts-3004629-2026-09-28",
+      "publishedAt": "2026-09-28T07:23:55.000Z",
+      "fetchedAt": "2026-09-29T06:37:05.837Z",
+      "title_hi": "वाण के छठ दृश्य बिहारियों का दिल जीत रहे हैं. यहाँ वह है जो बहुत वास्तविक लगता है",
+      "summary_hi": "व्वान के छठ पूजा सीक्वेंस पर ऑनलाइन दर्शकों की ओर से तीखी भावनात्मक प्रतिक्रियाएं आई हैं। दर्शकों का कहना है कि अनुष्ठान, दृश्य और शारदा सिन्हा का गीत इसे व्यक्तिगत और निहित बनाता है।",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "vana ke chhatha drishya bihariyon ka dila jita rahe hain. yahan vaha hai jo bahuta vastavika lagata hai",
+      "summary_hinglish": "vvana ke chhatha puja sikvensa para ऑnalaina darshakon ki ora se tikhi bhavanatmaka pratikriyaen aaee hain। darshakon ka kahana hai ki anushthan, drishya aura sharada sinha ka gita ise vyaktigata aura nihita banata hai।",
       "category_hinglish": "Entertainment"
     },
     {
@@ -154,23 +237,6 @@
       "summary_hinglish": "bharatiya nishanebajon ne eshiyaee khela 2026 ke 10ven dina mahilaon ki traipa spardha men rajata padaka jitakara eka aura padaka jita।"
     },
     {
-      "id": "4c6826da4d201796",
-      "title": "Tanya Mishra, the Bihar-born model-actress fans are calling India's new 'national crush'",
-      "summary": "Viral photographs have pushed the 27-year-old into the spotlight. She has modelled for Femina and Grazia, placed at a Miss India pageant and appeared in the web series Chidiya Udd.",
-      "category": "National & Trending News",
-      "image": "https://images.firstpost.com/uploads/2026/09/Tanyaa-Mishra-2026-09-c5db892c195ba9c7239cc41e3ebf2acb-1200x675.jpg?im=FitAndFill,width=1200,height=675",
-      "source": "Firstpost",
-      "sourceUrl": "https://www.firstpost.com/lifestyle/tanya-mishra-the-bihar-born-model-actress-fans-are-calling-indias-new-national-crush-14048853.html",
-      "publishedAt": "2026-09-28T11:04:52.000Z",
-      "fetchedAt": "2026-09-28T11:25:07.389Z",
-      "title_hi": "बिहार में जन्मी मॉडल-अभिनेत्री तान्या मिश्रा को प्रशंसक भारत की नई 'नेशनल क्रश' कह रहे हैं",
-      "summary_hi": "वायरल तस्वीरों ने 27 वर्षीय को सुर्खियों में ला दिया है। उन्होंने फेमिना और ग्राज़िया के लिए मॉडलिंग की है, मिस इंडिया प्रतियोगिता में भाग लिया है और वेब श्रृंखला चिड़िया उड़ में दिखाई दी हैं।",
-      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
-      "title_hinglish": "bihara men janmi modala-abhinetri tanya mishra ko prashansaka bharata ki naee 'neshanala krasha' kaha rahe hain",
-      "summary_hinglish": "vayarala tasviron ne 27 varshiya ko surkhiyon men la diya hai। unhonne phemina aura grajaिya ke lie modalinga ki hai, misa indiya pratiyogita men bhaga liya hai aura veba shrrinkhala chidaिya uda men dikhaee di hain।",
-      "category_hinglish": "National aur Trending News"
-    },
-    {
       "id": "8aa617a9474c95bd",
       "title": "D2i Technology Expands AI, Digital Accessibility and Enterprise Software Services",
       "summary": "NOIDA: D2i Technology, an award-winning software development company, has announced the expansion of its technology services across artificial intelligence (AI),",
@@ -188,23 +254,6 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "35f975e696b877fe",
-      "title": "Exclusive: A mega K-pop festival in India being planned, venues being scouted",
-      "summary": "HYBE is exploring a mega K-pop festival in India, with venues being scouted across four cities. The move points to India's growing importance for Korean pop culture and HYBE's wider plans in the market.",
-      "category": "Entertainment",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/a-still-of-bts-from-arirang-concert-credit-hybebighit-music-294621455-16x9_0.jpg?VersionId=bpK1Rz5uufXjDShdApiD5jm7prTTXfqZ",
-      "source": "indiatoday.in",
-      "sourceUrl": "https://www.indiatoday.in/entertainment/music/story/k-pop-festival-india-hybe-scouts-mumbai-delhi-bengaluru-and-shillong-venues-3005342-2026-09-29",
-      "publishedAt": "2026-09-29T03:46:39.000Z",
-      "fetchedAt": "2026-09-29T03:55:48.650Z",
-      "title_hi": "विशेष: भारत में एक मेगा के-पॉप उत्सव की योजना बनाई जा रही है, स्थानों की तलाश की जा रही है",
-      "summary_hi": "HYBE भारत में एक मेगा के-पॉप उत्सव की खोज कर रहा है, जिसके लिए चार शहरों में स्थान तलाशे जा रहे हैं। यह कदम कोरियाई पॉप संस्कृति के लिए भारत के बढ़ते महत्व और बाजार में HYBE की व्यापक योजनाओं की ओर इशारा करता है।",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "vishesh: bharata men eka mega ke-popa utsava ki yojana banaee ja rahi hai, sthanon ki talasha ki ja rahi hai",
-      "summary_hinglish": "HYBE bharata men eka mega ke-popa utsava ki khoja kara raha hai, jisake lie chara shaharon men sthana talashe ja rahe hain। yaha kadama koriyaee popa sanskriti ke lie bharata ke badhate mahatva aura bajara men HYBE ki vyapaka yojanaon ki ora ishara karata hai।",
-      "category_hinglish": "Entertainment"
-    },
-    {
       "id": "be70c7c038ab373d",
       "title": "330 archers compete in state championship",
       "summary": "The three-day Raja Karna Bihar State Archery Championship ‘Lakshya’ 2026 began at Pataliputra Sports Complex on Sunday with 330 archers from across Bihar competing for honours. Organised by the sports department and Bihar State Sports Authority, the championship has 180 boys and 150 girls competing in Under-10, Under-13, Under-15, sub-junior…",
@@ -220,6 +269,23 @@
       "title_hinglish": "rajya chaimpiyanashipa men 330 tirandaja pratispardha karate hain",
       "summary_hinglish": "tina divasiya raja karna bihara rajya tirandaji chainpiyanashipa 'lakshya' 2026 ravivara ko pataliputra sportsa kompleksa men shuru huee, jisamen pure bihara ke 330 tirandaja sammana ke lie pratispardha kara rahe the। khela vibhaga aura bihara rajya khela pradhikarana dvara aayojita isa chainpiyanashipa men 180 ladake aura 150 ladakiyan andara-10, andara-13, andara-15, saba-juniyar...",
       "category_hinglish": "Sports"
+    },
+    {
+      "id": "35f975e696b877fe",
+      "title": "Exclusive: A mega K-pop festival in India being planned, venues being scouted",
+      "summary": "HYBE is exploring a mega K-pop festival in India, with venues being scouted across four cities. The move points to India's growing importance for Korean pop culture and HYBE's wider plans in the market.",
+      "category": "Entertainment",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/a-still-of-bts-from-arirang-concert-credit-hybebighit-music-294621455-16x9_0.jpg?VersionId=bpK1Rz5uufXjDShdApiD5jm7prTTXfqZ",
+      "source": "indiatoday.in",
+      "sourceUrl": "https://www.indiatoday.in/entertainment/music/story/k-pop-festival-india-hybe-scouts-mumbai-delhi-bengaluru-and-shillong-venues-3005342-2026-09-29",
+      "publishedAt": "2026-09-29T03:46:39.000Z",
+      "fetchedAt": "2026-09-29T03:55:48.650Z",
+      "title_hi": "विशेष: भारत में एक मेगा के-पॉप उत्सव की योजना बनाई जा रही है, स्थानों की तलाश की जा रही है",
+      "summary_hi": "HYBE भारत में एक मेगा के-पॉप उत्सव की खोज कर रहा है, जिसके लिए चार शहरों में स्थान तलाशे जा रहे हैं। यह कदम कोरियाई पॉप संस्कृति के लिए भारत के बढ़ते महत्व और बाजार में HYBE की व्यापक योजनाओं की ओर इशारा करता है।",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "vishesh: bharata men eka mega ke-popa utsava ki yojana banaee ja rahi hai, sthanon ki talasha ki ja rahi hai",
+      "summary_hinglish": "HYBE bharata men eka mega ke-popa utsava ki khoja kara raha hai, jisake lie chara shaharon men sthana talashe ja rahe hain। yaha kadama koriyaee popa sanskriti ke lie bharata ke badhate mahatva aura bajara men HYBE ki vyapaka yojanaon ki ora ishara karata hai।",
+      "category_hinglish": "Entertainment"
     },
     {
       "id": "58d27f9cc1d2eedb",
@@ -307,23 +373,6 @@
       "category_hinglish": "Entertainment"
     },
     {
-      "id": "1ae415d0730935e0",
-      "title": "India among countries attending SCO national coordinators' meeting in Pakistan | India News",
-      "summary": "India, a key SCO member, is attending the meeting with its National Coordinator, Alok Dimri, leading the delegation. | India News",
-      "category": "National & Trending News",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/29/1600x900/logo/SCO_1790644481229_Uh6X_1790644485566_5jpv_bbf4db3d-c870-418a-8147-74f3681354b6_vkry.jpg",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/india-news/india-among-countries-attending-sco-national-coordinators-meeting-in-pakistan-101790644274232.html",
-      "publishedAt": "2026-09-29T02:46:35.000Z",
-      "fetchedAt": "2026-09-29T03:22:01.876Z",
-      "title_hi": "पाकिस्तान में एससीओ राष्ट्रीय समन्वयकों की बैठक में भाग लेने वाले देशों में भारत | भारत समाचार",
-      "summary_hi": "भारत, एक प्रमुख एससीओ सदस्य, अपने राष्ट्रीय समन्वयक आलोक डिमरी के साथ बैठक में भाग ले रहा है, जो प्रतिनिधिमंडल का नेतृत्व कर रहे हैं। | भारत समाचार",
-      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
-      "category_hinglish": "National aur Trending News",
-      "title_hinglish": "pakistana men esasio rashtriya samanvayakon ki baithaka men bhaga lene vale deshon men bharata | bharata samachara",
-      "summary_hinglish": "bharat, eka pramukha esasio sadasy, apane rashtriya samanvayaka aaloka dimari ke satha baithaka men bhaga le raha hai, jo pratinidhimandala ka netritva kara rahe hain। | bharata samachara"
-    },
-    {
       "id": "4911f7e5a341b5b9",
       "title": "Caught With Pistol, Bhagalpur Criminal Pushes Cop, Jumps Into River To Escape Police; What Happened Next Goes Viral",
       "summary": "The accused, identified as Santosh Yadav, had allegedly been arrested after police recovered a country-made pistol and cartridges from him.",
@@ -339,6 +388,23 @@
       "title_hinglish": "pistaula ke satha pakadaा gay, bhagalapura aparadhi ne pulisa ko dhakka diy, pulisa se bachane ke lie nadi men kuda gay; aage jo huaa vaha vayarala ho gaya",
       "summary_hinglish": "santosha yadava ke rupa men pahachane gae aaropi ko kathita taura para pulisa dvara usake pasa se eka deshi pistaula aura karatusa baramada karane ke bada giraphtara kara liya gaya tha।",
       "category_hinglish": "Crime aur Breaking News"
+    },
+    {
+      "id": "1ae415d0730935e0",
+      "title": "India among countries attending SCO national coordinators' meeting in Pakistan | India News",
+      "summary": "India, a key SCO member, is attending the meeting with its National Coordinator, Alok Dimri, leading the delegation. | India News",
+      "category": "National & Trending News",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/29/1600x900/logo/SCO_1790644481229_Uh6X_1790644485566_5jpv_bbf4db3d-c870-418a-8147-74f3681354b6_vkry.jpg",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/india-among-countries-attending-sco-national-coordinators-meeting-in-pakistan-101790644274232.html",
+      "publishedAt": "2026-09-29T02:46:35.000Z",
+      "fetchedAt": "2026-09-29T03:22:01.876Z",
+      "title_hi": "पाकिस्तान में एससीओ राष्ट्रीय समन्वयकों की बैठक में भाग लेने वाले देशों में भारत | भारत समाचार",
+      "summary_hi": "भारत, एक प्रमुख एससीओ सदस्य, अपने राष्ट्रीय समन्वयक आलोक डिमरी के साथ बैठक में भाग ले रहा है, जो प्रतिनिधिमंडल का नेतृत्व कर रहे हैं। | भारत समाचार",
+      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
+      "category_hinglish": "National aur Trending News",
+      "title_hinglish": "pakistana men esasio rashtriya samanvayakon ki baithaka men bhaga lene vale deshon men bharata | bharata samachara",
+      "summary_hinglish": "bharat, eka pramukha esasio sadasy, apane rashtriya samanvayaka aaloka dimari ke satha baithaka men bhaga le raha hai, jo pratinidhimandala ka netritva kara rahe hain। | bharata samachara"
     },
     {
       "id": "642576bcb8f2debf",
@@ -358,23 +424,6 @@
       "summary_hinglish": "nagoya men sabhi chara kvartara phainala barisha ke karana radda ho jane ke bada eshiyaee khelon ke semiphainala men bharatiya purusha kriketa tima ka samana shrilanka se hog, jisase uchcha rainkinga vali timen antima chara men pahuncha jaengi।"
     },
     {
-      "id": "af993d32f07da8f0",
-      "title": "'Mirzapur The Movie' box office collection day 25: Pankaj Tripathi film earns Rs 60 lakhs; India net reac",
-      "summary": "'Mirzapur The Movie' is positioned as an interquel within the timeline of the first season of the 'Mirzapur' television series. Pankaj Tripathi, Ali Fazal, Divyenndu, Jitendra Kumar and Ravi Kishan feature in key roles.",
-      "category": "Entertainment",
-      "image": "https://static.toiimg.com/thumb/msid-134554419,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/mirzapur-the-movie-box-office-collection-day-25-pankaj-tripathi-film-earns-rs-60-lakhs-india-net-reaches-rs-227-65cr-worldwide-gross-stands-at-rs-331-42cr/articleshow/134554381.cms",
-      "publishedAt": "2026-09-29T02:41:00.000Z",
-      "fetchedAt": "2026-09-29T03:01:09.246Z",
-      "title_hi": "'मिर्जापुर द मूवी' का बॉक्स ऑफिस कलेक्शन दिन 25:पंकज त्रिपाठी की फिल्म ने कमाए 60 लाख रुपये; भारत नेट प्रतिक्रिया",
-      "summary_hi": "'मिर्जापुर द मूवी' को 'मिर्जापुर' टेलीविजन श्रृंखला के पहले सीज़न की टाइमलाइन के भीतर एक इंटरक्वेल के रूप में पेश किया गया है। पंकज त्रिपाठी, अली फज़ल, दिव्येंदु, जितेंद्र कुमार और रवि किशन मुख्य भूमिकाओं में हैं।",
-      "category_hi": "मनोरंजन",
-      "category_hinglish": "Entertainment",
-      "title_hinglish": "'mirjapura da muvi' ka boksa ऑphisa kalekshana dina 25:pankaja tripathi ki philma ne kamae 60 lakha rupaye; bharata neta pratikriya",
-      "summary_hinglish": "'mirjapura da muvi' ko 'mirjapura' telivijana shrrinkhala ke pahale sijana ki taimalaina ke bhitara eka intarakvela ke rupa men pesha kiya gaya hai। pankaja tripathi, ali phajal, divyendu, jitendra kumara aura ravi kishana mukhya bhumikaon men hain।"
-    },
-    {
       "id": "03943fafde680d0a",
       "title": "Samrat: Bihar, Centre to coordinate on cross-border crimes along Nepal border",
       "summary": "Bihar govt and Centre will work in close coordination to curb infiltration, counterfeit currency, drug trafficking and other cross-border crimes along the sensitive India-Nepal border, CM Samrat Choudhary said here on Saturday after chairing a comprehensive high-level review meeting at the ‘Samvad’ hall in the Chief Minister’s Secretariat.",
@@ -392,6 +441,23 @@
       "category_hinglish": "Crime aur Breaking News"
     },
     {
+      "id": "af993d32f07da8f0",
+      "title": "'Mirzapur The Movie' box office collection day 25: Pankaj Tripathi film earns Rs 60 lakhs; India net reac",
+      "summary": "'Mirzapur The Movie' is positioned as an interquel within the timeline of the first season of the 'Mirzapur' television series. Pankaj Tripathi, Ali Fazal, Divyenndu, Jitendra Kumar and Ravi Kishan feature in key roles.",
+      "category": "Entertainment",
+      "image": "https://static.toiimg.com/thumb/msid-134554419,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/mirzapur-the-movie-box-office-collection-day-25-pankaj-tripathi-film-earns-rs-60-lakhs-india-net-reaches-rs-227-65cr-worldwide-gross-stands-at-rs-331-42cr/articleshow/134554381.cms",
+      "publishedAt": "2026-09-29T02:41:00.000Z",
+      "fetchedAt": "2026-09-29T03:01:09.246Z",
+      "title_hi": "'मिर्जापुर द मूवी' का बॉक्स ऑफिस कलेक्शन दिन 25:पंकज त्रिपाठी की फिल्म ने कमाए 60 लाख रुपये; भारत नेट प्रतिक्रिया",
+      "summary_hi": "'मिर्जापुर द मूवी' को 'मिर्जापुर' टेलीविजन श्रृंखला के पहले सीज़न की टाइमलाइन के भीतर एक इंटरक्वेल के रूप में पेश किया गया है। पंकज त्रिपाठी, अली फज़ल, दिव्येंदु, जितेंद्र कुमार और रवि किशन मुख्य भूमिकाओं में हैं।",
+      "category_hi": "मनोरंजन",
+      "category_hinglish": "Entertainment",
+      "title_hinglish": "'mirjapura da muvi' ka boksa ऑphisa kalekshana dina 25:pankaja tripathi ki philma ne kamae 60 lakha rupaye; bharata neta pratikriya",
+      "summary_hinglish": "'mirjapura da muvi' ko 'mirjapura' telivijana shrrinkhala ke pahale sijana ki taimalaina ke bhitara eka intarakvela ke rupa men pesha kiya gaya hai। pankaja tripathi, ali phajal, divyendu, jitendra kumara aura ravi kishana mukhya bhumikaon men hain।"
+    },
+    {
       "id": "f0a8e399f94b8f2b",
       "title": "Asian Games 2026: India medal tally and winners list - full table",
       "summary": "Know list of India winners at the Asian Games 2026. Know medal tally and how many medals Indian athletes have won in each sport. Full table.",
@@ -400,12 +466,10 @@
       "source": "olympics.com",
       "sourceUrl": "https://www.olympics.com/en/news/asian-games-2026-medal-tally-india-winners-table-list",
       "publishedAt": "2026-09-29T02:26:00.000Z",
-      "fetchedAt": "2026-09-29T06:12:16.700Z",
-      "title_hi": "एशियाई खेल 2026: भारत की पदक तालिका और विजेताओं की सूची - पूरी तालिका",
-      "summary_hi": "एशियाई खेल 2026 में भारत के विजेताओं की सूची जानें। पदक तालिका जानें और भारतीय एथलीटों ने प्रत्येक खेल में कितने पदक जीते हैं। पूरी मेज.",
+      "fetchedAt": "2026-09-29T06:36:45.867Z",
+      "title_hi": "",
+      "summary_hi": "",
       "category_hi": "खेल",
-      "title_hinglish": "eshiyaee khela 2026: bharata ki padaka talika aura vijetaon ki suchi - puri talika",
-      "summary_hinglish": "eshiyaee khela 2026 men bharata ke vijetaon ki suchi janen। padaka talika janen aura bharatiya ethaliton ne pratyeka khela men kitane padaka jite hain। puri mej.",
       "category_hinglish": "Sports"
     },
     {
@@ -477,23 +541,6 @@
       "summary_hinglish": "enaaaeepiela ke satha eka samajhauta niyojita dijitala bhugatana pranali ko majabuta karega kyonki bharata aura trinidada aura tobaigo praudyogiki, vyapara aura svasthya seva men sahayoga ko gahara karenge।"
     },
     {
-      "id": "0185592b91a25d51",
-      "title": "SCO national coordinators’ meeting begins in Pakistan; India among participants",
-      "summary": "SCO national coordinators meet in Islamabad to prep 2027 Heads of State summit; India participates under Alok Dimri.",
-      "category": "National & Trending News",
-      "image": "https://th-i.thgim.com/public/incoming/xdtk38/article71522342.ece/alternates/FREE_1200/sco.png",
-      "source": "The Hindu",
-      "sourceUrl": "https://www.thehindu.com/news/international/sco-national-coordinators-meeting-pakistan/article71522336.ece/amp/",
-      "publishedAt": "2026-09-29T01:53:56.000Z",
-      "fetchedAt": "2026-09-29T03:40:22.715Z",
-      "title_hi": "पाकिस्तान में एससीओ राष्ट्रीय समन्वयकों की बैठक शुरू; प्रतिभागियों के बीच भारत",
-      "summary_hi": "2027 राष्ट्राध्यक्ष शिखर सम्मेलन की तैयारी के लिए एससीओ के राष्ट्रीय समन्वयक इस्लामाबाद में मिले; भारत आलोक डिमरी के नेतृत्व में भाग लेता है।",
-      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
-      "category_hinglish": "National aur Trending News",
-      "title_hinglish": "pakistana men esasio rashtriya samanvayakon ki baithaka shuru; pratibhagiyon ke bicha bharata",
-      "summary_hinglish": "2027 rashtradhyaksha shikhara sammelana ki taiyari ke lie esasio ke rashtriya samanvayaka islamabada men mile; bharata aaloka dimari ke netritva men bhaga leta hai।"
-    },
-    {
       "id": "55d29fb029ceb324",
       "title": "Bigg Boss 20: Mahhi Vij questions Isha Rikhi’s remarks after Qazi Touqeer clash mentions Badshah, 'Kaun sa tr",
       "summary": "Mahhi Vij has weighed in on the latest Bigg Boss 20 controversy after Isha Rikhi spoke about her experience following her heated interaction with Qazi Touqeer.",
@@ -509,6 +556,23 @@
       "title_hinglish": "biga bosa 20: kaji taukira ki jhadapa ke bada mahi vija ne eesha rikhi ki tippani para savala uthae, jisamen badashaha ka jikra th, 'kauna sa tra'",
       "summary_hinglish": "eesha rikhi dvara kaji taukira ke satha tikhi batachita ke bada apane anubhava ke bare men bata karane ke bada mahi vija ne navinatama biga bosa 20 vivada para jora diya hai।",
       "category_hinglish": "Entertainment"
+    },
+    {
+      "id": "0185592b91a25d51",
+      "title": "SCO national coordinators’ meeting begins in Pakistan; India among participants",
+      "summary": "SCO national coordinators meet in Islamabad to prep 2027 Heads of State summit; India participates under Alok Dimri.",
+      "category": "National & Trending News",
+      "image": "https://th-i.thgim.com/public/incoming/xdtk38/article71522342.ece/alternates/FREE_1200/sco.png",
+      "source": "The Hindu",
+      "sourceUrl": "https://www.thehindu.com/news/international/sco-national-coordinators-meeting-pakistan/article71522336.ece/amp/",
+      "publishedAt": "2026-09-29T01:53:56.000Z",
+      "fetchedAt": "2026-09-29T03:40:22.715Z",
+      "title_hi": "पाकिस्तान में एससीओ राष्ट्रीय समन्वयकों की बैठक शुरू; प्रतिभागियों के बीच भारत",
+      "summary_hi": "2027 राष्ट्राध्यक्ष शिखर सम्मेलन की तैयारी के लिए एससीओ के राष्ट्रीय समन्वयक इस्लामाबाद में मिले; भारत आलोक डिमरी के नेतृत्व में भाग लेता है।",
+      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
+      "category_hinglish": "National aur Trending News",
+      "title_hinglish": "pakistana men esasio rashtriya samanvayakon ki baithaka shuru; pratibhagiyon ke bicha bharata",
+      "summary_hinglish": "2027 rashtradhyaksha shikhara sammelana ki taiyari ke lie esasio ke rashtriya samanvayaka islamabada men mile; bharata aaloka dimari ke netritva men bhaga leta hai।"
     },
     {
       "id": "001620b39448e2ef",
@@ -528,21 +592,6 @@
       "summary_hinglish": "ameriki sanghiya juri ne paya ki iPhones aura Apple Watches men Apple ke haiptika phidabaika ke pichhe ki takanika ne do Taction petenta ka ullanghana kiya hai, jisake bada Apple ko Taction Technology ko $5.7 biliyana se adhika ka bhugatana karane ka aadesha diya gaya hai। sienabisi ki eka riporta ke mutabik, aaeephona nirmata ne phaisale ko kharija kara diya hai aura kaha hai..."
     },
     {
-      "id": "9ca7b41eadf42888",
-      "title": "India was once known for scale. Its next advantage will be expertise: GlobalLogic APAC CHRO - People Matters",
-      "summary": "As AI reshapes global talent markets, Rajesh Rai, SVP and CHRO, APAC, GlobalLogic, believes India's future competitiveness will depend less on workforce scale and more on specialised skills, learning agility and business value creation.",
-      "category": "Technology",
-      "image": "https://asset.peoplematters.in/images/5ec98bcb-42ca-41ad-a698-f5de4e372111.png",
-      "source": "People Matters - HR News",
-      "sourceUrl": "https://www.peoplematters.in/article/performance-management/india-was-once-known-for-scale-its-next-advantage-will-be-expertise-globallogic-apac-chro-52384",
-      "publishedAt": "2026-09-29T01:50:27.000Z",
-      "fetchedAt": "2026-09-29T06:12:33.287Z",
-      "title_hi": "",
-      "summary_hi": "",
-      "category_hi": "टेक्नोलॉजी",
-      "category_hinglish": "Technology"
-    },
-    {
       "id": "0fd2b8e1e638217a",
       "title": "After Bankipur win, Prashant Kishor's party weighs Delhi expansion | India News",
       "summary": "Supporters of Jan Suraaj in the national capital have been pressing for the party to establish a presence in Delhi.",
@@ -558,6 +607,23 @@
       "title_hinglish": "bankipura jita ke bada prashanta kishora ki parti dilli vistara para vichara kara rahi hai | bharata samachara",
       "summary_hinglish": "rashtriya rajadhani men jana suraja ke samarthaka parti para dilli men upasthiti sthapita karane ke lie dabava dala rahe hain।",
       "category_hinglish": "Politics aur Government"
+    },
+    {
+      "id": "9ca7b41eadf42888",
+      "title": "India was once known for scale. Its next advantage will be expertise: GlobalLogic APAC CHRO - People Matters",
+      "summary": "As AI reshapes global talent markets, Rajesh Rai, SVP and CHRO, APAC, GlobalLogic, believes India's future competitiveness will depend less on workforce scale and more on specialised skills, learning agility and business value creation.",
+      "category": "Technology",
+      "image": "https://asset.peoplematters.in/images/5ec98bcb-42ca-41ad-a698-f5de4e372111.png",
+      "source": "People Matters - HR News",
+      "sourceUrl": "https://www.peoplematters.in/article/performance-management/india-was-once-known-for-scale-its-next-advantage-will-be-expertise-globallogic-apac-chro-52384",
+      "publishedAt": "2026-09-29T01:50:27.000Z",
+      "fetchedAt": "2026-09-29T06:36:57.862Z",
+      "title_hi": "भारत एक समय पैमाने के लिए जाना जाता था। इसका अगला लाभ विशेषज्ञता होगी: ग्लोबललॉजिक APAC CHRO - पीपल मैटर्स",
+      "summary_hi": "जैसा कि एआई वैश्विक प्रतिभा बाजारों को नया आकार दे रहा है, राजेश राय, एसवीपी और सीएचआरओ, एपीएसी, ग्लोबललॉजिक का मानना है कि भारत की भविष्य की प्रतिस्पर्धात्मकता कार्यबल के पैमाने पर कम और विशेष कौशल, सीखने की चपलता और व्यावसायिक मूल्य निर्माण पर अधिक निर्भर करेगी।",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "bharata eka samaya paimane ke lie jana jata tha। isaka agala labha visheshajnyata hogi: globalalojika APAC CHRO - pipala maitarsa",
+      "summary_hinglish": "jaisa ki eaaee vaishvika pratibha bajaron ko naya aakara de raha hai, rajesha ray, esavipi aura siechaaarao, epiesi, globalalojika ka manana hai ki bharata ki bhavishya ki pratispardhatmakata karyabala ke paimane para kama aura vishesha kaushal, sikhane ki chapalata aura vyavasayika mulya nirmana para adhika nirbhara karegi।",
+      "category_hinglish": "Technology"
     },
     {
       "id": "961ee47c112461ee",
@@ -608,23 +674,6 @@
       "category_hi": "मनोरंजन",
       "title_hinglish": "jamuee utpidana aura dilli balatkara mamale ke bicha kriti sanona ne gupta instagrama posta sajha kiy: 'yaha mahila banama pitrisatta hai",
       "summary_hinglish": "jamuee utpidana mamale ko lekara chala rahi charcha ke bicha kriti senana ki navinatama instagrama gatividhi ne dhyana khincha hai। yahan bataya gaya hai ki abhinetri ne kya sajha kiya aura kyon isane charcha ko badhaाva diya hai।",
-      "category_hinglish": "Entertainment"
-    },
-    {
-      "id": "0be2e87514bfd321",
-      "title": "'VIBE' box office collection day 11: Kunal Khemu and Preity Zinta's film earns Rs 20 lakh; total India ne",
-      "summary": "Kunal Khemu's 'VIBE' recorded an India net collection of Rs 20 lakh on its 11th day at the box office. The film had 519 shows on Monday, September 28, according to Sacnilk.",
-      "category": "Entertainment",
-      "image": "https://static.toiimg.com/thumb/msid-134553666,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/vibe-box-office-collection-day-11-kunal-khemu-and-preity-zintas-film-earns-rs-20-lakh-total-india-net-reaches-rs-13-75cr-gross-collection-stands-at-rs-16-40cr/articleshow/134553654.cms",
-      "publishedAt": "2026-09-29T01:30:00.000Z",
-      "fetchedAt": "2026-09-29T01:50:06.260Z",
-      "title_hi": "'VIBE' बॉक्स ऑफिस कलेक्शन दिन 11: कुणाल खेमू और प्रीति जिंटा की फिल्म ने कमाए 20 लाख रुपए; कुल भारत ने",
-      "summary_hi": "कुणाल खेमू की 'वाइब' ने बॉक्स ऑफिस पर 11वें दिन 20 लाख रुपये का भारत नेट कलेक्शन दर्ज किया। सैकनिल्क के अनुसार, सोमवार, 28 सितंबर को फिल्म के 519 शो थे।",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "'VIBE' boksa ऑphisa kalekshana dina 11: kunala khemu aura priti jinta ki philma ne kamae 20 lakha rupae; kula bharata ne",
-      "summary_hinglish": "kunala khemu ki 'vaiba' ne boksa ऑphisa para 11ven dina 20 lakha rupaye ka bharata neta kalekshana darja kiya। saikanilka ke anusar, somavar, 28 sitanbara ko philma ke 519 sho the।",
       "category_hinglish": "Entertainment"
     }
   ]
