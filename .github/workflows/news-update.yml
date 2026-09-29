@@ -35,6 +35,8 @@ jobs:
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-5.6-luna' }}
           FEED_MAX_ARTICLES: ${{ vars.FEED_MAX_ARTICLES || '250' }}
           MAX_NEW_EXTERNAL_PER_CATEGORY: ${{ vars.MAX_NEW_EXTERNAL_PER_CATEGORY || '10' }}
           MAX_NEW_BIHAR_PER_CATEGORY: ${{ vars.MAX_NEW_BIHAR_PER_CATEGORY || '4' }}
