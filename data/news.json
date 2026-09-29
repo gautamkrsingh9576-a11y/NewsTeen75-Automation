@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T00:45:01.537Z",
+  "updatedAt": "2026-09-29T01:01:51.263Z",
   "count": 43,
   "articles": [
     {
@@ -114,10 +114,12 @@
       "sourceUrl": "https://www.news18.com/amp/world/us-adds-gangster-goldy-brar-to-fbis-top-10-most-wanted-list-offers-1-million-bounty-ws-l-10358112.html",
       "publishedAt": "2026-09-28T19:28:32.000Z",
       "fetchedAt": "2026-09-28T21:27:06.850Z",
-      "title_hi": "",
-      "summary_hi": "",
+      "title_hi": "अमेरिका ने गैंगस्टर गोल्डी बरार को एफबीआई की शीर्ष 10 मोस्ट वांटेड सूची में शामिल किया, 1 मिलियन डॉलर का इनाम रखा",
+      "summary_hi": "एफबीआई ने कहा कि माना जाता है कि बरार कैलिफोर्निया और कनाडा के कुछ हिस्सों में रहता है और उसे सशस्त्र और खतरनाक माना जाना चाहिए।",
       "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "category_hinglish": "Crime aur Breaking News"
+      "category_hinglish": "Crime aur Breaking News",
+      "title_hinglish": "amerika ne gaingastara goldi barara ko ephabiaaee ki shirsha 10 mosta vanteda suchi men shamila kiy, 1 miliyana dolara ka inama rakha",
+      "summary_hinglish": "ephabiaaee ne kaha ki mana jata hai ki barara kailiphorniya aura kanada ke kuchha hisson men rahata hai aura use sashastra aura khataranaka mana jana chahie।"
     },
     {
       "id": "55d03ef187dfe49a",
@@ -205,15 +207,15 @@
       "summary_hinglish": "haidarabada (telangana) [bharata], 28 sitanbar: phaiba kaipitala sharka tainka indiya-visheshikrita kanpaniyon sahita vibhinna vyavasayon ko vikas, karyashila punji aura anya jaruraton ke lie rina punji taka pahunchane men madada karata hai। ikviti dhana ugahane vale pletapharmon ke viparit, phaiba kaipitala vishesha rupa se rina men kama karata hai, jisase vyavasayon ko svamitva chhodaे bina punji jutane ki anumati milati hai।"
     },
     {
-      "id": "3e072af4993f48ce",
-      "title": "The Vvaan Box Office Collection: Sidharth Malhotra, Tamannaah Bhatias Film Mints Rs 33.25 Cr In Opening Weekend",
-      "summary": "The Vvaan starring Sidharth Malhotra and Tamannaah Bhatia earns Rs 33.25 crore in three days. The film has surpassed the lifetime collections of 26 films.",
+      "id": "5b8a95986db19279",
+      "title": "The Vvaan's Chhath scenes are winning Bihari hearts. Here's what feels so real",
+      "summary": "The Vvaan's Chhath Puja sequence has drawn strong emotional reactions from viewers online. Audiences say the rituals, visuals and Sharda Sinha's song make it feel personal and rooted.",
       "category": "Entertainment",
-      "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/09/28/5ce93e1466e1c5b8612b4d5f542296ae17905615596311090_original.png?impolicy=abp_cdn&imwidth=1200",
-      "source": "ABP Live English",
-      "sourceUrl": "https://news.abplive.com/entertainment/movies/the-vvaan-box-office-collection-day-3-sidharth-malhotra-tamannaah-bhatia-opening-weekend-1868637",
-      "publishedAt": "2026-09-28T02:13:47.000Z",
-      "fetchedAt": "2026-09-29T00:44:58.927Z",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/the-vvaan--chhath-puja-282146821-16x9_0.png?VersionId=E9w3I6gZvguvKa_mdkWMRtz..rG9VEs1",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/movies/bollywood/story/the-vvaan-chhath-puja-scenes-sharda-sinha-song-winning-bihari-hearts-3004629-2026-09-28",
+      "publishedAt": "2026-09-28T07:23:55.000Z",
+      "fetchedAt": "2026-09-29T01:01:46.546Z",
       "title_hi": "",
       "summary_hi": "",
       "category_hi": "मनोरंजन",
@@ -348,10 +350,12 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-2006-matt-damon-started-a-water-nonprofit-after-seeing-a-zambian-village-struggle-20-years-later-his-mission-has-reached-more-than-92-million-people/articleshow/134499663.cms",
       "publishedAt": "2026-09-28T17:55:00.000Z",
       "fetchedAt": "2026-09-28T22:13:02.032Z",
-      "title_hi": "",
-      "summary_hi": "",
+      "title_hi": "2006 में, ज़ाम्बिया के एक गाँव के संघर्ष को देखने के बाद मैट डेमन ने एक जल गैर-लाभकारी संस्था शुरू की; 20 साल बाद, नमस्ते",
+      "summary_hi": "इस पोस्ट को इंस्टाग्राम पर देखें गेट ब्लू (@getblueforwater) द्वारा साझा की गई एक पोस्ट",
       "category_hi": "मनोरंजन",
-      "category_hinglish": "Entertainment"
+      "category_hinglish": "Entertainment",
+      "title_hinglish": "2006 men, jaाmbiya ke eka ganva ke sangharsha ko dekhane ke bada maita demana ne eka jala gaira-labhakari sanstha shuru ki; 20 sala bad, namaste",
+      "summary_hinglish": "isa posta ko instagrama para dekhen geta blu (@getblueforwater) dvara sajha ki gaee eka posta"
     },
     {
       "id": "87f850788f219b23",
@@ -575,21 +579,19 @@
       "category_hinglish": "Entertainment"
     },
     {
-      "id": "68ee1b0a093a02f0",
-      "title": "Asian Games 2026 | Indian athletes' schedule for September 29",
-      "summary": "Asian Games 2026: Track India schedule on Tuesday with athletics finals, boxing semifinals, shooting and tennis matches happening today. Catch live action updates, timings, and medal events for Indian athletes competing in Nagoya.",
-      "category": "Sports",
-      "image": "https://media.assettype.com/deccanherald%2F2026-09-28%2Fsnmgs6vc%2Ffile87sk6kafx9218nfmdelf.jpg?rect=0%2C3%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
-      "source": "deccanherald.com",
-      "sourceUrl": "https://www.deccanherald.com/sports/other-sports/asian-games-2026-indian-athletes-schedule-for-september-29-4163061",
-      "publishedAt": "2026-09-28T16:16:50.000Z",
-      "fetchedAt": "2026-09-28T16:37:14.965Z",
-      "title_hi": "एशियाई खेल 2026 | भारतीय एथलीटों का 29 सितंबर का कार्यक्रम",
-      "summary_hi": "एशियाई खेल 2026: ट्रैक इंडिया शेड्यूल मंगलवार को, एथलेटिक्स फाइनल, मुक्केबाजी सेमीफाइनल, शूटिंग और टेनिस मैच आज होंगे। नागोया में प्रतिस्पर्धा करने वाले भारतीय एथलीटों के लिए लाइव एक्शन अपडेट, समय और पदक स्पर्धाओं को देखें।",
-      "category_hi": "खेल",
-      "title_hinglish": "eshiyaee khela 2026 | bharatiya ethaliton ka 29 sitanbara ka karyakrama",
-      "summary_hinglish": "eshiyaee khela 2026: traika indiya shedyula mangalavara ko, ethaletiksa phainal, mukkebaji semiphainal, shutinga aura tenisa maicha aaja honge। nagoya men pratispardha karane vale bharatiya ethaliton ke lie laiva ekshana apadet, samaya aura padaka spardhaon ko dekhen।",
-      "category_hinglish": "Sports"
+      "id": "42ba1fb904130555",
+      "title": "Three-day Navy Commanders’ Conference to start in New Delhi on September 29",
+      "summary": "Three-day Navy Commanders’ Conference in New Delhi will review operational readiness, including Operation Urja Suraksha, and focus on tech, jointness, and self-reliant defence goals.",
+      "category": "National & Trending News",
+      "image": "https://th-i.thgim.com/public/incoming/or8rik/article71178311.ece/alternates/LANDSCAPE_1200/20260620533L.jpg",
+      "source": "The Hindu",
+      "sourceUrl": "https://www.thehindu.com/news/national/three-day-navy-commanders-conference-to-start-in-new-delhi-on-september-29/article71519927.ece",
+      "publishedAt": "2026-09-28T16:29:39.000Z",
+      "fetchedAt": "2026-09-29T01:01:43.550Z",
+      "title_hi": "",
+      "summary_hi": "",
+      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
+      "category_hinglish": "National aur Trending News"
     },
     {
       "id": "0fd2b8e1e638217a",
@@ -609,6 +611,23 @@
       "category_hinglish": "Politics aur Government"
     },
     {
+      "id": "68ee1b0a093a02f0",
+      "title": "Asian Games 2026 | Indian athletes' schedule for September 29",
+      "summary": "Asian Games 2026: Track India schedule on Tuesday with athletics finals, boxing semifinals, shooting and tennis matches happening today. Catch live action updates, timings, and medal events for Indian athletes competing in Nagoya.",
+      "category": "Sports",
+      "image": "https://media.assettype.com/deccanherald%2F2026-09-28%2Fsnmgs6vc%2Ffile87sk6kafx9218nfmdelf.jpg?rect=0%2C3%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
+      "source": "deccanherald.com",
+      "sourceUrl": "https://www.deccanherald.com/sports/other-sports/asian-games-2026-indian-athletes-schedule-for-september-29-4163061",
+      "publishedAt": "2026-09-28T16:16:50.000Z",
+      "fetchedAt": "2026-09-28T16:37:14.965Z",
+      "title_hi": "एशियाई खेल 2026 | भारतीय एथलीटों का 29 सितंबर का कार्यक्रम",
+      "summary_hi": "एशियाई खेल 2026: ट्रैक इंडिया शेड्यूल मंगलवार को, एथलेटिक्स फाइनल, मुक्केबाजी सेमीफाइनल, शूटिंग और टेनिस मैच आज होंगे। नागोया में प्रतिस्पर्धा करने वाले भारतीय एथलीटों के लिए लाइव एक्शन अपडेट, समय और पदक स्पर्धाओं को देखें।",
+      "category_hi": "खेल",
+      "title_hinglish": "eshiyaee khela 2026 | bharatiya ethaliton ka 29 sitanbara ka karyakrama",
+      "summary_hinglish": "eshiyaee khela 2026: traika indiya shedyula mangalavara ko, ethaletiksa phainal, mukkebaji semiphainal, shutinga aura tenisa maicha aaja honge। nagoya men pratispardha karane vale bharatiya ethaliton ke lie laiva ekshana apadet, samaya aura padaka spardhaon ko dekhen।",
+      "category_hinglish": "Sports"
+    },
+    {
       "id": "f0a8e399f94b8f2b",
       "title": "Asian Games 2026: India medal tally and winners list - full table",
       "summary": "Know list of India winners at the Asian Games 2026. Know medal tally and how many medals Indian athletes have won in each sport. Full table.",
@@ -617,10 +636,12 @@
       "source": "olympics.com",
       "sourceUrl": "https://www.olympics.com/en/news/asian-games-2026-medal-tally-india-winners-table-list",
       "publishedAt": "2026-09-28T15:57:00.000Z",
-      "fetchedAt": "2026-09-29T00:44:37.627Z",
-      "title_hi": "",
-      "summary_hi": "",
+      "fetchedAt": "2026-09-29T01:01:27.035Z",
+      "title_hi": "एशियाई खेल 2026: भारत की पदक तालिका और विजेताओं की सूची - पूरी तालिका",
+      "summary_hi": "एशियाई खेल 2026 में भारत के विजेताओं की सूची जानें। पदक तालिका जानें और भारतीय एथलीटों ने प्रत्येक खेल में कितने पदक जीते हैं। पूरी मेज.",
       "category_hi": "खेल",
+      "title_hinglish": "eshiyaee khela 2026: bharata ki padaka talika aura vijetaon ki suchi - puri talika",
+      "summary_hinglish": "eshiyaee khela 2026 men bharata ke vijetaon ki suchi janen। padaka talika janen aura bharatiya ethaliton ne pratyeka khela men kitane padaka jite hain। puri mej.",
       "category_hinglish": "Sports"
     },
     {
@@ -641,23 +662,6 @@
       "category_hinglish": "Technology"
     },
     {
-      "id": "2a6e451fd15eef48",
-      "title": "Asian Games, Day 9: India clinch 8 medals as athletics & javelin stars shine",
-      "summary": "India enjoyed a prolific Day 9 at the 2026 Asian Games, winning eight medals led by a javelin double podium and Vithya Ramraj's record-breaking run.",
-      "category": "Sports",
-      "image": "https://cdn3.wionews.com/prod/wion/images/2026/20260928/image-1790608830180.jpg?imwidth=1200&imheight=900",
-      "source": "wionews.com",
-      "sourceUrl": "https://www.wionews.com/sports/asian-games-2026-day-9-india-8-medals-athletics-javelin-1790608281731",
-      "publishedAt": "2026-09-28T15:20:00.000Z",
-      "fetchedAt": "2026-09-28T15:40:51.342Z",
-      "title_hi": "एशियाई खेल, दिन 9: एथलेटिक्स और भाला फेंक सितारों की चमक से भारत ने 8 पदक जीते",
-      "summary_hi": "भारत ने 2026 एशियाई खेलों में 9वें दिन शानदार प्रदर्शन किया, भाला फेंक डबल पोडियम और विथ्या रामराज की रिकॉर्ड-ब्रेकिंग दौड़ के नेतृत्व में आठ पदक जीते।",
-      "category_hi": "खेल",
-      "title_hinglish": "eshiyaee khel, dina 9: ethaletiksa aura bhala phenka sitaron ki chamaka se bharata ne 8 padaka jite",
-      "summary_hinglish": "bharata ne 2026 eshiyaee khelon men 9ven dina shanadara pradarshana kiy, bhala phenka dabala podiyama aura vithya ramaraja ki rikorda-brekinga dauda ke netritva men aatha padaka jite।",
-      "category_hinglish": "Sports"
-    },
-    {
       "id": "b2cee53f8a5cf9b2",
       "title": "Kriti Sanon shares cryptic Instagram post amid Jamui harassment and Delhi rape case: ‘It’s women vs patriarch",
       "summary": "Kriti Sanon’s latest Instagram activity has caught attention amid the ongoing discussion around the Jamui harassment case. Here’s what the actress shared and why it has sparked conversation.",
@@ -675,6 +679,23 @@
       "category_hinglish": "Entertainment"
     },
     {
+      "id": "2a6e451fd15eef48",
+      "title": "Asian Games, Day 9: India clinch 8 medals as athletics & javelin stars shine",
+      "summary": "India enjoyed a prolific Day 9 at the 2026 Asian Games, winning eight medals led by a javelin double podium and Vithya Ramraj's record-breaking run.",
+      "category": "Sports",
+      "image": "https://cdn3.wionews.com/prod/wion/images/2026/20260928/image-1790608830180.jpg?imwidth=1200&imheight=900",
+      "source": "wionews.com",
+      "sourceUrl": "https://www.wionews.com/sports/asian-games-2026-day-9-india-8-medals-athletics-javelin-1790608281731",
+      "publishedAt": "2026-09-28T15:20:00.000Z",
+      "fetchedAt": "2026-09-28T15:40:51.342Z",
+      "title_hi": "एशियाई खेल, दिन 9: एथलेटिक्स और भाला फेंक सितारों की चमक से भारत ने 8 पदक जीते",
+      "summary_hi": "भारत ने 2026 एशियाई खेलों में 9वें दिन शानदार प्रदर्शन किया, भाला फेंक डबल पोडियम और विथ्या रामराज की रिकॉर्ड-ब्रेकिंग दौड़ के नेतृत्व में आठ पदक जीते।",
+      "category_hi": "खेल",
+      "title_hinglish": "eshiyaee khel, dina 9: ethaletiksa aura bhala phenka sitaron ki chamaka se bharata ne 8 padaka jite",
+      "summary_hinglish": "bharata ne 2026 eshiyaee khelon men 9ven dina shanadara pradarshana kiy, bhala phenka dabala podiyama aura vithya ramaraja ki rikorda-brekinga dauda ke netritva men aatha padaka jite।",
+      "category_hinglish": "Sports"
+    },
+    {
       "id": "14af60cb46c0dd0f",
       "title": "With God by her side, Vithya breaks oldest Indian athletics record to win bronze",
       "summary": "NAGOYA: HER initial target to break the women's 400m hurdles national record -- the country's longest-standing and one of its most famous athletics records -- w",
@@ -690,23 +711,6 @@
       "title_hinglish": "eeshvara ke sath, vithya ne kansya padaka jitane ka sabase purana bharatiya ethaletiksa rikorda toda diya",
       "summary_hinglish": "nagoy: unaka praranbhika lakshya mahilaon ki 400 mitara badha dauda ke rashtriya rikorda ko todana hai - jo desha ka sabase lanbe samaya taka chalane vala aura sabase prasiddha ethaletiksa rikorda men se eka hai।",
       "category_hinglish": "Sports"
-    },
-    {
-      "id": "757a4ad1f54a89e8",
-      "title": "The Paradise Box Office Collection Day 5: Nani's Film Nears Rs 100 Crore In India After Strong Weekend",
-      "summary": "The Paradise sees a Monday drop after a strong weekend, but Nani's film remains close to crossing a major box office milestone in India.",
-      "category": "Entertainment",
-      "image": "https://imgs.etvbharat.com/etvbharat/prod-images/28-09-2026/1200-675-27740475-641-27740475-1790607553911.jpg",
-      "source": "ETV Bharat",
-      "sourceUrl": "https://www.etvbharat.com/en/entertainment/nani-film-the-paradise-box-office-collection-day-5-in-india-and-worldwide-enn26092806443",
-      "publishedAt": "2026-09-28T15:00:23.000Z",
-      "fetchedAt": "2026-09-28T15:40:53.089Z",
-      "title_hi": "द पैराडाइज़ बॉक्स ऑफिस कलेक्शन दिन 5: मजबूत सप्ताहांत के बाद नानी की फिल्म भारत में 100 करोड़ रुपये के करीब",
-      "summary_hi": "मजबूत सप्ताहांत के बाद सोमवार को द पैराडाइज़ में गिरावट देखी गई, लेकिन नानी की फिल्म भारत में बॉक्स ऑफिस पर एक बड़ी उपलब्धि हासिल करने के करीब है।",
-      "category_hi": "मनोरंजन",
-      "category_hinglish": "Entertainment",
-      "title_hinglish": "da pairadaija boksa ऑphisa kalekshana dina 5: majabuta saptahanta ke bada nani ki philma bharata men 100 karoda rupaye ke kariba",
-      "summary_hinglish": "majabuta saptahanta ke bada somavara ko da pairadaija men giravata dekhi gaee, lekina nani ki philma bharata men boksa ऑphisa para eka badaी upalabdhi hasila karane ke kariba hai।"
     },
     {
       "id": "75f8a86af71d4e53",
