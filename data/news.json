@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-29T19:26:11.282Z",
-  "count": 168,
+  "updatedAt": "2026-09-29T19:43:09.019Z",
+  "count": 170,
   "articles": [
     {
       "id": "4469d2d337127bed",
@@ -157,7 +157,7 @@
       "source": "India Today",
       "sourceUrl": "https://www.indiatoday.in/entertainment/video/koodiyattam-artiste-kapila-venu-talks-about-her-unexpected-tryst-with-cinema-3006109-2026-09-29",
       "publishedAt": "2026-09-29T17:46:20.000Z",
-      "fetchedAt": "2026-09-29T19:25:31.066Z",
+      "fetchedAt": "2026-09-29T19:42:27.684Z",
       "title_hi": "",
       "summary_hi": "",
       "category_hi": "मनोरंजन",
@@ -481,7 +481,7 @@
       "source": "olympics.com",
       "sourceUrl": "https://www.olympics.com/en/news/asian-games-2026-medal-tally-india-winners-table-list",
       "publishedAt": "2026-09-29T16:48:00.000Z",
-      "fetchedAt": "2026-09-29T19:25:01.980Z",
+      "fetchedAt": "2026-09-29T19:42:01.549Z",
       "title_hi": "",
       "summary_hi": "",
       "category_hi": "खेल",
@@ -1406,7 +1406,7 @@
       "source": "India Today",
       "sourceUrl": "https://www.indiatoday.in/amp/world/video/goldy-brar-on-fbi-top-10-wanted-list-1m-reward-announced-bishnoi-nexus-exposed-ytvd-3005817-2026-09-29",
       "publishedAt": "2026-09-29T12:20:13.000Z",
-      "fetchedAt": "2026-09-29T19:24:57.211Z",
+      "fetchedAt": "2026-09-29T19:41:57.043Z",
       "title_hi": "",
       "summary_hi": "",
       "category_hi": "अपराध और ब्रेकिंग न्यूज़",
@@ -1726,6 +1726,23 @@
       "title_hinglish": "bharata ki agali kredita kranti kevala udharakartaon taka pahunchane ke lie nahin, balki unhen samajhane ke bare men ho sakati hai",
       "summary_hinglish": "bharata ki kredita stori apane agale charana men pravesha kara rahi hai। aadhar, kredita byuro, akaunta egrigetara aura yuelaaaee jaise dijitala buniyadi dhanche ke majabuta aadhara taiyara karane ke sath, aba rina dene ko adhika buddhiman, paradarshi aura samaveshi banane ka avasara hai। vartisa pletaphormsa aura lenadenaklaba ke saha-sansthapaka aura sieeo bhavina patela ka manana ​​hai ki agala parivartana hog...",
       "category_hinglish": "Business aur Finance"
+    },
+    {
+      "id": "ba2eb76b8f2ff78d",
+      "provider": "google_news_rss",
+      "providerId": "CBMi9AFBVV95cUxOU1hNRjRqamc5YXI1U3lGRmRxc1R4eFlURHc2OFBfWGp4TXV1OHVCUWVMQzRFdDRHVVRtaXBqT2ZOb3ZzSXNpTzUtTk1PSFFFZC1BdXlWeEpFMS1tcW1mTDFsTjdYLXY4QW5iV01INWpzOVluYlhMc2dYVE9DNlZlSWJCc09yUTFjRHdDdjFNQWJXUno0MHBiMXh6anNXZE8tVGlIblVJWXJwdUk0S1F1ZFhfc3dCOHJWQ09QckJYU1A4RUFwZFRzQXlTZVpienBUS0ZKa05jWlRzZWdNLWhvVkhRRkd3bWstQW9VRi1iZndNcUNj0gH6AUFVX3lxTE1ua0ZBbGhZVEVuWlpPMlNweW9KWmJ2TERQTGhWLWMtZjdKcXNQSU5oWEg2Z2o5R2E0c1pRSXN5ZFlfZ1EwQ1AwU2NyR1RXRjhha29uNDVqNUt3OEJkNTJRNXVyTEx6a1NYTjE3Z3pacUZqemY0NnpqT0MzSjV6NUZBUEgtd3hRQW4tNW9OWmt3N1ltcjhrb1pxVmdmYWF2REtrR2VBdGxZWk5xNXQ3VDRVMkdKSURucC1QR3ViT1p2MGY3UzBCcktub2VSeEtUeWZRM2dFTFBMT1BmZEQzQ3pET29JVkdLejljYlNuR0NlcmJ1V0NReVY3bkE",
+      "title": "'Will ensure justice for your son,': Ramdas Athawale speaks to parents of IIT Bombay student",
+      "summary": "Union minister Ramdas Athawale on Tuesday spoke to the parents of IIT Bombay student Sahil Wakode, who died by suicide, and assured them that justice would be delivered.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134563855,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/mumbai/will-ensure-justice-for-your-son-ramdas-athawale-speaks-to-parents-of-iit-bombay-student/articleshow/134563636.cms",
+      "publishedAt": "2026-09-29T10:48:00.000Z",
+      "fetchedAt": "2026-09-29T19:41:58.451Z",
+      "title_hi": "",
+      "summary_hi": "",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "category_hinglish": "Crime aur Breaking News"
     },
     {
       "id": "66be8fbca5d0620b",
@@ -2691,6 +2708,23 @@
       "title_hinglish": "vishesh: bharata men eka mega ke-popa utsava ki yojana banaee ja rahi hai, sthanon ki talasha ki ja rahi hai",
       "summary_hinglish": "HYBE bharata men eka mega ke-popa utsava ki khoja kara raha hai, jisake lie chara shaharon men sthana talashe ja rahe hain। yaha kadama koriyaee popa sanskriti ke lie bharata ke badhate mahatva aura bajara men HYBE ki vyapaka yojanaon ki ora ishara karata hai।",
       "category_hinglish": "Entertainment"
+    },
+    {
+      "id": "e9ab1e661a7e040c",
+      "provider": "google_news_rss",
+      "providerId": "CBMivAJBVV95cUxPcXBrbVdoekNMRVBxNU1pbXRpeGhMazZOVy1rVEF0WjdZV2xuTXh2VnVucUF0dW1LN0o1cjZGVVlfbVZwcFl6RTQwOTY1dlVqcWNKTUx2dWNmNFNvUGdFalpJcHRiT3ZXWjh3aktqQTVXNk5BTWJrTDYxemFQOWJzNDdnM0gwOC1BUDd1aVc2cVFPdVNHMHpvVFNfU1h3LVR3b2lGTkdOXzZreXJuS0thVW1iekRqQm1JSVRNTlNjNi1iYjZpLThTblhOcDZTOWhEOERsVXVHZnVmX3UwTFVoVmp6cWZ0RC1XZnEzS2pZRXk3dUpua3J3VF9fUFc0WFlUMWVwSC1PQVBwNmZoVXplT3JKRHZnUVRRWXJUa0lUQUhqNUdnai1qQ2RqQ3ZTRVA5a2swNExwOEJEMEhE",
+      "title": "Dr. S. Pandian Rajkumar, IPS: Strengthening Gujarat Police Through Investigation, Cybercrime Response and Law-and-Order Leadership",
+      "summary": "Dr. S. Pandian Rajkumar, IPS, a 1996-batch Gujarat-cadre officer, has led CID-Crime & Railways and Law & Order, with experience in investigation, cybercrime, narcotics, anti-trafficking and police administration. Promoted to",
+      "category": "Crime & Breaking News",
+      "image": "https://bloximages.newyork1.vip.townnews.com/local3news.com/content/tncms/assets/v3/editorial/b/8f/b8f0e002-9be0-5b90-968b-05052d88abe5/6abb5b719052e.image.png?crop=853%2C448%2C0%2C16",
+      "source": "Local 3 News",
+      "sourceUrl": "https://www.local3news.com/online_features/press_releases/dr-s-pandian-rajkumar-ips-strengthening-gujarat-police-through-investigation-cybercrime-response-and-law-and/article_66f78a6b-0153-5ea1-b092-8f5489bf9794.html",
+      "publishedAt": "2026-09-29T03:10:01.000Z",
+      "fetchedAt": "2026-09-29T19:42:00.635Z",
+      "title_hi": "",
+      "summary_hi": "",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "category_hinglish": "Crime aur Breaking News"
     },
     {
       "id": "624d542de89b6cf2",
