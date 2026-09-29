@@ -1127,7 +1127,9 @@ function articleToArchiveRow(article) {
       article?.id || idFor(canonical, article?.title || "")
     ),
     provider: String(article?.provider || "google_news_rss"),
-    provider_id: String(article?.providerId || "") || null,
+    // Canonical URL is the archive conflict key. Keep provider_id null so a
+    // publisher URL change cannot block ingestion on the separate provider-id index.
+    provider_id: null,
     canonical_url: canonical,
     title: String(article?.title || "").trim(),
     summary: String(article?.summary || article?.description || "").trim(),
