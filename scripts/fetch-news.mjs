@@ -390,6 +390,18 @@ function countWords(text = "") {
   return splitWords(text).length;
 }
 
+function hasRequiredSummary(article) {
+  const summary = stripHtml(
+    article?.summary || article?.description || ""
+  );
+
+  return (
+    summary.length > 0 &&
+    countWords(summary) === SUMMARY_WORDS &&
+    !isGeneratedFallbackSummary(summary)
+  );
+}
+
 function exactHeadline(title = "") {
   const words = splitWords(normalizeTitle(title));
 
@@ -713,7 +725,7 @@ function articleHasArchiveQuality(article) {
 
   return (
     countWords(title) === HEADLINE_WORDS &&
-    countWords(summary) === SUMMARY_WORDS &&
+    hasRequiredSummary(article) &&
     isHttpUrl(sourceUrl) &&
     isUsableImageUrl(article?.image || article?.image_url || "") &&
     Number.isFinite(publishedAt)
@@ -728,8 +740,7 @@ function articleHasRequiredQuality(article) {
 
   return (
     countWords(title) === HEADLINE_WORDS &&
-    countWords(summary) === SUMMARY_WORDS &&
-    !isGeneratedFallbackSummary(summary) &&
+    hasRequiredSummary(article) &&
     source.length >= 2 &&
     isHttpUrl(sourceUrl) &&
     isUsableImageUrl(article?.image || "") &&
@@ -1293,7 +1304,9 @@ async function main() {
     translatedSelected.push(await ensureTranslations(article));
   }
 
-  const outputArticles = translatedSelected.map(stripInternalFields);
+  const outputArticles = translatedSelected
+    .filter(hasRequiredSummary)
+    .map(stripInternalFields);
 
   const archiveResult = await upsertArchiveToSupabase([
     ...archiveCandidates,
