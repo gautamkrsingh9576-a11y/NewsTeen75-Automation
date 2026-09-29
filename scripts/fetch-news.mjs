@@ -679,6 +679,32 @@ async function validateImageUrl(url) {
   }
 }
 
+async function keepArticlesWithLiveImages(articles = []) {
+  const kept = [];
+  const chunkSize = 12;
+
+  for (let start = 0; start < articles.length; start += chunkSize) {
+    const chunk = articles.slice(start, start + chunkSize);
+
+    const checks = await Promise.all(
+      chunk.map(async (article) => ({
+        article,
+        valid: await validateImageUrl(
+          article?.image || article?.image_url || ""
+        ),
+      }))
+    );
+
+    for (const check of checks) {
+      if (check.valid) {
+        kept.push(check.article);
+      }
+    }
+  }
+
+  return kept;
+}
+
 function articleHasArchiveQuality(article) {
   const title = normalizeTitle(article?.title || "");
   const summary = stripHtml(article?.summary || article?.description || "");
@@ -1242,15 +1268,19 @@ async function main() {
     }
   }
 
-  const archiveCandidates = dedupeArticles([
-    ...newArticles,
-    ...previousArticles,
-  ]).filter(articleHasArchiveQuality);
+  const archiveCandidates = await keepArticlesWithLiveImages(
+    dedupeArticles([
+      ...newArticles,
+      ...previousArticles,
+    ]).filter(articleHasArchiveQuality)
+  );
 
-  const eligible = dedupeArticles([
-    ...newArticles,
-    ...retainedArticles,
-  ]).filter(articleHasRequiredQuality);
+  const eligible = await keepArticlesWithLiveImages(
+    dedupeArticles([
+      ...newArticles,
+      ...retainedArticles,
+    ]).filter(articleHasRequiredQuality)
+  );
 
   const selected = selectWithSeventyThirtyRatio(
     eligible,
