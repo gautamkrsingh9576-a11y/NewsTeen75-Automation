@@ -35,12 +35,12 @@ const SUPABASE_SERVICE_ROLE_KEY = String(
   process.env.SUPABASE_SERVICE_ROLE_KEY || ""
 ).trim();
 
-const OPENAI_API_KEY = String(
-  process.env.OPENAI_API_KEY || ""
+const GEMINI_API_KEY = String(
+  process.env.GEMINI_API_KEY || ""
 ).trim();
 
-const OPENAI_MODEL = String(
-  process.env.OPENAI_MODEL || "gpt-5.6-luna"
+const GEMINI_MODEL = String(
+  process.env.GEMINI_MODEL || "gemini-3.5-flash-lite"
 ).trim();
 
 const supabase =
@@ -480,24 +480,21 @@ function exactSentenceExcerpt(text = "", targetWords = SUMMARY_WORDS) {
   return "";
 }
 
-function getOpenAIResponseText(data) {
-  if (typeof data?.output_text === "string") {
-    return data.output_text.trim();
+function getGeminiResponseText(data) {
+  const parts =
+    data?.candidates?.[0]?.content?.parts;
+
+  if (!Array.isArray(parts)) {
+    return "";
   }
 
-  const parts = Array.isArray(data?.output)
-    ? data.output.flatMap((item) =>
-        Array.isArray(item?.content) ? item.content : []
-      )
-    : [];
-
   return parts
-    .filter(
-      (part) =>
-        part?.type === "output_text" &&
-        typeof part?.text === "string"
+    .map((part) =>
+      typeof part?.text === "string"
+        ? part.text
+        : ""
     )
-    .map((part) => part.text)
+    .filter(Boolean)
     .join(" ")
     .trim();
 }
@@ -517,15 +514,22 @@ async function requestAiSummary({
   previousDraft = "",
   previousWordCount = null,
 }) {
-  if (!OPENAI_API_KEY) {
+  if (!GEMINI_API_KEY) {
     return "";
   }
 
-  const cleanDescription = stripHtml(description || "");
-  const cleanArticleText = stripHtml(articleText || "").slice(0, 9000);
+  const cleanDescription = stripHtml(
+    description || ""
+  );
+
+  const cleanArticleText = stripHtml(
+    articleText || ""
+  ).slice(0, 9000);
 
   const sourceText = [
-    `Headline: ${normalizeTitle(title || "")}`,
+    `Headline: ${normalizeTitle(
+      title || ""
+    )}`,
     cleanDescription
       ? `Publisher description: ${cleanDescription}`
       : "",
@@ -541,75 +545,93 @@ async function requestAiSummary({
   }
 
   const correction =
-    previousDraft && Number.isFinite(previousWordCount)
+    previousDraft &&
+    Number.isFinite(previousWordCount)
       ? `\nYour previous draft had ${previousWordCount} words: "${previousDraft}". Rewrite it so it has exactly ${SUMMARY_WORDS} words.`
       : "";
 
-  const controller = new AbortController();
-  const timeout = setTimeout(() => controller.abort(), 20000);
+  const controller =
+    new AbortController();
+
+  const timeout = setTimeout(
+    () => controller.abort(),
+    20000
+  );
 
   try {
+    const endpoint =
+      "https://generativelanguage.googleapis.com/v1beta/models/" +
+      encodeURIComponent(GEMINI_MODEL) +
+      ":generateContent";
+
     const response = await fetch(
-      "https://api.openai.com/v1/responses",
+      endpoint,
       {
         method: "POST",
         signal: controller.signal,
         headers: {
-          Authorization: `Bearer ${OPENAI_API_KEY}`,
-          "Content-Type": "application/json",
+          "Content-Type":
+            "application/json",
+          "x-goog-api-key":
+            GEMINI_API_KEY,
         },
         body: JSON.stringify({
-          model: OPENAI_MODEL,
-          store: false,
-          max_output_tokens: 180,
-          input: [
-            {
-              role: "system",
-              content: [
-                {
-                  type: "input_text",
-                  text:
-                    "You are the NewsTeen75 background news summarizer. " +
-                    "Write one clear, easy-to-understand English news summary using ONLY facts explicitly present in the supplied source text. " +
-                    "Preserve the original meaning, names, numbers, dates, places, and attribution. " +
-                    "Do not add assumptions, opinions, predictions, invented context, promotional language, or repetition. " +
-                    `The summary must contain exactly ${SUMMARY_WORDS} words and must read naturally with complete sentences. ` +
-                    'If the supplied source does not contain enough factual information to make a truthful summary, return exactly "INSUFFICIENT_SOURCE". ' +
-                    "Return only the summary text, with no label, bullets, quotation marks, or explanation.",
-                },
-              ],
-            },
+          systemInstruction: {
+            parts: [
+              {
+                text:
+                  "You are the NewsTeen75 background news summarizer. " +
+                  "Write one clear, easy-to-understand English news summary using ONLY facts explicitly present in the supplied source text. " +
+                  "Preserve the original meaning, names, numbers, dates, places, and attribution. " +
+                  "Do not add assumptions, opinions, predictions, invented context, promotional language, or repetition. " +
+                  `The summary must contain exactly ${SUMMARY_WORDS} words and must read naturally with complete sentences. ` +
+                  'If the supplied source does not contain enough factual information to make a truthful summary, return exactly "INSUFFICIENT_SOURCE". ' +
+                  "Return only the summary text, with no label, bullets, quotation marks, or explanation.",
+              },
+            ],
+          },
+          contents: [
             {
               role: "user",
-              content: [
+              parts: [
                 {
-                  type: "input_text",
                   text:
                     `Create the summary from this source:\n\n${sourceText}${correction}`,
                 },
               ],
             },
           ],
+          generationConfig: {
+            temperature: 0.2,
+            maxOutputTokens: 180,
+          },
         }),
       }
     );
 
     if (!response.ok) {
-      const errorText = await response.text().catch(() => "");
+      const errorText =
+        await response
+          .text()
+          .catch(() => "");
+
       console.warn(
-        `AI summarizer request failed (${response.status}): ${errorText.slice(0, 300)}`
+        `Gemini summarizer request failed (${response.status}): ${errorText.slice(0, 300)}`
       );
+
       return "";
     }
 
     const data = await response.json();
+
     return cleanAiSummaryOutput(
-      getOpenAIResponseText(data)
+      getGeminiResponseText(data)
     );
   } catch (error) {
     console.warn(
-      `AI summarizer error: ${error?.message || String(error)}`
+      `Gemini summarizer error: ${error?.message || String(error)}`
     );
+
     return "";
   } finally {
     clearTimeout(timeout);
@@ -621,29 +643,40 @@ async function summarizeArticleWithAI(
   description,
   articleText
 ) {
-  if (!OPENAI_API_KEY) {
+  if (!GEMINI_API_KEY) {
     return "";
   }
 
   let draft = "";
 
-  for (let attempt = 0; attempt < 3; attempt += 1) {
+  for (
+    let attempt = 0;
+    attempt < 3;
+    attempt += 1
+  ) {
     draft = await requestAiSummary({
       title,
       description,
       articleText,
       previousDraft: draft,
       previousWordCount:
-        draft && draft !== "INSUFFICIENT_SOURCE"
+        draft &&
+        draft !== "INSUFFICIENT_SOURCE"
           ? countWords(draft)
           : null,
     });
 
-    if (!draft || draft === "INSUFFICIENT_SOURCE") {
+    if (
+      !draft ||
+      draft === "INSUFFICIENT_SOURCE"
+    ) {
       return "";
     }
 
-    if (countWords(draft) === SUMMARY_WORDS) {
+    if (
+      countWords(draft) ===
+      SUMMARY_WORDS
+    ) {
       return draft;
     }
   }
@@ -1277,7 +1310,7 @@ async function fetchCategory(category, knownLinks, knownTitles, maxNew, scope) {
       enriched.articleText
     );
 
-    const summary = OPENAI_API_KEY
+    const summary = GEMINI_API_KEY
       ? aiSummary
       : sourceSummary;
 
