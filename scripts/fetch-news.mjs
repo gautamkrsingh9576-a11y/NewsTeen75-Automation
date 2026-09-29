@@ -397,7 +397,6 @@ function hasRequiredSummary(article) {
 
   return (
     summary.length > 0 &&
-    countWords(summary) === SUMMARY_WORDS &&
     !isGeneratedFallbackSummary(summary)
   );
 }
@@ -510,7 +509,9 @@ function buildSummary(title, description, articleText = "") {
     }
   }
 
-  return "";
+  // Eligibility block removed: keep a real source-derived summary
+  // even when it cannot naturally be exactly 40 words.
+  return candidates[0] || "";
 }
 
 function metaValue(html, keys) {
@@ -744,7 +745,7 @@ function articleHasArchiveQuality(article) {
 
   return (
     !isFacebookSource(article) &&
-    countWords(title) === HEADLINE_WORDS &&
+    title.length >= 12 &&
     hasRequiredSummary(article) &&
     isHttpUrl(sourceUrl) &&
     isUsableImageUrl(article?.image || article?.image_url || "") &&
@@ -760,7 +761,7 @@ function articleHasRequiredQuality(article) {
 
   return (
     !isFacebookSource(article) &&
-    countWords(title) === HEADLINE_WORDS &&
+    title.length >= 20 &&
     hasRequiredSummary(article) &&
     source.length >= 2 &&
     isHttpUrl(sourceUrl) &&
@@ -1062,7 +1063,7 @@ async function fetchCategory(category, knownLinks, knownTitles, maxNew, scope) {
     const enriched = await enrichArticle(publisherUrl);
     const publishedAt = new Date(item.pubDate).toISOString();
     const sourceUrl = enriched.finalUrl || publisherUrl || item.link;
-    const headline = exactHeadline(cleanTitle);
+    const headline = exactHeadline(cleanTitle) || cleanTitle;
     const summary = buildSummary(
       cleanTitle,
       enriched.description,
@@ -1081,9 +1082,7 @@ async function fetchCategory(category, knownLinks, knownTitles, maxNew, scope) {
       }) ||
       !isHttpUrl(sourceUrl) ||
       !headline ||
-      countWords(headline) !== HEADLINE_WORDS ||
       !summary ||
-      countWords(summary) !== SUMMARY_WORDS ||
       !image
     ) {
       continue;
