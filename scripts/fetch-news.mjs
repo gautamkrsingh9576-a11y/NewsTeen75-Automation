@@ -24,6 +24,8 @@ const FRESH_WINDOW_MS =
 const RETENTION_WINDOW_MS =
   Number(process.env.FEED_RETENTION_HOURS || 168) * 60 * 60 * 1000;
 const MIN_SUMMARY_CHARS = 60;
+const HEADLINE_WORDS = 10;
+const SUMMARY_WORDS = 40;
 const MIN_FETCH_INTERVAL_MINUTES = Number(
   process.env.MIN_FETCH_INTERVAL_MINUTES || 5
 );
@@ -376,10 +378,87 @@ function idFor(link, title) {
   return crypto.createHash("sha1").update(link || title).digest("hex").slice(0, 16);
 }
 
-function trimWords(text, max = 50) {
-  const words = String(text || "").split(/\s+/).filter(Boolean);
-  if (words.length <= max) return words.join(" ");
-  return `${words.slice(0, max).join(" ")}…`;
+function splitWords(text = "") {
+  return String(text || "")
+    .replace(/\s+/g, " ")
+    .trim()
+    .split(" ")
+    .filter(Boolean);
+}
+
+function countWords(text = "") {
+  return splitWords(text).length;
+}
+
+function exactHeadline(title = "") {
+  const words = splitWords(normalizeTitle(title));
+
+  if (words.length < HEADLINE_WORDS) {
+    return "";
+  }
+
+  const headline = words
+    .slice(0, HEADLINE_WORDS)
+    .join(" ")
+    .replace(/[,:;–—-]+$/u, "")
+    .trim();
+
+  if (countWords(headline) !== HEADLINE_WORDS) {
+    return "";
+  }
+
+  const lastWord = splitWords(headline)
+    .at(-1)
+    ?.toLowerCase()
+    .replace(/[^a-z0-9']/g, "");
+
+  const danglingWords = new Set([
+    "a", "an", "the", "and", "or", "but", "to", "of", "in", "on",
+    "at", "for", "from", "with", "by", "as", "into", "amid", "after",
+    "before", "over", "under", "its", "their"
+  ]);
+
+  if (!lastWord || danglingWords.has(lastWord)) {
+    return "";
+  }
+
+  return headline;
+}
+
+function exactSentenceExcerpt(text = "", targetWords = SUMMARY_WORDS) {
+  const clean = stripHtml(text || "")
+    .replace(/\s+/g, " ")
+    .trim();
+
+  if (!clean) return "";
+
+  const sentences =
+    clean.match(/[^.!?]+[.!?]+(?:["'”’)]*)?/g) || [];
+
+  for (let start = 0; start < sentences.length; start += 1) {
+    let total = 0;
+    const selected = [];
+
+    for (let index = start; index < sentences.length; index += 1) {
+      const sentence = sentences[index].trim();
+      const words = countWords(sentence);
+
+      if (!sentence || words === 0) continue;
+
+      if (total + words > targetWords) {
+        break;
+      }
+
+      selected.push(sentence);
+      total += words;
+
+      if (total === targetWords) {
+        return selected.join(" ");
+      }
+    }
+  }
+
+  return "";
 }
 
 function isGenericGoogleDescription(text = "") {
@@ -394,21 +473,32 @@ function isGeneratedFallbackSummary(text = "") {
   return /this update was reported by .*open the original report/i.test(text);
 }
 
-function buildSummary(title, description) {
+function buildSummary(title, description, articleText = "") {
   const cleanTitle = normalizeTitle(title);
-  const text = stripHtml(description || "");
+  const descriptionText = stripHtml(description || "");
+  const articleBody = stripHtml(articleText || "");
 
-  if (
-    !text ||
-    text.length < MIN_SUMMARY_CHARS ||
-    isGenericGoogleDescription(text) ||
-    isGeneratedFallbackSummary(text) ||
-    text.toLowerCase() === cleanTitle.toLowerCase()
-  ) {
-    return "";
+  const candidates = [descriptionText, articleBody].filter(
+    (text) =>
+      text &&
+      text.length >= MIN_SUMMARY_CHARS &&
+      !isGenericGoogleDescription(text) &&
+      !isGeneratedFallbackSummary(text) &&
+      text.toLowerCase() !== cleanTitle.toLowerCase()
+  );
+
+  for (const candidate of candidates) {
+    const summary = exactSentenceExcerpt(
+      candidate,
+      SUMMARY_WORDS
+    );
+
+    if (summary && countWords(summary) === SUMMARY_WORDS) {
+      return summary;
+    }
   }
 
-  return trimWords(text, 50);
+  return "";
 }
 
 function metaValue(html, keys) {
@@ -464,6 +554,15 @@ function extractImageFromJson(value) {
   }
 
   return "";
+}
+
+function extractArticleText(html = "") {
+  return [...html.matchAll(/<p\b[^>]*>([\s\S]*?)<\/p>/gi)]
+    .map((match) => stripHtml(match[1]))
+    .filter((text) => text.length >= 40)
+    .slice(0, 30)
+    .join(" ")
+    .trim();
 }
 
 function jsonLdImageValue(html) {
@@ -582,12 +681,15 @@ async function validateImageUrl(url) {
 
 function articleHasArchiveQuality(article) {
   const title = normalizeTitle(article?.title || "");
+  const summary = stripHtml(article?.summary || article?.description || "");
   const sourceUrl = article?.sourceUrl || article?.url || article?.link || "";
   const publishedAt = new Date(article?.publishedAt).getTime();
 
   return (
-    title.length >= 12 &&
+    countWords(title) === HEADLINE_WORDS &&
+    countWords(summary) === SUMMARY_WORDS &&
     isHttpUrl(sourceUrl) &&
+    isUsableImageUrl(article?.image || article?.image_url || "") &&
     Number.isFinite(publishedAt)
   );
 }
@@ -599,8 +701,8 @@ function articleHasRequiredQuality(article) {
   const sourceUrl = article?.sourceUrl || article?.url || article?.link || "";
 
   return (
-    title.length >= 20 &&
-    summary.length >= MIN_SUMMARY_CHARS &&
+    countWords(title) === HEADLINE_WORDS &&
+    countWords(summary) === SUMMARY_WORDS &&
     !isGeneratedFallbackSummary(summary) &&
     source.length >= 2 &&
     isHttpUrl(sourceUrl) &&
@@ -860,6 +962,7 @@ async function enrichArticle(url) {
     return {
       finalUrl,
       description: isGenericGoogleDescription(description) ? "" : description,
+      articleText: extractArticleText(html),
       image: absoluteUrl(rawImage, finalUrl),
     };
   } catch {
@@ -901,20 +1004,34 @@ async function fetchCategory(category, knownLinks, knownTitles, maxNew, scope) {
     const enriched = await enrichArticle(publisherUrl);
     const publishedAt = new Date(item.pubDate).toISOString();
     const sourceUrl = enriched.finalUrl || publisherUrl || item.link;
-    const summary = buildSummary(cleanTitle, enriched.description);
+    const headline = exactHeadline(cleanTitle);
+    const summary = buildSummary(
+      cleanTitle,
+      enriched.description,
+      enriched.articleText
+    );
     const rawImage = enriched.image || "";
     const image =
       rawImage && isUsableImageUrl(rawImage) && (await validateImageUrl(rawImage))
         ? rawImage
         : "";
 
-    if (!isHttpUrl(sourceUrl)) continue;
+    if (
+      !isHttpUrl(sourceUrl) ||
+      !headline ||
+      countWords(headline) !== HEADLINE_WORDS ||
+      !summary ||
+      countWords(summary) !== SUMMARY_WORDS ||
+      !image
+    ) {
+      continue;
+    }
 
     fresh.push({
       id: idFor(canonicalUrl(sourceUrl), cleanTitle),
       provider: "google_news_rss",
       providerId: item.providerId || item.link,
-      title: cleanTitle,
+      title: headline,
       summary,
       category: category.name,
       image,
