@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-29T04:32:33.153Z",
-  "count": 37,
+  "updatedAt": "2026-09-29T04:49:18.836Z",
+  "count": 40,
   "articles": [
     {
       "id": "b0b13a47304d3e17",
@@ -99,6 +99,21 @@
       "category_hinglish": "Technology"
     },
     {
+      "id": "6e9908613c0dd631",
+      "title": "Rain ruins India’s Asian Games cricket quarterfinal, fans left with ‘far-off view’ of players",
+      "summary": "Handshakes between the teams. That was the only action possible at the Korogi Sports Park in Nisshin on Monday as persistent rain forced both Asian Games cricket quarterfinals to be abandoned without a ball being bowled.",
+      "category": "Sports",
+      "image": "https://static.toiimg.com/thumb/msid-134554815,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/rain-ruins-indias-asian-games-cricket-quarterfinal-fans-left-with-far-off-view-of-players/articleshow/134554712.cms",
+      "publishedAt": "2026-09-29T03:07:00.000Z",
+      "fetchedAt": "2026-09-29T04:48:51.613Z",
+      "title_hi": "",
+      "summary_hi": "",
+      "category_hi": "खेल",
+      "category_hinglish": "Sports"
+    },
+    {
       "id": "1ae415d0730935e0",
       "title": "India among countries attending SCO national coordinators' meeting in Pakistan | India News",
       "summary": "India, a key SCO member, is attending the meeting with its National Coordinator, Alok Dimri, leading the delegation. | India News",
@@ -131,23 +146,6 @@
       "category_hinglish": "Sports"
     },
     {
-      "id": "af993d32f07da8f0",
-      "title": "'Mirzapur The Movie' box office collection day 25: Pankaj Tripathi film earns Rs 60 lakhs; India net reac",
-      "summary": "'Mirzapur The Movie' is positioned as an interquel within the timeline of the first season of the 'Mirzapur' television series. Pankaj Tripathi, Ali Fazal, Divyenndu, Jitendra Kumar and Ravi Kishan feature in key roles.",
-      "category": "Entertainment",
-      "image": "https://static.toiimg.com/thumb/msid-134554419,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/mirzapur-the-movie-box-office-collection-day-25-pankaj-tripathi-film-earns-rs-60-lakhs-india-net-reaches-rs-227-65cr-worldwide-gross-stands-at-rs-331-42cr/articleshow/134554381.cms",
-      "publishedAt": "2026-09-29T02:41:00.000Z",
-      "fetchedAt": "2026-09-29T03:01:09.246Z",
-      "title_hi": "'मिर्जापुर द मूवी' का बॉक्स ऑफिस कलेक्शन दिन 25:पंकज त्रिपाठी की फिल्म ने कमाए 60 लाख रुपये; भारत नेट प्रतिक्रिया",
-      "summary_hi": "'मिर्जापुर द मूवी' को 'मिर्जापुर' टेलीविजन श्रृंखला के पहले सीज़न की टाइमलाइन के भीतर एक इंटरक्वेल के रूप में पेश किया गया है। पंकज त्रिपाठी, अली फज़ल, दिव्येंदु, जितेंद्र कुमार और रवि किशन मुख्य भूमिकाओं में हैं।",
-      "category_hi": "मनोरंजन",
-      "category_hinglish": "Entertainment",
-      "title_hinglish": "'mirjapura da muvi' ka boksa ऑphisa kalekshana dina 25:pankaja tripathi ki philma ne kamae 60 lakha rupaye; bharata neta pratikriya",
-      "summary_hinglish": "'mirjapura da muvi' ko 'mirjapura' telivijana shrrinkhala ke pahale sijana ki taimalaina ke bhitara eka intarakvela ke rupa men pesha kiya gaya hai। pankaja tripathi, ali phajal, divyendu, jitendra kumara aura ravi kishana mukhya bhumikaon men hain।"
-    },
-    {
       "id": "4c6826da4d201796",
       "title": "Tanya Mishra, the Bihar-born model-actress fans are calling India's new 'national crush'",
       "summary": "Viral photographs have pushed the 27-year-old into the spotlight. She has modelled for Femina and Grazia, placed at a Miss India pageant and appeared in the web series Chidiya Udd.",
@@ -165,6 +163,23 @@
       "category_hinglish": "National aur Trending News"
     },
     {
+      "id": "af993d32f07da8f0",
+      "title": "'Mirzapur The Movie' box office collection day 25: Pankaj Tripathi film earns Rs 60 lakhs; India net reac",
+      "summary": "'Mirzapur The Movie' is positioned as an interquel within the timeline of the first season of the 'Mirzapur' television series. Pankaj Tripathi, Ali Fazal, Divyenndu, Jitendra Kumar and Ravi Kishan feature in key roles.",
+      "category": "Entertainment",
+      "image": "https://static.toiimg.com/thumb/msid-134554419,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/mirzapur-the-movie-box-office-collection-day-25-pankaj-tripathi-film-earns-rs-60-lakhs-india-net-reaches-rs-227-65cr-worldwide-gross-stands-at-rs-331-42cr/articleshow/134554381.cms",
+      "publishedAt": "2026-09-29T02:41:00.000Z",
+      "fetchedAt": "2026-09-29T03:01:09.246Z",
+      "title_hi": "'मिर्जापुर द मूवी' का बॉक्स ऑफिस कलेक्शन दिन 25:पंकज त्रिपाठी की फिल्म ने कमाए 60 लाख रुपये; भारत नेट प्रतिक्रिया",
+      "summary_hi": "'मिर्जापुर द मूवी' को 'मिर्जापुर' टेलीविजन श्रृंखला के पहले सीज़न की टाइमलाइन के भीतर एक इंटरक्वेल के रूप में पेश किया गया है। पंकज त्रिपाठी, अली फज़ल, दिव्येंदु, जितेंद्र कुमार और रवि किशन मुख्य भूमिकाओं में हैं।",
+      "category_hi": "मनोरंजन",
+      "category_hinglish": "Entertainment",
+      "title_hinglish": "'mirjapura da muvi' ka boksa ऑphisa kalekshana dina 25:pankaja tripathi ki philma ne kamae 60 lakha rupaye; bharata neta pratikriya",
+      "summary_hinglish": "'mirjapura da muvi' ko 'mirjapura' telivijana shrrinkhala ke pahale sijana ki taimalaina ke bhitara eka intarakvela ke rupa men pesha kiya gaya hai। pankaja tripathi, ali phajal, divyendu, jitendra kumara aura ravi kishana mukhya bhumikaon men hain।"
+    },
+    {
       "id": "f0a8e399f94b8f2b",
       "title": "Asian Games 2026: India medal tally and winners list - full table",
       "summary": "Know list of India winners at the Asian Games 2026. Know medal tally and how many medals Indian athletes have won in each sport. Full table.",
@@ -173,11 +188,26 @@
       "source": "olympics.com",
       "sourceUrl": "https://www.olympics.com/en/news/asian-games-2026-medal-tally-india-winners-table-list",
       "publishedAt": "2026-09-29T02:26:00.000Z",
-      "fetchedAt": "2026-09-29T04:12:58.492Z",
+      "fetchedAt": "2026-09-29T04:48:49.460Z",
       "title_hi": "",
       "summary_hi": "",
       "category_hi": "खेल",
       "category_hinglish": "Sports"
+    },
+    {
+      "id": "5b8a95986db19279",
+      "title": "The Vvaan's Chhath scenes are winning Bihari hearts. Here's what feels so real",
+      "summary": "The Vvaan's Chhath Puja sequence has drawn strong emotional reactions from viewers online. Audiences say the rituals, visuals and Sharda Sinha's song make it feel personal and rooted.",
+      "category": "Entertainment",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/the-vvaan--chhath-puja-282146821-16x9_0.png?VersionId=E9w3I6gZvguvKa_mdkWMRtz..rG9VEs1",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/movies/bollywood/story/the-vvaan-chhath-puja-scenes-sharda-sinha-song-winning-bihari-hearts-3004629-2026-09-28",
+      "publishedAt": "2026-09-28T07:23:55.000Z",
+      "fetchedAt": "2026-09-29T04:49:11.940Z",
+      "title_hi": "",
+      "summary_hi": "",
+      "category_hi": "मनोरंजन",
+      "category_hinglish": "Entertainment"
     },
     {
       "id": "6360ba56e61e8e5c",
@@ -197,6 +227,21 @@
       "category_hinglish": "Sports"
     },
     {
+      "id": "9d439902d9afe740",
+      "title": "Trinidad and Tobago Set to Become First Caribbean Nation to Adopt India’s UPI",
+      "summary": "An agreement with NIPL will underpin the planned digital payments system as India and Trinidad and Tobago deepen cooperation in technology, trade and healthcare",
+      "category": "Technology",
+      "image": "https://media.openthemagazine.com/openthemagazine/2026-09-28/exvlgy05/UPI.jpg?w=1200&ar=40:21&auto=format,compress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "Open Magazine",
+      "sourceUrl": "https://openthemagazine.com/world/trinidad-and-tobago-set-to-become-first-caribbean-nation-to-adopt-indias-upi",
+      "publishedAt": "2026-09-29T02:01:26.000Z",
+      "fetchedAt": "2026-09-29T03:40:16.797Z",
+      "title_hi": "",
+      "summary_hi": "",
+      "category_hi": "टेक्नोलॉजी",
+      "category_hinglish": "Technology"
+    },
+    {
       "id": "be70c7c038ab373d",
       "title": "330 archers compete in state championship",
       "summary": "The three-day Raja Karna Bihar State Archery Championship ‘Lakshya’ 2026 began at Pataliputra Sports Complex on Sunday with 330 archers from across Bihar competing for honours. Organised by the sports department and Bihar State Sports Authority, the championship has 180 boys and 150 girls competing in Under-10, Under-13, Under-15, sub-junior…",
@@ -214,21 +259,6 @@
       "category_hinglish": "Sports"
     },
     {
-      "id": "9d439902d9afe740",
-      "title": "Trinidad and Tobago Set to Become First Caribbean Nation to Adopt India’s UPI",
-      "summary": "An agreement with NIPL will underpin the planned digital payments system as India and Trinidad and Tobago deepen cooperation in technology, trade and healthcare",
-      "category": "Technology",
-      "image": "https://media.openthemagazine.com/openthemagazine/2026-09-28/exvlgy05/UPI.jpg?w=1200&ar=40:21&auto=format,compress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "source": "Open Magazine",
-      "sourceUrl": "https://openthemagazine.com/world/trinidad-and-tobago-set-to-become-first-caribbean-nation-to-adopt-indias-upi",
-      "publishedAt": "2026-09-29T02:01:26.000Z",
-      "fetchedAt": "2026-09-29T03:40:16.797Z",
-      "title_hi": "",
-      "summary_hi": "",
-      "category_hi": "टेक्नोलॉजी",
-      "category_hinglish": "Technology"
-    },
-    {
       "id": "0185592b91a25d51",
       "title": "SCO national coordinators’ meeting begins in Pakistan; India among participants",
       "summary": "SCO national coordinators meet in Islamabad to prep 2027 Heads of State summit; India participates under Alok Dimri.",
@@ -244,23 +274,6 @@
       "category_hinglish": "National aur Trending News",
       "title_hinglish": "pakistana men esasio rashtriya samanvayakon ki baithaka shuru; pratibhagiyon ke bicha bharata",
       "summary_hinglish": "2027 rashtradhyaksha shikhara sammelana ki taiyari ke lie esasio ke rashtriya samanvayaka islamabada men mile; bharata aaloka dimari ke netritva men bhaga leta hai।"
-    },
-    {
-      "id": "feeef1c1c55ee87e",
-      "title": "'Regret supporting': Chirag Paswan attacks Bihar govt over rising crimes against women",
-      "summary": "Bihar crime: Union Minister Chirag Paswan expresses shame over the deteriorating law and order situation, criticising the state administration for failing to curb rising crimes against women and demanding strict action.",
-      "category": "Politics & Government",
-      "image": "https://cf-images.assettype.com/deccanherald%2F2026-09-27%2Fy768eua9%2FImages-1.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "source": "Deccan Herald",
-      "sourceUrl": "https://www.deccanherald.com/amp/story/india/bihar/regret-supporting-chirag-paswan-attacks-bihar-govt-over-rising-crimes-against-women-4161778",
-      "publishedAt": "2026-09-27T15:44:00.000Z",
-      "fetchedAt": "2026-09-27T17:12:28.090Z",
-      "title_hi": "'समर्थन करने का अफसोस': महिलाओं के खिलाफ बढ़ते अपराध को लेकर चिराग पासवान ने बिहार सरकार पर हमला बोला",
-      "summary_hi": "बिहार अपराध: केंद्रीय मंत्री चिराग पासवान ने बिगड़ती कानून-व्यवस्था की स्थिति पर शर्मिंदगी व्यक्त की, महिलाओं के खिलाफ बढ़ते अपराधों पर अंकुश लगाने में विफल रहने के लिए राज्य प्रशासन की आलोचना की और सख्त कार्रवाई की मांग की।",
-      "category_hi": "राजनीति और सरकार",
-      "title_hinglish": "'samarthana karane ka aphasosa': mahilaon ke khilapha badhate aparadha ko lekara chiraga pasavana ne bihara sarakara para hamala bola",
-      "summary_hinglish": "bihara aparadh: kendriya mantri chiraga pasavana ne bigadati kanuna-vyavastha ki sthiti para sharmindagi vyakta ki, mahilaon ke khilapha badhate aparadhon para ankusha lagane men viphala rahane ke lie rajya prashasana ki aalochana ki aura sakhta karravaee ki manga ki।",
-      "category_hinglish": "Politics aur Government"
     },
     {
       "id": "001620b39448e2ef",
@@ -286,11 +299,28 @@
       "source": "People Matters - HR News",
       "sourceUrl": "https://www.peoplematters.in/article/performance-management/india-was-once-known-for-scale-its-next-advantage-will-be-expertise-globallogic-apac-chro-52384",
       "publishedAt": "2026-09-29T01:50:27.000Z",
-      "fetchedAt": "2026-09-29T04:32:10.925Z",
+      "fetchedAt": "2026-09-29T04:49:00.425Z",
       "title_hi": "",
       "summary_hi": "",
       "category_hi": "टेक्नोलॉजी",
       "category_hinglish": "Technology"
+    },
+    {
+      "id": "feeef1c1c55ee87e",
+      "title": "'Regret supporting': Chirag Paswan attacks Bihar govt over rising crimes against women",
+      "summary": "Bihar crime: Union Minister Chirag Paswan expresses shame over the deteriorating law and order situation, criticising the state administration for failing to curb rising crimes against women and demanding strict action.",
+      "category": "Politics & Government",
+      "image": "https://cf-images.assettype.com/deccanherald%2F2026-09-27%2Fy768eua9%2FImages-1.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "Deccan Herald",
+      "sourceUrl": "https://www.deccanherald.com/amp/story/india/bihar/regret-supporting-chirag-paswan-attacks-bihar-govt-over-rising-crimes-against-women-4161778",
+      "publishedAt": "2026-09-27T15:44:00.000Z",
+      "fetchedAt": "2026-09-27T17:12:28.090Z",
+      "title_hi": "'समर्थन करने का अफसोस': महिलाओं के खिलाफ बढ़ते अपराध को लेकर चिराग पासवान ने बिहार सरकार पर हमला बोला",
+      "summary_hi": "बिहार अपराध: केंद्रीय मंत्री चिराग पासवान ने बिगड़ती कानून-व्यवस्था की स्थिति पर शर्मिंदगी व्यक्त की, महिलाओं के खिलाफ बढ़ते अपराधों पर अंकुश लगाने में विफल रहने के लिए राज्य प्रशासन की आलोचना की और सख्त कार्रवाई की मांग की।",
+      "category_hi": "राजनीति और सरकार",
+      "title_hinglish": "'samarthana karane ka aphasosa': mahilaon ke khilapha badhate aparadha ko lekara chiraga pasavana ne bihara sarakara para hamala bola",
+      "summary_hinglish": "bihara aparadh: kendriya mantri chiraga pasavana ne bigadati kanuna-vyavastha ki sthiti para sharmindagi vyakta ki, mahilaon ke khilapha badhate aparadhon para ankusha lagane men viphala rahane ke lie rajya prashasana ki aalochana ki aura sakhta karravaee ki manga ki।",
+      "category_hinglish": "Politics aur Government"
     },
     {
       "id": "961ee47c112461ee",
@@ -307,6 +337,21 @@
       "category_hi": "मनोरंजन",
       "title_hinglish": "'hanumana ansha' ka boksa ऑphisa kalekshana dina 53:vishala chaturvedi ki philma ne somavara ko 1.97 karoda rupae kamae; bharata ji",
       "summary_hinglish": "vishala chaturvedi ki 'hanumana ansha' ne 53ven dina apane bharata ke neta kalekshana men 1.97 karoda rupaye jodaे। philma ne yaha aankadaा somavar, 28 sitanbara ko darja kiy, kyonki yaha sinemagharon men apane aathaven saptaha men jari rahi।",
+      "category_hinglish": "Entertainment"
+    },
+    {
+      "id": "9c4dd53896109db6",
+      "title": "Two Assamese Films Share Best Documentary Award at 7th Nadi Utsav",
+      "summary": "Assamese cinema received notable recognition at the 7th Nadi Utsav Film Festival, held at the Indira Gandhi National Centre for the Arts (IGNCA), New Delhi), with two Assamese documentaries jointl…",
+      "category": "Entertainment",
+      "image": "https://neindiabroadcast.com/wp-content/uploads/2026/09/IMG-20260928-WA0127.jpg",
+      "source": "NE India Broadcast",
+      "sourceUrl": "https://neindiabroadcast.com/2026/09/29/two-assamese-films-share-best-documentary-award-at-7th-nadi-utsav/",
+      "publishedAt": "2026-09-29T01:43:05.000Z",
+      "fetchedAt": "2026-09-29T02:49:20.937Z",
+      "title_hi": "",
+      "summary_hi": "",
+      "category_hi": "मनोरंजन",
       "category_hinglish": "Entertainment"
     },
     {
@@ -327,21 +372,6 @@
       "category_hinglish": "Crime aur Breaking News"
     },
     {
-      "id": "9c4dd53896109db6",
-      "title": "Two Assamese Films Share Best Documentary Award at 7th Nadi Utsav",
-      "summary": "Assamese cinema received notable recognition at the 7th Nadi Utsav Film Festival, held at the Indira Gandhi National Centre for the Arts (IGNCA), New Delhi), with two Assamese documentaries jointl…",
-      "category": "Entertainment",
-      "image": "https://neindiabroadcast.com/wp-content/uploads/2026/09/IMG-20260928-WA0127.jpg",
-      "source": "NE India Broadcast",
-      "sourceUrl": "https://neindiabroadcast.com/2026/09/29/two-assamese-films-share-best-documentary-award-at-7th-nadi-utsav/",
-      "publishedAt": "2026-09-29T01:43:05.000Z",
-      "fetchedAt": "2026-09-29T02:49:20.937Z",
-      "title_hi": "",
-      "summary_hi": "",
-      "category_hi": "मनोरंजन",
-      "category_hinglish": "Entertainment"
-    },
-    {
       "id": "0be2e87514bfd321",
       "title": "'VIBE' box office collection day 11: Kunal Khemu and Preity Zinta's film earns Rs 20 lakh; total India ne",
       "summary": "Kunal Khemu's 'VIBE' recorded an India net collection of Rs 20 lakh on its 11th day at the box office. The film had 519 shows on Monday, September 28, according to Sacnilk.",
@@ -357,6 +387,21 @@
       "title_hinglish": "'VIBE' boksa ऑphisa kalekshana dina 11: kunala khemu aura priti jinta ki philma ne kamae 20 lakha rupae; kula bharata ne",
       "summary_hinglish": "kunala khemu ki 'vaiba' ne boksa ऑphisa para 11ven dina 20 lakha rupaye ka bharata neta kalekshana darja kiya। saikanilka ke anusar, somavar, 28 sitanbara ko philma ke 519 sho the।",
       "category_hinglish": "Entertainment"
+    },
+    {
+      "id": "9f5b8ede49832205",
+      "title": "Does Home First Finance Company India (NSE:HOMEFIRST) Deserve A Spot On Your Watchlist?",
+      "summary": "For beginners, it can seem like a good idea (and an exciting prospect) to buy a company that tells a good story to...",
+      "category": "Business & Finance",
+      "image": "https://images.simplywall.st/asset/industry/7021000-choice2-card/1789003045044?w=1600&h=900&fit=cover",
+      "source": "simplywall.st",
+      "sourceUrl": "https://simplywall.st/stocks/in/diversified-financials/nse-homefirst/home-first-finance-company-india-shares/news/does-home-first-finance-company-india-nsehomefirst-deserve-a-1/amp",
+      "publishedAt": "2026-09-29T01:14:56.000Z",
+      "fetchedAt": "2026-09-29T04:32:19.385Z",
+      "title_hi": "",
+      "summary_hi": "",
+      "category_hi": "बिज़नेस और फाइनेंस",
+      "category_hinglish": "Business aur Finance"
     },
     {
       "id": "03943fafde680d0a",
@@ -376,21 +421,6 @@
       "category_hinglish": "Crime aur Breaking News"
     },
     {
-      "id": "9f5b8ede49832205",
-      "title": "Does Home First Finance Company India (NSE:HOMEFIRST) Deserve A Spot On Your Watchlist?",
-      "summary": "For beginners, it can seem like a good idea (and an exciting prospect) to buy a company that tells a good story to...",
-      "category": "Business & Finance",
-      "image": "https://images.simplywall.st/asset/industry/7021000-choice2-card/1789003045044?w=1600&h=900&fit=cover",
-      "source": "simplywall.st",
-      "sourceUrl": "https://simplywall.st/stocks/in/diversified-financials/nse-homefirst/home-first-finance-company-india-shares/news/does-home-first-finance-company-india-nsehomefirst-deserve-a-1/amp",
-      "publishedAt": "2026-09-29T01:14:56.000Z",
-      "fetchedAt": "2026-09-29T04:32:19.385Z",
-      "title_hi": "",
-      "summary_hi": "",
-      "category_hi": "बिज़नेस और फाइनेंस",
-      "category_hinglish": "Business aur Finance"
-    },
-    {
       "id": "34a32e66957c5ae0",
       "title": "The Strategic Logic of India’s Private-Sector Missile Pivot",
       "summary": "In late August, Defence Minister Rajnath Singh approved the transfer of technologies developed by the Defence Research and Development Organisation (DRDO) for conventional missile systems to qualified Indian defence companies&hellip;",
@@ -406,23 +436,6 @@
       "title_hinglish": "bharata ke niji kshetra ki misaila dhuri ka rananitika tarka",
       "summary_hinglish": "agasta ke anta men, raksha mantri rajanatha sinha ne paranparika misaila pranaliyon ke lie raksha anusandhana aura vikasa sangathana (diaaradio) dvara vikasita praudyogikiyon ko yogya bharatiya raksha kanpaniyon ko hastantarita karane ki manjuri de di...",
       "category_hinglish": "Technology"
-    },
-    {
-      "id": "5e8713d098d8808b",
-      "title": "Bihar Prepares For 2030 Women’s Hockey World Cup, Rajgir Set To Host Global Stars",
-      "summary": "Patna: Bihar has stepped up preparations to host the 2030 FIH Women’s Hockey World Cup in Rajgir, with Sports Minister",
-      "category": "Sports",
-      "image": "https://patnapress.com/wp-content/uploads/2026/09/14a6d003-b4b3-4864-8e5a-b9eb3204c175.jpeg",
-      "source": "Patna Press",
-      "sourceUrl": "https://patnapress.com/bihar-prepares-2030-womens-hockey-world-cup-rajgir/",
-      "publishedAt": "2026-09-26T16:29:12.000Z",
-      "fetchedAt": "2026-09-27T02:49:04.969Z",
-      "title_hi": "बिहार 2030 महिला हॉकी विश्व कप की तैयारी कर रहा है, राजगीर वैश्विक सितारों की मेजबानी के लिए तैयार है",
-      "summary_hi": "पटना: खेल मंत्री के साथ बिहार ने राजगीर में 2030 FIH महिला हॉकी विश्व कप की मेजबानी की तैयारी तेज कर दी है.",
-      "category_hi": "खेल",
-      "title_hinglish": "bihara 2030 mahila hoki vishva kapa ki taiyari kara raha hai, rajagira vaishvika sitaron ki mejabani ke lie taiyara hai",
-      "summary_hinglish": "patan: khela mantri ke satha bihara ne rajagira men 2030 FIH mahila hoki vishva kapa ki mejabani ki taiyari teja kara di hai.",
-      "category_hinglish": "Sports"
     },
     {
       "id": "1d58d193765d9c8a",
@@ -457,6 +470,23 @@
       "category_hinglish": "Crime aur Breaking News"
     },
     {
+      "id": "5e8713d098d8808b",
+      "title": "Bihar Prepares For 2030 Women’s Hockey World Cup, Rajgir Set To Host Global Stars",
+      "summary": "Patna: Bihar has stepped up preparations to host the 2030 FIH Women’s Hockey World Cup in Rajgir, with Sports Minister",
+      "category": "Sports",
+      "image": "https://patnapress.com/wp-content/uploads/2026/09/14a6d003-b4b3-4864-8e5a-b9eb3204c175.jpeg",
+      "source": "Patna Press",
+      "sourceUrl": "https://patnapress.com/bihar-prepares-2030-womens-hockey-world-cup-rajgir/",
+      "publishedAt": "2026-09-26T16:29:12.000Z",
+      "fetchedAt": "2026-09-27T02:49:04.969Z",
+      "title_hi": "बिहार 2030 महिला हॉकी विश्व कप की तैयारी कर रहा है, राजगीर वैश्विक सितारों की मेजबानी के लिए तैयार है",
+      "summary_hi": "पटना: खेल मंत्री के साथ बिहार ने राजगीर में 2030 FIH महिला हॉकी विश्व कप की मेजबानी की तैयारी तेज कर दी है.",
+      "category_hi": "खेल",
+      "title_hinglish": "bihara 2030 mahila hoki vishva kapa ki taiyari kara raha hai, rajagira vaishvika sitaron ki mejabani ke lie taiyara hai",
+      "summary_hinglish": "patan: khela mantri ke satha bihara ne rajagira men 2030 FIH mahila hoki vishva kapa ki mejabani ki taiyari teja kara di hai.",
+      "category_hinglish": "Sports"
+    },
+    {
       "id": "de75e62b846667f2",
       "title": "India Expands Tech Strategy Beyond Manufacturing Into Chips and Cloud",
       "summary": "The country's technology push now spans electronics production, semiconductor development, cloud infrastructure and talent acquisition as global supply chains deepen ties with domestic players.",
@@ -472,6 +502,21 @@
       "title_hinglish": "bharata ne vinirmana se pare chipsa aura klauda taka takaniki rananiti ka vistara kiya",
       "summary_hinglish": "desha ki praudyogiki para jora aba ilektroniksa utpadan, semikandaktara vikas, klauda inphrastrakchara aura pratibha adhigrahana taka phaila gaya hai kyonki vaishvika aapurti shrrinkhala gharelu khiladaिyon ke satha sanbandhon ko gahara kara rahi hai।",
       "category_hinglish": "Technology"
+    },
+    {
+      "id": "076eee079c186dd9",
+      "title": "15-20 overseas gangsters on Haryana Police radar, says DGP",
+      "summary": "Haryana DGP Ajay Singhal on Monday said police have identified 15 to 20 gangsters operating from abroad and directing criminal activities in the state remotely. Underscoring the scale of remote-controlled activities of crime syndicates in Haryana, Singhal said these gangsters are using technology and overseas networks to threaten people, run…",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-133248602,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/gurgaon/15-20-overseas-gangsters-on-haryana-police-radar-says-dgp/articleshow/134550076.cms",
+      "publishedAt": "2026-09-28T20:39:00.000Z",
+      "fetchedAt": "2026-09-29T03:39:56.856Z",
+      "title_hi": "",
+      "summary_hi": "",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "category_hinglish": "Crime aur Breaking News"
     },
     {
       "id": "55d29fb029ceb324",
@@ -491,21 +536,6 @@
       "category_hinglish": "Entertainment"
     },
     {
-      "id": "076eee079c186dd9",
-      "title": "15-20 overseas gangsters on Haryana Police radar, says DGP",
-      "summary": "Haryana DGP Ajay Singhal on Monday said police have identified 15 to 20 gangsters operating from abroad and directing criminal activities in the state remotely. Underscoring the scale of remote-controlled activities of crime syndicates in Haryana, Singhal said these gangsters are using technology and overseas networks to threaten people, run…",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-133248602,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/gurgaon/15-20-overseas-gangsters-on-haryana-police-radar-says-dgp/articleshow/134550076.cms",
-      "publishedAt": "2026-09-28T20:39:00.000Z",
-      "fetchedAt": "2026-09-29T03:39:56.856Z",
-      "title_hi": "",
-      "summary_hi": "",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "category_hinglish": "Crime aur Breaking News"
-    },
-    {
       "id": "025050395d357ad6",
       "title": "Carney says he cannot guarantee India will no longer be involved in crimes in Canada",
       "summary": "Amarnath Amarasingam, an academic who researches transnational repression, said Carney's comments come off as 'a little bit dismissive'",
@@ -521,23 +551,6 @@
       "category_hinglish": "Crime aur Breaking News",
       "title_hinglish": "karni ka kahana hai ki vaha isa bata ki garanti nahin de sakate ki bharata aba kanada men hone vale aparadhon men shamila nahin hoga",
       "summary_hinglish": "antarrashtriya damana para shodha karane vale akadamika amaranatha amarasinghama ne kaha ki karni ki tippaniyan 'thodaी si kharija karane vali' lagati hain।"
-    },
-    {
-      "id": "0fd2b8e1e638217a",
-      "title": "After Bankipur win, Prashant Kishor's party weighs Delhi expansion | India News",
-      "summary": "Supporters of Jan Suraaj in the national capital have been pressing for the party to establish a presence in Delhi.",
-      "category": "Politics & Government",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/26/1600x900/logo/Jan-Suraaj-Party-leader-Prashant-Kishor-arrives-at_1786968217381_1790409260340_aOC4_2475f880-bb66-47fc-810e-aed3b59049be_7pnl.jpg",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/india-news/prashant-kishor-jan-suraaj-party-bankipur-delhi-expansion-news-bihar-101790409031247-amp.html",
-      "publishedAt": "2026-09-26T08:42:30.000Z",
-      "fetchedAt": "2026-09-26T09:45:07.085Z",
-      "title_hi": "बांकीपुर जीत के बाद प्रशांत किशोर की पार्टी दिल्ली विस्तार पर विचार कर रही है | भारत समाचार",
-      "summary_hi": "राष्ट्रीय राजधानी में जन सुराज के समर्थक पार्टी पर दिल्ली में उपस्थिति स्थापित करने के लिए दबाव डाल रहे हैं।",
-      "category_hi": "राजनीति और सरकार",
-      "title_hinglish": "bankipura jita ke bada prashanta kishora ki parti dilli vistara para vichara kara rahi hai | bharata samachara",
-      "summary_hinglish": "rashtriya rajadhani men jana suraja ke samarthaka parti para dilli men upasthiti sthapita karane ke lie dabava dala rahe hain।",
-      "category_hinglish": "Politics aur Government"
     },
     {
       "id": "b87f56b694c07467",
@@ -557,6 +570,23 @@
       "category_hinglish": "Entertainment"
     },
     {
+      "id": "0fd2b8e1e638217a",
+      "title": "After Bankipur win, Prashant Kishor's party weighs Delhi expansion | India News",
+      "summary": "Supporters of Jan Suraaj in the national capital have been pressing for the party to establish a presence in Delhi.",
+      "category": "Politics & Government",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/26/1600x900/logo/Jan-Suraaj-Party-leader-Prashant-Kishor-arrives-at_1786968217381_1790409260340_aOC4_2475f880-bb66-47fc-810e-aed3b59049be_7pnl.jpg",
+      "source": "Hindustan Times",
+      "sourceUrl": "https://www.hindustantimes.com/india-news/prashant-kishor-jan-suraaj-party-bankipur-delhi-expansion-news-bihar-101790409031247-amp.html",
+      "publishedAt": "2026-09-26T08:42:30.000Z",
+      "fetchedAt": "2026-09-26T09:45:07.085Z",
+      "title_hi": "बांकीपुर जीत के बाद प्रशांत किशोर की पार्टी दिल्ली विस्तार पर विचार कर रही है | भारत समाचार",
+      "summary_hi": "राष्ट्रीय राजधानी में जन सुराज के समर्थक पार्टी पर दिल्ली में उपस्थिति स्थापित करने के लिए दबाव डाल रहे हैं।",
+      "category_hi": "राजनीति और सरकार",
+      "title_hinglish": "bankipura jita ke bada prashanta kishora ki parti dilli vistara para vichara kara rahi hai | bharata samachara",
+      "summary_hinglish": "rashtriya rajadhani men jana suraja ke samarthaka parti para dilli men upasthiti sthapita karane ke lie dabava dala rahe hain।",
+      "category_hinglish": "Politics aur Government"
+    },
+    {
       "id": "3d2c71eebedd4970",
       "title": "PTC India Financial Services Ltd Share Price Today NSE/BSE Charts",
       "summary": "PTC India Financial Services Ltd share price today, NSE/BSE updates, price charts, market cap, PE ratio, financials, news and key stock details on Alice Blue now",
@@ -574,23 +604,6 @@
       "summary_hinglish": "pitisi indiya phainenshiyala sarviseja limiteda ka sheyara mulya aaj, enaesaee/biesaee apadet, mulya chart, marketa kaip, piee anupat, vittiy, samachara aura ailisa blu para pramukha stoka vivarana।"
     },
     {
-      "id": "b2cee53f8a5cf9b2",
-      "title": "Kriti Sanon shares cryptic Instagram post amid Jamui harassment and Delhi rape case: ‘It’s women vs patriarch",
-      "summary": "Kriti Sanon’s latest Instagram activity has caught attention amid the ongoing discussion around the Jamui harassment case. Here’s what the actress shared and why it has sparked conversation.",
-      "category": "Entertainment",
-      "image": "https://static.india.com/wp-content/uploads/2026/09/Kriti-Sanon-.png",
-      "source": "India.com",
-      "sourceUrl": "https://www.india.com/entertainment/bollywood/kriti-sanon-shares-cryptic-instagram-post-amid-jamui-harassment-and-delhi-rape-case-8530229/",
-      "publishedAt": "2026-09-26T07:27:11.000Z",
-      "fetchedAt": "2026-09-26T10:54:04.762Z",
-      "title_hi": "जमुई उत्पीड़न और दिल्ली बलात्कार मामले के बीच कृति सनोन ने गुप्त इंस्टाग्राम पोस्ट साझा किया: 'यह महिला बनाम पितृसत्ता है",
-      "summary_hi": "जमुई उत्पीड़न मामले को लेकर चल रही चर्चा के बीच कृति सेनन की नवीनतम इंस्टाग्राम गतिविधि ने ध्यान खींचा है। यहां बताया गया है कि अभिनेत्री ने क्या साझा किया और क्यों इसने चर्चा को बढ़ावा दिया है।",
-      "category_hi": "मनोरंजन",
-      "title_hinglish": "jamuee utpidana aura dilli balatkara mamale ke bicha kriti sanona ne gupta instagrama posta sajha kiy: 'yaha mahila banama pitrisatta hai",
-      "summary_hinglish": "jamuee utpidana mamale ko lekara chala rahi charcha ke bicha kriti senana ki navinatama instagrama gatividhi ne dhyana khincha hai। yahan bataya gaya hai ki abhinetri ne kya sajha kiya aura kyon isane charcha ko badhaाva diya hai।",
-      "category_hinglish": "Entertainment"
-    },
-    {
       "id": "826aa011d3e81367",
       "title": "US Adds Gangster Goldy Brar To FBI's Top 10 Most Wanted List, Offers $1 Million Bounty",
       "summary": "The FBI said Brar is believed to live in California and parts of Canada and should be considered armed and dangerous.",
@@ -606,6 +619,38 @@
       "category_hinglish": "Crime aur Breaking News",
       "title_hinglish": "amerika ne gaingastara goldi barara ko ephabiaaee ki shirsha 10 mosta vanteda suchi men shamila kiy, 1 miliyana dolara ka inama rakha",
       "summary_hinglish": "ephabiaaee ne kaha ki mana jata hai ki barara kailiphorniya aura kanada ke kuchha hisson men rahata hai aura use sashastra aura khataranaka mana jana chahie।"
+    },
+    {
+      "id": "420a9175606323d6",
+      "title": "American and six Ukrainians released by India after six months in jail",
+      "summary": "Matthew VanDyke and six Ukrainians were accused of smuggling weapons and drones to armed ethnic groups fighting India.",
+      "category": "Crime & Breaking News",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6abab9a65c-1790622118.jpg?resize=1920%2C1440",
+      "source": "Al Jazeera",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/9/28/american-and-six-ukrainians-released-by-india-after-six-months-in-jail",
+      "publishedAt": "2026-09-28T19:17:23.000Z",
+      "fetchedAt": "2026-09-29T04:48:47.501Z",
+      "title_hi": "",
+      "summary_hi": "",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "category_hinglish": "Crime aur Breaking News"
+    },
+    {
+      "id": "b2cee53f8a5cf9b2",
+      "title": "Kriti Sanon shares cryptic Instagram post amid Jamui harassment and Delhi rape case: ‘It’s women vs patriarch",
+      "summary": "Kriti Sanon’s latest Instagram activity has caught attention amid the ongoing discussion around the Jamui harassment case. Here’s what the actress shared and why it has sparked conversation.",
+      "category": "Entertainment",
+      "image": "https://static.india.com/wp-content/uploads/2026/09/Kriti-Sanon-.png",
+      "source": "India.com",
+      "sourceUrl": "https://www.india.com/entertainment/bollywood/kriti-sanon-shares-cryptic-instagram-post-amid-jamui-harassment-and-delhi-rape-case-8530229/",
+      "publishedAt": "2026-09-26T07:27:11.000Z",
+      "fetchedAt": "2026-09-26T10:54:04.762Z",
+      "title_hi": "जमुई उत्पीड़न और दिल्ली बलात्कार मामले के बीच कृति सनोन ने गुप्त इंस्टाग्राम पोस्ट साझा किया: 'यह महिला बनाम पितृसत्ता है",
+      "summary_hi": "जमुई उत्पीड़न मामले को लेकर चल रही चर्चा के बीच कृति सेनन की नवीनतम इंस्टाग्राम गतिविधि ने ध्यान खींचा है। यहां बताया गया है कि अभिनेत्री ने क्या साझा किया और क्यों इसने चर्चा को बढ़ावा दिया है।",
+      "category_hi": "मनोरंजन",
+      "title_hinglish": "jamuee utpidana aura dilli balatkara mamale ke bicha kriti sanona ne gupta instagrama posta sajha kiy: 'yaha mahila banama pitrisatta hai",
+      "summary_hinglish": "jamuee utpidana mamale ko lekara chala rahi charcha ke bicha kriti senana ki navinatama instagrama gatividhi ne dhyana khincha hai। yahan bataya gaya hai ki abhinetri ne kya sajha kiya aura kyon isane charcha ko badhaाva diya hai।",
+      "category_hinglish": "Entertainment"
     }
   ]
 }
