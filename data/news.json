@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T22:48:16.467Z",
+  "updatedAt": "2026-09-29T23:01:20.585Z",
   "count": 250,
   "articles": [
     {
@@ -183,10 +183,12 @@
       "sourceUrl": "https://www.news9live.com/india/bihar-kidnapping-case-youth-abducted-after-car-hits-bike-rescued-within-12-hours-3011648",
       "publishedAt": "2026-09-29T06:48:39.000Z",
       "fetchedAt": "2026-09-29T22:13:44.188Z",
-      "title_hi": "",
-      "summary_hi": "",
+      "title_hi": "बिहार अपहरण मामला: कार द्वारा बाइक को टक्कर मारने के बाद अपहृत युवक को बचाया गया",
+      "summary_hi": "बिहार में पुलिस ने सुपौल जिले में सोमवार को अपहृत युवक को जबरन कार में बिठाने के बाद बारह घंटे के भीतर सुरक्षित बचा लिया। अधिकारियों ने अपराध के पीछे एक संदिग्ध वित्तीय विवाद की जांच करते हुए वाहन को जब्त कर लिया और कई व्यक्तियों को हिरासत में लिया।",
       "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "category_hinglish": "Crime aur Breaking News"
+      "category_hinglish": "Crime aur Breaking News",
+      "title_hinglish": "bihara apaharana mamal: kara dvara baika ko takkara marane ke bada apahrita yuvaka ko bachaya gaya",
+      "summary_hinglish": "bihara men pulisa ne supaula jile men somavara ko apahrita yuvaka ko jabarana kara men bithane ke bada baraha ghante ke bhitara surakshita bacha liya। adhikariyon ne aparadha ke pichhe eka sandigdha vittiya vivada ki jancha karate hue vahana ko jabta kara liya aura kaee vyaktiyon ko hirasata men liya।"
     },
     {
       "id": "cb174c005bf8df8a",
@@ -1982,10 +1984,12 @@
       "sourceUrl": "https://m.rediff.com/amp/sports/report/india-secures-gold-in-shooting-relay-enters-top-10-at-asian-games/20260929.htm",
       "publishedAt": "2026-09-29T12:49:54.000Z",
       "fetchedAt": "2026-09-29T22:10:42.103Z",
-      "title_hi": "",
-      "summary_hi": "",
+      "title_hi": "भारत ने ऐतिहासिक स्वर्ण पदकों के साथ एशियाई खेलों में 50 पदकों का आंकड़ा पार किया",
+      "summary_hi": "भारत ने मंगलवार को नागोया में एशियाई खेलों में महिलाओं की ट्रैप शूटिंग और 4x400 मीटर रिले में ऐतिहासिक स्वर्ण पदक हासिल किए। इन प्रभावशाली जीतों ने देश की कुल पदक संख्या को पचास से अधिक कर दिया, जिससे भारत सुरक्षित रूप से शीर्ष दस में आ गया।",
       "category_hi": "खेल",
-      "category_hinglish": "Sports"
+      "category_hinglish": "Sports",
+      "title_hinglish": "bharata ne aitihasika svarna padakon ke satha eshiyaee khelon men 50 padakon ka aankadaा para kiya",
+      "summary_hinglish": "bharata ne mangalavara ko nagoya men eshiyaee khelon men mahilaon ki traipa shutinga aura 4x400 mitara rile men aitihasika svarna padaka hasila kie। ina prabhavashali jiton ne desha ki kula padaka sankhya ko pachasa se adhika kara diy, jisase bharata surakshita rupa se shirsha dasa men aa gaya।"
     },
     {
       "id": "a18c640959cb17b7",
@@ -3324,10 +3328,12 @@
       "sourceUrl": "https://www.lokmattimes.com/politics/govt-ec-want-to-deprive-voters-sp-rjd-back-rahul-gandhis-charge-against-election-commission/",
       "publishedAt": "2026-09-29T09:15:34.000Z",
       "fetchedAt": "2026-09-29T22:27:33.476Z",
-      "title_hi": "",
-      "summary_hi": "",
+      "title_hi": "'सरकार, चुनाव आयोग मतदाताओं को वंचित करना चाहते हैं': सपा, राजद ने किया राहुल का समर्थन",
+      "summary_hi": "29 सितंबर, 2026 को सपा और राजद के प्रमुख विपक्षी नेताओं ने चुनाव आयोग के खिलाफ राहुल गांधी के आरोपों का समर्थन किया। उन्होंने चुनाव निकाय पर दिल्ली में बड़े पैमाने पर मतदाता विलोपन के माध्यम से मतदाताओं को उनके अधिकारों से वंचित करने का व्यवस्थित प्रयास करने का आरोप लगाया।",
       "category_hi": "राजनीति और सरकार",
-      "category_hinglish": "Politics aur Government"
+      "category_hinglish": "Politics aur Government",
+      "title_hinglish": "'sarakar, chunava aayoga matadataon ko vanchita karana chahate hain': sap, rajada ne kiya rahula ka samarthana",
+      "summary_hinglish": "29 sitanbar, 2026 ko sapa aura rajada ke pramukha vipakshi netaon ne chunava aayoga ke khilapha rahula gandhi ke aaropon ka samarthana kiya। unhonne chunava nikaya para dilli men badaे paimane para matadata vilopana ke madhyama se matadataon ko unake adhikaron se vanchita karane ka vyavasthita prayasa karane ka aaropa lagaya।"
     },
     {
       "id": "d310e3c9d6ba1d89",
