@@ -725,6 +725,32 @@ function isGeneratedFallbackSummary(text = "") {
   return /this update was reported by .*open the original report/i.test(text);
 }
 
+function exactSourceWordExcerpt(text = "", targetWords = SUMMARY_WORDS) {
+  const clean = stripHtml(text || "")
+    .replace(/\s+/g, " ")
+    .trim();
+
+  const words = splitWords(clean);
+
+  if (words.length < targetWords) {
+    return "";
+  }
+
+  const excerpt = words
+    .slice(0, targetWords)
+    .join(" ")
+    .replace(/[,:;–—-]+$/u, "")
+    .trim();
+
+  if (countWords(excerpt) !== targetWords) {
+    return "";
+  }
+
+  return /[.!?]["'”’)]?$/.test(excerpt)
+    ? excerpt
+    : `${excerpt}.`;
+}
+
 function buildSummary(title, description, articleText = "") {
   const cleanTitle = normalizeTitle(title);
   const descriptionText = stripHtml(description || "");
@@ -750,9 +776,27 @@ function buildSummary(title, description, articleText = "") {
     }
   }
 
-  // Eligibility block removed: keep a real source-derived summary
-  // even when it cannot naturally be exactly 40 words.
-  return candidates[0] || "";
+  // Quota-safe fallback: use only source words and lock the result to
+  // exactly 40 words. Try the article body first because it usually
+  // contains enough context, then the publisher description, then both.
+  const fallbackCandidates = [
+    articleBody,
+    descriptionText,
+    [descriptionText, articleBody].filter(Boolean).join(" "),
+  ].filter(Boolean);
+
+  for (const candidate of fallbackCandidates) {
+    const summary = exactSourceWordExcerpt(
+      candidate,
+      SUMMARY_WORDS
+    );
+
+    if (summary && countWords(summary) === SUMMARY_WORDS) {
+      return summary;
+    }
+  }
+
+  return "";
 }
 
 function metaValue(html, keys) {
@@ -1341,7 +1385,10 @@ async function fetchCategory(category, knownLinks, knownTitles, maxNew, scope) {
     const summary =
       aiSummary || sourceSummary;
 
-    if (!summary) {
+    if (
+      !summary ||
+      countWords(summary) !== SUMMARY_WORDS
+    ) {
       continue;
     }
 
