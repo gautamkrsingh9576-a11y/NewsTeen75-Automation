@@ -43,6 +43,10 @@ const GEMINI_MODEL = String(
   process.env.GEMINI_MODEL || "gemini-3.5-flash-lite"
 ).trim();
 
+let geminiDisabledForRun = false;
+let geminiDisableReason = "";
+let geminiDisableLogged = false;
+
 const supabase =
   SUPABASE_URL && SUPABASE_SERVICE_ROLE_KEY
     ? createClient(SUPABASE_URL, SUPABASE_SERVICE_ROLE_KEY, {
@@ -514,7 +518,7 @@ async function requestAiSummary({
   previousDraft = "",
   previousWordCount = null,
 }) {
-  if (!GEMINI_API_KEY) {
+  if (!GEMINI_API_KEY || geminiDisabledForRun) {
     return "";
   }
 
@@ -615,6 +619,27 @@ async function requestAiSummary({
           .text()
           .catch(() => "");
 
+      if (
+        response.status === 429 ||
+        response.status === 401 ||
+        response.status === 403
+      ) {
+        geminiDisabledForRun = true;
+        geminiDisableReason =
+          response.status === 429
+            ? "quota/rate limit reached"
+            : "authentication/permission error";
+
+        if (!geminiDisableLogged) {
+          console.warn(
+            `Gemini disabled for the rest of this run: ${geminiDisableReason}. Source-based summaries will be used as fallback.`
+          );
+          geminiDisableLogged = true;
+        }
+
+        return "";
+      }
+
       console.warn(
         `Gemini summarizer request failed (${response.status}): ${errorText.slice(0, 300)}`
       );
@@ -643,7 +668,7 @@ async function summarizeArticleWithAI(
   description,
   articleText
 ) {
-  if (!GEMINI_API_KEY) {
+  if (!GEMINI_API_KEY || geminiDisabledForRun) {
     return "";
   }
 
@@ -1304,15 +1329,17 @@ async function fetchCategory(category, knownLinks, knownTitles, maxNew, scope) {
       enriched.articleText
     );
 
-    const aiSummary = await summarizeArticleWithAI(
-      cleanTitle,
-      enriched.description,
-      enriched.articleText
-    );
+    const aiSummary =
+      GEMINI_API_KEY && !geminiDisabledForRun
+        ? await summarizeArticleWithAI(
+            cleanTitle,
+            enriched.description,
+            enriched.articleText
+          )
+        : "";
 
-    const summary = GEMINI_API_KEY
-      ? aiSummary
-      : sourceSummary;
+    const summary =
+      aiSummary || sourceSummary;
 
     if (!summary) {
       continue;
