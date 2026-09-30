@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T09:04:32.408Z",
+  "updatedAt": "2026-09-30T09:22:53.785Z",
   "count": 249,
   "articles": [
     {
@@ -646,10 +646,12 @@
       "sourceUrl": "https://www.deccanchronicle.com/sports/double-gold-in-compound-archery-indian-mixed-team-wins-gold-after-womens-top-finish-1991805",
       "publishedAt": "2026-09-30T04:47:07.000Z",
       "fetchedAt": "2026-09-30T08:00:21.613Z",
-      "title_hi": "",
-      "summary_hi": "",
+      "title_hi": "कंपाउंड तीरंदाजी में भारत ने जीता दोहरा स्वर्ण",
+      "summary_hi": "नागोया में बुधवार को एशियाई खेलों में भारत ने कंपाउंड तीरंदाजी में दोहरा स्वर्ण पदक जीता। चिकिथा तानीपर्थी और साहिल जाधव ने शूट-ऑफ में कोरिया को हराया और महिला टीम ने अपने खिताब की रक्षा के लिए विश्व रिकॉर्ड-बराबर स्कोर के साथ चीन को हराया।",
       "category_hi": "खेल",
-      "category_hinglish": "Sports"
+      "category_hinglish": "Sports",
+      "title_hinglish": "kanpaunda tirandaji men bharata ne jita dohara svarna",
+      "summary_hinglish": "nagoya men budhavara ko eshiyaee khelon men bharata ne kanpaunda tirandaji men dohara svarna padaka jita। chikitha taniparthi aura sahila jadhava ne shuta-ऑpha men koriya ko haraya aura mahila tima ne apane khitaba ki raksha ke lie vishva rikorda-barabara skora ke satha china ko haraya।"
     },
     {
       "id": "03943fafde680d0a",
@@ -2587,10 +2589,12 @@
       "sourceUrl": "https://news.abplive.com/news/gyanesh-kumar-will-have-to-go-rahul-gandhi-says-cec-s-resignation-inevitable-targets-govt-1868942",
       "publishedAt": "2026-09-29T14:25:16.000Z",
       "fetchedAt": "2026-09-30T07:24:36.060Z",
-      "title_hi": "",
-      "summary_hi": "",
+      "title_hi": "'ज्ञानेश कुमार को जाना होगा': राहुल गांधी ने सीईसी से कहा",
+      "summary_hi": "कांग्रेस नेता राहुल गांधी ने चुनाव आयुक्त ज्ञानेश कुमार, प्रधानमंत्री नरेंद्र मोदी और गृह मंत्री अमित शाह से इस्तीफे की मांग की. कांग्रेस कार्य समिति ने भी देश भर में बड़े पैमाने पर वोट चोरी का आरोप लगाते हुए निलंबित मतदाता सूची में संशोधन और नामों को बहाल करने का आह्वान किया।",
       "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "category_hinglish": "Crime aur Breaking News"
+      "category_hinglish": "Crime aur Breaking News",
+      "title_hinglish": "'jnyanesha kumara ko jana hoga': rahula gandhi ne sieesi se kaha",
+      "summary_hinglish": "kangresa neta rahula gandhi ne chunava aayukta jnyanesha kumar, pradhanamantri narendra modi aura griha mantri amita shaha se istiphe ki manga ki. kangresa karya samiti ne bhi desha bhara men badaे paimane para vota chori ka aaropa lagate hue nilanbita matadata suchi men sanshodhana aura namon ko bahala karane ka aahvana kiya।"
     },
     {
       "id": "a0a5e6af546f383b",
