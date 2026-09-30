@@ -25,7 +25,8 @@ const RETENTION_WINDOW_MS =
   Number(process.env.FEED_RETENTION_HOURS || 168) * 60 * 60 * 1000;
 const MIN_SUMMARY_CHARS = 60;
 const HEADLINE_WORDS = 10;
-const SUMMARY_WORDS = 40;
+const MIN_SUMMARY_WORDS = 30;
+const MAX_SUMMARY_WORDS = 40;
 const MIN_FETCH_INTERVAL_MINUTES = Number(
   process.env.MIN_FETCH_INTERVAL_MINUTES || 5
 );
@@ -448,7 +449,15 @@ function exactHeadline(title = "") {
   return headline;
 }
 
-function exactSentenceExcerpt(text = "", targetWords = SUMMARY_WORDS) {
+function summaryWordCountIsValid(text = "") {
+  const words = countWords(text);
+  return (
+    words >= MIN_SUMMARY_WORDS &&
+    words <= MAX_SUMMARY_WORDS
+  );
+}
+
+function rangedSentenceExcerpt(text = "") {
   const clean = stripHtml(text || "")
     .replace(/\s+/g, " ")
     .trim();
@@ -468,14 +477,14 @@ function exactSentenceExcerpt(text = "", targetWords = SUMMARY_WORDS) {
 
       if (!sentence || words === 0) continue;
 
-      if (total + words > targetWords) {
+      if (total + words > MAX_SUMMARY_WORDS) {
         break;
       }
 
       selected.push(sentence);
       total += words;
 
-      if (total === targetWords) {
+      if (total >= MIN_SUMMARY_WORDS) {
         return selected.join(" ");
       }
     }
@@ -551,7 +560,7 @@ async function requestAiSummary({
   const correction =
     previousDraft &&
     Number.isFinite(previousWordCount)
-      ? `\nYour previous draft had ${previousWordCount} words: "${previousDraft}". Rewrite it so it has exactly ${SUMMARY_WORDS} words.`
+      ? `\nYour previous draft had ${previousWordCount} words: "${previousDraft}". Rewrite it so it has between ${MIN_SUMMARY_WORDS} and ${MAX_SUMMARY_WORDS} words.`
       : "";
 
   const controller =
@@ -588,7 +597,7 @@ async function requestAiSummary({
                   "Write one clear, easy-to-understand English news summary using ONLY facts explicitly present in the supplied source text. " +
                   "Preserve the original meaning, names, numbers, dates, places, and attribution. " +
                   "Do not add assumptions, opinions, predictions, invented context, promotional language, or repetition. " +
-                  `The summary must contain exactly ${SUMMARY_WORDS} words and must read naturally with complete sentences. ` +
+                  `The summary must contain between ${MIN_SUMMARY_WORDS} and ${MAX_SUMMARY_WORDS} words and must read naturally with complete sentences. ` +
                   'If the supplied source does not contain enough factual information to make a truthful summary, return exactly "INSUFFICIENT_SOURCE". ' +
                   "Return only the summary text, with no label, bullets, quotation marks, or explanation.",
               },
@@ -698,16 +707,13 @@ async function summarizeArticleWithAI(
       return "";
     }
 
-    if (
-      countWords(draft) ===
-      SUMMARY_WORDS
-    ) {
+    if (summaryWordCountIsValid(draft)) {
       return draft;
     }
   }
 
   console.warn(
-    `AI summary skipped because it did not reach exactly ${SUMMARY_WORDS} words.`
+    `AI summary skipped because it was not between ${MIN_SUMMARY_WORDS} and ${MAX_SUMMARY_WORDS} words.`
   );
 
   return "";
@@ -725,16 +731,21 @@ function isGeneratedFallbackSummary(text = "") {
   return /this update was reported by .*open the original report/i.test(text);
 }
 
-function exactSourceWordExcerpt(text = "", targetWords = SUMMARY_WORDS) {
+function rangedSourceWordExcerpt(text = "") {
   const clean = stripHtml(text || "")
     .replace(/\s+/g, " ")
     .trim();
 
   const words = splitWords(clean);
 
-  if (words.length < targetWords) {
+  if (words.length < MIN_SUMMARY_WORDS) {
     return "";
   }
+
+  const targetWords = Math.min(
+    MAX_SUMMARY_WORDS,
+    words.length
+  );
 
   const excerpt = words
     .slice(0, targetWords)
@@ -742,7 +753,7 @@ function exactSourceWordExcerpt(text = "", targetWords = SUMMARY_WORDS) {
     .replace(/[,:;–—-]+$/u, "")
     .trim();
 
-  if (countWords(excerpt) !== targetWords) {
+  if (!summaryWordCountIsValid(excerpt)) {
     return "";
   }
 
@@ -766,18 +777,15 @@ function buildSummary(title, description, articleText = "") {
   );
 
   for (const candidate of candidates) {
-    const summary = exactSentenceExcerpt(
-      candidate,
-      SUMMARY_WORDS
-    );
+    const summary = rangedSentenceExcerpt(candidate);
 
-    if (summary && countWords(summary) === SUMMARY_WORDS) {
+    if (summary && summaryWordCountIsValid(summary)) {
       return summary;
     }
   }
 
-  // Quota-safe fallback: use only source words and lock the result to
-  // exactly 40 words. Try the article body first because it usually
+  // Quota-safe fallback: use only source words and keep the result
+  // between 30 and 40 words. Try the article body first because it usually
   // contains enough context, then the publisher description, then both.
   const fallbackCandidates = [
     articleBody,
@@ -786,12 +794,9 @@ function buildSummary(title, description, articleText = "") {
   ].filter(Boolean);
 
   for (const candidate of fallbackCandidates) {
-    const summary = exactSourceWordExcerpt(
-      candidate,
-      SUMMARY_WORDS
-    );
+    const summary = rangedSourceWordExcerpt(candidate);
 
-    if (summary && countWords(summary) === SUMMARY_WORDS) {
+    if (summary && summaryWordCountIsValid(summary)) {
       return summary;
     }
   }
@@ -1387,7 +1392,7 @@ async function fetchCategory(category, knownLinks, knownTitles, maxNew, scope) {
 
     if (
       !summary ||
-      countWords(summary) !== SUMMARY_WORDS
+      !summaryWordCountIsValid(summary)
     ) {
       continue;
     }
