@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-30T12:53:57.436Z",
-  "count": 247,
+  "updatedAt": "2026-09-30T15:35:59.486Z",
+  "count": 248,
   "articles": [
     {
       "id": "eda23631b05525fc",
@@ -859,6 +859,25 @@
       "category_hinglish": "Business aur Finance",
       "title_hinglish": "Apple Pay bharata men lonch: iPhone upayogakarta aba kara sakate hain bhugatana",
       "summary_hinglish": "Apple ne bharata men apani Apple Pay seva loncha ki hai, jisase upayogakarta patra upakaranon ke satha sanparka rahita bhugatana kara sakate hain। yaha seva shuru men pure desha men eksisa bainka dvara jari yogya vijaा aura mastarakarda kredita karda rakhane vale grahakon ke lie upalabdha hai।"
+    },
+    {
+      "id": "1026bb453ec447b5",
+      "provider": "google_news_rss",
+      "providerId": "CBMickFVX3lxTE1DbTdob0lUVXdSVGF4LWZabDhsbzNfSlNhNEZaWjRXNVBpMHctMW1mTVZZNWtYTk5pbi1VUnVNY294MlFvLWlodEdQaHQxTFRZRjBCNFlhTEhJeDlPWHFidGZUUEdXNlhmUkdTU2ZuRjJCZw",
+      "title": "When Elections Are Not Enough",
+      "summary": "Modern democracy assumes citizens can change governments through peaceful elections. However, political systems can retain voting processes while incumbents become harder to dislodge. Cumulative developments like asymmetric resources, media tilt, and institutional alignment raise opposition costs and reduce incumbent vulnerability.",
+      "category": "Politics & Government",
+      "image": "https://www.theindiaforum.in/sites/default/files/styles/cover_story_small/public/field/image/2026/09/20/lead-image-79-1789913763.png.webp",
+      "source": "The India Forum",
+      "sourceUrl": "https://www.theindiaforum.in/forum/when-elections-are-not-enough",
+      "publishedAt": "2026-09-30T03:40:09.000Z",
+      "fetchedAt": "2026-09-30T15:28:49.570Z",
+      "title_hi": "जब चुनाव पर्याप्त न हों",
+      "summary_hi": "आधुनिक लोकतंत्र मानता है कि नागरिक शांतिपूर्ण चुनावों के माध्यम से सरकारें बदल सकते हैं। हालाँकि, राजनीतिक प्रणालियाँ मतदान प्रक्रियाओं को बरकरार रख सकती हैं जबकि सत्ताधारियों को हटाना कठिन हो जाता है। असममित संसाधन, मीडिया झुकाव और संस्थागत संरेखण जैसे संचयी विकास विपक्ष की लागत बढ़ाते हैं और मौजूदा भेद्यता को कम करते हैं।",
+      "category_hi": "राजनीति और सरकार",
+      "title_hinglish": "jaba chunava paryapta na hon",
+      "summary_hinglish": "aadhunika lokatantra manata hai ki nagarika shantipurna chunavon ke madhyama se sarakaren badala sakate hain। halanki, rajanitika pranaliyan matadana prakriyaon ko barakarara rakha sakati hain jabaki sattadhariyon ko hatana kathina ho jata hai। asamamita sansadhan, midiya jhukava aura sansthagata sanrekhana jaise sanchayi vikasa vipaksha ki lagata badhaाte hain aura maujuda bhedyata ko kama karate hain।",
+      "category_hinglish": "Politics aur Government"
     },
     {
       "id": "a7c4b97bbfe1949b",
