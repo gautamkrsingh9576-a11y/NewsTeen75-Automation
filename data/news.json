@@ -1,24 +1,24 @@
 {
-  "updatedAt": "2026-09-30T08:07:20.902Z",
-  "count": 250,
+  "updatedAt": "2026-09-30T08:26:58.715Z",
+  "count": 249,
   "articles": [
     {
       "id": "4b0318f88dfc4117",
       "provider": "google_news_rss",
       "providerId": "CBMiuwFBVV95cUxQZ0g3YWdyY0FPYzFlM3JKQ1J4X1JWaTJVVW1zcmdQTy1pdDJzLVFyT0Q2SUw3dkNjX19hSXVoZ3hBSHg1bUI2eEMzNTRFX3I0bzR2czFlUk1WWnM3dm9sejZVZU16RHRlRFBBV2hxN0pwYzlrVEtkc3ByU1BsY3N2VmYyX1lGX2ZQVlo0NmRUUlR3cTJlcEdOdHNjR3JqYUZZSVVDVkctWkRhakt5bmhFV0VPSGdZOEVEaERJ0gHAAUFVX3lxTE9NU29KZFNfXzZHZ25zUUxYcWJGaGRtTnZLa3A5ZEZMZVk2cHdtVDJCZENvMlZRVjNYNFRFYVlMVjlrRElLeFBnbTlXcklGc0FadXNja0VGQVZLRjB1T0xPUmVKUm5mV2Y4MVc4X1dPZUR1VlNHZzdIN0xDQWVKeE1mb1JBMk5WdXlObkhWbU05TFNiZExuUjhyOXhpVl9Dc0JLekhJcHBqUFU2UnlCRV9pNTVEYlY4R21OSXBIN1VvUg",
       "title": "CPM is Keralam's dominant Hindu outfit: BJP leader on why",
-      "summary": "BJP leader KS Radhakrishnan stated on Wednesday in Kochi that the party's slow growth in Kerala stems from the Communist movement historically functioning as the dominant Hindu political force occupying that political space, which shapes voting patterns and state alliances.",
+      "summary": "BJP leader K.S. Radhakrishnan stated that his party struggles to expand in Kerala because the Communist movement has historically operated as the dominant Hindu political force, occupying that specific political space and shaping the state alliances and voting patterns well.",
       "category": "Politics & Government",
       "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/senior-ks-radhakrishnan--state-vice-president-of-bjp-in-keralam--speaking-at-india-today-conclave-so-303400891-16x9_0.png?VersionId=1Uif6yuL7EvHeeter4rxE8ZmOX5odLaI",
       "source": "India Today",
       "sourceUrl": "https://www.indiatoday.in/india/kerala/story/kerala-bjp-cpm-hindu-politics-radhakrishnan-weak-growth-3006350-2026-09-30",
       "publishedAt": "2026-09-30T07:45:02.000Z",
-      "fetchedAt": "2026-09-30T07:58:30.784Z",
+      "fetchedAt": "2026-09-30T08:21:54.459Z",
       "title_hi": "सीपीएम केरल का प्रमुख हिंदू संगठन है: बीजेपी नेता ने बताया क्यों?",
-      "summary_hi": "भाजपा नेता केएस राधाकृष्णन ने बुधवार को कोच्चि में कहा कि केरल में पार्टी की धीमी वृद्धि कम्युनिस्ट आंदोलन के ऐतिहासिक रूप से उस राजनीतिक स्थान पर कब्जा करने वाले प्रमुख हिंदू राजनीतिक बल के रूप में कार्य करने से उपजी है, जो मतदान पैटर्न और राज्य गठबंधनों को आकार देता है।",
+      "summary_hi": "बीजेपी नेता के.एस. राधाकृष्णन ने कहा कि उनकी पार्टी केरल में विस्तार करने के लिए संघर्ष कर रही है क्योंकि कम्युनिस्ट आंदोलन ऐतिहासिक रूप से प्रमुख हिंदू राजनीतिक ताकत के रूप में काम कर रहा है, उस विशिष्ट राजनीतिक स्थान पर कब्जा कर रहा है और राज्य गठबंधन और मतदान पैटर्न को अच्छी तरह से आकार दे रहा है।",
       "category_hi": "राजनीति और सरकार",
       "title_hinglish": "sipiema kerala ka pramukha hindu sangathana hai: bijepi neta ne bataya kyon?",
-      "summary_hinglish": "bhajapa neta keesa radhakrishnana ne budhavara ko kochchi men kaha ki kerala men parti ki dhimi vriddhi kamyunista aandolana ke aitihasika rupa se usa rajanitika sthana para kabja karane vale pramukha hindu rajanitika bala ke rupa men karya karane se upaji hai, jo matadana paitarna aura rajya gathabandhanon ko aakara deta hai।",
+      "summary_hinglish": "bijepi neta ke.es. radhakrishnana ne kaha ki unaki parti kerala men vistara karane ke lie sangharsha kara rahi hai kyonki kamyunista aandolana aitihasika rupa se pramukha hindu rajanitika takata ke rupa men kama kara raha hai, usa vishishta rajanitika sthana para kabja kara raha hai aura rajya gathabandhana aura matadana paitarna ko achchhi taraha se aakara de raha hai।",
       "category_hinglish": "Politics aur Government"
     },
     {
@@ -164,10 +164,12 @@
       "sourceUrl": "https://www.business-standard.com/industry/auto/india-fragmented-road-data-adas-autonomous-driving-here-technologies-126093000409_1.html",
       "publishedAt": "2026-09-30T06:35:11.000Z",
       "fetchedAt": "2026-09-30T07:45:27.665Z",
-      "title_hi": "",
-      "summary_hi": "",
+      "title_hi": "खंडित सड़क डेटा भारत में ADAS अपनाने को धीमा कर सकता है: यहाँ",
+      "summary_hi": "यहां टेक्नोलॉजीज ने कहा कि खंडित सड़क डेटा भारत में उन्नत ड्राइविंग सहायता प्रणालियों को अपनाने को धीमा कर सकता है। कंपनी ने नोट किया कि सरकार द्वारा आयोजित गति सीमा, लेन विवरण और सड़क चिह्न डेटा तक व्यापक पहुंच से इन ड्राइविंग अनुप्रयोगों को स्केल करने में मदद मिलेगी।",
       "category_hi": "टेक्नोलॉजी",
-      "category_hinglish": "Technology"
+      "category_hinglish": "Technology",
+      "title_hinglish": "khandita sadaka deta bharata men ADAS apanane ko dhima kara sakata hai: yahan",
+      "summary_hinglish": "yahan teknolojija ne kaha ki khandita sadaka deta bharata men unnata draivinga sahayata pranaliyon ko apanane ko dhima kara sakata hai। kanpani ne nota kiya ki sarakara dvara aayojita gati sim, lena vivarana aura sadaka chihna deta taka vyapaka pahuncha se ina draivinga anuprayogon ko skela karane men madada milegi।"
     },
     {
       "id": "efc546612ceba7be",
@@ -346,10 +348,12 @@
       "sourceUrl": "https://indiantelevision.com/mam/rajeev-mantri-joins-axis-bank-as-group-head-and-chief-financial-officer/",
       "publishedAt": "2026-09-30T05:55:30.000Z",
       "fetchedAt": "2026-09-30T07:46:47.862Z",
-      "title_hi": "",
-      "summary_hi": "",
+      "title_hi": "राजीव मंत्री समूह प्रमुख और प्रमुख के रूप में एक्सिस बैंक में शामिल हुए",
+      "summary_hi": "राजीव मंत्री सितंबर 2026 से मुंबई में समूह प्रमुख और मुख्य वित्तीय अधिकारी के रूप में एक्सिस बैंक में शामिल हुए हैं। वह अपने नए पद पर भारत, संयुक्त अरब अमीरात और सिंगापुर में अट्ठाईस वर्षों से अधिक का वित्त अनुभव लेकर आए हैं।",
       "category_hi": "बिज़नेस और फाइनेंस",
-      "category_hinglish": "Business aur Finance"
+      "category_hinglish": "Business aur Finance",
+      "title_hinglish": "rajiva mantri samuha pramukha aura pramukha ke rupa men eksisa bainka men shamila hue",
+      "summary_hinglish": "rajiva mantri sitanbara 2026 se munbaee men samuha pramukha aura mukhya vittiya adhikari ke rupa men eksisa bainka men shamila hue hain। vaha apane nae pada para bharat, sanyukta araba amirata aura singapura men atthaeesa varshon se adhika ka vitta anubhava lekara aae hain।"
     },
     {
       "id": "52f8be9b290ab20a",
@@ -507,10 +511,12 @@
       "sourceUrl": "https://www.olympics.com/en/news/asian-games-2026-medal-tally-india-winners-table-list",
       "publishedAt": "2026-09-30T05:09:00.000Z",
       "fetchedAt": "2026-09-30T07:59:35.738Z",
-      "title_hi": "",
-      "summary_hi": "",
+      "title_hi": "एशियाई खेल 2026: भारत की पदक तालिका और विजेताओं की सूची - पूरी तालिका",
+      "summary_hi": "जापान के आइची-नागोया में एशियाई खेल 2026 में भारत ने 10 स्वर्ण, 21 रजत और 28 कांस्य सहित 59 पदक जीते हैं। लगभग 500 भारतीय एथलीट वर्तमान में महाद्वीपीय प्रतियोगिता में प्रतिस्पर्धा कर रहे हैं, जो 19 सितंबर से 4 अक्टूबर तक चलेगा।",
       "category_hi": "खेल",
-      "category_hinglish": "Sports"
+      "category_hinglish": "Sports",
+      "title_hinglish": "eshiyaee khela 2026: bharata ki padaka talika aura vijetaon ki suchi - puri talika",
+      "summary_hinglish": "japana ke aaichi-nagoya men eshiyaee khela 2026 men bharata ne 10 svarn, 21 rajata aura 28 kansya sahita 59 padaka jite hain। lagabhaga 500 bharatiya ethalita vartamana men mahadvipiya pratiyogita men pratispardha kara rahe hain, jo 19 sitanbara se 4 aktubara taka chalega।"
     },
     {
       "id": "786b910fe36a4c7c",
@@ -687,10 +693,12 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/google-ceo-sundar-pichai-agrees-to-the-call-that-technology-companies-need-to-innovate-responsibly-says-as-i-shared-today-/articleshow/134581734.cms",
       "publishedAt": "2026-09-30T04:38:00.000Z",
       "fetchedAt": "2026-09-30T07:45:00.432Z",
-      "title_hi": "",
-      "summary_hi": "",
+      "title_hi": "गूगल के सीईओ सुंदर पिचाई उस तकनीक के आह्वान से 'सहमत' हैं",
+      "summary_hi": "Google के सीईओ सुंदर पिचाई ने अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प, सीनेट नेताओं और अन्य प्रौद्योगिकी अधिकारियों के साथ सुपर इंटेलिजेंस पर व्हाइट हाउस समझौते पर हस्ताक्षर किए। इस ऐतिहासिक समझौते का उद्देश्य आज उन्नत कृत्रिम बुद्धिमत्ता प्रणालियों का सुरक्षित और जिम्मेदार विकास सुनिश्चित करना है।",
       "category_hi": "टेक्नोलॉजी",
-      "category_hinglish": "Technology"
+      "category_hinglish": "Technology",
+      "title_hinglish": "gugala ke sieeo sundara pichaee usa takanika ke aahvana se 'sahamata' hain",
+      "summary_hinglish": "Google ke sieeo sundara pichaee ne ameriki rashtrapati donalda tramp, sineta netaon aura anya praudyogiki adhikariyon ke satha supara intelijensa para vhaita hausa samajhaute para hastakshara kie। isa aitihasika samajhaute ka uddeshya aaja unnata kritrima buddhimatta pranaliyon ka surakshita aura jimmedara vikasa sunishchita karana hai।"
     },
     {
       "id": "3fd34060985df153",
@@ -771,16 +779,18 @@
       "provider": "google_news_rss",
       "providerId": "CBMi5wFBVV95cUxQVm92NHJjcGI5SF9EeXVONXNCMnZxeVFXWW9oSDRQUXU5Y0tuT3IzWk9pNmQxSmh6ampvSWlfbWNIR0NnVE85SXkyTTRkVHZhNlotX3NFa1Zlbnl4Um03ODkzakZoV1NucnlzUmJjOTlOdnQ5OVA0ZExsZC02Zy0xU1A5R2F2QXhnU1U3SmV2c2FEbDFFTHFyTE01RzRTY19SNmZzdjRucUpGM2RwUlUyT2tnVkRWeFVlb3ZZSGtGWVhKSi1vM3E5a1VaQ1ZwMWRUaFl5a3gybjZnSDVGLVAyYno5THU1M3c",
       "title": "'Govt prepared for poll': Minister says Karnataka will conduct local",
-      "summary": "Karnataka Cooperation Minister Laxman Savadi stated on Tuesday in Hassan district that the state government is fully prepared to conduct Grama, Taluk, and Zilla Panchayat elections soon. The election notification is expected after the current reservation finalisation process is completed.",
+      "summary": "Cooperation Minister Laxman Savadi announced on Tuesday in Hassan district that Karnataka will soon conduct Grama, Taluk, and Zilla Panchayat elections. The government is fully prepared as the reservation finalisation process is underway, and an election notification is expected shortly.",
       "category": "Politics & Government",
       "image": "https://cf-images.assettype.com/deccanherald%2F2025-06-09%2F2lc7455g%2Fdeccanheraldimportsitesdhfilesarticleimages20230414laxman-savadi-dh-file-1209610-1681465954.avif?rect=0%2C0%2C900%2C473&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
       "source": "Deccan Herald",
       "sourceUrl": "https://www.deccanherald.com/amp/story/india/karnataka/govt-prepared-for-poll-minister-says-karnataka-will-conduct-local-body-elections-soon-4164872",
       "publishedAt": "2026-09-30T04:03:00.000Z",
-      "fetchedAt": "2026-09-30T07:58:35.193Z",
-      "title_hi": "",
-      "summary_hi": "",
+      "fetchedAt": "2026-09-30T08:21:59.171Z",
+      "title_hi": "'सरकार चुनाव के लिए तैयार': मंत्री का कहना है कि कर्नाटक स्थानीय चुनाव कराएगा",
+      "summary_hi": "सहकारिता मंत्री लक्ष्मण सावदी ने मंगलवार को हासन जिले में घोषणा की कि कर्नाटक जल्द ही ग्राम, तालुक और जिला पंचायत चुनाव कराएगा। सरकार पूरी तरह से तैयार है क्योंकि आरक्षण को अंतिम रूप देने की प्रक्रिया चल रही है और जल्द ही चुनाव अधिसूचना आने की उम्मीद है।",
       "category_hi": "राजनीति और सरकार",
+      "title_hinglish": "'sarakara chunava ke lie taiyara': mantri ka kahana hai ki karnataka sthaniya chunava karaega",
+      "summary_hinglish": "sahakarita mantri lakshmana savadi ne mangalavara ko hasana jile men ghoshana ki ki karnataka jalda hi gram, taluka aura jila panchayata chunava karaega। sarakara puri taraha se taiyara hai kyonki aarakshana ko antima rupa dene ki prakriya chala rahi hai aura jalda hi chunava adhisuchana aane ki ummida hai।",
       "category_hinglish": "Politics aur Government"
     },
     {
@@ -869,10 +879,12 @@
       "sourceUrl": "https://www.indiatoday.in/amp/sports/asian-games/story/asian-games-archery-jyothi-surekha-chikhita-taniprathi-prithika-pradeep-nagoya-3006195-2026-09-30",
       "publishedAt": "2026-09-30T03:21:38.000Z",
       "fetchedAt": "2026-09-30T08:00:20.175Z",
-      "title_hi": "",
-      "summary_hi": "",
+      "title_hi": "एशियाई खेल: ज्योति की मुक्ति, चिखिता, पृथिका की चिंगारी शक्ति स्वर्णिम तीरंदाजी",
+      "summary_hi": "बुधवार, 30 सितंबर को ज्योति सुरेखा वेन्नम, चिखिथा तनिपर्थी और पृथिका प्रदीप ने बेहद प्रभावशाली प्रदर्शन के साथ रोमांचक महिला कंपाउंड टीम फाइनल में चीन को हराकर नागोया में एशियाई खेलों में तीरंदाजी में भारत का पहला स्वर्ण पदक जीता।",
       "category_hi": "खेल",
-      "category_hinglish": "Sports"
+      "category_hinglish": "Sports",
+      "title_hinglish": "eshiyaee khel: jyoti ki mukti, chikhit, prithika ki chingari shakti svarnima tirandaji",
+      "summary_hinglish": "budhavar, 30 sitanbara ko jyoti surekha vennam, chikhitha taniparthi aura prithika pradipa ne behada prabhavashali pradarshana ke satha romanchaka mahila kanpaunda tima phainala men china ko harakara nagoya men eshiyaee khelon men tirandaji men bharata ka pahala svarna padaka jita।"
     },
     {
       "id": "ef6155209a36f1f4",
@@ -998,10 +1010,12 @@
       "sourceUrl": "https://www.peoplematters.in/news/business/india-commits-dollar25-billion-to-build-next-generation-ai-chip-and-space-start-ups-52433",
       "publishedAt": "2026-09-30T02:57:45.000Z",
       "fetchedAt": "2026-09-30T07:45:11.205Z",
-      "title_hi": "",
-      "summary_hi": "",
+      "title_hi": "भारत ने अगली पीढ़ी के एआई, चिप के निर्माण के लिए 25 अरब डॉलर की प्रतिबद्धता जताई है",
+      "summary_hi": "भारत कृत्रिम बुद्धिमत्ता, अर्धचालक और अंतरिक्ष प्रौद्योगिकी में घरेलू क्षमताओं को मजबूत करने के लिए डीप टेक स्टार्ट अप के लिए पच्चीस बिलियन डॉलर का फंडिंग पूल बना रहा है। सरकार ने ग्यारह अरब डॉलर देने का वादा किया है, निजी पूंजी से इस योगदान के बराबर होने की उम्मीद है।",
       "category_hi": "टेक्नोलॉजी",
-      "category_hinglish": "Technology"
+      "category_hinglish": "Technology",
+      "title_hinglish": "bharata ne agali pidhaी ke eaaee, chipa ke nirmana ke lie 25 araba dolara ki pratibaddhata jataee hai",
+      "summary_hinglish": "bharata kritrima buddhimatt, ardhachalaka aura antariksha praudyogiki men gharelu kshamataon ko majabuta karane ke lie dipa teka starta apa ke lie pachchisa biliyana dolara ka phandinga pula bana raha hai। sarakara ne gyaraha araba dolara dene ka vada kiya hai, niji punji se isa yogadana ke barabara hone ki ummida hai।"
     },
     {
       "id": "e80d2d4b3856aed7",
@@ -1021,25 +1035,6 @@
       "title_hinglish": "Apple Pay bharata men lonch; ise kaise seta karen yahan bataya gaya hai",
       "summary_hinglish": "Apple ne aadhikarika taura para bharata men Apple Pay loncha kara diya hai। kanpani aba iPhone, iPad aura Apple Watch upayogakartaon ke lie apani surakshita aura nirbadha bhugatana pranali lati hai, jisamen Mac samarthana jalda hi aane vala hai। grahaka ise aasani se seta apa kara sakate hain aura aaja hi isaka upayoga kara sakate hain।",
       "category_hinglish": "Technology"
-    },
-    {
-      "id": "3a2b1e4428792a70",
-      "provider": "google_news_rss",
-      "providerId": "CBMi5wFBVV95cUxOT3hlbU8xeXpWN3RmR2s0Rk5FazBNZVlwcDdrbEF5RHkyQlN4M3pRNHJvYXQ4QWlPeHE4LVh2RS1DWW5WaC1IaGhaRTlqTDBkWGxsT0R5MkQ1bXQ1dk52UmFrd0VKZ1ZrcWlMYmVWZGY0eGlSQjlNYWVzSjFsa3NrVE02T3czblB6ZHZ6THRpenRZMndCdzVrWDJVWkNZclRwTlgyaDJMaHhnMm10NjlpLTRGQjVpQnVIVTg4NU9saE9fU2h6SG9HMEV5X1ItZWQ5R09idFlTVGI3Z0VqdUxHR2g4S09RMnfSAewBQVVfeXFMTkVPb00yVUhlWkFGTTBhSkRLM0FWdUtMSkxILUdyZWlPODR2T2V5SkNmTTU3T296U2VIMk1vVDlJVTJWaUkxUkxKVUM4aDd3ZVBEOW1qV1VTempHaWI3bDFzbmdVcnNLODRVbC1zbWVzVEpiQ1J3bTQyNGliT0JaNHZxX3Aya2VYbTVvNWZjTVBDRWtFWlJvZ0g0RzZUbFNkSldsNUVuZ0dvdXJvcF9YVkJOQXJPRGdMTlBWMlpyNVA2c1BVZjJsRlNjR0NHX2dvQWYxcVpqMUtCWHlVV3Q4a2k2b2FRVFkzN3lJd1g",
-      "title": "Sultanpur National Park gets AI-powered cameras to track birds, migration",
-      "summary": "Sultanpur National Park installed artificial intelligence-powered cameras on three watchtowers to identify bird species and track migration patterns. Implemented at a cost of one crore rupees, this new system monitors a wider wetland area and strengthens the department database today.",
-      "category": "National & Trending News",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/22/1600x900/Cities_Image_Ai_Generated_2_version_1790062416079_y1DW_1790062447010_L0sX_ed9b5eee-44ba-4f65-bb29-aee7b16f9ea7_THhB.png",
-      "source": "Hindustan Times",
-      "sourceUrl": "https://www.hindustantimes.com/cities/gurugram-news/sultanpur-national-park-gets-ai-powered-cameras-to-track-birds-migration-trends-101790736757188.html",
-      "publishedAt": "2026-09-30T02:53:00.000Z",
-      "fetchedAt": "2026-09-30T08:05:32.766Z",
-      "title_hi": "सुल्तानपुर राष्ट्रीय उद्यान को पक्षियों, प्रवासन पर नज़र रखने के लिए एआई-संचालित कैमरे मिले",
-      "summary_hi": "सुल्तानपुर नेशनल पार्क ने पक्षियों की प्रजातियों की पहचान करने और प्रवासन पैटर्न को ट्रैक करने के लिए तीन वॉच टावरों पर कृत्रिम बुद्धिमत्ता से संचालित कैमरे लगाए। एक करोड़ रुपये की लागत से कार्यान्वित यह नई प्रणाली आज व्यापक आर्द्रभूमि क्षेत्र की निगरानी करती है और विभाग के डेटाबेस को मजबूत करती है।",
-      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
-      "title_hinglish": "sultanapura rashtriya udyana ko pakshiyon, pravasana para najara rakhane ke lie eaaee-sanchalita kaimare mile",
-      "summary_hinglish": "sultanapura neshanala parka ne pakshiyon ki prajatiyon ki pahachana karane aura pravasana paitarna ko traika karane ke lie tina vocha tavaron para kritrima buddhimatta se sanchalita kaimare lagae। eka karoda rupaye ki lagata se karyanvita yaha naee pranali aaja vyapaka aardrabhumi kshetra ki nigarani karati hai aura vibhaga ke detabesa ko majabuta karati hai।",
-      "category_hinglish": "National aur Trending News"
     },
     {
       "id": "43334a6868de4576",
@@ -1082,18 +1077,18 @@
       "provider": "google_news_rss",
       "providerId": "CBMizAFBVV95cUxPZXJKRDJial8tNjEyXzJhc1JkOEtQblJpNHJYeWNGOVExcjV6UFNwX2djOUJqenQ2MklzMnBUWTRPM0Vfd1lucExQZVUzQV9Xby1HSWNQZjdEYnlZODlXUnFqUXBfWW1QUHFIUGlfb1plX1J2YjRhd1FYWlVHYlVxV3JWY0E1TElkemllaWdEWm1XRFBhSzRRT3AwQlBkRWNwWnkxZVNIdktFTno0MmgtNl9tZEpQX0hpVXU5Y3U3U3MtdkFqblhyWWxCQTjSAdIBQVVfeXFMTTFzMWFMZUVXa01OTFg1ZHNNSENtOXZEd25pWVlIaF85cENoZkxkWGhEdkZZcnVoaFJ0WktJWUFJdU54aTY0LTM4RGhVbFR0UzhKM0hFRGpZRmJRNi1WNmNDVHM1MXVDUVFfbzNXV3ktbnZMc04zaWhHZThQbWU2NXlBMHVXRl93X21jQThNSW90UHBnN0ZUWEJrcDhtSW9tTk8zdHZZT1VFaDdWT3d5WjdEc21LNUoxek9wemV2M08yVEdkdXJfaExOcll1aGNNX09B",
       "title": "In eye of political storm in Punjab, Gayatri Bishnoi straddles",
-      "summary": "Gayatri Bishnoi came into focus in Punjab after Congress MLA Sukhpal Singh Khaira alleged she was unauthorisedly occupying government accommodation in Chandigarh. Bishnoi rejected the allegation, stating she stays with her parents in a house allotted to minister Balbir Singh.",
+      "summary": "Gayatri Bishnoi came into focus in Punjab last week when Congress MLA Sukhpal Singh Khaira alleged she was unauthorisedly occupying a government accommodation in Chandigarh. Bishnoi denied the allegation, stating she stays with her parents in another house located there.",
       "category": "Politics & Government",
       "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/09/elangana-Chief-Minister-Revanth-Reddy-greets-as-he-arrives-at-The-Conclave-2026-organised-by-Pratidin-Media-Network-in-New-Delhi-on-Monday.-ANI-PhotoNaveen-Sharma-1.png",
       "source": "ThePrint",
       "sourceUrl": "https://theprint.in/politics/in-eye-of-political-storm-in-punjab-gayatri-bishnoi-straddles-worlds-of-media-fashion-politics/3057296/",
       "publishedAt": "2026-09-30T02:30:06.000Z",
-      "fetchedAt": "2026-09-30T07:58:32.361Z",
+      "fetchedAt": "2026-09-30T08:21:56.794Z",
       "title_hi": "पंजाब में सियासी तूफान को देखते हुए गायत्री बिश्नोई ने अपना कदम बढ़ाया",
-      "summary_hi": "गायत्री बिश्नोई पंजाब में तब चर्चा में आईं जब कांग्रेस विधायक सुखपाल सिंह खैरा ने आरोप लगाया कि वह अनाधिकृत रूप से चंडीगढ़ में सरकारी आवास पर कब्जा कर रही हैं। बिश्नोई ने आरोप को खारिज करते हुए कहा कि वह मंत्री बलबीर सिंह को आवंटित घर में अपने माता-पिता के साथ रहती है।",
+      "summary_hi": "गायत्री बिश्नोई पिछले हफ्ते पंजाब में तब चर्चा में आईं जब कांग्रेस विधायक सुखपाल सिंह खैरा ने आरोप लगाया कि वह अनाधिकृत रूप से चंडीगढ़ में एक सरकारी आवास पर कब्जा कर रही हैं। बिश्नोई ने आरोप से इनकार करते हुए कहा कि वह वहां स्थित दूसरे घर में अपने माता-पिता के साथ रहती है।",
       "category_hi": "राजनीति और सरकार",
       "title_hinglish": "panjaba men siyasi tuphana ko dekhate hue gayatri bishnoee ne apana kadama badhaाya",
-      "summary_hinglish": "gayatri bishnoee panjaba men taba charcha men aaeen jaba kangresa vidhayaka sukhapala sinha khaira ne aaropa lagaya ki vaha anadhikrita rupa se chandigadha men sarakari aavasa para kabja kara rahi hain। bishnoee ne aaropa ko kharija karate hue kaha ki vaha mantri balabira sinha ko aavantita ghara men apane mata-pita ke satha rahati hai।",
+      "summary_hinglish": "gayatri bishnoee pichhale haphte panjaba men taba charcha men aaeen jaba kangresa vidhayaka sukhapala sinha khaira ne aaropa lagaya ki vaha anadhikrita rupa se chandigadha men eka sarakari aavasa para kabja kara rahi hain। bishnoee ne aaropa se inakara karate hue kaha ki vaha vahan sthita dusare ghara men apane mata-pita ke satha rahati hai।",
       "category_hinglish": "Politics aur Government"
     },
     {
@@ -1163,10 +1158,12 @@
       "sourceUrl": "https://hr.economictimes.indiatimes.com/amp/news/industry/indias-ai-hiring-is-shifting-from-builders-to-deployers/134562963",
       "publishedAt": "2026-09-30T01:30:00.000Z",
       "fetchedAt": "2026-09-30T08:02:22.237Z",
-      "title_hi": "",
-      "summary_hi": "",
+      "title_hi": "भारत की एआई नियुक्तियाँ बिल्डरों से तैनातीकर्ताओं की ओर स्थानांतरित हो रही हैं",
+      "summary_hi": "जैसे-जैसे भारत में उद्यम कृत्रिम बुद्धिमत्ता को पायलट से उत्पादन की ओर ले जा रहे हैं, भर्ती की मांग कार्यान्वयन विशेषज्ञों, एकीकरण इंजीनियरों और आगे तैनात इंजीनियरों की ओर बढ़ रही है जो आज कई अलग-अलग आधुनिक उद्यम वातावरणों में व्यावसायिक वर्कफ़्लो के साथ नई तकनीक को सफलतापूर्वक जोड़ सकते हैं।",
       "category_hi": "टेक्नोलॉजी",
-      "category_hinglish": "Technology"
+      "category_hinglish": "Technology",
+      "title_hinglish": "bharata ki eaaee niyuktiyan bildaron se tainatikartaon ki ora sthanantarita ho rahi hain",
+      "summary_hinglish": "jaise-jaise bharata men udyama kritrima buddhimatta ko payalata se utpadana ki ora le ja rahe hain, bharti ki manga karyanvayana visheshajnyon, ekikarana injiniyaron aura aage tainata injiniyaron ki ora badha rahi hai jo aaja kaee alaga-alaga aadhunika udyama vatavaranon men vyavasayika varkaphalo ke satha naee takanika ko saphalatapurvaka joda sakate hain।"
     },
     {
       "id": "d4abed15ce2b3b3b",
@@ -1292,10 +1289,12 @@
       "sourceUrl": "https://therahnuma.com/aiib-can-expand-financing-to-ai-msme-and-skilling-sectors-in-india-fm-sitharaman/",
       "publishedAt": "2026-09-29T22:23:37.000Z",
       "fetchedAt": "2026-09-30T08:03:37.332Z",
-      "title_hi": "",
-      "summary_hi": "",
+      "title_hi": "एआईआईबी एआई, एमएसएमई और कौशल क्षेत्रों में वित्तपोषण का विस्तार कर सकता है",
+      "summary_hi": "वित्त मंत्री निर्मला सीतारमण ने दोहा कतर में एक बैठक के दौरान कहा कि एशियन इंफ्रास्ट्रक्चर इन्वेस्टमेंट बैंक भारत में कृत्रिम बुद्धिमत्ता, सूक्ष्म, लघु और मध्यम उद्यमों और कौशल पर ध्यान केंद्रित करने वाले नए बुनियादी ढांचे को शामिल करने के लिए भौतिक बुनियादी ढांचे के वित्तपोषण से परे विस्तार कर सकता है।",
       "category_hi": "बिज़नेस और फाइनेंस",
-      "category_hinglish": "Business aur Finance"
+      "category_hinglish": "Business aur Finance",
+      "title_hinglish": "eaaeeaaeebi eaaee, emaesaemaee aura kaushala kshetron men vittaposhana ka vistara kara sakata hai",
+      "summary_hinglish": "vitta mantri nirmala sitaramana ne doha katara men eka baithaka ke daurana kaha ki eshiyana inphrastrakchara investamenta bainka bharata men kritrima buddhimatt, sukshm, laghu aura madhyama udyamon aura kaushala para dhyana kendrita karane vale nae buniyadi dhanche ko shamila karane ke lie bhautika buniyadi dhanche ke vittaposhana se pare vistara kara sakata hai।"
     },
     {
       "id": "38c7442445011dbe",
@@ -1668,10 +1667,12 @@
       "sourceUrl": "https://www.indiatoday.in/entertainment/video/koodiyattam-artiste-kapila-venu-talks-about-her-unexpected-tryst-with-cinema-3006109-2026-09-29",
       "publishedAt": "2026-09-29T17:46:20.000Z",
       "fetchedAt": "2026-09-30T08:01:42.769Z",
-      "title_hi": "",
-      "summary_hi": "",
+      "title_hi": "कूडियाट्टम कलाकार कपिला वेणु ने सिनेमा के साथ अपने अप्रत्याशित जुड़ाव के बारे में बात की - इंडिया टुडे",
+      "summary_hi": "कूडियाट्टम कलाकार कपिला वेणु ने कोच्चि में इंडिया टुडे कॉन्क्लेव में सिनेमा में अपनी अप्रत्याशित अभिनय यात्रा पर चर्चा की। एक श्रीलंकाई फिल्म निर्माता द्वारा महामारी के दौरान इंस्टाग्राम पर खोजे जाने पर, उन्होंने करियर की तलाश किए बिना तमिल फिल्म नीलिरा में अभिनय किया।",
       "category_hi": "मनोरंजन",
-      "category_hinglish": "Entertainment"
+      "category_hinglish": "Entertainment",
+      "title_hinglish": "kudiyattama kalakara kapila venu ne sinema ke satha apane apratyashita judaाva ke bare men bata ki - indiya tude",
+      "summary_hinglish": "kudiyattama kalakara kapila venu ne kochchi men indiya tude konkleva men sinema men apani apratyashita abhinaya yatra para charcha ki। eka shrilankaee philma nirmata dvara mahamari ke daurana instagrama para khoje jane par, unhonne kariyara ki talasha kie bina tamila philma nilira men abhinaya kiya।"
     },
     {
       "id": "8ab750f456c6c31f",
@@ -3280,19 +3281,19 @@
       "provider": "google_news_rss",
       "providerId": "CBMirAFBVV95cUxPbWY3NDR1dXVaa0pMLTJGM0JlLV9QdzJhTzVYUmNSVkxYSktmZEUyQmRLT3ZjLXlBUU0wbGs1S3dSeU1ncFhIME5CNVo4VngtYmhxNEJBd0NRV2xzOVZROTBFLVZ6bE9weDVvVW1uQzlVOU5XOXlPaGQ1S0RrMWFKMG9YdF9adXBZVGJGdjRfVndGbjdpSHVscXN2Wi01MFZQN0lpd3liWmNBM3cy0gG6AUFVX3lxTFBkNjJMT3ZNdWxKaWdSLUVtM21Gc2dySWdMTzBMWGdFemgzaDBHWDFVUXJOYnpDbFpWelNIdWFfcmVrVGN4THJ3M0t2SDBGNHUtRHpYMVphbFZUNUxITGJBNXRhdk5wY3llNGV2NFRXRFY3eVpiT1NtUnZIUGZwUnBkM0V4cHdmanJJeEtJYmhzM2R2cm04VmZhNk4welhLSVBlUVVXYkZWUnJvakhpVW4tcHJmM0NKLTNiZw",
       "title": "Who Is Divya Mittal? Former IAS Officer Who Quit IAS",
-      "summary": "Former IAS officer Divya Mittal announced on Tuesday she will enter politics in Uttar Pradesh without joining a political party immediately. The 2013-batch officer resigned in August after thirteen years of government service to work directly with people across India.",
+      "summary": "Former IAS officer Divya Mittal has announced her entry into politics in Uttar Pradesh. The 2013-batch officer resigned in August after 13 years of service and stated in a video message that she will not join any political party initially.",
       "category": "Politics & Government",
       "image": "https://cf-images.assettype.com/outlookindia/2026-09-29/0vgv52wh/IAS-Divya-MIttal?w=1200&amp;ar=40%3A21&amp;auto=format%2Ccompress&amp;ogImage=true&amp;mode=crop&amp;enlarge=true&amp;overlay=false&amp;overlay_position=bottom&amp;overlay_width=100",
       "source": "Outlook India",
       "sourceUrl": "https://www.outlookindia.com/elections/who-is-divya-mittal-former-ias-officer-who-quit-ias-to-enter-politics",
       "publishedAt": "2026-09-29T12:33:44.000Z",
-      "fetchedAt": "2026-09-30T07:42:10.768Z",
+      "fetchedAt": "2026-09-30T08:22:05.457Z",
       "title_hi": "कौन हैं दिव्या मित्तल? पूर्व आईएएस अधिकारी जिन्होंने आईएएस छोड़ दिया",
-      "summary_hi": "पूर्व आईएएस अधिकारी दिव्या मित्तल ने मंगलवार को घोषणा की कि वह तुरंत किसी राजनीतिक दल में शामिल हुए बिना उत्तर प्रदेश की राजनीति में प्रवेश करेंगी। 2013-बैच के अधिकारी ने पूरे भारत में लोगों के साथ सीधे काम करने के लिए तेरह साल की सरकारी सेवा के बाद अगस्त में इस्तीफा दे दिया।",
+      "summary_hi": "पूर्व आईएएस अधिकारी दिव्या मित्तल ने उत्तर प्रदेश की राजनीति में उतरने का ऐलान कर दिया है. 2013 बैच की अधिकारी ने 13 साल की सेवा के बाद अगस्त में इस्तीफा दे दिया और एक वीडियो संदेश में कहा कि वह शुरुआत में किसी भी राजनीतिक दल में शामिल नहीं होंगी।",
       "category_hi": "राजनीति और सरकार",
-      "category_hinglish": "Politics aur Government",
       "title_hinglish": "kauna hain divya mittal? purva aaeeeesa adhikari jinhonne aaeeeesa chhoda diya",
-      "summary_hinglish": "purva aaeeeesa adhikari divya mittala ne mangalavara ko ghoshana ki ki vaha turanta kisi rajanitika dala men shamila hue bina uttara pradesha ki rajaniti men pravesha karengi। 2013-baicha ke adhikari ne pure bharata men logon ke satha sidhe kama karane ke lie teraha sala ki sarakari seva ke bada agasta men istipha de diya।"
+      "summary_hinglish": "purva aaeeeesa adhikari divya mittala ne uttara pradesha ki rajaniti men utarane ka ailana kara diya hai. 2013 baicha ki adhikari ne 13 sala ki seva ke bada agasta men istipha de diya aura eka vidiyo sandesha men kaha ki vaha shuruaata men kisi bhi rajanitika dala men shamila nahin hongi।",
+      "category_hinglish": "Politics aur Government"
     },
     {
       "id": "58d27f9cc1d2eedb",
@@ -3805,10 +3806,12 @@
       "sourceUrl": "https://www.yahoo.com/news/us/articles/store-robbery-exposed-green-card-111011924.html",
       "publishedAt": "2026-09-29T11:10:11.000Z",
       "fetchedAt": "2026-09-30T07:02:01.071Z",
-      "title_hi": "",
-      "summary_hi": "",
+      "title_hi": "ग्रीन कार्ड योजना के रूप में स्टोर डकैती का पर्दाफाश, क्लर्क को भारत निर्वासित किया गया",
+      "summary_hi": "दक्षिण कैरोलिना सुविधा स्टोर के मालिक बीरेनकुमार रमेशभाई पटेल ने फर्जी डकैती की साजिश रचने के लिए संघीय साजिश के आरोप में दोषी ठहराया। अभियोजकों ने कहा कि इस योजना का उद्देश्य एक भारतीय क्लर्क को धोखाधड़ी से यू वीज़ा और स्थायी निवास ग्रीन कार्ड प्राप्त करने में मदद करना था।",
       "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "category_hinglish": "Crime aur Breaking News"
+      "category_hinglish": "Crime aur Breaking News",
+      "title_hinglish": "grina karda yojana ke rupa men stora dakaiti ka pardaphash, klarka ko bharata nirvasita kiya gaya",
+      "summary_hinglish": "dakshina kairolina suvidha stora ke malika birenakumara rameshabhaee patela ne pharji dakaiti ki sajisha rachane ke lie sanghiya sajisha ke aaropa men doshi thaharaya। abhiyojakon ne kaha ki isa yojana ka uddeshya eka bharatiya klarka ko dhokhadhadaी se yu vijaा aura sthayi nivasa grina karda prapta karane men madada karana tha।"
     },
     {
       "id": "c0c09c42fba16131",
@@ -4635,10 +4638,12 @@
       "sourceUrl": "https://newsable.asianetnews.com/india/telangana-crime-65-year-old-woman-thrashed-tied-to-tree-over-black-magic-video-articleshow-fzptlwq",
       "publishedAt": "2026-09-29T09:05:00.000Z",
       "fetchedAt": "2026-09-30T07:02:59.141Z",
-      "title_hi": "",
-      "summary_hi": "",
+      "title_hi": "तेलंगाना शॉकर: 65 वर्षीय महिला को पीटा गया, 'काले रंग' के लिए पेड़ से बांध दिया गया",
+      "summary_hi": "तेलंगाना के रंगा रेड्डी जिले में, एक पैंसठ वर्षीय महिला और उसके परिवार पर कथित तौर पर काला जादू करने का आरोप लगाते हुए पड़ोसियों ने उनके साथ मारपीट की और उन्हें नीम के पेड़ से बांध दिया। वायरल वीडियो से घटना का खुलासा होने के बाद पुलिस ने चौदह ग्रामीणों के खिलाफ मामला दर्ज किया है।",
       "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "category_hinglish": "Crime aur Breaking News"
+      "category_hinglish": "Crime aur Breaking News",
+      "title_hinglish": "telangana shokar: 65 varshiya mahila ko pita gay, 'kale ranga' ke lie peda se bandha diya gaya",
+      "summary_hinglish": "telangana ke ranga reddi jile men, eka painsatha varshiya mahila aura usake parivara para kathita taura para kala jadu karane ka aaropa lagate hue padaोsiyon ne unake satha marapita ki aura unhen nima ke peda se bandha diya। vayarala vidiyo se ghatana ka khulasa hone ke bada pulisa ne chaudaha graminon ke khilapha mamala darja kiya hai।"
     }
   ]
 }
