@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-09-30T09:43:07.925Z",
+  "updatedAt": "2026-09-30T09:59:53.543Z",
   "count": 249,
   "articles": [
+    {
+      "id": "eda23631b05525fc",
+      "provider": "google_news_rss",
+      "providerId": "CBMiwgFBVV95cUxOZjVpbEhiLXlhQ0xpMnNJcVJkZ3RSX1VjZ0xDZDdrNTV0REstSGlTeWhsQUxBSjFYWVdyNDlITnBCS3dkekJOd0pzbjZfZUFIT2t4R2lUMW1jOFJJdUJvR1ZPZ18yekJnQU91TXF4aGJDSGJrNDBFYlZTOExBUWs5eDVxZ0d3dFRTTXF1NGthSHpDOVVBUzVNSmk1WWVCVEZfeGVmekh4LTJQU3MyZ1ZZdzc2LUNYd2Rpb2s0Z0VqMFVWd9IBxwFBVV95cUxPdEhQcTRFczlyeG9JUXFIZklqY1k4cmc4eU9DNFQ0ODdOeDdybkN2aU5RV0JOZE5GNTEyUWFLRjgzTDRvV0VWQ3RjSklrS2xrcjFpbWVqbnJNYVZzWlJnb2E2VV9xUkpKQWhBRWMxMkVmeUdOZzU1RUNsUzFwTnFhbnNRbEJWVmcxbEU4VHYzUS1ZdHpkbXVQWTB1Y25HUTJGRXlSTnFjS2pCWEZtTEdRV2ZVU2lYNktMX0ZkRmM1eEN4YU1Sa0RZ",
+      "title": "Hypersonic weapons, quantum tech: What India needs for future wars",
+      "summary": "At the India Today Conclave South 2026, G. Satheesh Reddy stated that India must develop hypersonic weapons, quantum technology, advanced manufacturing, and propulsion systems. He also noted that indigenous content in armed forces equipment has surged to seventy percent today.",
+      "category": "Technology",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/video/202609/defence-startups-303828479-16x9_0.jpeg?VersionId=CbzaGvFcsk.96YudoTK6DblzczOJUfqV",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/business/video/hypersonic-weapons-quantum-tech-what-india-needs-for-future-wars-3006434-2026-09-30",
+      "publishedAt": "2026-09-30T08:36:56.000Z",
+      "fetchedAt": "2026-09-30T09:57:16.544Z",
+      "title_hi": "हाइपरसोनिक हथियार, क्वांटम तकनीक: भारत को भविष्य के युद्धों के लिए क्या चाहिए",
+      "summary_hi": "इंडिया टुडे कॉन्क्लेव साउथ 2026 में जी.सतीश रेड्डी ने कहा कि भारत को हाइपरसोनिक हथियार, क्वांटम तकनीक, उन्नत विनिर्माण और प्रणोदन प्रणाली विकसित करनी चाहिए। उन्होंने यह भी कहा कि सशस्त्र बलों के उपकरणों में स्वदेशी सामग्री आज सत्तर प्रतिशत तक बढ़ गई है।",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "haiparasonika hathiyar, kvantama takanik: bharata ko bhavishya ke yuddhon ke lie kya chahie",
+      "summary_hinglish": "indiya tude konkleva sautha 2026 men ji.satisha reddi ne kaha ki bharata ko haiparasonika hathiyar, kvantama takanik, unnata vinirmana aura pranodana pranali vikasita karani chahie। unhonne yaha bhi kaha ki sashastra balon ke upakaranon men svadeshi samagri aaja sattara pratishata taka badha gaee hai।",
+      "category_hinglish": "Technology"
+    },
     {
       "id": "4b0318f88dfc4117",
       "provider": "google_news_rss",
@@ -20,25 +39,6 @@
       "title_hinglish": "sipiema kerala ka pramukha hindu sangathana hai: bijepi neta ne bataya kyon?",
       "summary_hinglish": "bijepi neta ke.es. radhakrishnana ne kaha ki unaki parti kerala men vistara karane ke lie sangharsha kara rahi hai kyonki kamyunista aandolana aitihasika rupa se pramukha hindu rajanitika takata ke rupa men kama kara raha hai, usa vishishta rajanitika sthana para kabja kara raha hai aura rajya gathabandhana aura matadana paitarna ko achchhi taraha se aakara de raha hai।",
       "category_hinglish": "Politics aur Government"
-    },
-    {
-      "id": "38b7a8546db6468d",
-      "provider": "google_news_rss",
-      "providerId": "CBMixAFBVV95cUxQUXBjdVhtMU9VcHBxaHdRd3RWWjg5UVY2djIzd1d4SVJLRkp0d3Q0Ri1RdklyTWVDQVRSSnpYLUhIM3hhQUZzbmtfUjc0U1p5akNNbENsdFJRSnNJUXp0Z1hrYjNVQmpfUmxyZWYzeVQ5TEFkUTdOQTNQa1hjaS1iVUM5U1ZKOUFCbTBCTElDc1liSmRzUlY0OWU1aC1KUjFMRnN0SjFtWkdhMFRGUjZqbnNkb015YU5IN2J3dnE3N3Bvbl9x",
-      "title": "India, France Review Proposed EPR Technology Deployment",
-      "summary": "Senior officials from India and France met on Friday to review the proposed deployment of EPR technology and nuclear sector regulatory reforms. They also discussed pumped hydro storage projects and opportunities to expand energy infrastructure collaboration between the two nations.",
-      "category": "Technology",
-      "image": "https://www.constructionworld.in/assets/uploads/s_img_40217_1790753125.webp",
-      "source": "Construction World",
-      "sourceUrl": "https://www.constructionworld.in/policy-updates-and-economic-news/india-france-review-proposed-epr-technology-deployment/97965",
-      "publishedAt": "2026-09-30T07:27:12.000Z",
-      "fetchedAt": "2026-09-30T07:45:09.481Z",
-      "title_hi": "भारत, फ्रांस ने प्रस्तावित ईपीआर प्रौद्योगिकी परिनियोजन की समीक्षा की",
-      "summary_hi": "भारत और फ्रांस के वरिष्ठ अधिकारियों ने ईपीआर प्रौद्योगिकी की प्रस्तावित तैनाती और परमाणु क्षेत्र नियामक सुधारों की समीक्षा के लिए शुक्रवार को मुलाकात की। उन्होंने पंपयुक्त पनबिजली भंडारण परियोजनाओं और दोनों देशों के बीच ऊर्जा बुनियादी ढांचे के सहयोग का विस्तार करने के अवसरों पर भी चर्चा की।",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "bharat, phransa ne prastavita eepiaara praudyogiki pariniyojana ki samiksha ki",
-      "summary_hinglish": "bharata aura phransa ke varishtha adhikariyon ne eepiaara praudyogiki ki prastavita tainati aura paramanu kshetra niyamaka sudharon ki samiksha ke lie shukravara ko mulakata ki। unhonne panpayukta panabijali bhandarana pariyojanaon aura donon deshon ke bicha oorja buniyadi dhanche ke sahayoga ka vistara karane ke avasaron para bhi charcha ki।",
-      "category_hinglish": "Technology"
     },
     {
       "id": "876d61f9f372716c",
@@ -60,6 +60,25 @@
       "category_hinglish": "Entertainment"
     },
     {
+      "id": "38b7a8546db6468d",
+      "provider": "google_news_rss",
+      "providerId": "CBMixAFBVV95cUxQUXBjdVhtMU9VcHBxaHdRd3RWWjg5UVY2djIzd1d4SVJLRkp0d3Q0Ri1RdklyTWVDQVRSSnpYLUhIM3hhQUZzbmtfUjc0U1p5akNNbENsdFJRSnNJUXp0Z1hrYjNVQmpfUmxyZWYzeVQ5TEFkUTdOQTNQa1hjaS1iVUM5U1ZKOUFCbTBCTElDc1liSmRzUlY0OWU1aC1KUjFMRnN0SjFtWkdhMFRGUjZqbnNkb015YU5IN2J3dnE3N3Bvbl9x",
+      "title": "India, France Review Proposed EPR Technology Deployment",
+      "summary": "Senior officials from India and France met on Friday to review the proposed deployment of EPR technology and nuclear sector regulatory reforms. They also discussed pumped hydro storage projects and opportunities to expand energy infrastructure collaboration between the two nations.",
+      "category": "Technology",
+      "image": "https://www.constructionworld.in/assets/uploads/s_img_40217_1790753125.webp",
+      "source": "Construction World",
+      "sourceUrl": "https://www.constructionworld.in/policy-updates-and-economic-news/india-france-review-proposed-epr-technology-deployment/97965",
+      "publishedAt": "2026-09-30T07:27:12.000Z",
+      "fetchedAt": "2026-09-30T07:45:09.481Z",
+      "title_hi": "भारत, फ्रांस ने प्रस्तावित ईपीआर प्रौद्योगिकी परिनियोजन की समीक्षा की",
+      "summary_hi": "भारत और फ्रांस के वरिष्ठ अधिकारियों ने ईपीआर प्रौद्योगिकी की प्रस्तावित तैनाती और परमाणु क्षेत्र नियामक सुधारों की समीक्षा के लिए शुक्रवार को मुलाकात की। उन्होंने पंपयुक्त पनबिजली भंडारण परियोजनाओं और दोनों देशों के बीच ऊर्जा बुनियादी ढांचे के सहयोग का विस्तार करने के अवसरों पर भी चर्चा की।",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "bharat, phransa ne prastavita eepiaara praudyogiki pariniyojana ki samiksha ki",
+      "summary_hinglish": "bharata aura phransa ke varishtha adhikariyon ne eepiaara praudyogiki ki prastavita tainati aura paramanu kshetra niyamaka sudharon ki samiksha ke lie shukravara ko mulakata ki। unhonne panpayukta panabijali bhandarana pariyojanaon aura donon deshon ke bicha oorja buniyadi dhanche ke sahayoga ka vistara karane ke avasaron para bhi charcha ki।",
+      "category_hinglish": "Technology"
+    },
+    {
       "id": "a079e6df7015ef43",
       "provider": "google_news_rss",
       "providerId": "CBMi2AFBVV95cUxORWtCZjQ5TE1TNDhBNG1BTUR1amxDLUdFSnF2aTVWZWoxREZlNnhWWEtuc3ZUZzkzOTdGcGkwUHlXTmlPdk14T3FEYjJxMkItSUd4cVVyWXdudFdRWGt2ekJVbHFjbXVYdmpXR3JMdmh5cDBJbFR6T2tzdmZHeDBaU2pSbkF0Tm9xRklHZnV6UUZXVkFzZDBxbG5RY01qR0lVdUd5SE1oMHlvSURTeV9wdTZlZ1hDODBIZjB5LTV4N25aOFJzbnVQNDZsTEl0NzV1V0hJU3Q2TVbSAd4BQVVfeXFMTTlkaVRvNlVLVlJuSTc4REhEelB3c0VIaXlodzFOWTZRYjFpVXJJLXk3TFI2TzluSm5lbVBPTFN3T1kycEZWN3drMUhLTERpM2RxZktmQjNzZ3lZMHM4RTZNamJSeDd3c1pzX1dVbUdpb1IzT1pYOFdVeGF6am1QaXFDZTFUNHV3Q0RiQ25DVXlfbDVlZUppTDRlR21mcjNGQ3hyV1ZZMlhST3pxdjRUMDBMQlVMNGpZSXQ0NXVldnZtbkZkUGlCS0lQZzlKOVVVZ1FhX2MwM0ppaEQ3VW5R",
@@ -79,25 +98,6 @@
       "summary_hinglish": "doradaisha haidarabada men eka nae vaishvika praudyogiki kendra ke madhyama se agale do varshon men bharata men 3,000 naukariyan paida kareg, jo pune ke bada desha men isaka dusara takaniki karyalaya hai। kendra shuru men grahaka sahayata aura prashasanika karyon para dhyana kendrita karega।"
     },
     {
-      "id": "9913e3aca5e6b1b5",
-      "provider": "google_news_rss",
-      "providerId": "CBMikAFBVV95cUxNa3lOTGY4a0xqSXZqQ0tRUE02UU5jY1MyMHJ3a01LcDRYUUNYOW1Xak05aHJQRHRYenJrM0pzVlZrQlFvdW5XZV9lZ3JwRmpqb3MzVXJ3ZWw1eUZaajF6NlduVWpoeG5KMndjX1JCcFR6aWlqSE4xNTFodnF2Z1hqNEhZUm56VVJmWmxlbXhhakI",
-      "title": "The ‘AI IP deficit’: Will India become the world’s largest",
-      "summary": "On September 25, 2026, India’s Chief Economic Adviser, V. Anantha Nageswaran, asked whether India will actually own enough of the artificial intelligence it uses, because the country may soon become one of the world's largest consumers and deployers of AI.",
-      "category": "Technology",
-      "image": "https://marksmendaily.com/wp-content/uploads/2026/09/Marksmen-Daily-2026-09-30T123257.951-1000x600.jpg",
-      "source": "Marksmen Daily",
-      "sourceUrl": "https://marksmendaily.com/technology/indias-ai-ip-deficit-will-it-own-its-intelligence/",
-      "publishedAt": "2026-09-30T07:18:54.000Z",
-      "fetchedAt": "2026-09-30T07:27:36.719Z",
-      "title_hi": "'एआई आईपी घाटा': क्या भारत दुनिया का सबसे बड़ा देश बन जाएगा?",
-      "summary_hi": "25 सितंबर, 2026 को, भारत के मुख्य आर्थिक सलाहकार, वी. अनंत नागेश्वरन ने पूछा कि क्या भारत वास्तव में उपयोग की जाने वाली पर्याप्त कृत्रिम बुद्धिमत्ता का मालिक होगा, क्योंकि देश जल्द ही एआई के दुनिया के सबसे बड़े उपभोक्ताओं और तैनातीकर्ताओं में से एक बन सकता है।",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "'eaaee aaeepi ghata': kya bharata duniya ka sabase badaा desha bana jaeg?",
-      "summary_hinglish": "25 sitanbar, 2026 ko, bharata ke mukhya aarthika salahakar, vi. ananta nageshvarana ne puchha ki kya bharata vastava men upayoga ki jane vali paryapta kritrima buddhimatta ka malika hog, kyonki desha jalda hi eaaee ke duniya ke sabase badaे upabhoktaon aura tainatikartaon men se eka bana sakata hai।",
-      "category_hinglish": "Technology"
-    },
-    {
       "id": "0173ef27b29a5c68",
       "provider": "google_news_rss",
       "providerId": "CBMi1wFBVV95cUxOUDJtaU9MQkk3WVV3OUFQUUZjWFRPdzNORE9DYThQbFljRFpVaHQ2S0Y0Y1pVUWRWZ0VnWlNqVVlUX0Y5dEFneHl5S2RycnZrb18xdVM5a2llenF6ZV9YUS1ZLXZrYUxVRXpoN3JTOEtYVGNTYUxGSV9NUFZlQmFaemk2TXp0aTNVeU9Wd0hIbndicFdsaFFCR1ZnT3RUUXB5X2J3Sy1GRTdFdlB0Q1c0Mnlub2dxU2RLTGxHRlh0bHRGRGNzcU0yXy1sRmpLOWpRU1htVEZ0Z9IB3AFBVV95cUxOeU0xcnd4T2xicGt1aExLY2t2UFAzT2IyVHRtWGxKTF8zMlFMNGdUeE9HNWxkMzYwUll6ZGd5dUUyci1MclY3dU1YaGZVempWMlNtUkZiMUhlbC1aR3plaGdKLTNTVlN3QTJWcDI1MThXUDhzeXprVEFiYTFfU1gydUlTaWV4eWVsYmJYemJqZ2JjTHZkZnJKWnd5NU03NXdDejVFaHUzV2NyXzZ5MDB4OTIyTzFBSHRWTmhid09tYkFhMk9SRXNadnhTSGxFbnFMOWxUaU92VU1sbk1G",
@@ -115,6 +115,25 @@
       "category_hinglish": "Crime aur Breaking News",
       "title_hinglish": "vidhana parishada chunava se pahale matabhedon para kabu pane ke lie enadie kadama utha raha hai",
       "summary_hinglish": "bihara men enadie aatha vidhana parishada siton ke lie 23 aktubara ko hone vale chunava se pahale apane rainkon ke bhitara matabhedon ko niyantrita karane ke lie aage badha raha hai, elajepi (aaravi) pramukha chiraga pasavana ne mukhya chunava aayukta jnyanesha kumara aura jedi (yu) netritva ki apani aalochana ko vapasa le liya hai aura mokama vidhayaka ananta sinha aura parti pravakta niraja kumara ke bicha vivada ko sulajhane ke lie karravaee ka sanketa diya hai।"
+    },
+    {
+      "id": "9913e3aca5e6b1b5",
+      "provider": "google_news_rss",
+      "providerId": "CBMikAFBVV95cUxNa3lOTGY4a0xqSXZqQ0tRUE02UU5jY1MyMHJ3a01LcDRYUUNYOW1Xak05aHJQRHRYenJrM0pzVlZrQlFvdW5XZV9lZ3JwRmpqb3MzVXJ3ZWw1eUZaajF6NlduVWpoeG5KMndjX1JCcFR6aWlqSE4xNTFodnF2Z1hqNEhZUm56VVJmWmxlbXhhakI",
+      "title": "The ‘AI IP deficit’: Will India become the world’s largest",
+      "summary": "On September 25, 2026, India’s Chief Economic Adviser, V. Anantha Nageswaran, asked whether India will actually own enough of the artificial intelligence it uses, because the country may soon become one of the world's largest consumers and deployers of AI.",
+      "category": "Technology",
+      "image": "https://marksmendaily.com/wp-content/uploads/2026/09/Marksmen-Daily-2026-09-30T123257.951-1000x600.jpg",
+      "source": "Marksmen Daily",
+      "sourceUrl": "https://marksmendaily.com/technology/indias-ai-ip-deficit-will-it-own-its-intelligence/",
+      "publishedAt": "2026-09-30T07:18:54.000Z",
+      "fetchedAt": "2026-09-30T07:27:36.719Z",
+      "title_hi": "'एआई आईपी घाटा': क्या भारत दुनिया का सबसे बड़ा देश बन जाएगा?",
+      "summary_hi": "25 सितंबर, 2026 को, भारत के मुख्य आर्थिक सलाहकार, वी. अनंत नागेश्वरन ने पूछा कि क्या भारत वास्तव में उपयोग की जाने वाली पर्याप्त कृत्रिम बुद्धिमत्ता का मालिक होगा, क्योंकि देश जल्द ही एआई के दुनिया के सबसे बड़े उपभोक्ताओं और तैनातीकर्ताओं में से एक बन सकता है।",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "'eaaee aaeepi ghata': kya bharata duniya ka sabase badaा desha bana jaeg?",
+      "summary_hinglish": "25 sitanbar, 2026 ko, bharata ke mukhya aarthika salahakar, vi. ananta nageshvarana ne puchha ki kya bharata vastava men upayoga ki jane vali paryapta kritrima buddhimatta ka malika hog, kyonki desha jalda hi eaaee ke duniya ke sabase badaे upabhoktaon aura tainatikartaon men se eka bana sakata hai।",
+      "category_hinglish": "Technology"
     },
     {
       "id": "9ea5403e26c4a9b1",
@@ -155,6 +174,23 @@
       "category_hinglish": "Business aur Finance"
     },
     {
+      "id": "efc546612ceba7be",
+      "title": "BJP announces candidates for four seats in Bihar legislative council polls",
+      "summary": "BJP has announced its candidates for four legislative council seats in Bihar ahead of elections. Three current MLCs will seek re-election from their respective constituencies following the party",
+      "category": "Politics & Government",
+      "image": "https://img.etimg.com/thumb/msid-134562969,width-1200,height-630,imgsize-113268,overlay-economictimes/articleshow.jpg",
+      "source": "The Economic Times",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/politics-and-nation/bjp-unveils-candidates-for-bihar-legislative-council-elections-key-details-and-dates-revealed/articleshow/134562635.cms?from=mdr",
+      "publishedAt": "2026-09-29T10:12:14.000Z",
+      "fetchedAt": "2026-09-29T10:19:47.993Z",
+      "title_hi": "भाजपा ने बिहार विधान परिषद चुनाव के लिए चार सीटों के लिए उम्मीदवारों की घोषणा की",
+      "summary_hi": "बीजेपी ने चुनाव से पहले बिहार की चार विधान परिषद सीटों के लिए अपने उम्मीदवारों की घोषणा कर दी है. तीन मौजूदा एमएलसी पार्टी का अनुसरण करते हुए अपने-अपने निर्वाचन क्षेत्रों से फिर से चुनाव लड़ेंगे",
+      "category_hi": "राजनीति और सरकार",
+      "category_hinglish": "Politics aur Government",
+      "title_hinglish": "bhajapa ne bihara vidhana parishada chunava ke lie chara siton ke lie ummidavaron ki ghoshana ki",
+      "summary_hinglish": "bijepi ne chunava se pahale bihara ki chara vidhana parishada siton ke lie apane ummidavaron ki ghoshana kara di hai. tina maujuda emaelasi parti ka anusarana karate hue apane-apane nirvachana kshetron se phira se chunava ladaेnge"
+    },
+    {
       "id": "968a13d74a31da59",
       "provider": "google_news_rss",
       "providerId": "CBMi0gFBVV95cUxQV2VnV0REVWd6cmZEVVFDbklSZnN4OE5JSjA5V3FhY3B2c0haMllnSHZSdzFyRENPZEcwMzR2UW0zOC1XZ0szS0pMTVlDZEdMTl8wX0hwRWlMMmUyQkFsVGhaelFzV3pmRzZRQ25IYWNORmJlSVRzWjBxVU5ORkh0NVNocDhDd1lIbGRZdXE1dnFNS1laMjVLUFhINHJFbTdKWEh1QTBkc2VIT2xnMjlzd2ozM0wteW54dmFibFl4MTVlOFdMa2k4bHdQWGNJMVRMREHSAdcBQVVfeXFMT0F3WXZDcXhORXk1VEkwRUl6ZXZ5djdWMGZUSnF3VF8tU3BOVWExV1M0aXhfSUJ1eFBpS3pPTmtHamdHU1lGUENOSTYyOG5RcTV1Q1ZhMTZaRDhneWpDc3BpbWhpVS1sRXpBclZkc0hRVGFIWnJvWnROZkg0M2pleWJPS1huSjBId3diNlh3eFZLUHBKWVJEOHVTNHFCOGdBNll5SU5lcDhqZzljXzVxc0FSUHNpWTlGUDJDUmIzOG5jTjNkWl83Q0dSaUtteDVEcnk5SWFCMkk",
@@ -172,23 +208,6 @@
       "category_hinglish": "Technology",
       "title_hinglish": "khandita sadaka deta bharata men ADAS apanane ko dhima kara sakata hai: yahan",
       "summary_hinglish": "yahan teknolojija ne kaha ki khandita sadaka deta bharata men unnata draivinga sahayata pranaliyon ko apanane ko dhima kara sakata hai। kanpani ne nota kiya ki sarakara dvara aayojita gati sim, lena vivarana aura sadaka chihna deta taka vyapaka pahuncha se ina draivinga anuprayogon ko skela karane men madada milegi।"
-    },
-    {
-      "id": "efc546612ceba7be",
-      "title": "BJP announces candidates for four seats in Bihar legislative council polls",
-      "summary": "BJP has announced its candidates for four legislative council seats in Bihar ahead of elections. Three current MLCs will seek re-election from their respective constituencies following the party",
-      "category": "Politics & Government",
-      "image": "https://img.etimg.com/thumb/msid-134562969,width-1200,height-630,imgsize-113268,overlay-economictimes/articleshow.jpg",
-      "source": "The Economic Times",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/politics-and-nation/bjp-unveils-candidates-for-bihar-legislative-council-elections-key-details-and-dates-revealed/articleshow/134562635.cms?from=mdr",
-      "publishedAt": "2026-09-29T10:12:14.000Z",
-      "fetchedAt": "2026-09-29T10:19:47.993Z",
-      "title_hi": "भाजपा ने बिहार विधान परिषद चुनाव के लिए चार सीटों के लिए उम्मीदवारों की घोषणा की",
-      "summary_hi": "बीजेपी ने चुनाव से पहले बिहार की चार विधान परिषद सीटों के लिए अपने उम्मीदवारों की घोषणा कर दी है. तीन मौजूदा एमएलसी पार्टी का अनुसरण करते हुए अपने-अपने निर्वाचन क्षेत्रों से फिर से चुनाव लड़ेंगे",
-      "category_hi": "राजनीति और सरकार",
-      "category_hinglish": "Politics aur Government",
-      "title_hinglish": "bhajapa ne bihara vidhana parishada chunava ke lie chara siton ke lie ummidavaron ki ghoshana ki",
-      "summary_hinglish": "bijepi ne chunava se pahale bihara ki chara vidhana parishada siton ke lie apane ummidavaron ki ghoshana kara di hai. tina maujuda emaelasi parti ka anusarana karate hue apane-apane nirvachana kshetron se phira se chunava ladaेnge"
     },
     {
       "id": "8cbd8b7fbe847634",
@@ -210,25 +229,6 @@
       "summary_hinglish": "bharata ka antariksha udyoga niji startaapa ke satha badha raha hai, aura sarakara ka anumana hai ki yaha kshetra chaubisa ghante taka eka sau araba dolara taka pahuncha jaega। halanki, kanpaniyan vishishta visheshajnyata vale kushala shramikon ko khojane ke lie sangharsha karati hain, jisase nae pathyakrama aura udyoga shaikshanika sahayoga ko badhaाva milata hai।"
     },
     {
-      "id": "e78bae127fc9f0a9",
-      "provider": "google_news_rss",
-      "providerId": "CBMimAFBVV95cUxOTWVCSzgtZzNXSHV1emFxU3pyYS1sU3dKQVgwa0VnMmE4aTBjXzlKRXhYaWt4eGM1OWN2TDU3TS1Nd1JhRzNhR01mbFhJbXJJWUI0Nm1BaGpFdFRrc21nSHByUng2aTVBNmhlcEFKM3JFV0dOSDRubXZ1dGxKVnFra3Z6a1JWLXVRVWJNTWFTbGZQMkNvY2NtV9IBqAFBVV95cUxPc1Rra3BnSDRWa0hBZ2tuRWw4SGZjWjMxMjJTdmtVN0d6MUw5U0I1THV0QUFrMmEzc2d3aWo0NjlNSW9vNFhuODdxUnNhaFAxZXNqbEZoQnZDSVItT2c5azZDVHBDQ1l3SVA1TWRwT3JWRndTazRSd0pCaW9hX3Y3b3M4UERWbmVfY0NpNnlndlIwRjhzR0JjSTJlY1FxWHM1VW9fNE5lbFQ",
-      "title": "Brazil's Raphinha will not travel to India for friendly",
-      "summary": "Brazil star Raphinha will miss the historic friendly against India in Kolkata on October 3. He experienced right thigh discomfort during a match against Australia and returned to Barcelona for treatment. The Brazilian Football Confederation chose not to risk him.",
-      "category": "Sports",
-      "image": "https://media.assettype.com/gulfnews%2F2026-09-30%2F9tqws856%2Fnewsml_afp_com_20260924T041239Z_doc_c9876hy.jpeg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "source": "Gulf News",
-      "sourceUrl": "https://gulfnews.com/sport/brazils-raphinha-will-not-travel-to-india-for-friendly-1.500693115",
-      "publishedAt": "2026-09-30T06:29:10.000Z",
-      "fetchedAt": "2026-09-30T08:00:49.376Z",
-      "title_hi": "ब्राजील की राफिन्हा मैत्रीपूर्ण कार्यक्रम के लिए भारत की यात्रा नहीं करेंगी",
-      "summary_hi": "ब्राजील के स्टार राफिन्हा 3 अक्टूबर को कोलकाता में भारत के खिलाफ ऐतिहासिक मैत्री मैच में नहीं खेल पाएंगे। ऑस्ट्रेलिया के खिलाफ मैच के दौरान उन्हें दाहिनी जांघ में परेशानी का अनुभव हुआ और वे इलाज के लिए बार्सिलोना लौट आए। ब्राज़ीलियाई फ़ुटबॉल परिसंघ ने उसे जोखिम में न डालने का निर्णय लिया।",
-      "category_hi": "खेल",
-      "title_hinglish": "brajila ki raphinha maitripurna karyakrama ke lie bharata ki yatra nahin karengi",
-      "summary_hinglish": "brajila ke stara raphinha 3 aktubara ko kolakata men bharata ke khilapha aitihasika maitri maicha men nahin khela paenge। ऑstreliya ke khilapha maicha ke daurana unhen dahini jangha men pareshani ka anubhava huaa aura ve ilaja ke lie barsilona lauta aae। brajaीliyaee phaुtabola parisangha ne use jokhima men na dalane ka nirnaya liya।",
-      "category_hinglish": "Sports"
-    },
-    {
       "id": "39c3bbe42372cfb6",
       "provider": "google_news_rss",
       "providerId": "CBMivAFBVV95cUxOZE5vRVhhek1rdXhiOTJ1ajRWOUtQdTlwek9odmQ4R3liS21HM3BLcVNjMmoxMkg0VUlZZ2ZOM0FHS0pEZzFGeU1zZ0RUX1ZyWEcwSXcxVTY2d0ZrY2p3V0RKU0FVQVBlZlNGMFVwckNoUXJZNkM4Wlg3Z0pQSS01UVBWc0FpTEkyQ093emNLaFJVVndySGdCcGd0eWNJMFZsZVp5RzNwRzJhWkhWUDFjZDBPR2RZY3FrdG13UdIBwgFBVV95cUxNTHJFdVAtWmk3NEg4eFdSV0dQRFM3ZEtOY1JPTUR0Tk96Q2xjOGVDOC1uMDh4cVdrbVhvVGRhRWtxb0ZObnlpWDlVU3RBWkE3dkVJYkg0R3NBeE4tdEFPTXdoOHRaSjkyV0ZjSlJWWThoOUlBQ0c4eE14cXhIXzdfdHJtVnBYTm1JdWZJUjBPdl9TOHNFNmdPTWo5Z21KUGpSOGF2NFc0akw5QTlTVWFPQlJDWnUydlY0YmVIVS12TlJPQQ",
@@ -246,6 +246,25 @@
       "category_hinglish": "Crime aur Breaking News",
       "title_hinglish": "bihara apaharana mamal: kara dvara baika ko takkara marane ke bada apahrita yuvaka ko bachaya gaya",
       "summary_hinglish": "bihara men pulisa ne supaula jile men somavara ko apahrita yuvaka ko jabarana kara men bithane ke bada baraha ghante ke bhitara surakshita bacha liya। adhikariyon ne aparadha ke pichhe eka sandigdha vittiya vivada ki jancha karate hue vahana ko jabta kara liya aura kaee vyaktiyon ko hirasata men liya।"
+    },
+    {
+      "id": "e78bae127fc9f0a9",
+      "provider": "google_news_rss",
+      "providerId": "CBMimAFBVV95cUxOTWVCSzgtZzNXSHV1emFxU3pyYS1sU3dKQVgwa0VnMmE4aTBjXzlKRXhYaWt4eGM1OWN2TDU3TS1Nd1JhRzNhR01mbFhJbXJJWUI0Nm1BaGpFdFRrc21nSHByUng2aTVBNmhlcEFKM3JFV0dOSDRubXZ1dGxKVnFra3Z6a1JWLXVRVWJNTWFTbGZQMkNvY2NtV9IBqAFBVV95cUxPc1Rra3BnSDRWa0hBZ2tuRWw4SGZjWjMxMjJTdmtVN0d6MUw5U0I1THV0QUFrMmEzc2d3aWo0NjlNSW9vNFhuODdxUnNhaFAxZXNqbEZoQnZDSVItT2c5azZDVHBDQ1l3SVA1TWRwT3JWRndTazRSd0pCaW9hX3Y3b3M4UERWbmVfY0NpNnlndlIwRjhzR0JjSTJlY1FxWHM1VW9fNE5lbFQ",
+      "title": "Brazil's Raphinha will not travel to India for friendly",
+      "summary": "Brazil star Raphinha will miss the historic friendly against India in Kolkata on October 3. He experienced right thigh discomfort during a match against Australia and returned to Barcelona for treatment. The Brazilian Football Confederation chose not to risk him.",
+      "category": "Sports",
+      "image": "https://media.assettype.com/gulfnews%2F2026-09-30%2F9tqws856%2Fnewsml_afp_com_20260924T041239Z_doc_c9876hy.jpeg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "Gulf News",
+      "sourceUrl": "https://gulfnews.com/sport/brazils-raphinha-will-not-travel-to-india-for-friendly-1.500693115",
+      "publishedAt": "2026-09-30T06:29:10.000Z",
+      "fetchedAt": "2026-09-30T08:00:49.376Z",
+      "title_hi": "ब्राजील की राफिन्हा मैत्रीपूर्ण कार्यक्रम के लिए भारत की यात्रा नहीं करेंगी",
+      "summary_hi": "ब्राजील के स्टार राफिन्हा 3 अक्टूबर को कोलकाता में भारत के खिलाफ ऐतिहासिक मैत्री मैच में नहीं खेल पाएंगे। ऑस्ट्रेलिया के खिलाफ मैच के दौरान उन्हें दाहिनी जांघ में परेशानी का अनुभव हुआ और वे इलाज के लिए बार्सिलोना लौट आए। ब्राज़ीलियाई फ़ुटबॉल परिसंघ ने उसे जोखिम में न डालने का निर्णय लिया।",
+      "category_hi": "खेल",
+      "title_hinglish": "brajila ki raphinha maitripurna karyakrama ke lie bharata ki yatra nahin karengi",
+      "summary_hinglish": "brajila ke stara raphinha 3 aktubara ko kolakata men bharata ke khilapha aitihasika maitri maicha men nahin khela paenge। ऑstreliya ke khilapha maicha ke daurana unhen dahini jangha men pareshani ka anubhava huaa aura ve ilaja ke lie barsilona lauta aae। brajaीliyaee phaुtabola parisangha ne use jokhima men na dalane ka nirnaya liya।",
+      "category_hinglish": "Sports"
     },
     {
       "id": "c51b82cc53a0b234",
@@ -267,6 +286,23 @@
       "summary_hinglish": "Apple ne eksisa bainka ke sahayoga se bharata men apani bhugatana seva shuru ki hai। eksisa bainka karda rakhane vale upayogakarta aasani se sanparka rahita lenadena kara sakate hain। voleta aipa ya eksisa bainka aipa se karda jodane ki prakriya sidhi hai।"
     },
     {
+      "id": "23b384d13c862939",
+      "title": "Gun in hand, civilian clothes: Bihar woman constable suspended over social media reel",
+      "summary": "A woman constable in West Champaran was suspended after a video showed her in civilian clothes carrying a government-issued weapon. The inquiry found violations of Bihar Police social media rules, prompting disciplinary proceedings and a wider warning.",
+      "category": "Politics & Government",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/social-media-reel-with-government-gun-lands-bihar-constable-in-soup-28083424-16x9_0.jpg?VersionId=MxAd9OoIvSusayKNaPZNvgWdKvCDBK5T",
+      "source": "India Today",
+      "sourceUrl": "https://www.indiatoday.in/amp/india/bihar/story/bihar-woman-constable-suspended-social-media-video-government-issued-weapon-3005135-2026-09-28",
+      "publishedAt": "2026-09-28T16:08:53.000Z",
+      "fetchedAt": "2026-09-28T17:11:12.888Z",
+      "title_hi": "हाथ में बंदूक, सादे कपड़े: सोशल मीडिया रील पर बिहार की महिला कांस्टेबल निलंबित",
+      "summary_hi": "पश्चिमी चंपारण में एक महिला कांस्टेबल को एक वीडियो में सिविल कपड़ों में सरकार द्वारा जारी हथियार ले जाते हुए दिखाए जाने के बाद निलंबित कर दिया गया। जांच में बिहार पुलिस के सोशल मीडिया नियमों का उल्लंघन पाया गया, जिसके कारण अनुशासनात्मक कार्यवाही की गई और व्यापक चेतावनी दी गई।",
+      "category_hi": "राजनीति और सरकार",
+      "category_hinglish": "Politics aur Government",
+      "title_hinglish": "hatha men banduk, sade kapadaे: soshala midiya rila para bihara ki mahila kanstebala nilanbita",
+      "summary_hinglish": "pashchimi chanparana men eka mahila kanstebala ko eka vidiyo men sivila kapadaोn men sarakara dvara jari hathiyara le jate hue dikhae jane ke bada nilanbita kara diya gaya। jancha men bihara pulisa ke soshala midiya niyamon ka ullanghana paya gay, jisake karana anushasanatmaka karyavahi ki gaee aura vyapaka chetavani di gaee।"
+    },
+    {
       "id": "2d252a941e7db5e2",
       "provider": "google_news_rss",
       "providerId": "CBMiiAFBVV95cUxPVjBXcnFMeXBMVFpLUHBkVHF5VTlxWmNSN3hWLTFUQXpGbVNZMG5CSUxzY0p3QUpSS1lHZDYxNk9QZ1puVVVOTUxkQzZiMzZQdXJuVlBFRnpub1FranJqM0tlZnF2Y2hQODN0ZFdDTk1KSU5YNmlsYy0zQ1p3NHRLODZNRl9TWnRY0gGIAUFVX3lxTE9WMFdycUx5cExUWktQcGRUcXlVOXFaY1I3eFYtMVRBekZtU1kwbkJJTHNjSndBSlJLWUdkNjE2T1BnWm5VVU5NTGRDNmIzNlB1cm5WUEVGem5vUWtqcmozS2VmcXZjaFA4M3RkV0NOTUpJTlg2aWxjLTNDWnc0dEs4Nk1GX1NadFg",
@@ -284,23 +320,6 @@
       "category_hinglish": "National aur Trending News",
       "title_hinglish": "sarakara ne yatri vahanon ke lie nae CAFE-3 manadanda adhisuchita kie",
       "summary_hinglish": "bharata sarakara ne 1 aprail, 2027 se 31 march, 2032 taka yatri vahanon ke lie eendhana-dakshata aura karbana-utsarjana sima nirdharita karate hue nae korporeta ausata eendhana arthavyavastha manadandon ko adhisuchita kiya। bijali mantralaya ne kaha ki ye manadanda nirmita ya aayatita nae yatri vahanon para lagu hote hain।"
-    },
-    {
-      "id": "23b384d13c862939",
-      "title": "Gun in hand, civilian clothes: Bihar woman constable suspended over social media reel",
-      "summary": "A woman constable in West Champaran was suspended after a video showed her in civilian clothes carrying a government-issued weapon. The inquiry found violations of Bihar Police social media rules, prompting disciplinary proceedings and a wider warning.",
-      "category": "Politics & Government",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/social-media-reel-with-government-gun-lands-bihar-constable-in-soup-28083424-16x9_0.jpg?VersionId=MxAd9OoIvSusayKNaPZNvgWdKvCDBK5T",
-      "source": "India Today",
-      "sourceUrl": "https://www.indiatoday.in/amp/india/bihar/story/bihar-woman-constable-suspended-social-media-video-government-issued-weapon-3005135-2026-09-28",
-      "publishedAt": "2026-09-28T16:08:53.000Z",
-      "fetchedAt": "2026-09-28T17:11:12.888Z",
-      "title_hi": "हाथ में बंदूक, सादे कपड़े: सोशल मीडिया रील पर बिहार की महिला कांस्टेबल निलंबित",
-      "summary_hi": "पश्चिमी चंपारण में एक महिला कांस्टेबल को एक वीडियो में सिविल कपड़ों में सरकार द्वारा जारी हथियार ले जाते हुए दिखाए जाने के बाद निलंबित कर दिया गया। जांच में बिहार पुलिस के सोशल मीडिया नियमों का उल्लंघन पाया गया, जिसके कारण अनुशासनात्मक कार्यवाही की गई और व्यापक चेतावनी दी गई।",
-      "category_hi": "राजनीति और सरकार",
-      "category_hinglish": "Politics aur Government",
-      "title_hinglish": "hatha men banduk, sade kapadaे: soshala midiya rila para bihara ki mahila kanstebala nilanbita",
-      "summary_hinglish": "pashchimi chanparana men eka mahila kanstebala ko eka vidiyo men sivila kapadaोn men sarakara dvara jari hathiyara le jate hue dikhae jane ke bada nilanbita kara diya gaya। jancha men bihara pulisa ke soshala midiya niyamon ka ullanghana paya gay, jisake karana anushasanatmaka karyavahi ki gaee aura vyapaka chetavani di gaee।"
     },
     {
       "id": "797320f2fc3b9cc0",
@@ -341,6 +360,23 @@
       "summary_hinglish": "budhavara 9 sitanbara ko da yunivarsiti ऑpha vestarna ऑstreliya dvara aayojita eka karyakrama men sarakar, udyoga aura anusandhana se judaे bharatiya aura ऑstreliyaee netaon ne mulakata ki। karyashala ka uddeshya donon deshon ke bicha chala rahi sajhedari ko majabuta karate hue navachara aura vyavasayikarana ko aage badhaाna hai।"
     },
     {
+      "id": "52f8be9b290ab20a",
+      "title": "Bihar Power Distribution To Embrace Digital And Smart Technologies By 2030: NBPDCL MD",
+      "summary": "Patna: India is committed to developing a modern, digital and smart power distribution system by 2030, NBPDCL managing director Rahul",
+      "category": "Technology",
+      "image": "https://patnapress.com/wp-content/uploads/2026/09/befunky_2026-8-1_17-19-27.jpg",
+      "source": "Patna Press",
+      "sourceUrl": "https://patnapress.com/bihar-power-distribution-digital-smart-technologies-2030/",
+      "publishedAt": "2026-09-28T11:57:37.000Z",
+      "fetchedAt": "2026-09-28T12:23:05.821Z",
+      "title_hi": "बिहार बिजली वितरण 2030 तक डिजिटल और स्मार्ट प्रौद्योगिकियों को अपनाएगा: एनबीपीडीसीएल एमडी",
+      "summary_hi": "पटना: भारत 2030 तक एक आधुनिक, डिजिटल और स्मार्ट बिजली वितरण प्रणाली विकसित करने के लिए प्रतिबद्ध है, एनबीपीडीसीएल के प्रबंध निदेशक राहुल",
+      "category_hi": "टेक्नोलॉजी",
+      "title_hinglish": "bihara bijali vitarana 2030 taka dijitala aura smarta praudyogikiyon ko apanaeg: enabipidisiela emadi",
+      "summary_hinglish": "patan: bharata 2030 taka eka aadhunik, dijitala aura smarta bijali vitarana pranali vikasita karane ke lie pratibaddha hai, enabipidisiela ke prabandha nideshaka rahula",
+      "category_hinglish": "Technology"
+    },
+    {
       "id": "48a80d82de7aafc2",
       "provider": "google_news_rss",
       "providerId": "CBMiqAFBVV95cUxQUDJRSU50Y2V0UjFUR3RFS21adXpXQXdKSE5rMmNlZVNIdmZpSDVpcTZvaFNhMWw0YzNrem5UaUs3bTVSb0V5dDExTk5mb1JKXy1hd2t1M3F5M3VMbVd3cC1ONnFCTDU0M1FfVnhLSnNMOHBhaXBxTzVabm8tYVRCRk9FOEVHbWRWdHo2dlhLaTVEczNwQ1JEb05NU2t5UThfbjNaMDZyTV8",
@@ -358,23 +394,6 @@
       "category_hinglish": "Business aur Finance",
       "title_hinglish": "rajiva mantri samuha pramukha aura pramukha ke rupa men eksisa bainka men shamila hue",
       "summary_hinglish": "rajiva mantri sitanbara 2026 se munbaee men samuha pramukha aura mukhya vittiya adhikari ke rupa men eksisa bainka men shamila hue hain। vaha apane nae pada para bharat, sanyukta araba amirata aura singapura men atthaeesa varshon se adhika ka vitta anubhava lekara aae hain।"
-    },
-    {
-      "id": "52f8be9b290ab20a",
-      "title": "Bihar Power Distribution To Embrace Digital And Smart Technologies By 2030: NBPDCL MD",
-      "summary": "Patna: India is committed to developing a modern, digital and smart power distribution system by 2030, NBPDCL managing director Rahul",
-      "category": "Technology",
-      "image": "https://patnapress.com/wp-content/uploads/2026/09/befunky_2026-8-1_17-19-27.jpg",
-      "source": "Patna Press",
-      "sourceUrl": "https://patnapress.com/bihar-power-distribution-digital-smart-technologies-2030/",
-      "publishedAt": "2026-09-28T11:57:37.000Z",
-      "fetchedAt": "2026-09-28T12:23:05.821Z",
-      "title_hi": "बिहार बिजली वितरण 2030 तक डिजिटल और स्मार्ट प्रौद्योगिकियों को अपनाएगा: एनबीपीडीसीएल एमडी",
-      "summary_hi": "पटना: भारत 2030 तक एक आधुनिक, डिजिटल और स्मार्ट बिजली वितरण प्रणाली विकसित करने के लिए प्रतिबद्ध है, एनबीपीडीसीएल के प्रबंध निदेशक राहुल",
-      "category_hi": "टेक्नोलॉजी",
-      "title_hinglish": "bihara bijali vitarana 2030 taka dijitala aura smarta praudyogikiyon ko apanaeg: enabipidisiela emadi",
-      "summary_hinglish": "patan: bharata 2030 taka eka aadhunik, dijitala aura smarta bijali vitarana pranali vikasita karane ke lie pratibaddha hai, enabipidisiela ke prabandha nideshaka rahula",
-      "category_hinglish": "Technology"
     },
     {
       "id": "de6bffef2418bbf9",
@@ -396,6 +415,23 @@
       "category_hinglish": "Sports"
     },
     {
+      "id": "4c6826da4d201796",
+      "title": "Tanya Mishra, the Bihar-born model-actress fans are calling India's new 'national crush'",
+      "summary": "Viral photographs have pushed the 27-year-old into the spotlight. She has modelled for Femina and Grazia, placed at a Miss India pageant and appeared in the web series Chidiya Udd.",
+      "category": "National & Trending News",
+      "image": "https://images.firstpost.com/uploads/2026/09/Tanyaa-Mishra-2026-09-c5db892c195ba9c7239cc41e3ebf2acb-1200x675.jpg?im=FitAndFill,width=1200,height=675",
+      "source": "Firstpost",
+      "sourceUrl": "https://www.firstpost.com/lifestyle/tanya-mishra-the-bihar-born-model-actress-fans-are-calling-indias-new-national-crush-14048853.html",
+      "publishedAt": "2026-09-28T11:04:52.000Z",
+      "fetchedAt": "2026-09-28T11:25:07.389Z",
+      "title_hi": "बिहार में जन्मी मॉडल-अभिनेत्री तान्या मिश्रा को प्रशंसक भारत की नई 'नेशनल क्रश' कह रहे हैं",
+      "summary_hi": "वायरल तस्वीरों ने 27 वर्षीय को सुर्खियों में ला दिया है। उन्होंने फेमिना और ग्राज़िया के लिए मॉडलिंग की है, मिस इंडिया प्रतियोगिता में भाग लिया है और वेब श्रृंखला चिड़िया उड़ में दिखाई दी हैं।",
+      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
+      "title_hinglish": "bihara men janmi modala-abhinetri tanya mishra ko prashansaka bharata ki naee 'neshanala krasha' kaha rahe hain",
+      "summary_hinglish": "vayarala tasviron ne 27 varshiya ko surkhiyon men la diya hai। unhonne phemina aura grajaिya ke lie modalinga ki hai, misa indiya pratiyogita men bhaga liya hai aura veba shrrinkhala chidaिya uda men dikhaee di hain।",
+      "category_hinglish": "National aur Trending News"
+    },
+    {
       "id": "25ef4b424da6c188",
       "provider": "google_news_rss",
       "providerId": "CBMi9AFBVV95cUxNeFJVQm5HUllpdm5tZU56aS0xcWtRQnh6ZUFQUDliQloxOFhyWFo4bkJxVEtBaFZvZWxvLVprcXVTd0Rtdi1ZYVQtMkZ6R3NhdDZ0RktxaDRkLXduSkpMZGVFb1gyeFhlczZFYmZmendQU1hIbnREbzdOX0lEaS1RSmFLbkZ5UHhvTzM4NEhscFFQQmRrcV9TS3V6QVhQTjA2QWphLVQ1U2RLSFRYRUtNMTgwajhHRm43ZTdKeUFBMU8tUks4aDRmWmtIYnE5dWg2WlJpN3gyMDNSVUJ4dHhxbWhtU3g0a0w4NHZMdWE4aVcxMUJK",
@@ -413,23 +449,6 @@
       "category_hinglish": "Politics aur Government",
       "title_hinglish": "'aashcharyajanaka yu-tarna': greta nikobara pariyojana para 'sunavaee para roka' lagane ke lie suprima korta jane para kangresa ne kendra ki aalochana ki",
       "summary_hinglish": "budhavara ko kangresa ne greta nikobara dvipa pariyojana se sanbandhita kalakatta uchcha nyayalaya ki karyavahi ko rokane ke lie uchchatama nyayalaya ka rukha karane ke lie kendra sarakara ki aalochana ki। vipakshi dala ne aaropa lagaya ki modi prashasana bina soche samajhe eka badaी paristhitika aapada la raha hai।"
-    },
-    {
-      "id": "4c6826da4d201796",
-      "title": "Tanya Mishra, the Bihar-born model-actress fans are calling India's new 'national crush'",
-      "summary": "Viral photographs have pushed the 27-year-old into the spotlight. She has modelled for Femina and Grazia, placed at a Miss India pageant and appeared in the web series Chidiya Udd.",
-      "category": "National & Trending News",
-      "image": "https://images.firstpost.com/uploads/2026/09/Tanyaa-Mishra-2026-09-c5db892c195ba9c7239cc41e3ebf2acb-1200x675.jpg?im=FitAndFill,width=1200,height=675",
-      "source": "Firstpost",
-      "sourceUrl": "https://www.firstpost.com/lifestyle/tanya-mishra-the-bihar-born-model-actress-fans-are-calling-indias-new-national-crush-14048853.html",
-      "publishedAt": "2026-09-28T11:04:52.000Z",
-      "fetchedAt": "2026-09-28T11:25:07.389Z",
-      "title_hi": "बिहार में जन्मी मॉडल-अभिनेत्री तान्या मिश्रा को प्रशंसक भारत की नई 'नेशनल क्रश' कह रहे हैं",
-      "summary_hi": "वायरल तस्वीरों ने 27 वर्षीय को सुर्खियों में ला दिया है। उन्होंने फेमिना और ग्राज़िया के लिए मॉडलिंग की है, मिस इंडिया प्रतियोगिता में भाग लिया है और वेब श्रृंखला चिड़िया उड़ में दिखाई दी हैं।",
-      "category_hi": "राष्ट्रीय और ट्रेंडिंग न्यूज़",
-      "title_hinglish": "bihara men janmi modala-abhinetri tanya mishra ko prashansaka bharata ki naee 'neshanala krasha' kaha rahe hain",
-      "summary_hinglish": "vayarala tasviron ne 27 varshiya ko surkhiyon men la diya hai। unhonne phemina aura grajaिya ke lie modalinga ki hai, misa indiya pratiyogita men bhaga liya hai aura veba shrrinkhala chidaिya uda men dikhaee di hain।",
-      "category_hinglish": "National aur Trending News"
     },
     {
       "id": "797eb034e2c9ff48",
@@ -451,6 +470,23 @@
       "category_hinglish": "Politics aur Government"
     },
     {
+      "id": "be70c7c038ab373d",
+      "title": "330 archers compete in state championship",
+      "summary": "The three-day Raja Karna Bihar State Archery Championship ‘Lakshya’ 2026 began at Pataliputra Sports Complex on Sunday with 330 archers from across Bihar competing for honours. Organised by the sports department and Bihar State Sports Authority, the championship has 180 boys and 150 girls competing in Under-10, Under-13, Under-15, sub-junior…",
+      "category": "Sports",
+      "image": "https://static.toiimg.com/thumb/msid-134524071,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/patna/330-archers-compete-in-state-championship/articleshow/134524073.cms",
+      "publishedAt": "2026-09-27T17:15:00.000Z",
+      "fetchedAt": "2026-09-27T17:42:11.043Z",
+      "title_hi": "राज्य चैम्पियनशिप में 330 तीरंदाज प्रतिस्पर्धा करते हैं",
+      "summary_hi": "तीन दिवसीय राजा कर्ण बिहार राज्य तीरंदाजी चैंपियनशिप 'लक्ष्य' 2026 रविवार को पाटलिपुत्र स्पोर्ट्स कॉम्प्लेक्स में शुरू हुई, जिसमें पूरे बिहार के 330 तीरंदाज सम्मान के लिए प्रतिस्पर्धा कर रहे थे। खेल विभाग और बिहार राज्य खेल प्राधिकरण द्वारा आयोजित इस चैंपियनशिप में 180 लड़के और 150 लड़कियां अंडर-10, अंडर-13, अंडर-15, सब-जूनियर...",
+      "category_hi": "खेल",
+      "title_hinglish": "rajya chaimpiyanashipa men 330 tirandaja pratispardha karate hain",
+      "summary_hinglish": "tina divasiya raja karna bihara rajya tirandaji chainpiyanashipa 'lakshya' 2026 ravivara ko pataliputra sportsa kompleksa men shuru huee, jisamen pure bihara ke 330 tirandaja sammana ke lie pratispardha kara rahe the। khela vibhaga aura bihara rajya khela pradhikarana dvara aayojita isa chainpiyanashipa men 180 ladake aura 150 ladakiyan andara-10, andara-13, andara-15, saba-juniyar...",
+      "category_hinglish": "Sports"
+    },
+    {
       "id": "d42f5391392e4be7",
       "provider": "google_news_rss",
       "providerId": "CBMizgFBVV95cUxNVGNBclNFSjUyU0xpYjV4NnlRNTFQZktDaFJ6NV9aYzQ5WlhKSXBLS2xvUk45QzRJZEtZQ0xhc2E5ZlJWb3oyMkNleF94VDVMTnNubVZaQXNNVG9XRDNDaE1KOUl2cXg3RGZtMEE0V3ZDNHY1YkFjRUdKdzZXZG5TcDdoZ1gxMFJRZG5lWW9hMUxLMnFqZ2QzV0tBcUIwekV6VlRsZ3BTQ3llRXczbGxwTUZ3SXlzUUdqVHVLRVoxel9yN0VZdTF5VF9SNGRGZ9IBzgFBVV95cUxNVGNBclNFSjUyU0xpYjV4NnlRNTFQZktDaFJ6NV9aYzQ5WlhKSXBLS2xvUk45QzRJZEtZQ0xhc2E5ZlJWb3oyMkNleF94VDVMTnNubVZaQXNNVG9XRDNDaE1KOUl2cXg3RGZtMEE0V3ZDNHY1YkFjRUdKdzZXZG5TcDdoZ1gxMFJRZG5lWW9hMUxLMnFqZ2QzV0tBcUIwekV6VlRsZ3BTQ3llRXczbGxwTUZ3SXlzUUdqVHVLRVoxel9yN0VZdTF5VF9SNGRGZw",
@@ -468,23 +504,6 @@
       "title_hinglish": "aaratiaaee jio rolabaika se nae badalavon ki shrrinkhala juda gaee hai",
       "summary_hinglish": "sattaeesa sitanbara ko, tamilanadu sarakara ne tivra virodha ke bada sarvajanika vibhaga ko suchana ke adhikara adhiniyama se bahara rakhane ke aadesha ko radda kara diya। yaha ulataphera chara mahine purani tivike sarakara dvara nitigata badalavon ki eka shrrinkhala men jodata hai।",
       "category_hinglish": "Politics aur Government"
-    },
-    {
-      "id": "be70c7c038ab373d",
-      "title": "330 archers compete in state championship",
-      "summary": "The three-day Raja Karna Bihar State Archery Championship ‘Lakshya’ 2026 began at Pataliputra Sports Complex on Sunday with 330 archers from across Bihar competing for honours. Organised by the sports department and Bihar State Sports Authority, the championship has 180 boys and 150 girls competing in Under-10, Under-13, Under-15, sub-junior…",
-      "category": "Sports",
-      "image": "https://static.toiimg.com/thumb/msid-134524071,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/patna/330-archers-compete-in-state-championship/articleshow/134524073.cms",
-      "publishedAt": "2026-09-27T17:15:00.000Z",
-      "fetchedAt": "2026-09-27T17:42:11.043Z",
-      "title_hi": "राज्य चैम्पियनशिप में 330 तीरंदाज प्रतिस्पर्धा करते हैं",
-      "summary_hi": "तीन दिवसीय राजा कर्ण बिहार राज्य तीरंदाजी चैंपियनशिप 'लक्ष्य' 2026 रविवार को पाटलिपुत्र स्पोर्ट्स कॉम्प्लेक्स में शुरू हुई, जिसमें पूरे बिहार के 330 तीरंदाज सम्मान के लिए प्रतिस्पर्धा कर रहे थे। खेल विभाग और बिहार राज्य खेल प्राधिकरण द्वारा आयोजित इस चैंपियनशिप में 180 लड़के और 150 लड़कियां अंडर-10, अंडर-13, अंडर-15, सब-जूनियर...",
-      "category_hi": "खेल",
-      "title_hinglish": "rajya chaimpiyanashipa men 330 tirandaja pratispardha karate hain",
-      "summary_hinglish": "tina divasiya raja karna bihara rajya tirandaji chainpiyanashipa 'lakshya' 2026 ravivara ko pataliputra sportsa kompleksa men shuru huee, jisamen pure bihara ke 330 tirandaja sammana ke lie pratispardha kara rahe the। khela vibhaga aura bihara rajya khela pradhikarana dvara aayojita isa chainpiyanashipa men 180 ladake aura 150 ladakiyan andara-10, andara-13, andara-15, saba-juniyar...",
-      "category_hinglish": "Sports"
     },
     {
       "id": "8a44f6f0617b752b",
@@ -525,6 +544,23 @@
       "summary_hinglish": "japana ke aaichi-nagoya men eshiyaee khela 2026 men bharata ne 10 svarn, 21 rajata aura 28 kansya sahita 59 padaka jite hain। lagabhaga 500 bharatiya ethalita vartamana men mahadvipiya pratiyogita men pratispardha kara rahe hain, jo 19 sitanbara se 4 aktubara taka chalega।"
     },
     {
+      "id": "feeef1c1c55ee87e",
+      "title": "'Regret supporting': Chirag Paswan attacks Bihar govt over rising crimes against women",
+      "summary": "Bihar crime: Union Minister Chirag Paswan expresses shame over the deteriorating law and order situation, criticising the state administration for failing to curb rising crimes against women and demanding strict action.",
+      "category": "Politics & Government",
+      "image": "https://cf-images.assettype.com/deccanherald%2F2026-09-27%2Fy768eua9%2FImages-1.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "Deccan Herald",
+      "sourceUrl": "https://www.deccanherald.com/amp/story/india/bihar/regret-supporting-chirag-paswan-attacks-bihar-govt-over-rising-crimes-against-women-4161778",
+      "publishedAt": "2026-09-27T15:44:00.000Z",
+      "fetchedAt": "2026-09-27T17:12:28.090Z",
+      "title_hi": "'समर्थन करने का अफसोस': महिलाओं के खिलाफ बढ़ते अपराध को लेकर चिराग पासवान ने बिहार सरकार पर हमला बोला",
+      "summary_hi": "बिहार अपराध: केंद्रीय मंत्री चिराग पासवान ने बिगड़ती कानून-व्यवस्था की स्थिति पर शर्मिंदगी व्यक्त की, महिलाओं के खिलाफ बढ़ते अपराधों पर अंकुश लगाने में विफल रहने के लिए राज्य प्रशासन की आलोचना की और सख्त कार्रवाई की मांग की।",
+      "category_hi": "राजनीति और सरकार",
+      "title_hinglish": "'samarthana karane ka aphasosa': mahilaon ke khilapha badhate aparadha ko lekara chiraga pasavana ne bihara sarakara para hamala bola",
+      "summary_hinglish": "bihara aparadh: kendriya mantri chiraga pasavana ne bigadati kanuna-vyavastha ki sthiti para sharmindagi vyakta ki, mahilaon ke khilapha badhate aparadhon para ankusha lagane men viphala rahane ke lie rajya prashasana ki aalochana ki aura sakhta karravaee ki manga ki।",
+      "category_hinglish": "Politics aur Government"
+    },
+    {
       "id": "786b910fe36a4c7c",
       "provider": "google_news_rss",
       "providerId": "CBMiiwFBVV95cUxQZnlzTll3TzNkMmRPTEZWUG51YjZIdldYbG5McDk4Rl80SmZVWldjSzFRY1luUHVXYV9LUkUySmJTRUhNU195OGFZQjZKOEd5LUhZYmI5ZG4weWZwOE5fVVgwSHVpdWZyOTVydnVwdzFBSlFZTFUtVjNjTXdTaGk0NVJ3My1fVlVkdDZF",
@@ -542,23 +578,6 @@
       "category_hinglish": "Technology",
       "title_hinglish": "bharata-yuropiya sangha bijali sahayog: shripada naika ne pramukha varta ki",
       "summary_hinglish": "24 sitanbar, 2026 ko mantri shripada naika ne naee dilli men yuropiya sansada aaeetiaaraee pratinidhimandala se mulakata ki। unhonne oorja kshetron men bharata aura yuropiya sangha ke sahayoga ko majabuta karane ke uddeshya se oorja suraksh, paramanu oorj, harita haidrojan, bhandarana aura karbana bajaron para charcha ki।"
-    },
-    {
-      "id": "feeef1c1c55ee87e",
-      "title": "'Regret supporting': Chirag Paswan attacks Bihar govt over rising crimes against women",
-      "summary": "Bihar crime: Union Minister Chirag Paswan expresses shame over the deteriorating law and order situation, criticising the state administration for failing to curb rising crimes against women and demanding strict action.",
-      "category": "Politics & Government",
-      "image": "https://cf-images.assettype.com/deccanherald%2F2026-09-27%2Fy768eua9%2FImages-1.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "source": "Deccan Herald",
-      "sourceUrl": "https://www.deccanherald.com/amp/story/india/bihar/regret-supporting-chirag-paswan-attacks-bihar-govt-over-rising-crimes-against-women-4161778",
-      "publishedAt": "2026-09-27T15:44:00.000Z",
-      "fetchedAt": "2026-09-27T17:12:28.090Z",
-      "title_hi": "'समर्थन करने का अफसोस': महिलाओं के खिलाफ बढ़ते अपराध को लेकर चिराग पासवान ने बिहार सरकार पर हमला बोला",
-      "summary_hi": "बिहार अपराध: केंद्रीय मंत्री चिराग पासवान ने बिगड़ती कानून-व्यवस्था की स्थिति पर शर्मिंदगी व्यक्त की, महिलाओं के खिलाफ बढ़ते अपराधों पर अंकुश लगाने में विफल रहने के लिए राज्य प्रशासन की आलोचना की और सख्त कार्रवाई की मांग की।",
-      "category_hi": "राजनीति और सरकार",
-      "title_hinglish": "'samarthana karane ka aphasosa': mahilaon ke khilapha badhate aparadha ko lekara chiraga pasavana ne bihara sarakara para hamala bola",
-      "summary_hinglish": "bihara aparadh: kendriya mantri chiraga pasavana ne bigadati kanuna-vyavastha ki sthiti para sharmindagi vyakta ki, mahilaon ke khilapha badhate aparadhon para ankusha lagane men viphala rahane ke lie rajya prashasana ki aalochana ki aura sakhta karravaee ki manga ki।",
-      "category_hinglish": "Politics aur Government"
     },
     {
       "id": "3b932be61cdd4f15",
@@ -580,6 +599,23 @@
       "summary_hinglish": "bharatiya rashtriya rajamarga pradhikarana ne FASTag varshika pasa loncha kiy, jo aba eka karoda ka aankadaा para kara chuka hai। tina hajara rupaye men pesha kiya gay, vittiya varsha sattaeesa ke lie isaki lagata tina hajara pachahattara rupaye hai aura do sau margon ki anumati hai।"
     },
     {
+      "id": "4911f7e5a341b5b9",
+      "title": "Caught With Pistol, Bhagalpur Criminal Pushes Cop, Jumps Into River To Escape Police; What Happened Next Goes Viral",
+      "summary": "The accused, identified as Santosh Yadav, had allegedly been arrested after police recovered a country-made pistol and cartridges from him.",
+      "category": "Crime & Breaking News",
+      "image": "https://www.newsx.com/wp-content/uploads/2026/09/professor-dulla_2.png",
+      "source": "NewsX",
+      "sourceUrl": "https://www.newsx.com/regionals/caught-with-pistol-bhagalpur-criminal-pushes-cop-jumps-into-river-to-escape-police-what-happened-next-goes-viral-276545/amp/",
+      "publishedAt": "2026-09-27T10:52:24.000Z",
+      "fetchedAt": "2026-09-27T12:34:21.951Z",
+      "title_hi": "पिस्तौल के साथ पकड़ा गया, भागलपुर अपराधी ने पुलिस को धक्का दिया, पुलिस से बचने के लिए नदी में कूद गया; आगे जो हुआ वह वायरल हो गया",
+      "summary_hi": "संतोष यादव के रूप में पहचाने गए आरोपी को कथित तौर पर पुलिस द्वारा उसके पास से एक देशी पिस्तौल और कारतूस बरामद करने के बाद गिरफ्तार कर लिया गया था।",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "pistaula ke satha pakadaा gay, bhagalapura aparadhi ne pulisa ko dhakka diy, pulisa se bachane ke lie nadi men kuda gay; aage jo huaa vaha vayarala ho gaya",
+      "summary_hinglish": "santosha yadava ke rupa men pahachane gae aaropi ko kathita taura para pulisa dvara usake pasa se eka deshi pistaula aura karatusa baramada karane ke bada giraphtara kara liya gaya tha।",
+      "category_hinglish": "Crime aur Breaking News"
+    },
+    {
       "id": "c50b7dfee4cd2213",
       "provider": "google_news_rss",
       "providerId": "CBMimAFBVV95cUxQTktMZDZvMS1MdGVzUkdmMER3SXZ6Umpqd1dJR2pvbzBLc1ZJTXhHcTZtNUZPdmdKNVRKalVGTXUzenpVdy03QmVPREpvNzFpQVd3bFNVWEljWFE3ZXQ1cTFGaDBVWFBRZWxlZG9lMkZ6RlR2ZXVLM1c5eVNIMlYycGZvQVd2RThVeE03WlNhOUdNYzNGN18yUA",
@@ -597,23 +633,6 @@
       "title_hinglish": "bharata ka aaeeti seva piramida bicha se khokhala hota ja raha hai",
       "summary_hinglish": "tata kansaltensi sarviseja ne vitta varsha 2026 men 23,460 karmachariyon ki chhantani ki, jisase madhyama aura varishtha greda para asara padaा, jabaki 44,000 se adhika phresharsa ko kama para rakha gaya। aaja ki varshika riporta ke anusar, rajasva men 4.6 pratishata ki vriddhi huee aura prati karmachari rajasva men 3.4 pratishata ki vriddhi huee, kyonki pratyeka vyakti ne adhika utpadana kiya।",
       "category_hinglish": "Technology"
-    },
-    {
-      "id": "4911f7e5a341b5b9",
-      "title": "Caught With Pistol, Bhagalpur Criminal Pushes Cop, Jumps Into River To Escape Police; What Happened Next Goes Viral",
-      "summary": "The accused, identified as Santosh Yadav, had allegedly been arrested after police recovered a country-made pistol and cartridges from him.",
-      "category": "Crime & Breaking News",
-      "image": "https://www.newsx.com/wp-content/uploads/2026/09/professor-dulla_2.png",
-      "source": "NewsX",
-      "sourceUrl": "https://www.newsx.com/regionals/caught-with-pistol-bhagalpur-criminal-pushes-cop-jumps-into-river-to-escape-police-what-happened-next-goes-viral-276545/amp/",
-      "publishedAt": "2026-09-27T10:52:24.000Z",
-      "fetchedAt": "2026-09-27T12:34:21.951Z",
-      "title_hi": "पिस्तौल के साथ पकड़ा गया, भागलपुर अपराधी ने पुलिस को धक्का दिया, पुलिस से बचने के लिए नदी में कूद गया; आगे जो हुआ वह वायरल हो गया",
-      "summary_hi": "संतोष यादव के रूप में पहचाने गए आरोपी को कथित तौर पर पुलिस द्वारा उसके पास से एक देशी पिस्तौल और कारतूस बरामद करने के बाद गिरफ्तार कर लिया गया था।",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "pistaula ke satha pakadaा gay, bhagalapura aparadhi ne pulisa ko dhakka diy, pulisa se bachane ke lie nadi men kuda gay; aage jo huaa vaha vayarala ho gaya",
-      "summary_hinglish": "santosha yadava ke rupa men pahachane gae aaropi ko kathita taura para pulisa dvara usake pasa se eka deshi pistaula aura karatusa baramada karane ke bada giraphtara kara liya gaya tha।",
-      "category_hinglish": "Crime aur Breaking News"
     },
     {
       "id": "2b113a576f70fdc5",
@@ -635,6 +654,23 @@
       "category_hinglish": "Technology"
     },
     {
+      "id": "03943fafde680d0a",
+      "title": "Samrat: Bihar, Centre to coordinate on cross-border crimes along Nepal border",
+      "summary": "Bihar govt and Centre will work in close coordination to curb infiltration, counterfeit currency, drug trafficking and other cross-border crimes along the sensitive India-Nepal border, CM Samrat Choudhary said here on Saturday after chairing a comprehensive high-level review meeting at the ‘Samvad’ hall in the Chief Minister’s Secretariat.",
+      "category": "Crime & Breaking News",
+      "image": "https://static.toiimg.com/thumb/msid-134507867,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/patna/samrat-bihar-centre-to-coordinate-on-cross-border-crimes-along-nepal-border/articleshow/134507868.cms",
+      "publishedAt": "2026-09-26T16:54:00.000Z",
+      "fetchedAt": "2026-09-26T17:15:41.433Z",
+      "title_hi": "सम्राट: बिहार, केंद्र नेपाल सीमा पर सीमा पार अपराधों पर समन्वय करें",
+      "summary_hi": "मुख्यमंत्री सम्राट चौधरी ने शनिवार को मुख्यमंत्री सचिवालय के 'संवाद' हॉल में एक व्यापक उच्च स्तरीय समीक्षा बैठक की अध्यक्षता करने के बाद कहा कि संवेदनशील भारत-नेपाल सीमा पर घुसपैठ, जाली मुद्रा, मादक पदार्थों की तस्करी और अन्य सीमा पार अपराधों को रोकने के लिए बिहार सरकार और केंद्र निकट समन्वय में काम करेंगे।",
+      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
+      "title_hinglish": "samrat: bihar, kendra nepala sima para sima para aparadhon para samanvaya karen",
+      "summary_hinglish": "mukhyamantri samrata chaudhari ne shanivara ko mukhyamantri sachivalaya ke 'sanvada' hola men eka vyapaka uchcha stariya samiksha baithaka ki adhyakshata karane ke bada kaha ki sanvedanashila bharata-nepala sima para ghusapaith, jali mudr, madaka padarthon ki taskari aura anya sima para aparadhon ko rokane ke lie bihara sarakara aura kendra nikata samanvaya men kama karenge।",
+      "category_hinglish": "Crime aur Breaking News"
+    },
+    {
       "id": "e06ba92afcc1d1a6",
       "provider": "google_news_rss",
       "providerId": "CBMiygFBVV95cUxOUkl5Y1BHRkVMNWxFelJ0RFRLaUxIMkF0QWNCSHR2Qm1BU2thdjVwaGtUNnhZYTZzUnFHRGNCZ2RMVV9OWkNwenFxWjNoc0pFcW4wRmFFQ3lnYW1yV1NrZzcxaUp1ZkhfOGFKaUhpTVB1Q09Xck05c1lZT0RTdmpCUE1TNWFvUWhSUkkyOGI4QXdvZktaZ180RHhHd0xBRDRWU1RlcjFDNXlPaW80eHNCLUdIREhmX1VtTE92bmk0bjhSWTFnTjluYjFR0gHPAUFVX3lxTE1ibUh4YmhiZ1VuZUk1eG9uZW1aVmxpVXR5TGt3UG1nXzVBdW9XYlR6eUI0RGlsNlQzU202NkZCbzk3WjJVV0hXMFRhU0p6T2FuUmR3VWlVNXJabXhtWVo3NDZYMk1DOGZiTWQ1bTZSeC01aklPNENlNnhIbUlxWVd3TUp4QmZSWDVLNUQtWVc5RUhHODhjMVVWTHU4MzFoaXVhaTdkbmc1dTVyN1dMUWVkQzVXbDFYZWVodjlMUWRKMlhJS2otTUo2bkt0eEVSVQ",
@@ -652,23 +688,6 @@
       "category_hinglish": "Sports",
       "title_hinglish": "kanpaunda tirandaji men bharata ne jita dohara svarna",
       "summary_hinglish": "nagoya men budhavara ko eshiyaee khelon men bharata ne kanpaunda tirandaji men dohara svarna padaka jita। chikitha taniparthi aura sahila jadhava ne shuta-ऑpha men koriya ko haraya aura mahila tima ne apane khitaba ki raksha ke lie vishva rikorda-barabara skora ke satha china ko haraya।"
-    },
-    {
-      "id": "03943fafde680d0a",
-      "title": "Samrat: Bihar, Centre to coordinate on cross-border crimes along Nepal border",
-      "summary": "Bihar govt and Centre will work in close coordination to curb infiltration, counterfeit currency, drug trafficking and other cross-border crimes along the sensitive India-Nepal border, CM Samrat Choudhary said here on Saturday after chairing a comprehensive high-level review meeting at the ‘Samvad’ hall in the Chief Minister’s Secretariat.",
-      "category": "Crime & Breaking News",
-      "image": "https://static.toiimg.com/thumb/msid-134507867,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source": "The Times of India",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/patna/samrat-bihar-centre-to-coordinate-on-cross-border-crimes-along-nepal-border/articleshow/134507868.cms",
-      "publishedAt": "2026-09-26T16:54:00.000Z",
-      "fetchedAt": "2026-09-26T17:15:41.433Z",
-      "title_hi": "सम्राट: बिहार, केंद्र नेपाल सीमा पर सीमा पार अपराधों पर समन्वय करें",
-      "summary_hi": "मुख्यमंत्री सम्राट चौधरी ने शनिवार को मुख्यमंत्री सचिवालय के 'संवाद' हॉल में एक व्यापक उच्च स्तरीय समीक्षा बैठक की अध्यक्षता करने के बाद कहा कि संवेदनशील भारत-नेपाल सीमा पर घुसपैठ, जाली मुद्रा, मादक पदार्थों की तस्करी और अन्य सीमा पार अपराधों को रोकने के लिए बिहार सरकार और केंद्र निकट समन्वय में काम करेंगे।",
-      "category_hi": "अपराध और ब्रेकिंग न्यूज़",
-      "title_hinglish": "samrat: bihar, kendra nepala sima para sima para aparadhon para samanvaya karen",
-      "summary_hinglish": "mukhyamantri samrata chaudhari ne shanivara ko mukhyamantri sachivalaya ke 'sanvada' hola men eka vyapaka uchcha stariya samiksha baithaka ki adhyakshata karane ke bada kaha ki sanvedanashila bharata-nepala sima para ghusapaith, jali mudr, madaka padarthon ki taskari aura anya sima para aparadhon ko rokane ke lie bihara sarakara aura kendra nikata samanvaya men kama karenge।",
-      "category_hinglish": "Crime aur Breaking News"
     },
     {
       "id": "5737a8744957c9fd",
@@ -1296,25 +1315,6 @@
       "title_hinglish": "trampa ne takaniki diggajon ke satha eaaee samajhaute ka khulasa kiy, deta sentara ka samarthana kiya",
       "summary_hinglish": "ameriki rashtrapati donalda trampa ne vhaita hausa ki baithaka ke bada pramukha praudyogiki kanpaniyon dvara hastaksharita eka peja ke kritrima buddhimatta samajhaute ka anavarana kiya। yaha dhancha aaja deta kendron ki tivra vriddhi ka samarthana karate hue svatantra ऑdit, borda nirikshana aura aantarika jancha ki manga karata hai।",
       "category_hinglish": "Technology"
-    },
-    {
-      "id": "d4226e35245d44cc",
-      "provider": "google_news_rss",
-      "providerId": "CBMipwFBVV95cUxNQUZoMmVrajRyT1lWTGpRTmNMZmozeEVCclp1QnRlaDBDb3hMc3o2M2owQmM3bDZfMVY2SjR3WjJOZXVHUFZBLVFNVHpoSTlrVHlvTmFsNzl6TWJRN1JvWUdPSlhvVTNSbUNkMTVoejk2VmpjY2NrM2Jtc3lSdjVTNl91czVlWHhzaVpWQ1gxVmdGUGU0TGdlR080RGpsVTB5QU52NWJRYw",
-      "title": "AIIB can expand financing to AI, MSME and skilling sectors",
-      "summary": "Finance Minister Nirmala Sitharaman stated that the Asian Infrastructure Investment Bank could expand beyond physical infrastructure financing to include newer infrastructure in India focusing on artificial intelligence, micro, small, and medium enterprises, and skilling during a meeting in Doha Qatar.",
-      "category": "Business & Finance",
-      "image": "https://therahnuma.com/wp-content/uploads/2026/09/202609293959813.jpg",
-      "source": "The Rahnuma Daily",
-      "sourceUrl": "https://therahnuma.com/aiib-can-expand-financing-to-ai-msme-and-skilling-sectors-in-india-fm-sitharaman/",
-      "publishedAt": "2026-09-29T22:23:37.000Z",
-      "fetchedAt": "2026-09-30T08:03:37.332Z",
-      "title_hi": "एआईआईबी एआई, एमएसएमई और कौशल क्षेत्रों में वित्तपोषण का विस्तार कर सकता है",
-      "summary_hi": "वित्त मंत्री निर्मला सीतारमण ने दोहा कतर में एक बैठक के दौरान कहा कि एशियन इंफ्रास्ट्रक्चर इन्वेस्टमेंट बैंक भारत में कृत्रिम बुद्धिमत्ता, सूक्ष्म, लघु और मध्यम उद्यमों और कौशल पर ध्यान केंद्रित करने वाले नए बुनियादी ढांचे को शामिल करने के लिए भौतिक बुनियादी ढांचे के वित्तपोषण से परे विस्तार कर सकता है।",
-      "category_hi": "बिज़नेस और फाइनेंस",
-      "category_hinglish": "Business aur Finance",
-      "title_hinglish": "eaaeeaaeebi eaaee, emaesaemaee aura kaushala kshetron men vittaposhana ka vistara kara sakata hai",
-      "summary_hinglish": "vitta mantri nirmala sitaramana ne doha katara men eka baithaka ke daurana kaha ki eshiyana inphrastrakchara investamenta bainka bharata men kritrima buddhimatt, sukshm, laghu aura madhyama udyamon aura kaushala para dhyana kendrita karane vale nae buniyadi dhanche ko shamila karane ke lie bhautika buniyadi dhanche ke vittaposhana se pare vistara kara sakata hai।"
     },
     {
       "id": "38c7442445011dbe",
