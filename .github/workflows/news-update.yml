@@ -39,7 +39,7 @@ jobs:
           GEMINI_MODEL: ${{ vars.GEMINI_MODEL || 'gemini-3.5-flash-lite' }}
           FEED_MAX_ARTICLES: ${{ vars.FEED_MAX_ARTICLES || '250' }}
           MAX_NEW_EXTERNAL_PER_CATEGORY: ${{ vars.MAX_NEW_EXTERNAL_PER_CATEGORY || '10' }}
-          MAX_NEW_BIHAR_PER_CATEGORY: ${{ vars.MAX_NEW_BIHAR_PER_CATEGORY || '8' }}
+          MAX_NEW_BIHAR_PER_CATEGORY: '8'
           RSS_ITEMS_PER_CATEGORY: ${{ vars.RSS_ITEMS_PER_CATEGORY || '60' }}
           FRESH_WINDOW_HOURS: ${{ vars.FRESH_WINDOW_HOURS || '48' }}
           FEED_RETENTION_HOURS: ${{ vars.FEED_RETENTION_HOURS || '168' }}
