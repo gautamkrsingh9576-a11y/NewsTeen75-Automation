@@ -69,13 +69,13 @@ const externalCategories = [
 ];
 
 const biharCategories = [
-  { name: "Politics & Government", query: "Bihar politics government election policy when:1d" },
-  { name: "Crime & Breaking News", query: "Bihar crime police accident court breaking news when:1d" },
-  { name: "Sports", query: "Bihar sports cricket tournament when:1d" },
-  { name: "Entertainment", query: "Bihar entertainment cinema culture when:1d" },
-  { name: "Technology", query: "Bihar technology AI startup digital when:1d" },
-  { name: "Business & Finance", query: "Bihar business startup funding economy market when:1d" },
-  { name: "National & Trending News", query: "Bihar latest local development education infrastructure trending when:1d" },
+  { name: "Politics & Government", query: "(Bihar OR Patna) politics government election policy when:2d" },
+  { name: "Crime & Breaking News", query: "(Bihar OR Patna) crime police accident court breaking news when:2d" },
+  { name: "Sports", query: "(Bihar OR Patna) sports cricket tournament when:2d" },
+  { name: "Entertainment", query: "(Bihar OR Patna) entertainment cinema culture when:2d" },
+  { name: "Technology", query: "(Bihar OR Patna) technology AI startup digital when:2d" },
+  { name: "Business & Finance", query: "(Bihar OR Patna) business startup funding economy market when:2d" },
+  { name: "National & Trending News", query: "(Bihar OR Patna) local development education infrastructure trending when:2d" },
 ];
 
 const BIHAR_TERMS = [
