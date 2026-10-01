@@ -14,7 +14,7 @@ const MAX_NEW_EXTERNAL_PER_CATEGORY = Number(
   process.env.MAX_NEW_EXTERNAL_PER_CATEGORY || 10
 );
 const MAX_NEW_BIHAR_PER_CATEGORY = Number(
-  process.env.MAX_NEW_BIHAR_PER_CATEGORY || 4
+  process.env.MAX_NEW_BIHAR_PER_CATEGORY || 8
 );
 const RSS_ITEMS_PER_CATEGORY = Number(
   process.env.RSS_ITEMS_PER_CATEGORY || 60
@@ -1175,76 +1175,41 @@ function isBiharArticle(article) {
   return article?.__scope === "bihar" || containsBiharLocation(article);
 }
 
-function selectWithSeventyThirtyRatio(articles, limit = MAX_ARTICLES) {
+function selectWithSixtyFortyRatio(articles, limit = MAX_ARTICLES) {
   const bihar = articles
     .filter(isBiharArticle)
     .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
 
-  const external = articles
+  const general = articles
     .filter((article) => !isBiharArticle(article))
     .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
 
-  const total = Math.min(limit, bihar.length + external.length);
+  const total = Math.min(limit, bihar.length + general.length);
 
   if (total <= 0) return [];
-  if (!bihar.length) return external.slice(0, total);
-  if (!external.length) return bihar.slice(0, total);
+  if (!bihar.length) return general.slice(0, total);
+  if (!general.length) return bihar.slice(0, total);
 
   const biharTarget = Math.min(
     bihar.length,
-    Math.round(total * 0.3)
+    Math.round(total * 0.4)
   );
 
-  const externalTarget = Math.min(
-    external.length,
+  const generalTarget = Math.min(
+    general.length,
     total - biharTarget
   );
 
-  const selectedBihar = bihar.slice(0, biharTarget);
-  const selectedExternal = external.slice(0, externalTarget);
-
-  const selected = [];
-  const pattern = [
-    "external",
-    "external",
-    "bihar",
-    "external",
-    "external",
-    "bihar",
-    "external",
-    "external",
-    "external",
-    "bihar",
+  const selected = [
+    ...general.slice(0, generalTarget),
+    ...bihar.slice(0, biharTarget),
   ];
 
-  let externalIndex = 0;
-  let biharIndex = 0;
+  const selectedIds = new Set(
+    selected.map((article) => article.id)
+  );
 
-  while (
-    selected.length < total &&
-    (externalIndex < selectedExternal.length ||
-      biharIndex < selectedBihar.length)
-  ) {
-    for (const slot of pattern) {
-      if (selected.length >= total) break;
-
-      if (
-        slot === "external" &&
-        externalIndex < selectedExternal.length
-      ) {
-        selected.push(selectedExternal[externalIndex++]);
-      } else if (
-        slot === "bihar" &&
-        biharIndex < selectedBihar.length
-      ) {
-        selected.push(selectedBihar[biharIndex++]);
-      }
-    }
-  }
-
-  const selectedIds = new Set(selected.map((article) => article.id));
-
-  const overflow = [...external, ...bihar]
+  const overflow = [...general, ...bihar]
     .filter((article) => !selectedIds.has(article.id))
     .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
 
@@ -1253,7 +1218,11 @@ function selectWithSeventyThirtyRatio(articles, limit = MAX_ARTICLES) {
     selected.push(article);
   }
 
-  return selected.slice(0, total);
+  // Keep the chosen 60/40 mix, but always present the chosen stories
+  // newest-first by the publisher's actual publication time.
+  return selected
+    .slice(0, total)
+    .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
 }
 
 async function resolvePublisherUrl(url) {
@@ -1628,7 +1597,7 @@ async function main() {
     ]).filter(articleHasRequiredQuality)
   );
 
-  const selected = selectWithSeventyThirtyRatio(
+  const selected = selectWithSixtyFortyRatio(
     eligible,
     MAX_ARTICLES
   );
