@@ -82,7 +82,7 @@ const BIHAR_TERMS = [
   "bihar", "patna", "gaya", "muzaffarpur", "bhagalpur", "darbhanga",
   "nalanda", "bihar sharif", "purnia", "purnea", "begusarai",
   "samastipur", "madhubani", "sitamarhi", "motihari", "bettiah",
-  "katihar", "kishanganj", "arrah", "ara", "buxar", "sasaram",
+  "katihar", "kishanganj", "arrah", "buxar", "sasaram",
   "rohtas", "kaimur", "nawada", "jamui", "munger", "lakhisarai",
   "sheikhpura", "jehanabad", "arwal", "hajipur", "vaishali", "siwan",
   "chapra", "chhapra", "saharsa", "supaul", "madhepura", "araria",
@@ -1159,7 +1159,6 @@ function containsBiharLocation(article) {
     article?.summary,
     article?.description,
     article?.source,
-    article?.sourceUrl,
   ]
     .filter(Boolean)
     .join(" ")
