@@ -1436,7 +1436,11 @@ async function fetchCategory(
 
 function stripInternalFields(article) {
   const { __scope, __stateSlug, ...publicArticle } = article;
-  return publicArticle;
+
+  return {
+    ...publicArticle,
+    stateSlug: inferStateSlug(article),
+  };
 }
 
 function articleToArchiveRow(article) {
