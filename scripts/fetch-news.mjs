@@ -1224,7 +1224,7 @@ function dedupeArticles(articles) {
 
 function textMatchesTerms(text, terms = []) {
   return terms.some((term) => {
-    const escaped = term.replace(/[.*+?^${}()|[\\]\\\\]/g, "\\$&");
+    const escaped = term.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
     return new RegExp("\\b" + escaped + "\\b", "i").test(text);
   });
 }
