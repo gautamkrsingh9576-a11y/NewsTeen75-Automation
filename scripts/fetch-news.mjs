@@ -16,6 +16,9 @@ const MAX_NEW_EXTERNAL_PER_CATEGORY = Number(
 const MAX_NEW_BIHAR_PER_CATEGORY = Number(
   process.env.MAX_NEW_BIHAR_PER_CATEGORY || 8
 );
+const MAX_NEW_STATE_PER_REGION = Number(
+  process.env.MAX_NEW_STATE_PER_REGION || 1
+);
 const RSS_ITEMS_PER_CATEGORY = Number(
   process.env.RSS_ITEMS_PER_CATEGORY || 60
 );
@@ -78,16 +81,82 @@ const biharCategories = [
   { name: "National & Trending News", query: "(Bihar OR Patna) local development education infrastructure trending when:2d" },
 ];
 
-const BIHAR_TERMS = [
-  "bihar", "patna", "gaya", "muzaffarpur", "bhagalpur", "darbhanga",
-  "nalanda", "bihar sharif", "purnia", "purnea", "begusarai",
-  "samastipur", "madhubani", "sitamarhi", "motihari", "bettiah",
-  "katihar", "kishanganj", "arrah", "buxar", "sasaram",
-  "rohtas", "kaimur", "nawada", "jamui", "munger", "lakhisarai",
-  "sheikhpura", "jehanabad", "arwal", "hajipur", "vaishali", "siwan",
-  "chapra", "chhapra", "saharsa", "supaul", "madhepura", "araria",
-  "khagaria"
+const STATE_REGIONS = [
+  { slug: "andhra-pradesh", name: "Andhra Pradesh", query: "Andhra Pradesh latest news when:2d" },
+  { slug: "arunachal-pradesh", name: "Arunachal Pradesh", query: "Arunachal Pradesh latest news when:2d" },
+  { slug: "assam", name: "Assam", query: "Assam latest news when:2d" },
+  { slug: "chhattisgarh", name: "Chhattisgarh", query: "Chhattisgarh latest news when:2d" },
+  { slug: "goa", name: "Goa", query: "Goa latest news when:2d" },
+  { slug: "gujarat", name: "Gujarat", query: "Gujarat latest news when:2d" },
+  { slug: "haryana", name: "Haryana", query: "Haryana latest news when:2d" },
+  { slug: "himachal-pradesh", name: "Himachal Pradesh", query: "Himachal Pradesh latest news when:2d" },
+  { slug: "jharkhand", name: "Jharkhand", query: "Jharkhand latest news when:2d" },
+  { slug: "karnataka", name: "Karnataka", query: "Karnataka latest news when:2d" },
+  { slug: "kerala", name: "Kerala", query: "Kerala latest news when:2d" },
+  { slug: "madhya-pradesh", name: "Madhya Pradesh", query: "Madhya Pradesh latest news when:2d" },
+  { slug: "maharashtra", name: "Maharashtra", query: "Maharashtra latest news when:2d" },
+  { slug: "manipur", name: "Manipur", query: "Manipur latest news when:2d" },
+  { slug: "meghalaya", name: "Meghalaya", query: "Meghalaya latest news when:2d" },
+  { slug: "mizoram", name: "Mizoram", query: "Mizoram latest news when:2d" },
+  { slug: "nagaland", name: "Nagaland", query: "Nagaland latest news when:2d" },
+  { slug: "odisha", name: "Odisha", query: "Odisha latest news when:2d" },
+  { slug: "punjab", name: "Punjab", query: "Punjab India latest news when:2d" },
+  { slug: "rajasthan", name: "Rajasthan", query: "Rajasthan latest news when:2d" },
+  { slug: "sikkim", name: "Sikkim", query: "Sikkim latest news when:2d" },
+  { slug: "tamil-nadu", name: "Tamil Nadu", query: "Tamil Nadu latest news when:2d" },
+  { slug: "telangana", name: "Telangana", query: "Telangana latest news when:2d" },
+  { slug: "tripura", name: "Tripura", query: "Tripura latest news when:2d" },
+  { slug: "uttar-pradesh", name: "Uttar Pradesh", query: "Uttar Pradesh latest news when:2d" },
+  { slug: "uttarakhand", name: "Uttarakhand", query: "Uttarakhand latest news when:2d" },
+  { slug: "west-bengal", name: "West Bengal", query: "West Bengal latest news when:2d" },
+  { slug: "andaman-and-nicobar-islands", name: "Andaman and Nicobar Islands", query: "Andaman Nicobar latest news when:2d" },
+  { slug: "chandigarh", name: "Chandigarh", query: "Chandigarh latest news when:2d" },
+  { slug: "dadra-and-nagar-haveli-and-daman-and-diu", name: "Dadra and Nagar Haveli and Daman and Diu", query: "Dadra Nagar Haveli Daman Diu latest news when:2d" },
+  { slug: "delhi", name: "Delhi", query: "Delhi NCR latest news when:2d" },
+  { slug: "jammu-and-kashmir", name: "Jammu and Kashmir", query: "Jammu Kashmir latest news when:2d" },
+  { slug: "ladakh", name: "Ladakh", query: "Ladakh latest news when:2d" },
+  { slug: "lakshadweep", name: "Lakshadweep", query: "Lakshadweep latest news when:2d" },
+  { slug: "puducherry", name: "Puducherry", query: "Puducherry latest news when:2d" },
 ];
+
+const STATE_LOCATION_TERMS = {
+  "bihar": ["bihar", "patna", "gaya", "muzaffarpur", "bhagalpur", "darbhanga", "nalanda", "bihar sharif", "purnia", "begusarai", "samastipur", "madhubani", "sitamarhi", "motihari", "bettiah", "katihar", "kishanganj", "arrah", "buxar", "sasaram", "rohtas", "nawada", "jamui", "munger", "hajipur", "vaishali", "siwan", "chapra", "saharsa", "supaul", "madhepura", "araria", "khagaria"],
+  "andhra-pradesh": ["andhra pradesh", "visakhapatnam", "vijayawada", "tirupati", "guntur", "nellore"],
+  "arunachal-pradesh": ["arunachal pradesh", "itanagar", "tawang"],
+  "assam": ["assam", "guwahati", "dibrugarh", "silchar", "jorhat"],
+  "chhattisgarh": ["chhattisgarh", "raipur", "bilaspur", "durg", "bhilai"],
+  "goa": ["goa", "panaji", "margao", "vasco da gama"],
+  "gujarat": ["gujarat", "ahmedabad", "surat", "vadodara", "rajkot", "gandhinagar"],
+  "haryana": ["haryana", "gurugram", "gurgaon", "faridabad", "panipat", "hisar", "ambala"],
+  "himachal-pradesh": ["himachal pradesh", "shimla", "manali", "dharamshala", "mandi"],
+  "jharkhand": ["jharkhand", "ranchi", "jamshedpur", "dhanbad", "bokaro", "deoghar"],
+  "karnataka": ["karnataka", "bengaluru", "bangalore", "mysuru", "mysore", "mangaluru", "hubballi"],
+  "kerala": ["kerala", "thiruvananthapuram", "kochi", "kozhikode", "thrissur", "kannur"],
+  "madhya-pradesh": ["madhya pradesh", "bhopal", "indore", "gwalior", "jabalpur", "ujjain"],
+  "maharashtra": ["maharashtra", "mumbai", "pune", "nagpur", "nashik", "thane", "aurangabad"],
+  "manipur": ["manipur", "imphal"],
+  "meghalaya": ["meghalaya", "shillong"],
+  "mizoram": ["mizoram", "aizawl"],
+  "nagaland": ["nagaland", "kohima", "dimapur"],
+  "odisha": ["odisha", "orissa", "bhubaneswar", "cuttack", "puri", "rourkela"],
+  "punjab": ["punjab", "ludhiana", "amritsar", "jalandhar", "patiala", "bathinda"],
+  "rajasthan": ["rajasthan", "jaipur", "jodhpur", "udaipur", "kota", "ajmer", "bikaner"],
+  "sikkim": ["sikkim", "gangtok"],
+  "tamil-nadu": ["tamil nadu", "chennai", "coimbatore", "madurai", "tiruchirappalli", "salem"],
+  "telangana": ["telangana", "hyderabad", "warangal", "karimnagar", "nizamabad"],
+  "tripura": ["tripura", "agartala"],
+  "uttar-pradesh": ["uttar pradesh", "lucknow", "kanpur", "agra", "varanasi", "prayagraj", "noida", "ghaziabad", "gorakhpur"],
+  "uttarakhand": ["uttarakhand", "dehradun", "haridwar", "rishikesh", "nainital", "haldwani"],
+  "west-bengal": ["west bengal", "kolkata", "howrah", "siliguri", "durgapur", "asansol"],
+  "andaman-and-nicobar-islands": ["andaman", "nicobar", "port blair"],
+  "chandigarh": ["chandigarh"],
+  "dadra-and-nagar-haveli-and-daman-and-diu": ["dadra and nagar haveli", "daman", "diu", "silvassa"],
+  "delhi": ["delhi", "new delhi", "delhi ncr"],
+  "jammu-and-kashmir": ["jammu and kashmir", "jammu", "srinagar", "kashmir"],
+  "ladakh": ["ladakh", "leh", "kargil"],
+  "lakshadweep": ["lakshadweep", "kavaratti"],
+  "puducherry": ["puducherry", "pondicherry"],
+};
 
 const CATEGORY_TRANSLATIONS = {
   "Politics & Government": {
@@ -1153,7 +1222,18 @@ function dedupeArticles(articles) {
   return kept;
 }
 
-function containsBiharLocation(article) {
+function textMatchesTerms(text, terms = []) {
+  return terms.some((term) => {
+    const escaped = term.replace(/[.*+?^${}()|[\\]\\\\]/g, "\\$&");
+    return new RegExp("\\b" + escaped + "\\b", "i").test(text);
+  });
+}
+
+function inferStateSlug(article) {
+  const explicit = String(article?.__stateSlug || "").trim().toLowerCase();
+
+  if (explicit) return explicit;
+
   const text = [
     article?.title,
     article?.summary,
@@ -1164,66 +1244,24 @@ function containsBiharLocation(article) {
     .join(" ")
     .toLowerCase();
 
-  return BIHAR_TERMS.some((term) => {
-    const escaped = term.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
-    return new RegExp(`\\b${escaped}\\b`, "i").test(text);
-  });
+  if (!text) return null;
+
+  for (const [slug, terms] of Object.entries(STATE_LOCATION_TERMS)) {
+    if (textMatchesTerms(text, terms)) return slug;
+  }
+
+  return null;
 }
 
 function isBiharArticle(article) {
-  return article?.__scope === "bihar" || containsBiharLocation(article);
+  return inferStateSlug(article) === "bihar";
 }
 
-function selectWithSixtyFortyRatio(articles, limit = MAX_ARTICLES) {
-  const bihar = articles
-    .filter(isBiharArticle)
-    .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
-
-  const general = articles
-    .filter((article) => !isBiharArticle(article))
-    .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
-
-  const total = Math.min(limit, bihar.length + general.length);
-
-  if (total <= 0) return [];
-  if (!bihar.length) return general.slice(0, total);
-  if (!general.length) return bihar.slice(0, total);
-
-  const biharTarget = Math.min(
-    bihar.length,
-    Math.round(total * 0.4)
-  );
-
-  const generalTarget = Math.min(
-    general.length,
-    total - biharTarget
-  );
-
-  const selected = [
-    ...general.slice(0, generalTarget),
-    ...bihar.slice(0, biharTarget),
-  ];
-
-  const selectedIds = new Set(
-    selected.map((article) => article.id)
-  );
-
-  const overflow = [...general, ...bihar]
-    .filter((article) => !selectedIds.has(article.id))
-    .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
-
-  for (const article of overflow) {
-    if (selected.length >= total) break;
-    selected.push(article);
-  }
-
-  // Keep the chosen 60/40 mix, but always present the chosen stories
-  // newest-first by the publisher's actual publication time.
-  return selected
-    .slice(0, total)
-    .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
+function selectLatestArticles(articles, limit = MAX_ARTICLES) {
+  return [...articles]
+    .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt))
+    .slice(0, limit);
 }
-
 async function resolvePublisherUrl(url) {
   if (!url) return "";
 
@@ -1287,7 +1325,14 @@ async function enrichArticle(url) {
   }
 }
 
-async function fetchCategory(category, knownLinks, knownTitles, maxNew, scope) {
+async function fetchCategory(
+  category,
+  knownLinks,
+  knownTitles,
+  maxNew,
+  scope,
+  stateSlug = null
+) {
   const url = `https://news.google.com/rss/search?q=${encodeURIComponent(category.query)}&hl=en-IN&gl=IN&ceid=IN:en`;
   const response = await fetchWithRetry(
     url,
@@ -1378,6 +1423,7 @@ async function fetchCategory(category, knownLinks, knownTitles, maxNew, scope) {
       publishedAt,
       fetchedAt: new Date().toISOString(),
       __scope: scope,
+      __stateSlug: stateSlug,
     });
 
     knownLinks.add(item.link);
@@ -1389,7 +1435,7 @@ async function fetchCategory(category, knownLinks, knownTitles, maxNew, scope) {
 }
 
 function stripInternalFields(article) {
-  const { __scope, ...publicArticle } = article;
+  const { __scope, __stateSlug, ...publicArticle } = article;
   return publicArticle;
 }
 
@@ -1422,6 +1468,7 @@ function articleToArchiveRow(article) {
     published_at: article?.publishedAt,
     ingested_at: article?.fetchedAt || new Date().toISOString(),
     story_fingerprint: normalizedStoryTitle(article?.title || "") || null,
+    state_slug: inferStateSlug(article),
     is_bihar: isBiharArticle(article),
   };
 }
@@ -1575,11 +1622,32 @@ async function main() {
           knownLinks,
           knownTitles,
           MAX_NEW_BIHAR_PER_CATEGORY,
+          "state",
           "bihar"
         ))
       );
     } catch (error) {
       console.error(error.message);
+    }
+  }
+
+  for (const region of STATE_REGIONS) {
+    try {
+      newArticles.push(
+        ...(await fetchCategory(
+          {
+            name: "National & Trending News",
+            query: region.query,
+          },
+          knownLinks,
+          knownTitles,
+          MAX_NEW_STATE_PER_REGION,
+          "state",
+          region.slug
+        ))
+      );
+    } catch (error) {
+      console.error(region.name + ": " + error.message);
     }
   }
 
@@ -1597,7 +1665,7 @@ async function main() {
     ]).filter(articleHasRequiredQuality)
   );
 
-  const selected = selectWithSixtyFortyRatio(
+  const selected = selectLatestArticles(
     eligible,
     MAX_ARTICLES
   );
@@ -1637,8 +1705,10 @@ async function main() {
     return;
   }
 
-  const biharCount = selected.filter(isBiharArticle).length;
-  const externalCount = selected.length - biharCount;
+  const stateTaggedCount = selected.filter(
+    (article) => Boolean(inferStateSlug(article))
+  ).length;
+  const generalCount = selected.length - stateTaggedCount;
 
   const output = {
     updatedAt: new Date().toISOString(),
@@ -1658,7 +1728,7 @@ async function main() {
   console.log(
     `Fetched ${newArticles.length} new candidate article(s). ` +
       `Archive synced ${archiveResult.synced}. ` +
-      `Final feed: ${externalCount} external / ${biharCount} Bihar / ${outputArticles.length} total.`
+      `Final feed: ${generalCount} general / ${stateTaggedCount} state-tagged / ${outputArticles.length} total.`
   );
 }
 
