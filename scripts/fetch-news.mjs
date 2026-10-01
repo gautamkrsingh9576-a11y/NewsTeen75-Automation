@@ -1423,6 +1423,7 @@ function articleToArchiveRow(article) {
     published_at: article?.publishedAt,
     ingested_at: article?.fetchedAt || new Date().toISOString(),
     story_fingerprint: normalizedStoryTitle(article?.title || "") || null,
+    is_bihar: isBiharArticle(article),
   };
 }
 
