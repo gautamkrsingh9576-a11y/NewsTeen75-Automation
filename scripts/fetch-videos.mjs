@@ -182,23 +182,42 @@ async function resolveChannel(channel) {
   return resolved;
 }
 
-async function fetchLatestUploads(channel) {
-  const data = await youtubeGet("playlistItems", {
-    part: "snippet,contentDetails,status",
-    playlistId: channel.uploads_playlist_id,
-    maxResults: MAX_VIDEOS_PER_CHANNEL,
-  });
+async function fetchChannelRssUploads(channel) {
+  const channelId = String(channel.youtube_channel_id || "").trim();
 
-  return (data.items || [])
-    .map((item) => {
+  if (!channelId) {
+    throw new Error(
+      `Cannot use RSS fallback without channel ID for ${channel.channel_name}`
+    );
+  }
+
+  const response = await fetch(
+    `https://www.youtube.com/feeds/videos.xml?channel_id=${encodeURIComponent(channelId)}`,
+    {
+      headers: {
+        accept: "application/atom+xml,application/xml,text/xml",
+        "user-agent": "NewsTeen75VideoBot/1.0",
+      },
+    }
+  );
+
+  if (!response.ok) {
+    throw new Error(
+      `YouTube RSS failed for ${channel.channel_name}: ${response.status}`
+    );
+  }
+
+  const xml = await response.text();
+  const entries = [...xml.matchAll(/<entry>([\s\S]*?)<\/entry>/g)];
+
+  return entries
+    .map((match) => {
+      const entry = match[1];
       const videoId =
-        item.contentDetails?.videoId ||
-        item.snippet?.resourceId?.videoId ||
+        entry.match(/<yt:videoId>([^<]+)<\/yt:videoId>/)?.[1]?.trim() ||
         "";
-
       const publishedAt =
-        item.contentDetails?.videoPublishedAt ||
-        item.snippet?.publishedAt ||
+        entry.match(/<published>([^<]+)<\/published>/)?.[1]?.trim() ||
         null;
 
       if (!videoId || !publishedAt) return null;
@@ -209,7 +228,52 @@ async function fetchLatestUploads(channel) {
         channel,
       };
     })
-    .filter(Boolean);
+    .filter(Boolean)
+    .slice(0, MAX_VIDEOS_PER_CHANNEL);
+}
+
+async function fetchLatestUploads(channel) {
+  try {
+    const data = await youtubeGet("playlistItems", {
+      part: "snippet,contentDetails,status",
+      playlistId: channel.uploads_playlist_id,
+      maxResults: MAX_VIDEOS_PER_CHANNEL,
+    });
+
+    return (data.items || [])
+      .map((item) => {
+        const videoId =
+          item.contentDetails?.videoId ||
+          item.snippet?.resourceId?.videoId ||
+          "";
+
+        const publishedAt =
+          item.contentDetails?.videoPublishedAt ||
+          item.snippet?.publishedAt ||
+          null;
+
+        if (!videoId || !publishedAt) return null;
+
+        return {
+          videoId,
+          publishedAt,
+          channel,
+        };
+      })
+      .filter(Boolean);
+  } catch (error) {
+    const message = String(error?.message || error);
+
+    if (message.includes("playlistItems failed: 404")) {
+      console.warn(
+        `Uploads playlist unavailable for ${channel.channel_name}; using YouTube RSS fallback.`
+      );
+
+      return fetchChannelRssUploads(channel);
+    }
+
+    throw error;
+  }
 }
 
 async function writeFallbackJson() {
