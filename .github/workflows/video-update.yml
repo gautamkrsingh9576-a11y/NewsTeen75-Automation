@@ -1,0 +1,56 @@
+name: Update NewsTeen75 Video Feed
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: newsteen75-video-update
+  cancel-in-progress: false
+
+jobs:
+  update-videos:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v5
+        with:
+          node-version: "24"
+
+      - name: Install dependencies
+        run: npm install --no-audit --no-fund
+
+      - name: Fetch latest approved-channel videos
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          MAX_VIDEOS_PER_CHANNEL: ${{ vars.MAX_VIDEOS_PER_CHANNEL || '10' }}
+          VIDEO_FEED_MAX: ${{ vars.VIDEO_FEED_MAX || '250' }}
+        run: npm run fetch-videos
+
+      - name: Commit fallback video feed when changed
+        shell: bash
+        run: |
+          git add data/videos.json
+          if git diff --cached --quiet; then
+            echo "No video feed changes to commit."
+            exit 0
+          fi
+
+          git config user.name "NewsTeen75 Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git commit -m "Update NewsTeen75 video feed"
+          git pull --rebase origin main
+          git push origin HEAD:main
