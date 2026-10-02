@@ -300,9 +300,20 @@ async function recordRun({
 
 async function main() {
   if (!YOUTUBE_API_KEY) {
-    throw new Error(
-      "YOUTUBE_API_KEY is required to fetch channel uploads and video duration."
+    await writeFallbackJson();
+
+    await recordRun({
+      status: "skipped",
+      channelsChecked: 0,
+      fetchedCount: 0,
+      upsertedCount: 0,
+      errorMessage: "YOUTUBE_API_KEY is not configured.",
+    });
+
+    console.log(
+      "Video ingestion skipped: add the YOUTUBE_API_KEY repository secret to enable YouTube fetching."
     );
+    return;
   }
 
   const { data: channels, error: channelsError } =
