@@ -100,6 +100,7 @@ as $function$
     c.active = true
     and v.status = 'active'
     and v.embeddable = true
+    and v.duration_seconds between 10 and 180
     and (p_category is null or p_category = '' or v.category = p_category)
     and (
       p_before_published_at is null
