@@ -38,6 +38,8 @@ jobs:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
           MAX_VIDEOS_PER_CHANNEL: ${{ vars.MAX_VIDEOS_PER_CHANNEL || '10' }}
           VIDEO_FEED_MAX: ${{ vars.VIDEO_FEED_MAX || '250' }}
+          MIN_SHORT_SECONDS: '10'
+          MAX_SHORT_SECONDS: '180'
         run: npm run fetch-videos
 
       - name: Commit fallback video feed when changed
