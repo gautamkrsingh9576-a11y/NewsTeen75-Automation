@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-02T20:39:12.534Z",
-  "count": 152,
+  "updatedAt": "2026-10-02T20:53:52.853Z",
+  "count": 153,
   "videos": [
     {
       "id": "ZDbkQVbAmT8",
@@ -51,6 +51,19 @@
       "publishedAt": "2026-10-02T18:32:49+00:00",
       "durationSeconds": 81,
       "youtubeUrl": "https://www.youtube.com/watch?v=mFsbIoN99B4",
+      "category": "Finance",
+      "language": "en"
+    },
+    {
+      "id": "8vzUv3irf1M",
+      "youtubeVideoId": "8vzUv3irf1M",
+      "title": "Selling gold is no longer just about the price you’re offered.",
+      "thumbnail": "https://i.ytimg.com/vi/8vzUv3irf1M/maxresdefault.jpg",
+      "channelName": "moneycontrol",
+      "channelId": 34,
+      "publishedAt": "2026-10-02T18:32:24+00:00",
+      "durationSeconds": 86,
+      "youtubeUrl": "https://www.youtube.com/watch?v=8vzUv3irf1M",
       "category": "Finance",
       "language": "en"
     },
