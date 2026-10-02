@@ -4,7 +4,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "fetch-news": "node scripts/fetch-news.mjs"
+    "fetch-news": "node scripts/fetch-news.mjs",
+    "fetch-videos": "node scripts/fetch-videos.mjs"
   },
   "dependencies": {
     "google-news-url-decoder": "1.2.2",
