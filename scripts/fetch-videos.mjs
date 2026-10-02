@@ -15,6 +15,17 @@ const VIDEO_FEED_MAX = Math.min(
   500,
   Math.max(20, Number(process.env.VIDEO_FEED_MAX || 250))
 );
+const MIN_SHORT_SECONDS = Math.max(
+  1,
+  Number(process.env.MIN_SHORT_SECONDS || 10)
+);
+const MAX_SHORT_SECONDS = Math.min(
+  180,
+  Math.max(
+    MIN_SHORT_SECONDS,
+    Number(process.env.MAX_SHORT_SECONDS || 180)
+  )
+);
 const OUTPUT_PATH = new URL("../data/videos.json", import.meta.url);
 
 if (!SUPABASE_URL || !SUPABASE_SERVICE_ROLE_KEY) {
@@ -240,6 +251,8 @@ async function writeFallbackJson() {
     .in("channel_id", activeIds)
     .eq("status", "active")
     .eq("embeddable", true)
+    .gte("duration_seconds", MIN_SHORT_SECONDS)
+    .lte("duration_seconds", MAX_SHORT_SECONDS)
     .order("published_at", { ascending: false })
     .order("id", { ascending: false })
     .limit(VIDEO_FEED_MAX);
@@ -373,7 +386,7 @@ async function main() {
     50
   )) {
     const details = await youtubeGet("videos", {
-      part: "snippet,contentDetails,status",
+      part: "snippet,contentDetails,status,liveStreamingDetails",
       id: idBatch.join(","),
       maxResults: 50,
     });
@@ -404,6 +417,23 @@ async function main() {
 
     const durationIso =
       detail.contentDetails?.duration || null;
+    const durationSeconds =
+      parseIsoDurationToSeconds(durationIso);
+
+    const liveBroadcastContent =
+      detail.snippet?.liveBroadcastContent || "none";
+    const hasLiveStreamingDetails =
+      Boolean(detail.liveStreamingDetails);
+
+    if (
+      durationSeconds === null ||
+      durationSeconds < MIN_SHORT_SECONDS ||
+      durationSeconds > MAX_SHORT_SECONDS ||
+      liveBroadcastContent !== "none" ||
+      hasLiveStreamingDetails
+    ) {
+      continue;
+    }
 
     rows.push({
       id: detail.id,
@@ -420,9 +450,7 @@ async function main() {
       youtube_url: `https://www.youtube.com/watch?v=${detail.id}`,
       category: candidate.channel.category || "General",
       language: candidate.channel.language || "hi",
-      duration_seconds: parseIsoDurationToSeconds(
-        durationIso
-      ),
+      duration_seconds: durationSeconds,
       duration_iso: durationIso,
       published_at:
         detail.snippet?.publishedAt ||
@@ -464,7 +492,7 @@ async function main() {
   });
 
   console.log(
-    `Video ingestion complete: ${resolvedChannels.length} approved channel(s), ${uniqueCandidates.length} candidate video(s), ${upsertedCount} upserted.`
+    `Video ingestion complete: ${resolvedChannels.length} approved channel(s), ${uniqueCandidates.length} candidate video(s), ${upsertedCount} short video(s) upserted (${MIN_SHORT_SECONDS}-${MAX_SHORT_SECONDS}s only).`
   );
 }
 
