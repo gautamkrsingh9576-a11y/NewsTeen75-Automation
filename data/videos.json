@@ -1,7 +1,59 @@
 {
-  "updatedAt": "2026-10-03T04:31:43.214Z",
-  "count": 191,
+  "updatedAt": "2026-10-03T04:53:30.688Z",
+  "count": 195,
   "videos": [
+    {
+      "id": "WycXmvwIiT0",
+      "youtubeVideoId": "WycXmvwIiT0",
+      "title": "SAIM AYUB MOCKS VAIBHAV SOORYAVANSHI #saimayub #indvspak #vaibhavsuryavanshi #mock",
+      "thumbnail": "https://i.ytimg.com/vi/WycXmvwIiT0/maxresdefault.jpg",
+      "channelName": "Sports Yaari",
+      "channelId": 25,
+      "publishedAt": "2026-10-03T04:52:07+00:00",
+      "durationSeconds": 49,
+      "youtubeUrl": "https://www.youtube.com/watch?v=WycXmvwIiT0",
+      "category": "Sports",
+      "language": "hi"
+    },
+    {
+      "id": "fBpQrjveY2I",
+      "youtubeVideoId": "fBpQrjveY2I",
+      "title": "Sjoerd Marijne on transforming India’s women’s hockey team.",
+      "thumbnail": "https://i.ytimg.com/vi/fBpQrjveY2I/maxresdefault.jpg",
+      "channelName": "Revsportz",
+      "channelId": 24,
+      "publishedAt": "2026-10-03T04:43:08+00:00",
+      "durationSeconds": 60,
+      "youtubeUrl": "https://www.youtube.com/watch?v=fBpQrjveY2I",
+      "category": "Sports",
+      "language": "en"
+    },
+    {
+      "id": "R83mYViSbKE",
+      "youtubeVideoId": "R83mYViSbKE",
+      "title": "उजला कुर्ता वाले नेता से बनाइए",
+      "thumbnail": "https://i.ytimg.com/vi/R83mYViSbKE/maxresdefault.jpg",
+      "channelName": "City Post live",
+      "channelId": 19,
+      "publishedAt": "2026-10-03T04:30:33+00:00",
+      "durationSeconds": 114,
+      "youtubeUrl": "https://www.youtube.com/watch?v=R83mYViSbKE",
+      "category": "General",
+      "language": "hi"
+    },
+    {
+      "id": "jlWAbjtfvOA",
+      "youtubeVideoId": "jlWAbjtfvOA",
+      "title": "ज्ञानेश कुमार को देना होगा इस्तीफा! देशभर में प्रदर्शन शुरू #gyaneshkumar #trending #viral",
+      "thumbnail": "https://i.ytimg.com/vi/jlWAbjtfvOA/maxresdefault.jpg",
+      "channelName": "4PM",
+      "channelId": 9,
+      "publishedAt": "2026-10-03T04:30:22+00:00",
+      "durationSeconds": 41,
+      "youtubeUrl": "https://www.youtube.com/watch?v=jlWAbjtfvOA",
+      "category": "Politics",
+      "language": "hi"
+    },
     {
       "id": "VxEfgnC2g8o",
       "youtubeVideoId": "VxEfgnC2g8o",
