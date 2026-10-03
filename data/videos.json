@@ -1,7 +1,33 @@
 {
-  "updatedAt": "2026-10-03T00:56:04.121Z",
-  "count": 158,
+  "updatedAt": "2026-10-03T01:05:22.232Z",
+  "count": 160,
   "videos": [
+    {
+      "id": "3JGFOugi67s",
+      "youtubeVideoId": "3JGFOugi67s",
+      "title": "How many medals can India add into tally? #AsianGames2026",
+      "thumbnail": "https://i.ytimg.com/vi/3JGFOugi67s/maxresdefault.jpg",
+      "channelName": "Revsportz",
+      "channelId": 24,
+      "publishedAt": "2026-10-03T01:02:38+00:00",
+      "durationSeconds": 64,
+      "youtubeUrl": "https://www.youtube.com/watch?v=3JGFOugi67s",
+      "category": "Sports",
+      "language": "en"
+    },
+    {
+      "id": "j31kAQ6EQUY",
+      "youtubeVideoId": "j31kAQ6EQUY",
+      "title": "ज्ञानेश कुमार के खिलाफ पूरा देश",
+      "thumbnail": "https://i.ytimg.com/vi/j31kAQ6EQUY/maxresdefault.jpg",
+      "channelName": "National Dastak",
+      "channelId": 7,
+      "publishedAt": "2026-10-03T01:00:15+00:00",
+      "durationSeconds": 59,
+      "youtubeUrl": "https://www.youtube.com/watch?v=j31kAQ6EQUY",
+      "category": "Politics",
+      "language": "hi"
+    },
     {
       "id": "lk_ccTkwc6Q",
       "youtubeVideoId": "lk_ccTkwc6Q",
