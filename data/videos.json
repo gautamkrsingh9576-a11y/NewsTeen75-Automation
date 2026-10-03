@@ -1,7 +1,59 @@
 {
-  "updatedAt": "2026-10-03T07:54:08.996Z",
-  "count": 249,
+  "updatedAt": "2026-10-03T08:04:52.624Z",
+  "count": 250,
   "videos": [
+    {
+      "id": "TvD70jqHncE",
+      "youtubeVideoId": "TvD70jqHncE",
+      "title": "मोदी सरकार की बढ़ने वाली हैं मुश्किलें,राहुल ने खोल दिया नया मोर्चा |#dblive #shortvideo #rahulgandhi",
+      "thumbnail": "https://i.ytimg.com/vi/TvD70jqHncE/maxresdefault.jpg",
+      "channelName": "DB Live",
+      "channelId": 6,
+      "publishedAt": "2026-10-03T08:01:36+00:00",
+      "durationSeconds": 83,
+      "youtubeUrl": "https://www.youtube.com/watch?v=TvD70jqHncE",
+      "category": "Politics",
+      "language": "hi"
+    },
+    {
+      "id": "_t5RTxN0BIc",
+      "youtubeVideoId": "_t5RTxN0BIc",
+      "title": "AAP Leader Priyanka Kakkar Joins Congress  Big Political Move in Delhi #Shorts",
+      "thumbnail": "https://i.ytimg.com/vi/_t5RTxN0BIc/maxresdefault.jpg",
+      "channelName": "Satya Hindi सत्य हिन्दी",
+      "channelId": 12,
+      "publishedAt": "2026-10-03T08:00:35+00:00",
+      "durationSeconds": 77,
+      "youtubeUrl": "https://www.youtube.com/watch?v=_t5RTxN0BIc",
+      "category": "Politics",
+      "language": "hi"
+    },
+    {
+      "id": "80b6ON03LaQ",
+      "youtubeVideoId": "80b6ON03LaQ",
+      "title": "पिता में ‘भूमिहार ब्राह्मण’, बेटे में ‘भूमिहार’! 29 जनप्रतिनिधियों की CM सम्राट से सुधार की मांग ..",
+      "thumbnail": "https://i.ytimg.com/vi/80b6ON03LaQ/maxresdefault.jpg",
+      "channelName": "City Post live",
+      "channelId": 19,
+      "publishedAt": "2026-10-03T08:00:33+00:00",
+      "durationSeconds": 156,
+      "youtubeUrl": "https://www.youtube.com/watch?v=80b6ON03LaQ",
+      "category": "General",
+      "language": "hi"
+    },
+    {
+      "id": "HMbXNE3b-mc",
+      "youtubeVideoId": "HMbXNE3b-mc",
+      "title": "बिहार से आई बड़ी खबर देखिए",
+      "thumbnail": "https://i.ytimg.com/vi/HMbXNE3b-mc/maxresdefault.jpg",
+      "channelName": "National Dastak",
+      "channelId": 7,
+      "publishedAt": "2026-10-03T08:00:22+00:00",
+      "durationSeconds": 48,
+      "youtubeUrl": "https://www.youtube.com/watch?v=HMbXNE3b-mc",
+      "category": "Politics",
+      "language": "hi"
+    },
     {
       "id": "BEczAyXZPQk",
       "youtubeVideoId": "BEczAyXZPQk",
@@ -3198,45 +3250,6 @@
       "durationSeconds": 63,
       "youtubeUrl": "https://www.youtube.com/watch?v=sHh5M9T0mDM",
       "category": "Politics",
-      "language": "hi"
-    },
-    {
-      "id": "1KUhdlGuRGY",
-      "youtubeVideoId": "1KUhdlGuRGY",
-      "title": "Nippon Multi Cap’s 3 Wrong Calls",
-      "thumbnail": "https://i.ytimg.com/vi/1KUhdlGuRGY/maxresdefault.jpg",
-      "channelName": "ET Money",
-      "channelId": 38,
-      "publishedAt": "2026-08-27T13:36:19+00:00",
-      "durationSeconds": 89,
-      "youtubeUrl": "https://www.youtube.com/watch?v=1KUhdlGuRGY",
-      "category": "Finance",
-      "language": "en"
-    },
-    {
-      "id": "mtxG2O1M3qk",
-      "youtubeVideoId": "mtxG2O1M3qk",
-      "title": "Your Mutual Fund Portfolio May Finally Be Ready to Move Up. Here's Why",
-      "thumbnail": "https://i.ytimg.com/vi/mtxG2O1M3qk/maxresdefault.jpg",
-      "channelName": "ET Money",
-      "channelId": 38,
-      "publishedAt": "2026-08-25T12:30:26+00:00",
-      "durationSeconds": 89,
-      "youtubeUrl": "https://www.youtube.com/watch?v=mtxG2O1M3qk",
-      "category": "Finance",
-      "language": "en"
-    },
-    {
-      "id": "G2_XszuCDNo",
-      "youtubeVideoId": "G2_XszuCDNo",
-      "title": "Why do female-led Bollywood films still struggle at the box office? 👀",
-      "thumbnail": "https://i.ytimg.com/vi/G2_XszuCDNo/maxresdefault.jpg",
-      "channelName": "PeepingMoon",
-      "channelId": 32,
-      "publishedAt": "2026-07-02T05:59:33+00:00",
-      "durationSeconds": 75,
-      "youtubeUrl": "https://www.youtube.com/watch?v=G2_XszuCDNo",
-      "category": "Entertainment",
       "language": "hi"
     }
   ]
