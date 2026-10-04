@@ -1,7 +1,20 @@
 {
-  "updatedAt": "2026-10-04T22:25:22.009Z",
+  "updatedAt": "2026-10-04T22:37:46.350Z",
   "count": 250,
   "videos": [
+    {
+      "id": "pnuU_P1VMYw",
+      "youtubeVideoId": "pnuU_P1VMYw",
+      "title": "‘FOOLING NO ONE’ | Pete Buttigieg TORCHES Trump’s $5,000 Promise Ahead of 2026 Midterms",
+      "thumbnail": "https://i.ytimg.com/vi/pnuU_P1VMYw/maxresdefault.jpg",
+      "channelName": "The Financial Express",
+      "channelId": 36,
+      "publishedAt": "2026-10-04T22:30:35+00:00",
+      "durationSeconds": 79,
+      "youtubeUrl": "https://www.youtube.com/watch?v=pnuU_P1VMYw",
+      "category": "Finance",
+      "language": "en"
+    },
     {
       "id": "6y-WRHx0TYI",
       "youtubeVideoId": "6y-WRHx0TYI",
@@ -3237,19 +3250,6 @@
       "durationSeconds": 158,
       "youtubeUrl": "https://www.youtube.com/watch?v=kMp6tgdN1Lo",
       "category": "General",
-      "language": "hi"
-    },
-    {
-      "id": "8YwwS4w8ST8",
-      "youtubeVideoId": "8YwwS4w8ST8",
-      "title": "भारत ने जीता GOLD, क्या बोला Pakistani Fan? Tilak Varma की तारीफ, बोले- फिर मौका आएगा",
-      "thumbnail": "https://i.ytimg.com/vi/8YwwS4w8ST8/maxresdefault.jpg",
-      "channelName": "Jansatta",
-      "channelId": 10,
-      "publishedAt": "2026-10-03T13:30:27+00:00",
-      "durationSeconds": 26,
-      "youtubeUrl": "https://www.youtube.com/watch?v=8YwwS4w8ST8",
-      "category": "Politics",
       "language": "hi"
     }
   ]
