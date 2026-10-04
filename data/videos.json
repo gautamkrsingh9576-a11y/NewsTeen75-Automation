@@ -1,7 +1,33 @@
 {
-  "updatedAt": "2026-10-04T21:00:53.996Z",
+  "updatedAt": "2026-10-04T21:33:49.262Z",
   "count": 250,
   "videos": [
+    {
+      "id": "m-dOGn3B_Cg",
+      "youtubeVideoId": "m-dOGn3B_Cg",
+      "title": "‘$5,000!’ | Trump Promises Checks for Every Adult if Republicans Win 2026 Midterms",
+      "thumbnail": "https://i.ytimg.com/vi/m-dOGn3B_Cg/maxresdefault.jpg",
+      "channelName": "The Financial Express",
+      "channelId": 36,
+      "publishedAt": "2026-10-04T21:30:08+00:00",
+      "durationSeconds": 122,
+      "youtubeUrl": "https://www.youtube.com/watch?v=m-dOGn3B_Cg",
+      "category": "Finance",
+      "language": "en"
+    },
+    {
+      "id": "CiXenImfKyU",
+      "youtubeVideoId": "CiXenImfKyU",
+      "title": "Slotkin FLIPS The Democratic Debate: ‘Fight Versus Flight’ Is The Real Choice | #shorts",
+      "thumbnail": "https://i.ytimg.com/vi/CiXenImfKyU/maxresdefault.jpg",
+      "channelName": "The Financial Express",
+      "channelId": 36,
+      "publishedAt": "2026-10-04T21:00:22+00:00",
+      "durationSeconds": 134,
+      "youtubeUrl": "https://www.youtube.com/watch?v=CiXenImfKyU",
+      "category": "Finance",
+      "language": "en"
+    },
     {
       "id": "j2fJJJlCKcU",
       "youtubeVideoId": "j2fJJJlCKcU",
@@ -3224,32 +3250,6 @@
       "durationSeconds": 97,
       "youtubeUrl": "https://www.youtube.com/watch?v=qoMN6msa-3U",
       "category": "General",
-      "language": "hi"
-    },
-    {
-      "id": "lrax8XMHqWs",
-      "youtubeVideoId": "lrax8XMHqWs",
-      "title": "चुनाव से पहले बढ़ा कांग्रेस का कुनबा, कई दिग्गजों ने थामा राहुल का हाथ !#dblive",
-      "thumbnail": "https://i.ytimg.com/vi/lrax8XMHqWs/maxresdefault.jpg",
-      "channelName": "DB Live",
-      "channelId": 6,
-      "publishedAt": "2026-10-03T13:20:48+00:00",
-      "durationSeconds": 113,
-      "youtubeUrl": "https://www.youtube.com/watch?v=lrax8XMHqWs",
-      "category": "Politics",
-      "language": "hi"
-    },
-    {
-      "id": "J7ZwvUKYAxk",
-      "youtubeVideoId": "J7ZwvUKYAxk",
-      "title": "SHAANDAAR KL RAHUL, VIRAT GILL NE DI SPECIAL STANDING OVATION! #klrahul #viratkohli #shubmangill",
-      "thumbnail": "https://i.ytimg.com/vi/J7ZwvUKYAxk/maxresdefault.jpg",
-      "channelName": "Sports Yaari",
-      "channelId": 25,
-      "publishedAt": "2026-10-03T13:20:14+00:00",
-      "durationSeconds": 37,
-      "youtubeUrl": "https://www.youtube.com/watch?v=J7ZwvUKYAxk",
-      "category": "Sports",
       "language": "hi"
     }
   ]
