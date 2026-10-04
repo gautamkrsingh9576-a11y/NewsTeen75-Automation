@@ -1,7 +1,20 @@
 {
-  "updatedAt": "2026-10-04T22:04:47.302Z",
+  "updatedAt": "2026-10-04T22:25:22.009Z",
   "count": 250,
   "videos": [
+    {
+      "id": "6y-WRHx0TYI",
+      "youtubeVideoId": "6y-WRHx0TYI",
+      "title": "GAYLE ABD NE DILAYI PURANI RCB KI YAAD! #chrisgayle #abdevilliers #savswi #cricketlegend #rcb",
+      "thumbnail": "https://i.ytimg.com/vi/6y-WRHx0TYI/maxresdefault.jpg",
+      "channelName": "Sports Yaari",
+      "channelId": 25,
+      "publishedAt": "2026-10-04T22:14:34+00:00",
+      "durationSeconds": 25,
+      "youtubeUrl": "https://www.youtube.com/watch?v=6y-WRHx0TYI",
+      "category": "Sports",
+      "language": "hi"
+    },
     {
       "id": "5N6Zikp-1Nc",
       "youtubeVideoId": "5N6Zikp-1Nc",
@@ -3238,19 +3251,6 @@
       "youtubeUrl": "https://www.youtube.com/watch?v=8YwwS4w8ST8",
       "category": "Politics",
       "language": "hi"
-    },
-    {
-      "id": "5B4pectPYB4",
-      "youtubeVideoId": "5B4pectPYB4",
-      "title": "Madrid Housing Protests: Demonstrators Call for General Strike After Congress Rejects Rent Measures",
-      "thumbnail": "https://i.ytimg.com/vi/5B4pectPYB4/maxresdefault.jpg",
-      "channelName": "moneycontrol",
-      "channelId": 34,
-      "publishedAt": "2026-10-03T13:30:08+00:00",
-      "durationSeconds": 48,
-      "youtubeUrl": "https://www.youtube.com/watch?v=5B4pectPYB4",
-      "category": "Finance",
-      "language": "en"
     }
   ]
 }
