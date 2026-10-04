@@ -1,7 +1,20 @@
 {
-  "updatedAt": "2026-10-04T21:55:23.206Z",
+  "updatedAt": "2026-10-04T22:04:47.302Z",
   "count": 250,
   "videos": [
+    {
+      "id": "5N6Zikp-1Nc",
+      "youtubeVideoId": "5N6Zikp-1Nc",
+      "title": "El-Sayed Sends Blunt Message To Rogers As Michigan Senate Race Heats Up | #shorts #viralshorts",
+      "thumbnail": "https://i.ytimg.com/vi/5N6Zikp-1Nc/maxresdefault.jpg",
+      "channelName": "The Financial Express",
+      "channelId": 36,
+      "publishedAt": "2026-10-04T22:00:19+00:00",
+      "durationSeconds": 99,
+      "youtubeUrl": "https://www.youtube.com/watch?v=5N6Zikp-1Nc",
+      "category": "Finance",
+      "language": "en"
+    },
     {
       "id": "m-dOGn3B_Cg",
       "youtubeVideoId": "m-dOGn3B_Cg",
@@ -3238,19 +3251,6 @@
       "youtubeUrl": "https://www.youtube.com/watch?v=5B4pectPYB4",
       "category": "Finance",
       "language": "en"
-    },
-    {
-      "id": "qoMN6msa-3U",
-      "youtubeVideoId": "qoMN6msa-3U",
-      "title": "Priyanka Kakkar Joins Congress: AAP पर बरसीं प्रियंका Kakkar! राहुल गांधी की तारीफ",
-      "thumbnail": "https://i.ytimg.com/vi/qoMN6msa-3U/maxresdefault.jpg",
-      "channelName": "Dainik Jagran - दैनिक जागरण",
-      "channelId": 5,
-      "publishedAt": "2026-10-03T13:29:29+00:00",
-      "durationSeconds": 97,
-      "youtubeUrl": "https://www.youtube.com/watch?v=qoMN6msa-3U",
-      "category": "General",
-      "language": "hi"
     }
   ]
 }
