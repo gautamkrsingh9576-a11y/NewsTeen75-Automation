@@ -575,6 +575,9 @@ function rangedSentenceExcerpt(text = "", headline = "") {
 
   if (!clean) return "";
 
+  const range = summaryWordRangeForHeadline(headline);
+  if (range.max < range.min) return "";
+
   const sentences =
     clean.match(/[^.!?]+[.!?]+(?:["'”’)]*)?/g) || [];
 
@@ -717,7 +720,7 @@ async function requestAiSummary({
                   "Write one clear, easy-to-understand English news summary using ONLY facts explicitly present in the supplied source text. " +
                   "Preserve the original meaning, names, numbers, dates, places, and attribution. " +
                   "Do not add assumptions, opinions, predictions, invented context, promotional language, or repetition. " +
-                  `The summary must contain between ${MIN_SUMMARY_WORDS} and ${MAX_SUMMARY_WORDS} words and must read naturally with complete sentences. ` +
+                  `The NewsTeen75 headline is already fixed at ${countWords(outputHeadline)} words. The summary must contain between ${summaryRange.min} and ${summaryRange.max} words so headline + summary totals ${MIN_TOTAL_WORDS}-${MAX_TOTAL_WORDS} words. The summary must read naturally with complete sentences. ` +
                   'If the supplied source does not contain enough factual information to make a truthful summary, return exactly "INSUFFICIENT_SOURCE". ' +
                   "Return only the summary text, with no label, bullets, quotation marks, or explanation.",
               },
