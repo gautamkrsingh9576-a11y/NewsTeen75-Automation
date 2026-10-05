@@ -2,7 +2,7 @@ name: Update NewsTeen75 Feed
 
 on:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -11,6 +11,7 @@ permissions:
 concurrency:
   group: newsteen75-news-update
   cancel-in-progress: false
+  queue: max
 
 jobs:
   update-news:
