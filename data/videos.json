@@ -1,7 +1,33 @@
 {
-  "updatedAt": "2026-10-05T17:55:19.574Z",
+  "updatedAt": "2026-10-05T18:07:06.808Z",
   "count": 250,
   "videos": [
+    {
+      "id": "mFTewGd0oV8",
+      "youtubeVideoId": "mFTewGd0oV8",
+      "title": "‘COINCIDENCE? I DON’T THINK SO’ | Warren Links Iran War Casualties to Trump Media Ban",
+      "thumbnail": "https://i.ytimg.com/vi/mFTewGd0oV8/maxresdefault.jpg",
+      "channelName": "The Financial Express",
+      "channelId": 36,
+      "publishedAt": "2026-10-05T18:00:15+00:00",
+      "durationSeconds": 43,
+      "youtubeUrl": "https://www.youtube.com/watch?v=mFTewGd0oV8",
+      "category": "Finance",
+      "language": "en"
+    },
+    {
+      "id": "kd0ODq06eBs",
+      "youtubeVideoId": "kd0ODq06eBs",
+      "title": "Spain's Pedro Sanchez Chairs Socialist Party Meeting After Calling Snap Election",
+      "thumbnail": "https://i.ytimg.com/vi/kd0ODq06eBs/maxresdefault.jpg",
+      "channelName": "moneycontrol",
+      "channelId": 34,
+      "publishedAt": "2026-10-05T17:54:22+00:00",
+      "durationSeconds": 33,
+      "youtubeUrl": "https://www.youtube.com/watch?v=kd0ODq06eBs",
+      "category": "Finance",
+      "language": "en"
+    },
     {
       "id": "eH5Fxo5FNtk",
       "youtubeVideoId": "eH5Fxo5FNtk",
@@ -3224,32 +3250,6 @@
       "durationSeconds": 64,
       "youtubeUrl": "https://www.youtube.com/watch?v=9hRzr-5-GNA",
       "category": "General",
-      "language": "hi"
-    },
-    {
-      "id": "zSsWcUqE70Q",
-      "youtubeVideoId": "zSsWcUqE70Q",
-      "title": "WC 2027 MEIN ROHIT? FITNESS PAR SAWAL! #rohitsharma #odiworldcup #shubmangill #gautamgambhir",
-      "thumbnail": "https://i.ytimg.com/vi/zSsWcUqE70Q/maxresdefault.jpg",
-      "channelName": "Sports Yaari",
-      "channelId": 25,
-      "publishedAt": "2026-10-05T03:30:38+00:00",
-      "durationSeconds": 58,
-      "youtubeUrl": "https://www.youtube.com/watch?v=zSsWcUqE70Q",
-      "category": "Sports",
-      "language": "hi"
-    },
-    {
-      "id": "Az5wVl_Mrjk",
-      "youtubeVideoId": "Az5wVl_Mrjk",
-      "title": "ज्ञानेश कुमार के खिलाफ जांच के आदेश अब होगी सीधी जेल! #gyaneshkumar #shortvideo #viral",
-      "thumbnail": "https://i.ytimg.com/vi/Az5wVl_Mrjk/maxresdefault.jpg",
-      "channelName": "4PM",
-      "channelId": 9,
-      "publishedAt": "2026-10-05T03:30:26+00:00",
-      "durationSeconds": 36,
-      "youtubeUrl": "https://www.youtube.com/watch?v=Az5wVl_Mrjk",
-      "category": "Politics",
       "language": "hi"
     }
   ]
