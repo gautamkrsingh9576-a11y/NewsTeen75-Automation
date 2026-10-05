@@ -1,7 +1,33 @@
 {
-  "updatedAt": "2026-10-05T02:04:45.039Z",
+  "updatedAt": "2026-10-05T02:26:32.818Z",
   "count": 250,
   "videos": [
+    {
+      "id": "DU8Aga0_l6U",
+      "youtubeVideoId": "DU8Aga0_l6U",
+      "title": "Germany Pledges €1 Billion Military Aid Package For Ukraine During Merz’s Kyiv Visit",
+      "thumbnail": "https://i.ytimg.com/vi/DU8Aga0_l6U/maxresdefault.jpg",
+      "channelName": "moneycontrol",
+      "channelId": 34,
+      "publishedAt": "2026-10-05T02:22:33+00:00",
+      "durationSeconds": 58,
+      "youtubeUrl": "https://www.youtube.com/watch?v=DU8Aga0_l6U",
+      "category": "Finance",
+      "language": "en"
+    },
+    {
+      "id": "iWMT6nG1nfQ",
+      "youtubeVideoId": "iWMT6nG1nfQ",
+      "title": "FLAT PITCHES PAR SHAMI-SIRAJ-BUMRAH ZAROORI! #mohammedshami #siraj #jaspritbumrah #shubmangill",
+      "thumbnail": "https://i.ytimg.com/vi/iWMT6nG1nfQ/maxresdefault.jpg",
+      "channelName": "Sports Yaari",
+      "channelId": 25,
+      "publishedAt": "2026-10-05T02:10:34+00:00",
+      "durationSeconds": 49,
+      "youtubeUrl": "https://www.youtube.com/watch?v=iWMT6nG1nfQ",
+      "category": "Sports",
+      "language": "hi"
+    },
     {
       "id": "wqv9QUofGgM",
       "youtubeVideoId": "wqv9QUofGgM",
@@ -3225,32 +3251,6 @@
       "youtubeUrl": "https://www.youtube.com/watch?v=VmoOLU0-iEc",
       "category": "Sports",
       "language": "hi"
-    },
-    {
-      "id": "8wZaK413Vcg",
-      "youtubeVideoId": "8wZaK413Vcg",
-      "title": "अभिजीत ने शाह को किया चैलेंज, ‘दम है तो दिल्ली आने से रोक लेना’ #shorts #shortvideo",
-      "thumbnail": "https://i.ytimg.com/vi/8wZaK413Vcg/maxresdefault.jpg",
-      "channelName": "4PM",
-      "channelId": 9,
-      "publishedAt": "2026-10-03T14:07:42+00:00",
-      "durationSeconds": 28,
-      "youtubeUrl": "https://www.youtube.com/watch?v=8wZaK413Vcg",
-      "category": "Politics",
-      "language": "hi"
-    },
-    {
-      "id": "DdalwjVbCaY",
-      "youtubeVideoId": "DdalwjVbCaY",
-      "title": "Gullak’s Annu 🏡 Inside Vaibhav Raj Gupta’s ARTSY Home Cats, Books & Coffee #shorts #housetour #cats",
-      "thumbnail": "https://i.ytimg.com/vi/DdalwjVbCaY/maxresdefault.jpg",
-      "channelName": "PINKVILLA",
-      "channelId": 27,
-      "publishedAt": "2026-10-03T14:02:14+00:00",
-      "durationSeconds": 51,
-      "youtubeUrl": "https://www.youtube.com/watch?v=DdalwjVbCaY",
-      "category": "Entertainment",
-      "language": "en"
     }
   ]
 }
