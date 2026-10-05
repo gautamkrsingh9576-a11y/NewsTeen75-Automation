@@ -1,7 +1,20 @@
 {
-  "updatedAt": "2026-10-05T21:54:12.755Z",
+  "updatedAt": "2026-10-05T22:05:17.664Z",
   "count": 250,
   "videos": [
+    {
+      "id": "5rFsBcBbV30",
+      "youtubeVideoId": "5rFsBcBbV30",
+      "title": "‘WAR PROFITEERING’ | Chris Murphy Targets U.S. Energy Firms Profiting From Iran War Disruptions",
+      "thumbnail": "https://i.ytimg.com/vi/5rFsBcBbV30/maxresdefault.jpg",
+      "channelName": "The Financial Express",
+      "channelId": 36,
+      "publishedAt": "2026-10-05T22:00:29+00:00",
+      "durationSeconds": 85,
+      "youtubeUrl": "https://www.youtube.com/watch?v=5rFsBcBbV30",
+      "category": "Finance",
+      "language": "en"
+    },
     {
       "id": "O3ThtLda9OM",
       "youtubeVideoId": "O3ThtLda9OM",
@@ -3237,19 +3250,6 @@
       "durationSeconds": 50,
       "youtubeUrl": "https://www.youtube.com/watch?v=rQrBqWSPZjo",
       "category": "General",
-      "language": "hi"
-    },
-    {
-      "id": "tAJoiMLPjHM",
-      "youtubeVideoId": "tAJoiMLPjHM",
-      "title": "'यह बेहद शर्मनाक..' कहां जाएं महिलाएं? पुलिस कार्रवाई से भड़का विपक्ष #shorts #shortsvideo #trending",
-      "thumbnail": "https://i.ytimg.com/vi/tAJoiMLPjHM/maxresdefault.jpg",
-      "channelName": "4PM",
-      "channelId": 9,
-      "publishedAt": "2026-10-05T04:30:01+00:00",
-      "durationSeconds": 37,
-      "youtubeUrl": "https://www.youtube.com/watch?v=tAJoiMLPjHM",
-      "category": "Politics",
       "language": "hi"
     }
   ]
