@@ -1,7 +1,33 @@
 {
-  "updatedAt": "2026-10-05T01:53:42.518Z",
+  "updatedAt": "2026-10-05T02:04:45.039Z",
   "count": 250,
   "videos": [
+    {
+      "id": "wqv9QUofGgM",
+      "youtubeVideoId": "wqv9QUofGgM",
+      "title": "Brazil Polls Close As Lula And Flávio Bolsonaro Eye First-Round Victory",
+      "thumbnail": "https://i.ytimg.com/vi/wqv9QUofGgM/maxresdefault.jpg",
+      "channelName": "moneycontrol",
+      "channelId": 34,
+      "publishedAt": "2026-10-05T02:01:09+00:00",
+      "durationSeconds": 51,
+      "youtubeUrl": "https://www.youtube.com/watch?v=wqv9QUofGgM",
+      "category": "Finance",
+      "language": "en"
+    },
+    {
+      "id": "6Km4V3f-AAQ",
+      "youtubeVideoId": "6Km4V3f-AAQ",
+      "title": "मोदी-शाह की नाक में दम कर दिया",
+      "thumbnail": "https://i.ytimg.com/vi/6Km4V3f-AAQ/maxresdefault.jpg",
+      "channelName": "National Dastak",
+      "channelId": 7,
+      "publishedAt": "2026-10-05T02:00:18+00:00",
+      "durationSeconds": 77,
+      "youtubeUrl": "https://www.youtube.com/watch?v=6Km4V3f-AAQ",
+      "category": "Politics",
+      "language": "hi"
+    },
     {
       "id": "oASX7pDh77Y",
       "youtubeVideoId": "oASX7pDh77Y",
@@ -3224,32 +3250,6 @@
       "durationSeconds": 51,
       "youtubeUrl": "https://www.youtube.com/watch?v=DdalwjVbCaY",
       "category": "Entertainment",
-      "language": "en"
-    },
-    {
-      "id": "ZQ5817TTlWI",
-      "youtubeVideoId": "ZQ5817TTlWI",
-      "title": "The Tiny Tricks That Make You Buy | Follow the Money Ep. 1",
-      "thumbnail": "https://i.ytimg.com/vi/ZQ5817TTlWI/maxresdefault.jpg",
-      "channelName": "Groww",
-      "channelId": 37,
-      "publishedAt": "2026-10-03T14:00:19+00:00",
-      "durationSeconds": 86,
-      "youtubeUrl": "https://www.youtube.com/watch?v=ZQ5817TTlWI",
-      "category": "Finance",
-      "language": "hi"
-    },
-    {
-      "id": "OjAUa-4MEAY",
-      "youtubeVideoId": "OjAUa-4MEAY",
-      "title": "Spain Housing Crisis: Thousands Protest In Madrid After Parliament Rejects Housing Measures",
-      "thumbnail": "https://i.ytimg.com/vi/OjAUa-4MEAY/maxresdefault.jpg",
-      "channelName": "moneycontrol",
-      "channelId": 34,
-      "publishedAt": "2026-10-03T13:57:16+00:00",
-      "durationSeconds": 39,
-      "youtubeUrl": "https://www.youtube.com/watch?v=OjAUa-4MEAY",
-      "category": "Finance",
       "language": "en"
     }
   ]
