@@ -1,7 +1,33 @@
 {
-  "updatedAt": "2026-10-05T02:55:49.869Z",
+  "updatedAt": "2026-10-05T03:05:39.637Z",
   "count": 250,
   "videos": [
+    {
+      "id": "UAsxq83_roc",
+      "youtubeVideoId": "UAsxq83_roc",
+      "title": "दिल्ली में सबसे बड़ी बैठक देखिए",
+      "thumbnail": "https://i.ytimg.com/vi/UAsxq83_roc/maxresdefault.jpg",
+      "channelName": "National Dastak",
+      "channelId": 7,
+      "publishedAt": "2026-10-05T03:00:19+00:00",
+      "durationSeconds": 44,
+      "youtubeUrl": "https://www.youtube.com/watch?v=UAsxq83_roc",
+      "category": "Politics",
+      "language": "hi"
+    },
+    {
+      "id": "SAN0n0NFAGM",
+      "youtubeVideoId": "SAN0n0NFAGM",
+      "title": "हवा में झूलता स्कूल, संकट में छात्रों की जान, फंसी BJP सरकार |  Samrat Choudhary #dblive",
+      "thumbnail": "https://i.ytimg.com/vi/SAN0n0NFAGM/maxresdefault.jpg",
+      "channelName": "DB Live",
+      "channelId": 6,
+      "publishedAt": "2026-10-05T03:00:17+00:00",
+      "durationSeconds": 134,
+      "youtubeUrl": "https://www.youtube.com/watch?v=SAN0n0NFAGM",
+      "category": "Politics",
+      "language": "hi"
+    },
     {
       "id": "MXwp1njk0P8",
       "youtubeVideoId": "MXwp1njk0P8",
@@ -53,6 +79,19 @@
       "youtubeUrl": "https://www.youtube.com/watch?v=XGpNhfBl82Q",
       "category": "Finance",
       "language": "en"
+    },
+    {
+      "id": "NsqIR616Yyc",
+      "youtubeVideoId": "NsqIR616Yyc",
+      "title": "Delhi Protest: पुलिस बस की चाबी लेकर भागी लड़की, ड्राइवर का रिएक्शन हुआ Viral",
+      "thumbnail": "https://i.ytimg.com/vi/NsqIR616Yyc/maxresdefault.jpg",
+      "channelName": "Prabhat Khabar",
+      "channelId": 14,
+      "publishedAt": "2026-10-05T02:41:21+00:00",
+      "durationSeconds": 76,
+      "youtubeUrl": "https://www.youtube.com/watch?v=NsqIR616Yyc",
+      "category": "General",
+      "language": "hi"
     },
     {
       "id": "GwZXGfMefwE",
@@ -3210,45 +3249,6 @@
       "publishedAt": "2026-10-03T14:30:12+00:00",
       "durationSeconds": 32,
       "youtubeUrl": "https://www.youtube.com/watch?v=mXUBekAg5oc",
-      "category": "General",
-      "language": "hi"
-    },
-    {
-      "id": "sCA3MisCIe0",
-      "youtubeVideoId": "sCA3MisCIe0",
-      "title": "श्रीकांत प्रत्यूष ने आँख में आँख डालकर किये तीखे सवाल",
-      "thumbnail": "https://i.ytimg.com/vi/sCA3MisCIe0/maxresdefault.jpg",
-      "channelName": "City Post live",
-      "channelId": 19,
-      "publishedAt": "2026-10-03T14:30:09+00:00",
-      "durationSeconds": 86,
-      "youtubeUrl": "https://www.youtube.com/watch?v=sCA3MisCIe0",
-      "category": "General",
-      "language": "hi"
-    },
-    {
-      "id": "_-dP0Xi46iI",
-      "youtubeVideoId": "_-dP0Xi46iI",
-      "title": "PAKISTAN KO FINAL MEIN HARA KAR GOLD JEETNA VERY SPECIAL #indvspak #tilakvarma #abhisheksharma",
-      "thumbnail": "https://i.ytimg.com/vi/_-dP0Xi46iI/maxresdefault.jpg",
-      "channelName": "Sports Yaari",
-      "channelId": 25,
-      "publishedAt": "2026-10-03T14:29:33+00:00",
-      "durationSeconds": 55,
-      "youtubeUrl": "https://www.youtube.com/watch?v=_-dP0Xi46iI",
-      "category": "Sports",
-      "language": "hi"
-    },
-    {
-      "id": "SFYE1nChUiY",
-      "youtubeVideoId": "SFYE1nChUiY",
-      "title": "अगर Congress से गठबंधन नहीं हो पाया, उसकी भी तैयारी में Akhilesh #Netanagri #RahulGandhi #shorts",
-      "thumbnail": "https://i.ytimg.com/vi/SFYE1nChUiY/maxresdefault.jpg",
-      "channelName": "The Lallantop",
-      "channelId": 1,
-      "publishedAt": "2026-10-03T14:27:16+00:00",
-      "durationSeconds": 53,
-      "youtubeUrl": "https://www.youtube.com/watch?v=SFYE1nChUiY",
       "category": "General",
       "language": "hi"
     }
