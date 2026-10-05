@@ -1,7 +1,33 @@
 {
-  "updatedAt": "2026-10-05T11:57:00.628Z",
+  "updatedAt": "2026-10-05T12:07:25.100Z",
   "count": 250,
   "videos": [
+    {
+      "id": "E3dOMEkwfe4",
+      "youtubeVideoId": "E3dOMEkwfe4",
+      "title": "बिहार पुलिस में थानेदार ने बाढ़ पीड़ित पर तानी बंदूक! पहले AK47 और अब भूखों पर बंदूक?",
+      "thumbnail": "https://i.ytimg.com/vi/E3dOMEkwfe4/maxresdefault.jpg",
+      "channelName": "4PM",
+      "channelId": 9,
+      "publishedAt": "2026-10-05T12:00:13+00:00",
+      "durationSeconds": 47,
+      "youtubeUrl": "https://www.youtube.com/watch?v=E3dOMEkwfe4",
+      "category": "Politics",
+      "language": "hi"
+    },
+    {
+      "id": "erPjFkjm4Fc",
+      "youtubeVideoId": "erPjFkjm4Fc",
+      "title": "Sibi George: 'Economic Cooperation Is Key Pillar Of India-Switzerland Ties'",
+      "thumbnail": "https://i.ytimg.com/vi/erPjFkjm4Fc/maxresdefault.jpg",
+      "channelName": "moneycontrol",
+      "channelId": 34,
+      "publishedAt": "2026-10-05T11:58:47+00:00",
+      "durationSeconds": 65,
+      "youtubeUrl": "https://www.youtube.com/watch?v=erPjFkjm4Fc",
+      "category": "Finance",
+      "language": "en"
+    },
     {
       "id": "pBnk5yiH3lM",
       "youtubeVideoId": "pBnk5yiH3lM",
@@ -3223,32 +3249,6 @@
       "publishedAt": "2026-10-04T12:44:49+00:00",
       "durationSeconds": 49,
       "youtubeUrl": "https://www.youtube.com/watch?v=13kZeQG_918",
-      "category": "General",
-      "language": "hi"
-    },
-    {
-      "id": "AAdeDXWkcec",
-      "youtubeVideoId": "AAdeDXWkcec",
-      "title": "करोड़ों वोट काटने के आरोप में युवक ने Gyanesh Kumar का किया अनोखा सम्मान | Narendra Modi",
-      "thumbnail": "https://i.ytimg.com/vi/AAdeDXWkcec/maxresdefault.jpg",
-      "channelName": "Prabhat Khabar",
-      "channelId": 14,
-      "publishedAt": "2026-10-04T12:43:03+00:00",
-      "durationSeconds": 92,
-      "youtubeUrl": "https://www.youtube.com/watch?v=AAdeDXWkcec",
-      "category": "General",
-      "language": "hi"
-    },
-    {
-      "id": "_EVHWtrVoV0",
-      "youtubeVideoId": "_EVHWtrVoV0",
-      "title": "AISA की नेहा को Delhi Police ने फिर हिरासत में लिया, कहाँ ले जाया गया?",
-      "thumbnail": "https://i.ytimg.com/vi/_EVHWtrVoV0/maxresdefault.jpg",
-      "channelName": "Prabhat Khabar",
-      "channelId": 14,
-      "publishedAt": "2026-10-04T12:40:47+00:00",
-      "durationSeconds": 37,
-      "youtubeUrl": "https://www.youtube.com/watch?v=_EVHWtrVoV0",
       "category": "General",
       "language": "hi"
     }
