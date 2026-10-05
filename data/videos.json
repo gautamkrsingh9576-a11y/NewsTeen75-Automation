@@ -1,7 +1,33 @@
 {
-  "updatedAt": "2026-10-05T18:32:06.963Z",
+  "updatedAt": "2026-10-05T19:00:57.075Z",
   "count": 250,
   "videos": [
+    {
+      "id": "fA6RRpJ2hOw",
+      "youtubeVideoId": "fA6RRpJ2hOw",
+      "title": "How Light Can Control Brain Cells: Nobel Prize-Winning Discovery Explained",
+      "thumbnail": "https://i.ytimg.com/vi/fA6RRpJ2hOw/maxresdefault.jpg",
+      "channelName": "The Financial Express",
+      "channelId": 36,
+      "publishedAt": "2026-10-05T18:55:59+00:00",
+      "durationSeconds": 40,
+      "youtubeUrl": "https://www.youtube.com/watch?v=fA6RRpJ2hOw",
+      "category": "Finance",
+      "language": "en"
+    },
+    {
+      "id": "mxo8Z-6kEs8",
+      "youtubeVideoId": "mxo8Z-6kEs8",
+      "title": "सरकार की मूर्खता आंदोलन में घी डालने का काम कर रही है #shorts",
+      "thumbnail": "https://i.ytimg.com/vi/mxo8Z-6kEs8/maxresdefault.jpg",
+      "channelName": "The Public India",
+      "channelId": 16,
+      "publishedAt": "2026-10-05T18:45:21+00:00",
+      "durationSeconds": 166,
+      "youtubeUrl": "https://www.youtube.com/watch?v=mxo8Z-6kEs8",
+      "category": "Politics",
+      "language": "hi"
+    },
     {
       "id": "64hZUQWAHbE",
       "youtubeVideoId": "64hZUQWAHbE",
@@ -3224,32 +3250,6 @@
       "durationSeconds": 44,
       "youtubeUrl": "https://www.youtube.com/watch?v=bltIxHoH_YI",
       "category": "Politics",
-      "language": "hi"
-    },
-    {
-      "id": "ZKdPgIiTgtQ",
-      "youtubeVideoId": "ZKdPgIiTgtQ",
-      "title": "मोदी-शाह की पुलिस फंस गई ?",
-      "thumbnail": "https://i.ytimg.com/vi/ZKdPgIiTgtQ/maxresdefault.jpg",
-      "channelName": "National Dastak",
-      "channelId": 7,
-      "publishedAt": "2026-10-05T04:00:00+00:00",
-      "durationSeconds": 101,
-      "youtubeUrl": "https://www.youtube.com/watch?v=ZKdPgIiTgtQ",
-      "category": "Politics",
-      "language": "hi"
-    },
-    {
-      "id": "BUkY54Ed-ts",
-      "youtubeVideoId": "BUkY54Ed-ts",
-      "title": "Modi Cabinet Big Decisions: किसानों के लिए बड़ी खुशखबरी, MSP में बढ़ोतरी",
-      "thumbnail": "https://i.ytimg.com/vi/BUkY54Ed-ts/maxresdefault.jpg",
-      "channelName": "Dainik Jagran - दैनिक जागरण",
-      "channelId": 5,
-      "publishedAt": "2026-10-05T03:49:18+00:00",
-      "durationSeconds": 87,
-      "youtubeUrl": "https://www.youtube.com/watch?v=BUkY54Ed-ts",
-      "category": "General",
       "language": "hi"
     }
   ]
