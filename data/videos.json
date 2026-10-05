@@ -1,7 +1,20 @@
 {
-  "updatedAt": "2026-10-05T21:40:31.218Z",
+  "updatedAt": "2026-10-05T21:54:12.755Z",
   "count": 250,
   "videos": [
+    {
+      "id": "O3ThtLda9OM",
+      "youtubeVideoId": "O3ThtLda9OM",
+      "title": "‘DEMOCRACIES DON’T BAN BOOKS’ | Pritzker Defends Illinois Law Against Book Bans",
+      "thumbnail": "https://i.ytimg.com/vi/O3ThtLda9OM/maxresdefault.jpg",
+      "channelName": "The Financial Express",
+      "channelId": 36,
+      "publishedAt": "2026-10-05T21:45:22+00:00",
+      "durationSeconds": 120,
+      "youtubeUrl": "https://www.youtube.com/watch?v=O3ThtLda9OM",
+      "category": "Finance",
+      "language": "en"
+    },
     {
       "id": "TYOQVhpx9n4",
       "youtubeVideoId": "TYOQVhpx9n4",
@@ -3238,19 +3251,6 @@
       "youtubeUrl": "https://www.youtube.com/watch?v=tAJoiMLPjHM",
       "category": "Politics",
       "language": "hi"
-    },
-    {
-      "id": "_A1KZePbUMU",
-      "youtubeVideoId": "_A1KZePbUMU",
-      "title": "Trump Creates ‘Super Intelligence Force’ To Coordinate US AI Efforts",
-      "thumbnail": "https://i.ytimg.com/vi/_A1KZePbUMU/maxresdefault.jpg",
-      "channelName": "moneycontrol",
-      "channelId": 34,
-      "publishedAt": "2026-10-05T04:29:19+00:00",
-      "durationSeconds": 49,
-      "youtubeUrl": "https://www.youtube.com/watch?v=_A1KZePbUMU",
-      "category": "Finance",
-      "language": "en"
     }
   ]
 }
