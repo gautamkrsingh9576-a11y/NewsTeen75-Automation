@@ -1,7 +1,33 @@
 {
-  "updatedAt": "2026-10-06T10:27:21.564Z",
+  "updatedAt": "2026-10-06T10:41:49.078Z",
   "count": 250,
   "videos": [
+    {
+      "id": "bQIeWFgUxUs",
+      "youtubeVideoId": "bQIeWFgUxUs",
+      "title": "Delhi में CEC ज्ञानेश कुमार के खिलाफ प्रदर्शन के बीच पेड़ के नीचे  चर्चा करते दिखे प्रियंका-राहुल.",
+      "thumbnail": "https://i.ytimg.com/vi/bQIeWFgUxUs/maxresdefault.jpg",
+      "channelName": "Jansatta",
+      "channelId": 10,
+      "publishedAt": "2026-10-06T10:28:13+00:00",
+      "durationSeconds": 38,
+      "youtubeUrl": "https://www.youtube.com/watch?v=bQIeWFgUxUs",
+      "category": "Politics",
+      "language": "hi"
+    },
+    {
+      "id": "L4a7n24MwhU",
+      "youtubeVideoId": "L4a7n24MwhU",
+      "title": "अपने कार्यकर्ता को बचाने पुलिस से भिड़े राहुल -प्रियंका #dblive #shortvideo #rahulgandhi #congress",
+      "thumbnail": "https://i.ytimg.com/vi/L4a7n24MwhU/maxresdefault.jpg",
+      "channelName": "DB Live",
+      "channelId": 6,
+      "publishedAt": "2026-10-06T10:27:29+00:00",
+      "durationSeconds": 56,
+      "youtubeUrl": "https://www.youtube.com/watch?v=L4a7n24MwhU",
+      "category": "Politics",
+      "language": "hi"
+    },
     {
       "id": "2QRO7o6DhhM",
       "youtubeVideoId": "2QRO7o6DhhM",
@@ -3225,32 +3251,6 @@
       "youtubeUrl": "https://www.youtube.com/watch?v=Gq5Vj8f0MsU",
       "category": "Politics",
       "language": "hi"
-    },
-    {
-      "id": "ofoTEEZk1oU",
-      "youtubeVideoId": "ofoTEEZk1oU",
-      "title": "Meerut Seva Jyoti Kalash Yatra: मेरठ में 'सेवा ज्योति कलश यात्रा'! सर्किट हाउस बनेगा 'कलश चौराहा'",
-      "thumbnail": "https://i.ytimg.com/vi/ofoTEEZk1oU/maxresdefault.jpg",
-      "channelName": "Dainik Jagran - दैनिक जागरण",
-      "channelId": 5,
-      "publishedAt": "2026-10-05T15:00:37+00:00",
-      "durationSeconds": 85,
-      "youtubeUrl": "https://www.youtube.com/watch?v=ofoTEEZk1oU",
-      "category": "General",
-      "language": "hi"
-    },
-    {
-      "id": "xIFwEoZwq6k",
-      "youtubeVideoId": "xIFwEoZwq6k",
-      "title": "\"Surya hasn't played red-ball cricket for a long period. We focused on the youngsters\"- Rajesh Pawar",
-      "thumbnail": "https://i.ytimg.com/vi/xIFwEoZwq6k/maxresdefault.jpg",
-      "channelName": "Revsportz",
-      "channelId": 24,
-      "publishedAt": "2026-10-05T15:00:26+00:00",
-      "durationSeconds": 130,
-      "youtubeUrl": "https://www.youtube.com/watch?v=xIFwEoZwq6k",
-      "category": "Sports",
-      "language": "en"
     }
   ]
 }
