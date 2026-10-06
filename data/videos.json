@@ -1,7 +1,20 @@
 {
-  "updatedAt": "2026-10-06T00:04:25.768Z",
+  "updatedAt": "2026-10-06T00:36:23.499Z",
   "count": 250,
   "videos": [
+    {
+      "id": "6Gc-EgRgVTI",
+      "youtubeVideoId": "6Gc-EgRgVTI",
+      "title": "MCA NE SURYA KO RANJI SE KYUN KIYA BAHAR? #mca #suryakumaryadav #ranjitrophy #domesticcricket",
+      "thumbnail": "https://i.ytimg.com/vi/6Gc-EgRgVTI/maxresdefault.jpg",
+      "channelName": "Sports Yaari",
+      "channelId": 25,
+      "publishedAt": "2026-10-06T00:10:37+00:00",
+      "durationSeconds": 45,
+      "youtubeUrl": "https://www.youtube.com/watch?v=6Gc-EgRgVTI",
+      "category": "Sports",
+      "language": "hi"
+    },
     {
       "id": "_-RfySXjfsM",
       "youtubeVideoId": "_-RfySXjfsM",
@@ -3237,19 +3250,6 @@
       "durationSeconds": 67,
       "youtubeUrl": "https://www.youtube.com/watch?v=0aVwUE9oRJc",
       "category": "Politics",
-      "language": "hi"
-    },
-    {
-      "id": "Jj26hxT9p7o",
-      "youtubeVideoId": "Jj26hxT9p7o",
-      "title": "YUZI CHAHAL KO KYUN KIYA SIDELINE? #yuzvendrachahal #teamindia #shubmangill #gautamgambhir #kuldeep",
-      "thumbnail": "https://i.ytimg.com/vi/Jj26hxT9p7o/maxresdefault.jpg",
-      "channelName": "Sports Yaari",
-      "channelId": 25,
-      "publishedAt": "2026-10-05T04:50:34+00:00",
-      "durationSeconds": 42,
-      "youtubeUrl": "https://www.youtube.com/watch?v=Jj26hxT9p7o",
-      "category": "Sports",
       "language": "hi"
     }
   ]
