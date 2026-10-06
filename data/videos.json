@@ -1,7 +1,20 @@
 {
-  "updatedAt": "2026-10-06T09:56:36.805Z",
+  "updatedAt": "2026-10-06T10:05:28.362Z",
   "count": 250,
   "videos": [
+    {
+      "id": "U5UAYaxKgD4",
+      "youtubeVideoId": "U5UAYaxKgD4",
+      "title": "German A400M Joins IAF’s Tarang Shakti 2026 Exercise In Jodhpur",
+      "thumbnail": "https://i.ytimg.com/vi/U5UAYaxKgD4/maxresdefault.jpg",
+      "channelName": "moneycontrol",
+      "channelId": 34,
+      "publishedAt": "2026-10-06T09:56:04+00:00",
+      "durationSeconds": 38,
+      "youtubeUrl": "https://www.youtube.com/watch?v=U5UAYaxKgD4",
+      "category": "Finance",
+      "language": "en"
+    },
     {
       "id": "uNGtDsyRsbk",
       "youtubeVideoId": "uNGtDsyRsbk",
@@ -3237,19 +3250,6 @@
       "durationSeconds": 37,
       "youtubeUrl": "https://www.youtube.com/watch?v=Yt5SEmYvNSo",
       "category": "Sports",
-      "language": "hi"
-    },
-    {
-      "id": "yBFsox_qC-g",
-      "youtubeVideoId": "yBFsox_qC-g",
-      "title": "चुनाव आयोग ने संविधान की धज्जियां उड़ाई.. भड़के जस्टिस, फंसे ज्ञानेश! #shorts #short",
-      "thumbnail": "https://i.ytimg.com/vi/yBFsox_qC-g/maxresdefault.jpg",
-      "channelName": "4PM",
-      "channelId": 9,
-      "publishedAt": "2026-10-05T14:37:27+00:00",
-      "durationSeconds": 62,
-      "youtubeUrl": "https://www.youtube.com/watch?v=yBFsox_qC-g",
-      "category": "Politics",
       "language": "hi"
     }
   ]
