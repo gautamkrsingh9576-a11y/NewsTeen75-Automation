@@ -1,7 +1,46 @@
 {
-  "updatedAt": "2026-10-06T06:58:48.686Z",
+  "updatedAt": "2026-10-06T07:11:20.493Z",
   "count": 250,
   "videos": [
+    {
+      "id": "aav0GHoL_yI",
+      "youtubeVideoId": "aav0GHoL_yI",
+      "title": "Premanand Ashram Controversy: Virat Kohli के 5 करोड़ का जिक्र, आश्रम पर फलाहारी महाराज का बड़ा दावा!",
+      "thumbnail": "https://i.ytimg.com/vi/aav0GHoL_yI/maxresdefault.jpg",
+      "channelName": "FilmiBeat",
+      "channelId": 29,
+      "publishedAt": "2026-10-06T07:06:44+00:00",
+      "durationSeconds": 141,
+      "youtubeUrl": "https://www.youtube.com/watch?v=aav0GHoL_yI",
+      "category": "Entertainment",
+      "language": "hi"
+    },
+    {
+      "id": "uYQoflOwlgA",
+      "youtubeVideoId": "uYQoflOwlgA",
+      "title": "लोकतंत्र बचाओ मार्च: बैरिकेड पर चढ़े राहुल गांधी | What Happened At INDIA Alliance March? #shorts",
+      "thumbnail": "https://i.ytimg.com/vi/uYQoflOwlgA/maxresdefault.jpg",
+      "channelName": "Satya Hindi सत्य हिन्दी",
+      "channelId": 12,
+      "publishedAt": "2026-10-06T07:02:48+00:00",
+      "durationSeconds": 29,
+      "youtubeUrl": "https://www.youtube.com/watch?v=uYQoflOwlgA",
+      "category": "Politics",
+      "language": "hi"
+    },
+    {
+      "id": "UQCSaQvjHhg",
+      "youtubeVideoId": "UQCSaQvjHhg",
+      "title": "IP गुप्ता के बयान पर कांग्रेस नेता भड़के",
+      "thumbnail": "https://i.ytimg.com/vi/UQCSaQvjHhg/maxresdefault.jpg",
+      "channelName": "City Post live",
+      "channelId": 19,
+      "publishedAt": "2026-10-06T06:57:49+00:00",
+      "durationSeconds": 159,
+      "youtubeUrl": "https://www.youtube.com/watch?v=UQCSaQvjHhg",
+      "category": "General",
+      "language": "hi"
+    },
     {
       "id": "slrJ4OH2oXI",
       "youtubeVideoId": "slrJ4OH2oXI",
@@ -3212,45 +3251,6 @@
       "youtubeUrl": "https://www.youtube.com/watch?v=boN7Jt7WOYw",
       "category": "Technology",
       "language": "en"
-    },
-    {
-      "id": "4hzeezfrSqo",
-      "youtubeVideoId": "4hzeezfrSqo",
-      "title": "Spain’s PM Pedro Sanchez Calls Snap Election Amid Housing Crisis Protests",
-      "thumbnail": "https://i.ytimg.com/vi/4hzeezfrSqo/maxresdefault.jpg",
-      "channelName": "moneycontrol",
-      "channelId": 34,
-      "publishedAt": "2026-10-05T09:38:12+00:00",
-      "durationSeconds": 60,
-      "youtubeUrl": "https://www.youtube.com/watch?v=4hzeezfrSqo",
-      "category": "Finance",
-      "language": "en"
-    },
-    {
-      "id": "zzSPhituvjw",
-      "youtubeVideoId": "zzSPhituvjw",
-      "title": "आधार में DOB बदलवाना पड़ा भारी, बिहार में 3 महीने में 1.66 लाख नंबर बंद ..",
-      "thumbnail": "https://i.ytimg.com/vi/zzSPhituvjw/maxresdefault.jpg",
-      "channelName": "City Post live",
-      "channelId": 19,
-      "publishedAt": "2026-10-05T09:35:40+00:00",
-      "durationSeconds": 173,
-      "youtubeUrl": "https://www.youtube.com/watch?v=zzSPhituvjw",
-      "category": "General",
-      "language": "hi"
-    },
-    {
-      "id": "_h6fcY1YTXc",
-      "youtubeVideoId": "_h6fcY1YTXc",
-      "title": "Kargil में Pakistani Bunkers पर बम गिराते समय क्या चुनौतियां थीं? Anupam Banerjee ने बताया #shorts",
-      "thumbnail": "https://i.ytimg.com/vi/_h6fcY1YTXc/maxresdefault.jpg",
-      "channelName": "The Lallantop",
-      "channelId": 1,
-      "publishedAt": "2026-10-05T09:34:27+00:00",
-      "durationSeconds": 118,
-      "youtubeUrl": "https://www.youtube.com/watch?v=_h6fcY1YTXc",
-      "category": "General",
-      "language": "hi"
     }
   ]
 }
