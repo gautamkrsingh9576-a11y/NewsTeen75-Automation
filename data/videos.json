@@ -1,7 +1,20 @@
 {
-  "updatedAt": "2026-10-06T12:57:54.644Z",
+  "updatedAt": "2026-10-06T13:09:08.923Z",
   "count": 250,
   "videos": [
+    {
+      "id": "ZXyBjgBgee0",
+      "youtubeVideoId": "ZXyBjgBgee0",
+      "title": "बंगाल में दूसरी बाबरी मस्जिद बनवाने की बात करने वाले हुमायूं कबीर के साथ बंगाल पुलिस की बर्बरता!",
+      "thumbnail": "https://i.ytimg.com/vi/ZXyBjgBgee0/maxresdefault.jpg",
+      "channelName": "4PM",
+      "channelId": 9,
+      "publishedAt": "2026-10-06T13:00:13+00:00",
+      "durationSeconds": 29,
+      "youtubeUrl": "https://www.youtube.com/watch?v=ZXyBjgBgee0",
+      "category": "Politics",
+      "language": "hi"
+    },
     {
       "id": "TGr4zyNVX60",
       "youtubeVideoId": "TGr4zyNVX60",
@@ -3238,19 +3251,6 @@
       "youtubeUrl": "https://www.youtube.com/watch?v=04_IYMtV-2Q",
       "category": "Sports",
       "language": "hi"
-    },
-    {
-      "id": "A42-PSIy2Zg",
-      "youtubeVideoId": "A42-PSIy2Zg",
-      "title": "Barcelona Housing Protest Turns Violent As Police Clash With Demonstrators",
-      "thumbnail": "https://i.ytimg.com/vi/A42-PSIy2Zg/maxresdefault.jpg",
-      "channelName": "moneycontrol",
-      "channelId": 34,
-      "publishedAt": "2026-10-06T02:10:01+00:00",
-      "durationSeconds": 61,
-      "youtubeUrl": "https://www.youtube.com/watch?v=A42-PSIy2Zg",
-      "category": "Finance",
-      "language": "en"
     }
   ]
 }
