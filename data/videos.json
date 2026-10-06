@@ -1,7 +1,33 @@
 {
-  "updatedAt": "2026-10-06T05:39:53.195Z",
+  "updatedAt": "2026-10-06T05:54:29.218Z",
   "count": 250,
   "videos": [
+    {
+      "id": "81abv_LoHNg",
+      "youtubeVideoId": "81abv_LoHNg",
+      "title": "10 अक्टूबर को फिर आंदोलन करेगी CJP सौरव दास ने किया बड़ा ऐलान  #cjp #sauravdas #shorts #viral",
+      "thumbnail": "https://i.ytimg.com/vi/81abv_LoHNg/maxresdefault.jpg",
+      "channelName": "4PM",
+      "channelId": 9,
+      "publishedAt": "2026-10-06T05:45:07+00:00",
+      "durationSeconds": 45,
+      "youtubeUrl": "https://www.youtube.com/watch?v=81abv_LoHNg",
+      "category": "Politics",
+      "language": "hi"
+    },
+    {
+      "id": "uMMTRu9J8z4",
+      "youtubeVideoId": "uMMTRu9J8z4",
+      "title": "Protest Against Gyanesh Kumar: सौरव दास बोले, '10 अक्टूबर से पूरा दिल्ली जंतर-मंतर बनेगा'",
+      "thumbnail": "https://i.ytimg.com/vi/uMMTRu9J8z4/maxresdefault.jpg",
+      "channelName": "Jansatta",
+      "channelId": 10,
+      "publishedAt": "2026-10-06T05:42:11+00:00",
+      "durationSeconds": 179,
+      "youtubeUrl": "https://www.youtube.com/watch?v=uMMTRu9J8z4",
+      "category": "Politics",
+      "language": "hi"
+    },
     {
       "id": "EjYjOOjzz6U",
       "youtubeVideoId": "EjYjOOjzz6U",
@@ -3225,32 +3251,6 @@
       "youtubeUrl": "https://www.youtube.com/watch?v=UiugC2n9aWM",
       "category": "Politics",
       "language": "hi"
-    },
-    {
-      "id": "_grgSnfzjds",
-      "youtubeVideoId": "_grgSnfzjds",
-      "title": "चुनाव आयोग के काम पर सुप्रीम कोर्ट के जज ने उठाए सवाल  #shorts #shortvideo",
-      "thumbnail": "https://i.ytimg.com/vi/_grgSnfzjds/maxresdefault.jpg",
-      "channelName": "4PM",
-      "channelId": 9,
-      "publishedAt": "2026-10-05T08:05:12+00:00",
-      "durationSeconds": 51,
-      "youtubeUrl": "https://www.youtube.com/watch?v=_grgSnfzjds",
-      "category": "Politics",
-      "language": "hi"
-    },
-    {
-      "id": "c6QRryruwUo",
-      "youtubeVideoId": "c6QRryruwUo",
-      "title": "Koel Mallick Files Nomination For Rajya Sabha Bypoll, Suvendu Adhikari Present",
-      "thumbnail": "https://i.ytimg.com/vi/c6QRryruwUo/maxresdefault.jpg",
-      "channelName": "moneycontrol",
-      "channelId": 34,
-      "publishedAt": "2026-10-05T08:03:23+00:00",
-      "durationSeconds": 75,
-      "youtubeUrl": "https://www.youtube.com/watch?v=c6QRryruwUo",
-      "category": "Finance",
-      "language": "en"
     }
   ]
 }
