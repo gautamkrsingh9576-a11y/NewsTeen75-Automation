@@ -1,7 +1,20 @@
 {
-  "updatedAt": "2026-10-06T20:27:57.473Z",
+  "updatedAt": "2026-10-06T20:42:16.474Z",
   "count": 250,
   "videos": [
+    {
+      "id": "tDqfr9kTQTU",
+      "youtubeVideoId": "tDqfr9kTQTU",
+      "title": "Armenia Parliament Descends Into Chaos as Lawmakers Brawl During Explosive Corruption Accusations",
+      "thumbnail": "https://i.ytimg.com/vi/tDqfr9kTQTU/maxresdefault.jpg",
+      "channelName": "The Financial Express",
+      "channelId": 36,
+      "publishedAt": "2026-10-06T20:30:08+00:00",
+      "durationSeconds": 89,
+      "youtubeUrl": "https://www.youtube.com/watch?v=tDqfr9kTQTU",
+      "category": "Finance",
+      "language": "en"
+    },
     {
       "id": "TQ4KelREqZA",
       "youtubeVideoId": "TQ4KelREqZA",
@@ -3237,19 +3250,6 @@
       "durationSeconds": 11,
       "youtubeUrl": "https://www.youtube.com/watch?v=DpQyTNe7N1o",
       "category": "General",
-      "language": "hi"
-    },
-    {
-      "id": "ug1GUOAEbaQ",
-      "youtubeVideoId": "ug1GUOAEbaQ",
-      "title": "छात्रों के साथ खड़ी कांग्रेस, एक इंच भी पीछे नहीं हटेंगे राहुल #dblive #rahulgandhi #students #cjp",
-      "thumbnail": "https://i.ytimg.com/vi/ug1GUOAEbaQ/maxresdefault.jpg",
-      "channelName": "DB Live",
-      "channelId": 6,
-      "publishedAt": "2026-10-06T08:30:41+00:00",
-      "durationSeconds": 63,
-      "youtubeUrl": "https://www.youtube.com/watch?v=ug1GUOAEbaQ",
-      "category": "Politics",
       "language": "hi"
     }
   ]
