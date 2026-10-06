@@ -1,7 +1,20 @@
 {
-  "updatedAt": "2026-10-06T18:47:20.981Z",
+  "updatedAt": "2026-10-06T19:05:09.092Z",
   "count": 250,
   "videos": [
+    {
+      "id": "lxex_AeVpIk",
+      "youtubeVideoId": "lxex_AeVpIk",
+      "title": "Gyanesh Kumar के खिलाफ धरने पर बैठे Rahul Gandhi #breakingnews #latestnews #shortvideos #dblive",
+      "thumbnail": "https://i.ytimg.com/vi/lxex_AeVpIk/maxresdefault.jpg",
+      "channelName": "DB Live",
+      "channelId": 6,
+      "publishedAt": "2026-10-06T19:02:51+00:00",
+      "durationSeconds": 50,
+      "youtubeUrl": "https://www.youtube.com/watch?v=lxex_AeVpIk",
+      "category": "Politics",
+      "language": "hi"
+    },
     {
       "id": "e_8TQrg4p88",
       "youtubeVideoId": "e_8TQrg4p88",
@@ -3238,19 +3251,6 @@
       "youtubeUrl": "https://www.youtube.com/watch?v=wZtQI4-EjPo",
       "category": "Politics",
       "language": "hi"
-    },
-    {
-      "id": "eAC9wT7eHO4",
-      "youtubeVideoId": "eAC9wT7eHO4",
-      "title": "vivo V80 in 60 Seconds!",
-      "thumbnail": "https://i.ytimg.com/vi/eAC9wT7eHO4/maxresdefault.jpg",
-      "channelName": "Beebom",
-      "channelId": 39,
-      "publishedAt": "2026-10-06T08:30:04+00:00",
-      "durationSeconds": 107,
-      "youtubeUrl": "https://www.youtube.com/watch?v=eAC9wT7eHO4",
-      "category": "Technology",
-      "language": "en"
     }
   ]
 }
