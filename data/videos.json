@@ -1,7 +1,46 @@
 {
-  "updatedAt": "2026-10-06T16:45:11.834Z",
+  "updatedAt": "2026-10-06T16:58:46.258Z",
   "count": 250,
   "videos": [
+    {
+      "id": "8IgW5tkD2kI",
+      "youtubeVideoId": "8IgW5tkD2kI",
+      "title": "Cheteshwar Pujara reacts to Bhuvneshwar Kumar's comeback to India's T20I setup",
+      "thumbnail": "https://i.ytimg.com/vi/8IgW5tkD2kI/maxresdefault.jpg",
+      "channelName": "Cricinfo",
+      "channelId": 26,
+      "publishedAt": "2026-10-06T16:57:20+00:00",
+      "durationSeconds": 48,
+      "youtubeUrl": "https://www.youtube.com/watch?v=8IgW5tkD2kI",
+      "category": "Sports",
+      "language": "en"
+    },
+    {
+      "id": "MGZ-TV5VFMI",
+      "youtubeVideoId": "MGZ-TV5VFMI",
+      "title": "Mass Protests Erupt In Paris As Crowds March Through Streets Amid Police Standoff",
+      "thumbnail": "https://i.ytimg.com/vi/MGZ-TV5VFMI/maxresdefault.jpg",
+      "channelName": "moneycontrol",
+      "channelId": 34,
+      "publishedAt": "2026-10-06T16:56:56+00:00",
+      "durationSeconds": 35,
+      "youtubeUrl": "https://www.youtube.com/watch?v=MGZ-TV5VFMI",
+      "category": "Finance",
+      "language": "en"
+    },
+    {
+      "id": "yciYxuYjU3I",
+      "youtubeVideoId": "yciYxuYjU3I",
+      "title": "SHREYAS IYER SE HAARA WEST INDIES #shreyasiyer #indvswi",
+      "thumbnail": "https://i.ytimg.com/vi/yciYxuYjU3I/maxresdefault.jpg",
+      "channelName": "Sports Yaari",
+      "channelId": 25,
+      "publishedAt": "2026-10-06T16:52:33+00:00",
+      "durationSeconds": 49,
+      "youtubeUrl": "https://www.youtube.com/watch?v=yciYxuYjU3I",
+      "category": "Sports",
+      "language": "hi"
+    },
     {
       "id": "tvmX9RELHuU",
       "youtubeVideoId": "tvmX9RELHuU",
@@ -3211,45 +3250,6 @@
       "durationSeconds": 167,
       "youtubeUrl": "https://www.youtube.com/watch?v=tI5GiOKOtho",
       "category": "General",
-      "language": "hi"
-    },
-    {
-      "id": "qOGEOhPaIwQ",
-      "youtubeVideoId": "qOGEOhPaIwQ",
-      "title": "शाह की पुलिस ने तो हरामखोरी की सारी हदें पार कर दीं!",
-      "thumbnail": "https://i.ytimg.com/vi/qOGEOhPaIwQ/maxresdefault.jpg",
-      "channelName": "4PM",
-      "channelId": 9,
-      "publishedAt": "2026-10-06T07:45:17+00:00",
-      "durationSeconds": 18,
-      "youtubeUrl": "https://www.youtube.com/watch?v=qOGEOhPaIwQ",
-      "category": "Politics",
-      "language": "hi"
-    },
-    {
-      "id": "d39Tw1IzGxE",
-      "youtubeVideoId": "d39Tw1IzGxE",
-      "title": "Bigg Boss 20: Aman Gandhi ने Love Gill को कहा Overacting,Double Meaning Comment पर भड़कीं!|FilmiBeat",
-      "thumbnail": "https://i.ytimg.com/vi/d39Tw1IzGxE/maxresdefault.jpg",
-      "channelName": "FilmiBeat",
-      "channelId": 29,
-      "publishedAt": "2026-10-06T07:44:13+00:00",
-      "durationSeconds": 150,
-      "youtubeUrl": "https://www.youtube.com/watch?v=d39Tw1IzGxE",
-      "category": "Entertainment",
-      "language": "hi"
-    },
-    {
-      "id": "pfltaKaaMCw",
-      "youtubeVideoId": "pfltaKaaMCw",
-      "title": "भूटान के पारो शहर, जहाँ हर ओर मिलेंगे बौद्ध ही बौद्ध| Dalit Dastak",
-      "thumbnail": "https://i.ytimg.com/vi/pfltaKaaMCw/maxresdefault.jpg",
-      "channelName": "The Dalit Dastak",
-      "channelId": 18,
-      "publishedAt": "2026-10-06T07:43:33+00:00",
-      "durationSeconds": 52,
-      "youtubeUrl": "https://www.youtube.com/watch?v=pfltaKaaMCw",
-      "category": "Politics",
       "language": "hi"
     }
   ]
