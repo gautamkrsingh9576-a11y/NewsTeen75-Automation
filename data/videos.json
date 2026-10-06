@@ -1,7 +1,33 @@
 {
-  "updatedAt": "2026-10-06T02:04:18.029Z",
+  "updatedAt": "2026-10-06T02:26:12.969Z",
   "count": 250,
   "videos": [
+    {
+      "id": "04_IYMtV-2Q",
+      "youtubeVideoId": "04_IYMtV-2Q",
+      "title": "T20 MEIN NAHI MILI JAGAH SHUBMAN GILL HUYE GUSSA? #shubmangill #indvswi #shreyasiyer #gautamgambhir",
+      "thumbnail": "https://i.ytimg.com/vi/04_IYMtV-2Q/maxresdefault.jpg",
+      "channelName": "Sports Yaari",
+      "channelId": 25,
+      "publishedAt": "2026-10-06T02:10:33+00:00",
+      "durationSeconds": 31,
+      "youtubeUrl": "https://www.youtube.com/watch?v=04_IYMtV-2Q",
+      "category": "Sports",
+      "language": "hi"
+    },
+    {
+      "id": "A42-PSIy2Zg",
+      "youtubeVideoId": "A42-PSIy2Zg",
+      "title": "Barcelona Housing Protest Turns Violent As Police Clash With Demonstrators",
+      "thumbnail": "https://i.ytimg.com/vi/A42-PSIy2Zg/maxresdefault.jpg",
+      "channelName": "moneycontrol",
+      "channelId": 34,
+      "publishedAt": "2026-10-06T02:10:01+00:00",
+      "durationSeconds": 61,
+      "youtubeUrl": "https://www.youtube.com/watch?v=A42-PSIy2Zg",
+      "category": "Finance",
+      "language": "en"
+    },
     {
       "id": "mooO4q6X2xE",
       "youtubeVideoId": "mooO4q6X2xE",
@@ -3224,32 +3250,6 @@
       "durationSeconds": 91,
       "youtubeUrl": "https://www.youtube.com/watch?v=qxJX7_xS4dk",
       "category": "General",
-      "language": "hi"
-    },
-    {
-      "id": "xyVOuxw8VbQ",
-      "youtubeVideoId": "xyVOuxw8VbQ",
-      "title": "Delhi:  महिला से कथित बदसलूकी पर प्रदर्शनपुलिस ने प्रदर्शनकारियों को हिरासत में लिया. #delhipolice",
-      "thumbnail": "https://i.ytimg.com/vi/xyVOuxw8VbQ/maxresdefault.jpg",
-      "channelName": "Jansatta",
-      "channelId": 10,
-      "publishedAt": "2026-10-05T05:31:36+00:00",
-      "durationSeconds": 89,
-      "youtubeUrl": "https://www.youtube.com/watch?v=xyVOuxw8VbQ",
-      "category": "Politics",
-      "language": "hi"
-    },
-    {
-      "id": "tzp59ktuosI",
-      "youtubeVideoId": "tzp59ktuosI",
-      "title": "ROHIT-BUMRAH-HARDIK IN INDIA'S INJURY ZONE? #rohitsharma #hardikpandya #jaspritbumrah #teamindia",
-      "thumbnail": "https://i.ytimg.com/vi/tzp59ktuosI/maxresdefault.jpg",
-      "channelName": "Sports Yaari",
-      "channelId": 25,
-      "publishedAt": "2026-10-05T05:30:11+00:00",
-      "durationSeconds": 32,
-      "youtubeUrl": "https://www.youtube.com/watch?v=tzp59ktuosI",
-      "category": "Sports",
       "language": "hi"
     }
   ]
