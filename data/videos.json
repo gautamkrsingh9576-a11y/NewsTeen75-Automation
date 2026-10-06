@@ -1,7 +1,46 @@
 {
-  "updatedAt": "2026-10-06T02:54:25.625Z",
+  "updatedAt": "2026-10-06T03:04:48.007Z",
   "count": 250,
   "videos": [
+    {
+      "id": "vzFo6IlwkPc",
+      "youtubeVideoId": "vzFo6IlwkPc",
+      "title": "UP Old Age Pension: बुजुर्गों को अब ₹1500 महीना, जानें पात्रता और जरूरी नियम | UP Pension Scheme",
+      "thumbnail": "https://i.ytimg.com/vi/vzFo6IlwkPc/maxresdefault.jpg",
+      "channelName": "Dainik Jagran - दैनिक जागरण",
+      "channelId": 5,
+      "publishedAt": "2026-10-06T03:00:26+00:00",
+      "durationSeconds": 157,
+      "youtubeUrl": "https://www.youtube.com/watch?v=vzFo6IlwkPc",
+      "category": "General",
+      "language": "hi"
+    },
+    {
+      "id": "DgCzFxAW8HY",
+      "youtubeVideoId": "DgCzFxAW8HY",
+      "title": "ममता बनर्जी का भाषण सुनकर खुद तालियां बजाने लगे CJI!",
+      "thumbnail": "https://i.ytimg.com/vi/DgCzFxAW8HY/maxresdefault.jpg",
+      "channelName": "4PM",
+      "channelId": 9,
+      "publishedAt": "2026-10-06T03:00:04+00:00",
+      "durationSeconds": 77,
+      "youtubeUrl": "https://www.youtube.com/watch?v=DgCzFxAW8HY",
+      "category": "Politics",
+      "language": "hi"
+    },
+    {
+      "id": "k0UZruEQm34",
+      "youtubeVideoId": "k0UZruEQm34",
+      "title": "Turkey, Pakistan To Rapidly Deploy Troops To Saudi Amid Houthi Attacks",
+      "thumbnail": "https://i.ytimg.com/vi/k0UZruEQm34/maxresdefault.jpg",
+      "channelName": "moneycontrol",
+      "channelId": 34,
+      "publishedAt": "2026-10-06T02:53:35+00:00",
+      "durationSeconds": 52,
+      "youtubeUrl": "https://www.youtube.com/watch?v=k0UZruEQm34",
+      "category": "Finance",
+      "language": "en"
+    },
     {
       "id": "olpmCRh7OcQ",
       "youtubeVideoId": "olpmCRh7OcQ",
@@ -3211,45 +3250,6 @@
       "durationSeconds": 23,
       "youtubeUrl": "https://www.youtube.com/watch?v=DIU_BJMDWHM",
       "category": "Politics",
-      "language": "hi"
-    },
-    {
-      "id": "61vl1I0Inj0",
-      "youtubeVideoId": "61vl1I0Inj0",
-      "title": "जेल से बाहर आया शरजील इमाम #dblive #shortvideo #ytshorts #breakingnews",
-      "thumbnail": "https://i.ytimg.com/vi/61vl1I0Inj0/maxresdefault.jpg",
-      "channelName": "DB Live",
-      "channelId": 6,
-      "publishedAt": "2026-10-05T06:16:46+00:00",
-      "durationSeconds": 47,
-      "youtubeUrl": "https://www.youtube.com/watch?v=61vl1I0Inj0",
-      "category": "Politics",
-      "language": "hi"
-    },
-    {
-      "id": "ln-8BT08-84",
-      "youtubeVideoId": "ln-8BT08-84",
-      "title": "Go Against The Crowd: Rohit Srivastava Backs Commodities Over Equities",
-      "thumbnail": "https://i.ytimg.com/vi/ln-8BT08-84/maxresdefault.jpg",
-      "channelName": "moneycontrol",
-      "channelId": 34,
-      "publishedAt": "2026-10-05T06:13:38+00:00",
-      "durationSeconds": 140,
-      "youtubeUrl": "https://www.youtube.com/watch?v=ln-8BT08-84",
-      "category": "Finance",
-      "language": "en"
-    },
-    {
-      "id": "E-8FeVgd6KQ",
-      "youtubeVideoId": "E-8FeVgd6KQ",
-      "title": "INDIA KI BOWLING MEIN EXPERIENCE KI KAMI WC MEIN PADEGI BHAARI? #shubmangill #siraj #prasidhkrishna",
-      "thumbnail": "https://i.ytimg.com/vi/E-8FeVgd6KQ/maxresdefault.jpg",
-      "channelName": "Sports Yaari",
-      "channelId": 25,
-      "publishedAt": "2026-10-05T06:10:31+00:00",
-      "durationSeconds": 55,
-      "youtubeUrl": "https://www.youtube.com/watch?v=E-8FeVgd6KQ",
-      "category": "Sports",
       "language": "hi"
     }
   ]
