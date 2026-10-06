@@ -1,7 +1,46 @@
 {
-  "updatedAt": "2026-10-06T04:27:34.821Z",
+  "updatedAt": "2026-10-06T04:42:03.466Z",
   "count": 250,
   "videos": [
+    {
+      "id": "W3OPNLkcEqw",
+      "youtubeVideoId": "W3OPNLkcEqw",
+      "title": "India’s Largest Financial Planners Summit Is Here | GFPS 2026",
+      "thumbnail": "https://i.ytimg.com/vi/W3OPNLkcEqw/maxresdefault.jpg",
+      "channelName": "moneycontrol",
+      "channelId": 34,
+      "publishedAt": "2026-10-06T04:37:39+00:00",
+      "durationSeconds": 79,
+      "youtubeUrl": "https://www.youtube.com/watch?v=W3OPNLkcEqw",
+      "category": "Finance",
+      "language": "en"
+    },
+    {
+      "id": "W-WAlh9RZow",
+      "youtubeVideoId": "W-WAlh9RZow",
+      "title": "Acharya Prashant on Indian Mindset: 'हम निहायत बदतमीज लोग हैं क्या?' | Suchika Tariyal | NBT",
+      "thumbnail": "https://i.ytimg.com/vi/W-WAlh9RZow/maxresdefault.jpg",
+      "channelName": "Navbharat Times नवभारत टाइम्स",
+      "channelId": 4,
+      "publishedAt": "2026-10-06T04:35:50+00:00",
+      "durationSeconds": 91,
+      "youtubeUrl": "https://www.youtube.com/watch?v=W-WAlh9RZow",
+      "category": "General",
+      "language": "hi"
+    },
+    {
+      "id": "ruRii9kaMOk",
+      "youtubeVideoId": "ruRii9kaMOk",
+      "title": "'हम सामना करने के लिए तैयार...' अभिजीत दीपके का मोदी सरकार को चैलेंज #shorts #shortvideo",
+      "thumbnail": "https://i.ytimg.com/vi/ruRii9kaMOk/maxresdefault.jpg",
+      "channelName": "4PM",
+      "channelId": 9,
+      "publishedAt": "2026-10-06T04:30:33+00:00",
+      "durationSeconds": 51,
+      "youtubeUrl": "https://www.youtube.com/watch?v=ruRii9kaMOk",
+      "category": "Politics",
+      "language": "hi"
+    },
     {
       "id": "b0s6PRKYD9A",
       "youtubeVideoId": "b0s6PRKYD9A",
@@ -3212,45 +3251,6 @@
       "youtubeUrl": "https://www.youtube.com/watch?v=2yrM1zWONg0",
       "category": "Sports",
       "language": "hi"
-    },
-    {
-      "id": "rh3_9lEiYbE",
-      "youtubeVideoId": "rh3_9lEiYbE",
-      "title": "'कॉकरोचों' पर काम नहीं आएगी सरकार की धमकी #dblive #shortvideo #abijetdipke #jantarmantar #cjpprotest",
-      "thumbnail": "https://i.ytimg.com/vi/rh3_9lEiYbE/maxresdefault.jpg",
-      "channelName": "DB Live",
-      "channelId": 6,
-      "publishedAt": "2026-10-05T07:45:15+00:00",
-      "durationSeconds": 53,
-      "youtubeUrl": "https://www.youtube.com/watch?v=rh3_9lEiYbE",
-      "category": "Politics",
-      "language": "hi"
-    },
-    {
-      "id": "qYjPEbMMvCI",
-      "youtubeVideoId": "qYjPEbMMvCI",
-      "title": "Premanand Maharaj का लापता शिष्य Anuj बरसाने से बरामद, परिवार ने नाराज होकर आश्रम पर उठाए सवाल!",
-      "thumbnail": "https://i.ytimg.com/vi/qYjPEbMMvCI/maxresdefault.jpg",
-      "channelName": "FilmiBeat",
-      "channelId": 29,
-      "publishedAt": "2026-10-05T07:40:44+00:00",
-      "durationSeconds": 135,
-      "youtubeUrl": "https://www.youtube.com/watch?v=qYjPEbMMvCI",
-      "category": "Entertainment",
-      "language": "hi"
-    },
-    {
-      "id": "9aV3GvVHQ2k",
-      "youtubeVideoId": "9aV3GvVHQ2k",
-      "title": "Neeru Dhanda on what it meant to be India's flag bearer at the closing ceremony of the Asian Games",
-      "thumbnail": "https://i.ytimg.com/vi/9aV3GvVHQ2k/maxresdefault.jpg",
-      "channelName": "Revsportz",
-      "channelId": 24,
-      "publishedAt": "2026-10-05T07:38:50+00:00",
-      "durationSeconds": 111,
-      "youtubeUrl": "https://www.youtube.com/watch?v=9aV3GvVHQ2k",
-      "category": "Sports",
-      "language": "en"
     }
   ]
 }
