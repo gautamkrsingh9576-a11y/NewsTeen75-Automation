@@ -1,7 +1,20 @@
 {
-  "updatedAt": "2026-10-07T09:45:30.104Z",
+  "updatedAt": "2026-10-07T09:58:56.347Z",
   "count": 250,
   "videos": [
+    {
+      "id": "J3lUEBYnujc",
+      "youtubeVideoId": "J3lUEBYnujc",
+      "title": "Congress MP Deepender Hooda On FIRs Against Rahul, Priyanka: ‘Our Fight Will Continue’",
+      "thumbnail": "https://i.ytimg.com/vi/J3lUEBYnujc/maxresdefault.jpg",
+      "channelName": "moneycontrol",
+      "channelId": 34,
+      "publishedAt": "2026-10-07T09:44:33+00:00",
+      "durationSeconds": 41,
+      "youtubeUrl": "https://www.youtube.com/watch?v=J3lUEBYnujc",
+      "category": "Finance",
+      "language": "en"
+    },
     {
       "id": "4hZaR0SHYo0",
       "youtubeVideoId": "4hZaR0SHYo0",
@@ -3238,19 +3251,6 @@
       "youtubeUrl": "https://www.youtube.com/watch?v=DM-t0A3ixR8",
       "category": "Entertainment",
       "language": "en"
-    },
-    {
-      "id": "yH98KC-ATKI",
-      "youtubeVideoId": "yH98KC-ATKI",
-      "title": "Rhiti Tiwari reflects on her journey inside the #biggboss20 house. #shorts #rhititiwari #biggboss",
-      "thumbnail": "https://i.ytimg.com/vi/yH98KC-ATKI/maxresdefault.jpg",
-      "channelName": "Bollywood Bubble",
-      "channelId": 28,
-      "publishedAt": "2026-10-06T14:30:01+00:00",
-      "durationSeconds": 25,
-      "youtubeUrl": "https://www.youtube.com/watch?v=yH98KC-ATKI",
-      "category": "Entertainment",
-      "language": "hi"
     }
   ]
 }
