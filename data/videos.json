@@ -1,7 +1,33 @@
 {
-  "updatedAt": "2026-10-07T04:45:41.842Z",
+  "updatedAt": "2026-10-07T04:59:26.482Z",
   "count": 250,
   "videos": [
+    {
+      "id": "MZbRQ_QIu0A",
+      "youtubeVideoId": "MZbRQ_QIu0A",
+      "title": "RBI Raises Repo Rate To 5.50% After Nearly 3 Years | Watch | #shorts",
+      "thumbnail": "https://i.ytimg.com/vi/MZbRQ_QIu0A/maxresdefault.jpg",
+      "channelName": "Mint",
+      "channelId": 33,
+      "publishedAt": "2026-10-07T04:52:52+00:00",
+      "durationSeconds": 56,
+      "youtubeUrl": "https://www.youtube.com/watch?v=MZbRQ_QIu0A",
+      "category": "Finance",
+      "language": "en"
+    },
+    {
+      "id": "qCtpIEkRRY8",
+      "youtubeVideoId": "qCtpIEkRRY8",
+      "title": "BHUVNESHWAR KUMAR NE KI SHUBMAN GILL KI TAREEF #bhuvneshwarkumar #teamindia #shubmangill #indvsnz",
+      "thumbnail": "https://i.ytimg.com/vi/qCtpIEkRRY8/maxresdefault.jpg",
+      "channelName": "Sports Yaari",
+      "channelId": 25,
+      "publishedAt": "2026-10-07T04:45:18+00:00",
+      "durationSeconds": 20,
+      "youtubeUrl": "https://www.youtube.com/watch?v=qCtpIEkRRY8",
+      "category": "Sports",
+      "language": "hi"
+    },
     {
       "id": "W0iIStfy1r8",
       "youtubeVideoId": "W0iIStfy1r8",
@@ -3223,32 +3249,6 @@
       "publishedAt": "2026-10-06T10:17:10+00:00",
       "durationSeconds": 76,
       "youtubeUrl": "https://www.youtube.com/watch?v=o-zQbcCS2kI",
-      "category": "General",
-      "language": "hi"
-    },
-    {
-      "id": "q1Wun-et9Tg",
-      "youtubeVideoId": "q1Wun-et9Tg",
-      "title": "Rahul Gandhi vs ECI: 'Why Aren't Election Commissioners Meeting Us?' 'Why Is Police Stopping Us?'",
-      "thumbnail": "https://i.ytimg.com/vi/q1Wun-et9Tg/maxresdefault.jpg",
-      "channelName": "Satya Hindi सत्य हिन्दी",
-      "channelId": 12,
-      "publishedAt": "2026-10-06T10:15:12+00:00",
-      "durationSeconds": 62,
-      "youtubeUrl": "https://www.youtube.com/watch?v=q1Wun-et9Tg",
-      "category": "Politics",
-      "language": "hi"
-    },
-    {
-      "id": "1kZ_ujK-4yQ",
-      "youtubeVideoId": "1kZ_ujK-4yQ",
-      "title": "एमएलसी चुनाव में RJD ने कांग्रेस को दिखाया ठेंगा",
-      "thumbnail": "https://i.ytimg.com/vi/1kZ_ujK-4yQ/maxresdefault.jpg",
-      "channelName": "City Post live",
-      "channelId": 19,
-      "publishedAt": "2026-10-06T10:15:07+00:00",
-      "durationSeconds": 20,
-      "youtubeUrl": "https://www.youtube.com/watch?v=1kZ_ujK-4yQ",
       "category": "General",
       "language": "hi"
     }
