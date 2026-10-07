@@ -1,7 +1,46 @@
 {
-  "updatedAt": "2026-10-07T04:28:12.424Z",
+  "updatedAt": "2026-10-07T04:45:41.842Z",
   "count": 250,
   "videos": [
+    {
+      "id": "W0iIStfy1r8",
+      "youtubeVideoId": "W0iIStfy1r8",
+      "title": "देखिए, अब बोलवाईए मत, बोलना नहीं चाहते हैं।",
+      "thumbnail": "https://i.ytimg.com/vi/W0iIStfy1r8/maxresdefault.jpg",
+      "channelName": "City Post live",
+      "channelId": 19,
+      "publishedAt": "2026-10-07T04:30:36+00:00",
+      "durationSeconds": 81,
+      "youtubeUrl": "https://www.youtube.com/watch?v=W0iIStfy1r8",
+      "category": "General",
+      "language": "hi"
+    },
+    {
+      "id": "p_d1kW3S1rs",
+      "youtubeVideoId": "p_d1kW3S1rs",
+      "title": "बेगानी शादी में...’ ओवैसी का बड़ा बयान #owaisi #trending #viral #shortvideo",
+      "thumbnail": "https://i.ytimg.com/vi/p_d1kW3S1rs/maxresdefault.jpg",
+      "channelName": "4PM",
+      "channelId": 9,
+      "publishedAt": "2026-10-07T04:30:23+00:00",
+      "durationSeconds": 48,
+      "youtubeUrl": "https://www.youtube.com/watch?v=p_d1kW3S1rs",
+      "category": "Politics",
+      "language": "hi"
+    },
+    {
+      "id": "vm1kVvcVmEM",
+      "youtubeVideoId": "vm1kVvcVmEM",
+      "title": "PM Modi 25 Years Public Service | Sudarsan Pattnaik Sand Art Puri Beach #shorts",
+      "thumbnail": "https://i.ytimg.com/vi/vm1kVvcVmEM/maxresdefault.jpg",
+      "channelName": "Dainik Jagran - दैनिक जागरण",
+      "channelId": 5,
+      "publishedAt": "2026-10-07T04:27:37+00:00",
+      "durationSeconds": 63,
+      "youtubeUrl": "https://www.youtube.com/watch?v=vm1kVvcVmEM",
+      "category": "General",
+      "language": "hi"
+    },
     {
       "id": "BUoAe5moG5g",
       "youtubeVideoId": "BUoAe5moG5g",
@@ -3212,45 +3251,6 @@
       "youtubeUrl": "https://www.youtube.com/watch?v=1kZ_ujK-4yQ",
       "category": "General",
       "language": "hi"
-    },
-    {
-      "id": "yGSxs72RKsE",
-      "youtubeVideoId": "yGSxs72RKsE",
-      "title": "57th GST Council meeting: What should businesses expect?",
-      "thumbnail": "https://i.ytimg.com/vi/yGSxs72RKsE/maxresdefault.jpg",
-      "channelName": "Business Standard",
-      "channelId": 35,
-      "publishedAt": "2026-10-06T10:08:29+00:00",
-      "durationSeconds": 148,
-      "youtubeUrl": "https://www.youtube.com/watch?v=yGSxs72RKsE",
-      "category": "Finance",
-      "language": "en"
-    },
-    {
-      "id": "-W_oyT0FBAk",
-      "youtubeVideoId": "-W_oyT0FBAk",
-      "title": "हम ज्ञानेश को छोड़ने वाले नहीं हैं - राहुल गाँधी #shorts #news #video #latestnews #dblive",
-      "thumbnail": "https://i.ytimg.com/vi/-W_oyT0FBAk/maxresdefault.jpg",
-      "channelName": "DB Live",
-      "channelId": 6,
-      "publishedAt": "2026-10-06T10:05:50+00:00",
-      "durationSeconds": 31,
-      "youtubeUrl": "https://www.youtube.com/watch?v=-W_oyT0FBAk",
-      "category": "Politics",
-      "language": "hi"
-    },
-    {
-      "id": "U5UAYaxKgD4",
-      "youtubeVideoId": "U5UAYaxKgD4",
-      "title": "German A400M Joins IAF’s Tarang Shakti 2026 Exercise In Jodhpur",
-      "thumbnail": "https://i.ytimg.com/vi/U5UAYaxKgD4/maxresdefault.jpg",
-      "channelName": "moneycontrol",
-      "channelId": 34,
-      "publishedAt": "2026-10-06T09:56:04+00:00",
-      "durationSeconds": 38,
-      "youtubeUrl": "https://www.youtube.com/watch?v=U5UAYaxKgD4",
-      "category": "Finance",
-      "language": "en"
     }
   ]
 }
