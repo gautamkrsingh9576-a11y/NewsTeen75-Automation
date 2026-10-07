@@ -1,7 +1,33 @@
 {
-  "updatedAt": "2026-10-07T17:55:32.873Z",
+  "updatedAt": "2026-10-07T18:06:06.696Z",
   "count": 250,
   "videos": [
+    {
+      "id": "dcLbhDTXXek",
+      "youtubeVideoId": "dcLbhDTXXek",
+      "title": "RBI rate hike: Will your car or personal loan EMI rise?",
+      "thumbnail": "https://i.ytimg.com/vi/dcLbhDTXXek/maxresdefault.jpg",
+      "channelName": "Business Standard",
+      "channelId": 35,
+      "publishedAt": "2026-10-07T18:04:30+00:00",
+      "durationSeconds": 60,
+      "youtubeUrl": "https://www.youtube.com/watch?v=dcLbhDTXXek",
+      "category": "Finance",
+      "language": "en"
+    },
+    {
+      "id": "c-Q9_4RTY-g",
+      "youtubeVideoId": "c-Q9_4RTY-g",
+      "title": "The Problem With the Current Sale!",
+      "thumbnail": "https://i.ytimg.com/vi/c-Q9_4RTY-g/maxresdefault.jpg",
+      "channelName": "TechWiser",
+      "channelId": 43,
+      "publishedAt": "2026-10-07T18:00:07+00:00",
+      "durationSeconds": 85,
+      "youtubeUrl": "https://www.youtube.com/watch?v=c-Q9_4RTY-g",
+      "category": "Technology",
+      "language": "en"
+    },
     {
       "id": "VmCT_sxgh94",
       "youtubeVideoId": "VmCT_sxgh94",
@@ -3225,32 +3251,6 @@
       "youtubeUrl": "https://www.youtube.com/watch?v=PRkh3M6-dSE",
       "category": "Finance",
       "language": "en"
-    },
-    {
-      "id": "2a41M9e2RWY",
-      "youtubeVideoId": "2a41M9e2RWY",
-      "title": "Rhiti Tiwari talks about her bond with #qazitouqeer. #shorts #rhititiwari #biggboss20",
-      "thumbnail": "https://i.ytimg.com/vi/2a41M9e2RWY/maxresdefault.jpg",
-      "channelName": "Bollywood Bubble",
-      "channelId": 28,
-      "publishedAt": "2026-10-07T07:17:09+00:00",
-      "durationSeconds": 61,
-      "youtubeUrl": "https://www.youtube.com/watch?v=2a41M9e2RWY",
-      "category": "Entertainment",
-      "language": "hi"
-    },
-    {
-      "id": "atoob9yieq8",
-      "youtubeVideoId": "atoob9yieq8",
-      "title": "राहुल गांधी-प्रियंका गांधी पर दर्ज हुई FIR #shorts #shortvideo",
-      "thumbnail": "https://i.ytimg.com/vi/atoob9yieq8/maxresdefault.jpg",
-      "channelName": "4PM",
-      "channelId": 9,
-      "publishedAt": "2026-10-07T07:15:08+00:00",
-      "durationSeconds": 36,
-      "youtubeUrl": "https://www.youtube.com/watch?v=atoob9yieq8",
-      "category": "Politics",
-      "language": "hi"
     }
   ]
 }
