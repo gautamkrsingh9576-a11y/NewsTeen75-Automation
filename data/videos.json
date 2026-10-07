@@ -1,7 +1,33 @@
 {
-  "updatedAt": "2026-10-07T05:55:55.810Z",
+  "updatedAt": "2026-10-07T06:04:56.460Z",
   "count": 250,
   "videos": [
+    {
+      "id": "6_8bNodm5Ko",
+      "youtubeVideoId": "6_8bNodm5Ko",
+      "title": "France Student Protest:  सड़क पर Student Protesters से भिड़ी पुलिस",
+      "thumbnail": "https://i.ytimg.com/vi/6_8bNodm5Ko/maxresdefault.jpg",
+      "channelName": "Jansatta",
+      "channelId": 10,
+      "publishedAt": "2026-10-07T05:59:58+00:00",
+      "durationSeconds": 143,
+      "youtubeUrl": "https://www.youtube.com/watch?v=6_8bNodm5Ko",
+      "category": "Politics",
+      "language": "hi"
+    },
+    {
+      "id": "yo1ZU2GRwmA",
+      "youtubeVideoId": "yo1ZU2GRwmA",
+      "title": "5/3 HO GAYI INDIA TOH KISPE HOGA TRUST GILL YA IYER? #shreyasiyer #shubmangill #odicricket #indvswi",
+      "thumbnail": "https://i.ytimg.com/vi/yo1ZU2GRwmA/maxresdefault.jpg",
+      "channelName": "Sports Yaari",
+      "channelId": 25,
+      "publishedAt": "2026-10-07T05:55:07+00:00",
+      "durationSeconds": 31,
+      "youtubeUrl": "https://www.youtube.com/watch?v=yo1ZU2GRwmA",
+      "category": "Sports",
+      "language": "hi"
+    },
     {
       "id": "s5SkZQvDY-U",
       "youtubeVideoId": "s5SkZQvDY-U",
@@ -3225,32 +3251,6 @@
       "youtubeUrl": "https://www.youtube.com/watch?v=D3zdXvSc6gA",
       "category": "Finance",
       "language": "en"
-    },
-    {
-      "id": "RP7yWlLYBds",
-      "youtubeVideoId": "RP7yWlLYBds",
-      "title": "चार ही विधायक थे, तीन हो गए बागी NDA की इस पार्टी में बड़ी टूट? #nda #trending #viral #shorts",
-      "thumbnail": "https://i.ytimg.com/vi/RP7yWlLYBds/maxresdefault.jpg",
-      "channelName": "4PM",
-      "channelId": 9,
-      "publishedAt": "2026-10-06T11:02:11+00:00",
-      "durationSeconds": 42,
-      "youtubeUrl": "https://www.youtube.com/watch?v=RP7yWlLYBds",
-      "category": "Politics",
-      "language": "hi"
-    },
-    {
-      "id": "sb2wP8nL5DA",
-      "youtubeVideoId": "sb2wP8nL5DA",
-      "title": "जो देश की खातिर लड़ते हैं वो गिरफ्तारी से नहीं डरते-अखिलेश #dblive #shortvideo #akhileshyadav #bjp",
-      "thumbnail": "https://i.ytimg.com/vi/sb2wP8nL5DA/maxresdefault.jpg",
-      "channelName": "DB Live",
-      "channelId": 6,
-      "publishedAt": "2026-10-06T11:00:37+00:00",
-      "durationSeconds": 40,
-      "youtubeUrl": "https://www.youtube.com/watch?v=sb2wP8nL5DA",
-      "category": "Politics",
-      "language": "hi"
     }
   ]
 }
