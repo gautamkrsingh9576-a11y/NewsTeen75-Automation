@@ -1,7 +1,46 @@
 {
-  "updatedAt": "2026-10-08T02:39:03.899Z",
+  "updatedAt": "2026-10-08T02:53:52.534Z",
   "count": 250,
   "videos": [
+    {
+      "id": "q9CbzIK_E_M",
+      "youtubeVideoId": "q9CbzIK_E_M",
+      "title": "फिर बैकफुट पर आई सम्राट सरकार, थोड़ा ठंडा हुआ छात्रों का गुस्सा ! BPSC | #dblive",
+      "thumbnail": "https://i.ytimg.com/vi/q9CbzIK_E_M/maxresdefault.jpg",
+      "channelName": "DB Live",
+      "channelId": 6,
+      "publishedAt": "2026-10-08T02:50:23+00:00",
+      "durationSeconds": 134,
+      "youtubeUrl": "https://www.youtube.com/watch?v=q9CbzIK_E_M",
+      "category": "Politics",
+      "language": "hi"
+    },
+    {
+      "id": "5b8StrmfgWI",
+      "youtubeVideoId": "5b8StrmfgWI",
+      "title": "दिल्ली में फिर घटी सत्यनिकेतन जैसी घटना | Multi-Storey Structure Collapses in Seemapuri Area",
+      "thumbnail": "https://i.ytimg.com/vi/5b8StrmfgWI/maxresdefault.jpg",
+      "channelName": "DB Live",
+      "channelId": 6,
+      "publishedAt": "2026-10-08T02:40:33+00:00",
+      "durationSeconds": 94,
+      "youtubeUrl": "https://www.youtube.com/watch?v=5b8StrmfgWI",
+      "category": "Politics",
+      "language": "hi"
+    },
+    {
+      "id": "tbJHywtuIw8",
+      "youtubeVideoId": "tbJHywtuIw8",
+      "title": "नाना पाटेकर का निधन, 75 साल की उम्र में ली अंतिम सांस; कार्डियक अरेस्ट से गई जान",
+      "thumbnail": "https://i.ytimg.com/vi/tbJHywtuIw8/maxresdefault.jpg",
+      "channelName": "Dainik Jagran - दैनिक जागरण",
+      "channelId": 5,
+      "publishedAt": "2026-10-08T02:38:13+00:00",
+      "durationSeconds": 176,
+      "youtubeUrl": "https://www.youtube.com/watch?v=tbJHywtuIw8",
+      "category": "General",
+      "language": "hi"
+    },
     {
       "id": "LLTMibDESEk",
       "youtubeVideoId": "LLTMibDESEk",
@@ -3212,45 +3251,6 @@
       "youtubeUrl": "https://www.youtube.com/watch?v=gxx1vC_L42M",
       "category": "Finance",
       "language": "en"
-    },
-    {
-      "id": "1-ueOgXM4oM",
-      "youtubeVideoId": "1-ueOgXM4oM",
-      "title": "RBI Hikes Rates After 3.5 Years: Is This Just the Start?",
-      "thumbnail": "https://i.ytimg.com/vi/1-ueOgXM4oM/maxresdefault.jpg",
-      "channelName": "moneycontrol",
-      "channelId": 34,
-      "publishedAt": "2026-10-07T08:19:18+00:00",
-      "durationSeconds": 169,
-      "youtubeUrl": "https://www.youtube.com/watch?v=1-ueOgXM4oM",
-      "category": "Finance",
-      "language": "en"
-    },
-    {
-      "id": "2qH3OFcg_1Q",
-      "youtubeVideoId": "2qH3OFcg_1Q",
-      "title": "वोटिंग लिस्ट से नाम कटवाने की बड़ी साज़िश, BJP के एजेंट पर FIR #dblive #shortvideo #ytshorts",
-      "thumbnail": "https://i.ytimg.com/vi/2qH3OFcg_1Q/maxresdefault.jpg",
-      "channelName": "DB Live",
-      "channelId": 6,
-      "publishedAt": "2026-10-07T08:15:39+00:00",
-      "durationSeconds": 90,
-      "youtubeUrl": "https://www.youtube.com/watch?v=2qH3OFcg_1Q",
-      "category": "Politics",
-      "language": "hi"
-    },
-    {
-      "id": "SCJrqvLLTGs",
-      "youtubeVideoId": "SCJrqvLLTGs",
-      "title": "मुल्ला है, और मारो! प्रोटेस्ट के दौरान लड़के की पैंट खोल कर दिल्ली पुलिस ने चेक किया धर्म!",
-      "thumbnail": "https://i.ytimg.com/vi/SCJrqvLLTGs/maxresdefault.jpg",
-      "channelName": "4PM",
-      "channelId": 9,
-      "publishedAt": "2026-10-07T08:15:38+00:00",
-      "durationSeconds": 34,
-      "youtubeUrl": "https://www.youtube.com/watch?v=SCJrqvLLTGs",
-      "category": "Politics",
-      "language": "hi"
     }
   ]
 }
