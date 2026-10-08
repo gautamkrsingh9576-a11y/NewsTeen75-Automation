@@ -1,7 +1,33 @@
 {
-  "updatedAt": "2026-10-08T02:05:33.464Z",
+  "updatedAt": "2026-10-08T02:25:35.010Z",
   "count": 250,
   "videos": [
+    {
+      "id": "LPE9psCkwgA",
+      "youtubeVideoId": "LPE9psCkwgA",
+      "title": "Rahul - Priyanka को पुलिस ने किया डिटेन, विपक्ष के Jantar Mantar कूच से घबराई BJP ! #dblive",
+      "thumbnail": "https://i.ytimg.com/vi/LPE9psCkwgA/maxresdefault.jpg",
+      "channelName": "DB Live",
+      "channelId": 6,
+      "publishedAt": "2026-10-08T02:20:25+00:00",
+      "durationSeconds": 140,
+      "youtubeUrl": "https://www.youtube.com/watch?v=LPE9psCkwgA",
+      "category": "Politics",
+      "language": "hi"
+    },
+    {
+      "id": "ZVnp22Xh2To",
+      "youtubeVideoId": "ZVnp22Xh2To",
+      "title": "Hegseth Bestows Top Award On USS Lincoln Before Carrier Returns Home",
+      "thumbnail": "https://i.ytimg.com/vi/ZVnp22Xh2To/maxresdefault.jpg",
+      "channelName": "moneycontrol",
+      "channelId": 34,
+      "publishedAt": "2026-10-08T02:11:52+00:00",
+      "durationSeconds": 64,
+      "youtubeUrl": "https://www.youtube.com/watch?v=ZVnp22Xh2To",
+      "category": "Finance",
+      "language": "en"
+    },
     {
       "id": "9D3Kt_f-zbs",
       "youtubeVideoId": "9D3Kt_f-zbs",
@@ -3225,32 +3251,6 @@
       "youtubeUrl": "https://www.youtube.com/watch?v=CZ7wnlwOGP4",
       "category": "Finance",
       "language": "en"
-    },
-    {
-      "id": "zQSD6WG_JXo",
-      "youtubeVideoId": "zQSD6WG_JXo",
-      "title": "CJP Protest: 10 अक्टूबर को जंतर-मंतर पर CJP का प्रदर्शन, पुलिस को इन्फॉर्म करने पहुंचे सौरभ दास!",
-      "thumbnail": "https://i.ytimg.com/vi/zQSD6WG_JXo/hqdefault.jpg",
-      "channelName": "Jansatta",
-      "channelId": 10,
-      "publishedAt": "2026-10-07T08:00:42+00:00",
-      "durationSeconds": 123,
-      "youtubeUrl": "https://www.youtube.com/watch?v=zQSD6WG_JXo",
-      "category": "Politics",
-      "language": "hi"
-    },
-    {
-      "id": "7fa3B6zXYMk",
-      "youtubeVideoId": "7fa3B6zXYMk",
-      "title": "बिहार में महिलाओं की सुरक्षा को लेकर ये क्या बोल गए CM सम्राट #dblive #samratchaudhary #biharnews",
-      "thumbnail": "https://i.ytimg.com/vi/7fa3B6zXYMk/maxresdefault.jpg",
-      "channelName": "DB Live",
-      "channelId": 6,
-      "publishedAt": "2026-10-07T08:00:08+00:00",
-      "durationSeconds": 86,
-      "youtubeUrl": "https://www.youtube.com/watch?v=7fa3B6zXYMk",
-      "category": "Politics",
-      "language": "hi"
     }
   ]
 }
