@@ -1,7 +1,59 @@
 {
-  "updatedAt": "2026-10-08T02:53:52.534Z",
+  "updatedAt": "2026-10-08T03:05:11.687Z",
   "count": 250,
   "videos": [
+    {
+      "id": "plXEOWJHBYY",
+      "youtubeVideoId": "plXEOWJHBYY",
+      "title": "THE REAL CREDIT GOES TO ROHIT & VIRAT — NOT AGARKAR! #rohitsharma #viratkohli #ajitagarkar #viral",
+      "thumbnail": "https://i.ytimg.com/vi/plXEOWJHBYY/maxresdefault.jpg",
+      "channelName": "Sports Yaari",
+      "channelId": 25,
+      "publishedAt": "2026-10-08T03:00:32+00:00",
+      "durationSeconds": 62,
+      "youtubeUrl": "https://www.youtube.com/watch?v=plXEOWJHBYY",
+      "category": "Sports",
+      "language": "hi"
+    },
+    {
+      "id": "MWQWvidxmiI",
+      "youtubeVideoId": "MWQWvidxmiI",
+      "title": "Jantar Mantar कूच पर निकले Rahul Gandhi, शाह की Police ने की बर्बरता #dblive",
+      "thumbnail": "https://i.ytimg.com/vi/MWQWvidxmiI/maxresdefault.jpg",
+      "channelName": "DB Live",
+      "channelId": 6,
+      "publishedAt": "2026-10-08T03:00:31+00:00",
+      "durationSeconds": 155,
+      "youtubeUrl": "https://www.youtube.com/watch?v=MWQWvidxmiI",
+      "category": "Politics",
+      "language": "hi"
+    },
+    {
+      "id": "LE45KI0piNo",
+      "youtubeVideoId": "LE45KI0piNo",
+      "title": "Screen देखने से बच्चे पर क्या असर पड़ता है? #SehatTalk #Parenting",
+      "thumbnail": "https://i.ytimg.com/vi/LE45KI0piNo/maxresdefault.jpg",
+      "channelName": "Live Hindustan",
+      "channelId": 3,
+      "publishedAt": "2026-10-08T03:00:13+00:00",
+      "durationSeconds": 97,
+      "youtubeUrl": "https://www.youtube.com/watch?v=LE45KI0piNo",
+      "category": "General",
+      "language": "hi"
+    },
+    {
+      "id": "h_mCtB38WMI",
+      "youtubeVideoId": "h_mCtB38WMI",
+      "title": "वोट चोरी पर खोल दिए राज",
+      "thumbnail": "https://i.ytimg.com/vi/h_mCtB38WMI/maxresdefault.jpg",
+      "channelName": "National Dastak",
+      "channelId": 7,
+      "publishedAt": "2026-10-08T03:00:04+00:00",
+      "durationSeconds": 61,
+      "youtubeUrl": "https://www.youtube.com/watch?v=h_mCtB38WMI",
+      "category": "Politics",
+      "language": "hi"
+    },
     {
       "id": "q9CbzIK_E_M",
       "youtubeVideoId": "q9CbzIK_E_M",
@@ -3199,58 +3251,6 @@
       "youtubeUrl": "https://www.youtube.com/watch?v=d5rHh0JJuws",
       "category": "Politics",
       "language": "hi"
-    },
-    {
-      "id": "ehEAx_k0bc4",
-      "youtubeVideoId": "ehEAx_k0bc4",
-      "title": "अपने विभाग से खुश हैं रामकृपाल यादव",
-      "thumbnail": "https://i.ytimg.com/vi/ehEAx_k0bc4/maxresdefault.jpg",
-      "channelName": "City Post live",
-      "channelId": 19,
-      "publishedAt": "2026-10-07T08:30:00+00:00",
-      "durationSeconds": 95,
-      "youtubeUrl": "https://www.youtube.com/watch?v=ehEAx_k0bc4",
-      "category": "General",
-      "language": "hi"
-    },
-    {
-      "id": "8R5lhJ3nFOM",
-      "youtubeVideoId": "8R5lhJ3nFOM",
-      "title": "राहुल- प्रियंका के खिलाफ केस दर्ज #dblive #shortvideo #rahulgandhi #ytshorts #gyaneshkumar #cjp",
-      "thumbnail": "https://i.ytimg.com/vi/8R5lhJ3nFOM/maxresdefault.jpg",
-      "channelName": "DB Live",
-      "channelId": 6,
-      "publishedAt": "2026-10-07T08:30:00+00:00",
-      "durationSeconds": 41,
-      "youtubeUrl": "https://www.youtube.com/watch?v=8R5lhJ3nFOM",
-      "category": "Politics",
-      "language": "hi"
-    },
-    {
-      "id": "R6tVznC-VIE",
-      "youtubeVideoId": "R6tVznC-VIE",
-      "title": "Banking is entering an era where trust and technology have to move together.",
-      "thumbnail": "https://i.ytimg.com/vi/R6tVznC-VIE/maxresdefault.jpg",
-      "channelName": "moneycontrol",
-      "channelId": 34,
-      "publishedAt": "2026-10-07T08:27:00+00:00",
-      "durationSeconds": 59,
-      "youtubeUrl": "https://www.youtube.com/watch?v=R6tVznC-VIE",
-      "category": "Finance",
-      "language": "en"
-    },
-    {
-      "id": "gxx1vC_L42M",
-      "youtubeVideoId": "gxx1vC_L42M",
-      "title": "Houthis Warn Foreign Powers Against Joining Yemen War, Threaten Saudi Targets",
-      "thumbnail": "https://i.ytimg.com/vi/gxx1vC_L42M/maxresdefault.jpg",
-      "channelName": "moneycontrol",
-      "channelId": 34,
-      "publishedAt": "2026-10-07T08:24:45+00:00",
-      "durationSeconds": 43,
-      "youtubeUrl": "https://www.youtube.com/watch?v=gxx1vC_L42M",
-      "category": "Finance",
-      "language": "en"
     }
   ]
 }
