@@ -1,7 +1,20 @@
 {
-  "updatedAt": "2026-10-08T03:43:47.639Z",
+  "updatedAt": "2026-10-08T03:57:32.308Z",
   "count": 250,
   "videos": [
+    {
+      "id": "f7IcXStA5lw",
+      "youtubeVideoId": "f7IcXStA5lw",
+      "title": "Veteran Actor Nana Patekar Passes Away At 75 At His Goa Residence",
+      "thumbnail": "https://i.ytimg.com/vi/f7IcXStA5lw/maxresdefault.jpg",
+      "channelName": "moneycontrol",
+      "channelId": 34,
+      "publishedAt": "2026-10-08T03:51:44+00:00",
+      "durationSeconds": 47,
+      "youtubeUrl": "https://www.youtube.com/watch?v=f7IcXStA5lw",
+      "category": "Finance",
+      "language": "en"
+    },
     {
       "id": "Nyj2zXp7N4I",
       "youtubeVideoId": "Nyj2zXp7N4I",
@@ -3238,19 +3251,6 @@
       "youtubeUrl": "https://www.youtube.com/watch?v=fbr7Bmp6dx4",
       "category": "Entertainment",
       "language": "en"
-    },
-    {
-      "id": "LPu0KwNcf2I",
-      "youtubeVideoId": "LPu0KwNcf2I",
-      "title": "Bihar के बेतिया के स्कूल में भयंकर ब/वाल, शिक्षा की पूरी पोल खोल दी  | Bihar News | News4Nation",
-      "thumbnail": "https://i.ytimg.com/vi/LPu0KwNcf2I/maxresdefault.jpg",
-      "channelName": "News4Nation",
-      "channelId": 13,
-      "publishedAt": "2026-10-07T08:56:30+00:00",
-      "durationSeconds": 45,
-      "youtubeUrl": "https://www.youtube.com/watch?v=LPu0KwNcf2I",
-      "category": "General",
-      "language": "hi"
     }
   ]
 }
