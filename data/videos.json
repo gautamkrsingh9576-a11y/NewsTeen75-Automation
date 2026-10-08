@@ -1,7 +1,20 @@
 {
-  "updatedAt": "2026-10-08T03:05:11.687Z",
+  "updatedAt": "2026-10-08T03:28:04.568Z",
   "count": 250,
   "videos": [
+    {
+      "id": "spbRnQlMV2E",
+      "youtubeVideoId": "spbRnQlMV2E",
+      "title": "छोटे हायरैक्स के रिश्तेदार हाथी और समुद्री गाय कैसे बने #dwhindinews #hyraxes #Nature",
+      "thumbnail": "https://i.ytimg.com/vi/spbRnQlMV2E/maxresdefault.jpg",
+      "channelName": "Live Hindustan",
+      "channelId": 3,
+      "publishedAt": "2026-10-08T03:15:28+00:00",
+      "durationSeconds": 80,
+      "youtubeUrl": "https://www.youtube.com/watch?v=spbRnQlMV2E",
+      "category": "General",
+      "language": "hi"
+    },
     {
       "id": "plXEOWJHBYY",
       "youtubeVideoId": "plXEOWJHBYY",
@@ -83,7 +96,7 @@
     {
       "id": "tbJHywtuIw8",
       "youtubeVideoId": "tbJHywtuIw8",
-      "title": "नाना पाटेकर का निधन, 75 साल की उम्र में ली अंतिम सांस; कार्डियक अरेस्ट से गई जान",
+      "title": "Nana Patekar Death: नाना पाटेकर का निधन, 75 साल की उम्र में ली अंतिम सांस; कार्डियक अरेस्ट से गई जान",
       "thumbnail": "https://i.ytimg.com/vi/tbJHywtuIw8/maxresdefault.jpg",
       "channelName": "Dainik Jagran - दैनिक जागरण",
       "channelId": 5,
@@ -3238,19 +3251,6 @@
       "youtubeUrl": "https://www.youtube.com/watch?v=rOfpdkzI5Mc",
       "category": "Finance",
       "language": "en"
-    },
-    {
-      "id": "d5rHh0JJuws",
-      "youtubeVideoId": "d5rHh0JJuws",
-      "title": "NDA में बगावत, बड़ी टूट ! नीतीश के साथ धोखा… विधायकों ने मारी पलटी ! #shorts #shortvideo",
-      "thumbnail": "https://i.ytimg.com/vi/d5rHh0JJuws/maxresdefault.jpg",
-      "channelName": "4PM",
-      "channelId": 9,
-      "publishedAt": "2026-10-07T08:30:29+00:00",
-      "durationSeconds": 41,
-      "youtubeUrl": "https://www.youtube.com/watch?v=d5rHh0JJuws",
-      "category": "Politics",
-      "language": "hi"
     }
   ]
 }
