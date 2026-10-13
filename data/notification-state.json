@@ -1,7 +1,9 @@
 {
-  "lastSentArticleId": "",
-  "lastSentAt": null,
-  "lastMessageId": null,
+  "lastSentArticleId": "f46d7a79a57d11e9",
+  "lastSentAt": "2026-10-13T19:09:11.027Z",
+  "lastMessageId": "projects/newsteen75-af672/messages/8421703455444675745",
   "topic": "trending-news",
-  "sentArticleIds": []
+  "sentArticleIds": [
+    "f46d7a79a57d11e9"
+  ]
 }
