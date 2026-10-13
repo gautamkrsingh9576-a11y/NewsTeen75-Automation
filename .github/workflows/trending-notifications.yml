@@ -1,0 +1,55 @@
+name: Send NewsTeen75 Trending Notifications
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: newsteen75-trending-notifications
+  cancel-in-progress: false
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v5
+        with:
+          node-version: "24"
+
+      - name: Install dependencies
+        run: npm install --no-audit --no-fund
+
+      - name: Send trending notification
+        env:
+          FIREBASE_SERVICE_ACCOUNT_JSON: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_JSON }}
+          FIREBASE_SERVICE_ACCOUNT_BASE64: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_BASE64 }}
+          FCM_TOPIC: ${{ vars.FCM_TOPIC || 'trending-news' }}
+          NOTIFICATION_MAX_AGE_HOURS: ${{ vars.NOTIFICATION_MAX_AGE_HOURS || '12' }}
+        run: npm run send-trending-notification
+
+      - name: Commit notification state only when changed
+        shell: bash
+        run: |
+          git add data/notification-state.json
+          if git diff --cached --quiet; then
+            echo "No notification state change to commit."
+            exit 0
+          fi
+
+          git config user.name "NewsTeen75 Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git commit -m "Update trending notification state"
+          git pull --rebase origin main
+          git push origin HEAD:main
