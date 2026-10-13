@@ -5,10 +5,12 @@
   "type": "module",
   "scripts": {
     "fetch-news": "node scripts/fetch-news.mjs",
-    "fetch-videos": "node scripts/fetch-videos.mjs"
+    "fetch-videos": "node scripts/fetch-videos.mjs",
+    "send-trending-notification": "node scripts/send-trending-notification.mjs"
   },
   "dependencies": {
     "google-news-url-decoder": "1.2.2",
-    "@supabase/supabase-js": "^2.0.0"
+    "@supabase/supabase-js": "^2.0.0",
+    "firebase-admin": "^13.0.0"
   }
 }
