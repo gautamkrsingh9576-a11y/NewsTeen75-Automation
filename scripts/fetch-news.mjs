@@ -686,81 +686,166 @@ async function requestAiSummary({
       ? `\nYour previous draft had ${previousWordCount} words: "${previousDraft}". Rewrite it so the summary has between ${summaryRange.min} and ${summaryRange.max} words, keeping the combined headline + summary between ${MIN_TOTAL_WORDS} and ${MAX_TOTAL_WORDS} words.`
       : "";
 
-  const controller =
-    new AbortController();
+  const endpoint =
+    "https://generativelanguage.googleapis.com/v1beta/models/" +
+    encodeURIComponent(GEMINI_MODEL) +
+    ":generateContent";
 
-  const timeout = setTimeout(
-    () => controller.abort(),
-    20000
-  );
-
-  try {
-    const endpoint =
-      "https://generativelanguage.googleapis.com/v1beta/models/" +
-      encodeURIComponent(GEMINI_MODEL) +
-      ":generateContent";
-
-    const response = await fetch(
-      endpoint,
-      {
-        method: "POST",
-        signal: controller.signal,
-        headers: {
-          "Content-Type":
-            "application/json",
-          "x-goog-api-key":
-            GEMINI_API_KEY,
+  const requestBody = JSON.stringify({
+    systemInstruction: {
+      parts: [
+        {
+          text:
+            "You are the NewsTeen75 background news summarizer. " +
+            "Write one clear, easy-to-understand English news summary using ONLY facts explicitly present in the supplied source text. " +
+            "Preserve the original meaning, names, numbers, dates, places, and attribution. " +
+            "Do not add assumptions, opinions, predictions, invented context, promotional language, or repetition. " +
+            `The NewsTeen75 headline is already fixed at ${countWords(outputHeadline)} words. The summary must contain between ${summaryRange.min} and ${summaryRange.max} words so headline + summary totals ${MIN_TOTAL_WORDS}-${MAX_TOTAL_WORDS} words. The summary must read naturally with complete sentences. ` +
+            'If the supplied source does not contain enough factual information to make a truthful summary, return exactly "INSUFFICIENT_SOURCE". ' +
+            "Return only the summary text, with no label, bullets, quotation marks, or explanation.",
         },
-        body: JSON.stringify({
-          systemInstruction: {
-            parts: [
-              {
-                text:
-                  "You are the NewsTeen75 background news summarizer. " +
-                  "Write one clear, easy-to-understand English news summary using ONLY facts explicitly present in the supplied source text. " +
-                  "Preserve the original meaning, names, numbers, dates, places, and attribution. " +
-                  "Do not add assumptions, opinions, predictions, invented context, promotional language, or repetition. " +
-                  `The NewsTeen75 headline is already fixed at ${countWords(outputHeadline)} words. The summary must contain between ${summaryRange.min} and ${summaryRange.max} words so headline + summary totals ${MIN_TOTAL_WORDS}-${MAX_TOTAL_WORDS} words. The summary must read naturally with complete sentences. ` +
-                  'If the supplied source does not contain enough factual information to make a truthful summary, return exactly "INSUFFICIENT_SOURCE". ' +
-                  "Return only the summary text, with no label, bullets, quotation marks, or explanation.",
-              },
-            ],
+      ],
+    },
+    contents: [
+      {
+        role: "user",
+        parts: [
+          {
+            text:
+              `Create the summary from this source:\n\n${sourceText}${correction}`,
           },
-          contents: [
-            {
-              role: "user",
-              parts: [
-                {
-                  text:
-                    `Create the summary from this source:\n\n${sourceText}${correction}`,
-                },
-              ],
-            },
-          ],
-          generationConfig: {
-            temperature: 0.2,
-            maxOutputTokens: 220,
-          },
-        }),
-      }
+        ],
+      },
+    ],
+    generationConfig: {
+      temperature: 0.2,
+      maxOutputTokens: 220,
+    },
+  });
+
+  const maxAttempts = 2;
+
+  for (let attempt = 1; attempt <= maxAttempts; attempt += 1) {
+    const controller = new AbortController();
+    const timeout = setTimeout(
+      () => controller.abort(),
+      12000
     );
 
-    if (!response.ok) {
-      const errorText =
-        await response
-          .text()
-          .catch(() => "");
+    try {
+      const response = await fetch(
+        endpoint,
+        {
+          method: "POST",
+          signal: controller.signal,
+          headers: {
+            "Content-Type":
+              "application/json",
+            "x-goog-api-key":
+              GEMINI_API_KEY,
+          },
+          body: requestBody,
+        }
+      );
 
-      if (
-        response.status === 429 ||
-        response.status === 401 ||
-        response.status === 403
-      ) {
+      if (!response.ok) {
+        const errorText =
+          await response
+            .text()
+            .catch(() => "");
+
+        if (
+          response.status === 429 ||
+          response.status === 401 ||
+          response.status === 403
+        ) {
+          geminiDisabledForRun = true;
+          geminiDisableReason =
+            response.status === 429
+              ? "quota/rate limit reached"
+              : "authentication/permission error";
+
+          if (!geminiDisableLogged) {
+            console.warn(
+              `Gemini disabled for the rest of this run: ${geminiDisableReason}. Source-based summaries will be used as fallback.`
+            );
+            geminiDisableLogged = true;
+          }
+
+          return "";
+        }
+
+        const isTransient =
+          response.status === 500 ||
+          response.status === 502 ||
+          response.status === 503 ||
+          response.status === 504;
+
+        if (isTransient) {
+          console.warn(
+            `Gemini summarizer temporary failure (${response.status}) on attempt ${attempt}/${maxAttempts}: ${errorText.slice(0, 300)}`
+          );
+
+          if (attempt < maxAttempts) {
+            const retryAfterSeconds =
+              Number(response.headers.get("retry-after")) || 0;
+            const delayMs =
+              retryAfterSeconds > 0
+                ? Math.min(retryAfterSeconds * 1000, 10000)
+                : 1500 * attempt;
+
+            await new Promise((resolve) =>
+              setTimeout(resolve, delayMs)
+            );
+            continue;
+          }
+
+          geminiDisabledForRun = true;
+          geminiDisableReason =
+            `temporary Gemini service error (${response.status})`;
+
+          if (!geminiDisableLogged) {
+            console.warn(
+              `Gemini disabled for the rest of this run after repeated temporary failures: ${geminiDisableReason}. Source-based summaries will be used as fallback.`
+            );
+            geminiDisableLogged = true;
+          }
+
+          return "";
+        }
+
+        console.warn(
+          `Gemini summarizer request failed (${response.status}): ${errorText.slice(0, 300)}`
+        );
+
+        return "";
+      }
+
+      const data = await response.json();
+
+      return cleanAiSummaryOutput(
+        getGeminiResponseText(data)
+      );
+    } catch (error) {
+      const isAbort =
+        error?.name === "AbortError" ||
+        /aborted/i.test(String(error?.message || ""));
+
+      console.warn(
+        `Gemini summarizer ${isAbort ? "timed out" : "error"} on attempt ${attempt}/${maxAttempts}: ${error?.message || String(error)}`
+      );
+
+      if (attempt < maxAttempts) {
+        await new Promise((resolve) =>
+          setTimeout(resolve, 1500 * attempt)
+        );
+        continue;
+      }
+
+      if (isAbort) {
         geminiDisabledForRun = true;
         geminiDisableReason =
-          response.status === 429
-            ? "quota/rate limit reached"
-            : "authentication/permission error";
+          "repeated Gemini request timeouts";
 
         if (!geminiDisableLogged) {
           console.warn(
@@ -768,31 +853,15 @@ async function requestAiSummary({
           );
           geminiDisableLogged = true;
         }
-
-        return "";
       }
 
-      console.warn(
-        `Gemini summarizer request failed (${response.status}): ${errorText.slice(0, 300)}`
-      );
-
       return "";
+    } finally {
+      clearTimeout(timeout);
     }
-
-    const data = await response.json();
-
-    return cleanAiSummaryOutput(
-      getGeminiResponseText(data)
-    );
-  } catch (error) {
-    console.warn(
-      `Gemini summarizer error: ${error?.message || String(error)}`
-    );
-
-    return "";
-  } finally {
-    clearTimeout(timeout);
   }
+
+  return "";
 }
 
 async function summarizeArticleWithAI(
