@@ -28,9 +28,10 @@ const RETENTION_WINDOW_MS =
   Number(process.env.FEED_RETENTION_HOURS || 168) * 60 * 60 * 1000;
 const MIN_SUMMARY_CHARS = 60;
 const MIN_HEADLINE_WORDS = 8;
-const MAX_HEADLINE_WORDS = 13;
-const MIN_TOTAL_WORDS = 50;
-const MAX_TOTAL_WORDS = 60;
+const MAX_HEADLINE_WORDS = 14;
+const MAX_HEADLINE_CHARS = 90;
+const MIN_SUMMARY_WORDS = 50;
+const MAX_SUMMARY_WORDS = 60;
 const MIN_FETCH_INTERVAL_MINUTES = Number(
   process.env.MIN_FETCH_INTERVAL_MINUTES || 5
 );
@@ -480,15 +481,21 @@ function hasRequiredSummary(article) {
 
   return (
     summary.length > 0 &&
-    !isGeneratedFallbackSummary(summary)
+    !isGeneratedFallbackSummary(summary) &&
+    summaryWordCountIsValid(summary) &&
+    summaryEndsWithCompleteSentence(summary)
   );
 }
 
 function headlineWordCountIsValid(text = "") {
-  const words = countWords(text);
+  const clean = String(text || "").trim();
+  const words = countWords(clean);
+
   return (
     words >= MIN_HEADLINE_WORDS &&
-    words <= MAX_HEADLINE_WORDS
+    words <= MAX_HEADLINE_WORDS &&
+    clean.length <= MAX_HEADLINE_CHARS &&
+    !clean.endsWith(".")
   );
 }
 
@@ -515,7 +522,7 @@ function exactHeadline(title = "") {
     const headline = words
       .slice(0, length)
       .join(" ")
-      .replace(/[,:;–—-]+$/u, "")
+      .replace(/[.!?,:;–—-]+$/u, "")
       .trim();
 
     if (!headlineWordCountIsValid(headline)) {
@@ -535,48 +542,35 @@ function exactHeadline(title = "") {
   return "";
 }
 
-function summaryWordRangeForHeadline(headline = "") {
-  const headlineWords = countWords(headline);
+function summaryWordCountIsValid(text = "") {
+  const words = String(text || "").trim().split(/\s+/).filter(Boolean).length;
 
-  if (
-    headlineWords < MIN_HEADLINE_WORDS ||
-    headlineWords > MAX_HEADLINE_WORDS
-  ) {
-    return { min: 0, max: -1 };
-  }
-
-  return {
-    min: MIN_TOTAL_WORDS - headlineWords,
-    max: MAX_TOTAL_WORDS - headlineWords,
-  };
+  return (
+    words >= MIN_SUMMARY_WORDS &&
+    words <= MAX_SUMMARY_WORDS
+  );
 }
 
-function summaryWordCountIsValid(text = "", headline = "") {
-  const words = countWords(text);
-  const range = summaryWordRangeForHeadline(headline);
-
-  return words >= range.min && words <= range.max;
+function summaryEndsWithCompleteSentence(text = "") {
+  return /[.!?]["'”’)]?$/.test(String(text || "").trim());
 }
 
-function totalWordCountIsValid(headline = "", summary = "") {
-  if (!headlineWordCountIsValid(headline)) {
-    return false;
-  }
+function summaryIsValid(text = "") {
+  const clean = String(text || "").trim();
 
-  const total = countWords(headline) + countWords(summary);
-
-  return total >= MIN_TOTAL_WORDS && total <= MAX_TOTAL_WORDS;
+  return (
+    summaryWordCountIsValid(clean) &&
+    summaryEndsWithCompleteSentence(clean) &&
+    !/(?:\.\.\.|…)/.test(clean)
+  );
 }
 
-function rangedSentenceExcerpt(text = "", headline = "") {
+function rangedSentenceExcerpt(text = "") {
   const clean = stripHtml(text || "")
     .replace(/\s+/g, " ")
     .trim();
 
   if (!clean) return "";
-
-  const range = summaryWordRangeForHeadline(headline);
-  if (range.max < range.min) return "";
 
   const sentences =
     clean.match(/[^.!?]+[.!?]+(?:["'”’)]*)?/g) || [];
@@ -591,20 +585,55 @@ function rangedSentenceExcerpt(text = "", headline = "") {
 
       if (!sentence || words === 0) continue;
 
-      if (total + words > range.max) {
+      if (total + words > MAX_SUMMARY_WORDS) {
         break;
       }
 
       selected.push(sentence);
       total += words;
 
-      if (total >= range.min) {
-        return selected.join(" ");
+      if (total >= MIN_SUMMARY_WORDS) {
+        const summary = selected.join(" ");
+        if (summaryIsValid(summary)) {
+          return summary;
+        }
       }
     }
   }
 
   return "";
+}
+
+function trimSummary(text = "", maxWords = MAX_SUMMARY_WORDS) {
+  const clean = stripHtml(text || "")
+    .replace(/\s+/g, " ")
+    .trim();
+
+  if (!clean) return "";
+
+  const words = clean.split(/\s+/).filter(Boolean);
+  if (words.length <= maxWords && summaryEndsWithCompleteSentence(clean)) {
+    return clean;
+  }
+
+  const limitedWords = words.slice(0, maxWords);
+  const minSentenceWords = Math.ceil(limitedWords.length * 0.6);
+
+  for (let index = limitedWords.length - 1; index >= 0; index -= 1) {
+    if (!/[.!?]["'”’)]?$/.test(limitedWords[index])) {
+      continue;
+    }
+
+    const sentenceWords = limitedWords.slice(0, index + 1);
+    if (sentenceWords.length >= minSentenceWords) {
+      return sentenceWords.join(" ");
+    }
+  }
+
+  return `${limitedWords
+    .join(" ")
+    .replace(/[.!?,:;…]+$/u, "")
+    .trim()}…`;
 }
 
 function getGeminiResponseText(data) {
@@ -622,69 +651,82 @@ function getGeminiResponseText(data) {
         : ""
     )
     .filter(Boolean)
-    .join(" ")
+    .join("")
     .trim();
 }
 
-function cleanAiSummaryOutput(value = "") {
+function stripJsonFences(value = "") {
   return String(value || "")
-    .replace(/^["'“”‘’]+|["'“”‘’]+$/g, "")
-    .replace(/^summary\s*:\s*/i, "")
-    .replace(/\s+/g, " ")
+    .trim()
+    .replace(/^\`\`\`(?:json)?\s*/i, "")
+    .replace(/\s*\`\`\`$/i, "")
     .trim();
 }
 
-async function requestAiSummary({
+function parseAiArticleJson(value = "") {
+  try {
+    const parsed = JSON.parse(stripJsonFences(value));
+
+    return {
+      headline: String(parsed?.headline || "").replace(/\s+/g, " ").trim(),
+      summary: String(parsed?.summary || "").replace(/\s+/g, " ").trim(),
+    };
+  } catch {
+    return null;
+  }
+}
+
+async function requestAiArticleRewrite({
   title,
-  headline,
-  description,
-  articleText,
-  previousDraft = "",
-  previousWordCount = null,
+  source,
+  content,
+  retryForValidation = false,
 }) {
   if (!GEMINI_API_KEY || geminiDisabledForRun) {
     return "";
   }
 
-  const cleanDescription = stripHtml(
-    description || ""
-  );
+  const cleanTitle = normalizeTitle(title || "");
+  const cleanSource = String(source || "Unknown source").trim();
+  const cleanContent = stripHtml(content || "").slice(0, 9000);
 
-  const cleanArticleText = stripHtml(
-    articleText || ""
-  ).slice(0, 9000);
-
-  const outputHeadline = String(headline || title || "").trim();
-  const summaryRange = summaryWordRangeForHeadline(outputHeadline);
-
-  if (summaryRange.max < summaryRange.min) {
+  if (!cleanTitle || !cleanContent) {
     return "";
   }
 
-  const sourceText = [
-    `Original headline: ${normalizeTitle(
-      title || ""
-    )}`,
-    `NewsTeen75 headline: ${outputHeadline}`,
-    cleanDescription
-      ? `Publisher description: ${cleanDescription}`
-      : "",
-    cleanArticleText
-      ? `Article text: ${cleanArticleText}`
-      : "",
-  ]
-    .filter(Boolean)
-    .join("\n\n");
+  const validationRetryNote = retryForValidation
+    ? "\n\nYour previous response failed the app's validation. Follow every word-count, character-limit, JSON, and complete-sentence rule exactly."
+    : "";
 
-  if (!sourceText.trim()) {
-    return "";
-  }
+  const prompt =
+    `You are a news editor writing short, factual summaries for a mobile news app where each article is shown as a single swipeable card.
 
-  const correction =
-    previousDraft &&
-    Number.isFinite(previousWordCount)
-      ? `\nYour previous draft had ${previousWordCount} words: "${previousDraft}". Rewrite it so the summary has between ${summaryRange.min} and ${summaryRange.max} words, keeping the combined headline + summary between ${MIN_TOTAL_WORDS} and ${MAX_TOTAL_WORDS} words.`
-      : "";
+Rewrite the article below into a headline and a summary.
+
+HEADLINE RULES
+- 8 to 14 words (maximum 90 characters).
+- Clear and factual. State the main event, who is involved, and where if relevant.
+- No clickbait, no question headlines, no ALL CAPS, no emojis.
+- Do not end with a full stop.
+
+SUMMARY RULES
+- Between 50 and 60 words. Never fewer than 50 and never more than 60.
+- Must end with a complete sentence. Never cut off mid-sentence and never use "..." or "…".
+- Cover in order of importance: what happened, who is involved, where, when, and why it matters or what happens next.
+- Use only facts from the source article. No opinions or added information.
+- Simple, neutral English readable in 15–20 seconds.
+- Spell out an abbreviation the first time it appears.
+- Do not repeat the headline word for word.
+- No bullet points, line breaks, or emojis.
+
+OUTPUT FORMAT
+Return only valid JSON with no extra text or markdown fences:
+{ "headline": "string", "summary": "string" }
+
+SOURCE
+Original title: ${cleanTitle}
+Source name: ${cleanSource}
+Article content: ${cleanContent}${validationRetryNote}`;
 
   const endpoint =
     "https://generativelanguage.googleapis.com/v1beta/models/" +
@@ -692,40 +734,22 @@ async function requestAiSummary({
     ":generateContent";
 
   const requestBody = JSON.stringify({
-    systemInstruction: {
-      parts: [
-        {
-          text:
-            "You are the NewsTeen75 background news summarizer. " +
-            "Write one clear, easy-to-understand English news summary using ONLY facts explicitly present in the supplied source text. " +
-            "Preserve the original meaning, names, numbers, dates, places, and attribution. " +
-            "Do not add assumptions, opinions, predictions, invented context, promotional language, or repetition. " +
-            `The NewsTeen75 headline is already fixed at ${countWords(outputHeadline)} words. The summary must contain between ${summaryRange.min} and ${summaryRange.max} words so headline + summary totals ${MIN_TOTAL_WORDS}-${MAX_TOTAL_WORDS} words. The summary must read naturally with complete sentences. ` +
-            'If the supplied source does not contain enough factual information to make a truthful summary, return exactly "INSUFFICIENT_SOURCE". ' +
-            "Return only the summary text, with no label, bullets, quotation marks, or explanation.",
-        },
-      ],
-    },
     contents: [
       {
         role: "user",
-        parts: [
-          {
-            text:
-              `Create the summary from this source:\n\n${sourceText}${correction}`,
-          },
-        ],
+        parts: [{ text: prompt }],
       },
     ],
     generationConfig: {
       temperature: 0.2,
-      maxOutputTokens: 220,
+      maxOutputTokens: 320,
+      responseMimeType: "application/json",
     },
   });
 
-  const maxAttempts = 2;
+  const transportAttempts = 2;
 
-  for (let attempt = 1; attempt <= maxAttempts; attempt += 1) {
+  for (let attempt = 1; attempt <= transportAttempts; attempt += 1) {
     const controller = new AbortController();
     const timeout = setTimeout(
       () => controller.abort(),
@@ -739,10 +763,8 @@ async function requestAiSummary({
           method: "POST",
           signal: controller.signal,
           headers: {
-            "Content-Type":
-              "application/json",
-            "x-goog-api-key":
-              GEMINI_API_KEY,
+            "Content-Type": "application/json",
+            "x-goog-api-key": GEMINI_API_KEY,
           },
           body: requestBody,
         }
@@ -783,10 +805,10 @@ async function requestAiSummary({
 
         if (isTransient) {
           console.warn(
-            `Gemini summarizer temporary failure (${response.status}) on attempt ${attempt}/${maxAttempts}: ${errorText.slice(0, 300)}`
+            `Gemini rewrite temporary failure (${response.status}) on attempt ${attempt}/${transportAttempts}: ${errorText.slice(0, 300)}`
           );
 
-          if (attempt < maxAttempts) {
+          if (attempt < transportAttempts) {
             const retryAfterSeconds =
               Number(response.headers.get("retry-after")) || 0;
             const delayMs =
@@ -815,27 +837,24 @@ async function requestAiSummary({
         }
 
         console.warn(
-          `Gemini summarizer request failed (${response.status}): ${errorText.slice(0, 300)}`
+          `Gemini rewrite request failed (${response.status}): ${errorText.slice(0, 300)}`
         );
 
         return "";
       }
 
       const data = await response.json();
-
-      return cleanAiSummaryOutput(
-        getGeminiResponseText(data)
-      );
+      return getGeminiResponseText(data);
     } catch (error) {
       const isAbort =
         error?.name === "AbortError" ||
         /aborted/i.test(String(error?.message || ""));
 
       console.warn(
-        `Gemini summarizer ${isAbort ? "timed out" : "error"} on attempt ${attempt}/${maxAttempts}: ${error?.message || String(error)}`
+        `Gemini rewrite ${isAbort ? "timed out" : "error"} on attempt ${attempt}/${transportAttempts}: ${error?.message || String(error)}`
       );
 
-      if (attempt < maxAttempts) {
+      if (attempt < transportAttempts) {
         await new Promise((resolve) =>
           setTimeout(resolve, 1500 * attempt)
         );
@@ -864,58 +883,74 @@ async function requestAiSummary({
   return "";
 }
 
-async function summarizeArticleWithAI(
+async function rewriteArticleWithAI({
   title,
-  description,
-  articleText,
-  headline
-) {
+  source,
+  content,
+  articleRef,
+}) {
   if (!GEMINI_API_KEY || geminiDisabledForRun) {
-    return "";
+    return null;
   }
 
-  let draft = "";
+  let lastParsed = null;
 
-  for (
-    let attempt = 0;
-    attempt < 3;
-    attempt += 1
-  ) {
-    draft = await requestAiSummary({
+  for (let attempt = 0; attempt < 2; attempt += 1) {
+    const raw = await requestAiArticleRewrite({
       title,
-      headline,
-      description,
-      articleText,
-      previousDraft: draft,
-      previousWordCount:
-        draft &&
-        draft !== "INSUFFICIENT_SOURCE"
-          ? countWords(draft)
-          : null,
+      source,
+      content,
+      retryForValidation: attempt === 1,
     });
 
-    if (
-      !draft ||
-      draft === "INSUFFICIENT_SOURCE"
-    ) {
-      return "";
+    if (!raw) {
+      return null;
+    }
+
+    const parsed = parseAiArticleJson(raw);
+    if (parsed) {
+      lastParsed = parsed;
     }
 
     if (
-      summaryWordCountIsValid(draft, headline) &&
-      totalWordCountIsValid(headline, draft)
+      parsed &&
+      headlineWordCountIsValid(parsed.headline) &&
+      summaryIsValid(parsed.summary)
     ) {
-      return draft;
+      return parsed;
     }
+
+    console.warn(
+      `AI article rewrite failed validation for ${articleRef || title} on attempt ${attempt + 1}/2.`
+    );
   }
 
-  const range = summaryWordRangeForHeadline(headline);
+  const fallbackHeadline =
+    lastParsed?.headline &&
+    headlineWordCountIsValid(lastParsed.headline)
+      ? lastParsed.headline
+      : exactHeadline(title);
 
-  console.warn(
-    `AI summary skipped because it was not between ${range.min} and ${range.max} words for a ${countWords(headline)}-word headline (total must be ${MIN_TOTAL_WORDS}-${MAX_TOTAL_WORDS} words).`
+  const fallbackSummary = trimSummary(
+    lastParsed?.summary || content,
+    MAX_SUMMARY_WORDS
   );
 
-  return "";
+  if (
+    headlineWordCountIsValid(fallbackHeadline) &&
+    summaryWordCountIsValid(fallbackSummary)
+  ) {
+    console.warn(
+      `AI fallback used for article ${articleRef || title}.`
+    );
+
+    return {
+      headline: fallbackHeadline,
+      summary: fallbackSummary,
+    };
+  }
+
+  return null;
 }
 
 function isGenericGoogleDescription(text = "") {
@@ -930,42 +965,7 @@ function isGeneratedFallbackSummary(text = "") {
   return /this update was reported by .*open the original report/i.test(text);
 }
 
-function rangedSourceWordExcerpt(text = "", headline = "") {
-  const clean = stripHtml(text || "")
-    .replace(/\s+/g, " ")
-    .trim();
-
-  const words = splitWords(clean);
-  const range = summaryWordRangeForHeadline(headline);
-
-  if (range.max < range.min || words.length < range.min) {
-    return "";
-  }
-
-  const targetWords = Math.min(
-    range.max,
-    words.length
-  );
-
-  const excerpt = words
-    .slice(0, targetWords)
-    .join(" ")
-    .replace(/[,:;–—-]+$/u, "")
-    .trim();
-
-  if (
-    !summaryWordCountIsValid(excerpt, headline) ||
-    !totalWordCountIsValid(headline, excerpt)
-  ) {
-    return "";
-  }
-
-  return /[.!?]["'”’)]?$/.test(excerpt)
-    ? excerpt
-    : `${excerpt}.`;
-}
-
-function buildSummary(title, description, articleText = "", headline = "") {
+function buildSummary(title, description, articleText = "") {
   const cleanTitle = normalizeTitle(title);
   const descriptionText = stripHtml(description || "");
   const articleBody = stripHtml(articleText || "");
@@ -980,37 +980,28 @@ function buildSummary(title, description, articleText = "", headline = "") {
   );
 
   for (const candidate of candidates) {
-    const summary = rangedSentenceExcerpt(candidate, headline);
+    const summary = rangedSentenceExcerpt(candidate);
 
-    if (
-      summary &&
-      summaryWordCountIsValid(summary, headline) &&
-      totalWordCountIsValid(headline, summary)
-    ) {
+    if (summary && summaryIsValid(summary)) {
       return summary;
     }
   }
 
-  // Quota-safe fallback: use only source words and keep headline + summary
-  // between 50 and 60 words. The summary range is calculated dynamically
-  // from the 8-13 word headline. Try the article body first because it usually
-  // contains enough context, then the publisher description, then both.
-  const fallbackCandidates = [
+  const fallbackText = [
     articleBody,
     descriptionText,
-    [descriptionText, articleBody].filter(Boolean).join(" "),
-  ].filter(Boolean);
+  ].filter(Boolean).join(" ");
 
-  for (const candidate of fallbackCandidates) {
-    const summary = rangedSourceWordExcerpt(candidate, headline);
+  const trimmed = trimSummary(
+    fallbackText,
+    MAX_SUMMARY_WORDS
+  );
 
-    if (
-      summary &&
-      summaryWordCountIsValid(summary, headline) &&
-      totalWordCountIsValid(headline, summary)
-    ) {
-      return summary;
-    }
+  if (
+    summaryWordCountIsValid(trimmed) &&
+    summaryEndsWithCompleteSentence(trimmed)
+  ) {
+    return trimmed;
   }
 
   return "";
@@ -1247,7 +1238,7 @@ function articleHasArchiveQuality(article) {
 
   return (
     !isFacebookSource(article) &&
-    title.length >= 12 &&
+    headlineWordCountIsValid(title) &&
     hasRequiredSummary(article) &&
     isHttpUrl(sourceUrl) &&
     isUsableImageUrl(article?.image || article?.image_url || "") &&
@@ -1263,7 +1254,7 @@ function articleHasRequiredQuality(article) {
 
   return (
     !isFacebookSource(article) &&
-    title.length >= 20 &&
+    headlineWordCountIsValid(title) &&
     hasRequiredSummary(article) &&
     source.length >= 2 &&
     isHttpUrl(sourceUrl) &&
@@ -1509,7 +1500,6 @@ async function fetchCategory(
     const enriched = await enrichArticle(publisherUrl);
     const publishedAt = new Date(item.pubDate).toISOString();
     const sourceUrl = enriched.finalUrl || publisherUrl || item.link;
-    const headline = exactHeadline(cleanTitle) || cleanTitle;
     const rawImage = enriched.image || "";
     const image =
       rawImage && isUsableImageUrl(rawImage) && (await validateImageUrl(rawImage))
@@ -1522,37 +1512,45 @@ async function fetchCategory(
         sourceUrl,
       }) ||
       !isHttpUrl(sourceUrl) ||
-      !headline ||
       !image
     ) {
       continue;
     }
 
-    const sourceSummary = buildSummary(
-      cleanTitle,
+    const sourceName = item.source || "Google News";
+    const sourceContent = [
       enriched.description,
       enriched.articleText,
-      headline
-    );
+    ]
+      .filter(Boolean)
+      .join("\n\n");
 
-    const aiSummary =
+    const aiArticle =
       GEMINI_API_KEY && !geminiDisabledForRun
-        ? await summarizeArticleWithAI(
-            cleanTitle,
-            enriched.description,
-            enriched.articleText,
-            headline
-          )
-        : "";
+        ? await rewriteArticleWithAI({
+            title: cleanTitle,
+            source: sourceName,
+            content: sourceContent,
+            articleRef: sourceUrl || item.providerId || item.link,
+          })
+        : null;
+
+    const headline =
+      aiArticle?.headline ||
+      exactHeadline(cleanTitle);
 
     const summary =
-      aiSummary || sourceSummary;
+      aiArticle?.summary ||
+      buildSummary(
+        cleanTitle,
+        enriched.description,
+        enriched.articleText
+      );
 
     if (
       !headlineWordCountIsValid(headline) ||
       !summary ||
-      !summaryWordCountIsValid(summary, headline) ||
-      !totalWordCountIsValid(headline, summary)
+      !summaryIsValid(summary)
     ) {
       continue;
     }
