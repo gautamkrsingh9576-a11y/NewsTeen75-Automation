@@ -1,7 +1,46 @@
 {
-  "updatedAt": "2026-10-14T20:57:56.771Z",
-  "count": 148,
+  "updatedAt": "2026-10-14T23:36:34.577Z",
+  "count": 150,
   "videos": [
+    {
+      "id": "J0IDl4tI83Q",
+      "youtubeVideoId": "J0IDl4tI83Q",
+      "title": "DHONI KI TARAH CHILL HAI SHAI HOPE #msdhoni #indvswi #shaihope #shreyasiyer #tilakvarma #cricket",
+      "thumbnail": "https://i.ytimg.com/vi/J0IDl4tI83Q/maxresdefault.jpg",
+      "channelName": "Sports Yaari",
+      "channelId": 25,
+      "publishedAt": "2026-10-14T23:36:03+00:00",
+      "durationSeconds": 59,
+      "youtubeUrl": "https://www.youtube.com/watch?v=J0IDl4tI83Q",
+      "category": "sports",
+      "language": "hi"
+    },
+    {
+      "id": "gYE4fOtXnmQ",
+      "youtubeVideoId": "gYE4fOtXnmQ",
+      "title": "WORST CAPTAINCY BY SHREYAS IYER? #indvswi #shreyasiyer #gautamgambhir #shaihope #cricket",
+      "thumbnail": "https://i.ytimg.com/vi/gYE4fOtXnmQ/maxresdefault.jpg",
+      "channelName": "Sports Yaari",
+      "channelId": 25,
+      "publishedAt": "2026-10-14T22:41:10+00:00",
+      "durationSeconds": 43,
+      "youtubeUrl": "https://www.youtube.com/watch?v=gYE4fOtXnmQ",
+      "category": "sports",
+      "language": "hi"
+    },
+    {
+      "id": "brP_3f6HFwQ",
+      "youtubeVideoId": "brP_3f6HFwQ",
+      "title": "WEST INDIES NE TODA INDIA KA GHAMAND! #indvswi #shreyasiyer #rovmanpowell #shaihope #gautamgambhir",
+      "thumbnail": "https://i.ytimg.com/vi/brP_3f6HFwQ/maxresdefault.jpg",
+      "channelName": "Sports Yaari",
+      "channelId": 25,
+      "publishedAt": "2026-10-14T21:25:41+00:00",
+      "durationSeconds": 26,
+      "youtubeUrl": "https://www.youtube.com/watch?v=brP_3f6HFwQ",
+      "category": "sports",
+      "language": "hi"
+    },
     {
       "id": "tlYEcOwl5e8",
       "youtubeVideoId": "tlYEcOwl5e8",
@@ -1910,19 +1949,6 @@
       "publishedAt": "2026-10-13T00:10:23+00:00",
       "durationSeconds": 37,
       "youtubeUrl": "https://www.youtube.com/watch?v=zGr8BkiFPS8",
-      "category": "Sports",
-      "language": "hi"
-    },
-    {
-      "id": "EH3QOxnC7A0",
-      "youtubeVideoId": "EH3QOxnC7A0",
-      "title": "BABAR AZAM KO KYUN KAR RAHE TROLL? #babarazam #pakistancricket #pakvssl #sahibzadafarhan #troll",
-      "thumbnail": "https://i.ytimg.com/vi/EH3QOxnC7A0/maxresdefault.jpg",
-      "channelName": "Sports Yaari",
-      "channelId": 25,
-      "publishedAt": "2026-10-12T23:30:25+00:00",
-      "durationSeconds": 34,
-      "youtubeUrl": "https://www.youtube.com/watch?v=EH3QOxnC7A0",
       "category": "Sports",
       "language": "hi"
     }
