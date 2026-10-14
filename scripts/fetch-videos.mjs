@@ -1,5 +1,11 @@
 import fs from "node:fs";
 import { createClient } from "@supabase/supabase-js";
+import {
+  activeVideoSources,
+  blocklistSets,
+  normalizeHandle,
+  normalizedName,
+} from "../config/video-sources.mjs";
 
 const YOUTUBE_API_KEY = String(process.env.YOUTUBE_API_KEY || "").trim();
 const SUPABASE_URL = String(process.env.SUPABASE_URL || "").trim();
@@ -15,16 +21,13 @@ const VIDEO_FEED_MAX = Math.min(
   500,
   Math.max(20, Number(process.env.VIDEO_FEED_MAX || 250))
 );
-const MIN_SHORT_SECONDS = Math.max(
-  1,
-  Number(process.env.MIN_SHORT_SECONDS || 10)
-);
 const MAX_SHORT_SECONDS = Math.min(
   180,
-  Math.max(
-    MIN_SHORT_SECONDS,
-    Number(process.env.MAX_SHORT_SECONDS || 180)
-  )
+  Math.max(1, Number(process.env.MAX_SHORT_SECONDS || 180))
+);
+const VIDEO_FRESH_HOURS = Math.min(
+  168,
+  Math.max(1, Number(process.env.VIDEO_FRESH_HOURS || 48))
 );
 const OUTPUT_PATH = new URL("../data/videos.json", import.meta.url);
 
@@ -45,6 +48,18 @@ const supabase = createClient(
   }
 );
 
+class YouTubeApiError extends Error {
+  constructor(message, status, reason = "") {
+    super(message);
+    this.name = "YouTubeApiError";
+    this.status = status;
+    this.reason = reason;
+    this.quotaExceeded =
+      status === 403 &&
+      /quotaExceeded|dailyLimitExceeded|rateLimitExceeded/i.test(reason);
+  }
+}
+
 function chunk(items, size) {
   const chunks = [];
   for (let i = 0; i < items.length; i += size) {
@@ -60,11 +75,11 @@ function parseIsoDurationToSeconds(value = "") {
 
   if (!match) return null;
 
-  const hours = Number(match[1] || 0);
-  const minutes = Number(match[2] || 0);
-  const seconds = Number(match[3] || 0);
-
-  return hours * 3600 + minutes * 60 + seconds;
+  return (
+    Number(match[1] || 0) * 3600 +
+    Number(match[2] || 0) * 60 +
+    Number(match[3] || 0)
+  );
 }
 
 function bestThumbnail(thumbnails = {}) {
@@ -74,6 +89,15 @@ function bestThumbnail(thumbnails = {}) {
     thumbnails.high?.url ||
     thumbnails.medium?.url ||
     thumbnails.default?.url ||
+    ""
+  );
+}
+
+function youtubeReason(data) {
+  return (
+    data?.error?.errors?.[0]?.reason ||
+    data?.error?.status ||
+    data?.error?.message ||
     ""
   );
 }
@@ -98,28 +122,51 @@ async function youtubeGet(resource, params) {
   const response = await fetch(url, {
     headers: {
       accept: "application/json",
-      "user-agent": "NewsTeen75VideoBot/1.0",
+      "user-agent": "NewsTeen75VideoBot/2.0",
     },
   });
 
+  const bodyText = await response.text();
+  let data = {};
+
+  try {
+    data = bodyText ? JSON.parse(bodyText) : {};
+  } catch {
+    data = {};
+  }
+
   if (!response.ok) {
-    const body = await response.text();
-    throw new Error(
-      `YouTube API ${resource} failed: ${response.status} ${body.slice(0, 300)}`
+    const reason = youtubeReason(data) || bodyText.slice(0, 200);
+    throw new YouTubeApiError(
+      `YouTube API ${resource} failed: ${response.status} ${reason}`,
+      response.status,
+      reason
     );
   }
 
-  return response.json();
+  return data;
 }
 
-async function resolveChannel(channel) {
-  if (
-    channel.youtube_channel_id &&
-    channel.uploads_playlist_id
-  ) {
-    return channel;
-  }
+function derivedPlaylistId(channelId, prefix) {
+  const id = String(channelId || "").trim();
+  if (!id.startsWith("UC") || id.length <= 2) return "";
+  return `${prefix}${id.slice(2)}`;
+}
 
+function sourceIsBlocked(source, resolvedChannelId = "") {
+  const blocked = blocklistSets();
+  const id = String(resolvedChannelId || source.channelId || "").trim();
+  const handle = normalizeHandle(source.handle);
+  const name = normalizedName(source.name);
+
+  return (
+    (id && blocked.ids.has(id)) ||
+    (handle && blocked.handles.has(handle)) ||
+    blocked.names.has(name)
+  );
+}
+
+async function resolveSource(source) {
   if (!YOUTUBE_API_KEY) {
     throw new Error("YOUTUBE_API_KEY is missing.");
   }
@@ -128,15 +175,13 @@ async function resolveChannel(channel) {
     part: "id,snippet,contentDetails",
   };
 
-  if (channel.youtube_channel_id) {
-    params.id = channel.youtube_channel_id;
-  } else if (channel.youtube_handle) {
-    params.forHandle = String(channel.youtube_handle)
-      .replace(/^@/, "")
-      .trim();
+  if (source.channelId) {
+    params.id = source.channelId;
+  } else if (source.handle) {
+    params.forHandle = normalizeHandle(source.handle).replace(/^@/, "");
   } else {
     throw new Error(
-      `No YouTube channel ID/handle for ${channel.channel_name}`
+      `No channelId/handle configured for ${source.name}`
     );
   }
 
@@ -144,80 +189,84 @@ async function resolveChannel(channel) {
   const item = data.items?.[0];
 
   if (!item?.id) {
-    throw new Error(
-      `Could not resolve channel: ${channel.channel_name}`
-    );
+    throw new Error(`Could not resolve channel: ${source.name}`);
+  }
+
+  if (sourceIsBlocked(source, item.id)) {
+    throw new Error(`Blocklisted channel rejected: ${source.name}`);
   }
 
   const uploadsPlaylistId =
-    item.contentDetails?.relatedPlaylists?.uploads || null;
+    item.contentDetails?.relatedPlaylists?.uploads ||
+    derivedPlaylistId(item.id, "UU");
 
-  if (!uploadsPlaylistId) {
-    throw new Error(
-      `No uploads playlist found for ${channel.channel_name}`
-    );
-  }
-
-  const resolved = {
-    ...channel,
-    youtube_channel_id: item.id,
-    uploads_playlist_id: uploadsPlaylistId,
+  return {
+    ...source,
+    channelId: item.id,
+    canonicalName: item.snippet?.title || source.name,
+    uploadsPlaylistId,
+    shortsPlaylistId: derivedPlaylistId(item.id, "UUSH"),
   };
+}
 
-  const { error } = await supabase
+async function syncApprovedChannel(source) {
+  const youtubeUrl = source.handle
+    ? `https://www.youtube.com/${normalizeHandle(source.handle)}`
+    : `https://www.youtube.com/channel/${source.channelId}`;
+
+  const { data, error } = await supabase
     .from("approved_channels")
-    .update({
-      youtube_channel_id: item.id,
-      uploads_playlist_id: uploadsPlaylistId,
-      updated_at: new Date().toISOString(),
-    })
-    .eq("id", channel.id);
+    .upsert(
+      {
+        channel_name: source.name,
+        youtube_channel_id: source.channelId,
+        youtube_handle: source.handle || null,
+        youtube_url: youtubeUrl,
+        uploads_playlist_id: source.uploadsPlaylistId || null,
+        category: source.category,
+        language: "hi",
+        active: true,
+        updated_at: new Date().toISOString(),
+      },
+      {
+        onConflict: "youtube_url",
+        ignoreDuplicates: false,
+      }
+    )
+    .select(
+      "id,channel_name,youtube_channel_id,youtube_handle,uploads_playlist_id,category,language,active"
+    )
+    .single();
 
   if (error) {
     throw new Error(
-      `Could not save resolved channel ${channel.channel_name}: ${error.message}`
+      `Could not sync approved channel ${source.name}: ${error.message}`
     );
   }
 
-  return resolved;
+  return {
+    ...source,
+    dbChannelId: data.id,
+  };
 }
 
-async function fetchChannelRssUploads(channel) {
-  const channelId = String(channel.youtube_channel_id || "").trim();
+async function fetchPlaylistItems(playlistId, source) {
+  const data = await youtubeGet("playlistItems", {
+    part: "snippet,contentDetails,status",
+    playlistId,
+    maxResults: MAX_VIDEOS_PER_CHANNEL,
+  });
 
-  if (!channelId) {
-    throw new Error(
-      `Cannot use RSS fallback without channel ID for ${channel.channel_name}`
-    );
-  }
-
-  const response = await fetch(
-    `https://www.youtube.com/feeds/videos.xml?channel_id=${encodeURIComponent(channelId)}`,
-    {
-      headers: {
-        accept: "application/atom+xml,application/xml,text/xml",
-        "user-agent": "NewsTeen75VideoBot/1.0",
-      },
-    }
-  );
-
-  if (!response.ok) {
-    throw new Error(
-      `YouTube RSS failed for ${channel.channel_name}: ${response.status}`
-    );
-  }
-
-  const xml = await response.text();
-  const entries = [...xml.matchAll(/<entry>([\s\S]*?)<\/entry>/g)];
-
-  return entries
-    .map((match) => {
-      const entry = match[1];
+  return (data.items || [])
+    .map((item) => {
       const videoId =
-        entry.match(/<yt:videoId>([^<]+)<\/yt:videoId>/)?.[1]?.trim() ||
+        item.contentDetails?.videoId ||
+        item.snippet?.resourceId?.videoId ||
         "";
+
       const publishedAt =
-        entry.match(/<published>([^<]+)<\/published>/)?.[1]?.trim() ||
+        item.contentDetails?.videoPublishedAt ||
+        item.snippet?.publishedAt ||
         null;
 
       if (!videoId || !publishedAt) return null;
@@ -225,55 +274,58 @@ async function fetchChannelRssUploads(channel) {
       return {
         videoId,
         publishedAt,
-        channel,
+        source,
       };
     })
-    .filter(Boolean)
-    .slice(0, MAX_VIDEOS_PER_CHANNEL);
+    .filter(Boolean);
 }
 
-async function fetchLatestUploads(channel) {
-  try {
-    const data = await youtubeGet("playlistItems", {
-      part: "snippet,contentDetails,status",
-      playlistId: channel.uploads_playlist_id,
-      maxResults: MAX_VIDEOS_PER_CHANNEL,
-    });
-
-    return (data.items || [])
-      .map((item) => {
-        const videoId =
-          item.contentDetails?.videoId ||
-          item.snippet?.resourceId?.videoId ||
-          "";
-
-        const publishedAt =
-          item.contentDetails?.videoPublishedAt ||
-          item.snippet?.publishedAt ||
-          null;
-
-        if (!videoId || !publishedAt) return null;
-
-        return {
-          videoId,
-          publishedAt,
-          channel,
-        };
-      })
-      .filter(Boolean);
-  } catch (error) {
-    const message = String(error?.message || error);
-
-    if (message.includes("playlistItems failed: 404")) {
-      console.warn(
-        `Uploads playlist unavailable for ${channel.channel_name}; using YouTube RSS fallback.`
+async function fetchLatestUploads(source) {
+  if (source.shortsPlaylistId) {
+    try {
+      return await fetchPlaylistItems(
+        source.shortsPlaylistId,
+        source
       );
+    } catch (error) {
+      if (error?.quotaExceeded) throw error;
 
-      return fetchChannelRssUploads(channel);
+      console.warn(
+        `Shorts playlist unavailable for ${source.name}; falling back to uploads playlist. ${error.message}`
+      );
     }
-
-    throw error;
   }
+
+  if (!source.uploadsPlaylistId) {
+    throw new Error(
+      `No uploads playlist available for ${source.name}`
+    );
+  }
+
+  return fetchPlaylistItems(
+    source.uploadsPlaylistId,
+    source
+  );
+}
+
+function isFreshEnough(publishedAt) {
+  const timestamp = new Date(publishedAt).getTime();
+  if (!Number.isFinite(timestamp)) return false;
+
+  const ageMs = Date.now() - timestamp;
+  return (
+    ageMs >= -60 * 60 * 1000 &&
+    ageMs <= VIDEO_FRESH_HOURS * 60 * 60 * 1000
+  );
+}
+
+function languageAllowed(snippet = {}) {
+  const language =
+    snippet.defaultAudioLanguage ||
+    snippet.defaultLanguage ||
+    "";
+
+  return !language || String(language).toLowerCase().startsWith("hi");
 }
 
 async function writeFallbackJson() {
@@ -294,7 +346,7 @@ async function writeFallbackJson() {
   if (!activeIds.length) {
     fs.writeFileSync(
       OUTPUT_PATH,
-      JSON.stringify(
+      `${JSON.stringify(
         {
           updatedAt: new Date().toISOString(),
           count: 0,
@@ -302,10 +354,14 @@ async function writeFallbackJson() {
         },
         null,
         2
-      ) + "\n"
+      )}\n`
     );
     return;
   }
+
+  const freshCutoff = new Date(
+    Date.now() - VIDEO_FRESH_HOURS * 60 * 60 * 1000
+  ).toISOString();
 
   const { data: videos, error } = await supabase
     .from("news_videos")
@@ -315,8 +371,8 @@ async function writeFallbackJson() {
     .in("channel_id", activeIds)
     .eq("status", "active")
     .eq("embeddable", true)
-    .gte("duration_seconds", MIN_SHORT_SECONDS)
     .lte("duration_seconds", MAX_SHORT_SECONDS)
+    .gte("published_at", freshCutoff)
     .order("published_at", { ascending: false })
     .order("id", { ascending: false })
     .limit(VIDEO_FEED_MAX);
@@ -347,7 +403,7 @@ async function writeFallbackJson() {
 
   fs.writeFileSync(
     OUTPUT_PATH,
-    JSON.stringify(output, null, 2) + "\n"
+    `${JSON.stringify(output, null, 2)}\n`
   );
 }
 
@@ -388,37 +444,32 @@ async function main() {
     });
 
     console.log(
-      "Video ingestion skipped: add the YOUTUBE_API_KEY repository secret to enable YouTube fetching."
+      "Video ingestion skipped: YOUTUBE_API_KEY is not configured."
     );
     return;
   }
 
-  const { data: channels, error: channelsError } =
-    await supabase
-      .from("approved_channels")
-      .select(
-        "id,channel_name,youtube_channel_id,youtube_handle,youtube_url,uploads_playlist_id,category,language,active"
-      )
-      .eq("active", true)
-      .order("id", { ascending: true });
+  const configuredSources = activeVideoSources();
 
-  if (channelsError) {
+  const { error: deactivateError } = await supabase
+    .from("approved_channels")
+    .update({
+      active: false,
+      updated_at: new Date().toISOString(),
+    })
+    .eq("active", true);
+
+  if (deactivateError) {
     throw new Error(
-      `Could not read approved channels: ${channelsError.message}`
+      `Could not deactivate previous video sources: ${deactivateError.message}`
     );
   }
 
-  const approvedChannels = channels || [];
-  const candidates = [];
-  const resolvedChannels = [];
-
-  for (const rawChannel of approvedChannels) {
-    try {
-      const channel = await resolveChannel(rawChannel);
-      resolvedChannels.push(channel);
-
-      const uploads = await fetchLatestUploads(channel);
-      candidates.push(...uploads);
+  const channelResults = await Promise.allSettled(
+    configuredSources.map(async (rawSource) => {
+      const resolved = await resolveSource(rawSource);
+      const source = await syncApprovedChannel(resolved);
+      const uploads = await fetchLatestUploads(source);
 
       await supabase
         .from("approved_channels")
@@ -426,12 +477,45 @@ async function main() {
           last_checked_at: new Date().toISOString(),
           updated_at: new Date().toISOString(),
         })
-        .eq("id", channel.id);
-    } catch (error) {
-      console.warn(
-        `Channel skipped (${rawChannel.channel_name}): ${error.message}`
-      );
+        .eq("id", source.dbChannelId);
+
+      return { source, uploads };
+    })
+  );
+
+  const candidates = [];
+  const resolvedSources = [];
+  let quotaExceeded = false;
+
+  for (const result of channelResults) {
+    if (result.status === "fulfilled") {
+      resolvedSources.push(result.value.source);
+      candidates.push(...result.value.uploads);
+      continue;
     }
+
+    const error = result.reason;
+    if (error?.quotaExceeded) quotaExceeded = true;
+
+    console.warn(
+      `Channel skipped: ${error?.message || String(error)}`
+    );
+  }
+
+  if (quotaExceeded && candidates.length === 0) {
+    await writeFallbackJson();
+    await recordRun({
+      status: "quota_exceeded",
+      channelsChecked: resolvedSources.length,
+      fetchedCount: 0,
+      upsertedCount: 0,
+      errorMessage: "YouTube API quota exceeded.",
+    });
+
+    console.warn(
+      "YouTube quota exceeded. Existing validated video feed was preserved."
+    );
+    return;
   }
 
   const uniqueCandidateMap = new Map();
@@ -445,80 +529,164 @@ async function main() {
   const uniqueCandidates = [...uniqueCandidateMap.values()];
   const detailsById = new Map();
 
-  for (const idBatch of chunk(
-    uniqueCandidates.map((item) => item.videoId),
-    50
-  )) {
-    const details = await youtubeGet("videos", {
-      part: "snippet,contentDetails,status,liveStreamingDetails",
-      id: idBatch.join(","),
-      maxResults: 50,
-    });
+  try {
+    for (const idBatch of chunk(
+      uniqueCandidates.map((item) => item.videoId),
+      50
+    )) {
+      const details = await youtubeGet("videos", {
+        part: "snippet,contentDetails,status",
+        id: idBatch.join(","),
+        maxResults: 50,
+      });
 
-    for (const item of details.items || []) {
-      detailsById.set(item.id, item);
+      for (const item of details.items || []) {
+        detailsById.set(item.id, item);
+      }
     }
+  } catch (error) {
+    if (error?.quotaExceeded) {
+      await writeFallbackJson();
+      await recordRun({
+        status: "quota_exceeded",
+        channelsChecked: resolvedSources.length,
+        fetchedCount: uniqueCandidates.length,
+        upsertedCount: 0,
+        errorMessage: "YouTube API quota exceeded during videos.list.",
+      });
+
+      console.warn(
+        "YouTube quota exceeded during videos.list. Existing validated feed was preserved."
+      );
+      return;
+    }
+
+    throw error;
   }
+
+  const whitelistedIds = new Set(
+    resolvedSources.map((source) => source.channelId)
+  );
+  const blocked = blocklistSets();
+
+  const rejectionCounts = {
+    missingDetails: 0,
+    notWhitelisted: 0,
+    blocklisted: 0,
+    duration: 0,
+    notEmbeddable: 0,
+    notPublic: 0,
+    live: 0,
+    ageRestricted: 0,
+    stale: 0,
+    language: 0,
+    missingContent: 0,
+  };
 
   const rows = [];
 
   for (const candidate of uniqueCandidates) {
     const detail = detailsById.get(candidate.videoId);
 
-    if (!detail?.id) continue;
-
-    const privacyStatus = detail.status?.privacyStatus || "";
-    const embeddable = detail.status?.embeddable !== false;
-
-    if (privacyStatus !== "public" || !embeddable) {
+    if (!detail?.id) {
+      rejectionCounts.missingDetails += 1;
       continue;
     }
 
-    const title = String(detail.snippet?.title || "").trim();
-    const thumbnail = bestThumbnail(detail.snippet?.thumbnails);
+    const snippet = detail.snippet || {};
+    const contentDetails = detail.contentDetails || {};
+    const status = detail.status || {};
+    const youtubeChannelId = String(snippet.channelId || "").trim();
 
-    if (!title || !thumbnail) continue;
+    if (!whitelistedIds.has(youtubeChannelId)) {
+      rejectionCounts.notWhitelisted += 1;
+      continue;
+    }
 
-    const durationIso =
-      detail.contentDetails?.duration || null;
+    if (
+      blocked.ids.has(youtubeChannelId) ||
+      blocked.handles.has(normalizeHandle(candidate.source.handle)) ||
+      blocked.names.has(normalizedName(candidate.source.name))
+    ) {
+      rejectionCounts.blocklisted += 1;
+      continue;
+    }
+
     const durationSeconds =
-      parseIsoDurationToSeconds(durationIso);
-
-    const liveBroadcastContent =
-      detail.snippet?.liveBroadcastContent || "none";
-    const hasLiveStreamingDetails =
-      Boolean(detail.liveStreamingDetails);
+      parseIsoDurationToSeconds(contentDetails.duration);
 
     if (
       durationSeconds === null ||
-      durationSeconds < MIN_SHORT_SECONDS ||
-      durationSeconds > MAX_SHORT_SECONDS ||
-      liveBroadcastContent !== "none" ||
-      hasLiveStreamingDetails
+      durationSeconds <= 0 ||
+      durationSeconds > MAX_SHORT_SECONDS
     ) {
+      rejectionCounts.duration += 1;
+      continue;
+    }
+
+    if (status.embeddable !== true) {
+      rejectionCounts.notEmbeddable += 1;
+      continue;
+    }
+
+    if (status.privacyStatus !== "public") {
+      rejectionCounts.notPublic += 1;
+      continue;
+    }
+
+    if ((snippet.liveBroadcastContent || "none") !== "none") {
+      rejectionCounts.live += 1;
+      continue;
+    }
+
+    if (
+      contentDetails.contentRating?.ytRating ===
+      "ytAgeRestricted"
+    ) {
+      rejectionCounts.ageRestricted += 1;
+      continue;
+    }
+
+    const publishedAt =
+      snippet.publishedAt ||
+      candidate.publishedAt;
+
+    if (!isFreshEnough(publishedAt)) {
+      rejectionCounts.stale += 1;
+      continue;
+    }
+
+    if (!languageAllowed(snippet)) {
+      rejectionCounts.language += 1;
+      continue;
+    }
+
+    const title = String(snippet.title || "").trim();
+    const thumbnail = bestThumbnail(snippet.thumbnails);
+
+    if (!title || !thumbnail) {
+      rejectionCounts.missingContent += 1;
       continue;
     }
 
     rows.push({
       id: detail.id,
       youtube_video_id: detail.id,
-      channel_id: candidate.channel.id,
+      channel_id: candidate.source.dbChannelId,
       channel_name:
-        detail.snippet?.channelTitle ||
-        candidate.channel.channel_name,
+        snippet.channelTitle ||
+        candidate.source.name,
       title,
       description: String(
-        detail.snippet?.description || ""
+        snippet.description || ""
       ).trim(),
       thumbnail_url: thumbnail,
       youtube_url: `https://www.youtube.com/watch?v=${detail.id}`,
-      category: candidate.channel.category || "General",
-      language: candidate.channel.language || "hi",
+      category: candidate.source.category,
+      language: "hi",
       duration_seconds: durationSeconds,
-      duration_iso: durationIso,
-      published_at:
-        detail.snippet?.publishedAt ||
-        candidate.publishedAt,
+      duration_iso: contentDetails.duration || null,
+      published_at: publishedAt,
       embeddable: true,
       status: "active",
       updated_at: new Date().toISOString(),
@@ -550,13 +718,26 @@ async function main() {
 
   await recordRun({
     status: "success",
-    channelsChecked: resolvedChannels.length,
+    channelsChecked: resolvedSources.length,
     fetchedCount: uniqueCandidates.length,
     upsertedCount,
   });
 
   console.log(
-    `Video ingestion complete: ${resolvedChannels.length} approved channel(s), ${uniqueCandidates.length} candidate video(s), ${upsertedCount} short video(s) upserted (${MIN_SHORT_SECONDS}-${MAX_SHORT_SECONDS}s only).`
+    JSON.stringify(
+      {
+        channelsConfigured: configuredSources.length,
+        channelsProcessed: resolvedSources.length,
+        videosFetched: uniqueCandidates.length,
+        videosAccepted: rows.length,
+        videosUpserted: upsertedCount,
+        rejectionCounts,
+        freshWindowHours: VIDEO_FRESH_HOURS,
+        maxDurationSeconds: MAX_SHORT_SECONDS,
+      },
+      null,
+      2
+    )
   );
 }
 
