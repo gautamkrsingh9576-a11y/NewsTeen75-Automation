@@ -4,11 +4,22 @@ import { getMessaging } from "firebase-admin/messaging";
 
 const FEED_PATH = new URL("../data/news.json", import.meta.url);
 const STATE_PATH = new URL("../data/notification-state.json", import.meta.url);
+const HISTORY_PATH = new URL("../data/notifications.json", import.meta.url);
 
 const TOPIC = String(process.env.FCM_TOPIC || "trending-news").trim();
 const MAX_ARTICLE_AGE_HOURS = Number(
   process.env.NOTIFICATION_MAX_AGE_HOURS || 12
 );
+const HISTORY_LIMIT = Math.min(
+  200,
+  Math.max(20, Number(process.env.NOTIFICATION_HISTORY_LIMIT || 100))
+);
+const SEND_TEST_NOTIFICATION =
+  String(process.env.SEND_TEST_NOTIFICATION || "").toLowerCase() === "true";
+const TEST_FCM_TOKEN = String(
+  process.env.FCM_TEST_TOKEN || ""
+).trim();
+
 const SERVICE_ACCOUNT_JSON = String(
   process.env.FIREBASE_SERVICE_ACCOUNT_JSON || ""
 ).trim();
@@ -22,6 +33,13 @@ function loadJson(url, fallback) {
   } catch {
     return fallback;
   }
+}
+
+function writeJson(url, value) {
+  fs.writeFileSync(
+    url,
+    `${JSON.stringify(value, null, 2)}\n`
+  );
 }
 
 function normalizeServiceAccount() {
@@ -98,6 +116,67 @@ function cleanBody(article) {
     : `${title.slice(0, 147).trim()}...`;
 }
 
+function safeHttpUrl(value = "") {
+  try {
+    const url = new URL(String(value || "").trim());
+    return ["http:", "https:"].includes(url.protocol)
+      ? url.href
+      : "";
+  } catch {
+    return "";
+  }
+}
+
+function appendNotificationHistory(entry) {
+  const current = loadJson(HISTORY_PATH, {
+    updatedAt: null,
+    count: 0,
+    notifications: [],
+  });
+
+  const notifications = Array.isArray(current?.notifications)
+    ? current.notifications
+    : [];
+
+  const deduped = [
+    entry,
+    ...notifications.filter(
+      (item) =>
+        String(item?.notificationId || "") !== entry.notificationId
+    ),
+  ].slice(0, HISTORY_LIMIT);
+
+  writeJson(HISTORY_PATH, {
+    updatedAt: new Date().toISOString(),
+    count: deduped.length,
+    notifications: deduped,
+  });
+}
+
+async function sendMessage(message) {
+  if (SEND_TEST_NOTIFICATION && TEST_FCM_TOKEN) {
+    const response = await getMessaging().send({
+      ...message,
+      token: TEST_FCM_TOKEN,
+    });
+
+    return {
+      messageId: response,
+      target: "test-token",
+    };
+  }
+
+  const response = await getMessaging().send({
+    ...message,
+    topic: TOPIC,
+  });
+
+  return {
+    messageId: response,
+    target: `topic:${TOPIC}`,
+  };
+}
+
 async function main() {
   if (!TOPIC) {
     throw new Error("FCM_TOPIC cannot be empty.");
@@ -106,8 +185,54 @@ async function main() {
   const serviceAccount = normalizeServiceAccount();
 
   if (!serviceAccount) {
-    console.warn(
-      "Firebase notification skipped: FIREBASE_SERVICE_ACCOUNT_JSON or FIREBASE_SERVICE_ACCOUNT_BASE64 is not configured."
+    throw new Error(
+      "Firebase credentials are missing. Configure FIREBASE_SERVICE_ACCOUNT_JSON or FIREBASE_SERVICE_ACCOUNT_BASE64."
+    );
+  }
+
+  if (getApps().length === 0) {
+    initializeApp({
+      credential: cert(serviceAccount),
+      projectId: serviceAccount.project_id,
+    });
+  }
+
+  if (SEND_TEST_NOTIFICATION) {
+    const now = new Date().toISOString();
+    const notificationId = `test-${Date.now()}`;
+    const title = "NewsTeen75 test notification";
+    const body = "Firebase push delivery is working on this device.";
+
+    const result = await sendMessage({
+      notification: {
+        title,
+        body,
+      },
+      data: {
+        type: "test_notification",
+        notificationId,
+        title,
+        body,
+        articleId: "",
+        sourceUrl: "",
+        category: "test",
+        source: "NewsTeen75",
+        imageUrl: "",
+        publishedAt: now,
+        sentAt: now,
+      },
+      android: {
+        priority: "high",
+        ttl: 60 * 60 * 1000,
+        notification: {
+          sound: "default",
+          tag: notificationId,
+        },
+      },
+    });
+
+    console.log(
+      `Test notification sent successfully to ${result.target}. Firebase message: ${result.messageId}`
     );
     return;
   }
@@ -146,42 +271,51 @@ async function main() {
   }
 
   const id = articleId(article);
-  const sourceUrl = String(
+  const sourceUrl = safeHttpUrl(
     article?.sourceUrl || article?.url || article?.link || ""
   );
   const category = String(article?.category || "");
   const source = String(article?.source || "");
-
-  if (getApps().length === 0) {
-    initializeApp({
-      credential: cert(serviceAccount),
-      projectId: serviceAccount.project_id,
-    });
-  }
+  const imageUrl = safeHttpUrl(
+    article?.image || article?.imageUrl || article?.image_url || ""
+  );
+  const publishedAt = String(article?.publishedAt || "");
+  const title = "🔥 Trending on NewsTeen75";
+  const body = cleanBody(article);
+  const notificationId = `trending-${id}`;
+  const sentAt = new Date().toISOString();
 
   const message = {
-    topic: TOPIC,
     notification: {
-      title: "🔥 Trending on NewsTeen75",
-      body: cleanBody(article),
+      title,
+      body,
+      ...(imageUrl ? { imageUrl } : {}),
     },
     data: {
       type: "trending_news",
+      notificationId,
+      title,
+      body,
       articleId: id,
       sourceUrl,
       category,
       source,
+      imageUrl,
+      publishedAt,
+      sentAt,
     },
     android: {
       priority: "high",
+      ttl: 60 * 60 * 1000,
       notification: {
         sound: "default",
-        tag: `trending-${id}`,
+        tag: notificationId,
+        ...(imageUrl ? { imageUrl } : {}),
       },
     },
   };
 
-  const messageId = await getMessaging().send(message);
+  const result = await sendMessage(message);
 
   const nextSentIds = [
     id,
@@ -190,19 +324,31 @@ async function main() {
 
   const nextState = {
     lastSentArticleId: id,
-    lastSentAt: new Date().toISOString(),
-    lastMessageId: messageId,
+    lastSentAt: sentAt,
+    lastMessageId: result.messageId,
     topic: TOPIC,
     sentArticleIds: nextSentIds,
   };
 
-  fs.writeFileSync(
-    STATE_PATH,
-    `${JSON.stringify(nextState, null, 2)}\n`
-  );
+  writeJson(STATE_PATH, nextState);
+
+  appendNotificationHistory({
+    notificationId,
+    articleId: id,
+    type: "trending_news",
+    title,
+    body,
+    sourceUrl,
+    category,
+    source,
+    imageUrl,
+    publishedAt,
+    sentAt,
+    firebaseMessageId: result.messageId,
+  });
 
   console.log(
-    `Trending notification sent for article ${id} to topic "${TOPIC}".`
+    `Trending notification sent for article ${id} to ${result.target}. Firebase message: ${result.messageId}`
   );
 }
 
