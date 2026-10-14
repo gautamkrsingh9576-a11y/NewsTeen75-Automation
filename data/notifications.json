@@ -1,5 +1,20 @@
 {
-  "updatedAt": null,
-  "count": 0,
-  "notifications": []
+  "updatedAt": "2026-10-14T21:53:00.652Z",
+  "count": 1,
+  "notifications": [
+    {
+      "notificationId": "trending-01af06d1c69cbcd4",
+      "articleId": "01af06d1c69cbcd4",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Namasthe Telangana-Telangana Today Dasara Bonanza marks 10th year with strong turnout",
+      "sourceUrl": "https://telanganatoday.com/namasthe-telangana-telangana-today-dasara-bonanza-marks-10th-year-with-strong-turnout",
+      "category": "National & Trending News",
+      "source": "Telangana Today",
+      "imageUrl": "https://media.telanganatoday.com/wp-content/uploads/2026/10/TT-LuckyDraw.jpg",
+      "publishedAt": "2026-10-14T18:41:53.000Z",
+      "sentAt": "2026-10-14T21:52:59.923Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/3666238069715063136"
+    }
+  ]
 }
