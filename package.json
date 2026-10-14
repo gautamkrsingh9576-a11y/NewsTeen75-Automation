@@ -6,7 +6,9 @@
   "scripts": {
     "fetch-news": "node scripts/fetch-news.mjs",
     "fetch-videos": "node scripts/fetch-videos.mjs",
-    "send-trending-notification": "node scripts/send-trending-notification.mjs"
+    "send-trending-notification": "node scripts/send-trending-notification.mjs",
+    "resolve-video-channels": "node scripts/resolve-video-channel-ids.mjs",
+    "reset-video-sources": "node scripts/reset-video-sources.mjs"
   },
   "dependencies": {
     "google-news-url-decoder": "1.2.2",
