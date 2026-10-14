@@ -214,10 +214,26 @@ async function syncApprovedChannel(source) {
     ? `https://www.youtube.com/${normalizeHandle(source.handle)}`
     : `https://www.youtube.com/channel/${source.channelId}`;
 
-  const { data, error } = await supabase
-    .from("approved_channels")
-    .upsert(
-      {
+  const { data: existingById, error: lookupError } =
+    await supabase
+      .from("approved_channels")
+      .select("id")
+      .eq("youtube_channel_id", source.channelId)
+      .maybeSingle();
+
+  if (lookupError) {
+    throw new Error(
+      `Could not look up approved channel ${source.name}: ${lookupError.message}`
+    );
+  }
+
+  let data;
+  let error;
+
+  if (existingById?.id) {
+    ({ data, error } = await supabase
+      .from("approved_channels")
+      .update({
         channel_name: source.name,
         youtube_channel_id: source.channelId,
         youtube_handle: source.handle || null,
@@ -227,16 +243,37 @@ async function syncApprovedChannel(source) {
         language: "hi",
         active: true,
         updated_at: new Date().toISOString(),
-      },
-      {
-        onConflict: "youtube_url",
-        ignoreDuplicates: false,
-      }
-    )
-    .select(
-      "id,channel_name,youtube_channel_id,youtube_handle,uploads_playlist_id,category,language,active"
-    )
-    .single();
+      })
+      .eq("id", existingById.id)
+      .select(
+        "id,channel_name,youtube_channel_id,youtube_handle,uploads_playlist_id,category,language,active"
+      )
+      .single());
+  } else {
+    ({ data, error } = await supabase
+      .from("approved_channels")
+      .upsert(
+        {
+          channel_name: source.name,
+          youtube_channel_id: source.channelId,
+          youtube_handle: source.handle || null,
+          youtube_url: youtubeUrl,
+          uploads_playlist_id: source.uploadsPlaylistId || null,
+          category: source.category,
+          language: "hi",
+          active: true,
+          updated_at: new Date().toISOString(),
+        },
+        {
+          onConflict: "youtube_url",
+          ignoreDuplicates: false,
+        }
+      )
+      .select(
+        "id,channel_name,youtube_channel_id,youtube_handle,uploads_playlist_id,category,language,active"
+      )
+      .single());
+  }
 
   if (error) {
     throw new Error(
