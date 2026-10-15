@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-15T05:00:08.545Z",
-  "count": 3,
+  "updatedAt": "2026-10-15T09:46:59.509Z",
+  "count": 4,
   "notifications": [
+    {
+      "notificationId": "trending-13649b1ffe2b619b",
+      "articleId": "13649b1ffe2b619b",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Delhi NCR AQI hits 350, 79% residents identify biggest cause of pollution",
+      "sourceUrl": "https://www.indiatoday.in/health/story/delhi-ncr-pollution-survey-construction-dust-garbage-burning-3017258-2026-10-15",
+      "category": "National & Trending News",
+      "source": "India Today",
+      "imageUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/a-thick-brown-wall-of-dust-approaches-delhi-ncr-as-a-powerful-pre-monsoon-andhi-sweeps-in-from-rajas-244418342-original-sixteen-to-nine.jpg?VersionId=XIZ8xjGTw5DisxPwIWfjkNAhxSG6gWRU",
+      "publishedAt": "2026-10-15T04:52:10.000Z",
+      "sentAt": "2026-10-15T09:46:59.076Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/2894411609002391100"
+    },
     {
       "notificationId": "trending-d4822b4e865c7762",
       "articleId": "d4822b4e865c7762",
