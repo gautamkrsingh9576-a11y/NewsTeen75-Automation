@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-15T18:54:17.453Z",
-  "count": 6,
+  "updatedAt": "2026-10-15T21:58:04.237Z",
+  "count": 7,
   "notifications": [
+    {
+      "notificationId": "trending-2c11dd99760eabb7",
+      "articleId": "2c11dd99760eabb7",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Chief Minister Of Tripura Dr. Manik Saha Hands Over Appointment Letters To 211 Candidates",
+      "sourceUrl": "https://www.tripurastarnews.com/chief-minister-of-tripura-dr-manik-saha-hands-over-appointment-letters-to-211-candidates-in-the-agriculture-and-power-departments/",
+      "category": "National & Trending News",
+      "source": "TRIPURA STAR NEWS",
+      "imageUrl": "https://www.tripurastarnews.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-16-at-3.03.12-AM.jpeg",
+      "publishedAt": "2026-10-15T21:38:50.000Z",
+      "sentAt": "2026-10-15T21:58:03.791Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/2546572744870280505"
+    },
     {
       "notificationId": "trending-204e8304e4979047",
       "articleId": "204e8304e4979047",
