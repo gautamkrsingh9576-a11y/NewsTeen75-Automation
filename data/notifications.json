@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-14T21:53:00.652Z",
-  "count": 1,
+  "updatedAt": "2026-10-15T00:18:43.884Z",
+  "count": 2,
   "notifications": [
+    {
+      "notificationId": "trending-c9cfc19ad3c3cd88",
+      "articleId": "c9cfc19ad3c3cd88",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "RDX, detonators destroyed in Rajasthan after drone drop near India-Pakistan border",
+      "sourceUrl": "https://www.indiatoday.in/india/story/security-agencies-destroy-rdx-detonators-recovered-near-pakistan-border-in-rajasthan-3017605-2026-10-15",
+      "category": "National & Trending News",
+      "source": "India Today",
+      "imageUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/jaipur-bomb-squad-destroys-rdx--detonators-recovered-in-sri-ganganagar-142856367-16x9_0.png?VersionId=z8D7ev2HREZl5tDg30RCQ.Xr0j9_jp_p",
+      "publishedAt": "2026-10-14T21:32:59.000Z",
+      "sentAt": "2026-10-15T00:18:43.511Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/5686520585569415206"
+    },
     {
       "notificationId": "trending-01af06d1c69cbcd4",
       "articleId": "01af06d1c69cbcd4",
