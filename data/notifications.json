@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-15T14:42:34.648Z",
-  "count": 5,
+  "updatedAt": "2026-10-15T18:54:17.453Z",
+  "count": 6,
   "notifications": [
+    {
+      "notificationId": "trending-204e8304e4979047",
+      "articleId": "204e8304e4979047",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Enforcement Directorate Files Supplementary Complaint In Money Laundering Case",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/bengaluru/directorate-of-enforcement-files-supplementary-complaint-in-rs-15-crore-fraud-case/articleshow/134974684.cms",
+      "category": "Crime & Breaking News",
+      "source": "The Times of India",
+      "imageUrl": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "publishedAt": "2026-10-15T18:18:00.000Z",
+      "sentAt": "2026-10-15T18:54:17.051Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/3087567054681595128"
+    },
     {
       "notificationId": "trending-b650d03d6497194b",
       "articleId": "b650d03d6497194b",
