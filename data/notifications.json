@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-15T00:18:43.884Z",
-  "count": 2,
+  "updatedAt": "2026-10-15T05:00:08.545Z",
+  "count": 3,
   "notifications": [
+    {
+      "notificationId": "trending-d4822b4e865c7762",
+      "articleId": "d4822b4e865c7762",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Rain alert in 13 Rajasthan districts today: Hail likely; desert areas experienced cold",
+      "sourceUrl": "https://www.bhaskarenglish.in/local/rajasthan/news/rajasthan-weather-rain-alert-hailstorm-forecast-2026-139364044.html",
+      "category": "National & Trending News",
+      "source": "Bhaskar English",
+      "imageUrl": "https://images.bhaskarassets.com/thumb/730x0/web2images/1884/2026/10/15/comp-17_1792005580.gif",
+      "publishedAt": "2026-10-14T23:30:00.000Z",
+      "sentAt": "2026-10-15T05:00:08.040Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-8891855566666461633"
+    },
     {
       "notificationId": "trending-c9cfc19ad3c3cd88",
       "articleId": "c9cfc19ad3c3cd88",
