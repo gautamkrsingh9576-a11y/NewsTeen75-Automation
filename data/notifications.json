@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-15T09:46:59.509Z",
-  "count": 4,
+  "updatedAt": "2026-10-15T14:42:34.648Z",
+  "count": 5,
   "notifications": [
+    {
+      "notificationId": "trending-b650d03d6497194b",
+      "articleId": "b650d03d6497194b",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "SIR: Sikkim, Meghalaya, Ladakh step up voter enrolment drives for missing names",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/boost-your-voting-rights-sikkim-meghalaya-and-ladakh-launch-major-voter-enrollment-campaigns/articleshow/134970107.cms?from=mdr",
+      "category": "National & Trending News",
+      "source": "The Economic Times",
+      "imageUrl": "https://img.etimg.com/thumb/msid-134970200,width-1200,height-900,imgsize-100008,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-10-15T14:18:59.000Z",
+      "sentAt": "2026-10-15T14:42:34.371Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-4878336702627743294"
+    },
     {
       "notificationId": "trending-13649b1ffe2b619b",
       "articleId": "13649b1ffe2b619b",
