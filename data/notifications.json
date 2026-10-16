@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-15T21:58:04.237Z",
-  "count": 7,
+  "updatedAt": "2026-10-16T00:13:59.357Z",
+  "count": 8,
   "notifications": [
+    {
+      "notificationId": "trending-306c5b5cf824cc68",
+      "articleId": "306c5b5cf824cc68",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "For Chhattisgarh Christians, it's between a rock and a hard place",
+      "sourceUrl": "https://www.thehindu.com/news/national/chhattisgarh/christians-in-chhattisgarh-caught-between-a-rock-and-a-hard-place/article71589072.ece",
+      "category": "National & Trending News",
+      "source": "The Hindu",
+      "imageUrl": "https://th-i.thgim.com/public/news/cities/Delhi/46dj3k/article71589168.ece/alternates/LANDSCAPE_1200/GetImageContent.jpg",
+      "publishedAt": "2026-10-15T23:30:00.000Z",
+      "sentAt": "2026-10-16T00:13:58.897Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/2113877143128932125"
+    },
     {
       "notificationId": "trending-2c11dd99760eabb7",
       "articleId": "2c11dd99760eabb7",
