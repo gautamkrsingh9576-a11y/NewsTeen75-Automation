@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-16T00:13:59.357Z",
-  "count": 8,
+  "updatedAt": "2026-10-16T04:50:10.468Z",
+  "count": 9,
   "notifications": [
+    {
+      "notificationId": "trending-5321889822d7e8d6",
+      "articleId": "5321889822d7e8d6",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "TRAI releases mobile network quality test results for Andaman and Nicobar Islands",
+      "sourceUrl": "https://www.communicationstoday.co.in/trai-releases-mobile-network-quality-test-results-for-andaman-and-nicobar-islands/",
+      "category": "National & Trending News",
+      "source": "Communications Today",
+      "imageUrl": "https://www.communicationstoday.co.in/wp-content/uploads/2026/10/TRAI-assesses-telecom-service-quality-along-Munabao%E2%80%93Tanot-highway.jpg",
+      "publishedAt": "2026-10-16T02:48:08.000Z",
+      "sentAt": "2026-10-16T04:50:10.229Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-7223440275311902243"
+    },
     {
       "notificationId": "trending-306c5b5cf824cc68",
       "articleId": "306c5b5cf824cc68",
