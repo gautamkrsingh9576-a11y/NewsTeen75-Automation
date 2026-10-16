@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-16T14:35:29.272Z",
-  "count": 11,
+  "updatedAt": "2026-10-16T18:39:09.009Z",
+  "count": 12,
   "notifications": [
+    {
+      "notificationId": "trending-91a286cdca9f50f8",
+      "articleId": "91a286cdca9f50f8",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Gujarati folk singer Aditya Gadhvi rejects anti-Muslim stage announcement at garba",
+      "sourceUrl": "https://www.indiatoday.in/amp/entertainment/music/story/gujarati-folk-singer-aditya-gadhvi-rejects-anti-muslim-stage-announcement-at-garba-3018501-2026-10-16",
+      "category": "National & Trending News",
+      "source": "India Today",
+      "imageUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/gujarati-folk-singer-aditya-gadhvi-rejects-anti-muslim-stage-announcement-at-garba-1659461-16x9_0.png?VersionId=0NCq0cmHYjCMWnpcouiH8RpuoeJdPGYW",
+      "publishedAt": "2026-10-16T17:09:50.000Z",
+      "sentAt": "2026-10-16T18:39:08.549Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-8948891627392513660"
+    },
     {
       "notificationId": "trending-abfbbbc0d54f9114",
       "articleId": "abfbbbc0d54f9114",
