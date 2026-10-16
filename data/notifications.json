@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-16T18:39:09.009Z",
-  "count": 12,
+  "updatedAt": "2026-10-16T21:56:24.608Z",
+  "count": 13,
   "notifications": [
+    {
+      "notificationId": "trending-db7f448e45083e79",
+      "articleId": "db7f448e45083e79",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Chandigarh realty check: Plot sold for Rs 200 cr, Sec 9 house Rs 100",
+      "sourceUrl": "https://www.tribuneindia.com/news/chandigarh/chandigarh-realty-check-plot-sold-for-200-cr-sec-9-house-100-cr/",
+      "category": "National & Trending News",
+      "source": "The Tribune",
+      "imageUrl": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTkyNTQyZDIwLWM5OWItMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
+      "publishedAt": "2026-10-16T19:54:50.000Z",
+      "sentAt": "2026-10-16T21:56:24.358Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/7105060495715838565"
+    },
     {
       "notificationId": "trending-91a286cdca9f50f8",
       "articleId": "91a286cdca9f50f8",
