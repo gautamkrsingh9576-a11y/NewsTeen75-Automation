@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-16T09:32:00.615Z",
-  "count": 10,
+  "updatedAt": "2026-10-16T14:35:29.272Z",
+  "count": 11,
   "notifications": [
+    {
+      "notificationId": "trending-abfbbbc0d54f9114",
+      "articleId": "abfbbbc0d54f9114",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Charting Mizoram’s political journey | Review of Sanjoy Hazarika’s Lal Thanhawla",
+      "sourceUrl": "https://www.thehindu.com/books/books-reviews/review-of-sanjoy-hazarikas-lal-thanhawla/article71574790.ece",
+      "category": "National & Trending News",
+      "source": "The Hindu",
+      "imageUrl": "https://th-i.thgim.com/public/society/77x9ot/article71587801.ece/alternates/LANDSCAPE_1200/Untitled%20design%20-%202026-10-15T164220.156.png",
+      "publishedAt": "2026-10-16T12:30:00.000Z",
+      "sentAt": "2026-10-16T14:35:28.584Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/1060544691076359587"
+    },
     {
       "notificationId": "trending-725b38cea7ef9e0a",
       "articleId": "725b38cea7ef9e0a",
