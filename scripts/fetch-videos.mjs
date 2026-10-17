@@ -365,11 +365,55 @@ function languageAllowed(snippet = {}) {
   return !language || String(language).toLowerCase().startsWith("hi");
 }
 
+function mixVideosByCategory(videos = [], limit = VIDEO_FEED_MAX) {
+  const groups = new Map();
+
+  for (const video of videos) {
+    const category = String(video?.category || "uncategorized").trim().toLowerCase();
+    if (!groups.has(category)) groups.set(category, []);
+    groups.get(category).push(video);
+  }
+
+  for (const group of groups.values()) {
+    group.sort(
+      (a, b) =>
+        new Date(b.published_at || 0).getTime() -
+        new Date(a.published_at || 0).getTime()
+    );
+  }
+
+  const categoryOrder = [...groups.keys()].sort((a, b) => {
+    const aTime = new Date(groups.get(a)?.[0]?.published_at || 0).getTime();
+    const bTime = new Date(groups.get(b)?.[0]?.published_at || 0).getTime();
+    return bTime - aTime;
+  });
+
+  const mixed = [];
+
+  while (mixed.length < limit) {
+    let addedThisRound = false;
+
+    for (const category of categoryOrder) {
+      const group = groups.get(category);
+      if (!group?.length) continue;
+
+      mixed.push(group.shift());
+      addedThisRound = true;
+
+      if (mixed.length >= limit) break;
+    }
+
+    if (!addedThisRound) break;
+  }
+
+  return mixed;
+}
+
 async function writeFallbackJson() {
   const { data: channels, error: channelsError } =
     await supabase
       .from("approved_channels")
-      .select("id")
+      .select("id,channel_name,youtube_channel_id,youtube_handle")
       .eq("active", true);
 
   if (channelsError) {
@@ -378,7 +422,20 @@ async function writeFallbackJson() {
     );
   }
 
-  const activeIds = (channels || []).map((row) => row.id);
+  const blocked = blocklistSets();
+  const activeIds = (channels || [])
+    .filter((row) => {
+      const youtubeChannelId = String(row.youtube_channel_id || "").trim();
+      const handle = normalizeHandle(row.youtube_handle || "");
+      const name = normalizedName(row.channel_name || "");
+
+      return !(
+        (youtubeChannelId && blocked.ids.has(youtubeChannelId)) ||
+        (handle && blocked.handles.has(handle)) ||
+        blocked.names.has(name)
+      );
+    })
+    .map((row) => row.id);
 
   if (!activeIds.length) {
     fs.writeFileSync(
@@ -400,6 +457,11 @@ async function writeFallbackJson() {
     Date.now() - VIDEO_FRESH_HOURS * 60 * 60 * 1000
   ).toISOString();
 
+  const feedCandidateLimit = Math.min(
+    1000,
+    Math.max(VIDEO_FEED_MAX, VIDEO_FEED_MAX * 4)
+  );
+
   const { data: videos, error } = await supabase
     .from("news_videos")
     .select(
@@ -412,7 +474,7 @@ async function writeFallbackJson() {
     .gte("published_at", freshCutoff)
     .order("published_at", { ascending: false })
     .order("id", { ascending: false })
-    .limit(VIDEO_FEED_MAX);
+    .limit(feedCandidateLimit);
 
   if (error) {
     throw new Error(
@@ -420,10 +482,15 @@ async function writeFallbackJson() {
     );
   }
 
+  const mixedVideos = mixVideosByCategory(
+    videos || [],
+    VIDEO_FEED_MAX
+  );
+
   const output = {
     updatedAt: new Date().toISOString(),
-    count: videos?.length || 0,
-    videos: (videos || []).map((video) => ({
+    count: mixedVideos.length,
+    videos: mixedVideos.map((video) => ({
       id: video.id,
       youtubeVideoId: video.youtube_video_id,
       title: video.title,
