@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-17T19:03:08.760Z",
-  "count": 19,
+  "updatedAt": "2026-10-17T21:37:03.516Z",
+  "count": 20,
   "notifications": [
+    {
+      "notificationId": "trending-f552c826babde3f0",
+      "articleId": "f552c826babde3f0",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Lakhimpur Kheri police secure fifty convictions in crimes against women",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/lucknow/over-50-cases-of-crime-against-women-end-in-convictions-this-year/articleshow/135020006.cms",
+      "category": "Crime & Breaking News",
+      "source": "The Times of India",
+      "imageUrl": "https://static.toiimg.com/thumb/msid-132133012,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-10-17T19:46:00.000Z",
+      "sentAt": "2026-10-17T21:37:03.108Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-3463008092877781866"
+    },
     {
       "notificationId": "trending-3ccdfa74d157bcf2",
       "articleId": "3ccdfa74d157bcf2",
