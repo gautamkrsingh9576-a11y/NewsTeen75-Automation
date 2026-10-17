@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-17T00:12:54.528Z",
-  "count": 14,
+  "updatedAt": "2026-10-17T04:50:34.519Z",
+  "count": 15,
   "notifications": [
+    {
+      "notificationId": "trending-74990e735ed0fef1",
+      "articleId": "74990e735ed0fef1",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Lover claimed she died in accident: Says he performed last rites; murdered her",
+      "sourceUrl": "https://www.bhaskarenglish.in/local/mp/news/bhind-nursing-officer-snehlata-murder-live-in-partner-satyaprakash-139388896.html",
+      "category": "Crime & Breaking News",
+      "source": "Bhaskar English",
+      "imageUrl": "https://images.bhaskarassets.com/thumb/730x0/web2images/1884/2026/10/17/s_1792177751.gif",
+      "publishedAt": "2026-10-16T23:30:00.000Z",
+      "sentAt": "2026-10-17T04:50:33.936Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/3572107091334627227"
+    },
     {
       "notificationId": "trending-ca61cf4897ad676b",
       "articleId": "ca61cf4897ad676b",
