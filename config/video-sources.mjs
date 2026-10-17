@@ -17,9 +17,7 @@ export const VIDEO_SOURCE_WHITELIST = [
   { name: "FilmiBeat", channelId: "", handle: "@filmibeat", category: "entertainment", active: true },
   { name: "Navbharat Times", channelId: "", handle: "@NavbharatTimes", category: "entertainment", active: true },
 
-  { name: "Sports Yaari", channelId: "", handle: "@sportsyaari", category: "sports", active: true },
   { name: "Cricbuzz", channelId: "", handle: "@cricbuzz", category: "sports", active: true },
-  { name: "Sports Tak", channelId: "", handle: "@SportsTak", category: "sports", active: true },
   { name: "BCCI", channelId: "", handle: "@BCCI", category: "sports", active: true },
   { name: "Star Sports", channelId: "", handle: "@StarSports", category: "sports", active: true },
 
@@ -31,6 +29,8 @@ export const VIDEO_SOURCE_WHITELIST = [
 ];
 
 export const VIDEO_SOURCE_BLOCKLIST = [
+  { name: "Sports Yaari", channelId: "", handle: "@sportsyaari" },
+  { name: "Sports Tak", channelId: "", handle: "@SportsTak" },
   { name: "Aaj Tak", channelId: "", handle: "@aajtak" },
   { name: "ABP News", channelId: "", handle: "@ABPNEWS" },
   { name: "Zee News", channelId: "", handle: "@ZeeNews" },
