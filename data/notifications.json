@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-16T21:56:24.608Z",
-  "count": 13,
+  "updatedAt": "2026-10-17T00:12:54.528Z",
+  "count": 14,
   "notifications": [
+    {
+      "notificationId": "trending-ca61cf4897ad676b",
+      "articleId": "ca61cf4897ad676b",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "US Lawmakers Urge Federal Hate Crime Probe Into Foiled Temple Plot",
+      "sourceUrl": "https://www.news18.com/world/us-lawmakers-urge-fbi-to-probe-foiled-hindu-temple-attack-plot-as-federal-hate-crime-ws-l-10385864.html",
+      "category": "Crime & Breaking News",
+      "source": "News18",
+      "imageUrl": "https://images.news18.com/ibnlive/uploads/2026/10/hindu-temple-2026-10-eb705ec039468ade876f14b35269b4de-1200x675.jpg",
+      "publishedAt": "2026-10-16T22:38:07.000Z",
+      "sentAt": "2026-10-17T00:12:54.087Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-7939219536325876706"
+    },
     {
       "notificationId": "trending-db7f448e45083e79",
       "articleId": "db7f448e45083e79",
