@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-17T21:37:03.516Z",
-  "count": 20,
+  "updatedAt": "2026-10-17T23:47:28.638Z",
+  "count": 21,
   "notifications": [
+    {
+      "notificationId": "trending-447228311c28589e",
+      "articleId": "447228311c28589e",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "War of words in Haryana: CM Saini pitches prosperity, Congress alleges rising crime, debt",
+      "sourceUrl": "https://www.thehindu.com/news/national/haryana/war-of-words-in-haryana-cm-saini-pitches-prosperity-congress-alleges-rising-crime-debt/article71596746.ece",
+      "category": "National & Trending News",
+      "source": "The Hindu",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/1wyvpy/article71597971.ece/alternates/LANDSCAPE_1200/20261017253L.jpg",
+      "publishedAt": "2026-10-17T22:40:00.000Z",
+      "sentAt": "2026-10-17T23:47:28.290Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/7023573944925057718"
+    },
     {
       "notificationId": "trending-f552c826babde3f0",
       "articleId": "f552c826babde3f0",
