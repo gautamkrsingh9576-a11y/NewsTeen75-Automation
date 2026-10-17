@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-17T13:06:08.429Z",
-  "count": 17,
+  "updatedAt": "2026-10-17T16:35:16.995Z",
+  "count": 18,
   "notifications": [
+    {
+      "notificationId": "trending-8b51d05f3c51c5c6",
+      "articleId": "8b51d05f3c51c5c6",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Haryana’s Khushi Kadian clinches hat-trick of titles at National Tennis Championship",
+      "sourceUrl": "https://www.tribuneindia.com/news/haryana/haryanas-khushi-kadian-clinches-hat-trick-of-titles-at-national-tennis-championship/amp/",
+      "category": "National & Trending News",
+      "source": "The Tribune",
+      "imageUrl": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWRkNWQ3NjAwLWNhNDUtMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
+      "publishedAt": "2026-10-17T16:14:36.000Z",
+      "sentAt": "2026-10-17T16:35:16.536Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/119999722854235456"
+    },
     {
       "notificationId": "trending-c26239f8223cf8f9",
       "articleId": "c26239f8223cf8f9",
