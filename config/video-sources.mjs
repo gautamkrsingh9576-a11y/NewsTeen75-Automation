@@ -12,10 +12,16 @@ export const VIDEO_SOURCE_WHITELIST = [
   { name: "CA Rachana Ranade", channelId: "", handle: "@CARachanaRanade", category: "finance", active: true },
   { name: "Labour Law Advisor", channelId: "", handle: "@LabourLawAdvisor", category: "finance", active: true },
   { name: "Asset Yogi", channelId: "", handle: "@AssetYogi", category: "finance", active: true },
+  { name: "ET Now Swadesh", channelId: "", handle: "@ETNowSwadesh", category: "finance", active: true },
+  { name: "5paisa", channelId: "", handle: "@5paisa", category: "finance", active: true },
+  { name: "Finology Hindi", channelId: "UCRo2_lGTKE9odwOdfhNN1oA", handle: "@finologyhindime5144", category: "finance", active: true },
 
   { name: "Bollywood Hungama", channelId: "", handle: "@BollywoodHungama", category: "entertainment", active: true },
   { name: "FilmiBeat", channelId: "", handle: "@filmibeat", category: "entertainment", active: true },
   { name: "Navbharat Times", channelId: "", handle: "@NavbharatTimes", category: "entertainment", active: true },
+  { name: "Zoom TV", channelId: "", handle: "@zoomtv", category: "entertainment", active: true },
+  { name: "HindiRush", channelId: "", handle: "@hindirush", category: "entertainment", active: true },
+  { name: "Bollywood Bubble", channelId: "", handle: "@BollywoodBubble", category: "entertainment", active: true },
 
   { name: "Cricbuzz", channelId: "", handle: "@cricbuzz", category: "sports", active: true },
   { name: "BCCI", channelId: "", handle: "@BCCI", category: "sports", active: true },
