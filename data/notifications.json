@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-17T04:50:34.519Z",
-  "count": 15,
+  "updatedAt": "2026-10-17T09:02:28.102Z",
+  "count": 16,
   "notifications": [
+    {
+      "notificationId": "trending-3d76f32b6f33b4eb",
+      "articleId": "3d76f32b6f33b4eb",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Five workers killed, five injured in explosion at Gujarat chemical unit",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/five-workers-killed-five-injured-in-explosion-at-gujarat-chemical-unit/articleshow/135007499.cms?from=mdr",
+      "category": "National & Trending News",
+      "source": "The Economic Times",
+      "imageUrl": "https://img.etimg.com/thumb/msid-135007569,width-1200,height-900,imgsize-86152,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-10-17T04:53:51.000Z",
+      "sentAt": "2026-10-17T09:02:27.751Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/6409408759755723730"
+    },
     {
       "notificationId": "trending-74990e735ed0fef1",
       "articleId": "74990e735ed0fef1",
