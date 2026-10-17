@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-17T16:35:16.995Z",
-  "count": 18,
+  "updatedAt": "2026-10-17T19:03:08.760Z",
+  "count": 19,
   "notifications": [
+    {
+      "notificationId": "trending-3ccdfa74d157bcf2",
+      "articleId": "3ccdfa74d157bcf2",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Supreme Court’s child safety crackdown: National abuse database, safe touch lessons",
+      "sourceUrl": "https://www.moneycontrol.com/news/india/supreme-court-s-child-safety-crackdown-national-abuse-database-safe-touch-lessons-and-new-safeguards-against-online-abuse-14054551.html",
+      "category": "National & Trending News",
+      "source": "Moneycontrol.com",
+      "imageUrl": "https://images.moneycontrol.com/static-mcnews/2025/09/20250912092851_Supreme-Court-.png",
+      "publishedAt": "2026-10-17T15:51:57.000Z",
+      "sentAt": "2026-10-17T19:03:08.376Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-6919028431015268475"
+    },
     {
       "notificationId": "trending-8b51d05f3c51c5c6",
       "articleId": "8b51d05f3c51c5c6",
