@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-17T09:02:28.102Z",
-  "count": 16,
+  "updatedAt": "2026-10-17T13:06:08.429Z",
+  "count": 17,
   "notifications": [
+    {
+      "notificationId": "trending-c26239f8223cf8f9",
+      "articleId": "c26239f8223cf8f9",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "ED pastes summons at Pinarayi Vijayan’s Thiruvananthapuram residence",
+      "sourceUrl": "https://www.theweek.in/news/india/2026/10/17/kerala-ed-pastes-summons-at-pinarayi-vijayans-thiruvananthapuram-residence.html",
+      "category": "National & Trending News",
+      "source": "The Week",
+      "imageUrl": "https://img.theweek.in/content/dam/week/week/news/india/images/2025/3/5/Chief-Minister-Pinarayi-Vijayan.jpg",
+      "publishedAt": "2026-10-17T09:01:13.000Z",
+      "sentAt": "2026-10-17T13:06:07.917Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-279576165389594294"
+    },
     {
       "notificationId": "trending-3d76f32b6f33b4eb",
       "articleId": "3d76f32b6f33b4eb",
