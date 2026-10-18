@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-18T12:44:26.173Z",
-  "count": 24,
+  "updatedAt": "2026-10-18T16:23:29.024Z",
+  "count": 25,
   "notifications": [
+    {
+      "notificationId": "trending-60c9d4cae420f9a7",
+      "articleId": "60c9d4cae420f9a7",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Jammu and Kashmir's Connectivity Gets Major Boost with Rail, Road and Airport",
+      "sourceUrl": "https://ddindia.co.in/2026/10/jammu-and-kashmirs-connectivity-gets-major-boost-with-rail-road-and-airport-infrastructure-projects/",
+      "category": "National & Trending News",
+      "source": "DD India",
+      "imageUrl": "https://ddindia.co.in/wp-content/uploads/2026/10/2025012542F.jpg",
+      "publishedAt": "2026-10-18T13:36:21.000Z",
+      "sentAt": "2026-10-18T16:23:28.745Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-5331562576410458574"
+    },
     {
       "notificationId": "trending-021ceed253732ae7",
       "articleId": "021ceed253732ae7",
