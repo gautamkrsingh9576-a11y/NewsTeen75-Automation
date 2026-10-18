@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-18T18:47:58.475Z",
-  "count": 26,
+  "updatedAt": "2026-10-18T21:17:54.524Z",
+  "count": 27,
   "notifications": [
+    {
+      "notificationId": "trending-e6fec0bb3c05065e",
+      "articleId": "e6fec0bb3c05065e",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Kashmir-bound bus attacked in Haryana, passengers caught in midnight ordeal",
+      "sourceUrl": "https://jknewstoday.com/kashmir-bound-bus-attacked-in-haryana-passengers-caught-in-midnight-ordeal/",
+      "category": "National & Trending News",
+      "source": "JK News Today",
+      "imageUrl": "https://jknewstoday.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-18-at-10.30.37-AM.jpeg",
+      "publishedAt": "2026-10-18T18:56:19.000Z",
+      "sentAt": "2026-10-18T21:17:54.250Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/6544107915267985065"
+    },
     {
       "notificationId": "trending-75a58c0d8e4f1cec",
       "articleId": "75a58c0d8e4f1cec",
