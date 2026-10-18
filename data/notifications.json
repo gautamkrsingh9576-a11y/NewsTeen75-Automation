@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-17T23:47:28.638Z",
-  "count": 21,
+  "updatedAt": "2026-10-18T03:21:14.119Z",
+  "count": 22,
   "notifications": [
+    {
+      "notificationId": "trending-a1e71faf06e755b3",
+      "articleId": "a1e71faf06e755b3",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Weather update: Heavy rainfall warning in Andhra Pradesh, Kerala; thunderstorm likely",
+      "sourceUrl": "https://www.cnbctv18.com/india/environment/weather-update-heavy-rainfall-warning-in-andhra-pradesh-kerala-thunderstorm-likely-in-goa-odisha-20014225.htm/amp",
+      "category": "National & Trending News",
+      "source": "CNBC TV18",
+      "imageUrl": "https://images.cnbctv18.com/uploads/2026/10/rains-1-2026-10-617f7c0dc3d909fe9d2b30557ae14c22.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-10-17T23:24:49.000Z",
+      "sentAt": "2026-10-18T03:21:13.467Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-1623352076060335102"
+    },
     {
       "notificationId": "trending-447228311c28589e",
       "articleId": "447228311c28589e",
