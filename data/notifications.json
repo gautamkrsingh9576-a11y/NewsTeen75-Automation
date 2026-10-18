@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-18T08:15:57.203Z",
-  "count": 23,
+  "updatedAt": "2026-10-18T12:44:26.173Z",
+  "count": 24,
   "notifications": [
+    {
+      "notificationId": "trending-021ceed253732ae7",
+      "articleId": "021ceed253732ae7",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "NCLAT revives Walchandnagar Industries' insolvency plea against Swaraj India Agro on SC",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/indl-goods/svs/engineering/nclat-revives-walchandnagar-industries-insolvency-plea-against-swaraj-india-agro-on-sc-direction/articleshow/135026633.cms?from=mdr",
+      "category": "National & Trending News",
+      "source": "The Economic Times",
+      "imageUrl": "https://img.etimg.com/thumb/msid-135026638,width-1200,height-900,imgsize-97592,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-10-18T09:26:39.000Z",
+      "sentAt": "2026-10-18T12:44:25.838Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/3579932415793699200"
+    },
     {
       "notificationId": "trending-3ae91ef01992ae0f",
       "articleId": "3ae91ef01992ae0f",
