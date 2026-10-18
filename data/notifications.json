@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-18T21:17:54.524Z",
-  "count": 27,
+  "updatedAt": "2026-10-18T23:31:38.590Z",
+  "count": 28,
   "notifications": [
+    {
+      "notificationId": "trending-b90e739b5e9137eb",
+      "articleId": "b90e739b5e9137eb",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "AP Inter Exam Date 2027 expected to be RELEASED soon @bie.ap.gov.in; Check latest updates",
+      "sourceUrl": "https://www.educationtimes.com/exams/ap-inter-exam-date-2027-expected-to-be-released-soon-bie-ap-gov-in-check-latest-updates/articleshow/135035094.cms",
+      "category": "National & Trending News",
+      "source": "Education Times",
+      "imageUrl": "https://static.toiimg.com/thumb/msid-135035095,width-1280,height-720,imgsize-200430,resizemode-6,y_pad-600/photo.jpg",
+      "publishedAt": "2026-10-18T20:46:00.000Z",
+      "sentAt": "2026-10-18T23:31:38.314Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/7472023980631527376"
+    },
     {
       "notificationId": "trending-e6fec0bb3c05065e",
       "articleId": "e6fec0bb3c05065e",
