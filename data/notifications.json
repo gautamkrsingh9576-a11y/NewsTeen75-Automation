@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-18T16:23:29.024Z",
-  "count": 25,
+  "updatedAt": "2026-10-18T18:47:58.475Z",
+  "count": 26,
   "notifications": [
+    {
+      "notificationId": "trending-75a58c0d8e4f1cec",
+      "articleId": "75a58c0d8e4f1cec",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Vedanta Delhi Half Marathon: Charles Matata wins men’s race, Alemu takes women’s crown",
+      "sourceUrl": "https://themeghalayanexpress.com/vedanta-delhi-half-marathon-charles-matata-wins-mens-race-alemu-takes-womens-crown/",
+      "category": "National & Trending News",
+      "source": "The Meghalayan Express",
+      "imageUrl": "https://themeghalayanexpress.com/wp-content/uploads/2026/10/PTI10_18_2026_000095B-scaled-e1792341302999-1024x684.jpg",
+      "publishedAt": "2026-10-18T16:39:45.000Z",
+      "sentAt": "2026-10-18T18:47:58.131Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-1122050246000706388"
+    },
     {
       "notificationId": "trending-60c9d4cae420f9a7",
       "articleId": "60c9d4cae420f9a7",
