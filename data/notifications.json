@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-18T03:21:14.119Z",
-  "count": 22,
+  "updatedAt": "2026-10-18T08:15:57.203Z",
+  "count": 23,
   "notifications": [
+    {
+      "notificationId": "trending-3ae91ef01992ae0f",
+      "articleId": "3ae91ef01992ae0f",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Rule of Law established in Uttar Pradesh by eliminating Rule of Mafia, says CM",
+      "sourceUrl": "https://www.thehindu.com/news/national/uttar-pradesh/up-cm-yogi-adityanath-touts-uttar-pradeshs-shift-from-mafia-rule-to-rule-of-law/article71596877.ece",
+      "category": "National & Trending News",
+      "source": "The Hindu",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/6wc00z/article71599159.ece/alternates/LANDSCAPE_1200/PTI10_17_2026_000337B.jpg",
+      "publishedAt": "2026-10-18T05:05:43.000Z",
+      "sentAt": "2026-10-18T08:15:56.750Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/6607590217115399186"
+    },
     {
       "notificationId": "trending-a1e71faf06e755b3",
       "articleId": "a1e71faf06e755b3",
