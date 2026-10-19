@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-18T23:31:38.590Z",
-  "count": 28,
+  "updatedAt": "2026-10-19T03:33:38.809Z",
+  "count": 29,
   "notifications": [
+    {
+      "notificationId": "trending-7abea02c81736513",
+      "articleId": "7abea02c81736513",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "J&K inflation climbs for 5th straight month to 4.27%",
+      "sourceUrl": "https://www.greaterkashmir.com/jammu-kashmir/jk-inflation-climbs-for-5th-straight-month-to-427-12688051",
+      "category": "National & Trending News",
+      "source": "Greater Kashmir",
+      "imageUrl": "https://img-cdn.publive.online/fit-in/1200x675/greater-kashmir/media/media_files/2026/10/19/infilation-2026-10-19-06-37-44.jpg",
+      "publishedAt": "2026-10-19T01:08:22.000Z",
+      "sentAt": "2026-10-19T03:33:38.203Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-4865827159797603401"
+    },
     {
       "notificationId": "trending-b90e739b5e9137eb",
       "articleId": "b90e739b5e9137eb",
