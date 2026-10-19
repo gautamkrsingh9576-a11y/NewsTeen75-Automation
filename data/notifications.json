@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-19T16:49:43.646Z",
-  "count": 31,
+  "updatedAt": "2026-10-19T21:22:00.806Z",
+  "count": 32,
   "notifications": [
+    {
+      "notificationId": "trending-dea04b8bdc90d076",
+      "articleId": "dea04b8bdc90d076",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Andhra Pradesh local polls: YSRCP moves Supreme Court for protection of candidates",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/andhra-pradesh-local-polls-ysrcp-moves-supreme-court-for-protection-of-candidates/articleshow/135055445.cms?from=mdr",
+      "category": "National & Trending News",
+      "source": "The Economic Times",
+      "imageUrl": "https://img.etimg.com/thumb/msid-135055537,width-1200,height-900,imgsize-37710,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-10-19T19:00:08.000Z",
+      "sentAt": "2026-10-19T21:22:00.258Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/5261723825199084356"
+    },
     {
       "notificationId": "trending-607359b4486a3024",
       "articleId": "607359b4486a3024",
