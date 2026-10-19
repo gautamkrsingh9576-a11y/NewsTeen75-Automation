@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-19T03:33:38.809Z",
-  "count": 29,
+  "updatedAt": "2026-10-19T09:39:08.495Z",
+  "count": 30,
   "notifications": [
+    {
+      "notificationId": "trending-5ac2c747af48ba01",
+      "articleId": "5ac2c747af48ba01",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "'Spectacle over safety?': Mamata-led TMC questions award to pandal where 19 died",
+      "sourceUrl": "https://www.newindianexpress.com/states/west-bengal/2026/Oct/19/spectacle-over-safety-mamata-led-tmc-questions-award-to-pandal-where-19-died-in-stampede",
+      "category": "National & Trending News",
+      "source": "The New Indian Express",
+      "imageUrl": "https://cf-images.assettype.com/newindianexpress%2F2026-10-19%2F3ifnd8bl%2F20261018152L.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "publishedAt": "2026-10-19T06:35:39.000Z",
+      "sentAt": "2026-10-19T09:39:08.246Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/3274023862945885307"
+    },
     {
       "notificationId": "trending-7abea02c81736513",
       "articleId": "7abea02c81736513",
