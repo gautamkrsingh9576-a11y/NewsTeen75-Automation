@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-19T09:39:08.495Z",
-  "count": 30,
+  "updatedAt": "2026-10-19T16:49:43.646Z",
+  "count": 31,
   "notifications": [
+    {
+      "notificationId": "trending-607359b4486a3024",
+      "articleId": "607359b4486a3024",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Dhal Singh Bisen sworn in as Uttarakhand Governor",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/india/dhal-singh-bisen-sworn-in-as-uttarakhand-governor/articleshow/135041848.cms?from=mdr",
+      "category": "National & Trending News",
+      "source": "The Economic Times",
+      "imageUrl": "https://img.etimg.com/thumb/msid-135041866,width-1200,height-900,imgsize-91392,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-10-19T06:31:58.000Z",
+      "sentAt": "2026-10-19T16:49:43.193Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-8208795519928227516"
+    },
     {
       "notificationId": "trending-5ac2c747af48ba01",
       "articleId": "5ac2c747af48ba01",
