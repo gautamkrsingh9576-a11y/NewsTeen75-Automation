@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-19T21:22:00.806Z",
-  "count": 32,
+  "updatedAt": "2026-10-20T00:31:38.893Z",
+  "count": 33,
   "notifications": [
+    {
+      "notificationId": "trending-5c631eff55faf147",
+      "articleId": "5c631eff55faf147",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Meghalaya: Central Puja Committee appeals for peace and communal harmony during Durga Puja",
+      "sourceUrl": "https://www.dailyexcelsior.com/meghalaya-central-puja-committee-appeals-for-peace-and-communal-harmony-during-durga-puja-celebrations/",
+      "category": "National & Trending News",
+      "source": "Daily Excelsior",
+      "imageUrl": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTg1ZDgwYWEwLWNjMGYtMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
+      "publishedAt": "2026-10-19T22:50:32.000Z",
+      "sentAt": "2026-10-20T00:31:38.284Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-5455306975357410061"
+    },
     {
       "notificationId": "trending-dea04b8bdc90d076",
       "articleId": "dea04b8bdc90d076",
