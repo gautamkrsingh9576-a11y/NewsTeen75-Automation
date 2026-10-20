@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-20T00:31:38.893Z",
-  "count": 33,
+  "updatedAt": "2026-10-20T05:42:28.989Z",
+  "count": 34,
   "notifications": [
+    {
+      "notificationId": "trending-76ec0250459de4cb",
+      "articleId": "76ec0250459de4cb",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Indian Army Successfully Concludes Tripura Agniveer Recruitment Rally 2026",
+      "sourceUrl": "https://www.tripurastarnews.com/indian-army-successfully-concludes-tripura-agniveer-recruitment-rally-2026/",
+      "category": "National & Trending News",
+      "source": "TRIPURA STAR NEWS",
+      "imageUrl": "https://www.tripurastarnews.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-20-at-3.25.32-AM1.jpeg",
+      "publishedAt": "2026-10-19T21:58:36.000Z",
+      "sentAt": "2026-10-20T05:42:28.692Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-4650095054872865523"
+    },
     {
       "notificationId": "trending-5c631eff55faf147",
       "articleId": "5c631eff55faf147",
