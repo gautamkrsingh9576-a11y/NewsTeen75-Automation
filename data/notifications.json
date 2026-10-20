@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-20T19:51:36.586Z",
-  "count": 37,
+  "updatedAt": "2026-10-20T22:58:07.918Z",
+  "count": 38,
   "notifications": [
+    {
+      "notificationId": "trending-6ef4712831717aac",
+      "articleId": "6ef4712831717aac",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Kerala Lottery Result Today March 23: Bhagyathara BT 46 Result Declared, Check If You",
+      "sourceUrl": "https://www.goodreturns.in/news/kerala-lottery-result-today-march-23-bhagyathara-bt-46-result-declared-check-if-you-won-rs-1-cr-j-1497679.html",
+      "category": "National & Trending News",
+      "source": "Goodreturns",
+      "imageUrl": "https://images.goodreturns.in/img/2026/03/bhagyatharabt46result12-1774256270.jpeg",
+      "publishedAt": "2026-10-20T19:58:51.000Z",
+      "sentAt": "2026-10-20T22:58:07.491Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-6573010042201510425"
+    },
     {
       "notificationId": "trending-c2437b639e177da0",
       "articleId": "c2437b639e177da0",
