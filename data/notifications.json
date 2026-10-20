@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-20T05:42:28.989Z",
-  "count": 34,
+  "updatedAt": "2026-10-20T11:00:38.516Z",
+  "count": 35,
   "notifications": [
+    {
+      "notificationId": "trending-d0c18bc5ccb28a9e",
+      "articleId": "d0c18bc5ccb28a9e",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Sikkim artists Dilu Tamang, Tila Rupa Sapkota receive Ustad Bismillah Khan Yuva Puraskar",
+      "sourceUrl": "https://www.indiatodayne.in/sikkim/story/sikkim-artists-dilu-tamang-tila-rupa-sapkota-receive-ustad-bismillah-khan-yuva-puraskar-2024-1465024-2026-10-20",
+      "category": "National & Trending News",
+      "source": "India Today NE",
+      "imageUrl": "https://cf-img-a-in.tosshub.com/lingo/itne/images/story/202610/6ad7098053b8e-sikkim-202607494-16x9.jpg",
+      "publishedAt": "2026-10-20T06:27:04.000Z",
+      "sentAt": "2026-10-20T11:00:37.909Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/8170119939611301253"
+    },
     {
       "notificationId": "trending-76ec0250459de4cb",
       "articleId": "76ec0250459de4cb",
