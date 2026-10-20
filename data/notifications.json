@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-20T11:00:38.516Z",
-  "count": 35,
+  "updatedAt": "2026-10-20T15:45:02.971Z",
+  "count": 36,
   "notifications": [
+    {
+      "notificationId": "trending-20a2b1f18c1db517",
+      "articleId": "20a2b1f18c1db517",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "\"We all unite for protection of this country\": Andaman and Nicobar Islands LG Dinesh",
+      "sourceUrl": "https://www.aninews.in/news/national/general-news/we-all-unite-for-protection-of-this-country-andaman-and-nicobar-islands-lg-dinesh-sharma-attends-shastra-puja-in-lucknow20261020174236/",
+      "category": "National & Trending News",
+      "source": "ANI News",
+      "imageUrl": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261020121223-thumbnail-320x180-70.jpg",
+      "publishedAt": "2026-10-20T12:12:00.000Z",
+      "sentAt": "2026-10-20T15:45:02.537Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-2673751811807916868"
+    },
     {
       "notificationId": "trending-d0c18bc5ccb28a9e",
       "articleId": "d0c18bc5ccb28a9e",
