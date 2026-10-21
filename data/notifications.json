@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-21T12:13:24.263Z",
-  "count": 41,
+  "updatedAt": "2026-10-21T17:32:53.288Z",
+  "count": 42,
   "notifications": [
+    {
+      "notificationId": "trending-13b97c022d56ea17",
+      "articleId": "13b97c022d56ea17",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "GRAP-1 curbs imposed in Delhi-NCR as air quality slips into ‘poor’ category",
+      "sourceUrl": "https://www.thehindu.com/news/cities/Delhi/grap-1-curbs-imposed-in-delhi-ncr-as-air-quality-slips-into-poor-category/article71607093.ece",
+      "category": "National & Trending News",
+      "source": "The Hindu",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/6no45k/article71607110.ece/alternates/LANDSCAPE_1200/PTI10_21_2026_000116B.jpg",
+      "publishedAt": "2026-10-21T12:18:23.000Z",
+      "sentAt": "2026-10-21T17:32:52.628Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/2655316352019122050"
+    },
     {
       "notificationId": "trending-bb855890aa20fc85",
       "articleId": "bb855890aa20fc85",
