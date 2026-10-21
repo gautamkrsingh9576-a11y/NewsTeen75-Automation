@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-21T01:27:11.445Z",
-  "count": 39,
+  "updatedAt": "2026-10-21T06:26:37.812Z",
+  "count": 40,
   "notifications": [
+    {
+      "notificationId": "trending-81dbda8001faf703",
+      "articleId": "81dbda8001faf703",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "'1st attack on October 11 failed': How shooters used Tiger Shroff’s social media posts",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/mumbai/1st-attack-on-oct-11-failed-how-shooters-used-tiger-shroffs-social-media-posts-to-track-him-recced-juhu-ground-for-10-days/articleshow/135079508.cms",
+      "category": "Crime & Breaking News",
+      "source": "The Times of India",
+      "imageUrl": "https://static.toiimg.com/thumb/msid-135079540,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-10-21T01:47:00.000Z",
+      "sentAt": "2026-10-21T06:26:37.487Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/2960126745241207215"
+    },
     {
       "notificationId": "trending-94be6b39b3843e4d",
       "articleId": "94be6b39b3843e4d",
