@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-20T22:58:07.918Z",
-  "count": 38,
+  "updatedAt": "2026-10-21T01:27:11.445Z",
+  "count": 39,
   "notifications": [
+    {
+      "notificationId": "trending-94be6b39b3843e4d",
+      "articleId": "94be6b39b3843e4d",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "HP Guv Kavinder releases books on Dogri theatre",
+      "sourceUrl": "https://www.dailyexcelsior.com/hp-guv-kavinder-releases-books-on-dogri-theatre/",
+      "category": "National & Trending News",
+      "source": "Daily Excelsior",
+      "imageUrl": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYWE1MzI0MjYwLWNjZDktMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
+      "publishedAt": "2026-10-20T22:57:35.000Z",
+      "sentAt": "2026-10-21T01:27:10.946Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/6148886006065863389"
+    },
     {
       "notificationId": "trending-6ef4712831717aac",
       "articleId": "6ef4712831717aac",
