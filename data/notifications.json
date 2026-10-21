@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-21T06:26:37.812Z",
-  "count": 40,
+  "updatedAt": "2026-10-21T12:13:24.263Z",
+  "count": 41,
   "notifications": [
+    {
+      "notificationId": "trending-bb855890aa20fc85",
+      "articleId": "bb855890aa20fc85",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Meghalaya HC Closes Contempt Proceedings Against Lawyers After Unconditional Apology",
+      "sourceUrl": "https://courtbook.in/posts/meghalaya-hc-closes-contempt-proceedings-against-lawyers-after-unconditional-apology-over-court-boycott",
+      "category": "National & Trending News",
+      "source": "Court Book",
+      "imageUrl": "https://s3.courtbook.in/2026/10/advocate-4242452.webp",
+      "publishedAt": "2026-10-21T06:28:19.000Z",
+      "sentAt": "2026-10-21T12:13:23.878Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/2010094328589139492"
+    },
     {
       "notificationId": "trending-81dbda8001faf703",
       "articleId": "81dbda8001faf703",
