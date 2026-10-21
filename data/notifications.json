@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-21T17:32:53.288Z",
-  "count": 42,
+  "updatedAt": "2026-10-21T21:19:54.898Z",
+  "count": 43,
   "notifications": [
+    {
+      "notificationId": "trending-9f8933face266913",
+      "articleId": "9f8933face266913",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Ranji Trophy: Mumbai Thrash Himachal Pradesh By Innings & 97 Runs",
+      "sourceUrl": "https://www.news18.com/amp/cricket/ranji-trophy-mumbai-thrash-himachal-pradesh-by-innings-97-runs-ws-l-10392029.html",
+      "category": "National & Trending News",
+      "source": "News18",
+      "imageUrl": "https://images.news18.com/ibnlive/uploads/2026/10/Sarfaraz-Khan-has-been-dropped-for-two-match-Test-series-in-New-Zealand-2026-10-281fbb973412d4f2894f3a7e859e9e00-1200x675.jpg",
+      "publishedAt": "2026-10-21T20:01:07.000Z",
+      "sentAt": "2026-10-21T21:19:54.544Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/8458794988312027346"
+    },
     {
       "notificationId": "trending-13b97c022d56ea17",
       "articleId": "13b97c022d56ea17",
