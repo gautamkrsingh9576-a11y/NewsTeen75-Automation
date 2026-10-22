@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-22T00:06:50.165Z",
-  "count": 44,
+  "updatedAt": "2026-10-22T05:12:11.709Z",
+  "count": 45,
   "notifications": [
+    {
+      "notificationId": "trending-be41438037053b48",
+      "articleId": "be41438037053b48",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "School Leave update | பள்ளிகளுக்கு இன்று விடுமுறை | Tirunelveli | Heavy Rain | Tamil",
+      "sourceUrl": "https://tamil.news18.com/videos/tamil-nadu/school-leave-update-tirunelveli-heavy-rain-tamil-news-breaking-2236507.html",
+      "category": "National & Trending News",
+      "source": "News18 Tamil",
+      "imageUrl": "https://images.news18.com/tamil/uploads/2026/10/1792631777_9fed8eba-0b95-409b-8af3-bea69b5c9ed0-1200x675.jpeg",
+      "publishedAt": "2026-10-22T01:11:11.000Z",
+      "sentAt": "2026-10-22T05:12:11.369Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/8379236129734713310"
+    },
     {
       "notificationId": "trending-fd5f58faee8de782",
       "articleId": "fd5f58faee8de782",
