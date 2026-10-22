@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-22T15:30:58.182Z",
-  "count": 47,
+  "updatedAt": "2026-10-22T19:46:55.366Z",
+  "count": 48,
   "notifications": [
+    {
+      "notificationId": "trending-9832ab308510fde3",
+      "articleId": "9832ab308510fde3",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "The Hindu's top news of the day for October 22, 2026",
+      "sourceUrl": "https://www.thehindu.com/news/top-news-of-the-day-october-22-2026/article71611648.ece",
+      "category": "Crime & Breaking News",
+      "source": "The Hindu",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/60oroq/article71610977.ece/alternates/LANDSCAPE_1200/iStock-1206608929.jpg",
+      "publishedAt": "2026-10-22T12:46:55.000Z",
+      "sentAt": "2026-10-22T19:46:55.081Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-7866641555865123936"
+    },
     {
       "notificationId": "trending-b6a93617bd786773",
       "articleId": "b6a93617bd786773",
