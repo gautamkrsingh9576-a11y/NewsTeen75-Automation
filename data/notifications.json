@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-21T21:19:54.898Z",
-  "count": 43,
+  "updatedAt": "2026-10-22T00:06:50.165Z",
+  "count": 44,
   "notifications": [
+    {
+      "notificationId": "trending-fd5f58faee8de782",
+      "articleId": "fd5f58faee8de782",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Video of Chhattisgarh woman IPS officer firing AK-47 during Dussehra ritual sparks debate",
+      "sourceUrl": "https://www.dailyexcelsior.com/video-of-chhattisgarh-woman-ips-officer-firing-ak-47-during-dussehra-ritual-sparks-debate/",
+      "category": "National & Trending News",
+      "source": "Daily Excelsior",
+      "imageUrl": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYWI5MmViY2MwLWNkYTItMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
+      "publishedAt": "2026-10-21T22:56:55.000Z",
+      "sentAt": "2026-10-22T00:06:49.816Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/4430692972423761487"
+    },
     {
       "notificationId": "trending-9f8933face266913",
       "articleId": "9f8933face266913",
