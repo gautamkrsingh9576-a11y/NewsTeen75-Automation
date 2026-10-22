@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-22T05:12:11.709Z",
-  "count": 45,
+  "updatedAt": "2026-10-22T10:26:59.406Z",
+  "count": 46,
   "notifications": [
+    {
+      "notificationId": "trending-f5b2c1594a78f35a",
+      "articleId": "f5b2c1594a78f35a",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Discover the Authentic Flavours of Himachal Pradesh with the Himachal Dham Festival",
+      "sourceUrl": "https://hospibuz.com/hotel/Hotel-listicles/discover-the-authentic-flavours-of-himachal-pradesh-with-the-himachal-dham-festival-at-eros-hotel-new-delhi-12718517",
+      "category": "National & Trending News",
+      "source": "HospiBuz",
+      "imageUrl": "https://img-cdn.publive.online/fit-in/1200x675/hospibuz/media/media_files/2026/10/22/authentic-flavours-of-himachal-pradesh-at-eros-hotel-new-delhi-1-2026-10-22-12-55-32.jpeg",
+      "publishedAt": "2026-10-22T07:25:48.000Z",
+      "sentAt": "2026-10-22T10:26:59.038Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-2934308077428145868"
+    },
     {
       "notificationId": "trending-be41438037053b48",
       "articleId": "be41438037053b48",
