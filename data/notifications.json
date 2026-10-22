@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-22T19:46:55.366Z",
-  "count": 48,
+  "updatedAt": "2026-10-22T22:59:57.622Z",
+  "count": 49,
   "notifications": [
+    {
+      "notificationId": "trending-62711c55dc398c71",
+      "articleId": "62711c55dc398c71",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Legal action ordered against officials over irregularities in voter list in Pilibhit",
+      "sourceUrl": "https://www.thehindu.com/news/national/uttar-pradesh/legal-action-ordered-against-officials-over-irregularities-in-voter-list-in-pilibhit/article71613043.ece",
+      "category": "National & Trending News",
+      "source": "The Hindu",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/8yuyth/article71613328.ece/alternates/LANDSCAPE_1200/TH30-nearby0_G6GTKGJQ13J.3.jpg.jpg",
+      "publishedAt": "2026-10-22T21:00:00.000Z",
+      "sentAt": "2026-10-22T22:59:57.246Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/9209960685693101188"
+    },
     {
       "notificationId": "trending-9832ab308510fde3",
       "articleId": "9832ab308510fde3",
