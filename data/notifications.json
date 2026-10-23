@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-23T01:24:55.193Z",
-  "count": 50,
+  "updatedAt": "2026-10-23T06:19:48.429Z",
+  "count": 51,
   "notifications": [
+    {
+      "notificationId": "trending-a9a7513e738029aa",
+      "articleId": "a9a7513e738029aa",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Face-offs with China continuing along Arunachal border, says ITBP chief",
+      "sourceUrl": "https://www.indiatoday.in/amp/india/story/india-china-faceoff-arunachal-pradesh-border-itbp-chief-congress-pm-modi-3023232-2026-10-23",
+      "category": "National & Trending News",
+      "source": "India Today",
+      "imageUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/india-china-arunachal-pradesh-235242224-16x9_0.jpg?VersionId=V0nLXqQwY.WaIeMGwxLnN6RIYXH1uDWk",
+      "publishedAt": "2026-10-23T04:03:12.000Z",
+      "sentAt": "2026-10-23T06:19:47.921Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/7763863829885726152"
+    },
     {
       "notificationId": "trending-4f4e43100eb009f2",
       "articleId": "4f4e43100eb009f2",
