@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-23T16:41:57.641Z",
-  "count": 53,
+  "updatedAt": "2026-10-23T20:13:33.736Z",
+  "count": 54,
   "notifications": [
+    {
+      "notificationId": "trending-516107ba3a3267c1",
+      "articleId": "516107ba3a3267c1",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "New movies and shows arrive on streaming platforms this week",
+      "sourceUrl": "https://economictimes.indiatimes.com/magazines/panache/new-ott-releases-to-watch-this-week-9-new-movies-and-shows-on-netflix-jiohotstar-prime-video-zee5-and-more/articleshow/135061888.cms?from=mdr",
+      "category": "Crime & Breaking News",
+      "source": "The Economic Times",
+      "imageUrl": "https://img.etimg.com/thumb/msid-135062494,width-1200,height-900,imgsize-219425,overlay-etpanache/articleshow.jpg",
+      "publishedAt": "2026-10-23T17:54:45.000Z",
+      "sentAt": "2026-10-23T20:13:33.244Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-135344031927106353"
+    },
     {
       "notificationId": "trending-07fed1cc612d24e3",
       "articleId": "07fed1cc612d24e3",
