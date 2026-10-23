@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-23T06:19:48.429Z",
-  "count": 51,
+  "updatedAt": "2026-10-23T11:56:11.820Z",
+  "count": 52,
   "notifications": [
+    {
+      "notificationId": "trending-fe53b6b05bb4e23d",
+      "articleId": "fe53b6b05bb4e23d",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Kerala BJP leader surrenders year after Rs 8-cr heist in Qatar, claims he was",
+      "sourceUrl": "https://www.indiatoday.in/amp/india/kerala/story/qatar-doha-kmcc-rs-8-crore-robbery-kerala-suspect-surrenders-bjp-leader-3023421-2026-10-23",
+      "category": "National & Trending News",
+      "source": "India Today",
+      "imageUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/balakrishnan-claimed-he-was-deceived-into-participating-in-the-operation-without-knowing-that-the-ta-233105362-16x9_0.jpeg?VersionId=HUeCVuks3vkwhHw8RlEyQUbSv.cmeKo4",
+      "publishedAt": "2026-10-23T09:31:43.000Z",
+      "sentAt": "2026-10-23T11:56:11.389Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/1996724105842445244"
+    },
     {
       "notificationId": "trending-a9a7513e738029aa",
       "articleId": "a9a7513e738029aa",
