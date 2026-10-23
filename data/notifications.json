@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-23T20:13:33.736Z",
-  "count": 54,
+  "updatedAt": "2026-10-23T23:19:59.419Z",
+  "count": 55,
   "notifications": [
+    {
+      "notificationId": "trending-530808a3dec0c65d",
+      "articleId": "530808a3dec0c65d",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Nagaland State Lottery Sambad 22.10.2026 Today 1PM, 6PM & 8PM; Dear Thursday Lottery Live",
+      "sourceUrl": "https://www.goodreturns.in/news/nagaland-state-lottery-sambad-22-10-2026-today-1pm-6pm-8pm-dear-thursday-lottery-live-winners-list-1542981.html",
+      "category": "National & Trending News",
+      "source": "Goodreturns",
+      "imageUrl": "https://images.goodreturns.in/img/2026/10/nagalandstatelotteryresulttoday3-82521792652894.jpg",
+      "publishedAt": "2026-10-23T19:55:40.000Z",
+      "sentAt": "2026-10-23T23:19:59.143Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-5884120859284778673"
+    },
     {
       "notificationId": "trending-516107ba3a3267c1",
       "articleId": "516107ba3a3267c1",
