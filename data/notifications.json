@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-24T18:19:50.098Z",
-  "count": 60,
+  "updatedAt": "2026-10-24T21:04:04.984Z",
+  "count": 61,
   "notifications": [
+    {
+      "notificationId": "trending-7b5011128d06419f",
+      "articleId": "7b5011128d06419f",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Madhya Pradesh CM Mohan Yadav releases ₹318 crore for crop insurance; here's how farmers",
+      "sourceUrl": "https://www.livemint.com/money/madhya-pradesh-cm-mohan-yadav-releases-318-crore-for-crop-insurance-heres-how-farmers-can-check-payment-status-11792862938336.html",
+      "category": "National & Trending News",
+      "source": "Livemint",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/24/1600x900/logo/PTI07-13-6_1792866140541_qisA_1792866141121_EH2H_8bd8fd37-72cd-4bf6-97f5-1cbcb32c1620_7I9a.jpg",
+      "publishedAt": "2026-10-24T18:27:26.000Z",
+      "sentAt": "2026-10-24T21:04:04.564Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/2633131786271039909"
+    },
     {
       "notificationId": "trending-f0201c84951fca53",
       "articleId": "f0201c84951fca53",
