@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-24T06:55:13.107Z",
-  "count": 57,
+  "updatedAt": "2026-10-24T11:52:40.999Z",
+  "count": 58,
   "notifications": [
+    {
+      "notificationId": "trending-ec79bdab7625273a",
+      "articleId": "ec79bdab7625273a",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Tiger Shroff Firing Case: Handlers Alerted Shooters After Seeing Faces On TV, Say Police",
+      "sourceUrl": "https://www.news18.com/india/tiger-shroff-firing-case-handlers-alerted-shooters-after-seeing-faces-on-tv-say-police-ws-l-10395575.html",
+      "category": "Crime & Breaking News",
+      "source": "News18",
+      "imageUrl": "https://images.news18.com/ibnlive/uploads/2026/10/MixCollage-23-Oct-2026-01-47-PM-3003-2026-10-574e74a4fb8210ebce836821c7443186-1200x675.jpg",
+      "publishedAt": "2026-10-24T04:05:38.000Z",
+      "sentAt": "2026-10-24T11:52:40.706Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/7575251147219921631"
+    },
     {
       "notificationId": "trending-a37e68a9de708e27",
       "articleId": "a37e68a9de708e27",
