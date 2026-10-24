@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-24T01:49:25.756Z",
-  "count": 56,
+  "updatedAt": "2026-10-24T06:55:13.107Z",
+  "count": 57,
   "notifications": [
+    {
+      "notificationId": "trending-a37e68a9de708e27",
+      "articleId": "a37e68a9de708e27",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Two sectors in Arunachal's Taksing remain sensitive, no clashes reported: Sources",
+      "sourceUrl": "https://www.indiatoday.in/india/story/arunachal-pradesh-lac-asaphila-longju-stable-india-china-patrol-friction-3023979-2026-10-24",
+      "category": "National & Trending News",
+      "source": "India Today",
+      "imageUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/india-china-border-lac-245452559-16x9_0.jpg?VersionId=cCMZpnRzmqG1JgODVAN_j1enuvP_sSPP",
+      "publishedAt": "2026-10-24T04:06:39.000Z",
+      "sentAt": "2026-10-24T06:55:12.821Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/570053243651161726"
+    },
     {
       "notificationId": "trending-533f336a8520b7ae",
       "articleId": "533f336a8520b7ae",
