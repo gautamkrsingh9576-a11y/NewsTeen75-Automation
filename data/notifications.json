@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-23T23:19:59.419Z",
-  "count": 55,
+  "updatedAt": "2026-10-24T01:49:25.756Z",
+  "count": 56,
   "notifications": [
+    {
+      "notificationId": "trending-533f336a8520b7ae",
+      "articleId": "533f336a8520b7ae",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Van Dyke appears before court in Manipur arms case",
+      "sourceUrl": "https://www.tribuneindia.com/news/india/van-dyke-appears-before-court-in-manipur-arms-case/amp",
+      "category": "National & Trending News",
+      "source": "The Tribune",
+      "imageUrl": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTE3YjZkMjQwLWNmMWItMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
+      "publishedAt": "2026-10-23T19:47:49.000Z",
+      "sentAt": "2026-10-24T01:49:25.366Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-4570901284682510501"
+    },
     {
       "notificationId": "trending-530808a3dec0c65d",
       "articleId": "530808a3dec0c65d",
