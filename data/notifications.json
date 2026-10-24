@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-24T11:52:40.999Z",
-  "count": 58,
+  "updatedAt": "2026-10-24T15:29:36.940Z",
+  "count": 59,
   "notifications": [
+    {
+      "notificationId": "trending-9bbc123eddf3bcf8",
+      "articleId": "9bbc123eddf3bcf8",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Karnataka government plans discounted fares for Golden Chariot tourist train during",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/karnataka-government-plans-discounted-fares-for-golden-chariot-tourist-train-during-off-season/article71619856.ece",
+      "category": "National & Trending News",
+      "source": "The Hindu",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/dlf5sr/article71620171.ece/alternates/LANDSCAPE_1200/ALL_5125A.JPG",
+      "publishedAt": "2026-10-24T13:12:40.000Z",
+      "sentAt": "2026-10-24T15:29:36.381Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-2796123332158296882"
+    },
     {
       "notificationId": "trending-ec79bdab7625273a",
       "articleId": "ec79bdab7625273a",
