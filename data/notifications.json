@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-24T15:29:36.940Z",
-  "count": 59,
+  "updatedAt": "2026-10-24T18:19:50.098Z",
+  "count": 60,
   "notifications": [
+    {
+      "notificationId": "trending-f0201c84951fca53",
+      "articleId": "f0201c84951fca53",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Odisha Cancels Leave of Collectors & Critical Officers Due to Ensuing Cyclone",
+      "sourceUrl": "https://pragativadi.com/odisha-cancels-leave-of-collectors-critical-officers-due-to-ensuing-cyclone/",
+      "category": "National & Trending News",
+      "source": "Pragativadi",
+      "imageUrl": "https://pragativadi.com/wp-content/uploads/2026/02/oas-transfer.jpg",
+      "publishedAt": "2026-10-24T16:23:55.000Z",
+      "sentAt": "2026-10-24T18:19:49.703Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-4912785539702067727"
+    },
     {
       "notificationId": "trending-9bbc123eddf3bcf8",
       "articleId": "9bbc123eddf3bcf8",
