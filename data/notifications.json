@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-24T23:32:43.232Z",
-  "count": 62,
+  "updatedAt": "2026-10-25T03:30:40.487Z",
+  "count": 63,
   "notifications": [
+    {
+      "notificationId": "trending-19ca958eb150dfb4",
+      "articleId": "19ca958eb150dfb4",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Over 17 lakh applications seeking grant of land remain pending or rejected in Karnataka",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/over-17-lakh-applications-seeking-grant-of-land-remain-pending-or-rejected-in-karnataka/article71511944.ece",
+      "category": "National & Trending News",
+      "source": "The Hindu",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/pckhce/article71620738.ece/alternates/LANDSCAPE_1200/9911_26_9_2024_22_8_12_3_MUDIGERE_3.JPG",
+      "publishedAt": "2026-10-25T01:30:00.000Z",
+      "sentAt": "2026-10-25T03:30:39.465Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-2807984277671349675"
+    },
     {
       "notificationId": "trending-3b5f8523f77633e1",
       "articleId": "3b5f8523f77633e1",
