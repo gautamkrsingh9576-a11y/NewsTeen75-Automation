@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-25T17:26:45.136Z",
-  "count": 66,
+  "updatedAt": "2026-10-25T19:53:36.380Z",
+  "count": 67,
   "notifications": [
+    {
+      "notificationId": "trending-799f1e42cb63b850",
+      "articleId": "799f1e42cb63b850",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Mumbai Crime Branch Arrests Man and Seizes Hashish Worth Rs 1.5 Crore",
+      "sourceUrl": "https://urbanacres.in/mumbai-hashish-seizure-crime-branch-arrests-man-in-bandra/",
+      "category": "Crime & Breaking News",
+      "source": "urbanacres.in",
+      "imageUrl": "https://urbanacres.in/wp-content/uploads/2026/10/urban-acres-news-260794.webp",
+      "publishedAt": "2026-10-25T18:49:49.000Z",
+      "sentAt": "2026-10-25T19:53:36.152Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/905209213883989009"
+    },
     {
       "notificationId": "trending-215aeedb53463381",
       "articleId": "215aeedb53463381",
