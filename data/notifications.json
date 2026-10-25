@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-25T03:30:40.487Z",
-  "count": 63,
+  "updatedAt": "2026-10-25T08:58:44.242Z",
+  "count": 64,
   "notifications": [
+    {
+      "notificationId": "trending-218edd127d50f1e1",
+      "articleId": "218edd127d50f1e1",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Aaj Tak Vertical Live TV: Watch Hindi Breaking News Live in Vertical Format",
+      "sourceUrl": "https://www.aajtak.in/vertical-livetv",
+      "category": "Crime & Breaking News",
+      "source": "AajTak",
+      "imageUrl": "https://akm-img-a-in.tosshub.com/aajtak/resources/at-vertical-tv-v2-647x404.png",
+      "publishedAt": "2026-10-25T06:19:18.000Z",
+      "sentAt": "2026-10-25T08:58:43.594Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/5346409899267856899"
+    },
     {
       "notificationId": "trending-19ca958eb150dfb4",
       "articleId": "19ca958eb150dfb4",
