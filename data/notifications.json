@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-25T19:53:36.380Z",
-  "count": 67,
+  "updatedAt": "2026-10-25T22:20:08.311Z",
+  "count": 68,
   "notifications": [
+    {
+      "notificationId": "trending-d36b1e9a69de0e39",
+      "articleId": "d36b1e9a69de0e39",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Kerala Blasters' takeover and Inter Kashi's wage row show money pressures on ISL teams",
+      "sourceUrl": "https://www.livemint.com/sports/football-news/kerala-blasters-takeover-and-inter-kashis-wage-row-show-money-pressures-on-isl-teams-under-the-new-club-run-model-11792961474045.html",
+      "category": "National & Trending News",
+      "source": "Livemint",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/25/1600x900/logo/HVeu3YibQAA9cKa_1792961815137_N9Fn_1792961819975_BQyQ_43453a16-f2a6-44a7-8ee2-e3fc45047651_6i2p.jpg",
+      "publishedAt": "2026-10-25T21:25:45.000Z",
+      "sentAt": "2026-10-25T22:20:07.843Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/2554039985607651502"
+    },
     {
       "notificationId": "trending-799f1e42cb63b850",
       "articleId": "799f1e42cb63b850",
