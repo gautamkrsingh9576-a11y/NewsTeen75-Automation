@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-25T08:58:44.242Z",
-  "count": 64,
+  "updatedAt": "2026-10-25T13:40:09.494Z",
+  "count": 65,
   "notifications": [
+    {
+      "notificationId": "trending-cf1bfec6ee9ab383",
+      "articleId": "cf1bfec6ee9ab383",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Odisha Deploys 30 Disaster Teams, Activates 24/7 Control Rooms Ahead of Cyclone",
+      "sourceUrl": "https://pragativadi.com/odisha-deploys-30-disaster-teams-activates-24-7-control-rooms-ahead-of-cyclone/",
+      "category": "National & Trending News",
+      "source": "Pragativadi",
+      "imageUrl": "https://pragativadi.com/wp-content/uploads/2026/10/cyclone-2.jpg",
+      "publishedAt": "2026-10-25T11:54:57.000Z",
+      "sentAt": "2026-10-25T13:40:08.943Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/3069229764291587266"
+    },
     {
       "notificationId": "trending-218edd127d50f1e1",
       "articleId": "218edd127d50f1e1",
