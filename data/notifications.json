@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-25T13:40:09.494Z",
-  "count": 65,
+  "updatedAt": "2026-10-25T17:26:45.136Z",
+  "count": 66,
   "notifications": [
+    {
+      "notificationId": "trending-215aeedb53463381",
+      "articleId": "215aeedb53463381",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Haryana guest teachers demand regularisation of services, march to Chandigarh",
+      "sourceUrl": "https://www.thehindu.com/news/national/haryana/haryana-guest-teachers-demand-regularisation-of-services-march-to-chandigarh/article71623748.ece",
+      "category": "National & Trending News",
+      "source": "The Hindu",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/3ruvzm/article71624134.ece/alternates/LANDSCAPE_1200/20261025272L.jpg",
+      "publishedAt": "2026-10-25T15:34:40.000Z",
+      "sentAt": "2026-10-25T17:26:44.669Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-3848518844426602909"
+    },
     {
       "notificationId": "trending-cf1bfec6ee9ab383",
       "articleId": "cf1bfec6ee9ab383",
