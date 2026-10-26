@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-26T05:48:32.762Z",
-  "count": 70,
+  "updatedAt": "2026-10-26T12:22:45.362Z",
+  "count": 71,
   "notifications": [
+    {
+      "notificationId": "trending-6c24fa5f505446dd",
+      "articleId": "6c24fa5f505446dd",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Heavy Rain Forces School Closures in Parts of Tamil Nadu; Red Alert Issued",
+      "sourceUrl": "https://ddindia.co.in/2026/10/heavy-rain-forces-school-closures-in-parts-of-tamil-nadu-red-alert-issued-for-theni/",
+      "category": "National & Trending News",
+      "source": "DD India",
+      "imageUrl": "https://ddindia.co.in/wp-content/uploads/2026/10/Rainy-Campus-Walk-Under-Umbrellas-1024x576.png",
+      "publishedAt": "2026-10-26T06:52:00.000Z",
+      "sentAt": "2026-10-26T12:22:44.997Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/1567934137501100995"
+    },
     {
       "notificationId": "trending-02daa731ed6b44cb",
       "articleId": "02daa731ed6b44cb",
