@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-25T22:20:08.311Z",
-  "count": 68,
+  "updatedAt": "2026-10-26T00:34:15.940Z",
+  "count": 69,
   "notifications": [
+    {
+      "notificationId": "trending-0082c87aa3833319",
+      "articleId": "0082c87aa3833319",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Selaulim Reservoir Water Supply Faces New Goa Risk",
+      "sourceUrl": "https://urbanacres.in/selaulim-reservoirs-early-spillover-exposes-goas-water-risk/",
+      "category": "National & Trending News",
+      "source": "urbanacres.in",
+      "imageUrl": "https://urbanacres.in/wp-content/uploads/2026/10/urban-acres-news-261466.webp",
+      "publishedAt": "2026-10-25T23:24:18.000Z",
+      "sentAt": "2026-10-26T00:34:15.445Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-7580066380440174523"
+    },
     {
       "notificationId": "trending-d36b1e9a69de0e39",
       "articleId": "d36b1e9a69de0e39",
