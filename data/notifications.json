@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-26T12:22:45.362Z",
-  "count": 71,
+  "updatedAt": "2026-10-26T18:49:09.688Z",
+  "count": 72,
   "notifications": [
+    {
+      "notificationId": "trending-93ea8c476817ec85",
+      "articleId": "93ea8c476817ec85",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Women’s Financial Inclusion in the Andaman and Nicobar Islands: A Policy Review",
+      "sourceUrl": "https://www.impriindia.com/insights/womenfincialinclusnandmannicbrshgs2024/",
+      "category": "National & Trending News",
+      "source": "IMPRI Impact and Policy Research Institute",
+      "imageUrl": "https://i0.wp.com/www.impriindia.com/wp-content/uploads/2026/10/PU-posting-2.0-2.jpg.jpeg",
+      "publishedAt": "2026-10-26T13:45:36.000Z",
+      "sentAt": "2026-10-26T18:49:09.150Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-3134112561336790643"
+    },
     {
       "notificationId": "trending-6c24fa5f505446dd",
       "articleId": "6c24fa5f505446dd",
