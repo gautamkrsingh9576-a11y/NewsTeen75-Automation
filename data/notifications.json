@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-26T00:34:15.940Z",
-  "count": 69,
+  "updatedAt": "2026-10-26T05:48:32.762Z",
+  "count": 70,
   "notifications": [
+    {
+      "notificationId": "trending-02daa731ed6b44cb",
+      "articleId": "02daa731ed6b44cb",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "IMD weather today: ‘Red’ alert for heavy rains in Odisha, Kerala, Tamil Nadu",
+      "sourceUrl": "https://www.livemint.com/news/india/imd-weather-today-red-alert-for-heavy-rains-in-odisha-kerala-tamil-nadu-as-severe-cyclonic-storm-nears-andhra-11792976086151.html",
+      "category": "National & Trending News",
+      "source": "Livemint",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/26/1600x900/logo/PTI10-24-2026-000288B-0_1792978023361_1SJy_1792978048840_o8Jo_ec936faf-ab6e-40b8-a1d6-3ab228d88c8f_pnGV.jpg",
+      "publishedAt": "2026-10-26T01:37:05.000Z",
+      "sentAt": "2026-10-26T05:48:32.478Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-4616818810783104450"
+    },
     {
       "notificationId": "trending-0082c87aa3833319",
       "articleId": "0082c87aa3833319",
