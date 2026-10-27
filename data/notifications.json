@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-26T23:02:50.151Z",
-  "count": 73,
+  "updatedAt": "2026-10-27T02:18:59.174Z",
+  "count": 74,
   "notifications": [
+    {
+      "notificationId": "trending-36d108d5cd1e3a45",
+      "articleId": "36d108d5cd1e3a45",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Nagaland Dear Lottery Result Today 24.10.2026 1 PM 6 PM 8 PM | Lottery",
+      "sourceUrl": "https://www.goodreturns.in/news/nagaland-dear-lottery-result-today-24-10-2026-1-pm-6-pm-8-pm-lottery-sambad-live-full-winners-list-1543261.html",
+      "category": "National & Trending News",
+      "source": "Goodreturns",
+      "imageUrl": "https://images.goodreturns.in/img/2026/10/nagalandstatelotteryresulttoday-95721792824591.jpg",
+      "publishedAt": "2026-10-26T22:35:43.000Z",
+      "sentAt": "2026-10-27T02:18:58.764Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/7195844508657962610"
+    },
     {
       "notificationId": "trending-0e6b43ba1d133a30",
       "articleId": "0e6b43ba1d133a30",
