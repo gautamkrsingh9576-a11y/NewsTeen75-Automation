@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-27T08:13:55.173Z",
-  "count": 75,
+  "updatedAt": "2026-10-27T14:49:16.839Z",
+  "count": 76,
   "notifications": [
+    {
+      "notificationId": "trending-44a9d1ad99faf5fe",
+      "articleId": "44a9d1ad99faf5fe",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Ladakh Liquor Row: Women’s Protest Enters Sixth Day as Sonam Wangchuk Targets LG",
+      "sourceUrl": "https://kashmirlife.net/ladakh-liquor-row-womens-protest-enters-sixth-day-as-sonam-wangchuk-targets-lg-458530/",
+      "category": "National & Trending News",
+      "source": "Kashmir Life",
+      "imageUrl": "https://kashmirlife.net/wp-content/uploads/2019/03/4b2b848c-0299-4143-b77d-33517ef2802f.jpg",
+      "publishedAt": "2026-10-27T14:03:57.000Z",
+      "sentAt": "2026-10-27T14:49:16.405Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-13856804041449198"
+    },
     {
       "notificationId": "trending-2205c70cd076f2bc",
       "articleId": "2205c70cd076f2bc",
