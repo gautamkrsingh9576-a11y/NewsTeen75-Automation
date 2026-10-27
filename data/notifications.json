@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-27T02:18:59.174Z",
-  "count": 74,
+  "updatedAt": "2026-10-27T08:13:55.173Z",
+  "count": 75,
   "notifications": [
+    {
+      "notificationId": "trending-2205c70cd076f2bc",
+      "articleId": "2205c70cd076f2bc",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "New tremors: Editorial on India-China border tensions and persistent face-offs",
+      "sourceUrl": "https://www.telegraphindia.com/opinion/new-tremors-editorial-on-india-china-border-tensions-and-persistent-face-offs-in-arunachal-pradesh-prnt/cid/2186439",
+      "category": "National & Trending News",
+      "source": "Telegraph India",
+      "imageUrl": "https://assets.telegraphindia.com/telegraph/2026/Sep/1789350054_1721643911_1708517674_1693318696_1686561228_india-china.jpg",
+      "publishedAt": "2026-10-27T02:19:52.000Z",
+      "sentAt": "2026-10-27T08:13:54.682Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/3178077747710915635"
+    },
     {
       "notificationId": "trending-36d108d5cd1e3a45",
       "articleId": "36d108d5cd1e3a45",
