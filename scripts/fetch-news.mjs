@@ -81,6 +81,9 @@ const biharCategories = [
   { name: "Technology", query: "(Bihar OR Patna) technology AI startup digital when:2d" },
   { name: "Business & Finance", query: "(Bihar OR Patna) business startup funding economy market when:2d" },
   { name: "National & Trending News", query: "(Bihar OR Patna) local development education infrastructure trending when:2d" },
+  { name: "National & Trending News", query: "Bihar BPSC BSEB education jobs university school when:2d" },
+  { name: "National & Trending News", query: "Bihar Patna Gaya Muzaffarpur Darbhanga Bhagalpur latest local news when:2d" },
+  { name: "National & Trending News", query: "Bihar road railway weather flood development infrastructure when:2d" },
 ];
 
 const STATE_REGIONS = [
@@ -1379,8 +1382,6 @@ function textMatchesTerms(text, terms = []) {
 function inferStateSlug(article) {
   const explicit = String(article?.__stateSlug || "").trim().toLowerCase();
 
-  if (explicit) return explicit;
-
   const text = [
     article?.title,
     article?.summary,
@@ -1391,7 +1392,23 @@ function inferStateSlug(article) {
     .join(" ")
     .toLowerCase();
 
-  if (!text) return null;
+  if (!text) {
+    return explicit && explicit !== "bihar" ? explicit : null;
+  }
+
+  // Bihar search results must contain a real Bihar signal before they can
+  // be tagged as Bihar. This prevents unrelated Google News results from
+  // inflating the Bihar half of the feed.
+  if (
+    explicit === "bihar" &&
+    textMatchesTerms(text, STATE_LOCATION_TERMS.bihar || [])
+  ) {
+    return "bihar";
+  }
+
+  if (explicit && explicit !== "bihar") {
+    return explicit;
+  }
 
   for (const [slug, terms] of Object.entries(STATE_LOCATION_TERMS)) {
     if (textMatchesTerms(text, terms)) return slug;
