@@ -122,7 +122,20 @@ const STATE_REGIONS = [
 ];
 
 const STATE_LOCATION_TERMS = {
-  "bihar": ["bihar", "patna", "gaya", "muzaffarpur", "bhagalpur", "darbhanga", "nalanda", "bihar sharif", "purnia", "begusarai", "samastipur", "madhubani", "sitamarhi", "motihari", "bettiah", "katihar", "kishanganj", "arrah", "buxar", "sasaram", "rohtas", "nawada", "jamui", "munger", "hajipur", "vaishali", "siwan", "chapra", "saharsa", "supaul", "madhepura", "araria", "khagaria"],
+  "bihar": [
+    "bihar", "patna", "gaya", "muzaffarpur", "bhagalpur", "darbhanga",
+    "nalanda", "bihar sharif", "purnia", "begusarai", "samastipur",
+    "madhubani", "sitamarhi", "motihari", "bettiah", "katihar",
+    "kishanganj", "arrah", "buxar", "sasaram", "rohtas", "nawada",
+    "jamui", "munger", "hajipur", "vaishali", "siwan", "chapra",
+    "saran", "saharsa", "supaul", "madhepura", "araria", "khagaria",
+    "jehanabad", "aurangabad bihar", "kaimur", "gopalganj", "sheohar",
+    "lakhisarai", "sheikhpura", "banka", "bhojpur", "east champaran",
+    "west champaran", "purbi champaran", "pashchim champaran",
+    "bpsc", "bihar public service commission", "bihar board",
+    "bseb", "bihar police", "patna high court", "bihar government",
+    "bihar govt", "bihar assembly", "bihar vidhan sabha"
+  ],
   "andhra-pradesh": ["andhra pradesh", "visakhapatnam", "vijayawada", "tirupati", "guntur", "nellore"],
   "arunachal-pradesh": ["arunachal pradesh", "itanagar", "tawang"],
   "assam": ["assam", "guwahati", "dibrugarh", "silchar", "jorhat"],
@@ -1387,14 +1400,66 @@ function inferStateSlug(article) {
   return null;
 }
 
-function isBiharArticle(article) {
-  return inferStateSlug(article) === "bihar";
+function verifiedBiharText(article) {
+  return [
+    article?.title,
+    article?.summary,
+    article?.description,
+    article?.source,
+  ]
+    .filter(Boolean)
+    .join(" ")
+    .toLowerCase();
 }
 
-function selectLatestArticles(articles, limit = MAX_ARTICLES) {
-  return [...articles]
-    .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt))
-    .slice(0, limit);
+function isBiharArticle(article) {
+  const text = verifiedBiharText(article);
+
+  if (!text) return false;
+
+  return textMatchesTerms(
+    text,
+    STATE_LOCATION_TERMS.bihar || []
+  );
+}
+
+function publishedTime(article) {
+  const value = new Date(article?.publishedAt || 0).getTime();
+  return Number.isFinite(value) ? value : 0;
+}
+
+function selectBalancedBiharIndiaArticles(
+  articles,
+  limit = MAX_ARTICLES
+) {
+  const sorted = [...articles].sort(
+    (a, b) => publishedTime(b) - publishedTime(a)
+  );
+
+  const bihar = sorted.filter(isBiharArticle);
+  const allIndia = sorted.filter(
+    (article) => !isBiharArticle(article)
+  );
+
+  const pairLimit = Math.floor(limit / 2);
+  const pairCount = Math.min(
+    pairLimit,
+    bihar.length,
+    allIndia.length
+  );
+
+  if (pairCount <= 0) {
+    return [];
+  }
+
+  const selected = [];
+
+  for (let index = 0; index < pairCount; index += 1) {
+    selected.push(bihar[index]);
+    selected.push(allIndia[index]);
+  }
+
+  return selected;
 }
 async function resolvePublisherUrl(url) {
   if (!url) return "";
@@ -1814,10 +1879,25 @@ async function main() {
     ]).filter(articleHasRequiredQuality)
   );
 
-  const selected = selectLatestArticles(
+  const selected = selectBalancedBiharIndiaArticles(
     eligible,
     MAX_ARTICLES
   );
+
+  if (!selected.length) {
+    console.warn(
+      "Balanced feed update skipped: both Bihar and All India articles are required to preserve the strict 50:50 ratio."
+    );
+
+    await recordIngestionRun({
+      status: "success",
+      fetchedCount: newArticles.length,
+      feedCount: previousArticles.length,
+      archivedCount: 0,
+    });
+
+    return;
+  }
 
   const translatedSelected = [];
 
@@ -1854,10 +1934,8 @@ async function main() {
     return;
   }
 
-  const stateTaggedCount = selected.filter(
-    (article) => Boolean(inferStateSlug(article))
-  ).length;
-  const generalCount = selected.length - stateTaggedCount;
+  const biharCount = selected.filter(isBiharArticle).length;
+  const allIndiaCount = selected.length - biharCount;
 
   const output = {
     updatedAt: new Date().toISOString(),
@@ -1877,7 +1955,7 @@ async function main() {
   console.log(
     `Fetched ${newArticles.length} new candidate article(s). ` +
       `Archive synced ${archiveResult.synced}. ` +
-      `Final feed: ${generalCount} general / ${stateTaggedCount} state-tagged / ${outputArticles.length} total.`
+      `Final feed: ${biharCount} Bihar / ${allIndiaCount} All India / ${outputArticles.length} total (strict 50:50).`
   );
 }
 
