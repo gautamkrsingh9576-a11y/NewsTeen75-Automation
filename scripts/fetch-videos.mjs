@@ -365,39 +365,162 @@ function languageAllowed(snippet = {}) {
   return !language || String(language).toLowerCase().startsWith("hi");
 }
 
+const PREFERRED_VIDEO_CATEGORY_ORDER = [
+  "politics",
+  "finance",
+  "entertainment",
+  "sports",
+  "technology",
+];
+
+function videoPublishedTime(video) {
+  const value = video?.published_at || video?.publishedAt || null;
+  const timestamp = new Date(value || 0).getTime();
+  return Number.isFinite(timestamp) ? timestamp : 0;
+}
+
+function videoChannelKey(video) {
+  return String(
+    video?.channel_name ||
+    video?.channelName ||
+    video?.channel_id ||
+    video?.channelId ||
+    "unknown"
+  )
+    .trim()
+    .toLowerCase();
+}
+
 function mixVideosByCategory(videos = [], limit = VIDEO_FEED_MAX) {
-  const groups = new Map();
+  const categoryGroups = new Map();
 
   for (const video of videos) {
-    const category = String(video?.category || "uncategorized").trim().toLowerCase();
-    if (!groups.has(category)) groups.set(category, []);
-    groups.get(category).push(video);
+    const category = String(video?.category || "uncategorized")
+      .trim()
+      .toLowerCase();
+    const channelKey = videoChannelKey(video);
+
+    if (!categoryGroups.has(category)) {
+      categoryGroups.set(category, new Map());
+    }
+
+    const channelGroups = categoryGroups.get(category);
+
+    if (!channelGroups.has(channelKey)) {
+      channelGroups.set(channelKey, []);
+    }
+
+    channelGroups.get(channelKey).push(video);
   }
 
-  for (const group of groups.values()) {
-    group.sort(
-      (a, b) =>
-        new Date(b.published_at || 0).getTime() -
-        new Date(a.published_at || 0).getTime()
+  for (const channelGroups of categoryGroups.values()) {
+    for (const channelVideos of channelGroups.values()) {
+      channelVideos.sort(
+        (a, b) => videoPublishedTime(b) - videoPublishedTime(a)
+      );
+    }
+  }
+
+  const discoveredCategories = [...categoryGroups.keys()];
+  const categoryOrder = [
+    ...PREFERRED_VIDEO_CATEGORY_ORDER.filter((category) =>
+      categoryGroups.has(category)
+    ),
+    ...discoveredCategories
+      .filter(
+        (category) =>
+          !PREFERRED_VIDEO_CATEGORY_ORDER.includes(category)
+      )
+      .sort((a, b) => {
+        const newestInCategory = (category) =>
+          Math.max(
+            ...[...categoryGroups.get(category).values()].map(
+              (channelVideos) =>
+                videoPublishedTime(channelVideos[0])
+            )
+          );
+
+        return newestInCategory(b) - newestInCategory(a);
+      }),
+  ];
+
+  const channelOrderByCategory = new Map();
+  const nextChannelIndexByCategory = new Map();
+
+  for (const category of categoryOrder) {
+    const channelGroups = categoryGroups.get(category);
+    const channelOrder = [...channelGroups.keys()].sort((a, b) => {
+      const aTime = videoPublishedTime(channelGroups.get(a)?.[0]);
+      const bTime = videoPublishedTime(channelGroups.get(b)?.[0]);
+      return bTime - aTime;
+    });
+
+    channelOrderByCategory.set(category, channelOrder);
+    nextChannelIndexByCategory.set(category, 0);
+  }
+
+  function takeNextVideo(category, lastChannelKey) {
+    const channelGroups = categoryGroups.get(category);
+    const channelOrder = channelOrderByCategory.get(category) || [];
+
+    if (!channelGroups || !channelOrder.length) return null;
+
+    const startIndex =
+      nextChannelIndexByCategory.get(category) || 0;
+
+    let fallback = null;
+
+    for (let offset = 0; offset < channelOrder.length; offset += 1) {
+      const index = (startIndex + offset) % channelOrder.length;
+      const channelKey = channelOrder[index];
+      const channelVideos = channelGroups.get(channelKey);
+
+      if (!channelVideos?.length) continue;
+
+      const candidate = {
+        video: channelVideos[0],
+        channelKey,
+        nextIndex: (index + 1) % channelOrder.length,
+      };
+
+      if (!fallback) fallback = candidate;
+
+      if (channelKey !== lastChannelKey) {
+        channelVideos.shift();
+        nextChannelIndexByCategory.set(
+          category,
+          candidate.nextIndex
+        );
+        return candidate.video;
+      }
+    }
+
+    if (!fallback) return null;
+
+    channelGroups.get(fallback.channelKey).shift();
+    nextChannelIndexByCategory.set(
+      category,
+      fallback.nextIndex
     );
+    return fallback.video;
   }
-
-  const categoryOrder = [...groups.keys()].sort((a, b) => {
-    const aTime = new Date(groups.get(a)?.[0]?.published_at || 0).getTime();
-    const bTime = new Date(groups.get(b)?.[0]?.published_at || 0).getTime();
-    return bTime - aTime;
-  });
 
   const mixed = [];
+  let lastChannelKey = "";
 
   while (mixed.length < limit) {
     let addedThisRound = false;
 
     for (const category of categoryOrder) {
-      const group = groups.get(category);
-      if (!group?.length) continue;
+      const nextVideo = takeNextVideo(
+        category,
+        lastChannelKey
+      );
 
-      mixed.push(group.shift());
+      if (!nextVideo) continue;
+
+      mixed.push(nextVideo);
+      lastChannelKey = videoChannelKey(nextVideo);
       addedThisRound = true;
 
       if (mixed.length >= limit) break;
