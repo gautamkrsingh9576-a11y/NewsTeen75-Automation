@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-28T10:44:26.402Z",
-  "count": 80,
+  "updatedAt": "2026-10-28T17:00:38.584Z",
+  "count": 81,
   "notifications": [
+    {
+      "notificationId": "trending-22e2fbbe6b1fcff5",
+      "articleId": "22e2fbbe6b1fcff5",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Kerala Crime Branch Interrogates Judge in Minor Son's Car Accident Case",
+      "sourceUrl": "https://www.lokmattimes.com/national/kerala-crime-branch-interrogates-judge-in-minor-sons-car-accident-case-a001-w03/",
+      "category": "Crime & Breaking News",
+      "source": "Lokmat Times",
+      "imageUrl": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/PTI-kerala-crime-branch-interrogates-judge-in-minor-son-car-accident-case_202610.jpg",
+      "publishedAt": "2026-10-28T15:25:45.000Z",
+      "sentAt": "2026-10-28T17:00:38.071Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-7533617863832142061"
+    },
     {
       "notificationId": "trending-26fae5274272cdf4",
       "articleId": "26fae5274272cdf4",
