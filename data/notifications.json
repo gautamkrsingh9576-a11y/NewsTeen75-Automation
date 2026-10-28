@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-28T17:00:38.584Z",
-  "count": 81,
+  "updatedAt": "2026-10-28T21:49:35.700Z",
+  "count": 82,
   "notifications": [
+    {
+      "notificationId": "trending-9099a16417c76416",
+      "articleId": "9099a16417c76416",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Pune Police Arrest Fourteen New Constables Over Fake Sports Certificates",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/pune/pune-crime-branch-arrests-14-newly-recruited-constables-in-fake-kurash-certificate-case/articleshow/135279441.cms?utm_source=newsletter&utm_medium=email&utm_campaign=amp_rss",
+      "category": "Crime & Breaking News",
+      "source": "The Times of India",
+      "imageUrl": "https://static.toiimg.com/thumb/msid-135279433,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-10-28T19:55:00.000Z",
+      "sentAt": "2026-10-28T21:49:35.469Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/4710050218201501679"
+    },
     {
       "notificationId": "trending-22e2fbbe6b1fcff5",
       "articleId": "22e2fbbe6b1fcff5",
