@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-28T04:22:10.416Z",
-  "count": 79,
+  "updatedAt": "2026-10-28T10:44:26.402Z",
+  "count": 80,
   "notifications": [
+    {
+      "notificationId": "trending-26fae5274272cdf4",
+      "articleId": "26fae5274272cdf4",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Ladakh Has Only One Operational Liquor Shop, LG Admin Rebuts Sonam Wangchuks Claims",
+      "sourceUrl": "https://www.dailyexcelsior.com/ladakh-has-only-one-operational-liquor-shop-lg-admin-rebuts-sonam-wangchuks-claims/",
+      "category": "National & Trending News",
+      "source": "Daily Excelsior",
+      "imageUrl": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYWVjYTYxNzkwLWQyYTktMTFmMS1iYTAzLTc3OTVjZGZhOTdmZS5wbmc=",
+      "publishedAt": "2026-10-28T08:31:07.000Z",
+      "sentAt": "2026-10-28T10:44:25.928Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-4159775630188362240"
+    },
     {
       "notificationId": "trending-ba13521671312d62",
       "articleId": "ba13521671312d62",
