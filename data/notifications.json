@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-29T08:06:56.810Z",
-  "count": 84,
+  "updatedAt": "2026-10-29T15:25:37.605Z",
+  "count": 85,
   "notifications": [
+    {
+      "notificationId": "trending-59f0ab6ac8305e56",
+      "articleId": "59f0ab6ac8305e56",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Jharkhand man jailed in UAE after leaving job without notice, family seeks govt's help",
+      "sourceUrl": "https://www.indiatoday.in/india/story/uae-jail-jharkhand-worker-detained-four-months-after-leaving-job-ptag-3027401-2026-10-29",
+      "category": "National & Trending News",
+      "source": "India Today",
+      "imageUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/jail-293044648-16x9.png?VersionId=bRQVa6xuHjIq5N9U1muude6TNmOsfUI8",
+      "publishedAt": "2026-10-29T05:37:10.000Z",
+      "sentAt": "2026-10-29T15:25:37.125Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-5124064843522699874"
+    },
     {
       "notificationId": "trending-2ecf4790bf7e5ad4",
       "articleId": "2ecf4790bf7e5ad4",
