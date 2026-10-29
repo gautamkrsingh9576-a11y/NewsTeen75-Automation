@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-28T21:49:35.700Z",
-  "count": 82,
+  "updatedAt": "2026-10-29T01:35:32.448Z",
+  "count": 83,
   "notifications": [
+    {
+      "notificationId": "trending-ed72203ff1cb6a09",
+      "articleId": "ed72203ff1cb6a09",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Angh review: Theja Rio weighs progress against cultural loss in Nagaland",
+      "sourceUrl": "https://www.indiatoday.in/amp/movies/reviews/story/angh-review-theja-rio-weighs-progress-against-cultural-loss-in-nagaland-3027325-2026-10-29",
+      "category": "National & Trending News",
+      "source": "India Today",
+      "imageUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/cinema-angh-naga-29595377-16x9.jpg?VersionId=PIFK2BxWSVVPMp85Xgo3alSRFEeXg2_J",
+      "publishedAt": "2026-10-29T00:14:21.000Z",
+      "sentAt": "2026-10-29T01:35:32.092Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/2368325419466009713"
+    },
     {
       "notificationId": "trending-9099a16417c76416",
       "articleId": "9099a16417c76416",
