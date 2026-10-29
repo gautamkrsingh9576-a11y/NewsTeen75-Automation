@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-29T01:35:32.448Z",
-  "count": 83,
+  "updatedAt": "2026-10-29T08:06:56.810Z",
+  "count": 84,
   "notifications": [
+    {
+      "notificationId": "trending-2ecf4790bf7e5ad4",
+      "articleId": "2ecf4790bf7e5ad4",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Top 18 News Today | 29 Oct | 11 AM | Navnath Ban News",
+      "sourceUrl": "https://news18marathi.com/videos/maharashtra/top-18-news-today-29-oct-11-am-navnath-ban-news-maharashtra-drought-news-mahayuti-1816900.html",
+      "category": "National & Trending News",
+      "source": "News18 Marathi",
+      "imageUrl": "https://images.news18.com/news18marathi/uploads/2026/10/1793252894_ce6d31a1-2e3f-49c8-bb49-1f6463d70d6a-1200x675.jpeg",
+      "publishedAt": "2026-10-29T05:41:41.000Z",
+      "sentAt": "2026-10-29T08:06:56.536Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-5482640978741138717"
+    },
     {
       "notificationId": "trending-ed72203ff1cb6a09",
       "articleId": "ed72203ff1cb6a09",
