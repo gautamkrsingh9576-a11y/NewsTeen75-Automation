@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-29T15:25:37.605Z",
-  "count": 85,
+  "updatedAt": "2026-10-29T20:27:35.110Z",
+  "count": 86,
   "notifications": [
+    {
+      "notificationId": "trending-3ad6368d7af04440",
+      "articleId": "3ad6368d7af04440",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Tiger Shroff Firing Case: Mumbai Crime Branch Detains Another Suspect In Sonipat",
+      "sourceUrl": "https://www.news18.com/amp/india/tiger-shroff-firing-case-mumbai-crime-branch-detains-another-suspect-in-sonipat-10404087.html",
+      "category": "Crime & Breaking News",
+      "source": "News18",
+      "imageUrl": "https://images.news18.com/ibnlive/uploads/2026/10/tigershroff-2026-10-e6b41281645e8050df9da5f893e2a648-1200x675.jpg",
+      "publishedAt": "2026-10-29T17:24:07.000Z",
+      "sentAt": "2026-10-29T20:27:34.678Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-2953809323850992719"
+    },
     {
       "notificationId": "trending-59f0ab6ac8305e56",
       "articleId": "59f0ab6ac8305e56",
