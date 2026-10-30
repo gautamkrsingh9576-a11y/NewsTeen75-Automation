@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-29T20:27:35.110Z",
-  "count": 86,
+  "updatedAt": "2026-10-30T00:10:36.816Z",
+  "count": 87,
   "notifications": [
+    {
+      "notificationId": "trending-a1b6c4e94d6dfd16",
+      "articleId": "a1b6c4e94d6dfd16",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Tanush Kotian records career-best 8/81 as Mumbai crush Haryana by 10 wickets",
+      "sourceUrl": "https://www.dailyexcelsior.com/tanush-kotian-records-career-best-8-81-as-mumbai-crush-haryana-by-10-wickets/",
+      "category": "National & Trending News",
+      "source": "Daily Excelsior",
+      "imageUrl": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTZlNDVmZDMwLWQzZTgtMTFmMS1iYTAzLTc3OTVjZGZhOTdmZS5qcGc=",
+      "publishedAt": "2026-10-29T22:30:47.000Z",
+      "sentAt": "2026-10-30T00:10:36.500Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/877750084975443016"
+    },
     {
       "notificationId": "trending-3ad6368d7af04440",
       "articleId": "3ad6368d7af04440",
