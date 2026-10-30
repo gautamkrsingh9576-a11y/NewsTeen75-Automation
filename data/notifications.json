@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-30T06:14:37.826Z",
-  "count": 88,
+  "updatedAt": "2026-10-30T13:21:01.688Z",
+  "count": 89,
   "notifications": [
+    {
+      "notificationId": "trending-983fced7bc21ad07",
+      "articleId": "983fced7bc21ad07",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Madhav National Park Welcomes 2 Tigers After The Loss Of Its Resident Tigers",
+      "sourceUrl": "https://curlytales.com/india/trending/madhav-national-park-welcomes-tigers-after-the-loss-of-its-resident-tigers-in/",
+      "category": "National & Trending News",
+      "source": "Curly Tales",
+      "imageUrl": "https://curlytales.com/wp-content/uploads/2026/10/Madhav-National-Park.jpg",
+      "publishedAt": "2026-10-30T08:06:42.000Z",
+      "sentAt": "2026-10-30T13:21:01.354Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-6288194789885332525"
+    },
     {
       "notificationId": "trending-ece18e6425dad2e0",
       "articleId": "ece18e6425dad2e0",
