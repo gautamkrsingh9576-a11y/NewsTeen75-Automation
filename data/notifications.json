@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-30T18:44:54.347Z",
-  "count": 90,
+  "updatedAt": "2026-10-30T22:48:42.822Z",
+  "count": 91,
   "notifications": [
+    {
+      "notificationId": "trending-9098b7a1bad88de2",
+      "articleId": "9098b7a1bad88de2",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Karnataka High Court to nominate new head for SIT to probe KPSC irregularities",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-to-nominate-new-head-for-sit-to-probe-kpsc-irregularities-on-monday/article71646107.ece",
+      "category": "National & Trending News",
+      "source": "The Hindu",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/xqeb5h/article71646849.ece/alternates/LANDSCAPE_1200/IMG_BG_HIGH_COURT_2020_2_1_U0GN4CU9.jpg",
+      "publishedAt": "2026-10-30T19:40:33.000Z",
+      "sentAt": "2026-10-30T22:48:42.152Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-5024813255620562904"
+    },
     {
       "notificationId": "trending-567de5d93a6d72e2",
       "articleId": "567de5d93a6d72e2",
