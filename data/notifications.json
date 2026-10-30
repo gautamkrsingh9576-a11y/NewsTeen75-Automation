@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-30T13:21:01.688Z",
-  "count": 89,
+  "updatedAt": "2026-10-30T18:44:54.347Z",
+  "count": 90,
   "notifications": [
+    {
+      "notificationId": "trending-567de5d93a6d72e2",
+      "articleId": "567de5d93a6d72e2",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Accused in drug case, absconding for two years, held from Kullu in Himachal Pradesh",
+      "sourceUrl": "https://www.thehindu.com/news/national/kerala/accused-in-drug-case-absconding-for-two-years-held-from-kullu-in-himachal-pradesh/article71645021.ece",
+      "category": "National & Trending News",
+      "source": "The Hindu",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/vfuku1/article71646062.ece/alternates/LANDSCAPE_1200/iStock-1323017775%201.jpg",
+      "publishedAt": "2026-10-30T15:05:21.000Z",
+      "sentAt": "2026-10-30T18:44:53.884Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-8665761528786002792"
+    },
     {
       "notificationId": "trending-983fced7bc21ad07",
       "articleId": "983fced7bc21ad07",
