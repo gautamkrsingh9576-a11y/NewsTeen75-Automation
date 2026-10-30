@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-30T00:10:36.816Z",
-  "count": 87,
+  "updatedAt": "2026-10-30T06:14:37.826Z",
+  "count": 88,
   "notifications": [
+    {
+      "notificationId": "trending-ece18e6425dad2e0",
+      "articleId": "ece18e6425dad2e0",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Delhi-NCR gets taste of winter after overnight rain, more showers in forecast",
+      "sourceUrl": "https://www.indiatoday.in/science/story/delhi-ncr-rain-lowers-temperature-improves-aqi-imd-thunderstorm-forecast-3028162-2026-10-30",
+      "category": "National & Trending News",
+      "source": "India Today",
+      "imageUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/rainy-weather-302447650-16x9_0.jpg?VersionId=cvTwBVVzB3XRpGmKdadq.ea2aiKQBHA7",
+      "publishedAt": "2026-10-30T01:43:45.000Z",
+      "sentAt": "2026-10-30T06:14:37.526Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/6822604408790764888"
+    },
     {
       "notificationId": "trending-a1b6c4e94d6dfd16",
       "articleId": "a1b6c4e94d6dfd16",
