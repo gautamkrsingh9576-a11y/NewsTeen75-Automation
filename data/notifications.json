@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-31T08:41:13.443Z",
-  "count": 93,
+  "updatedAt": "2026-10-31T15:06:35.934Z",
+  "count": 94,
   "notifications": [
+    {
+      "notificationId": "trending-5b150ec6924f4b35",
+      "articleId": "5b150ec6924f4b35",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Uttarakhand shivers amid snowfall, persistent rain; IMD issues alert for thunderstorms",
+      "sourceUrl": "https://ddindia.co.in/2026/10/uttarakhand-shivers-amid-snowfall-persistent-rain-imd-issues-alert-for-thunderstorms-hail-today/",
+      "category": "National & Trending News",
+      "source": "DD India",
+      "imageUrl": "https://ddindia.co.in/wp-content/uploads/2026/10/PTI10_29_2026_000080B-scaled.jpg",
+      "publishedAt": "2026-10-31T08:52:28.000Z",
+      "sentAt": "2026-10-31T15:06:35.552Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/7581703964842647053"
+    },
     {
       "notificationId": "trending-34c022e55052df80",
       "articleId": "34c022e55052df80",
