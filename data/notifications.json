@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-31T19:27:43.086Z",
-  "count": 95,
+  "updatedAt": "2026-10-31T22:44:32.625Z",
+  "count": 96,
   "notifications": [
+    {
+      "notificationId": "trending-754fda9b3d9112c6",
+      "articleId": "754fda9b3d9112c6",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Celebration Of Rashtriya Ekta Diwas By BSF Tripura Frontier",
+      "sourceUrl": "https://www.tripurastarnews.com/celebration-of-rashtriya-ekta-diwas-by-bsf-tripura-frontier/",
+      "category": "National & Trending News",
+      "source": "TRIPURA STAR NEWS",
+      "imageUrl": "https://www.tripurastarnews.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-31-at-2.55.24-PM-1.jpeg",
+      "publishedAt": "2026-10-31T22:27:16.000Z",
+      "sentAt": "2026-10-31T22:44:32.305Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-4704373345188670999"
+    },
     {
       "notificationId": "trending-06cbfd2b06704082",
       "articleId": "06cbfd2b06704082",
