@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-31T02:03:42.349Z",
-  "count": 92,
+  "updatedAt": "2026-10-31T08:41:13.443Z",
+  "count": 93,
   "notifications": [
+    {
+      "notificationId": "trending-34c022e55052df80",
+      "articleId": "34c022e55052df80",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Tripura Sports Department Issues Corrigendum for 301 Junior Physical Instructor Posts",
+      "sourceUrl": "https://tripurainfo.com/EnglishNews.aspx?intnid=9100&title=Tripura-Sports-Department-Issues-Corrigendum-for-301-Junior-Physical-Instructor-Posts-Revises-Category-Wise-Womens-Reservation",
+      "category": "National & Trending News",
+      "source": "TRIPURAINFO",
+      "imageUrl": "https://www.tripurainfo.com/TripuraNews/NewsPhotos/TRIPURAINFO-Pix-English-News-9100-31-10-2026.jpg",
+      "publishedAt": "2026-10-31T02:43:42.000Z",
+      "sentAt": "2026-10-31T08:41:12.933Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-6494731777191797215"
+    },
     {
       "notificationId": "trending-7ccf8b2081c6ee53",
       "articleId": "7ccf8b2081c6ee53",
