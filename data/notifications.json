@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-31T15:06:35.934Z",
-  "count": 94,
+  "updatedAt": "2026-10-31T19:27:43.086Z",
+  "count": 95,
   "notifications": [
+    {
+      "notificationId": "trending-06cbfd2b06704082",
+      "articleId": "06cbfd2b06704082",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "IPB inks deals worth Rs 8,000 crore at Vibrant Goa summit",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/goa/ipb-inks-deals-worth-rs-8000-crore-at-vibrant-goa-summit/articleshow/135410409.cms",
+      "category": "National & Trending News",
+      "source": "The Times of India",
+      "imageUrl": "https://static.toiimg.com/thumb/msid-135410407,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-10-31T18:52:00.000Z",
+      "sentAt": "2026-10-31T19:27:42.817Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-294944587171922180"
+    },
     {
       "notificationId": "trending-5b150ec6924f4b35",
       "articleId": "5b150ec6924f4b35",
