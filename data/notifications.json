@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-30T22:48:42.822Z",
-  "count": 91,
+  "updatedAt": "2026-10-31T02:03:42.349Z",
+  "count": 92,
   "notifications": [
+    {
+      "notificationId": "trending-7ccf8b2081c6ee53",
+      "articleId": "7ccf8b2081c6ee53",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Supreme Court warns against weaponising rape laws in broken relationships",
+      "sourceUrl": "https://www.news18.com/india/dont-weaponise-rape-law-in-broken-relationships-supreme-court-warns-against-misuse-ws-lrt-10405911.html",
+      "category": "Crime & Breaking News",
+      "source": "News18",
+      "imageUrl": "https://images.news18.com/ibnlive/uploads/2025/05/Untitled-design-2-2025-05-03adae734165e9b21801a2de7e259ec8-16x9.jpg",
+      "publishedAt": "2026-10-30T23:21:27.000Z",
+      "sentAt": "2026-10-31T02:03:42.041Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/6712575950375527299"
+    },
     {
       "notificationId": "trending-9098b7a1bad88de2",
       "articleId": "9098b7a1bad88de2",
