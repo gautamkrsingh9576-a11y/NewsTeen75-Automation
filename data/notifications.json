@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-31T22:44:32.625Z",
-  "count": 96,
+  "updatedAt": "2026-11-01T01:54:25.563Z",
+  "count": 97,
   "notifications": [
+    {
+      "notificationId": "trending-d38c4eb7e98abd58",
+      "articleId": "d38c4eb7e98abd58",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Kannada Rajyotsava 2026: Wishes, Images, Messages, And Greetings To Celebrate Namma",
+      "sourceUrl": "https://www.news18.com/cities/bengaluru-news/kannada-rajyotsava-2026-wishes-images-messages-and-greetings-to-celebrate-namma-karnataka-10407113.html",
+      "category": "National & Trending News",
+      "source": "News18",
+      "imageUrl": "https://images.news18.com/ibnlive/uploads/2026/11/Kannada-Rajyotsava-2026-Wishes-Quotes-Karnataka-Formation-Day-2026-11-cf096b806c705f0f9c6c53894918bf54-1200x675.jpg",
+      "publishedAt": "2026-11-01T00:50:37.000Z",
+      "sentAt": "2026-11-01T01:54:25.291Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-954134947141872929"
+    },
     {
       "notificationId": "trending-754fda9b3d9112c6",
       "articleId": "754fda9b3d9112c6",
