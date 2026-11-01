@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-01T08:49:05.556Z",
-  "count": 98,
+  "updatedAt": "2026-11-01T15:50:13.135Z",
+  "count": 99,
   "notifications": [
+    {
+      "notificationId": "trending-57baeba83e93aea3",
+      "articleId": "57baeba83e93aea3",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Ranji Trophy: Jammu Kashmir, Pondicherry to Lock Horns in Srinagar",
+      "sourceUrl": "https://kashmirlife.net/ranji-trophy-jammu-kashmir-pondicherry-to-lock-horns-in-srinagar-459299/",
+      "category": "National & Trending News",
+      "source": "Kashmir Life",
+      "imageUrl": "https://kashmirlife.net/wp-content/uploads/2026/02/Jammu-Kashmir-Cricket-Team-after-enetring-the-Ranji-Trophy-Final-s-in-2026.webp",
+      "publishedAt": "2026-11-01T14:10:03.000Z",
+      "sentAt": "2026-11-01T15:50:12.580Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/5351805175590646202"
+    },
     {
       "notificationId": "trending-fcdecf95c9d901b5",
       "articleId": "fcdecf95c9d901b5",
