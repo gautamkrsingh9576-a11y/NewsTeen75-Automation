@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-01T15:50:13.135Z",
-  "count": 99,
+  "updatedAt": "2026-11-01T20:15:45.226Z",
+  "count": 100,
   "notifications": [
+    {
+      "notificationId": "trending-b823048577c46e6d",
+      "articleId": "b823048577c46e6d",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "West Bengal announces government jobs for families of political violence victims dating",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/politics-and-nation/west-bengal-announces-government-jobs-for-families-of-political-violence-victims-dating-back-to-2001/articleshow/135435550.cms?from=mdr",
+      "category": "National & Trending News",
+      "source": "The Economic Times",
+      "imageUrl": "https://img.etimg.com/thumb/msid-135435842,width-1200,height-900,imgsize-42422,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-11-01T18:43:10.000Z",
+      "sentAt": "2026-11-01T20:15:44.561Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/644937628616263052"
+    },
     {
       "notificationId": "trending-57baeba83e93aea3",
       "articleId": "57baeba83e93aea3",
