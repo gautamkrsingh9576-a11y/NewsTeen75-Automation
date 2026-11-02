@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-02T04:46:11.005Z",
+  "updatedAt": "2026-11-02T13:10:06.199Z",
   "count": 100,
   "notifications": [
+    {
+      "notificationId": "trending-a5e3bdcbd5370a71",
+      "articleId": "a5e3bdcbd5370a71",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "News18 Marathi Headlines | 2 NOV | 2 PM | Maharashtra Politics | Nanded",
+      "sourceUrl": "https://news18marathi.com/videos/maharashtra/news18-marathi-headlines-2-nov-2-pm-maharashtra-politics-nanded-finance-company-rain-news-1820828.html",
+      "category": "National & Trending News",
+      "source": "News18 Marathi",
+      "imageUrl": "https://images.news18.com/news18marathi/uploads/2026/11/1793609104_8914dd73-85df-4a5c-9041-d96dd6c2421e-1200x675.jpeg",
+      "publishedAt": "2026-11-02T08:43:20.000Z",
+      "sentAt": "2026-11-02T13:10:05.313Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/1153221739535492114"
+    },
     {
       "notificationId": "trending-04125a73c7b05b1c",
       "articleId": "04125a73c7b05b1c",
@@ -1387,20 +1401,6 @@
       "publishedAt": "2026-10-15T04:52:10.000Z",
       "sentAt": "2026-10-15T09:46:59.076Z",
       "firebaseMessageId": "projects/newsteen75-af672/messages/2894411609002391100"
-    },
-    {
-      "notificationId": "trending-d4822b4e865c7762",
-      "articleId": "d4822b4e865c7762",
-      "type": "trending_news",
-      "title": "🔥 Trending on NewsTeen75",
-      "body": "Rain alert in 13 Rajasthan districts today: Hail likely; desert areas experienced cold",
-      "sourceUrl": "https://www.bhaskarenglish.in/local/rajasthan/news/rajasthan-weather-rain-alert-hailstorm-forecast-2026-139364044.html",
-      "category": "National & Trending News",
-      "source": "Bhaskar English",
-      "imageUrl": "https://images.bhaskarassets.com/thumb/730x0/web2images/1884/2026/10/15/comp-17_1792005580.gif",
-      "publishedAt": "2026-10-14T23:30:00.000Z",
-      "sentAt": "2026-10-15T05:00:08.040Z",
-      "firebaseMessageId": "projects/newsteen75-af672/messages/-8891855566666461633"
     }
   ]
 }
