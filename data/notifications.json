@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-02T13:10:06.199Z",
+  "updatedAt": "2026-11-02T22:25:49.370Z",
   "count": 100,
   "notifications": [
+    {
+      "notificationId": "trending-5d84fef7859ff050",
+      "articleId": "5d84fef7859ff050",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "TT Impact: HYDRAA dismantles illegal borewell connections in Tellapur",
+      "sourceUrl": "https://telanganatoday.com/tt-impact-hydraa-dismantles-illegal-borewell-connections-in-tellapur",
+      "category": "National & Trending News",
+      "source": "Telangana Today",
+      "imageUrl": "https://media.telanganatoday.com/wp-content/uploads/2026/11/Tellapur.jpg",
+      "publishedAt": "2026-11-02T18:43:33.000Z",
+      "sentAt": "2026-11-02T22:25:49.038Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-845622285143101372"
+    },
     {
       "notificationId": "trending-a5e3bdcbd5370a71",
       "articleId": "a5e3bdcbd5370a71",
@@ -1387,20 +1401,6 @@
       "publishedAt": "2026-10-15T14:18:59.000Z",
       "sentAt": "2026-10-15T14:42:34.371Z",
       "firebaseMessageId": "projects/newsteen75-af672/messages/-4878336702627743294"
-    },
-    {
-      "notificationId": "trending-13649b1ffe2b619b",
-      "articleId": "13649b1ffe2b619b",
-      "type": "trending_news",
-      "title": "🔥 Trending on NewsTeen75",
-      "body": "Delhi NCR AQI hits 350, 79% residents identify biggest cause of pollution",
-      "sourceUrl": "https://www.indiatoday.in/health/story/delhi-ncr-pollution-survey-construction-dust-garbage-burning-3017258-2026-10-15",
-      "category": "National & Trending News",
-      "source": "India Today",
-      "imageUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/a-thick-brown-wall-of-dust-approaches-delhi-ncr-as-a-powerful-pre-monsoon-andhi-sweeps-in-from-rajas-244418342-original-sixteen-to-nine.jpg?VersionId=XIZ8xjGTw5DisxPwIWfjkNAhxSG6gWRU",
-      "publishedAt": "2026-10-15T04:52:10.000Z",
-      "sentAt": "2026-10-15T09:46:59.076Z",
-      "firebaseMessageId": "projects/newsteen75-af672/messages/2894411609002391100"
     }
   ]
 }
