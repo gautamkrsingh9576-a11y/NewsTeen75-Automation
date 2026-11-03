@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-02T22:25:49.370Z",
+  "updatedAt": "2026-11-03T03:37:54.619Z",
   "count": 100,
   "notifications": [
+    {
+      "notificationId": "trending-e88a64b8d1118255",
+      "articleId": "e88a64b8d1118255",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Cyclone Murasu Makes Landfall In Andhra 19 Flights Cancelled, Storm Surge Warning: Top",
+      "sourceUrl": "https://news.abplive.com/news/india/cyclone-murasu-live-updates-landfall-andhra-pradesh-high-alert-19-flights-canceled-storm-surge-warning-1874444",
+      "category": "Crime & Breaking News",
+      "source": "ABP Live English",
+      "imageUrl": "https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/03/fd2cb51fed2852d9327ca49a783db8161793668823868272_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "publishedAt": "2026-11-03T01:20:59.000Z",
+      "sentAt": "2026-11-03T03:37:54.265Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/8033052578050158423"
+    },
     {
       "notificationId": "trending-5d84fef7859ff050",
       "articleId": "5d84fef7859ff050",
@@ -1387,20 +1401,6 @@
       "publishedAt": "2026-10-15T18:18:00.000Z",
       "sentAt": "2026-10-15T18:54:17.051Z",
       "firebaseMessageId": "projects/newsteen75-af672/messages/3087567054681595128"
-    },
-    {
-      "notificationId": "trending-b650d03d6497194b",
-      "articleId": "b650d03d6497194b",
-      "type": "trending_news",
-      "title": "🔥 Trending on NewsTeen75",
-      "body": "SIR: Sikkim, Meghalaya, Ladakh step up voter enrolment drives for missing names",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/india/boost-your-voting-rights-sikkim-meghalaya-and-ladakh-launch-major-voter-enrollment-campaigns/articleshow/134970107.cms?from=mdr",
-      "category": "National & Trending News",
-      "source": "The Economic Times",
-      "imageUrl": "https://img.etimg.com/thumb/msid-134970200,width-1200,height-900,imgsize-100008,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-10-15T14:18:59.000Z",
-      "sentAt": "2026-10-15T14:42:34.371Z",
-      "firebaseMessageId": "projects/newsteen75-af672/messages/-4878336702627743294"
     }
   ]
 }
