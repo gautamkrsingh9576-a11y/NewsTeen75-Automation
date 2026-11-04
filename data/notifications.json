@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-04T15:10:04.387Z",
+  "updatedAt": "2026-11-04T21:26:20.121Z",
   "count": 100,
   "notifications": [
+    {
+      "notificationId": "trending-64bc6e257ae148d2",
+      "articleId": "64bc6e257ae148d2",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "1 dead, 3 injured after helicopters crash in midair near Mount Everest",
+      "sourceUrl": "https://www.boston25news.com/news/trending/1-dead-3-injured-after-helicopters-crash-midair-near-mount-everest/X4FFSW4ZKRCF7BMMCASFPQ6CNY/",
+      "category": "National & Trending News",
+      "source": "Boston 25 News",
+      "imageUrl": "https://cmg-cmg-tv-10020-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FHR6RS5JVZVCITHNB2I6HLCLJH4.jpg?auth=2ce519ca6d5bb61b4654b0026c638db7434325393ecab2067c7f89a6218d9c37&width=1200&height=630&smart=true",
+      "publishedAt": "2026-11-04T15:45:33.000Z",
+      "sentAt": "2026-11-04T21:26:19.876Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-1030197804730645904"
+    },
     {
       "notificationId": "trending-d2ff976137ac8070",
       "articleId": "d2ff976137ac8070",
@@ -1387,20 +1401,6 @@
       "publishedAt": "2026-10-16T17:09:50.000Z",
       "sentAt": "2026-10-16T18:39:08.549Z",
       "firebaseMessageId": "projects/newsteen75-af672/messages/-8948891627392513660"
-    },
-    {
-      "notificationId": "trending-abfbbbc0d54f9114",
-      "articleId": "abfbbbc0d54f9114",
-      "type": "trending_news",
-      "title": "🔥 Trending on NewsTeen75",
-      "body": "Charting Mizoram’s political journey | Review of Sanjoy Hazarika’s Lal Thanhawla",
-      "sourceUrl": "https://www.thehindu.com/books/books-reviews/review-of-sanjoy-hazarikas-lal-thanhawla/article71574790.ece",
-      "category": "National & Trending News",
-      "source": "The Hindu",
-      "imageUrl": "https://th-i.thgim.com/public/society/77x9ot/article71587801.ece/alternates/LANDSCAPE_1200/Untitled%20design%20-%202026-10-15T164220.156.png",
-      "publishedAt": "2026-10-16T12:30:00.000Z",
-      "sentAt": "2026-10-16T14:35:28.584Z",
-      "firebaseMessageId": "projects/newsteen75-af672/messages/1060544691076359587"
     }
   ]
 }
