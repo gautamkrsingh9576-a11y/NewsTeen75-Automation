@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-04T00:06:25.022Z",
+  "updatedAt": "2026-11-04T06:52:23.441Z",
   "count": 100,
   "notifications": [
+    {
+      "notificationId": "trending-5a3dd10cfc70edb1",
+      "articleId": "5a3dd10cfc70edb1",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "News18 Marathi Headlines | 4 NOV | 7 AM | Devendra Fadnavis News",
+      "sourceUrl": "https://news18marathi.com/videos/maharashtra/news18-marathi-headlines-4-nov-7-am-devendra-fadnavis-news-ncp-sunetra-pawar-news-1821924.html",
+      "category": "National & Trending News",
+      "source": "News18 Marathi",
+      "imageUrl": "https://images.news18.com/news18marathi/uploads/2026/11/1793756824_822c5d91-de37-4bf6-b5a2-98a4ff1ff5e3-1200x675.jpeg",
+      "publishedAt": "2026-11-04T01:34:34.000Z",
+      "sentAt": "2026-11-04T06:52:22.658Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/513984406697833291"
+    },
     {
       "notificationId": "trending-ea63a8699f97a4e4",
       "articleId": "ea63a8699f97a4e4",
@@ -1387,20 +1401,6 @@
       "publishedAt": "2026-10-16T02:39:13.000Z",
       "sentAt": "2026-10-16T09:31:59.809Z",
       "firebaseMessageId": "projects/newsteen75-af672/messages/-1771056879301610685"
-    },
-    {
-      "notificationId": "trending-5321889822d7e8d6",
-      "articleId": "5321889822d7e8d6",
-      "type": "trending_news",
-      "title": "🔥 Trending on NewsTeen75",
-      "body": "TRAI releases mobile network quality test results for Andaman and Nicobar Islands",
-      "sourceUrl": "https://www.communicationstoday.co.in/trai-releases-mobile-network-quality-test-results-for-andaman-and-nicobar-islands/",
-      "category": "National & Trending News",
-      "source": "Communications Today",
-      "imageUrl": "https://www.communicationstoday.co.in/wp-content/uploads/2026/10/TRAI-assesses-telecom-service-quality-along-Munabao%E2%80%93Tanot-highway.jpg",
-      "publishedAt": "2026-10-16T02:48:08.000Z",
-      "sentAt": "2026-10-16T04:50:10.229Z",
-      "firebaseMessageId": "projects/newsteen75-af672/messages/-7223440275311902243"
     }
   ]
 }
