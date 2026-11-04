@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-04T06:52:23.441Z",
+  "updatedAt": "2026-11-04T15:10:04.387Z",
   "count": 100,
   "notifications": [
+    {
+      "notificationId": "trending-d2ff976137ac8070",
+      "articleId": "d2ff976137ac8070",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Tamil Nadu CM Vijay allows 6 shows daily starting 6 am; new films ‘Scene’",
+      "sourceUrl": "https://www.livemint.com/entertainment/tamil-nadu-cm-vijay-allows-6-shows-daily-starting-6-am-new-films-scene-mookuthi-amman-2-to-get-boost-11793777470622.html",
+      "category": "National & Trending News",
+      "source": "Livemint",
+      "imageUrl": "https://www.livemint.com/lm-img/img/2026/11/04/1600x900/logo/vija_1793778757736_N7c0_1793778761494_oTbg_ced55702-4b61-41e2-8342-25f725a8cd0f_d7y7.jpg",
+      "publishedAt": "2026-11-04T08:02:33.000Z",
+      "sentAt": "2026-11-04T15:10:04.108Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/6923735060347420957"
+    },
     {
       "notificationId": "trending-5a3dd10cfc70edb1",
       "articleId": "5a3dd10cfc70edb1",
@@ -1387,20 +1401,6 @@
       "publishedAt": "2026-10-16T12:30:00.000Z",
       "sentAt": "2026-10-16T14:35:28.584Z",
       "firebaseMessageId": "projects/newsteen75-af672/messages/1060544691076359587"
-    },
-    {
-      "notificationId": "trending-725b38cea7ef9e0a",
-      "articleId": "725b38cea7ef9e0a",
-      "type": "trending_news",
-      "title": "🔥 Trending on NewsTeen75",
-      "body": "No information on arrests made, says Karnataka CM DK Shivakumar",
-      "sourceUrl": "https://www.newindianexpress.com/states/karnataka/2026/Oct/16/no-information-on-arrests-made-says-karnataka-cm-dk-shivakumar",
-      "category": "National & Trending News",
-      "source": "The New Indian Express",
-      "imageUrl": "https://cf-images.assettype.com/newindianexpress%2F2025-05-29%2Fppv6k4yp%2FD_K_Shivakumar_EPS789.jpg?rect=0%2C15%2C1130%2C593&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2026-10-16T02:39:13.000Z",
-      "sentAt": "2026-10-16T09:31:59.809Z",
-      "firebaseMessageId": "projects/newsteen75-af672/messages/-1771056879301610685"
     }
   ]
 }
