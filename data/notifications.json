@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-04T21:26:20.121Z",
+  "updatedAt": "2026-11-05T01:42:37.545Z",
   "count": 100,
   "notifications": [
+    {
+      "notificationId": "trending-148b8ba6823b83bc",
+      "articleId": "148b8ba6823b83bc",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Spend more time in India: Rijiju takes jibe at Rahul, list conditions for Congress",
+      "sourceUrl": "https://www.thehindu.com/news/national/spend-more-time-in-india-rijiju-takes-jibe-at-rahul-list-conditions-for-congress-to-win-more-mps/article71667420.ece",
+      "category": "National & Trending News",
+      "source": "The Hindu",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/2rmyhl/article71667586.ece/alternates/LANDSCAPE_1200/20260918234L.jpg",
+      "publishedAt": "2026-11-04T21:37:08.000Z",
+      "sentAt": "2026-11-05T01:42:37.297Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-2896176214247528554"
+    },
     {
       "notificationId": "trending-64bc6e257ae148d2",
       "articleId": "64bc6e257ae148d2",
@@ -1387,20 +1401,6 @@
       "publishedAt": "2026-10-16T19:54:50.000Z",
       "sentAt": "2026-10-16T21:56:24.358Z",
       "firebaseMessageId": "projects/newsteen75-af672/messages/7105060495715838565"
-    },
-    {
-      "notificationId": "trending-91a286cdca9f50f8",
-      "articleId": "91a286cdca9f50f8",
-      "type": "trending_news",
-      "title": "🔥 Trending on NewsTeen75",
-      "body": "Gujarati folk singer Aditya Gadhvi rejects anti-Muslim stage announcement at garba",
-      "sourceUrl": "https://www.indiatoday.in/amp/entertainment/music/story/gujarati-folk-singer-aditya-gadhvi-rejects-anti-muslim-stage-announcement-at-garba-3018501-2026-10-16",
-      "category": "National & Trending News",
-      "source": "India Today",
-      "imageUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/gujarati-folk-singer-aditya-gadhvi-rejects-anti-muslim-stage-announcement-at-garba-1659461-16x9_0.png?VersionId=0NCq0cmHYjCMWnpcouiH8RpuoeJdPGYW",
-      "publishedAt": "2026-10-16T17:09:50.000Z",
-      "sentAt": "2026-10-16T18:39:08.549Z",
-      "firebaseMessageId": "projects/newsteen75-af672/messages/-8948891627392513660"
     }
   ]
 }
