@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-06T03:33:11.520Z",
+  "updatedAt": "2026-11-06T11:51:24.803Z",
   "count": 100,
   "notifications": [
+    {
+      "notificationId": "trending-662fc40d25a3b9c5",
+      "articleId": "662fc40d25a3b9c5",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Man's bag full of wedding invites bursts open on highway, what follows is wholesome",
+      "sourceUrl": "https://www.indiatoday.in/amp/trending-news/story/mans-bag-full-of-wedding-invites-bursts-open-on-highway-what-follows-is-wholesome-3033674-2026-11-06",
+      "category": "National & Trending News",
+      "source": "India Today",
+      "imageUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/mans-bag-full-of-wedding-invites-bursts-open-on-highway-064415349-16x9_0.jpg?VersionId=GxlyLHkcSUbX9j9Q8paHxiM2_C8_DTW.",
+      "publishedAt": "2026-11-06T09:54:01.000Z",
+      "sentAt": "2026-11-06T11:51:24.470Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/8388833860935936166"
+    },
     {
       "notificationId": "trending-f84f5db4ebba6b65",
       "articleId": "f84f5db4ebba6b65",
@@ -1387,20 +1401,6 @@
       "publishedAt": "2026-10-17T16:14:36.000Z",
       "sentAt": "2026-10-17T16:35:16.536Z",
       "firebaseMessageId": "projects/newsteen75-af672/messages/119999722854235456"
-    },
-    {
-      "notificationId": "trending-c26239f8223cf8f9",
-      "articleId": "c26239f8223cf8f9",
-      "type": "trending_news",
-      "title": "🔥 Trending on NewsTeen75",
-      "body": "ED pastes summons at Pinarayi Vijayan’s Thiruvananthapuram residence",
-      "sourceUrl": "https://www.theweek.in/news/india/2026/10/17/kerala-ed-pastes-summons-at-pinarayi-vijayans-thiruvananthapuram-residence.html",
-      "category": "National & Trending News",
-      "source": "The Week",
-      "imageUrl": "https://img.theweek.in/content/dam/week/week/news/india/images/2025/3/5/Chief-Minister-Pinarayi-Vijayan.jpg",
-      "publishedAt": "2026-10-17T09:01:13.000Z",
-      "sentAt": "2026-10-17T13:06:07.917Z",
-      "firebaseMessageId": "projects/newsteen75-af672/messages/-279576165389594294"
     }
   ]
 }
