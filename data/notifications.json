@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-06T11:51:24.803Z",
+  "updatedAt": "2026-11-06T18:57:39.989Z",
   "count": 100,
   "notifications": [
+    {
+      "notificationId": "trending-d67cc8b9051aaff2",
+      "articleId": "d67cc8b9051aaff2",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "A detailed look at key issues shaping the Uttar Pradesh assembly elections",
+      "sourceUrl": "https://www.indiatoday.in/amp/india/video/analysis-of-key-issues-in-uttar-pradesh-assembly-elections-ytvd-3034141-2026-11-06",
+      "category": "National & Trending News",
+      "source": "India Today",
+      "imageUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/video/202611/upelectionsissues-s0-original-sixteen-to-nine.jpg?VersionId=hgCw0G8k.oR8_Bo6DYdPiQtYN5ZWw.54",
+      "publishedAt": "2026-11-06T17:27:04.000Z",
+      "sentAt": "2026-11-06T18:57:39.528Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/1104943288841217493"
+    },
     {
       "notificationId": "trending-662fc40d25a3b9c5",
       "articleId": "662fc40d25a3b9c5",
@@ -1387,20 +1401,6 @@
       "publishedAt": "2026-10-17T15:51:57.000Z",
       "sentAt": "2026-10-17T19:03:08.376Z",
       "firebaseMessageId": "projects/newsteen75-af672/messages/-6919028431015268475"
-    },
-    {
-      "notificationId": "trending-8b51d05f3c51c5c6",
-      "articleId": "8b51d05f3c51c5c6",
-      "type": "trending_news",
-      "title": "🔥 Trending on NewsTeen75",
-      "body": "Haryana’s Khushi Kadian clinches hat-trick of titles at National Tennis Championship",
-      "sourceUrl": "https://www.tribuneindia.com/news/haryana/haryanas-khushi-kadian-clinches-hat-trick-of-titles-at-national-tennis-championship/amp/",
-      "category": "National & Trending News",
-      "source": "The Tribune",
-      "imageUrl": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWRkNWQ3NjAwLWNhNDUtMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
-      "publishedAt": "2026-10-17T16:14:36.000Z",
-      "sentAt": "2026-10-17T16:35:16.536Z",
-      "firebaseMessageId": "projects/newsteen75-af672/messages/119999722854235456"
     }
   ]
 }
