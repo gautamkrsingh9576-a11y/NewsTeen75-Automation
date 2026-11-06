@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-05T23:20:40.998Z",
+  "updatedAt": "2026-11-06T03:33:11.520Z",
   "count": 100,
   "notifications": [
+    {
+      "notificationId": "trending-f84f5db4ebba6b65",
+      "articleId": "f84f5db4ebba6b65",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "News18 Marathi Headlines | 6 NOV | 8 AM | Maharashtra Politics | Sharad",
+      "sourceUrl": "https://news18marathi.com/videos/maharashtra/news18-marathi-headlines-6-nov-8-am-maharashtra-politics-sharad-pawar-health-fadnavis-1823852.html",
+      "category": "National & Trending News",
+      "source": "News18 Marathi",
+      "imageUrl": "https://images.news18.com/news18marathi/uploads/2026/11/1793932204_3a6fd925-1a1e-4edb-8224-99124fcceed8-1200x675.jpeg",
+      "publishedAt": "2026-11-06T02:28:07.000Z",
+      "sentAt": "2026-11-06T03:33:11.199Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-2546541164950290900"
+    },
     {
       "notificationId": "trending-42331ef89d9a119e",
       "articleId": "42331ef89d9a119e",
@@ -1387,20 +1401,6 @@
       "publishedAt": "2026-10-17T09:01:13.000Z",
       "sentAt": "2026-10-17T13:06:07.917Z",
       "firebaseMessageId": "projects/newsteen75-af672/messages/-279576165389594294"
-    },
-    {
-      "notificationId": "trending-3d76f32b6f33b4eb",
-      "articleId": "3d76f32b6f33b4eb",
-      "type": "trending_news",
-      "title": "🔥 Trending on NewsTeen75",
-      "body": "Five workers killed, five injured in explosion at Gujarat chemical unit",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/india/five-workers-killed-five-injured-in-explosion-at-gujarat-chemical-unit/articleshow/135007499.cms?from=mdr",
-      "category": "National & Trending News",
-      "source": "The Economic Times",
-      "imageUrl": "https://img.etimg.com/thumb/msid-135007569,width-1200,height-900,imgsize-86152,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-10-17T04:53:51.000Z",
-      "sentAt": "2026-10-17T09:02:27.751Z",
-      "firebaseMessageId": "projects/newsteen75-af672/messages/6409408759755723730"
     }
   ]
 }
