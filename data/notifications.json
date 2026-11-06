@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-06T18:57:39.989Z",
+  "updatedAt": "2026-11-06T23:41:26.893Z",
   "count": 100,
   "notifications": [
+    {
+      "notificationId": "trending-d1470ab0150a8b36",
+      "articleId": "d1470ab0150a8b36",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Telangana Sanctions ₹88.50 Crore for 38 BC Self-Respect Buildings",
+      "sourceUrl": "https://www.nationpathindia.com/national/telangana-8850-crore-bc-self-respect-buildings",
+      "category": "National & Trending News",
+      "source": "www.nationpathindia.com",
+      "imageUrl": "https://media.nationpathindia.com/articles/2026/11/d86bcd25-bfb3-4867-b743-3a9e75629331.webp",
+      "publishedAt": "2026-11-06T22:20:22.000Z",
+      "sentAt": "2026-11-06T23:41:26.522Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-7099686194010759262"
+    },
     {
       "notificationId": "trending-d67cc8b9051aaff2",
       "articleId": "d67cc8b9051aaff2",
@@ -1387,20 +1401,6 @@
       "publishedAt": "2026-10-17T19:46:00.000Z",
       "sentAt": "2026-10-17T21:37:03.108Z",
       "firebaseMessageId": "projects/newsteen75-af672/messages/-3463008092877781866"
-    },
-    {
-      "notificationId": "trending-3ccdfa74d157bcf2",
-      "articleId": "3ccdfa74d157bcf2",
-      "type": "trending_news",
-      "title": "🔥 Trending on NewsTeen75",
-      "body": "Supreme Court’s child safety crackdown: National abuse database, safe touch lessons",
-      "sourceUrl": "https://www.moneycontrol.com/news/india/supreme-court-s-child-safety-crackdown-national-abuse-database-safe-touch-lessons-and-new-safeguards-against-online-abuse-14054551.html",
-      "category": "National & Trending News",
-      "source": "Moneycontrol.com",
-      "imageUrl": "https://images.moneycontrol.com/static-mcnews/2025/09/20250912092851_Supreme-Court-.png",
-      "publishedAt": "2026-10-17T15:51:57.000Z",
-      "sentAt": "2026-10-17T19:03:08.376Z",
-      "firebaseMessageId": "projects/newsteen75-af672/messages/-6919028431015268475"
     }
   ]
 }
