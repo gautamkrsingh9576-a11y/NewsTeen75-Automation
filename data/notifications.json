@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-07T11:32:50.626Z",
+  "updatedAt": "2026-11-07T17:29:58.006Z",
   "count": 100,
   "notifications": [
+    {
+      "notificationId": "trending-a7b953a616cc6088",
+      "articleId": "a7b953a616cc6088",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Telangana plans modern storage infra for paddy to protect ryots’ interests",
+      "sourceUrl": "https://www.thehindu.com/news/national/telangana/telangana-plans-modern-storage-infra-for-paddy-to-protect-ryots-interests/article71678433.ece",
+      "category": "National & Trending News",
+      "source": "The Hindu",
+      "imageUrl": "https://th-i.thgim.com/public/news/national/telangana/yk39di/article71678430.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-07%20at%204.55.43%20PM.jpeg",
+      "publishedAt": "2026-11-07T15:06:48.000Z",
+      "sentAt": "2026-11-07T17:29:57.732Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-1318869061813819051"
+    },
     {
       "notificationId": "trending-cf3da6d7956d9b2f",
       "articleId": "cf3da6d7956d9b2f",
@@ -1387,20 +1401,6 @@
       "publishedAt": "2026-10-18T05:05:43.000Z",
       "sentAt": "2026-10-18T08:15:56.750Z",
       "firebaseMessageId": "projects/newsteen75-af672/messages/6607590217115399186"
-    },
-    {
-      "notificationId": "trending-a1e71faf06e755b3",
-      "articleId": "a1e71faf06e755b3",
-      "type": "trending_news",
-      "title": "🔥 Trending on NewsTeen75",
-      "body": "Weather update: Heavy rainfall warning in Andhra Pradesh, Kerala; thunderstorm likely",
-      "sourceUrl": "https://www.cnbctv18.com/india/environment/weather-update-heavy-rainfall-warning-in-andhra-pradesh-kerala-thunderstorm-likely-in-goa-odisha-20014225.htm/amp",
-      "category": "National & Trending News",
-      "source": "CNBC TV18",
-      "imageUrl": "https://images.cnbctv18.com/uploads/2026/10/rains-1-2026-10-617f7c0dc3d909fe9d2b30557ae14c22.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-10-17T23:24:49.000Z",
-      "sentAt": "2026-10-18T03:21:13.467Z",
-      "firebaseMessageId": "projects/newsteen75-af672/messages/-1623352076060335102"
     }
   ]
 }
