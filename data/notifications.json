@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-08T14:11:37.643Z",
+  "updatedAt": "2026-11-08T18:58:01.709Z",
   "count": 100,
   "notifications": [
+    {
+      "notificationId": "trending-c0fe1330caef90e3",
+      "articleId": "c0fe1330caef90e3",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "RevenuePlus Portal to Remain Unavailable Across Jammu Kashmir From Tomorrow",
+      "sourceUrl": "https://kashmirlife.net/revenueplus-portal-to-remain-unavailable-across-jammu-kashmir-from-tomorrow-460292/",
+      "category": "National & Trending News",
+      "source": "Kashmir Life",
+      "imageUrl": "https://kashmirlife.net/wp-content/uploads/2026/11/Unavailable-Rep.webp",
+      "publishedAt": "2026-11-08T15:35:05.000Z",
+      "sentAt": "2026-11-08T18:58:01.159Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/6915772983823884474"
+    },
     {
       "notificationId": "trending-97668ee1e2fa160f",
       "articleId": "97668ee1e2fa160f",
@@ -1387,20 +1401,6 @@
       "publishedAt": "2026-10-18T20:46:00.000Z",
       "sentAt": "2026-10-18T23:31:38.314Z",
       "firebaseMessageId": "projects/newsteen75-af672/messages/7472023980631527376"
-    },
-    {
-      "notificationId": "trending-e6fec0bb3c05065e",
-      "articleId": "e6fec0bb3c05065e",
-      "type": "trending_news",
-      "title": "🔥 Trending on NewsTeen75",
-      "body": "Kashmir-bound bus attacked in Haryana, passengers caught in midnight ordeal",
-      "sourceUrl": "https://jknewstoday.com/kashmir-bound-bus-attacked-in-haryana-passengers-caught-in-midnight-ordeal/",
-      "category": "National & Trending News",
-      "source": "JK News Today",
-      "imageUrl": "https://jknewstoday.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-18-at-10.30.37-AM.jpeg",
-      "publishedAt": "2026-10-18T18:56:19.000Z",
-      "sentAt": "2026-10-18T21:17:54.250Z",
-      "firebaseMessageId": "projects/newsteen75-af672/messages/6544107915267985065"
     }
   ]
 }
