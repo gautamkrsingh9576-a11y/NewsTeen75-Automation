@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-08T00:51:06.027Z",
+  "updatedAt": "2026-11-08T06:57:27.550Z",
   "count": 100,
   "notifications": [
+    {
+      "notificationId": "trending-93a23b4a514f5aae",
+      "articleId": "93a23b4a514f5aae",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Uttarakhand CM celebrates Diwali with soldiers of Garhwal Regiment",
+      "sourceUrl": "https://www.deccanherald.com/india/uttarakhand/uttarakhand-cm-celebrates-diwali-with-soldiers-of-garhwal-regiment-4211590",
+      "category": "National & Trending News",
+      "source": "Deccan Herald",
+      "imageUrl": "https://media.assettype.com/deccanherald%2F2026-11-08%2Fatvdc3ce%2Ffile88d7pk8bwki1kab73ey3.jpg?rect=0%2C0%2C600%2C315&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
+      "publishedAt": "2026-11-08T01:50:15.000Z",
+      "sentAt": "2026-11-08T06:57:27.221Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/1829911530511571745"
+    },
     {
       "notificationId": "trending-7e953cacdf5bf291",
       "articleId": "7e953cacdf5bf291",
@@ -1387,20 +1401,6 @@
       "publishedAt": "2026-10-18T16:39:45.000Z",
       "sentAt": "2026-10-18T18:47:58.131Z",
       "firebaseMessageId": "projects/newsteen75-af672/messages/-1122050246000706388"
-    },
-    {
-      "notificationId": "trending-60c9d4cae420f9a7",
-      "articleId": "60c9d4cae420f9a7",
-      "type": "trending_news",
-      "title": "🔥 Trending on NewsTeen75",
-      "body": "Jammu and Kashmir's Connectivity Gets Major Boost with Rail, Road and Airport",
-      "sourceUrl": "https://ddindia.co.in/2026/10/jammu-and-kashmirs-connectivity-gets-major-boost-with-rail-road-and-airport-infrastructure-projects/",
-      "category": "National & Trending News",
-      "source": "DD India",
-      "imageUrl": "https://ddindia.co.in/wp-content/uploads/2026/10/2025012542F.jpg",
-      "publishedAt": "2026-10-18T13:36:21.000Z",
-      "sentAt": "2026-10-18T16:23:28.745Z",
-      "firebaseMessageId": "projects/newsteen75-af672/messages/-5331562576410458574"
     }
   ]
 }
