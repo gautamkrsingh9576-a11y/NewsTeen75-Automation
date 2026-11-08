@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-07T21:04:03.067Z",
+  "updatedAt": "2026-11-08T00:51:06.027Z",
   "count": 100,
   "notifications": [
+    {
+      "notificationId": "trending-7e953cacdf5bf291",
+      "articleId": "7e953cacdf5bf291",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "J&K notifies Private Universities Rules; 25% quota for domiciles",
+      "sourceUrl": "https://risingkashmir.com/top-stories/jk-notifies-private-universities-rules-25-quota-for-domiciles-12792878",
+      "category": "National & Trending News",
+      "source": "Rising Kashmir",
+      "imageUrl": "https://img-cdn.publive.online/fit-in/1200x675/rising-kashmir/media/media_files/2026/11/07/jk-govt-2026-11-07-12-23-06.jpg",
+      "publishedAt": "2026-11-07T21:53:37.000Z",
+      "sentAt": "2026-11-08T00:51:05.749Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-2965283660318754831"
+    },
     {
       "notificationId": "trending-ef9c53a916a20c9a",
       "articleId": "ef9c53a916a20c9a",
@@ -1387,20 +1401,6 @@
       "publishedAt": "2026-10-18T13:36:21.000Z",
       "sentAt": "2026-10-18T16:23:28.745Z",
       "firebaseMessageId": "projects/newsteen75-af672/messages/-5331562576410458574"
-    },
-    {
-      "notificationId": "trending-021ceed253732ae7",
-      "articleId": "021ceed253732ae7",
-      "type": "trending_news",
-      "title": "🔥 Trending on NewsTeen75",
-      "body": "NCLAT revives Walchandnagar Industries' insolvency plea against Swaraj India Agro on SC",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/indl-goods/svs/engineering/nclat-revives-walchandnagar-industries-insolvency-plea-against-swaraj-india-agro-on-sc-direction/articleshow/135026633.cms?from=mdr",
-      "category": "National & Trending News",
-      "source": "The Economic Times",
-      "imageUrl": "https://img.etimg.com/thumb/msid-135026638,width-1200,height-900,imgsize-97592,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-10-18T09:26:39.000Z",
-      "sentAt": "2026-10-18T12:44:25.838Z",
-      "firebaseMessageId": "projects/newsteen75-af672/messages/3579932415793699200"
     }
   ]
 }
