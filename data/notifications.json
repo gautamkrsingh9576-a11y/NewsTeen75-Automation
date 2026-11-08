@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-08T06:57:27.550Z",
+  "updatedAt": "2026-11-08T14:11:37.643Z",
   "count": 100,
   "notifications": [
+    {
+      "notificationId": "trending-97668ee1e2fa160f",
+      "articleId": "97668ee1e2fa160f",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Rajasthan BJP MLA Jaswant Yadav dies at 73 after prolonged illness",
+      "sourceUrl": "https://www.thehindu.com/news/national/rajasthan/rajasthan-bjp-mla-jaswant-yadav-dies-at-73-after-prolonged-illness/article71680761.ece",
+      "category": "National & Trending News",
+      "source": "The Hindu",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/tw585l/article71680775.ece/alternates/LANDSCAPE_1200/HWlFgHeaUAA1HOZ.jpg",
+      "publishedAt": "2026-11-08T08:36:49.000Z",
+      "sentAt": "2026-11-08T14:11:37.283Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/5097473002228985587"
+    },
     {
       "notificationId": "trending-93a23b4a514f5aae",
       "articleId": "93a23b4a514f5aae",
@@ -1387,20 +1401,6 @@
       "publishedAt": "2026-10-18T18:56:19.000Z",
       "sentAt": "2026-10-18T21:17:54.250Z",
       "firebaseMessageId": "projects/newsteen75-af672/messages/6544107915267985065"
-    },
-    {
-      "notificationId": "trending-75a58c0d8e4f1cec",
-      "articleId": "75a58c0d8e4f1cec",
-      "type": "trending_news",
-      "title": "🔥 Trending on NewsTeen75",
-      "body": "Vedanta Delhi Half Marathon: Charles Matata wins men’s race, Alemu takes women’s crown",
-      "sourceUrl": "https://themeghalayanexpress.com/vedanta-delhi-half-marathon-charles-matata-wins-mens-race-alemu-takes-womens-crown/",
-      "category": "National & Trending News",
-      "source": "The Meghalayan Express",
-      "imageUrl": "https://themeghalayanexpress.com/wp-content/uploads/2026/10/PTI10_18_2026_000095B-scaled-e1792341302999-1024x684.jpg",
-      "publishedAt": "2026-10-18T16:39:45.000Z",
-      "sentAt": "2026-10-18T18:47:58.131Z",
-      "firebaseMessageId": "projects/newsteen75-af672/messages/-1122050246000706388"
     }
   ]
 }
