@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-08T22:45:11.772Z",
+  "updatedAt": "2026-11-09T02:25:28.398Z",
   "count": 100,
   "notifications": [
+    {
+      "notificationId": "trending-0e550b76b48cc74d",
+      "articleId": "0e550b76b48cc74d",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Festive relief for cyclone-hit artisans through Odisha’s Diwali market initiative",
+      "sourceUrl": "https://www.telegraphindia.com/india/odisha-cyclone-relief-ormas-backs-artisans-with-diwali-market-access-and-support-prnt/cid/2188466",
+      "category": "National & Trending News",
+      "source": "Telegraph India",
+      "imageUrl": "https://assets.telegraphindia.com/telegraph/2026/Nov/1794179249_new-project-2026-11-09t042019-034.jpg",
+      "publishedAt": "2026-11-08T23:08:49.000Z",
+      "sentAt": "2026-11-09T02:25:28.143Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-1098134106068786621"
+    },
     {
       "notificationId": "trending-76decd18b8d5e02a",
       "articleId": "76decd18b8d5e02a",
@@ -1387,20 +1401,6 @@
       "publishedAt": "2026-10-19T06:35:39.000Z",
       "sentAt": "2026-10-19T09:39:08.246Z",
       "firebaseMessageId": "projects/newsteen75-af672/messages/3274023862945885307"
-    },
-    {
-      "notificationId": "trending-7abea02c81736513",
-      "articleId": "7abea02c81736513",
-      "type": "trending_news",
-      "title": "🔥 Trending on NewsTeen75",
-      "body": "J&K inflation climbs for 5th straight month to 4.27%",
-      "sourceUrl": "https://www.greaterkashmir.com/jammu-kashmir/jk-inflation-climbs-for-5th-straight-month-to-427-12688051",
-      "category": "National & Trending News",
-      "source": "Greater Kashmir",
-      "imageUrl": "https://img-cdn.publive.online/fit-in/1200x675/greater-kashmir/media/media_files/2026/10/19/infilation-2026-10-19-06-37-44.jpg",
-      "publishedAt": "2026-10-19T01:08:22.000Z",
-      "sentAt": "2026-10-19T03:33:38.203Z",
-      "firebaseMessageId": "projects/newsteen75-af672/messages/-4865827159797603401"
     }
   ]
 }
