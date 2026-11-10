@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-10T03:22:34.398Z",
+  "updatedAt": "2026-11-10T11:33:29.073Z",
   "count": 100,
   "notifications": [
+    {
+      "notificationId": "trending-f1ebb6446e196b44",
+      "articleId": "f1ebb6446e196b44",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Bike slips from under 3 men after collision, crashes into Rajasthan petrol pump",
+      "sourceUrl": "https://www.indiatoday.in/cities/other-cities/story/udaipur-bike-without-rider-crashes-into-petrol-pump-rajasthan-viral-video-3035750-2026-11-10",
+      "category": "National & Trending News",
+      "source": "India Today",
+      "imageUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/udaipur-riderless-bike-103007378-16x9_0.jpg?VersionId=OM4zOsPBcSXrCMI5VisY7hA6.xqHP.aq",
+      "publishedAt": "2026-11-10T03:31:14.000Z",
+      "sentAt": "2026-11-10T11:33:28.621Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-3375801102178535554"
+    },
     {
       "notificationId": "trending-6215255ab881c9e8",
       "articleId": "6215255ab881c9e8",
@@ -1387,20 +1401,6 @@
       "publishedAt": "2026-10-19T21:58:36.000Z",
       "sentAt": "2026-10-20T05:42:28.692Z",
       "firebaseMessageId": "projects/newsteen75-af672/messages/-4650095054872865523"
-    },
-    {
-      "notificationId": "trending-5c631eff55faf147",
-      "articleId": "5c631eff55faf147",
-      "type": "trending_news",
-      "title": "🔥 Trending on NewsTeen75",
-      "body": "Meghalaya: Central Puja Committee appeals for peace and communal harmony during Durga Puja",
-      "sourceUrl": "https://www.dailyexcelsior.com/meghalaya-central-puja-committee-appeals-for-peace-and-communal-harmony-during-durga-puja-celebrations/",
-      "category": "National & Trending News",
-      "source": "Daily Excelsior",
-      "imageUrl": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTg1ZDgwYWEwLWNjMGYtMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
-      "publishedAt": "2026-10-19T22:50:32.000Z",
-      "sentAt": "2026-10-20T00:31:38.284Z",
-      "firebaseMessageId": "projects/newsteen75-af672/messages/-5455306975357410061"
     }
   ]
 }
