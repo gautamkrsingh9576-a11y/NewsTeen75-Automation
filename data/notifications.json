@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-10T11:33:29.073Z",
+  "updatedAt": "2026-11-10T19:24:05.913Z",
   "count": 100,
   "notifications": [
+    {
+      "notificationId": "trending-5ee59d17f0dd3f7a",
+      "articleId": "5ee59d17f0dd3f7a",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Kerala BJP leader deletes post on Mammootty's religion amid actor's visit row",
+      "sourceUrl": "https://www.indiatoday.in/india/kerala/story/mammootty-visit-row-bjp-leader-b-gopalakrishnan-deletes-religion-post-3036441-2026-11-11",
+      "category": "National & Trending News",
+      "source": "India Today",
+      "imageUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/mammootty-with-senior-bjp-leader-b-gopalakrishnan-093123670-original-sixteen-to-nine.jpg?VersionId=dNFIKKcMwg6XLLkSsXJXYTZyVF2KfuZx",
+      "publishedAt": "2026-11-10T18:32:40.000Z",
+      "sentAt": "2026-11-10T19:24:05.241Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/2166707483899724096"
+    },
     {
       "notificationId": "trending-f1ebb6446e196b44",
       "articleId": "f1ebb6446e196b44",
@@ -1387,20 +1401,6 @@
       "publishedAt": "2026-10-20T06:27:04.000Z",
       "sentAt": "2026-10-20T11:00:37.909Z",
       "firebaseMessageId": "projects/newsteen75-af672/messages/8170119939611301253"
-    },
-    {
-      "notificationId": "trending-76ec0250459de4cb",
-      "articleId": "76ec0250459de4cb",
-      "type": "trending_news",
-      "title": "🔥 Trending on NewsTeen75",
-      "body": "Indian Army Successfully Concludes Tripura Agniveer Recruitment Rally 2026",
-      "sourceUrl": "https://www.tripurastarnews.com/indian-army-successfully-concludes-tripura-agniveer-recruitment-rally-2026/",
-      "category": "National & Trending News",
-      "source": "TRIPURA STAR NEWS",
-      "imageUrl": "https://www.tripurastarnews.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-20-at-3.25.32-AM1.jpeg",
-      "publishedAt": "2026-10-19T21:58:36.000Z",
-      "sentAt": "2026-10-20T05:42:28.692Z",
-      "firebaseMessageId": "projects/newsteen75-af672/messages/-4650095054872865523"
     }
   ]
 }
