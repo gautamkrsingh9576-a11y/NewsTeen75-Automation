@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-09T20:57:37.836Z",
+  "updatedAt": "2026-11-10T03:22:34.398Z",
   "count": 100,
   "notifications": [
+    {
+      "notificationId": "trending-6215255ab881c9e8",
+      "articleId": "6215255ab881c9e8",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Farm fire incidents lowest since 2021 in Haryana",
+      "sourceUrl": "https://www.tribuneindia.com/news/haryana/farm-fire-incidents-lowest-since-2021-in-haryana/",
+      "category": "National & Trending News",
+      "source": "The Tribune",
+      "imageUrl": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTNiNTI1MTAwLWRjNzktMTFmMS1iNDhmLTExMWE4MGEyNWU2MS5qcGc=",
+      "publishedAt": "2026-11-09T20:07:15.000Z",
+      "sentAt": "2026-11-10T03:22:34.125Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/2204697167909563963"
+    },
     {
       "notificationId": "trending-00c388ae46fcd8df",
       "articleId": "00c388ae46fcd8df",
@@ -1387,20 +1401,6 @@
       "publishedAt": "2026-10-19T22:50:32.000Z",
       "sentAt": "2026-10-20T00:31:38.284Z",
       "firebaseMessageId": "projects/newsteen75-af672/messages/-5455306975357410061"
-    },
-    {
-      "notificationId": "trending-dea04b8bdc90d076",
-      "articleId": "dea04b8bdc90d076",
-      "type": "trending_news",
-      "title": "🔥 Trending on NewsTeen75",
-      "body": "Andhra Pradesh local polls: YSRCP moves Supreme Court for protection of candidates",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/india/andhra-pradesh-local-polls-ysrcp-moves-supreme-court-for-protection-of-candidates/articleshow/135055445.cms?from=mdr",
-      "category": "National & Trending News",
-      "source": "The Economic Times",
-      "imageUrl": "https://img.etimg.com/thumb/msid-135055537,width-1200,height-900,imgsize-37710,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-10-19T19:00:08.000Z",
-      "sentAt": "2026-10-19T21:22:00.258Z",
-      "firebaseMessageId": "projects/newsteen75-af672/messages/5261723825199084356"
     }
   ]
 }
