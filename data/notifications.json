@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-11T06:56:22.848Z",
+  "updatedAt": "2026-11-11T14:58:40.361Z",
   "count": 100,
   "notifications": [
+    {
+      "notificationId": "trending-cea90900a37f1106",
+      "articleId": "cea90900a37f1106",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Odisha Cabinet Approves Free Campus Wi-Fi, New Paddy Procurement Policy, and Water Storage",
+      "sourceUrl": "https://pragativadi.com/odisha-cabinet-decisions-november-2026/",
+      "category": "National & Trending News",
+      "source": "Pragativadi",
+      "imageUrl": "https://pragativadi.com/wp-content/uploads/2026/11/85151380-a364-4122-b654-529f4cd49383.jpg",
+      "publishedAt": "2026-11-11T11:52:09.000Z",
+      "sentAt": "2026-11-11T14:58:39.827Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/699123000237851200"
+    },
     {
       "notificationId": "trending-8a9547bba6e69797",
       "articleId": "8a9547bba6e69797",
@@ -1387,20 +1401,6 @@
       "publishedAt": "2026-10-20T19:58:51.000Z",
       "sentAt": "2026-10-20T22:58:07.491Z",
       "firebaseMessageId": "projects/newsteen75-af672/messages/-6573010042201510425"
-    },
-    {
-      "notificationId": "trending-c2437b639e177da0",
-      "articleId": "c2437b639e177da0",
-      "type": "trending_news",
-      "title": "🔥 Trending on NewsTeen75",
-      "body": "Maharashtra Deputy CM Eknath Shinde’s Dussehra rally focuses on development, drought-hit",
-      "sourceUrl": "https://www.mid-day.com/amp/mumbai/mumbai-news/article/dussehra-2026-maharashtra-deputy-cm-eknath-shindes-dussehra-rally-in-mumbai-focuses-on-development-drought-relief-23656095",
-      "category": "National & Trending News",
-      "source": "Mid-Day",
-      "imageUrl": "https://images.mid-day.com/images/images/2026/oct/eknath-shinde-dusserah-2026-lead_1792515998164_d.jpg",
-      "publishedAt": "2026-10-20T17:10:00.000Z",
-      "sentAt": "2026-10-20T19:51:36.235Z",
-      "firebaseMessageId": "projects/newsteen75-af672/messages/-5429884658929200420"
     }
   ]
 }
