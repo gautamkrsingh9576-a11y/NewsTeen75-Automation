@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-12T18:43:06.050Z",
+  "updatedAt": "2026-11-12T23:59:15.318Z",
   "count": 100,
   "notifications": [
+    {
+      "notificationId": "trending-af6c92d89bcf2994",
+      "articleId": "af6c92d89bcf2994",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Verka increases milk prices in Punjab, Delhi-NCR from November 13",
+      "sourceUrl": "https://www.aninews.in/news/national/general-news/verka-increases-milk-prices-in-punjab-delhi-ncr-from-november-1320261113023422/",
+      "category": "National & Trending News",
+      "source": "ANI News",
+      "imageUrl": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261112210356-thumbnail-320x180-70.jpg",
+      "publishedAt": "2026-11-12T21:04:00.000Z",
+      "sentAt": "2026-11-12T23:59:15.023Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-6406221648726234455"
+    },
     {
       "notificationId": "trending-9da290d4e6327643",
       "articleId": "9da290d4e6327643",
@@ -1387,20 +1401,6 @@
       "publishedAt": "2026-10-21T20:01:07.000Z",
       "sentAt": "2026-10-21T21:19:54.544Z",
       "firebaseMessageId": "projects/newsteen75-af672/messages/8458794988312027346"
-    },
-    {
-      "notificationId": "trending-13b97c022d56ea17",
-      "articleId": "13b97c022d56ea17",
-      "type": "trending_news",
-      "title": "🔥 Trending on NewsTeen75",
-      "body": "GRAP-1 curbs imposed in Delhi-NCR as air quality slips into ‘poor’ category",
-      "sourceUrl": "https://www.thehindu.com/news/cities/Delhi/grap-1-curbs-imposed-in-delhi-ncr-as-air-quality-slips-into-poor-category/article71607093.ece",
-      "category": "National & Trending News",
-      "source": "The Hindu",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/6no45k/article71607110.ece/alternates/LANDSCAPE_1200/PTI10_21_2026_000116B.jpg",
-      "publishedAt": "2026-10-21T12:18:23.000Z",
-      "sentAt": "2026-10-21T17:32:52.628Z",
-      "firebaseMessageId": "projects/newsteen75-af672/messages/2655316352019122050"
     }
   ]
 }
