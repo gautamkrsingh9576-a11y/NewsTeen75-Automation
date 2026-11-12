@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-12T02:43:36.151Z",
+  "updatedAt": "2026-11-12T10:42:29.501Z",
   "count": 100,
   "notifications": [
+    {
+      "notificationId": "trending-e8d0afd2bc42d24f",
+      "articleId": "e8d0afd2bc42d24f",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Uttarakhand biker escapes death after elephant steps on him twice on highway",
+      "sourceUrl": "https://www.indiatoday.in/trending-news/story/uttarakhand-biker-escapes-death-after-elephant-steps-on-him-twice-on-highway-3037308-2026-11-12",
+      "category": "National & Trending News",
+      "source": "India Today",
+      "imageUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/elephant-123942779-16x9_0.jpg?VersionId=c4gEwQyFa.4jujYmEEMv3H2LXX2E63Nc",
+      "publishedAt": "2026-11-12T08:40:28.000Z",
+      "sentAt": "2026-11-12T10:42:29.196Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/1973433305808304156"
+    },
     {
       "notificationId": "trending-0d9233211b6ec637",
       "articleId": "0d9233211b6ec637",
@@ -1387,20 +1401,6 @@
       "publishedAt": "2026-10-21T06:28:19.000Z",
       "sentAt": "2026-10-21T12:13:23.878Z",
       "firebaseMessageId": "projects/newsteen75-af672/messages/2010094328589139492"
-    },
-    {
-      "notificationId": "trending-81dbda8001faf703",
-      "articleId": "81dbda8001faf703",
-      "type": "trending_news",
-      "title": "🔥 Trending on NewsTeen75",
-      "body": "'1st attack on October 11 failed': How shooters used Tiger Shroff’s social media posts",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/mumbai/1st-attack-on-oct-11-failed-how-shooters-used-tiger-shroffs-social-media-posts-to-track-him-recced-juhu-ground-for-10-days/articleshow/135079508.cms",
-      "category": "Crime & Breaking News",
-      "source": "The Times of India",
-      "imageUrl": "https://static.toiimg.com/thumb/msid-135079540,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-10-21T01:47:00.000Z",
-      "sentAt": "2026-10-21T06:26:37.487Z",
-      "firebaseMessageId": "projects/newsteen75-af672/messages/2960126745241207215"
     }
   ]
 }
