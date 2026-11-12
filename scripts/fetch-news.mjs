@@ -498,8 +498,7 @@ function hasRequiredSummary(article) {
   return (
     summary.length > 0 &&
     !isGeneratedFallbackSummary(summary) &&
-    summaryWordCountIsValid(summary) &&
-    summaryEndsWithCompleteSentence(summary)
+    summaryIsValid(summary)
   );
 }
 
@@ -571,13 +570,30 @@ function summaryEndsWithCompleteSentence(text = "") {
   return /[.!?]["'”’)]?$/.test(String(text || "").trim());
 }
 
+function looksLikeCodeOrUiConfig(text = "") {
+  const clean = String(text || "").replace(/\\r|\\n/g, " ").trim();
+  if (!clean) return false;
+
+  const strongSignals = [
+    /\bDOMContentLoaded\b/i,
+    /\bdocument\s*\.\s*addEventListener\s*\(/i,
+    /\bwindow\s*\.\s*[A-Za-z_$][\w$]*/i,
+    /\b(?:let|const|var)\s+[A-Za-z_$][\w$]*\s*=\s*[{[(]/i,
+    /\b(?:savedPopupTitle|savedCtaText|savedPopupDesc|savedCtaRedirect|savedCtaTarget|maxSavedItems)\s*:/i,
+    /\$\s*\(\s*['"`]/,
+  ];
+
+  return strongSignals.some((pattern) => pattern.test(clean));
+}
+
 function summaryIsValid(text = "") {
   const clean = String(text || "").trim();
 
   return (
     summaryWordCountIsValid(clean) &&
     summaryEndsWithCompleteSentence(clean) &&
-    !/(?:\.\.\.|…)/.test(clean)
+    !/(?:\.\.\.|…)/.test(clean) &&
+    !looksLikeCodeOrUiConfig(clean)
   );
 }
 
@@ -954,7 +970,7 @@ async function rewriteArticleWithAI({
 
   if (
     headlineWordCountIsValid(fallbackHeadline) &&
-    summaryWordCountIsValid(fallbackSummary)
+    summaryIsValid(fallbackSummary)
   ) {
     console.warn(
       `AI fallback used for article ${articleRef || title}.`
@@ -1013,10 +1029,7 @@ function buildSummary(title, description, articleText = "") {
     MAX_SUMMARY_WORDS
   );
 
-  if (
-    summaryWordCountIsValid(trimmed) &&
-    summaryEndsWithCompleteSentence(trimmed)
-  ) {
+  if (summaryIsValid(trimmed)) {
     return trimmed;
   }
 
