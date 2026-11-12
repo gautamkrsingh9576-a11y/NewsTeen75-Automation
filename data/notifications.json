@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-11T21:50:37.645Z",
+  "updatedAt": "2026-11-12T02:43:36.151Z",
   "count": 100,
   "notifications": [
+    {
+      "notificationId": "trending-0d9233211b6ec637",
+      "articleId": "0d9233211b6ec637",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "News18 Marathi Headlines | 12 NOV | 7 AM | Maharashtra Politics | Shinde",
+      "sourceUrl": "https://news18marathi.com/videos/maharashtra/news18-marathi-headlines-12-nov-7-am-maharashtra-politics-shinde-ncp-pawar-fadnavis-1828834.html",
+      "category": "National & Trending News",
+      "source": "News18 Marathi",
+      "imageUrl": "https://images.news18.com/news18marathi/uploads/2026/11/1794447062_42f5067c-7091-4d37-922b-f2b2d196b294-1200x675.jpeg",
+      "publishedAt": "2026-11-12T01:28:36.000Z",
+      "sentAt": "2026-11-12T02:43:35.670Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/5772203761973094145"
+    },
     {
       "notificationId": "trending-ad3c08c5c02b338c",
       "articleId": "ad3c08c5c02b338c",
@@ -1387,20 +1401,6 @@
       "publishedAt": "2026-10-21T01:47:00.000Z",
       "sentAt": "2026-10-21T06:26:37.487Z",
       "firebaseMessageId": "projects/newsteen75-af672/messages/2960126745241207215"
-    },
-    {
-      "notificationId": "trending-94be6b39b3843e4d",
-      "articleId": "94be6b39b3843e4d",
-      "type": "trending_news",
-      "title": "🔥 Trending on NewsTeen75",
-      "body": "HP Guv Kavinder releases books on Dogri theatre",
-      "sourceUrl": "https://www.dailyexcelsior.com/hp-guv-kavinder-releases-books-on-dogri-theatre/",
-      "category": "National & Trending News",
-      "source": "Daily Excelsior",
-      "imageUrl": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYWE1MzI0MjYwLWNjZDktMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
-      "publishedAt": "2026-10-20T22:57:35.000Z",
-      "sentAt": "2026-10-21T01:27:10.946Z",
-      "firebaseMessageId": "projects/newsteen75-af672/messages/6148886006065863389"
     }
   ]
 }
