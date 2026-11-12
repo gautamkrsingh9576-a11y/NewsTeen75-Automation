@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-12T10:42:29.501Z",
+  "updatedAt": "2026-11-12T18:43:06.050Z",
   "count": 100,
   "notifications": [
+    {
+      "notificationId": "trending-9da290d4e6327643",
+      "articleId": "9da290d4e6327643",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "No use of visiting Sikkim ,& Shimla to assess ropeway:JAC",
+      "sourceUrl": "https://meghalayamonitor.com/no-use-of-visiting-sikkim-shimla-to-assess-ropewayjac/",
+      "category": "National & Trending News",
+      "source": "Meghalaya Monitor",
+      "imageUrl": "https://meghalayamonitor.com/wp-content/uploads/2026/11/Screenshot_2026-11-12-22-19-00-824_com.whatsapp-edit.jpg",
+      "publishedAt": "2026-11-12T17:08:27.000Z",
+      "sentAt": "2026-11-12T18:43:05.643Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-6496320321021872522"
+    },
     {
       "notificationId": "trending-e8d0afd2bc42d24f",
       "articleId": "e8d0afd2bc42d24f",
@@ -1387,20 +1401,6 @@
       "publishedAt": "2026-10-21T12:18:23.000Z",
       "sentAt": "2026-10-21T17:32:52.628Z",
       "firebaseMessageId": "projects/newsteen75-af672/messages/2655316352019122050"
-    },
-    {
-      "notificationId": "trending-bb855890aa20fc85",
-      "articleId": "bb855890aa20fc85",
-      "type": "trending_news",
-      "title": "🔥 Trending on NewsTeen75",
-      "body": "Meghalaya HC Closes Contempt Proceedings Against Lawyers After Unconditional Apology",
-      "sourceUrl": "https://courtbook.in/posts/meghalaya-hc-closes-contempt-proceedings-against-lawyers-after-unconditional-apology-over-court-boycott",
-      "category": "National & Trending News",
-      "source": "Court Book",
-      "imageUrl": "https://s3.courtbook.in/2026/10/advocate-4242452.webp",
-      "publishedAt": "2026-10-21T06:28:19.000Z",
-      "sentAt": "2026-10-21T12:13:23.878Z",
-      "firebaseMessageId": "projects/newsteen75-af672/messages/2010094328589139492"
     }
   ]
 }
