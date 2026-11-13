@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-13T06:24:44.061Z",
+  "updatedAt": "2026-11-13T14:48:30.348Z",
   "count": 100,
   "notifications": [
+    {
+      "notificationId": "trending-f7be99eefcb03104",
+      "articleId": "f7be99eefcb03104",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "KNRUHS begins first-phase counselling for PG medical admissions",
+      "sourceUrl": "https://telanganatoday.com/knruhs-begins-first-phase-counselling-for-pg-medical-admissions",
+      "category": "National & Trending News",
+      "source": "Telangana Today",
+      "imageUrl": "https://media.telanganatoday.com/wp-content/uploads/2026/11/KNRUHS-1-2.jpg",
+      "publishedAt": "2026-11-13T10:42:24.000Z",
+      "sentAt": "2026-11-13T14:48:29.861Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-3428144975232583809"
+    },
     {
       "notificationId": "trending-0d4d6b6eac1f5b2b",
       "articleId": "0d4d6b6eac1f5b2b",
@@ -1387,20 +1401,6 @@
       "publishedAt": "2026-10-22T01:11:11.000Z",
       "sentAt": "2026-10-22T05:12:11.369Z",
       "firebaseMessageId": "projects/newsteen75-af672/messages/8379236129734713310"
-    },
-    {
-      "notificationId": "trending-fd5f58faee8de782",
-      "articleId": "fd5f58faee8de782",
-      "type": "trending_news",
-      "title": "🔥 Trending on NewsTeen75",
-      "body": "Video of Chhattisgarh woman IPS officer firing AK-47 during Dussehra ritual sparks debate",
-      "sourceUrl": "https://www.dailyexcelsior.com/video-of-chhattisgarh-woman-ips-officer-firing-ak-47-during-dussehra-ritual-sparks-debate/",
-      "category": "National & Trending News",
-      "source": "Daily Excelsior",
-      "imageUrl": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYWI5MmViY2MwLWNkYTItMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
-      "publishedAt": "2026-10-21T22:56:55.000Z",
-      "sentAt": "2026-10-22T00:06:49.816Z",
-      "firebaseMessageId": "projects/newsteen75-af672/messages/4430692972423761487"
     }
   ]
 }
