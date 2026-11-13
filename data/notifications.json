@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-13T14:48:30.348Z",
+  "updatedAt": "2026-11-13T21:13:27.879Z",
   "count": 100,
   "notifications": [
+    {
+      "notificationId": "trending-9eec1192724d9e88",
+      "articleId": "9eec1192724d9e88",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Haryana Raises Subsidised Solar Capacity Limit to 30 kW for Shrimp Farmers",
+      "sourceUrl": "https://www.energetica-india.net/news/haryana-raises-subsidised-solar-capacity-limit-to-30-kw-for-shrimp-farmers",
+      "category": "National & Trending News",
+      "source": "Energetica India Magazine",
+      "imageUrl": "https://www.energetica-india.net/images/noticias/Enwflg0zmAKc4yHPEzf0lxvrLOZIQNspOGnmqQoZKrmSzuiYiwa6tD.jpg",
+      "publishedAt": "2026-11-13T17:57:06.000Z",
+      "sentAt": "2026-11-13T21:13:27.611Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-7821547841429841141"
+    },
     {
       "notificationId": "trending-f7be99eefcb03104",
       "articleId": "f7be99eefcb03104",
@@ -1387,20 +1401,6 @@
       "publishedAt": "2026-10-22T07:25:48.000Z",
       "sentAt": "2026-10-22T10:26:59.038Z",
       "firebaseMessageId": "projects/newsteen75-af672/messages/-2934308077428145868"
-    },
-    {
-      "notificationId": "trending-be41438037053b48",
-      "articleId": "be41438037053b48",
-      "type": "trending_news",
-      "title": "🔥 Trending on NewsTeen75",
-      "body": "School Leave update | பள்ளிகளுக்கு இன்று விடுமுறை | Tirunelveli | Heavy Rain | Tamil",
-      "sourceUrl": "https://tamil.news18.com/videos/tamil-nadu/school-leave-update-tirunelveli-heavy-rain-tamil-news-breaking-2236507.html",
-      "category": "National & Trending News",
-      "source": "News18 Tamil",
-      "imageUrl": "https://images.news18.com/tamil/uploads/2026/10/1792631777_9fed8eba-0b95-409b-8af3-bea69b5c9ed0-1200x675.jpeg",
-      "publishedAt": "2026-10-22T01:11:11.000Z",
-      "sentAt": "2026-10-22T05:12:11.369Z",
-      "firebaseMessageId": "projects/newsteen75-af672/messages/8379236129734713310"
     }
   ]
 }
