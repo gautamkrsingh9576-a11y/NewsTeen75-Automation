@@ -25,10 +25,6 @@ const MAX_SHORT_SECONDS = Math.min(
   180,
   Math.max(1, Number(process.env.MAX_SHORT_SECONDS || 180))
 );
-const VIDEO_FRESH_HOURS = Math.min(
-  168,
-  Math.max(1, Number(process.env.VIDEO_FRESH_HOURS || 48))
-);
 const OUTPUT_PATH = new URL("../data/videos.json", import.meta.url);
 
 if (!SUPABASE_URL || !SUPABASE_SERVICE_ROLE_KEY) {
@@ -345,17 +341,6 @@ async function fetchLatestUploads(source) {
   );
 }
 
-function isFreshEnough(publishedAt) {
-  const timestamp = new Date(publishedAt).getTime();
-  if (!Number.isFinite(timestamp)) return false;
-
-  const ageMs = Date.now() - timestamp;
-  return (
-    ageMs >= -60 * 60 * 1000 &&
-    ageMs <= VIDEO_FRESH_HOURS * 60 * 60 * 1000
-  );
-}
-
 function languageAllowed(snippet = {}) {
   const language =
     snippet.defaultAudioLanguage ||
@@ -576,10 +561,6 @@ async function writeFallbackJson() {
     return;
   }
 
-  const freshCutoff = new Date(
-    Date.now() - VIDEO_FRESH_HOURS * 60 * 60 * 1000
-  ).toISOString();
-
   const feedCandidateLimit = Math.min(
     1000,
     Math.max(VIDEO_FEED_MAX, VIDEO_FEED_MAX * 4)
@@ -594,7 +575,6 @@ async function writeFallbackJson() {
     .eq("status", "active")
     .eq("embeddable", true)
     .lte("duration_seconds", MAX_SHORT_SECONDS)
-    .gte("published_at", freshCutoff)
     .order("published_at", { ascending: false })
     .order("id", { ascending: false })
     .limit(feedCandidateLimit);
@@ -805,7 +785,6 @@ async function main() {
     notPublic: 0,
     live: 0,
     ageRestricted: 0,
-    stale: 0,
     language: 0,
     missingContent: 0,
   };
@@ -877,11 +856,6 @@ async function main() {
     const publishedAt =
       snippet.publishedAt ||
       candidate.publishedAt;
-
-    if (!isFreshEnough(publishedAt)) {
-      rejectionCounts.stale += 1;
-      continue;
-    }
 
     if (!languageAllowed(snippet)) {
       rejectionCounts.language += 1;
@@ -959,7 +933,6 @@ async function main() {
         videosAccepted: rows.length,
         videosUpserted: upsertedCount,
         rejectionCounts,
-        freshWindowHours: VIDEO_FRESH_HOURS,
         maxDurationSeconds: MAX_SHORT_SECONDS,
       },
       null,
