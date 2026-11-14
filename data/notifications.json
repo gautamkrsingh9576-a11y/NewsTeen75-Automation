@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-14T15:36:53.490Z",
+  "updatedAt": "2026-11-14T20:27:46.185Z",
   "count": 100,
   "notifications": [
+    {
+      "notificationId": "trending-2c2275ce4df7fd3c",
+      "articleId": "2c2275ce4df7fd3c",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "From a rustic tradition to world recognition, Meghalaya’s Wangala festival marks",
+      "sourceUrl": "https://www.thehindu.com/news/national/meghalaya/from-a-rustic-tradition-to-world-recognition-meghalayas-wangala-festival-marks-a-flourishing-heritage/article71702147.ece",
+      "category": "National & Trending News",
+      "source": "The Hindu",
+      "imageUrl": "https://th-i.thgim.com/public/news/national/ajcs5r/article71702148.ece/alternates/LANDSCAPE_1200/IMG-20261114-WA0025.jpg",
+      "publishedAt": "2026-11-14T16:38:43.000Z",
+      "sentAt": "2026-11-14T20:27:45.860Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/2151249571717782163"
+    },
     {
       "notificationId": "trending-f9c1b487d07e6f8a",
       "articleId": "f9c1b487d07e6f8a",
@@ -1387,20 +1401,6 @@
       "publishedAt": "2026-10-22T23:00:00.000Z",
       "sentAt": "2026-10-23T01:24:54.754Z",
       "firebaseMessageId": "projects/newsteen75-af672/messages/-873420905566591601"
-    },
-    {
-      "notificationId": "trending-62711c55dc398c71",
-      "articleId": "62711c55dc398c71",
-      "type": "trending_news",
-      "title": "🔥 Trending on NewsTeen75",
-      "body": "Legal action ordered against officials over irregularities in voter list in Pilibhit",
-      "sourceUrl": "https://www.thehindu.com/news/national/uttar-pradesh/legal-action-ordered-against-officials-over-irregularities-in-voter-list-in-pilibhit/article71613043.ece",
-      "category": "National & Trending News",
-      "source": "The Hindu",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/8yuyth/article71613328.ece/alternates/LANDSCAPE_1200/TH30-nearby0_G6GTKGJQ13J.3.jpg.jpg",
-      "publishedAt": "2026-10-22T21:00:00.000Z",
-      "sentAt": "2026-10-22T22:59:57.246Z",
-      "firebaseMessageId": "projects/newsteen75-af672/messages/9209960685693101188"
     }
   ]
 }
