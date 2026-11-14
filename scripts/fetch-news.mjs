@@ -580,6 +580,11 @@ function looksLikeCodeOrUiConfig(text = "") {
     /\bwindow\s*\.\s*[A-Za-z_$][\w$]*/i,
     /\b(?:let|const|var)\s+[A-Za-z_$][\w$]*\s*=\s*[{[(]/i,
     /\b(?:savedPopupTitle|savedCtaText|savedPopupDesc|savedCtaRedirect|savedCtaTarget|maxSavedItems)\s*:/i,
+    /@(?:media|supports|font-face|keyframes)\b/i,
+    /\/\*[\s\S]*?\*\//,
+    /(?:^|[\s;}])(?:body|html|[.#][\w-]+)(?::[\w-]+(?:\([^)]*\))?)?\s*(?:[>+~]\s*[.#\w:-]+\s*)?\{/i,
+    /\b(?:display|justify-content|align-items|overflow-x|overflow-y|margin-left|padding|font-size|background-color|z-index)\s*:\s*[^;{}]+\s*;/i,
+    /!important\s*;/i,
     /\$\s*\(\s*['"`]/,
   ];
 
