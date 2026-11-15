@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-15T06:57:58.452Z",
+  "updatedAt": "2026-11-15T14:39:24.849Z",
   "count": 100,
   "notifications": [
+    {
+      "notificationId": "trending-ba36977ee84d1fc6",
+      "articleId": "ba36977ee84d1fc6",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Andaman Administration Declares November 16 Public Holiday for Chhath Puja, Revises",
+      "sourceUrl": "https://thewaveandaman.com/andaman-public-holiday-chhath-puja-november-16-2026/",
+      "category": "National & Trending News",
+      "source": "The Wave Andaman",
+      "imageUrl": "https://thewaveandaman.com/wp-content/uploads/2025/10/environment-day-10.png",
+      "publishedAt": "2026-11-15T07:32:12.000Z",
+      "sentAt": "2026-11-15T14:39:24.334Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-3072156381134353960"
+    },
     {
       "notificationId": "trending-79d6cdf9e1ac6c33",
       "articleId": "79d6cdf9e1ac6c33",
@@ -1387,20 +1401,6 @@
       "publishedAt": "2026-10-23T13:52:47.000Z",
       "sentAt": "2026-10-23T16:41:57.315Z",
       "firebaseMessageId": "projects/newsteen75-af672/messages/-9089087815602288673"
-    },
-    {
-      "notificationId": "trending-fe53b6b05bb4e23d",
-      "articleId": "fe53b6b05bb4e23d",
-      "type": "trending_news",
-      "title": "🔥 Trending on NewsTeen75",
-      "body": "Kerala BJP leader surrenders year after Rs 8-cr heist in Qatar, claims he was",
-      "sourceUrl": "https://www.indiatoday.in/amp/india/kerala/story/qatar-doha-kmcc-rs-8-crore-robbery-kerala-suspect-surrenders-bjp-leader-3023421-2026-10-23",
-      "category": "National & Trending News",
-      "source": "India Today",
-      "imageUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/balakrishnan-claimed-he-was-deceived-into-participating-in-the-operation-without-knowing-that-the-ta-233105362-16x9_0.jpeg?VersionId=HUeCVuks3vkwhHw8RlEyQUbSv.cmeKo4",
-      "publishedAt": "2026-10-23T09:31:43.000Z",
-      "sentAt": "2026-10-23T11:56:11.389Z",
-      "firebaseMessageId": "projects/newsteen75-af672/messages/1996724105842445244"
     }
   ]
 }
