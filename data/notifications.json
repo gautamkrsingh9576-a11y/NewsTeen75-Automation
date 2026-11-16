@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-16T07:04:37.926Z",
+  "updatedAt": "2026-11-16T17:18:22.353Z",
   "count": 100,
   "notifications": [
+    {
+      "notificationId": "trending-0970743bdb2cfc4f",
+      "articleId": "0970743bdb2cfc4f",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "30-year dispute settled, Gujarat set to get water under new inter-state arrangement",
+      "sourceUrl": "https://indianexpress.com/article/cities/ahmedabad/gujarat-inter-state-water-dispute-settlement-water-sharing-agreement-10965719/",
+      "category": "National & Trending News",
+      "source": "The Indian Express",
+      "imageUrl": "https://images.indianexpress.com/2026/11/cr-patil.jpg",
+      "publishedAt": "2026-11-16T15:15:16.000Z",
+      "sentAt": "2026-11-16T17:18:21.862Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/8944002006943766207"
+    },
     {
       "notificationId": "trending-400eb2b4522b4328",
       "articleId": "400eb2b4522b4328",
@@ -1387,20 +1401,6 @@
       "publishedAt": "2026-10-24T04:06:39.000Z",
       "sentAt": "2026-10-24T06:55:12.821Z",
       "firebaseMessageId": "projects/newsteen75-af672/messages/570053243651161726"
-    },
-    {
-      "notificationId": "trending-533f336a8520b7ae",
-      "articleId": "533f336a8520b7ae",
-      "type": "trending_news",
-      "title": "🔥 Trending on NewsTeen75",
-      "body": "Van Dyke appears before court in Manipur arms case",
-      "sourceUrl": "https://www.tribuneindia.com/news/india/van-dyke-appears-before-court-in-manipur-arms-case/amp",
-      "category": "National & Trending News",
-      "source": "The Tribune",
-      "imageUrl": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTE3YjZkMjQwLWNmMWItMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
-      "publishedAt": "2026-10-23T19:47:49.000Z",
-      "sentAt": "2026-10-24T01:49:25.366Z",
-      "firebaseMessageId": "projects/newsteen75-af672/messages/-4570901284682510501"
     }
   ]
 }
