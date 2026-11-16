@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-15T20:11:15.098Z",
+  "updatedAt": "2026-11-16T00:11:42.913Z",
   "count": 100,
   "notifications": [
+    {
+      "notificationId": "trending-b3872bc20103d888",
+      "articleId": "b3872bc20103d888",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Naga community thanks host Meghalaya in friendship tribute",
+      "sourceUrl": "https://meghalayamonitor.com/naga-community-thanks-host-meghalaya-in-friendship-tribute/",
+      "category": "National & Trending News",
+      "source": "Meghalaya Monitor",
+      "imageUrl": "https://meghalayamonitor.com/wp-content/uploads/2026/11/Screenshot_2026-11-16-05-08-44-553_com.whatsapp-edit.jpg",
+      "publishedAt": "2026-11-15T23:44:50.000Z",
+      "sentAt": "2026-11-16T00:11:42.592Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-292636264856219823"
+    },
     {
       "notificationId": "trending-5d351add9fae0c2e",
       "articleId": "5d351add9fae0c2e",
@@ -1387,20 +1401,6 @@
       "publishedAt": "2026-10-23T19:55:40.000Z",
       "sentAt": "2026-10-23T23:19:59.143Z",
       "firebaseMessageId": "projects/newsteen75-af672/messages/-5884120859284778673"
-    },
-    {
-      "notificationId": "trending-516107ba3a3267c1",
-      "articleId": "516107ba3a3267c1",
-      "type": "trending_news",
-      "title": "🔥 Trending on NewsTeen75",
-      "body": "New movies and shows arrive on streaming platforms this week",
-      "sourceUrl": "https://economictimes.indiatimes.com/magazines/panache/new-ott-releases-to-watch-this-week-9-new-movies-and-shows-on-netflix-jiohotstar-prime-video-zee5-and-more/articleshow/135061888.cms?from=mdr",
-      "category": "Crime & Breaking News",
-      "source": "The Economic Times",
-      "imageUrl": "https://img.etimg.com/thumb/msid-135062494,width-1200,height-900,imgsize-219425,overlay-etpanache/articleshow.jpg",
-      "publishedAt": "2026-10-23T17:54:45.000Z",
-      "sentAt": "2026-10-23T20:13:33.244Z",
-      "firebaseMessageId": "projects/newsteen75-af672/messages/-135344031927106353"
     }
   ]
 }
