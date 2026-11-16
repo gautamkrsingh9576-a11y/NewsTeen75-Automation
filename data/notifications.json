@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-16T00:11:42.913Z",
+  "updatedAt": "2026-11-16T07:04:37.926Z",
   "count": 100,
   "notifications": [
+    {
+      "notificationId": "trending-400eb2b4522b4328",
+      "articleId": "400eb2b4522b4328",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "After Kaziranga Accident, Assam CM Chairs Meeting on Road Safety, Issues Strict Directives",
+      "sourceUrl": "https://www.guwahatiplus.com/assam/after-kaziranga-accident-assam-cm-chairs-meeting-on-road-safety-issues-strict-directives",
+      "category": "National & Trending News",
+      "source": "guwahati Plus News",
+      "imageUrl": "https://www.guwahatiplus.com/storage/app/public/daily_banners/fb_image/0833a31c8f270bd2b050c924f9f468d4.webp",
+      "publishedAt": "2026-11-16T05:57:31.000Z",
+      "sentAt": "2026-11-16T07:04:37.546Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-5626802059291395676"
+    },
     {
       "notificationId": "trending-b3872bc20103d888",
       "articleId": "b3872bc20103d888",
@@ -1387,20 +1401,6 @@
       "publishedAt": "2026-10-23T19:47:49.000Z",
       "sentAt": "2026-10-24T01:49:25.366Z",
       "firebaseMessageId": "projects/newsteen75-af672/messages/-4570901284682510501"
-    },
-    {
-      "notificationId": "trending-530808a3dec0c65d",
-      "articleId": "530808a3dec0c65d",
-      "type": "trending_news",
-      "title": "🔥 Trending on NewsTeen75",
-      "body": "Nagaland State Lottery Sambad 22.10.2026 Today 1PM, 6PM & 8PM; Dear Thursday Lottery Live",
-      "sourceUrl": "https://www.goodreturns.in/news/nagaland-state-lottery-sambad-22-10-2026-today-1pm-6pm-8pm-dear-thursday-lottery-live-winners-list-1542981.html",
-      "category": "National & Trending News",
-      "source": "Goodreturns",
-      "imageUrl": "https://images.goodreturns.in/img/2026/10/nagalandstatelotteryresulttoday3-82521792652894.jpg",
-      "publishedAt": "2026-10-23T19:55:40.000Z",
-      "sentAt": "2026-10-23T23:19:59.143Z",
-      "firebaseMessageId": "projects/newsteen75-af672/messages/-5884120859284778673"
     }
   ]
 }
