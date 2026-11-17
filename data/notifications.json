@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-17T08:59:28.635Z",
+  "updatedAt": "2026-11-17T18:25:50.341Z",
   "count": 100,
   "notifications": [
+    {
+      "notificationId": "trending-2096f9695aef6623",
+      "articleId": "2096f9695aef6623",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "What Nakul Nath's show of strength means for Congress in MP",
+      "sourceUrl": "https://www.indiatoday.in/amp/india-today-insight/story/what-nakul-naths-show-of-strength-means-for-congress-in-madhya-pradesh-3040969-2026-11-17",
+      "category": "National & Trending News",
+      "source": "India Today",
+      "imageUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/nakul-nath-173151849-16x9_0.jpg?VersionId=oTXuJR5VrBCZnOTR9mbVZediWx1flySD",
+      "publishedAt": "2026-11-17T14:34:28.000Z",
+      "sentAt": "2026-11-17T18:25:50.137Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-5359705907279972599"
+    },
     {
       "notificationId": "trending-10b8f9041a93b2fd",
       "articleId": "10b8f9041a93b2fd",
@@ -1387,20 +1401,6 @@
       "publishedAt": "2026-10-24T16:23:55.000Z",
       "sentAt": "2026-10-24T18:19:49.703Z",
       "firebaseMessageId": "projects/newsteen75-af672/messages/-4912785539702067727"
-    },
-    {
-      "notificationId": "trending-9bbc123eddf3bcf8",
-      "articleId": "9bbc123eddf3bcf8",
-      "type": "trending_news",
-      "title": "🔥 Trending on NewsTeen75",
-      "body": "Karnataka government plans discounted fares for Golden Chariot tourist train during",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/karnataka-government-plans-discounted-fares-for-golden-chariot-tourist-train-during-off-season/article71619856.ece",
-      "category": "National & Trending News",
-      "source": "The Hindu",
-      "imageUrl": "https://th-i.thgim.com/public/incoming/dlf5sr/article71620171.ece/alternates/LANDSCAPE_1200/ALL_5125A.JPG",
-      "publishedAt": "2026-10-24T13:12:40.000Z",
-      "sentAt": "2026-10-24T15:29:36.381Z",
-      "firebaseMessageId": "projects/newsteen75-af672/messages/-2796123332158296882"
     }
   ]
 }
