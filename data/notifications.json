@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-17T00:58:08.160Z",
+  "updatedAt": "2026-11-17T08:59:28.635Z",
   "count": 100,
   "notifications": [
+    {
+      "notificationId": "trending-10b8f9041a93b2fd",
+      "articleId": "10b8f9041a93b2fd",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "MP CM unveils 82 projects worth ₹357 cr in Shahdol | Tap to know",
+      "sourceUrl": "https://inshorts.com/en/news/mp-cm-unveils-82-projects-worth--357-cr-in-shahdol-1794892257091",
+      "category": "National & Trending News",
+      "source": "Inshorts",
+      "imageUrl": "https://media.inshorts.com/inshorts/images/v1/variants/jpg/l/2026/11_nov/17_tue/img_1794892257382_481.jpg",
+      "publishedAt": "2026-11-17T05:10:57.000Z",
+      "sentAt": "2026-11-17T08:59:28.305Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-2347749212025041039"
+    },
     {
       "notificationId": "trending-48f37d54b0cdd0b7",
       "articleId": "48f37d54b0cdd0b7",
@@ -1387,20 +1401,6 @@
       "publishedAt": "2026-10-24T13:12:40.000Z",
       "sentAt": "2026-10-24T15:29:36.381Z",
       "firebaseMessageId": "projects/newsteen75-af672/messages/-2796123332158296882"
-    },
-    {
-      "notificationId": "trending-ec79bdab7625273a",
-      "articleId": "ec79bdab7625273a",
-      "type": "trending_news",
-      "title": "🔥 Trending on NewsTeen75",
-      "body": "Tiger Shroff Firing Case: Handlers Alerted Shooters After Seeing Faces On TV, Say Police",
-      "sourceUrl": "https://www.news18.com/india/tiger-shroff-firing-case-handlers-alerted-shooters-after-seeing-faces-on-tv-say-police-ws-l-10395575.html",
-      "category": "Crime & Breaking News",
-      "source": "News18",
-      "imageUrl": "https://images.news18.com/ibnlive/uploads/2026/10/MixCollage-23-Oct-2026-01-47-PM-3003-2026-10-574e74a4fb8210ebce836821c7443186-1200x675.jpg",
-      "publishedAt": "2026-10-24T04:05:38.000Z",
-      "sentAt": "2026-10-24T11:52:40.706Z",
-      "firebaseMessageId": "projects/newsteen75-af672/messages/7575251147219921631"
     }
   ]
 }
