@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-16T17:18:22.353Z",
+  "updatedAt": "2026-11-17T00:58:08.160Z",
   "count": 100,
   "notifications": [
+    {
+      "notificationId": "trending-48f37d54b0cdd0b7",
+      "articleId": "48f37d54b0cdd0b7",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Kalyan Chaubey's re-election in jeopardy as his bid for AIFF president stalls",
+      "sourceUrl": "https://www.deccanherald.com/amp/story/sports/football/kalyan-chaubeys-re-election-in-jeopardy-as-his-bid-for-aiff-president-stalls-4220623",
+      "category": "National & Trending News",
+      "source": "Deccan Herald",
+      "imageUrl": "https://cf-images.assettype.com/deccanherald%2F2026-11-16%2Faklj75wt%2Ffile823ngzbkoglxt580edv.jpg?rect=0%2C0%2C3568%2C1873&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "publishedAt": "2026-11-16T20:02:53.000Z",
+      "sentAt": "2026-11-17T00:58:07.437Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/6070168830435604709"
+    },
     {
       "notificationId": "trending-0970743bdb2cfc4f",
       "articleId": "0970743bdb2cfc4f",
@@ -1387,20 +1401,6 @@
       "publishedAt": "2026-10-24T04:05:38.000Z",
       "sentAt": "2026-10-24T11:52:40.706Z",
       "firebaseMessageId": "projects/newsteen75-af672/messages/7575251147219921631"
-    },
-    {
-      "notificationId": "trending-a37e68a9de708e27",
-      "articleId": "a37e68a9de708e27",
-      "type": "trending_news",
-      "title": "🔥 Trending on NewsTeen75",
-      "body": "Two sectors in Arunachal's Taksing remain sensitive, no clashes reported: Sources",
-      "sourceUrl": "https://www.indiatoday.in/india/story/arunachal-pradesh-lac-asaphila-longju-stable-india-china-patrol-friction-3023979-2026-10-24",
-      "category": "National & Trending News",
-      "source": "India Today",
-      "imageUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/india-china-border-lac-245452559-16x9_0.jpg?VersionId=cCMZpnRzmqG1JgODVAN_j1enuvP_sSPP",
-      "publishedAt": "2026-10-24T04:06:39.000Z",
-      "sentAt": "2026-10-24T06:55:12.821Z",
-      "firebaseMessageId": "projects/newsteen75-af672/messages/570053243651161726"
     }
   ]
 }
