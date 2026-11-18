@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-17T18:25:50.341Z",
+  "updatedAt": "2026-11-18T01:10:18.906Z",
   "count": 100,
   "notifications": [
+    {
+      "notificationId": "trending-ed8bca4561583ef1",
+      "articleId": "ed8bca4561583ef1",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Opposition, ruling councillors in Keralam’s Kochi Corporation spar over Thuruthy Towers",
+      "sourceUrl": "https://www.thehindu.com/news/national/kerala/opposition-ruling-councillors-in-keralams-kochi-corporation-spar-over-thuruthy-towers-ro-ro-service-at-stormy-council-meet/article71713463.ece",
+      "category": "National & Trending News",
+      "source": "The Hindu",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/xsclcb/article71713464.ece/alternates/LANDSCAPE_1200/Corporation%20council%20protest.jpg",
+      "publishedAt": "2026-11-17T19:58:00.000Z",
+      "sentAt": "2026-11-18T01:10:18.601Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-6724488097185655791"
+    },
     {
       "notificationId": "trending-2096f9695aef6623",
       "articleId": "2096f9695aef6623",
@@ -1387,20 +1401,6 @@
       "publishedAt": "2026-10-24T18:27:26.000Z",
       "sentAt": "2026-10-24T21:04:04.564Z",
       "firebaseMessageId": "projects/newsteen75-af672/messages/2633131786271039909"
-    },
-    {
-      "notificationId": "trending-f0201c84951fca53",
-      "articleId": "f0201c84951fca53",
-      "type": "trending_news",
-      "title": "🔥 Trending on NewsTeen75",
-      "body": "Odisha Cancels Leave of Collectors & Critical Officers Due to Ensuing Cyclone",
-      "sourceUrl": "https://pragativadi.com/odisha-cancels-leave-of-collectors-critical-officers-due-to-ensuing-cyclone/",
-      "category": "National & Trending News",
-      "source": "Pragativadi",
-      "imageUrl": "https://pragativadi.com/wp-content/uploads/2026/02/oas-transfer.jpg",
-      "publishedAt": "2026-10-24T16:23:55.000Z",
-      "sentAt": "2026-10-24T18:19:49.703Z",
-      "firebaseMessageId": "projects/newsteen75-af672/messages/-4912785539702067727"
     }
   ]
 }
