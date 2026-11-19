@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-18T23:57:10.859Z",
+  "updatedAt": "2026-11-19T06:52:08.306Z",
   "count": 100,
   "notifications": [
+    {
+      "notificationId": "trending-59ad2f666a1316a5",
+      "articleId": "59ad2f666a1316a5",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Over 12,000 Devotees Pay Homage to Sacred Relics of the Buddha at Namsai's Golden",
+      "sourceUrl": "https://ddindia.co.in/2026/11/over-12000-devotees-pay-homage-to-sacred-relics-of-the-buddha-at-namsais-golden-pagoda-in-arunachal-pradesh/",
+      "category": "National & Trending News",
+      "source": "DD India",
+      "imageUrl": "https://ddindia.co.in/wp-content/uploads/2026/11/ANI-20261117035407.jpg",
+      "publishedAt": "2026-11-18T20:11:15.000Z",
+      "sentAt": "2026-11-19T06:52:07.923Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/5655413390205813579"
+    },
     {
       "notificationId": "trending-1a48bc3b5ae48eec",
       "articleId": "1a48bc3b5ae48eec",
@@ -1387,20 +1401,6 @@
       "publishedAt": "2026-10-25T11:54:57.000Z",
       "sentAt": "2026-10-25T13:40:08.943Z",
       "firebaseMessageId": "projects/newsteen75-af672/messages/3069229764291587266"
-    },
-    {
-      "notificationId": "trending-218edd127d50f1e1",
-      "articleId": "218edd127d50f1e1",
-      "type": "trending_news",
-      "title": "🔥 Trending on NewsTeen75",
-      "body": "Aaj Tak Vertical Live TV: Watch Hindi Breaking News Live in Vertical Format",
-      "sourceUrl": "https://www.aajtak.in/vertical-livetv",
-      "category": "Crime & Breaking News",
-      "source": "AajTak",
-      "imageUrl": "https://akm-img-a-in.tosshub.com/aajtak/resources/at-vertical-tv-v2-647x404.png",
-      "publishedAt": "2026-10-25T06:19:18.000Z",
-      "sentAt": "2026-10-25T08:58:43.594Z",
-      "firebaseMessageId": "projects/newsteen75-af672/messages/5346409899267856899"
     }
   ]
 }
