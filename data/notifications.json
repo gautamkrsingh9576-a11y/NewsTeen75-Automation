@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-20T21:26:24.521Z",
+  "updatedAt": "2026-11-21T02:41:57.753Z",
   "count": 100,
   "notifications": [
+    {
+      "notificationId": "trending-b859cd863bb7d478",
+      "articleId": "b859cd863bb7d478",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Karnataka plans new bioenergy policy to boost compressed biogas projects",
+      "sourceUrl": "https://www.deccanherald.com/india/karnataka/karnataka-plans-new-bioenergy-policy-to-boost-compressed-biogas-projects-4226070",
+      "category": "National & Trending News",
+      "source": "Deccan Herald",
+      "imageUrl": "https://media.assettype.com/deccanherald%2F2026-11-20%2F9876xphq%2Fdeccanherald2026-09-20kssd6pn7istockphoto-500021302-612x612.avif?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
+      "publishedAt": "2026-11-20T22:27:37.000Z",
+      "sentAt": "2026-11-21T02:41:57.484Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/8780598801915967441"
+    },
     {
       "notificationId": "trending-ebf1b620fbe0aec6",
       "articleId": "ebf1b620fbe0aec6",
@@ -1387,20 +1401,6 @@
       "publishedAt": "2026-10-26T06:52:00.000Z",
       "sentAt": "2026-10-26T12:22:44.997Z",
       "firebaseMessageId": "projects/newsteen75-af672/messages/1567934137501100995"
-    },
-    {
-      "notificationId": "trending-02daa731ed6b44cb",
-      "articleId": "02daa731ed6b44cb",
-      "type": "trending_news",
-      "title": "🔥 Trending on NewsTeen75",
-      "body": "IMD weather today: ‘Red’ alert for heavy rains in Odisha, Kerala, Tamil Nadu",
-      "sourceUrl": "https://www.livemint.com/news/india/imd-weather-today-red-alert-for-heavy-rains-in-odisha-kerala-tamil-nadu-as-severe-cyclonic-storm-nears-andhra-11792976086151.html",
-      "category": "National & Trending News",
-      "source": "Livemint",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/26/1600x900/logo/PTI10-24-2026-000288B-0_1792978023361_1SJy_1792978048840_o8Jo_ec936faf-ab6e-40b8-a1d6-3ab228d88c8f_pnGV.jpg",
-      "publishedAt": "2026-10-26T01:37:05.000Z",
-      "sentAt": "2026-10-26T05:48:32.478Z",
-      "firebaseMessageId": "projects/newsteen75-af672/messages/-4616818810783104450"
     }
   ]
 }
