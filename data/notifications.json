@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-21T02:41:57.753Z",
+  "updatedAt": "2026-11-21T10:41:54.038Z",
   "count": 100,
   "notifications": [
+    {
+      "notificationId": "trending-e4eaa3e21e7abe74",
+      "articleId": "e4eaa3e21e7abe74",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "FBI's criminal database hacked in another cyberattack targeting the agency: Report",
+      "sourceUrl": "https://www.indiatoday.in/world/us-news/story/fbi-criminal-information-database-ncic-hacked-in-second-cybersecurity-incident-in-recent-months-says-report-3043672-2026-11-21",
+      "category": "Crime & Breaking News",
+      "source": "India Today",
+      "imageUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/fbi-213802997-16x9_0.jpeg?VersionId=WluRgDJ_ghvlZzjcpR7QWRBmjVSfTf45",
+      "publishedAt": "2026-11-21T03:40:52.000Z",
+      "sentAt": "2026-11-21T10:41:53.507Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-714360640883823338"
+    },
     {
       "notificationId": "trending-b859cd863bb7d478",
       "articleId": "b859cd863bb7d478",
@@ -1387,20 +1401,6 @@
       "publishedAt": "2026-10-26T13:45:36.000Z",
       "sentAt": "2026-10-26T18:49:09.150Z",
       "firebaseMessageId": "projects/newsteen75-af672/messages/-3134112561336790643"
-    },
-    {
-      "notificationId": "trending-6c24fa5f505446dd",
-      "articleId": "6c24fa5f505446dd",
-      "type": "trending_news",
-      "title": "🔥 Trending on NewsTeen75",
-      "body": "Heavy Rain Forces School Closures in Parts of Tamil Nadu; Red Alert Issued",
-      "sourceUrl": "https://ddindia.co.in/2026/10/heavy-rain-forces-school-closures-in-parts-of-tamil-nadu-red-alert-issued-for-theni/",
-      "category": "National & Trending News",
-      "source": "DD India",
-      "imageUrl": "https://ddindia.co.in/wp-content/uploads/2026/10/Rainy-Campus-Walk-Under-Umbrellas-1024x576.png",
-      "publishedAt": "2026-10-26T06:52:00.000Z",
-      "sentAt": "2026-10-26T12:22:44.997Z",
-      "firebaseMessageId": "projects/newsteen75-af672/messages/1567934137501100995"
     }
   ]
 }
