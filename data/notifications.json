@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-21T17:53:14.249Z",
+  "updatedAt": "2026-11-21T22:50:01.340Z",
   "count": 100,
   "notifications": [
+    {
+      "notificationId": "trending-4049ce162b829981",
+      "articleId": "4049ce162b829981",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Superfast 100 News | सुपरफास्ट बातम्या | 21 NOV | Amol Kolhe News",
+      "sourceUrl": "https://news18marathi.com/videos/maharashtra/superfast-100-news-21-nov-amol-kolhe-news-chhagan-bhujbal-news-mns-1838081.html",
+      "category": "National & Trending News",
+      "source": "News18 Marathi",
+      "imageUrl": "https://images.news18.com/news18marathi/uploads/2026/11/1795286823_2d384471-0bf1-42d4-bd6d-4e645044c97f-1200x675.jpeg",
+      "publishedAt": "2026-11-21T18:16:33.000Z",
+      "sentAt": "2026-11-21T22:50:00.610Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-5677359700951826754"
+    },
     {
       "notificationId": "trending-ed2d3133f670f3ae",
       "articleId": "ed2d3133f670f3ae",
@@ -1387,20 +1401,6 @@
       "publishedAt": "2026-10-26T22:35:43.000Z",
       "sentAt": "2026-10-27T02:18:58.764Z",
       "firebaseMessageId": "projects/newsteen75-af672/messages/7195844508657962610"
-    },
-    {
-      "notificationId": "trending-0e6b43ba1d133a30",
-      "articleId": "0e6b43ba1d133a30",
-      "type": "trending_news",
-      "title": "🔥 Trending on NewsTeen75",
-      "body": "Tragic Crash on Sorada-Aska Highway: 1 Dead, 6 Critically Injured Including Burla Doctor",
-      "sourceUrl": "https://pragativadi.com/tragic-crash-on-sorada-aska-highway-1-dead-6-critically-injured-including-burla-doctor-couple/",
-      "category": "National & Trending News",
-      "source": "Pragativadi",
-      "imageUrl": "https://pragativadi.com/wp-content/uploads/2026/10/buran.png",
-      "publishedAt": "2026-10-26T19:55:59.000Z",
-      "sentAt": "2026-10-26T23:02:49.657Z",
-      "firebaseMessageId": "projects/newsteen75-af672/messages/-6221900526017168463"
     }
   ]
 }
