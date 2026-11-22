@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-21T22:50:01.340Z",
+  "updatedAt": "2026-11-22T02:50:54.685Z",
   "count": 100,
   "notifications": [
+    {
+      "notificationId": "trending-1be7fea11f5f4a26",
+      "articleId": "1be7fea11f5f4a26",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Weather update: Heavy rain likely in Assam, Nagaland; dense fog warning for Uttar Pradesh",
+      "sourceUrl": "https://www.cnbctv18.com/india/environment/weather-update-heavy-rain-likely-in-assam-nagaland-dense-fog-warning-for-uttar-pradesh-20039070.htm",
+      "category": "National & Trending News",
+      "source": "CNBC TV18",
+      "imageUrl": "https://images.cnbctv18.com/uploads/2026/05/kolkata-rain-2026-05-4e8b4634de7e05a5a386c75979cc7dc3.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-11-21T23:30:53.000Z",
+      "sentAt": "2026-11-22T02:50:54.291Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-5242265887783801190"
+    },
     {
       "notificationId": "trending-4049ce162b829981",
       "articleId": "4049ce162b829981",
@@ -1387,20 +1401,6 @@
       "publishedAt": "2026-10-27T02:19:52.000Z",
       "sentAt": "2026-10-27T08:13:54.682Z",
       "firebaseMessageId": "projects/newsteen75-af672/messages/3178077747710915635"
-    },
-    {
-      "notificationId": "trending-36d108d5cd1e3a45",
-      "articleId": "36d108d5cd1e3a45",
-      "type": "trending_news",
-      "title": "🔥 Trending on NewsTeen75",
-      "body": "Nagaland Dear Lottery Result Today 24.10.2026 1 PM 6 PM 8 PM | Lottery",
-      "sourceUrl": "https://www.goodreturns.in/news/nagaland-dear-lottery-result-today-24-10-2026-1-pm-6-pm-8-pm-lottery-sambad-live-full-winners-list-1543261.html",
-      "category": "National & Trending News",
-      "source": "Goodreturns",
-      "imageUrl": "https://images.goodreturns.in/img/2026/10/nagalandstatelotteryresulttoday-95721792824591.jpg",
-      "publishedAt": "2026-10-26T22:35:43.000Z",
-      "sentAt": "2026-10-27T02:18:58.764Z",
-      "firebaseMessageId": "projects/newsteen75-af672/messages/7195844508657962610"
     }
   ]
 }
