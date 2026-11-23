@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-22T23:43:49.398Z",
+  "updatedAt": "2026-11-23T06:04:15.648Z",
   "count": 100,
   "notifications": [
+    {
+      "notificationId": "trending-20e6a2475fdd8a7d",
+      "articleId": "20e6a2475fdd8a7d",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Gold Rate Today in Sikkim, 23 Nov 2026",
+      "sourceUrl": "https://www.kotakneo.com/gold-rates/gold-rate-today-in-sikkim/",
+      "category": "National & Trending News",
+      "source": "Kotak Neo",
+      "imageUrl": "https://www.kotakneo.com/uploads/Gold_3685ec0da0.webp",
+      "publishedAt": "2026-11-22T22:45:57.000Z",
+      "sentAt": "2026-11-23T06:04:15.244Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-8143696961013298927"
+    },
     {
       "notificationId": "trending-714d6fc79424f486",
       "articleId": "714d6fc79424f486",
@@ -1387,20 +1401,6 @@
       "publishedAt": "2026-10-28T01:58:13.000Z",
       "sentAt": "2026-10-28T04:22:10.073Z",
       "firebaseMessageId": "projects/newsteen75-af672/messages/4157611500490020691"
-    },
-    {
-      "notificationId": "trending-4cdb012597de929c",
-      "articleId": "4cdb012597de929c",
-      "type": "trending_news",
-      "title": "🔥 Trending on NewsTeen75",
-      "body": "Ajay Kumar Gupta assumes charge as Delhi Transco MD",
-      "sourceUrl": "https://dailypioneer.com/india/ajay-kumar-gupta-assumes-charge-as-delhi-transco-md",
-      "category": "National & Trending News",
-      "source": "Daily Pioneer",
-      "imageUrl": "https://media.assettype.com/dailypioneer%2F2026-10-27%2Fz6i1blmm%2FAjay-Kumar-Gupta-assumes-charge-as-Delhi-Transco-MD.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2026-10-27T23:05:50.000Z",
-      "sentAt": "2026-10-27T23:33:14.149Z",
-      "firebaseMessageId": "projects/newsteen75-af672/messages/-7563367765558669883"
     }
   ]
 }
