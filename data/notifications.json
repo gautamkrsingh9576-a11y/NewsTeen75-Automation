@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-23T06:04:15.648Z",
+  "updatedAt": "2026-11-23T18:37:37.237Z",
   "count": 100,
   "notifications": [
+    {
+      "notificationId": "trending-33d1d103ee72edda",
+      "articleId": "33d1d103ee72edda",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Karnataka CM’s Japan visit: D.K. Shivakumar promises support for Toyota’s vehicle",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/karnataka-cms-japan-visit-dk-shivakumar-promises-support-for-toyotas-vehicle-manufacturing-expansion-plans-in-state/article71733691.ece",
+      "category": "National & Trending News",
+      "source": "The Hindu",
+      "imageUrl": "https://th-i.thgim.com/public/news/national/karnataka/gfq90s/article71733811.ece/alternates/LANDSCAPE_1200/DK%20Shivakumar%20Japan",
+      "publishedAt": "2026-11-23T07:29:44.000Z",
+      "sentAt": "2026-11-23T18:37:36.950Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/633595530455901948"
+    },
     {
       "notificationId": "trending-20e6a2475fdd8a7d",
       "articleId": "20e6a2475fdd8a7d",
@@ -1387,20 +1401,6 @@
       "publishedAt": "2026-10-28T08:31:07.000Z",
       "sentAt": "2026-10-28T10:44:25.928Z",
       "firebaseMessageId": "projects/newsteen75-af672/messages/-4159775630188362240"
-    },
-    {
-      "notificationId": "trending-ba13521671312d62",
-      "articleId": "ba13521671312d62",
-      "type": "trending_news",
-      "title": "🔥 Trending on NewsTeen75",
-      "body": "Cyclone Arnab Landfall: Trains, flights cancelled; Odisha, Andhra Pradesh and West Bengal",
-      "sourceUrl": "https://www.livemint.com/news/india/cyclone-arnab-landfall-trains-flights-cancelled-odisha-andhra-pradesh-and-west-bengal-on-alert-top-updates-11793151829616.html",
-      "category": "National & Trending News",
-      "source": "Livemint",
-      "imageUrl": "https://www.livemint.com/lm-img/img/2026/10/28/1600x900/logo/cyclone_1793152033801_HNYk_1793152050319_ydkC_bf5048cb-82f5-404c-aa96-414fdaf36c6b_xIWJ.jpg",
-      "publishedAt": "2026-10-28T01:58:13.000Z",
-      "sentAt": "2026-10-28T04:22:10.073Z",
-      "firebaseMessageId": "projects/newsteen75-af672/messages/4157611500490020691"
     }
   ]
 }
