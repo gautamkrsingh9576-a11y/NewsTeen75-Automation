@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-25T00:00:12.268Z",
+  "updatedAt": "2026-11-25T08:15:25.739Z",
   "count": 100,
   "notifications": [
+    {
+      "notificationId": "trending-50078477731950ef",
+      "articleId": "50078477731950ef",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Uttarakhand High Court Extends Protocol, Medical Facilities To Former Judges",
+      "sourceUrl": "https://www.dailyexcelsior.com/uttarakhand-high-court-extends-protocol-medical-facilities-to-former-judges/",
+      "category": "National & Trending News",
+      "source": "Daily Excelsior",
+      "imageUrl": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTViZmQyN2IwLWU4OTMtMTFmMS05NjM3LTViY2YwYzFjMTk4YS5qcGc=",
+      "publishedAt": "2026-11-25T05:45:01.000Z",
+      "sentAt": "2026-11-25T08:15:25.264Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-5372392142411537200"
+    },
     {
       "notificationId": "trending-42d19036f5628ccb",
       "articleId": "42d19036f5628ccb",
@@ -1387,20 +1401,6 @@
       "publishedAt": "2026-10-29T05:41:41.000Z",
       "sentAt": "2026-10-29T08:06:56.536Z",
       "firebaseMessageId": "projects/newsteen75-af672/messages/-5482640978741138717"
-    },
-    {
-      "notificationId": "trending-ed72203ff1cb6a09",
-      "articleId": "ed72203ff1cb6a09",
-      "type": "trending_news",
-      "title": "🔥 Trending on NewsTeen75",
-      "body": "Angh review: Theja Rio weighs progress against cultural loss in Nagaland",
-      "sourceUrl": "https://www.indiatoday.in/amp/movies/reviews/story/angh-review-theja-rio-weighs-progress-against-cultural-loss-in-nagaland-3027325-2026-10-29",
-      "category": "National & Trending News",
-      "source": "India Today",
-      "imageUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/cinema-angh-naga-29595377-16x9.jpg?VersionId=PIFK2BxWSVVPMp85Xgo3alSRFEeXg2_J",
-      "publishedAt": "2026-10-29T00:14:21.000Z",
-      "sentAt": "2026-10-29T01:35:32.092Z",
-      "firebaseMessageId": "projects/newsteen75-af672/messages/2368325419466009713"
     }
   ]
 }
