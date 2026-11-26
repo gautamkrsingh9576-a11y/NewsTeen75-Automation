@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-25T18:45:50.770Z",
+  "updatedAt": "2026-11-26T02:03:41.632Z",
   "count": 100,
   "notifications": [
+    {
+      "notificationId": "trending-61a7bcc9845d0079",
+      "articleId": "61a7bcc9845d0079",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "‘Stone crusher dust chokes wheat fields’: NGT seeks Haryana govt reply; Mahendergarh",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/gurgaon/stone-crusher-dust-chokes-wheat-fields-ngt-seeks-haryana-govt-reply-mahendergarh-farmer-seeks-environmental-damage-compensation-for-loss-caused-to-land-crops/articleshow/136171261.cms",
+      "category": "National & Trending News",
+      "source": "The Times of India",
+      "imageUrl": "https://static.toiimg.com/thumb/msid-136171204,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-11-26T00:37:00.000Z",
+      "sentAt": "2026-11-26T02:03:41.087Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/5544819175010049961"
+    },
     {
       "notificationId": "trending-38645e694c22733c",
       "articleId": "38645e694c22733c",
@@ -1387,20 +1401,6 @@
       "publishedAt": "2026-10-29T17:24:07.000Z",
       "sentAt": "2026-10-29T20:27:34.678Z",
       "firebaseMessageId": "projects/newsteen75-af672/messages/-2953809323850992719"
-    },
-    {
-      "notificationId": "trending-59f0ab6ac8305e56",
-      "articleId": "59f0ab6ac8305e56",
-      "type": "trending_news",
-      "title": "🔥 Trending on NewsTeen75",
-      "body": "Jharkhand man jailed in UAE after leaving job without notice, family seeks govt's help",
-      "sourceUrl": "https://www.indiatoday.in/india/story/uae-jail-jharkhand-worker-detained-four-months-after-leaving-job-ptag-3027401-2026-10-29",
-      "category": "National & Trending News",
-      "source": "India Today",
-      "imageUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/jail-293044648-16x9.png?VersionId=bRQVa6xuHjIq5N9U1muude6TNmOsfUI8",
-      "publishedAt": "2026-10-29T05:37:10.000Z",
-      "sentAt": "2026-10-29T15:25:37.125Z",
-      "firebaseMessageId": "projects/newsteen75-af672/messages/-5124064843522699874"
     }
   ]
 }
