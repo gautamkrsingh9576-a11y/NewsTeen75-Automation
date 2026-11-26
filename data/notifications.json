@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-26T11:18:51.780Z",
+  "updatedAt": "2026-11-26T20:24:16.344Z",
   "count": 100,
   "notifications": [
+    {
+      "notificationId": "trending-316ccf0580607df4",
+      "articleId": "316ccf0580607df4",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Delhi-Bihar Bus Network to Add 18 Year-Round Routes",
+      "sourceUrl": "https://urbanacres.in/delhi-bihar-bus-network-to-add-18-year-round-routes-ua091c09ce32d5795b/",
+      "category": "National & Trending News",
+      "source": "urbanacres.in",
+      "imageUrl": "https://urbanacres.in/wp-content/uploads/2026/11/urban-acres-news-315876.webp",
+      "publishedAt": "2026-11-26T18:40:59.000Z",
+      "sentAt": "2026-11-26T20:24:16.092Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-6305604892680332810"
+    },
     {
       "notificationId": "trending-5eee8f3699bacc07",
       "articleId": "5eee8f3699bacc07",
@@ -1387,20 +1401,6 @@
       "publishedAt": "2026-10-30T01:43:45.000Z",
       "sentAt": "2026-10-30T06:14:37.526Z",
       "firebaseMessageId": "projects/newsteen75-af672/messages/6822604408790764888"
-    },
-    {
-      "notificationId": "trending-a1b6c4e94d6dfd16",
-      "articleId": "a1b6c4e94d6dfd16",
-      "type": "trending_news",
-      "title": "🔥 Trending on NewsTeen75",
-      "body": "Tanush Kotian records career-best 8/81 as Mumbai crush Haryana by 10 wickets",
-      "sourceUrl": "https://www.dailyexcelsior.com/tanush-kotian-records-career-best-8-81-as-mumbai-crush-haryana-by-10-wickets/",
-      "category": "National & Trending News",
-      "source": "Daily Excelsior",
-      "imageUrl": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTZlNDVmZDMwLWQzZTgtMTFmMS1iYTAzLTc3OTVjZGZhOTdmZS5qcGc=",
-      "publishedAt": "2026-10-29T22:30:47.000Z",
-      "sentAt": "2026-10-30T00:10:36.500Z",
-      "firebaseMessageId": "projects/newsteen75-af672/messages/877750084975443016"
     }
   ]
 }
