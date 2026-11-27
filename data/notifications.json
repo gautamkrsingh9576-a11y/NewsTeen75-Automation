@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-27T03:04:38.022Z",
+  "updatedAt": "2026-11-27T12:57:18.026Z",
   "count": 100,
   "notifications": [
+    {
+      "notificationId": "trending-121415f6de09da9a",
+      "articleId": "121415f6de09da9a",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Himachal shifts from water cess politics to monetising surplus water, sets uniform rate",
+      "sourceUrl": "https://himachalscape.com/2026/11/27/himachal-shifts-from-water-cess-politics-to-monetising-surplus-water-sets-uniform-rate-for-inter-state-supply/",
+      "category": "National & Trending News",
+      "source": "Himachal Scape",
+      "imageUrl": "https://himachalscape.com/wp-content/uploads/2026/11/file_00000000d8ec821182de075253975dbf-1200x630.png",
+      "publishedAt": "2026-11-27T10:36:29.000Z",
+      "sentAt": "2026-11-27T12:57:17.823Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-649371685708946888"
+    },
     {
       "notificationId": "trending-c725b6866fa6afd5",
       "articleId": "c725b6866fa6afd5",
@@ -1387,20 +1401,6 @@
       "publishedAt": "2026-10-30T15:05:21.000Z",
       "sentAt": "2026-10-30T18:44:53.884Z",
       "firebaseMessageId": "projects/newsteen75-af672/messages/-8665761528786002792"
-    },
-    {
-      "notificationId": "trending-983fced7bc21ad07",
-      "articleId": "983fced7bc21ad07",
-      "type": "trending_news",
-      "title": "🔥 Trending on NewsTeen75",
-      "body": "Madhav National Park Welcomes 2 Tigers After The Loss Of Its Resident Tigers",
-      "sourceUrl": "https://curlytales.com/india/trending/madhav-national-park-welcomes-tigers-after-the-loss-of-its-resident-tigers-in/",
-      "category": "National & Trending News",
-      "source": "Curly Tales",
-      "imageUrl": "https://curlytales.com/wp-content/uploads/2026/10/Madhav-National-Park.jpg",
-      "publishedAt": "2026-10-30T08:06:42.000Z",
-      "sentAt": "2026-10-30T13:21:01.354Z",
-      "firebaseMessageId": "projects/newsteen75-af672/messages/-6288194789885332525"
     }
   ]
 }
