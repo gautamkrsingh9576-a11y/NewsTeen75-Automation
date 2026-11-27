@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-26T20:24:16.344Z",
+  "updatedAt": "2026-11-27T03:04:38.022Z",
   "count": 100,
   "notifications": [
+    {
+      "notificationId": "trending-c725b6866fa6afd5",
+      "articleId": "c725b6866fa6afd5",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Odisha infrastructure projects worth Rs 2,000 crore lined up for 2026–27",
+      "sourceUrl": "https://www.industryodisha.com/odisha-1/odisha-infrastructure-projects-worth-rs-2-000-crore-lined-up-for-2026-27",
+      "category": "National & Trending News",
+      "source": "Industry Odisha",
+      "imageUrl": "https://www.industryodisha.com/media-file/739",
+      "publishedAt": "2026-11-27T02:00:05.000Z",
+      "sentAt": "2026-11-27T03:04:37.672Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-2724940351167822911"
+    },
     {
       "notificationId": "trending-316ccf0580607df4",
       "articleId": "316ccf0580607df4",
@@ -1387,20 +1401,6 @@
       "publishedAt": "2026-10-30T08:06:42.000Z",
       "sentAt": "2026-10-30T13:21:01.354Z",
       "firebaseMessageId": "projects/newsteen75-af672/messages/-6288194789885332525"
-    },
-    {
-      "notificationId": "trending-ece18e6425dad2e0",
-      "articleId": "ece18e6425dad2e0",
-      "type": "trending_news",
-      "title": "🔥 Trending on NewsTeen75",
-      "body": "Delhi-NCR gets taste of winter after overnight rain, more showers in forecast",
-      "sourceUrl": "https://www.indiatoday.in/science/story/delhi-ncr-rain-lowers-temperature-improves-aqi-imd-thunderstorm-forecast-3028162-2026-10-30",
-      "category": "National & Trending News",
-      "source": "India Today",
-      "imageUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/rainy-weather-302447650-16x9_0.jpg?VersionId=cvTwBVVzB3XRpGmKdadq.ea2aiKQBHA7",
-      "publishedAt": "2026-10-30T01:43:45.000Z",
-      "sentAt": "2026-10-30T06:14:37.526Z",
-      "firebaseMessageId": "projects/newsteen75-af672/messages/6822604408790764888"
     }
   ]
 }
