@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-28T12:44:27.495Z",
+  "updatedAt": "2026-11-28T20:45:35.199Z",
   "count": 100,
   "notifications": [
+    {
+      "notificationId": "trending-a51951833a270dbb",
+      "articleId": "a51951833a270dbb",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "MPCC scouts for women candidates with 2027 local body, 2028 Assembly polls in mind",
+      "sourceUrl": "https://www.newindianexpress.com/states/madhya-pradesh/2026/Nov/28/mpcc-scouts-for-women-candidates-with-2027-local-body-2028-assembly-polls-in-mind",
+      "category": "National & Trending News",
+      "source": "The New Indian Express",
+      "imageUrl": "https://cf-images.assettype.com/newindianexpress%2F2026-11-28%2Fxra1qqqx%2F20250628086L.jpg?rect=0%2C697%2C3306%2C1736&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "publishedAt": "2026-11-28T18:19:07.000Z",
+      "sentAt": "2026-11-28T20:45:34.869Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/-3849488880439952709"
+    },
     {
       "notificationId": "trending-d5ff24a5e06a9c1e",
       "articleId": "d5ff24a5e06a9c1e",
@@ -1387,20 +1401,6 @@
       "publishedAt": "2026-10-31T08:52:28.000Z",
       "sentAt": "2026-10-31T15:06:35.552Z",
       "firebaseMessageId": "projects/newsteen75-af672/messages/7581703964842647053"
-    },
-    {
-      "notificationId": "trending-34c022e55052df80",
-      "articleId": "34c022e55052df80",
-      "type": "trending_news",
-      "title": "🔥 Trending on NewsTeen75",
-      "body": "Tripura Sports Department Issues Corrigendum for 301 Junior Physical Instructor Posts",
-      "sourceUrl": "https://tripurainfo.com/EnglishNews.aspx?intnid=9100&title=Tripura-Sports-Department-Issues-Corrigendum-for-301-Junior-Physical-Instructor-Posts-Revises-Category-Wise-Womens-Reservation",
-      "category": "National & Trending News",
-      "source": "TRIPURAINFO",
-      "imageUrl": "https://www.tripurainfo.com/TripuraNews/NewsPhotos/TRIPURAINFO-Pix-English-News-9100-31-10-2026.jpg",
-      "publishedAt": "2026-10-31T02:43:42.000Z",
-      "sentAt": "2026-10-31T08:41:12.933Z",
-      "firebaseMessageId": "projects/newsteen75-af672/messages/-6494731777191797215"
     }
   ]
 }
