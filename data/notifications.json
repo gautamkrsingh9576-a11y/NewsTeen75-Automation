@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-11-28T03:44:17.951Z",
+  "updatedAt": "2026-11-28T12:44:27.495Z",
   "count": 100,
   "notifications": [
+    {
+      "notificationId": "trending-d5ff24a5e06a9c1e",
+      "articleId": "d5ff24a5e06a9c1e",
+      "type": "trending_news",
+      "title": "🔥 Trending on NewsTeen75",
+      "body": "Terror plot targeting Delhi-NCR foiled, 'Jaish operative' held",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/delhi/terror-plot-targeting-delhi-ncr-foiled-jaish-operative-held/articleshow/136244077.cms",
+      "category": "National & Trending News",
+      "source": "The Times of India",
+      "imageUrl": "https://static.toiimg.com/thumb/msid-136244153,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-11-28T10:18:00.000Z",
+      "sentAt": "2026-11-28T12:44:27.267Z",
+      "firebaseMessageId": "projects/newsteen75-af672/messages/1995084178049757872"
+    },
     {
       "notificationId": "trending-c9646e6f6a25d44e",
       "articleId": "c9646e6f6a25d44e",
@@ -1387,20 +1401,6 @@
       "publishedAt": "2026-10-31T02:43:42.000Z",
       "sentAt": "2026-10-31T08:41:12.933Z",
       "firebaseMessageId": "projects/newsteen75-af672/messages/-6494731777191797215"
-    },
-    {
-      "notificationId": "trending-7ccf8b2081c6ee53",
-      "articleId": "7ccf8b2081c6ee53",
-      "type": "trending_news",
-      "title": "🔥 Trending on NewsTeen75",
-      "body": "Supreme Court warns against weaponising rape laws in broken relationships",
-      "sourceUrl": "https://www.news18.com/india/dont-weaponise-rape-law-in-broken-relationships-supreme-court-warns-against-misuse-ws-lrt-10405911.html",
-      "category": "Crime & Breaking News",
-      "source": "News18",
-      "imageUrl": "https://images.news18.com/ibnlive/uploads/2025/05/Untitled-design-2-2025-05-03adae734165e9b21801a2de7e259ec8-16x9.jpg",
-      "publishedAt": "2026-10-30T23:21:27.000Z",
-      "sentAt": "2026-10-31T02:03:42.041Z",
-      "firebaseMessageId": "projects/newsteen75-af672/messages/6712575950375527299"
     }
   ]
 }
